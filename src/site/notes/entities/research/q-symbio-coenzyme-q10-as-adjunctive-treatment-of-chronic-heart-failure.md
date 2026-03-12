@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:38:08.978280Z'
+created: '2026-03-12T06:00:34.232174Z'
 description: The Q-SYMBIO trial was a landmark multicenter, randomized, double-blind,
   placebo-controlled study demonstrating that CoQ10 supplementation (300 mg/day for
   2 years) significantly reduced cardiovascular mortality and hospitalizations in
@@ -7,8 +7,8 @@ description: The Q-SYMBIO trial was a landmark multicenter, randomized, double-b
   therapy in over a decade to improve survival in heart failure.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/research/q-symbio-coenzyme-q10-as-adjunctive-treatment-of-chronic-heart-failure/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/research/q-symbio-coenzyme-q10-as-adjunctive-treatment-of-chronic-heart-failure/
 slug: q-symbio-coenzyme-q10-as-adjunctive-treatment-of-chronic-heart-failure
 tags:
 - research
@@ -22,7 +22,7 @@ tags:
 templateEngineOverride: njk
 title: 'Q-SYMBIO: Coenzyme Q10 as adjunctive treatment of chronic heart failure'
 type: research
-updated: '2026-02-13T19:38:08.978280Z'
+updated: '2026-03-12T06:00:34.232174Z'
 ---
 
 {% raw %}
@@ -42,20 +42,8 @@ updated: '2026-02-13T19:38:08.978280Z'
 <p>The Q-SYMBIO trial was a landmark multicenter, randomized, double-blind, placebo-controlled study demonstrating that CoQ10 supplementation (300 mg/day for 2 years) significantly reduced cardiovascular mortality and hospitalizations in patients with chronic heart failure. This study established CoQ10 as the first adjunctive therapy in over a decade to improve survival in heart failure.</p>
 <h2>Keywords</h2>
 <p>CoQ10, coenzyme Q10, heart failure, cardiovascular mortality, mitochondria, ATP, ubiquinone</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <p>No relationships found.</p>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>STUDIES::<a href="/garden/dev_admin/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a> - Primary intervention (300 mg/day)<br />
-STUDIES::<a class="internal-link is-unresolved" href="/404">CoQ10</a> - Alternative supplement name reference<br />
-TREATS::<a href="/garden/dev_admin/condition/heart-failure/" class="internal-link">Heart Failure</a> - Target condition (NYHA class III-IV)<br />
-AFFECTS::<a class="internal-link is-unresolved" href="/404">Heart</a> - Target organ<br />
-INCREASES::<a class="internal-link is-unresolved" href="/404">ATP</a> - Mechanism: enhanced mitochondrial energy production<br />
-AFFECTS::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> - Primary site of action (electron transport chain)<br />
-DECREASES::<a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> - Reduced CV mortality outcome<br />
-INVOLVES::<a href="/garden/dev_admin/protein/cytochrome-c/" class="internal-link">Cytochrome C</a> - Electron transport chain component<br />
-RELATED_TO::<a href="/garden/dev_admin/protein/atp-synthase/" class="internal-link">ATP Synthase</a> - Terminal enzyme in oxidative phosphorylation</p>
 <h2>Methodology</h2>
 <pre><code class="language-yaml">design: Multicenter, randomized, double-blind, placebo-controlled trial
 centers: 17

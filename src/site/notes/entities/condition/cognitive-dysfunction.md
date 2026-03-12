@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.495612Z'
+created: '2026-03-12T06:00:32.328966Z'
 description: A deficit in intellectual functioning, including problems with memory,
   attention, language, thinking, and judgment.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/cognitive-dysfunction/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/cognitive-dysfunction/
 slug: cognitive-dysfunction
 tags:
 - condition
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Cognitive Dysfunction
 type: condition
-updated: '2026-02-13T19:38:05.495612Z'
+updated: '2026-03-12T06:00:32.328966Z'
 ---
 
 {% raw %}
@@ -30,32 +30,8 @@ updated: '2026-02-13T19:38:05.495612Z'
 <li><strong>Psychiatric:</strong> Major Depression (&quot;Pseudodementia&quot;), Anxiety.</li>
 <li><strong>Iatrogenic:</strong> Side effects of medications (e.g., anticholinergics).</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/cognitive-dysfunction/" class="internal-link">Cognitive_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.325068'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/cognitive-dysfunction/" class="internal-link">Cognitive_Dysfunction</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:32.772671'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Alzheimers Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Hypothyroidism</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Fatigue Syndrome</a><br />
-CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Sleep Deprivation</a><br />
-CAUSED_BY::<a href="/garden/dev_admin/condition/chronic-stress/" class="internal-link">Chronic Stress</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
-IMPROVED_BY_INTERVENTION::<a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a><br />
-IMPROVED_BY_INTERVENTION::<a href="/garden/dev_admin/intervention/mediterranean-diet/" class="internal-link">Mediterranean Diet</a></p>
+<p>No relationships found.</p>
 <h2>References</h2>
 <ul>
 <li>Petersen, R. C. (2011). Mild cognitive impairment. New England Journal of Medicine.</li>

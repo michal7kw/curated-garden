@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:06.257439Z'
+created: '2026-03-12T06:00:32.777745Z'
 description: Positron emission tomography using fluorodeoxyglucose to measure cerebral
   glucose metabolism. Reveals patterns of hypometabolism characteristic of different
   neurodegenerative diseases.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/examination/fdg-pet/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/examination/fdg-pet/
 slug: fdg-pet
 tags:
 - examination
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: FDG-PET
 type: examination
-updated: '2026-02-13T19:38:06.257439Z'
+updated: '2026-03-12T06:00:32.777745Z'
 ---
 
 {% raw %}
@@ -137,25 +137,19 @@ updated: '2026-02-13T19:38:06.257439Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Conditions</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Temporoparietal pattern</em></li>
-<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal Dementia</a> (condition) - <em>Frontal pattern</em></li>
-<li>→ <a href="/garden/dev_admin/condition/lewy-body-dementia/" class="internal-link">Lewy Body Dementia</a> (condition) - <em>Occipital involvement</em></li>
-<li>→ <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a> (condition) - <em>Patchy, multifocal</em></li>
-<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a> (condition) - <em>Predicts conversion</em></li>
-</ul>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal Dementia</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Lewy Body Dementia</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a></p>
 <h3>Related Imaging</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/examination/amyloid-pet-imaging/" class="internal-link">Amyloid PET Imaging</a> (examination) - <em>ATN A component</em></li>
-<li>→ <a href="/garden/dev_admin/examination/tau-pet-imaging/" class="internal-link">Tau PET Imaging</a> (examination) - <em>ATN T component</em></li>
-<li>→ <a href="/garden/dev_admin/examination/mri-volumetry/" class="internal-link">MRI Volumetry</a> (examination) - <em>Structural correlate</em></li>
-</ul>
+<p>RELATED_EXAMINATION::<a href="/garden/michal.k7w@gmail.com/examination/amyloid-pet-imaging/" class="internal-link">Amyloid PET Imaging</a><br />
+RELATED_EXAMINATION::<a href="/garden/michal.k7w@gmail.com/examination/tau-pet-imaging/" class="internal-link">Tau PET Imaging</a><br />
+RELATED_EXAMINATION::<a href="/garden/michal.k7w@gmail.com/examination/mri-volumetry/" class="internal-link">MRI Volumetry</a></p>
 <h3>Brain Regions</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/posterior-cingulate-cortex/" class="internal-link">Posterior Cingulate Cortex</a> (organ) - <em>Early AD involvement</em></li>
-<li>→ <a href="/garden/dev_admin/organ/precuneus/" class="internal-link">Precuneus</a> (organ) - <em>AD signature region</em></li>
-<li>→ <a href="/garden/dev_admin/organ/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a> (organ) - <em>FTD involvement</em></li>
-</ul>
+<p>AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Posterior Cingulate Cortex</a><br />
+AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Precuneus</a><br />
+AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a></p>
 <h2>Advantages and Limitations</h2>
 <h3>Advantages</h3>
 <ul>

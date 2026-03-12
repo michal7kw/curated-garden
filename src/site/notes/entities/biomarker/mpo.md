@@ -1,19 +1,19 @@
 ---
-created: '2026-02-13T19:38:04.908294Z'
+created: '2026-03-12T06:00:31.981167Z'
 description: Myeloperoxidase is a heme peroxidase enzyme released by activated neutrophils
   and monocytes. Elevated levels indicate oxidative stress and vascular inflammation,
   independently predicting acute coronary events and heart failure outcomes.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/mpo/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/mpo/
 slug: mpo
 tags:
 - biomarker
 templateEngineOverride: njk
 title: MPO
 type: biomarker
-updated: '2026-02-13T19:38:04.908294Z'
+updated: '2026-03-12T06:00:31.981167Z'
 ---
 
 {% raw %}
@@ -63,9 +63,9 @@ updated: '2026-02-13T19:38:04.908294Z'
 </ul>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
-<li><a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a> - May decrease MPO activity through antioxidant mechanisms (moderate effect, evidence level 3)</li>
-<li><a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin C</a> - Scavenges MPO-derived oxidants (mild effect, evidence level 3)</li>
-<li><a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> - May reduce neutrophil activation and MPO release (mild effect, evidence level 3)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/nac/" class="internal-link">NAC</a> - May decrease MPO activity through antioxidant mechanisms (moderate effect, evidence level 3)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/vitamin-c/" class="internal-link">Vitamin C</a> - Scavenges MPO-derived oxidants (mild effect, evidence level 3)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> - May reduce neutrophil activation and MPO release (mild effect, evidence level 3)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
@@ -74,19 +74,15 @@ updated: '2026-02-13T19:38:04.908294Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Correlations</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/oxidized-ldl/" class="internal-link">Oxidized LDL</a> (biomarker) - MPO directly oxidizes LDL particles</li>
-<li>→ <a href="/garden/dev_admin/biomarker/lp-pla2/" class="internal-link">Lp-PLA2</a> (biomarker) - Both indicate vascular-specific inflammation</li>
-<li>→ <a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a> (biomarker) - Complementary inflammatory markers</li>
-<li>→ <a href="/garden/dev_admin/labtest/white-blood-cell-count/" class="internal-link">White Blood Cell Count</a> (biomarker) - MPO released from activated leukocytes</li>
-<li>→ <a href="/garden/dev_admin/biomarker/troponin/" class="internal-link">Troponin</a> (biomarker) - MPO may rise before troponin in ACS</li>
-</ul>
+<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/oxidized-ldl/" class="internal-link">Oxidized_LDL</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/lp-pla2/" class="internal-link">Lp-PLA2</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/white-blood-cell-count/" class="internal-link">White_Blood_Cell_Count</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs_Crp</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/troponin/" class="internal-link">Troponin</a></p>
 <h3>Related Conditions</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> (condition)</li>
-<li>→ <a href="/garden/dev_admin/condition/heart-failure/" class="internal-link">Heart Failure</a> (condition)</li>
-<li>→ <a href="/garden/dev_admin/condition/atherosclerosis/" class="internal-link">Atherosclerosis</a> (condition)</li>
-</ul>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/heart-failure/" class="internal-link">Heart_Failure</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Atherosclerosis</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:16129825 - Brennan et al. (2003) MPO predicts coronary events in patients with chest pain</li>

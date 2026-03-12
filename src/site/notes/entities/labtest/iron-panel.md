@@ -1,18 +1,18 @@
 ---
-created: '2026-02-13T19:38:06.741532Z'
+created: '2026-03-12T06:00:33.185101Z'
 description: Measures serum iron, ferritin, TIBC, transferrin saturation. Essential
   for anemia workup and iron overload assessment.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/iron-panel/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/iron-panel/
 slug: iron-panel
 tags:
 - labtest
 templateEngineOverride: njk
 title: iron_panel
 type: labtest
-updated: '2026-02-13T19:38:06.741532Z'
+updated: '2026-03-12T06:00:33.185101Z'
 ---
 
 {% raw %}
@@ -67,10 +67,10 @@ updated: '2026-02-13T19:38:06.741532Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/dev_admin/biomarker/serum-iron/" class="internal-link">serum_iron</a></li>
-<li><a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">ferritin</a></li>
-<li><a href="/garden/dev_admin/biomarker/tibc/" class="internal-link">tibc</a></li>
-<li><a href="/garden/dev_admin/biomarker/transferrin-saturation/" class="internal-link">transferrin_saturation</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/biomarker/serum-iron/" class="internal-link">serum_iron</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/ferritin/" class="internal-link">ferritin</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/biomarker/tibc/" class="internal-link">tibc</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/biomarker/transferrin-saturation/" class="internal-link">transferrin_saturation</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -79,54 +79,13 @@ updated: '2026-02-13T19:38:06.741532Z'
 <p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">Ferritin</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:16.231051'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">Ferritin</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.277692'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/serum-iron/" class="internal-link">serum_iron</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.772492'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/tibc/" class="internal-link">tibc</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.772492'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/transferrin-saturation/" class="internal-link">transferrin_saturation</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.772492'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">ferritin</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.778690'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">ferritin</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.772492'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/ferritin/" class="internal-link">Ferritin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/tibc/" class="internal-link">tibc</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/ferritin/" class="internal-link">ferritin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/serum-iron/" class="internal-link">serum_iron</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/transferrin-saturation/" class="internal-link">transferrin_saturation</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

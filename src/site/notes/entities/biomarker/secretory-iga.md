@@ -1,20 +1,20 @@
 ---
-created: '2026-02-13T19:38:05.029299Z'
+created: '2026-03-12T06:00:32.130094Z'
 description: Secretory Immunoglobulin A is the predominant antibody in mucosal secretions,
   forming the first line of immune defense in the gut, respiratory tract, and other
   mucosal surfaces. It prevents pathogen adherence and neutralizes toxins without
   triggering inflammatory responses.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/secretory-iga/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/secretory-iga/
 slug: secretory-iga
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Secretory IgA
 type: biomarker
-updated: '2026-02-13T19:38:05.029299Z'
+updated: '2026-03-12T06:00:32.130094Z'
 ---
 
 {% raw %}
@@ -64,7 +64,7 @@ updated: '2026-02-13T19:38:05.029299Z'
 </ul>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
-<li><a href="/garden/dev_admin/supplement/probiotics/" class="internal-link">Probiotics</a> - Increases sIgA by stimulating mucosal immune cells (moderate effect, evidence level 3)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/probiotics/" class="internal-link">Probiotics</a> - Increases sIgA by stimulating mucosal immune cells (moderate effect, evidence level 3)</li>
 <li><a class="internal-link is-unresolved" href="/404">Glutamine</a> - Supports mucosal cell integrity and sIgA production (mild effect, evidence level 3)</li>
 <li><a class="internal-link is-unresolved" href="/404">Vitamin A</a> - Essential for mucosal immunity and IgA class switching (mild effect, evidence level 3)</li>
 <li><a class="internal-link is-unresolved" href="/404">Colostrum</a> - Contains sIgA and stimulates endogenous production (moderate effect, evidence level 3)</li>
@@ -72,24 +72,20 @@ updated: '2026-02-13T19:38:05.029299Z'
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li><a href="/garden/dev_admin/labtest/gi-map/" class="internal-link">gi map</a> - Includes fecal sIgA in comprehensive stool analysis</li>
-<li><a href="/garden/dev_admin/labtest/thorne-gut-health/" class="internal-link">thorne gut health</a> - Includes sIgA measurement</li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/gi-map/" class="internal-link">gi map</a> - Includes fecal sIgA in comprehensive stool analysis</li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/thorne-gut-health/" class="internal-link">thorne gut health</a> - Includes sIgA measurement</li>
 <li>Salivary sIgA test - Non-invasive saliva-based measurement</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Correlations</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/zonulin/" class="internal-link">Zonulin</a> (biomarker) - Gut permeability affects mucosal immune function</li>
-<li>→ <a href="/garden/dev_admin/biomarker/calprotectin/" class="internal-link">Calprotectin</a> (biomarker) - Both reflect gut immune status</li>
-<li>→ <a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a> (biomarker) - Chronic elevated cortisol suppresses sIgA</li>
-</ul>
 <h3>Related Conditions</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/iga-deficiency/" class="internal-link">IgA Deficiency</a> (condition)</li>
-<li>→ <a href="/garden/dev_admin/condition/inflammatory-bowel-disease/" class="internal-link">Inflammatory Bowel Disease</a> (condition)</li>
-<li>→ <a href="/garden/dev_admin/condition/celiac-disease/" class="internal-link">Celiac Disease</a> (condition)</li>
-<li>→ <a href="/garden/dev_admin/condition/recurrent-infections/" class="internal-link">Recurrent Infections</a> (condition)</li>
-</ul>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Recurrent_Infections</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Inflammatory_Bowel_Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">IgA_Deficiency</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Celiac_Disease</a></p>
+<h3>Correlations</h3>
+<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/zonulin/" class="internal-link">Zonulin</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/calprotectin/" class="internal-link">Calprotectin</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:25268742 - Mantis et al. (2011) Secretory IgA's complex roles at mucosal surfaces</li>

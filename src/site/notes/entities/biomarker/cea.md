@@ -1,19 +1,19 @@
 ---
-created: '2026-02-13T19:38:04.723304Z'
+created: '2026-03-12T06:00:31.855432Z'
 description: Carcinoembryonic antigen is a glycoprotein tumor marker used primarily
   for monitoring colorectal cancer treatment response and recurrence. It is not recommended
   as a primary screening tool due to limited sensitivity and specificity.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/cea/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/cea/
 slug: cea
 tags:
 - biomarker
 templateEngineOverride: njk
 title: CEA
 type: biomarker
-updated: '2026-02-13T19:38:04.723304Z'
+updated: '2026-03-12T06:00:31.855432Z'
 ---
 
 {% raw %}
@@ -71,14 +71,12 @@ updated: '2026-02-13T19:38:04.723304Z'
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li><a href="/garden/dev_admin/labtest/cea/" class="internal-link">cea</a> - Carcinoembryonic antigen measurement</li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/cea/" class="internal-link">cea</a> - Carcinoembryonic antigen measurement</li>
 </ul>
 <h2>Relationships</h2>
 <h3>Correlations</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/afp/" class="internal-link">AFP</a> (biomarker) - Co-measured tumor marker panel for GI malignancies</li>
-<li>→ <a href="/garden/dev_admin/labtest/ca-125/" class="internal-link">CA 125</a> (biomarker) - Multi-tumor marker panel for cancer staging</li>
-</ul>
+<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/ca-125/" class="internal-link">CA_125</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/afp/" class="internal-link">AFP</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:28407713 - ASCO guidelines for CEA use in colorectal cancer management</li>

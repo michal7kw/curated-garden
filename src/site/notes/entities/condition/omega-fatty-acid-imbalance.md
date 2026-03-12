@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.803398Z'
+created: '2026-03-12T06:00:32.506583Z'
 description: A dietary imbalance characterized by a deficiency of Omega-3 fatty acids
   and/or an excess of Omega-6 fatty acids, often promoting systemic inflammation.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/omega-fatty-acid-imbalance/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/omega-fatty-acid-imbalance/
 slug: omega-fatty-acid-imbalance
 tags:
 - condition
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Omega Fatty Acid Imbalance
 type: condition
-updated: '2026-02-13T19:38:05.803398Z'
+updated: '2026-03-12T06:00:32.506583Z'
 ---
 
 {% raw %}
@@ -28,31 +28,8 @@ updated: '2026-02-13T19:38:05.803398Z'
 <li><strong>Omega-3 Index:</strong> Measurement of EPA and DHA in red blood cell membranes.</li>
 <li><strong>Omega-6/Omega-3 Ratio:</strong> Ideal ratio is considered to be between 1:1 and 4:1.</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/omega-fatty-acid-imbalance/" class="internal-link">Omega_Fatty_Acid_Imbalance</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:48.302266'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/omega-fatty-acid-imbalance/" class="internal-link">Omega_Fatty_Acid_Imbalance</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:51.409774'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/inflammation/" class="internal-link">Inflammation</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Blood Vessel</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
-ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/omega3-index/" class="internal-link">Omega3 Index</a><br />
-ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/biomarker/aa-epa-ratio/" class="internal-link">AA Epa Ratio</a> - Arachidonic Acid to EPA ratio.<br />
-IMPROVED_BY_INTERVENTION::<a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> supplementation.</p>
+<p>No relationships found.</p>
 <h2>References</h2>
 <ul>
 <li>Simopoulos, A. P. (2002). The importance of the ratio of omega-6/omega-3 essential fatty acids. Biomedicine &amp; Pharmacotherapy.</li>

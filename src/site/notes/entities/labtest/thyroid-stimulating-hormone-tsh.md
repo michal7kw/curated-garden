@@ -1,20 +1,20 @@
 ---
-created: '2026-02-13T19:38:07.050794Z'
+created: '2026-03-12T06:00:33.459174Z'
 description: Thyroid-stimulating hormone (TSH) is made by the pituitary gland and
   signals the thyroid to produce T4 and T3. Because TSH rises when thyroid hormone
   levels are low and falls when they are high, measuring TSH is one of the most useful
   ways to assess whether the thyroid is underactive, overactive, or functioning normally.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/thyroid-stimulating-hormone-tsh/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/thyroid-stimulating-hormone-tsh/
 slug: thyroid-stimulating-hormone-tsh
 tags:
 - labtest
 templateEngineOverride: njk
 title: thyroid_stimulating_hormone_tsh
 type: labtest
-updated: '2026-02-13T19:38:07.050794Z'
+updated: '2026-03-12T06:00:33.459174Z'
 ---
 
 {% raw %}
@@ -61,108 +61,26 @@ updated: '2026-02-13T19:38:07.050794Z'
 <ul>
 <li><a class="internal-link is-unresolved" href="/404">Hypothyroidism (E.G. Hashimoto’S Disease)</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Hyperthyroidism (E.G. Graves’ Disease, Toxic Nodular Goiter)</a></li>
-<li><a href="/garden/dev_admin/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical Hypothyroidism</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical Hypothyroidism</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Dyslipidemia Or High Cholesterol</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Bone Loss Or Osteoporosis</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Bone_Loss_Or_Osteoporosis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.033616'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Hyperthyroidism_EG_Graves_Disease_Toxic_Nodular_Goiter</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.033616'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Hypothyroidism_EG_HashimotoS_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.033616'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Dyslipidemia_Or_High_Cholesterol</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.033616'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.033616'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Bone_Loss_Or_Osteoporosis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.608706'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Hyperthyroidism_EG_Graves_Disease_Toxic_Nodular_Goiter</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.608706'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Dyslipidemia_Or_High_Cholesterol</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.608706'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Hypothyroidism_EG_HashimotoS_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.608706'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.608706'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.644052'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.033616'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:37.892532'
-source: obsidian
-</code></pre>
-<h3>May Detect</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Dyslipidemia_Or_High_Cholesterol</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">extended_thyroid_health</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Bone_Loss_Or_Osteoporosis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hyperthyroidism_EG_Graves_Disease_Toxic_Nodular_Goiter</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hypothyroidism_EG_HashimotoS_Disease</a></p>
+<h3>Conditions</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a></p>
 <h3>Included In</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a> (labtestpanel)</li>
-</ul>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">extended_thyroid_health</a></p>
+<h3>May Detect</h3>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

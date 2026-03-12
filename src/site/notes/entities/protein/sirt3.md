@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:08.916345Z'
+created: '2026-03-12T06:00:34.175744Z'
 description: Sirtuin 3, the primary mitochondrial NAD+-dependent deacetylase. Regulates
   mitochondrial metabolism, oxidative stress responses, and cellular energy homeostasis.
   Key player in metabolic adaptation to fasting, exercise, and caloric restriction.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/protein/sirt3/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/protein/sirt3/
 slug: sirt3
 tags:
 - protein
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: SIRT3
 type: protein
-updated: '2026-02-13T19:38:08.916345Z'
+updated: '2026-03-12T06:00:34.175744Z'
 ---
 
 {% raw %}
@@ -84,35 +84,9 @@ updated: '2026-02-13T19:38:08.916345Z'
 <li>CR and exercise maintain SIRT3 expression</li>
 <li>SIRT3 knockout mice show accelerated aging phenotypes</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:49:04.570766'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:19.549791'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>REQUIRES_COFACTOR::<a class="internal-link is-unresolved" href="/404">NAD+</a> - Essential for catalytic activity<br />
-LOCATED_IN::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> - Exclusively mitochondrial matrix protein<br />
-ACTIVATED_BY::<a href="/garden/dev_admin/intervention/caloric-restriction/" class="internal-link">Caloric Restriction</a> - Upregulated during CR<br />
-ACTIVATED_BY::<a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a> - Increased expression with training<br />
-ACTIVATED_BY::<a href="/garden/dev_admin/intervention/intermittent-fasting/" class="internal-link">Intermittent Fasting</a> - Metabolic stress induces SIRT3<br />
-ACTIVATED_BY::<a href="/garden/dev_admin/supplement/nicotinamide-riboside/" class="internal-link">Nicotinamide Riboside</a> - Via mitochondrial NAD+ elevation<br />
-PARTICIPATES_IN_PATHWAY::<a href="/garden/dev_admin/pathway/electron-transport-chain/" class="internal-link">Electron Transport Chain</a> - Regulates ETC complexes<br />
-PARTICIPATES_IN_PATHWAY::<a href="/garden/dev_admin/pathway/nad-salvage-pathway/" class="internal-link">NAD+ Salvage Pathway</a> - NAD+ consumer<br />
-SUPPORTS::<a href="/garden/dev_admin/pathway/autophagy/" class="internal-link">Autophagy</a> - Mitochondrial quality control<br />
-RELATED_TO::<a href="/garden/dev_admin/protein/sirt1/" class="internal-link">SIRT1</a> - Nuclear sirtuin family member<br />
-RELATED_TO::<a href="/garden/dev_admin/protein/nampt/" class="internal-link">NAMPT</a> - NAD+ salvage enzyme<br />
-ENCODED_BY::<a href="/garden/dev_admin/protein/sirt3/" class="internal-link">SIRT3</a> - SIRT3 gene</p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 <h2>References</h2>
 <ul>
 <li>Lombard DB, et al. Mammalian Sir2 homolog SIRT3 regulates global mitochondrial lysine acetylation. Mol Cell Biol. 2007;27(24):8807-14. PMID: 17923681</li>

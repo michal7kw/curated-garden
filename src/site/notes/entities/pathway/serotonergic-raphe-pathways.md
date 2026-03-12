@@ -1,16 +1,16 @@
 ---
-created: '2026-02-13T19:38:08.003967Z'
+created: '2026-03-12T06:00:33.892270Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/pathway/serotonergic-raphe-pathways/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/pathway/serotonergic-raphe-pathways/
 slug: serotonergic-raphe-pathways
 tags:
 - pathway
 templateEngineOverride: njk
 title: Serotonergic Raphe Pathways
 type: pathway
-updated: '2026-02-13T19:38:08.003967Z'
+updated: '2026-03-12T06:00:33.892270Z'
 ---
 
 {% raw %}
@@ -417,5 +417,9 @@ updated: '2026-02-13T19:38:08.003967Z'
 </ul>
 <h2>Summary</h2>
 <p>The serotonergic raphe pathways originate from brainstem raphe nuclei and project throughout the brain and spinal cord, regulating mood, anxiety, sleep, appetite, pain, and impulse control. Dysfunction of these pathways contributes to depression, anxiety disorders, OCD, sleep disturbances, and migraine. SSRIs (selective serotonin reuptake inhibitors) are first-line treatments that increase synaptic serotonin and promote neuroplasticity over weeks. Evidence-based supplements that may support serotonergic function include 5-HTP (serotonin precursor, 3/5 - AVOID with SSRIs), omega-3 fatty acids (EPA-rich adjunctive antidepressant, 4/5), SAM-e (rapid antidepressant, 4/5), saffron (mild-moderate depression, 4/5), and St. John's Wort (effective but extensive drug interactions, 4/5). Lifestyle interventions prioritizing regular exercise, sunlight exposure, balanced nutrition with adequate tryptophan, good sleep hygiene, stress management, social connection, and mindfulness meditation are foundational for maintaining healthy serotonergic function and emotional well-being.</p>
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 
 {% endraw %}

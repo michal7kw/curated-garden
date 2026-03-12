@@ -1,17 +1,17 @@
 ---
-created: '2026-02-13T19:38:07.140779Z'
+created: '2026-03-12T06:00:33.656154Z'
 description: Essential mineral for immune function, wound healing, and enzyme activity.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/zinc-serum/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/zinc-serum/
 slug: zinc-serum
 tags:
 - labtest
 templateEngineOverride: njk
 title: zinc_serum
 type: labtest
-updated: '2026-02-13T19:38:07.140779Z'
+updated: '2026-03-12T06:00:33.656154Z'
 ---
 
 {% raw %}
@@ -60,7 +60,7 @@ updated: '2026-02-13T19:38:07.140779Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/dev_admin/supplement/zinc/" class="internal-link">zinc</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/zinc/" class="internal-link">zinc</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -69,24 +69,9 @@ updated: '2026-02-13T19:38:07.140779Z'
 <p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">zinc</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.979746'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">zinc</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.018670'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/zinc/" class="internal-link">zinc</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

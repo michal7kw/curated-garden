@@ -1,10 +1,10 @@
 ---
-created: '2026-02-13T19:38:06.340847Z'
+created: '2026-03-12T06:00:32.854617Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/gene/rad21/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/gene/rad21/
 slug: rad21
 tags:
 - gene
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: RAD21
 type: gene
-updated: '2026-02-13T19:38:06.340847Z'
+updated: '2026-03-12T06:00:32.854617Z'
 ---
 
 {% raw %}

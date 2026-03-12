@@ -1,19 +1,19 @@
 ---
-created: '2026-02-13T19:38:07.137029Z'
+created: '2026-03-12T06:00:33.653417Z'
 description: Tested twice a year Yeast in the urine, most often Candida species, may
   sometimes reflect contamination from the skin or genital area, but persistent presence
   often signals a fungal urinary tract infection (UTI) known as candiduria.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/yeast-urine/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/yeast-urine/
 slug: yeast-urine
 tags:
 - labtest
 templateEngineOverride: njk
 title: yeast_urine
 type: labtest
-updated: '2026-02-13T19:38:07.137029Z'
+updated: '2026-03-12T06:00:33.653417Z'
 ---
 
 {% raw %}
@@ -66,72 +66,13 @@ updated: '2026-02-13T19:38:07.137029Z'
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Poor_Glucose_Control</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.758720'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Immune_Deficiency</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.758720'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Urinary_Tract_Infection_Secondary_Yeast_Involvement</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.758720'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Medication_Effect_EG_Antibiotics_Or_Steroids</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.758720'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Yeast_Infection_Candidiasis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.758720'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Poor_Glucose_Control</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.922942'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Immune_Deficiency</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.922942'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Urinary_Tract_Infection_Secondary_Yeast_Involvement</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.922942'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Yeast_Infection_Candidiasis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.922942'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Medication_Effect_EG_Antibiotics_Or_Steroids</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.922942'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Yeast_Infection_Candidiasis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Immune_Deficiency</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Poor_Glucose_Control</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Medication_Effect_EG_Antibiotics_Or_Steroids</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Urinary_Tract_Infection_Secondary_Yeast_Involvement</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

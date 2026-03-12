@@ -1,17 +1,17 @@
 ---
-created: '2026-02-13T19:38:09.209858Z'
+created: '2026-03-12T06:00:34.352988Z'
 description: Test supplement for content preservation
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/supplement/test-content-preservation/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/supplement/test-content-preservation/
 slug: test-content-preservation
 tags:
 - supplement
 templateEngineOverride: njk
 title: Test Content Preservation
 type: supplement
-updated: '2026-02-13T19:38:09.209858Z'
+updated: '2026-03-12T06:00:34.352988Z'
 ---
 
 {% raw %}
@@ -27,12 +27,8 @@ updated: '2026-02-13T19:38:09.209858Z'
 </ul>
 <h2>Dosage Notes</h2>
 <p>Custom dosage notes here that I added manually.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <p>No relationships found.</p>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>Old relationships here that should be replaced.</p>
 <h2>References</h2>
 <p>My custom references section.</p>
 

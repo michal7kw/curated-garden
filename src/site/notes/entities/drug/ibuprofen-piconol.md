@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:06.132198Z'
+created: '2026-03-12T06:00:32.677769Z'
 description: A topical derivative of ibuprofen used primarily for the treatment of
   acne vulgaris and skin inflammation.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/drug/ibuprofen-piconol/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/drug/ibuprofen-piconol/
 slug: ibuprofen-piconol
 tags:
 - drug
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Ibuprofen Piconol
 type: drug
-updated: '2026-02-13T19:38:06.132198Z'
+updated: '2026-03-12T06:00:32.677769Z'
 ---
 
 {% raw %}
@@ -27,14 +27,8 @@ updated: '2026-02-13T19:38:06.132198Z'
 <li><strong>Acne Vulgaris.</strong></li>
 <li><strong>Skin Inflammation.</strong></li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <p>No relationships found.</p>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>TREATS_CONDITION::<a href="/garden/dev_admin/condition/acne-vulgaris/" class="internal-link">Acne Vulgaris</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/inflammation/" class="internal-link">Inflammation</a><br />
-DRUG_CONTAINS_COMPOUND::<a href="/garden/dev_admin/drug/ibuprofen/" class="internal-link">Ibuprofen</a></p>
 <h2>References</h2>
 <ul>
 <li>Ito, M., et al. (1991). Clinical evaluation of 3% ibuprofen piconol (BE-100) lotion in the treatment of acne vulgaris.</li>

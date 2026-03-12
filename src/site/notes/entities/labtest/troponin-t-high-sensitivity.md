@@ -1,19 +1,19 @@
 ---
-created: '2026-02-13T19:38:07.096240Z'
+created: '2026-03-12T06:00:33.610089Z'
 description: High-sensitivity cardiac troponin T (hs-cTnT) test. Gold standard cardiac
   biomarker for detecting myocardial injury. Used in the diagnosis of acute myocardial
   infarction and prognostication in heart failure.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/troponin-t-high-sensitivity/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/troponin-t-high-sensitivity/
 slug: troponin-t-high-sensitivity
 tags:
 - labtest
 templateEngineOverride: njk
 title: troponin_t_high_sensitivity
 type: labtest
-updated: '2026-02-13T19:38:07.096240Z'
+updated: '2026-03-12T06:00:33.610089Z'
 ---
 
 {% raw %}
@@ -98,21 +98,20 @@ updated: '2026-02-13T19:38:07.096240Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li><a href="/garden/dev_admin/condition/myocardial-infarction/" class="internal-link">Myocardial Infarction</a></li>
-<li><a href="/garden/dev_admin/condition/heart-failure/" class="internal-link">Heart Failure</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/myocardial-infarction/" class="internal-link">Myocardial Infarction</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/heart-failure/" class="internal-link">Heart Failure</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Acute Coronary Syndrome</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Myocarditis</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Cardiac Contusion</a></li>
 </ul>
 <h2>Relationships</h2>
+<h3>Conditions</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/myocardial-infarction/" class="internal-link">Myocardial_Infarction</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/heart-failure/" class="internal-link">Heart_Failure</a></p>
 <h3>Measures</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/troponin/" class="internal-link">Troponin</a> (biomarker)</li>
-</ul>
+<p>MEASURES::<a href="/garden/michal.k7w@gmail.com/biomarker/troponin/" class="internal-link">Troponin</a></p>
 <h3>Included In</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/cardiac-biomarker-panel/" class="internal-link">cardiac biomarker panel</a> (labtestpanel)</li>
-</ul>
+<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">cardiac_biomarker_panel</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

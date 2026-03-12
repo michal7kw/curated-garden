@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:07.880059Z'
+created: '2026-03-12T06:00:33.783616Z'
 description: A biological phenomenon where a beneficial effect results from exposure
   to low doses of an agent that is otherwise toxic or lethal at higher doses. The
   "what doesn't kill you makes you stronger" mechanism.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/pathway/hormesis/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/pathway/hormesis/
 slug: hormesis
 tags:
 - pathway
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Hormesis
 type: pathway
-updated: '2026-02-13T19:38:07.880059Z'
+updated: '2026-03-12T06:00:33.783616Z'
 ---
 
 {% raw %}
@@ -50,19 +50,22 @@ updated: '2026-02-13T19:38:07.880059Z'
 <li><strong>Protein Damage:</strong> Misfolding triggers the Unfolded Protein Response (UPR).</li>
 </ul>
 <h2>Relationships</h2>
-<p>ACTIVATES::<a href="/garden/dev_admin/pathway/nrf2-pathway/" class="internal-link">Nrf2 Pathway</a> - Via oxidative stress signal<br />
-ACTIVATES::<a href="/garden/dev_admin/pathway/ampk-pathway/" class="internal-link">AMPK Pathway</a> - Via energy depletion<br />
-ACTIVATES::<a href="/garden/dev_admin/protein/sirt1/" class="internal-link">SIRT1</a> - Via NAD+ elevation<br />
-ACTIVATES::<a href="/garden/dev_admin/pathway/autophagy/" class="internal-link">Autophagy</a> - Cellular cleanup<br />
-ACTIVATES::<a class="internal-link is-unresolved" href="/404">Heat Shock Proteins</a><br />
-INDUCED_BY::<a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a><br />
-INDUCED_BY::<a href="/garden/dev_admin/intervention/intermittent-fasting/" class="internal-link">Intermittent Fasting</a><br />
-INDUCED_BY::<a href="/garden/dev_admin/intervention/cold-exposure/" class="internal-link">Cold Exposure</a><br />
-INDUCED_BY::<a class="internal-link is-unresolved" href="/404">Sauna</a><br />
-INDUCED_BY::<a href="/garden/dev_admin/supplement/sulforaphane/" class="internal-link">Sulforaphane</a><br />
-INDUCED_BY::<a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a><br />
-INDUCED_BY::<a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a><br />
-OPPOSITE_OF::<a href="/garden/dev_admin/condition/chronic-stress/" class="internal-link">Chronic Stress</a> - Which exceeds adaptive capacity</p>
+<h3>Opposite Of</h3>
+<p>OPPOSITE_OF::<a href="/garden/michal.k7w@gmail.com/condition/chronic-stress/" class="internal-link">Chronic_Stress</a></p>
+<h3>Activates</h3>
+<p>ACTIVATES::<a class="internal-link is-unresolved" href="/404">Heat_Shock_Proteins</a><br />
+ACTIVATES::<a href="/garden/michal.k7w@gmail.com/protein/sirt1/" class="internal-link">SIRT1</a><br />
+ACTIVATES::<a href="/garden/michal.k7w@gmail.com/pathway/ampk-pathway/" class="internal-link">AMPK_Pathway</a><br />
+ACTIVATES::<a href="/garden/michal.k7w@gmail.com/pathway/nrf2-pathway/" class="internal-link">Nrf2_Pathway</a><br />
+ACTIVATES::<a href="/garden/michal.k7w@gmail.com/pathway/autophagy/" class="internal-link">Autophagy</a></p>
+<h3>Induced By</h3>
+<p>INDUCED_BY::<a href="/garden/michal.k7w@gmail.com/supplement/sulforaphane/" class="internal-link">Sulforaphane</a><br />
+INDUCED_BY::<a href="/garden/michal.k7w@gmail.com/supplement/resveratrol/" class="internal-link">Resveratrol</a><br />
+INDUCED_BY::<a href="/garden/michal.k7w@gmail.com/supplement/curcumin/" class="internal-link">Curcumin</a><br />
+INDUCED_BY::<a href="/garden/michal.k7w@gmail.com/intervention/intermittent-fasting/" class="internal-link">Intermittent_Fasting</a><br />
+INDUCED_BY::<a href="/garden/michal.k7w@gmail.com/intervention/sauna/" class="internal-link">Sauna</a><br />
+INDUCED_BY::<a href="/garden/michal.k7w@gmail.com/intervention/exercise/" class="internal-link">Exercise</a><br />
+INDUCED_BY::<a href="/garden/michal.k7w@gmail.com/intervention/cold-exposure/" class="internal-link">Cold_Exposure</a></p>
 <h2>References</h2>
 <ul>
 <li>Mattson MP. Hormesis: how it works and why it matters. Int J Mol Sci. 2008.</li>

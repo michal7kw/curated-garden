@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:06.221613Z'
+created: '2026-03-12T06:00:32.742640Z'
 description: Seed Amplification Assay (formerly RT-QuIC) that detects misfolded alpha-synuclein
   in CSF or tissue with >95% sensitivity and specificity for synucleinopathies. FDA
   approved in 2024, revolutionizing Parkinson's disease diagnosis.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/examination/alpha-synuclein-saa/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/examination/alpha-synuclein-saa/
 slug: alpha-synuclein-saa
 tags:
 - examination
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Alpha-Synuclein SAA
 type: examination
-updated: '2026-02-13T19:38:06.221613Z'
+updated: '2026-03-12T06:00:32.742640Z'
 ---
 
 {% raw %}
@@ -170,29 +170,21 @@ updated: '2026-02-13T19:38:06.221613Z'
 </table>
 <h2>Relationships</h2>
 <h3>Conditions (Positive SAA)</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a> (condition) - <em>Confirmatory test</em></li>
-<li>→ <a href="/garden/dev_admin/condition/lewy-body-dementia/" class="internal-link">Lewy Body Dementia</a> (condition) - <em>High sensitivity</em></li>
-<li>→ <a href="/garden/dev_admin/condition/multiple-system-atrophy/" class="internal-link">Multiple System Atrophy</a> (condition) - <em>Usually positive</em></li>
-<li>→ <a href="/garden/dev_admin/condition/rem-sleep-behavior-disorder/" class="internal-link">REM Sleep Behavior Disorder</a> (condition) - <em>Prodromal marker</em></li>
-</ul>
+<p>CONDITIONS_(POSITIVE_SAA)::<a href="/garden/michal.k7w@gmail.com/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a><br />
+CONDITIONS_(POSITIVE_SAA)::<a class="internal-link is-unresolved" href="/404">Lewy Body Dementia</a><br />
+CONDITIONS_(POSITIVE_SAA)::<a class="internal-link is-unresolved" href="/404">Multiple System Atrophy</a><br />
+CONDITIONS_(POSITIVE_SAA)::<a class="internal-link is-unresolved" href="/404">REM Sleep Behavior Disorder</a></p>
 <h3>Conditions (Negative SAA)</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/essential-tremor/" class="internal-link">Essential Tremor</a> (condition) - <em>Helps exclude PD</em></li>
-<li>→ <a href="/garden/dev_admin/condition/progressive-supranuclear-palsy/" class="internal-link">Progressive Supranuclear Palsy</a> (condition) - <em>Negative (tauopathy)</em></li>
-<li>→ <a href="/garden/dev_admin/condition/corticobasal-degeneration/" class="internal-link">Corticobasal Degeneration</a> (condition) - <em>Negative (tauopathy)</em></li>
-<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Negative (unless Lewy copathology)</em></li>
-</ul>
+<p>CONDITIONS_(NEGATIVE_SAA)::<a class="internal-link is-unresolved" href="/404">Essential Tremor</a><br />
+CONDITIONS_(NEGATIVE_SAA)::<a class="internal-link is-unresolved" href="/404">Progressive Supranuclear Palsy</a><br />
+CONDITIONS_(NEGATIVE_SAA)::<a class="internal-link is-unresolved" href="/404">Corticobasal Degeneration</a><br />
+CONDITIONS_(NEGATIVE_SAA)::<a href="/garden/michal.k7w@gmail.com/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a></p>
 <h3>Related Biomarkers</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a> (biomarker) - <em>Neurodegeneration complement</em></li>
-<li>→ <a href="/garden/dev_admin/examination/dat-spect/" class="internal-link">DAT-SPECT</a> (examination) - <em>Dopamine imaging</em></li>
-<li>→ <a href="/garden/dev_admin/biomarker/blood-nfl/" class="internal-link">Blood NfL</a> (biomarker) - <em>Accessible complement</em></li>
-</ul>
+<p>RELATED_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a><br />
+RELATED_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/examination/dat-spect/" class="internal-link">DAT-SPECT</a><br />
+RELATED_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/biomarker/blood-nfl/" class="internal-link">Blood NfL</a></p>
 <h3>Pathways</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein Aggregation</a> (pathway) - <em>Directly detected</em></li>
-</ul>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein Aggregation</a></p>
 <h2>Integration with Other Diagnostics</h2>
 <h3>Proposed Diagnostic Algorithm (2025)</h3>
 <pre><code>Clinical Parkinsonism

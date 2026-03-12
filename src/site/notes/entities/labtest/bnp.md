@@ -1,19 +1,19 @@
 ---
-created: '2026-02-13T19:38:06.536930Z'
+created: '2026-03-12T06:00:33.013796Z'
 description: B-type Natriuretic Peptide (BNP) test. Neurohormonal biomarker released
   by ventricular cardiomyocytes in response to myocardial wall stress. Used for heart
   failure screening, diagnosis, and monitoring of treatment response.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/bnp/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/bnp/
 slug: bnp
 tags:
 - labtest
 templateEngineOverride: njk
 title: bnp
 type: labtest
-updated: '2026-02-13T19:38:06.536930Z'
+updated: '2026-03-12T06:00:33.013796Z'
 ---
 
 {% raw %}
@@ -98,21 +98,20 @@ updated: '2026-02-13T19:38:06.536930Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li><a href="/garden/dev_admin/condition/heart-failure/" class="internal-link">Heart Failure</a></li>
-<li><a href="/garden/dev_admin/phenotype/dyspnea/" class="internal-link">Dyspnea</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/heart-failure/" class="internal-link">Heart Failure</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/phenotype/dyspnea/" class="internal-link">Dyspnea</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Cardiomyopathy</a></li>
-<li><a href="/garden/dev_admin/condition/pulmonary-hypertension/" class="internal-link">Pulmonary Hypertension</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/pulmonary-hypertension/" class="internal-link">Pulmonary Hypertension</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Valvular Heart Disease</a></li>
 </ul>
 <h2>Relationships</h2>
+<h3>Conditions</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/pulmonary-hypertension/" class="internal-link">Pulmonary_Hypertension</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/heart-failure/" class="internal-link">Heart_Failure</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/phenotype/dyspnea/" class="internal-link">Dyspnea</a></p>
 <h3>Measures</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/bnp/" class="internal-link">BNP</a> (biomarker)</li>
-</ul>
 <h3>Included In</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/cardiac-biomarker-panel/" class="internal-link">cardiac biomarker panel</a> (labtestpanel)</li>
-</ul>
+<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">cardiac_biomarker_panel</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

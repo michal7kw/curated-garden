@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:06.458785Z'
+created: '2026-03-12T06:00:32.950457Z'
 description: Tested twice a year Albumin is the most abundant protein in the blood
   and plays a vital role in maintaining fluid balance and transporting nutrients.
   Healthy albumin levels are a good indicator of liver function and overall health.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/albumin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/albumin/
 slug: albumin
 tags:
 - labtest
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: albumin
 type: labtest
-updated: '2026-02-13T19:38:06.458785Z'
+updated: '2026-03-12T06:00:32.950457Z'
 ---
 
 {% raw %}
@@ -61,136 +61,28 @@ updated: '2026-02-13T19:38:06.458785Z'
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
 <li><a class="internal-link is-unresolved" href="/404">Chronic Liver Disease</a></li>
-<li><a href="/garden/dev_admin/condition/nephrotic-syndrome/" class="internal-link">Nephrotic Syndrome</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/nephrotic-syndrome/" class="internal-link">Nephrotic Syndrome</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Malnutrition</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Chronic Inflammation (E.G., Autoimmune Disease)</a></li>
-<li><a href="/garden/dev_admin/condition/heart-failure/" class="internal-link">Heart Failure</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/heart-failure/" class="internal-link">Heart Failure</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Chronic_Liver_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.123823'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.123823'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/nephrotic-syndrome/" class="internal-link">Nephrotic_Syndrome</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.123823'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Chronic_Inflammation_EG_Autoimmune_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.123823'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/albumin/" class="internal-link">Albumin</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.123823'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/heart-failure/" class="internal-link">Heart_Failure</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.123823'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Chronic_Inflammation_EG_Autoimmune_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.479652'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Chronic_Liver_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.479652'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Malnutrition</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.479652'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/albumin/" class="internal-link">Albumin</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:09.703173'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.872326'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/heart-failure/" class="internal-link">Heart_Failure</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.479652'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/nephrotic-syndrome/" class="internal-link">Nephrotic_Syndrome</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.479652'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/liver-function-panel/" class="internal-link">liver_function_panel</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.123823'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/nephrotic-syndrome/" class="internal-link">Nephrotic_Syndrome</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.185599'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/heart-failure/" class="internal-link">Heart_Failure</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.815607'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/liver-function-panel/" class="internal-link">liver_function_panel</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.401672'
-source: obsidian
-</code></pre>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Chronic_Liver_Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/heart-failure/" class="internal-link">Heart_Failure</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/liver-function-panel/" class="internal-link">liver_function_panel</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Malnutrition</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Chronic_Inflammation_EG_Autoimmune_Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/nephrotic-syndrome/" class="internal-link">Nephrotic_Syndrome</a></p>
 <h3>May Detect</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/heart-failure/" class="internal-link">Heart_Failure</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/nephrotic-syndrome/" class="internal-link">Nephrotic_Syndrome</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/heart-failure/" class="internal-link">Heart_Failure</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/nephrotic-syndrome/" class="internal-link">Nephrotic_Syndrome</a></p>
+<h3>Conditions</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/nephrotic-syndrome/" class="internal-link">Nephrotic_Syndrome</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/heart-failure/" class="internal-link">Heart_Failure</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

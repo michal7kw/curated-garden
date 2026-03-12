@@ -1,19 +1,19 @@
 ---
-created: '2026-02-13T19:38:06.436042Z'
+created: '2026-03-12T06:00:32.929608Z'
 description: Adiponectin test measures this anti-inflammatory adipokine hormone produced
   by adipose tissue. Higher levels indicate better insulin sensitivity and lower cardiovascular
   risk. Inversely correlated with obesity, metabolic syndrome, and type 2 diabetes.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/adiponectin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/adiponectin/
 slug: adiponectin
 tags:
 - labtest
 templateEngineOverride: njk
 title: adiponectin
 type: labtest
-updated: '2026-02-13T19:38:06.436042Z'
+updated: '2026-03-12T06:00:32.929608Z'
 ---
 
 {% raw %}
@@ -92,23 +92,18 @@ updated: '2026-02-13T19:38:06.436042Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li><a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Obesity</a></li>
-<li><a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></li>
-<li><a href="/garden/dev_admin/condition/non-alcoholic-fatty-liver-disease/" class="internal-link">Non-Alcoholic Fatty Liver Disease</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/non-alcoholic-fatty-liver-disease/" class="internal-link">Non-Alcoholic Fatty Liver Disease</a></li>
 </ul>
 <h2>Relationships</h2>
-<h3>Measures</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/adiponectin/" class="internal-link">Adiponectin</a> (biomarker)</li>
-</ul>
 <h3>Related Tests</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/fasting-insulin/" class="internal-link">fasting insulin</a> (labtest) - Insulin resistance assessment</li>
-<li>→ <a href="/garden/dev_admin/labtest/homa-ir/" class="internal-link">homa ir</a> (labtest) - Insulin resistance score</li>
-<li>→ <a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">triglycerides</a> (labtest) - Metabolic health indicator</li>
-</ul>
+<p>RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/triglycerides/" class="internal-link">triglycerides</a><br />
+RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/homa-ir/" class="internal-link">homa_ir</a><br />
+RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/fasting-insulin/" class="internal-link">fasting_insulin</a></p>
+<h3>Measures</h3>
 <h2>Notes</h2>
 <ul>
 <li>Results inversely correlated with visceral adiposity</li>

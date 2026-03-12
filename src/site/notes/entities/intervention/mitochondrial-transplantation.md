@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:06.409068Z'
+created: '2026-03-12T06:00:32.901721Z'
 description: The transfer of healthy, functional mitochondria into cells or tissues
   with damaged mitochondria. A cutting-edge "Mitotherapy" for aging and ischemic injury.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/intervention/mitochondrial-transplantation/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/intervention/mitochondrial-transplantation/
 slug: mitochondrial-transplantation
 tags:
 - intervention
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Mitochondrial Transplantation
 type: intervention
-updated: '2026-02-13T19:38:06.409068Z'
+updated: '2026-03-12T06:00:32.901721Z'
 ---
 
 {% raw %}
@@ -35,9 +35,12 @@ updated: '2026-02-13T19:38:06.409068Z'
 <li><strong>Rare Diseases:</strong> Treating primary mitochondrial disorders.</li>
 </ul>
 <h2>Relationships</h2>
-<h2>TARGETS::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
-TREATS::<a href="/garden/dev_admin/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a><br />
-TREATS::<a href="/garden/dev_admin/condition/sarcopenia/" class="internal-link">Sarcopenia</a><br />
-ASSOCIATED_WITH_RESEARCH::<a href="/garden/dev_admin/research/2025-mitrix-bio-mitochondrial-transplantation-trial/" class="internal-link">2025 Mitrix Bio Mitochondrial Transplantation Trial</a></h2>
+<h3>Treats</h3>
+<p>TREATS::<a href="/garden/michal.k7w@gmail.com/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial_Dysfunction</a><br />
+TREATS::<a href="/garden/michal.k7w@gmail.com/condition/sarcopenia/" class="internal-link">Sarcopenia</a></p>
+<h3>Targets</h3>
+<p>TARGETS::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
+<h3>Associated With Research</h3>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/research/2025-mitrix-bio-mitochondrial-transplantation-trial/" class="internal-link">2025_Mitrix_Bio_Mitochondrial_Transplantation_Trial</a></p>
 
 {% endraw %}

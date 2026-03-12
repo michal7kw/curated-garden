@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.144351Z'
+created: '2026-03-12T06:00:32.193646Z'
 description: An extensive membrane network responsible for protein folding, lipid
   synthesis, and calcium storage. Communicates directly with mitochondria via MAMs.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/cellularcomponent/endoplasmic-reticulum/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/cellularcomponent/endoplasmic-reticulum/
 slug: endoplasmic-reticulum
 tags:
 - cellularcomponent
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Endoplasmic Reticulum
 type: cellularcomponent
-updated: '2026-02-13T19:38:05.144351Z'
+updated: '2026-03-12T06:00:32.193646Z'
 ---
 
 {% raw %}
@@ -46,15 +46,21 @@ updated: '2026-02-13T19:38:05.144351Z'
 <li><strong>Diabetes:</strong> Pancreatic beta-cells are highly susceptible to ER stress due to the massive demand for insulin production.</li>
 </ul>
 <h2>Relationships</h2>
-<p>SYNTHESIZES::<a class="internal-link is-unresolved" href="/404">Protein</a> - Rough ER<br />
-SYNTHESIZES::<a class="internal-link is-unresolved" href="/404">Lipids</a> - Smooth ER<br />
-STORES::<a href="/garden/dev_admin/labtest/calcium/" class="internal-link">Calcium</a><br />
-REGULATES::<a class="internal-link is-unresolved" href="/404">Unfolded Protein Response</a><br />
-INTERACTS_WITH::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> - Via MAMs<br />
-INTERACTS_WITH::<a class="internal-link is-unresolved" href="/404">Golgi Apparatus</a> - Downstream trafficking<br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a> - ER stress link<br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Neurodegeneration</a><br />
-ASSOCIATED_WITH_GENE::<a href="/garden/dev_admin/gene/psen1/" class="internal-link">PSEN1</a> - Localized to ER/MAMs</p>
+<h3>Stores</h3>
+<p>STORES::<a href="/garden/michal.k7w@gmail.com/labtest/calcium/" class="internal-link">Calcium</a></p>
+<h3>Associated With Gene</h3>
+<p>ASSOCIATED_WITH_GENE::<a class="internal-link is-unresolved" href="/404">PSEN1</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Neurodegeneration</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a></p>
+<h3>Synthesizes</h3>
+<p>SYNTHESIZES::<a class="internal-link is-unresolved" href="/404">Protein</a><br />
+SYNTHESIZES::<a class="internal-link is-unresolved" href="/404">Lipids</a></p>
+<h3>Interacts With</h3>
+<p>INTERACTS_WITH::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
+INTERACTS_WITH::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/golgi-apparatus/" class="internal-link">Golgi_Apparatus</a></p>
+<h3>Regulates</h3>
+<p>REGULATES::<a class="internal-link is-unresolved" href="/404">Unfolded_Protein_Response</a></p>
 <h2>References</h2>
 <ul>
 <li>Walter P, Ron D. The unfolded protein response: from stress pathway to homeostasis. Science. 2011;334(6059):1081-6.</li>

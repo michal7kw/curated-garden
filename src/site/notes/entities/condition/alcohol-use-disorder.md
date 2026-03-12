@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.336380Z'
+created: '2026-03-12T06:00:32.235517Z'
 description: A chronic relapsing brain disease characterized by an impaired ability
   to stop or control alcohol use despite adverse social, occupational, or health consequences.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/alcohol-use-disorder/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/alcohol-use-disorder/
 slug: alcohol-use-disorder
 tags:
 - condition
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Alcohol Use Disorder
 type: condition
-updated: '2026-02-13T19:38:05.336380Z'
+updated: '2026-03-12T06:00:32.235517Z'
 ---
 
 {% raw %}
@@ -29,33 +29,8 @@ updated: '2026-02-13T19:38:05.336380Z'
 <li><strong>Neurological:</strong> Wernicke-Korsakoff syndrome, dementia.</li>
 <li><strong>Cancer:</strong> Increased risk of mouth, throat, liver, and colon cancer.</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/alcohol-use-disorder/" class="internal-link">Alcohol_Use_Disorder</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:29.662976'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/alcohol-use-disorder/" class="internal-link">Alcohol_Use_Disorder</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:22.408089'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Alcohol</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Cirrhosis</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Wernicke-Korsakoff Syndrome</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Liver</a><br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Naltrexone</a><br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Acamprosate</a><br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Disulfiram</a><br />
-IMPROVED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Cognitive Behavioral Therapy</a></p>
+<p>No relationships found.</p>
 <h2>References</h2>
 <ul>
 <li>American Psychiatric Association. DSM-5.</li>

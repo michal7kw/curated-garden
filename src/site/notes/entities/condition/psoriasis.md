@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.912862Z'
+created: '2026-03-12T06:00:32.563869Z'
 description: A chronic autoimmune disease that speeds up the growth cycle of skin
   cells, causing patches of thick, red skin and silvery scales.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/psoriasis/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/psoriasis/
 slug: psoriasis
 tags:
 - condition
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Psoriasis
 type: condition
-updated: '2026-02-13T19:38:05.912862Z'
+updated: '2026-03-12T06:00:32.563869Z'
 ---
 
 {% raw %}
@@ -38,12 +38,6 @@ SORT confidence_score DESC
 </code></pre>
 <h2>Other Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/psoriasis/" class="internal-link">Psoriasis</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:38.065994'
-source: obsidian
-</code></pre>
 <h2>Research</h2>
 <h3>Recent Studies</h3>
 <pre><code class="language-dataview">LIST
@@ -56,16 +50,8 @@ SORT date DESC
 FROM [[Psoriasis]] AND #clinical-trial
 SORT date DESC
 </code></pre>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/psoriasis/" class="internal-link">Psoriasis</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.727953'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
+<p>No relationships found.</p>
 <h2>References</h2>
 <p>No references available.</p>
 

@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:04.997277Z'
+created: '2026-03-12T06:00:32.095683Z'
 description: The most accurate blood-based biomarker for Alzheimer's disease, showing
   >95% accuracy in detecting AD pathology. Represents a paradigm shift enabling accessible,
   non-invasive AD diagnosis.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/plasma-p-tau217/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/plasma-p-tau217/
 slug: plasma-p-tau217
 tags:
 - biomarker
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Plasma p-tau217
 type: biomarker
-updated: '2026-02-13T19:38:04.997277Z'
+updated: '2026-03-12T06:00:32.095683Z'
 ---
 
 {% raw %}
@@ -208,246 +208,27 @@ AD         ↓
 </tr>
 </tbody>
 </table>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/plasma-p-tau217/" class="internal-link">Plasma_p-tau217</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:22.556335'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/blood-nfl/" class="internal-link">Blood_NfL</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:22.556335'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/examination/lumbar-puncture/" class="internal-link">Lumbar_Puncture</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:22.556335'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:22.556335'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/plasma-p-tau217/" class="internal-link">Plasma_p-tau217</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:12.002350'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:22.556335'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Plasma_A4240_Ratio</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:22.556335'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Amyloid-Beta_4240_Ratio</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:22.556335'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Preclinical_AD</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:22.556335'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/examination/retinal-imaging-for-neurodegeneration/" class="internal-link">Retinal_Imaging_for_Neurodegeneration</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:22.556335'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:22.556335'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/neuron-derived-exosome-biomarkers/" class="internal-link">Neuron-Derived_Exosome_Biomarkers</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:22.556335'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/mtbr-tau243/" class="internal-link">MTBR-tau243</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:22.556335'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:22.556335'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/plasma-amyloid-beta-ratio/" class="internal-link">Plasma_Amyloid-Beta_Ratio</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:22.556335'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/examination/amyloid-pet-imaging/" class="internal-link">Amyloid_PET_Imaging</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:22.556335'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Lecanemab</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:16.234462'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Preclinical_AD</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:16.234462'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Donanemab</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:16.234462'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Plasma_A4240_Ratio</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:16.234462'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:16.234462'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/examination/amyloid-pet-imaging/" class="internal-link">Amyloid_PET_Imaging</a> (examination)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:16.234462'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:16.234462'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/examination/lumbar-puncture/" class="internal-link">Lumbar_Puncture</a> (examination)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:16.234462'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:16.234462'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/biomarker/plasma-amyloid-beta-ratio/" class="internal-link">Plasma_Amyloid-Beta_Ratio</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.960616'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/biomarker/neuron-derived-exosome-biomarkers/" class="internal-link">Neuron-Derived_Exosome_Biomarkers</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.353378'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/biomarker/mtbr-tau243/" class="internal-link">MTBR-tau243</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:14.924796'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/biomarker/gfap/" class="internal-link">GFAP</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.668732'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/biomarker/blood-nfl/" class="internal-link">Blood_NfL</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.597897'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/examination/retinal-imaging-for-neurodegeneration/" class="internal-link">Retinal_Imaging_for_Neurodegeneration</a> (examination)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:45.549973'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:16.234462'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/phospho-tau/" class="internal-link">Phospho-Tau</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:16.234462'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/gfap/" class="internal-link">GFAP</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:16.234462'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta_4240_Ratio</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:16.234462'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<h3>Conditions</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Highest accuracy biomarker</em></li>
-<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a> (condition) - <em>Predicts conversion</em></li>
-<li>→ <a href="/garden/dev_admin/condition/preclinical-ad/" class="internal-link">Preclinical AD</a> (condition) - <em>Early detection</em></li>
-<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal Dementia</a> (condition) - <em>Helps differentiate (normal in FTD)</em></li>
-</ul>
-<h3>Related Biomarkers</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta 42/40 Ratio</a> (biomarker) - <em>CSF/plasma amyloid</em></li>
-<li>→ <a href="/garden/dev_admin/biomarker/phospho-tau/" class="internal-link">Phospho-Tau</a> (biomarker) - <em>CSF gold standard</em></li>
-<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a> (biomarker) - <em>Neurodegeneration</em></li>
-<li>→ <a href="/garden/dev_admin/biomarker/plasma-a4240-ratio/" class="internal-link">Plasma Aβ42/40 Ratio</a> (biomarker) - <em>Complementary</em></li>
-<li>→ <a href="/garden/dev_admin/biomarker/gfap/" class="internal-link">GFAP</a> (biomarker) - <em>Astrocyte marker</em></li>
-</ul>
-<h3>Examinations</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/examination/amyloid-pet-imaging/" class="internal-link">Amyloid PET Imaging</a> (examination) - <em>Confirmatory imaging</em></li>
-<li>← <a href="/garden/dev_admin/examination/lumbar-puncture/" class="internal-link">Lumbar Puncture</a> (examination) - <em>CSF alternative</em></li>
-</ul>
-<h3>Therapeutics</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/drug/lecanemab/" class="internal-link">Lecanemab</a> (drug) - <em>Eligibility screening</em></li>
-<li>→ <a href="/garden/dev_admin/drug/donanemab/" class="internal-link">Donanemab</a> (drug) - <em>Eligibility screening</em></li>
-</ul>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/examination/retinal-imaging-for-neurodegeneration/" class="internal-link">Retinal_Imaging_for_Neurodegeneration</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Amyloid-Beta_4240_Ratio</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/neuron-derived-exosome-biomarkers/" class="internal-link">Neuron-Derived_Exosome_Biomarkers</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/blood-nfl/" class="internal-link">Blood_NfL</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/mtbr-tau243/" class="internal-link">MTBR-tau243</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/examination/lumbar-puncture/" class="internal-link">Lumbar_Puncture</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Lecanemab</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Donanemab</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/examination/amyloid-pet-imaging/" class="internal-link">Amyloid_PET_Imaging</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/gfap/" class="internal-link">GFAP</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/phospho-tau/" class="internal-link">Phospho-Tau</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Plasma_A4240_Ratio</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Preclinical_AD</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/plasma-amyloid-beta-ratio/" class="internal-link">Plasma_Amyloid-Beta_Ratio</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/plasma-p-tau217/" class="internal-link">Plasma_p-tau217</a></p>
 <h2>Advantages and Limitations</h2>
 <h3>Advantages</h3>
 <ul>

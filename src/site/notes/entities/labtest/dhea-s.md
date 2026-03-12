@@ -1,18 +1,18 @@
 ---
-created: '2026-02-13T19:38:06.616602Z'
+created: '2026-03-12T06:00:33.084539Z'
 description: Adrenal androgen precursor. Marker for adrenal function and biological
   aging.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/dhea-s/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/dhea-s/
 slug: dhea-s
 tags:
 - labtest
 templateEngineOverride: njk
 title: dhea_s
 type: labtest
-updated: '2026-02-13T19:38:06.616602Z'
+updated: '2026-03-12T06:00:33.084539Z'
 ---
 
 {% raw %}
@@ -54,7 +54,7 @@ updated: '2026-02-13T19:38:06.616602Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/dev_admin/labtest/dhea-s/" class="internal-link">dhea_s</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/dhea-s/" class="internal-link">dhea_s</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -63,16 +63,6 @@ updated: '2026-02-13T19:38:06.616602Z'
 <p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
-<h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/dhea-s/" class="internal-link">dhea_s</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.362942'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
 <p>No relationships found.</p>
 <h2>Notes</h2>

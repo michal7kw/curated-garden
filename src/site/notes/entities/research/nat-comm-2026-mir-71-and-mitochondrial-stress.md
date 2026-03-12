@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:08.966144Z'
+created: '2026-03-12T06:00:34.225322Z'
 description: Identification of miR-71 as a crucial regulator of mitochondrial stress
   signaling (UPRmt) and systemic stress resistance.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/research/nat-comm-2026-mir-71-and-mitochondrial-stress/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/research/nat-comm-2026-mir-71-and-mitochondrial-stress/
 slug: nat-comm-2026-mir-71-and-mitochondrial-stress
 tags:
 - research
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: 'Nat Comm 2026: miR-71 and Mitochondrial Stress'
 type: research
-updated: '2026-02-13T19:38:08.966144Z'
+updated: '2026-03-12T06:00:34.225322Z'
 ---
 
 {% raw %}
@@ -31,9 +31,11 @@ updated: '2026-02-13T19:38:08.966144Z'
 <li><strong>Therapeutic Potential:</strong> Developing miR-71 mimics could treat metabolic disorders driven by chronic mitochondrial stress.</li>
 </ol>
 <h2>Relationships</h2>
-<h2>STUDIED_TOPIC::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
-STUDIED_TOPIC::<a href="/garden/dev_admin/pathway/hormesis/" class="internal-link">Hormesis</a><br />
-STUDIED_TOPIC::<a class="internal-link is-unresolved" href="/404">Longevity</a><br />
-IDENTIFIED_MECHANISM::<a class="internal-link is-unresolved" href="/404">MicroRNA Regulation</a></h2>
+<h3>Studied Topic</h3>
+<p>STUDIED_TOPIC::<a class="internal-link is-unresolved" href="/404">Longevity</a><br />
+STUDIED_TOPIC::<a href="/garden/michal.k7w@gmail.com/pathway/hormesis/" class="internal-link">Hormesis</a><br />
+STUDIED_TOPIC::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
+<h3>Identified Mechanism</h3>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">MicroRNA_Regulation</a></p>
 
 {% endraw %}

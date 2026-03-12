@@ -1,16 +1,16 @@
 ---
-created: '2026-02-13T19:38:07.902787Z'
+created: '2026-03-12T06:00:33.802775Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/pathway/mesolimbic-dopamine-pathway/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/pathway/mesolimbic-dopamine-pathway/
 slug: mesolimbic-dopamine-pathway
 tags:
 - pathway
 templateEngineOverride: njk
 title: Mesolimbic Dopamine Pathway
 type: pathway
-updated: '2026-02-13T19:38:07.902787Z'
+updated: '2026-03-12T06:00:33.802775Z'
 ---
 
 {% raw %}
@@ -433,5 +433,9 @@ Mesolimbic dopamine neurons encode <strong>reward prediction errors</strong> (RP
 </ul>
 <h2>Summary</h2>
 <p>The mesolimbic dopamine pathway is the brain's primary reward circuit, essential for motivation, pleasure, and reinforcement learning. Originating in the VTA and projecting primarily to the nucleus accumbens, this pathway encodes reward prediction errors and drives goal-directed behavior. Dysfunction of this pathway underlies addiction (hyperactivity to drugs, hypoactivity to natural rewards), depression (blunted dopamine response causing anhedonia), and schizophrenia (aberrant dopamine transmission causing delusions). Evidence-based interventions that may support healthy mesolimbic function include N-acetyl cysteine (reduces craving in addiction, 4/5), omega-3 fatty acids (improves mood/motivation, 4/5), and stress management to prevent chronic dopamine depletion. Lifestyle interventions prioritizing natural rewarding activities (exercise, social connection, creative pursuits), avoiding addictive substances, managing stress, and maintaining healthy sleep are foundational for balanced mesolimbic dopamine function.</p>
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 
 {% endraw %}

@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:06.280722Z'
+created: '2026-03-12T06:00:32.797035Z'
 description: Comprehensive cognitive assessment using standardized tests to evaluate
   memory, attention, language, visuospatial function, and executive abilities. Essential
   for dementia diagnosis, staging, and differential diagnosis.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/examination/neuropsychological-testing/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/examination/neuropsychological-testing/
 slug: neuropsychological-testing
 tags:
 - examination
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Neuropsychological Testing
 type: examination
-updated: '2026-02-13T19:38:06.280722Z'
+updated: '2026-03-12T06:00:32.797035Z'
 ---
 
 {% raw %}
@@ -313,31 +313,21 @@ updated: '2026-02-13T19:38:06.280722Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Conditions</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Amnestic pattern</em></li>
-<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a> (condition) - <em>1-2 SD below normal</em></li>
-<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal Dementia</a> (condition) - <em>Executive/behavioral pattern</em></li>
-<li>→ <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a> (condition) - <em>Processing speed, executive</em></li>
-<li>→ <a href="/garden/dev_admin/condition/lewy-body-dementia/" class="internal-link">Lewy Body Dementia</a> (condition) - <em>Visuospatial, attention</em></li>
-<li>→ <a href="/garden/dev_admin/condition/adhd/" class="internal-link">ADHD</a> (condition) - <em>Attention, executive</em></li>
-</ul>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal Dementia</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Lewy Body Dementia</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">ADHD</a></p>
 <h3>Brain Regions (Correlation)</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/hippocampus/" class="internal-link">Hippocampus</a> (organ) - <em>Memory tests</em></li>
-<li>→ <a href="/garden/dev_admin/organ/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a> (organ) - <em>Executive function</em></li>
-<li>→ <a href="/garden/dev_admin/organ/temporal-lobe/" class="internal-link">Temporal Lobe</a> (organ) - <em>Language, semantic memory</em></li>
-<li>→ <a href="/garden/dev_admin/organ/parietal-lobe/" class="internal-link">Parietal Lobe</a> (organ) - <em>Visuospatial</em></li>
-</ul>
+<p>BRAIN_REGIONS_(CORRELATION)::<a class="internal-link is-unresolved" href="/404">Hippocampus</a><br />
+BRAIN_REGIONS_(CORRELATION)::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a><br />
+BRAIN_REGIONS_(CORRELATION)::<a class="internal-link is-unresolved" href="/404">Temporal Lobe</a><br />
+BRAIN_REGIONS_(CORRELATION)::<a class="internal-link is-unresolved" href="/404">Parietal Lobe</a></p>
 <h3>Related Examinations</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/examination/mri-volumetry/" class="internal-link">MRI Volumetry</a> (examination) - <em>Structural correlate</em></li>
-<li>← <a href="/garden/dev_admin/examination/fdg-pet/" class="internal-link">FDG-PET</a> (examination) - <em>Metabolic correlate</em></li>
-</ul>
 <h3>Biomarkers</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/bdnf/" class="internal-link">BDNF</a> (biomarker) - <em>Cognitive reserve</em></li>
-<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a> (biomarker) - <em>Correlates with decline</em></li>
-</ul>
+<p>RELATED_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/biomarker/bdnf/" class="internal-link">BDNF</a><br />
+RELATED_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a></p>
 <h2>Clinical Applications</h2>
 <h3>Diagnosis</h3>
 <ul>

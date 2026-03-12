@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.530381Z'
+created: '2026-03-12T06:00:32.353236Z'
 description: A complication of diabetes involving lower extremity pathology, including
   neuropathy, infection, ulcers, and ischemia.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/diabetic-foot/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/diabetic-foot/
 slug: diabetic-foot
 tags:
 - condition
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Diabetic Foot
 type: condition
-updated: '2026-02-13T19:38:05.530381Z'
+updated: '2026-03-12T06:00:32.353236Z'
 ---
 
 {% raw %}
@@ -28,30 +28,8 @@ updated: '2026-02-13T19:38:05.530381Z'
 <li><strong>Ischemia:</strong> Reduced blood flow.</li>
 <li><strong>Infection:</strong> Bacteria enter open wounds.</li>
 </ol>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/diabetic-foot/" class="internal-link">Diabetic_Foot</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:37.599448'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/diabetic-foot/" class="internal-link">Diabetic_Foot</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:34.561929'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>COMPLICATION_OF::<a href="/garden/dev_admin/condition/diabetes-mellitus/" class="internal-link">Diabetes Mellitus</a><br />
-CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Diabetic Neuropathy</a><br />
-CAUSED_BY::<a href="/garden/dev_admin/condition/peripheral-arterial-disease/" class="internal-link">Peripheral Arterial Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/osteomyelitis/" class="internal-link">Osteomyelitis</a> - Bone infection complication.<br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Foot</a><br />
-INCREASED_RISK_OF::<a class="internal-link is-unresolved" href="/404">Amputation</a><br />
-PREVENTED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Glycemic Control</a></p>
+<p>No relationships found.</p>
 <h2>References</h2>
 <ul>
 <li>International Working Group on the Diabetic Foot (IWGDF). Guidelines.</li>

@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:06.265027Z'
+created: '2026-03-12T06:00:32.783659Z'
 description: A procedure to collect cerebrospinal fluid (CSF) for analysis of neurodegeneration
   biomarkers including amyloid-beta, tau proteins, and emerging markers. Essential
   for ATN classification and dementia diagnosis.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/examination/lumbar-puncture/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/examination/lumbar-puncture/
 slug: lumbar-puncture
 tags:
 - examination
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Lumbar Puncture
 type: examination
-updated: '2026-02-13T19:38:06.265027Z'
+updated: '2026-03-12T06:00:32.783659Z'
 ---
 
 {% raw %}
@@ -285,26 +285,18 @@ updated: '2026-02-13T19:38:06.265027Z'
 </table>
 <h2>Relationships</h2>
 <h3>Biomarkers Measured</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta 42/40 Ratio</a> (biomarker) - <em>CSF gold standard</em></li>
-<li>→ <a href="/garden/dev_admin/biomarker/phospho-tau/" class="internal-link">Phospho-Tau</a> (biomarker) - <em>Tau pathology</em></li>
-<li>→ <a href="/garden/dev_admin/biomarker/total-tau/" class="internal-link">Total Tau</a> (biomarker) - <em>Neurodegeneration</em></li>
-<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a> (biomarker) - <em>Axonal damage</em></li>
-<li>→ <a href="/garden/dev_admin/biomarker/gfap/" class="internal-link">GFAP</a> (biomarker) - <em>Astrocyte marker</em></li>
-</ul>
+<p>MEASURES::<a href="/garden/michal.k7w@gmail.com/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta 42/40 Ratio</a><br />
+MEASURES::<a href="/garden/michal.k7w@gmail.com/biomarker/phospho-tau/" class="internal-link">Phospho-Tau</a><br />
+MEASURES::<a href="/garden/michal.k7w@gmail.com/biomarker/total-tau/" class="internal-link">Total Tau</a><br />
+MEASURES::<a href="/garden/michal.k7w@gmail.com/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a><br />
+MEASURES::<a href="/garden/michal.k7w@gmail.com/biomarker/gfap/" class="internal-link">GFAP</a></p>
 <h3>Conditions</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Core diagnostic</em></li>
-<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a> (condition) - <em>Risk stratification</em></li>
-<li>→ <a href="/garden/dev_admin/condition/creutzfeldt-jakob-disease/" class="internal-link">Creutzfeldt-Jakob Disease</a> (condition) - <em>RT-QuIC, 14-3-3</em></li>
-<li>→ <a href="/garden/dev_admin/condition/multiple-sclerosis/" class="internal-link">Multiple Sclerosis</a> (condition) - <em>Oligoclonal bands</em></li>
-<li>→ <a href="/garden/dev_admin/condition/normal-pressure-hydrocephalus/" class="internal-link">Normal Pressure Hydrocephalus</a> (condition) - <em>Therapeutic tap</em></li>
-</ul>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Creutzfeldt-Jakob Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Multiple Sclerosis</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Normal Pressure Hydrocephalus</a></p>
 <h3>Related Examinations</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/examination/amyloid-pet-imaging/" class="internal-link">Amyloid PET Imaging</a> (examination) - <em>Alternative for A+</em></li>
-<li>← <a href="/garden/dev_admin/examination/tau-pet-imaging/" class="internal-link">Tau PET Imaging</a> (examination) - <em>Alternative for T+</em></li>
-</ul>
 <h2>Practical Workflow</h2>
 <h3>Pre-Procedure</h3>
 <ol>

@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.930491Z'
+created: '2026-03-12T06:00:32.574224Z'
 description: A broad group of conditions characterized by inflammation and pain in
   the joints, muscles, and connective tissues.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/rheumatic-diseases/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/rheumatic-diseases/
 slug: rheumatic-diseases
 tags:
 - condition
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Rheumatic Diseases
 type: condition
-updated: '2026-02-13T19:38:05.930491Z'
+updated: '2026-03-12T06:00:32.574224Z'
 ---
 
 {% raw %}
@@ -31,32 +31,8 @@ updated: '2026-02-13T19:38:05.930491Z'
 <li><strong>Gout:</strong> Metabolic arthritis (uric acid).</li>
 <li><strong>Ankylosing Spondylitis:</strong> Inflammatory spine disease.</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/rheumatic-diseases/" class="internal-link">Rheumatic_Diseases</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:51.940330'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/rheumatic-diseases/" class="internal-link">Rheumatic_Diseases</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:57.288334'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>INCLUDES_CONDITION::<a href="/garden/dev_admin/condition/knee-osteoarthritis/" class="internal-link">Knee Osteoarthritis</a><br />
-INCLUDES_CONDITION::<a href="/garden/dev_admin/condition/gouty-arthritis/" class="internal-link">Gouty Arthritis</a><br />
-INCLUDES_CONDITION::<a href="/garden/dev_admin/condition/spondyloarthropathy/" class="internal-link">Spondyloarthropathy</a><br />
-CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Autoimmune Reaction</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Joint</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Connective Tissue</a><br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Methotrexate</a> - DMARD.<br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Adalimumab</a> - Biologic.<br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">NSAIDs</a></p>
+<p>No relationships found.</p>
 <h2>References</h2>
 <ul>
 <li>American College of Rheumatology. Diseases and Conditions.</li>

@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:04.942440Z'
+created: '2026-03-12T06:00:32.024648Z'
 description: Blood-based biomarkers isolated from brain-derived extracellular vesicles
   (exosomes) that cross the blood-brain barrier. Provide a non-invasive window into
   CNS pathology including Aβ, tau, and α-synuclein.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/neuron-derived-exosome-biomarkers/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/neuron-derived-exosome-biomarkers/
 slug: neuron-derived-exosome-biomarkers
 tags:
 - biomarker
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Neuron-Derived Exosome Biomarkers
 type: biomarker
-updated: '2026-02-13T19:38:04.942440Z'
+updated: '2026-03-12T06:00:32.024648Z'
 ---
 
 {% raw %}
@@ -173,175 +173,20 @@ Measure: Aβ42, p-tau181, α-synuclein, insulin pathway proteins
 <li><strong>Validation</strong>: Limited large-cohort studies</li>
 <li><strong>Clinical readiness</strong>: Still research phase</li>
 </ol>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/neuron-derived-exosome-biomarkers/" class="internal-link">Neuron-Derived_Exosome_Biomarkers</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.461659'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/blood-nfl/" class="internal-link">Blood_NfL</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.461659'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.461659'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/plasma-amyloid-beta-ratio/" class="internal-link">Plasma_Amyloid-Beta_Ratio</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.461659'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/examination/alpha-synuclein-saa/" class="internal-link">Alpha-Synuclein_SAA</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.461659'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Type_2_Diabetes</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.461659'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.461659'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Parkinsons_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.461659'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/plasma-p-tau217/" class="internal-link">Plasma_p-tau217</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.461659'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.461659'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/tau-phosphorylation/" class="internal-link">Tau_Phosphorylation</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.461659'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein_Aggregation</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.461659'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/neuron-derived-exosome-biomarkers/" class="internal-link">Neuron-Derived_Exosome_Biomarkers</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:10.798993'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein_Aggregation</a> (pathway)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.353378'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/tau-phosphorylation/" class="internal-link">Tau_Phosphorylation</a> (pathway)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.353378'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a> (pathway)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.353378'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Type_2_Diabetes</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.353378'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/plasma-p-tau217/" class="internal-link">Plasma_p-tau217</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.353378'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.353378'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/plasma-amyloid-beta-ratio/" class="internal-link">Plasma_Amyloid-Beta_Ratio</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.353378'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/examination/alpha-synuclein-saa/" class="internal-link">Alpha-Synuclein_SAA</a> (examination)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.353378'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinsons_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.353378'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.353378'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/blood-nfl/" class="internal-link">Blood_NfL</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.353378'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<h3>Conditions</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>NDE Aβ and tau research</em></li>
-<li>→ <a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a> (condition) - <em>NDE α-synuclein</em></li>
-<li>→ <a href="/garden/dev_admin/condition/type-2-diabetes/" class="internal-link">Type 2 Diabetes</a> (condition) - <em>Insulin resistance in NDEs</em></li>
-<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal Dementia</a> (condition) - <em>Emerging research</em></li>
-</ul>
-<h3>Related Biomarkers</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/plasma-p-tau217/" class="internal-link">Plasma p-tau217</a> (biomarker) - <em>More validated, simpler</em></li>
-<li>→ <a href="/garden/dev_admin/biomarker/plasma-amyloid-beta-ratio/" class="internal-link">Plasma Amyloid-Beta Ratio</a> (biomarker) - <em>Alternative approach</em></li>
-<li>→ <a href="/garden/dev_admin/biomarker/blood-nfl/" class="internal-link">Blood NfL</a> (biomarker) - <em>Complementary</em></li>
-<li>→ <a href="/garden/dev_admin/examination/alpha-synuclein-saa/" class="internal-link">Alpha-Synuclein SAA</a> (examination) - <em>More established for synuclein</em></li>
-</ul>
-<h3>Pathways</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid Cascade</a> (pathway) - <em>NDE Aβ reflects</em></li>
-<li>→ <a href="/garden/dev_admin/pathway/tau-phosphorylation/" class="internal-link">Tau Phosphorylation</a> (pathway) - <em>NDE p-tau reflects</em></li>
-<li>→ <a href="/garden/dev_admin/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein Aggregation</a> (pathway) - <em>NDE αSyn reflects</em></li>
-</ul>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein_Aggregation</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Parkinsons_Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/neuron-derived-exosome-biomarkers/" class="internal-link">Neuron-Derived_Exosome_Biomarkers</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Type_2_Diabetes</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/tau-phosphorylation/" class="internal-link">Tau_Phosphorylation</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/plasma-p-tau217/" class="internal-link">Plasma_p-tau217</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/examination/alpha-synuclein-saa/" class="internal-link">Alpha-Synuclein_SAA</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/blood-nfl/" class="internal-link">Blood_NfL</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/plasma-amyloid-beta-ratio/" class="internal-link">Plasma_Amyloid-Beta_Ratio</a></p>
 <h2>Comparison to Other Blood Biomarkers</h2>
 <table>
 <thead>

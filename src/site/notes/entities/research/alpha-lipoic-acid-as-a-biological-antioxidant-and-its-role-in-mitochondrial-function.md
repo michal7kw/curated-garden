@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:38:08.958157Z'
+created: '2026-03-12T06:00:34.211733Z'
 description: This comprehensive review examines alpha-lipoic acid's (ALA) dual role
   as a mitochondrial cofactor and potent antioxidant. The paper details ALA's mechanisms
   in enhancing mitochondrial bioenergetics, recycling endogenous antioxidants (glutathione,
@@ -7,8 +7,8 @@ description: This comprehensive review examines alpha-lipoic acid's (ALA) dual r
   conditions including diabetic neuropathy and neurodegenerative diseases.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/research/alpha-lipoic-acid-as-a-biological-antioxidant-and-its-role-in-mitochondrial-function/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/research/alpha-lipoic-acid-as-a-biological-antioxidant-and-its-role-in-mitochondrial-function/
 slug: alpha-lipoic-acid-as-a-biological-antioxidant-and-its-role-in-mitochondrial-function
 tags:
 - research
@@ -23,7 +23,7 @@ templateEngineOverride: njk
 title: Alpha-lipoic acid as a biological antioxidant and its role in mitochondrial
   function
 type: research
-updated: '2026-02-13T19:38:08.958157Z'
+updated: '2026-03-12T06:00:34.211733Z'
 ---
 
 {% raw %}
@@ -37,10 +37,8 @@ updated: '2026-02-13T19:38:08.958157Z'
 <p>This comprehensive review examines alpha-lipoic acid's (ALA) dual role as a mitochondrial cofactor and potent antioxidant. The paper details ALA's mechanisms in enhancing mitochondrial bioenergetics, recycling endogenous antioxidants (glutathione, vitamin C, vitamin E), and its therapeutic potential in oxidative stress-related conditions including diabetic neuropathy and neurodegenerative diseases.</p>
 <h2>Keywords</h2>
 <p>alpha-lipoic acid, mitochondria, antioxidant, oxidative stress, glutathione, diabetic neuropathy, bioenergetics, Krebs cycle</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <p>No relationships found.</p>
-<!-- NEO4J_CONTENT_END -->
 <h2>Methodology</h2>
 <pre><code class="language-yaml">'{&quot;databases_searched&quot;: [&quot;PubMed&quot;, &quot;Scopus&quot;, &quot;Web of Science&quot;], &quot;design&quot;: &quot;Systematic
   literature review&quot;, &quot;study_types_included&quot;: [&quot;RCTs&quot;, &quot;Observational studies&quot;, &quot;Mechanistic

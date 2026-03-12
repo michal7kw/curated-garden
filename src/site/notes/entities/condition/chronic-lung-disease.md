@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.482853Z'
+created: '2026-03-12T06:00:32.320680Z'
 description: A broad term for long-term respiratory conditions that impair breathing
   and lung function, including obstructive and restrictive diseases.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/chronic-lung-disease/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/chronic-lung-disease/
 slug: chronic-lung-disease
 tags:
 - condition
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Chronic Lung Disease
 type: condition
-updated: '2026-02-13T19:38:05.482853Z'
+updated: '2026-03-12T06:00:32.320680Z'
 ---
 
 {% raw %}
@@ -28,69 +28,10 @@ updated: '2026-02-13T19:38:05.482853Z'
 <li><strong>Restrictive:</strong> Difficulty expanding lungs (Pulmonary Fibrosis, Sarcoidosis).</li>
 <li><strong>Vascular:</strong> Affecting blood vessels (Pulmonary Hypertension).</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/chronic-lung-disease/" class="internal-link">Chronic_Lung_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.051041'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/hematocrit/" class="internal-link">hematocrit</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.812807'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/carbon-dioxide/" class="internal-link">carbon_dioxide</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.144441'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/carbon-dioxide/" class="internal-link">carbon_dioxide</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.051041'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/hematocrit/" class="internal-link">hematocrit</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.051041'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/chronic-lung-disease/" class="internal-link">Chronic_Lung_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:32.155467'
-source: obsidian
-</code></pre>
-<h3>May Detect</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/carbon-dioxide/" class="internal-link">carbon_dioxide</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/hematocrit/" class="internal-link">hematocrit</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>INCLUDES_CONDITION::<a href="/garden/dev_admin/condition/chronic-obstructive-pulmonary-disease/" class="internal-link">Chronic Obstructive Pulmonary Disease</a><br />
-INCLUDES_CONDITION::<a class="internal-link is-unresolved" href="/404">Asthma</a><br />
-INCLUDES_CONDITION::<a class="internal-link is-unresolved" href="/404">Pulmonary Fibrosis</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Lung</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/chronic-hypoxia/" class="internal-link">Chronic Hypoxia</a><br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Bronchodilators</a><br />
-TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Oxygen Therapy</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/carbon-dioxide/" class="internal-link">carbon_dioxide</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/hematocrit/" class="internal-link">hematocrit</a></p>
 <h2>References</h2>
 <ul>
 <li>WHO. Chronic respiratory diseases.</li>

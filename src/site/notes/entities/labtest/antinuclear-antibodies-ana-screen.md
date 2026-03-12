@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:38:06.484539Z'
+created: '2026-03-12T06:00:32.970622Z'
 description: an-tee-noo-klee-ur an-tih-bod-eez skreen Antinuclear antibodies (ANA)
   screen looks for antibodies that sometimes target the body’s own cells. A positive
   result may suggest autoimmune activity, but it is also found in many healthy people.
@@ -9,15 +9,15 @@ description: an-tee-noo-klee-ur an-tih-bod-eez skreen Antinuclear antibodies (AN
   IN FINGERS OR TOES WITH COLD OR STRESS) HAIR LOSS (ALOPECIA)
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/antinuclear-antibodies-ana-screen/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/antinuclear-antibodies-ana-screen/
 slug: antinuclear-antibodies-ana-screen
 tags:
 - labtest
 templateEngineOverride: njk
 title: antinuclear_antibodies_ana_screen
 type: labtest
-updated: '2026-02-13T19:38:06.484539Z'
+updated: '2026-03-12T06:00:32.970622Z'
 ---
 
 {% raw %}
@@ -65,120 +65,27 @@ updated: '2026-02-13T19:38:06.484539Z'
 <li><a class="internal-link is-unresolved" href="/404">Systemic Lupus Erythematosus (Sle)</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Sjögren’S Syndrome</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Systemic Sclerosis (Scleroderma)</a></li>
-<li><a href="/garden/dev_admin/condition/mixed-connective-tissue-disease/" class="internal-link">Mixed Connective Tissue Disease</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/mixed-connective-tissue-disease/" class="internal-link">Mixed Connective Tissue Disease</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Polymyositis Or Dermatomyositis</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
+<h3>Conditions</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/mixed-connective-tissue-disease/" class="internal-link">Mixed_Connective_Tissue_Disease</a></p>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/mixed-connective-tissue-disease/" class="internal-link">Mixed_Connective_Tissue_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:08.031557'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Systemic_Sclerosis_Scleroderma</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:08.031557'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Polymyositis_Or_Dermatomyositis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:08.031557'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">SjgrenS_Syndrome</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:08.031557'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Systemic_Lupus_Erythematosus_Sle</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:08.031557'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Systemic_Lupus_Erythematosus_Sle</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.893599'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Polymyositis_Or_Dermatomyositis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.893599'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">SjgrenS_Syndrome</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.893599'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Systemic_Sclerosis_Scleroderma</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.893599'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/mixed-connective-tissue-disease/" class="internal-link">Mixed_Connective_Tissue_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.893599'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtestpanel/extended-autoimmunity/" class="internal-link">extended_autoimmunity</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.700050'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac_gluten_intolerance</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.325688'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac_gluten_intolerance</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:08.031557'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/extended-autoimmunity/" class="internal-link">extended_autoimmunity</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:08.031557'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/mixed-connective-tissue-disease/" class="internal-link">Mixed_Connective_Tissue_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.634548'
-source: obsidian
-</code></pre>
-<h3>May Detect</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/mixed-connective-tissue-disease/" class="internal-link">Mixed_Connective_Tissue_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Systemic_Lupus_Erythematosus_Sle</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">extended_autoimmunity</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">celiac_gluten_intolerance</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Polymyositis_Or_Dermatomyositis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Systemic_Sclerosis_Scleroderma</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/mixed-connective-tissue-disease/" class="internal-link">Mixed_Connective_Tissue_Disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">SjgrenS_Syndrome</a></p>
 <h3>Included In</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/extended-autoimmunity/" class="internal-link">extended_autoimmunity</a> (labtestpanel)</li>
-<li>→ <a href="/garden/dev_admin/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac_gluten_intolerance</a> (labtestpanel)</li>
-</ul>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">extended_autoimmunity</a><br />
+INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">celiac_gluten_intolerance</a></p>
+<h3>May Detect</h3>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/mixed-connective-tissue-disease/" class="internal-link">Mixed_Connective_Tissue_Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

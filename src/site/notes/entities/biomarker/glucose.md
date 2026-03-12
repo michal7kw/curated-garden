@@ -1,16 +1,16 @@
 ---
-created: '2026-02-13T19:38:04.826423Z'
+created: '2026-03-12T06:00:31.933339Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/glucose/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/glucose/
 slug: glucose
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Glucose
 type: biomarker
-updated: '2026-02-13T19:38:04.826423Z'
+updated: '2026-03-12T06:00:31.933339Z'
 ---
 
 {% raw %}
@@ -26,53 +26,13 @@ updated: '2026-02-13T19:38:04.826423Z'
 <li><strong>Fasting Required</strong>: False</li>
 <li><strong>Recommended Test Frequency</strong>: Not specified</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.090852'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.943509'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/glucose/" class="internal-link">Glucose</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.943509'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<h3>Influences</h3>
-<p>No known influences documented.</p>
-<h3>Correlations</h3>
-<p>No correlations documented.</p>
-<h3>Other Relationships</h3>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:17.188234'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/glucose/" class="internal-link">Glucose</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:17.188234'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:03.553962'
-source: obsidian
-</code></pre>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/diabetes/" class="internal-link">Diabetes</a></p>
+<h3>Metabolized By</h3>
+<p>METABOLIZED_BY::<a href="/garden/michal.k7w@gmail.com/protein/hexokinase/" class="internal-link">Hexokinase</a></p>
+<h3>Regulation</h3>
+<p>REGULATES::<a href="/garden/michal.k7w@gmail.com/protein/ampk/" class="internal-link">AMPK</a></p>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <p>No supplement effects documented yet. Add effects in the respective supplement notes.</p>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>

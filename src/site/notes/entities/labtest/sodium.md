@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:38:07.014844Z'
+created: '2026-03-12T06:00:33.424492Z'
 description: Tested twice a year Sodium, an essential electrolyte commonly consumed
   as part of table salt (sodium chloride), plays a vital role in maintaining the body’s
   fluid balance, supporting nerve signaling, and enabling muscle contractions, including
@@ -7,8 +7,8 @@ description: Tested twice a year Sodium, an essential electrolyte commonly consu
   use, and physical activity can influence sodium balance.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/sodium/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/sodium/
 slug: sodium
 tags:
 - labtest
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: sodium
 type: labtest
-updated: '2026-02-13T19:38:07.014844Z'
+updated: '2026-03-12T06:00:33.424492Z'
 ---
 
 {% raw %}
@@ -70,78 +70,14 @@ updated: '2026-02-13T19:38:07.014844Z'
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Medication_Effect</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:25.865118'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:25.865118'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Hormonal_Imbalance_Adrenal_Or_Thyroid</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:25.865118'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:25.865118'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Fluid_Imbalance_Low_Or_High_Sodium</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:25.865118'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Hormonal_Imbalance_Adrenal_Or_Thyroid</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.776145'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Fluid_Imbalance_Low_Or_High_Sodium</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.776145'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.776145'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Dehydration</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.776145'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Medication_Effect</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.776145'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.872326'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Medication_Effect</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Fluid_Imbalance_Low_Or_High_Sodium</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hormonal_Imbalance_Adrenal_Or_Thyroid</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

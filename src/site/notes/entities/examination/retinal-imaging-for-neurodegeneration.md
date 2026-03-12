@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:06.289088Z'
+created: '2026-03-12T06:00:32.804054Z'
 description: Non-invasive imaging of the retina as a window to the brain. OCT and
   specialized techniques can detect Alzheimer's, Parkinson's, and MS-related changes
   years before symptoms.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/examination/retinal-imaging-for-neurodegeneration/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/examination/retinal-imaging-for-neurodegeneration/
 slug: retinal-imaging-for-neurodegeneration
 tags:
 - examination
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Retinal Imaging for Neurodegeneration
 type: examination
-updated: '2026-02-13T19:38:06.289088Z'
+updated: '2026-03-12T06:00:32.804054Z'
 ---
 
 {% raw %}
@@ -221,29 +221,19 @@ updated: '2026-02-13T19:38:06.289088Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Conditions</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>RNFL thinning, vascular changes</em></li>
-<li>→ <a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a> (condition) - <em>RNFL and foveal changes</em></li>
-<li>→ <a href="/garden/dev_admin/condition/multiple-sclerosis/" class="internal-link">Multiple Sclerosis</a> (condition) - <em>Established use for monitoring</em></li>
-<li>→ <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a> (condition) - <em>Retinal vascular changes</em></li>
-<li>→ <a href="/garden/dev_admin/condition/glaucoma/" class="internal-link">Glaucoma</a> (condition) - <em>RNFL monitoring (confounder)</em></li>
-</ul>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Multiple Sclerosis</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/glaucoma/" class="internal-link">Glaucoma</a></p>
 <h3>Brain Regions (Correlations)</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/hippocampus/" class="internal-link">Hippocampus</a> (organ) - <em>RNFL correlates with volume</em></li>
-<li>→ <a href="/garden/dev_admin/organ/visual-cortex/" class="internal-link">Visual Cortex</a> (organ) - <em>Retrograde degeneration</em></li>
-<li>→ <a href="/garden/dev_admin/organ/optic-nerve/" class="internal-link">Optic Nerve</a> (organ) - <em>Direct connection</em></li>
-</ul>
+<p>BRAIN_REGIONS_(CORRELATIONS)::<a class="internal-link is-unresolved" href="/404">Hippocampus</a><br />
+BRAIN_REGIONS_(CORRELATIONS)::<a class="internal-link is-unresolved" href="/404">Visual Cortex</a><br />
+BRAIN_REGIONS_(CORRELATIONS)::<a class="internal-link is-unresolved" href="/404">Optic Nerve</a></p>
 <h3>Related Biomarkers</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/plasma-p-tau217/" class="internal-link">Plasma p-tau217</a> (biomarker) - <em>Complementary blood marker</em></li>
-<li>→ <a href="/garden/dev_admin/biomarker/blood-nfl/" class="internal-link">Blood NfL</a> (biomarker) - <em>Neurodegeneration correlation</em></li>
-</ul>
+<p>RELATED_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/biomarker/plasma-p-tau217/" class="internal-link">Plasma p-tau217</a><br />
+RELATED_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/biomarker/blood-nfl/" class="internal-link">Blood NfL</a></p>
 <h3>Related Imaging</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/examination/mri-volumetry/" class="internal-link">MRI Volumetry</a> (examination) - <em>Brain structural correlate</em></li>
-<li>← <a href="/garden/dev_admin/examination/amyloid-pet-imaging/" class="internal-link">Amyloid PET Imaging</a> (examination) - <em>Gold standard for amyloid</em></li>
-</ul>
 <h2>Clinical Utility Today</h2>
 <h3>Where It's Used Clinically</h3>
 <ul>

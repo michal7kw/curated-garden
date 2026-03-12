@@ -1,10 +1,10 @@
 ---
-created: '2026-02-13T19:38:06.349704Z'
+created: '2026-03-12T06:00:32.862823Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/gene/ubc/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/gene/ubc/
 slug: ubc
 tags:
 - gene
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: UBC
 type: gene
-updated: '2026-02-13T19:38:06.349704Z'
+updated: '2026-03-12T06:00:32.862823Z'
 ---
 
 {% raw %}

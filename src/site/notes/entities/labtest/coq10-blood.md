@@ -1,18 +1,18 @@
 ---
-created: '2026-02-13T19:38:06.589615Z'
+created: '2026-03-12T06:00:33.063154Z'
 description: Cellular antioxidant important for energy production. Often depleted
   by statins.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/coq10-blood/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/coq10-blood/
 slug: coq10-blood
 tags:
 - labtest
 templateEngineOverride: njk
 title: coq10_blood
 type: labtest
-updated: '2026-02-13T19:38:06.589615Z'
+updated: '2026-03-12T06:00:33.063154Z'
 ---
 
 {% raw %}
@@ -63,18 +63,9 @@ updated: '2026-02-13T19:38:06.589615Z'
 <p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">coq10</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.993131'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">coq10</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

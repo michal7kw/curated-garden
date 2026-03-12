@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:06.321764Z'
+created: '2026-03-12T06:00:32.839604Z'
 description: Encodes Early Growth Response 1, a zinc finger transcription factor activated
   by growth factors, stress, and neuronal activity.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/gene/egr1/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/gene/egr1/
 slug: egr1
 tags:
 - gene
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: EGR1
 type: gene
-updated: '2026-02-13T19:38:06.321764Z'
+updated: '2026-03-12T06:00:32.839604Z'
 ---
 
 {% raw %}
@@ -30,9 +30,6 @@ updated: '2026-02-13T19:38:06.321764Z'
 <li><strong>Cell Growth</strong>: Regulates proliferation and differentiation.</li>
 </ol>
 <h2>Relationships</h2>
-<ul>
-<li>→ <a href="/garden/dev_admin/protein/egr1/" class="internal-link">EGR1</a> (protein) - <em>Encodes</em></li>
-</ul>
 <h2>References</h2>
 <ol>
 <li><strong>Neuroscience</strong>: Knapska, E., &amp; Kaczmarek, L. (2004). &quot;A marker for neuronal activation.&quot; <em>Behavioural Brain Research</em>.</li>

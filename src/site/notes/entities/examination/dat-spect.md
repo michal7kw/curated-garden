@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:06.235633Z'
+created: '2026-03-12T06:00:32.756825Z'
 description: Single-photon emission computed tomography imaging of dopamine transporter
   density. Used to confirm dopaminergic deficit in Parkinson's disease and differentiate
   from essential tremor or drug-induced parkinsonism.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/examination/dat-spect/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/examination/dat-spect/
 slug: dat-spect
 tags:
 - examination
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: DAT-SPECT
 type: examination
-updated: '2026-02-13T19:38:06.235633Z'
+updated: '2026-03-12T06:00:32.756825Z'
 ---
 
 {% raw %}
@@ -173,29 +173,21 @@ updated: '2026-02-13T19:38:06.235633Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Conditions</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a> (condition) - <em>Confirms dopaminergic deficit</em></li>
-<li>→ <a href="/garden/dev_admin/condition/lewy-body-dementia/" class="internal-link">Lewy Body Dementia</a> (condition) - <em>Distinguishes from AD</em></li>
-<li>→ <a href="/garden/dev_admin/condition/multiple-system-atrophy/" class="internal-link">Multiple System Atrophy</a> (condition) - <em>Abnormal</em></li>
-<li>→ <a href="/garden/dev_admin/condition/progressive-supranuclear-palsy/" class="internal-link">Progressive Supranuclear Palsy</a> (condition) - <em>Variable abnormality</em></li>
-<li>→ <a href="/garden/dev_admin/condition/essential-tremor/" class="internal-link">Essential Tremor</a> (condition) - <em>Normal (excludes PD)</em></li>
-</ul>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Lewy Body Dementia</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Multiple System Atrophy</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Progressive Supranuclear Palsy</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Essential Tremor</a></p>
 <h3>Brain Regions</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/substantia-nigra/" class="internal-link">Substantia Nigra</a> (organ) - <em>Source of dopamine neurons</em></li>
-<li>→ <a href="/garden/dev_admin/organ/striatum/" class="internal-link">Striatum</a> (organ) - <em>Imaging target</em></li>
-<li>→ <a href="/garden/dev_admin/organ/putamen/" class="internal-link">Putamen</a> (organ) - <em>First affected in PD</em></li>
-</ul>
+<p>AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Substantia Nigra</a><br />
+AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Striatum</a><br />
+AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Putamen</a></p>
 <h3>Related Pathways</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/nigrostriatal-dopamine-pathway/" class="internal-link">Nigrostriatal Dopamine Pathway</a> (pathway) - <em>Assessed pathway</em></li>
-<li>→ <a href="/garden/dev_admin/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein Aggregation</a> (pathway) - <em>Underlying pathology</em></li>
-</ul>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/nigrostriatal-dopamine-pathway/" class="internal-link">Nigrostriatal Dopamine Pathway</a><br />
+PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein Aggregation</a></p>
 <h3>Biomarkers</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/alpha-synuclein-csf/" class="internal-link">Alpha-Synuclein CSF</a> (biomarker) - <em>Complementary</em></li>
-<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a> (biomarker) - <em>Neurodegeneration</em></li>
-</ul>
+<p>RELATED_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Alpha-Synuclein CSF</a><br />
+RELATED_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a></p>
 <h2>Practical Considerations</h2>
 <h3>Patient Preparation</h3>
 <ul>

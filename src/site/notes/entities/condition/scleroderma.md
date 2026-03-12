@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:05.944333Z'
+created: '2026-03-12T06:00:32.585073Z'
 description: A group of rare autoimmune diseases characterized by the hardening and
   tightening of the skin and connective tissues, often affecting internal organs and
   blood vessels.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/scleroderma/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/scleroderma/
 slug: scleroderma
 tags:
 - condition
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Scleroderma
 type: condition
-updated: '2026-02-13T19:38:05.944333Z'
+updated: '2026-03-12T06:00:32.585073Z'
 ---
 
 {% raw %}
@@ -39,12 +39,6 @@ SORT confidence_score DESC
 </code></pre>
 <h2>Other Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/scleroderma/" class="internal-link">Scleroderma</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:40.841230'
-source: obsidian
-</code></pre>
 <h2>Research</h2>
 <h3>Recent Studies</h3>
 <pre><code class="language-dataview">LIST
@@ -57,16 +51,8 @@ SORT date DESC
 FROM [[Scleroderma]] AND #clinical-trial
 SORT date DESC
 </code></pre>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/scleroderma/" class="internal-link">Scleroderma</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:37.315625'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
+<p>No relationships found.</p>
 <h2>References</h2>
 <p>No references available.</p>
 

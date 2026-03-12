@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:09.206185Z'
+created: '2026-03-12T06:00:34.350772Z'
 description: Potent Nrf2 activator derived from cruciferous vegetables, especially
   broccoli sprouts. Powerful inducer of phase II detoxification enzymes and antioxidant
   defenses.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/supplement/sulforaphane/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/supplement/sulforaphane/
 slug: sulforaphane
 tags:
 - supplement
@@ -18,30 +18,15 @@ tags:
 templateEngineOverride: njk
 title: Sulforaphane
 type: supplement
-updated: '2026-02-13T19:38:09.206185Z'
+updated: '2026-03-12T06:00:34.350772Z'
 ---
 
 {% raw %}
 <h1>Sulforaphane</h1>
 <h2>Overview</h2>
 <p>Potent Nrf2 activator derived from cruciferous vegetables, especially broccoli sprouts. Powerful inducer of phase II detoxification enzymes and antioxidant defenses.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/protein/nrf2/" class="internal-link">NRF2</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:54.639321'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/protein/nrf2/" class="internal-link">NRF2</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.690636'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/protein/nrf2/" class="internal-link">NRF2</a></p>
 
 {% endraw %}

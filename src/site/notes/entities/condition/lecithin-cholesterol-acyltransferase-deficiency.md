@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.692276Z'
+created: '2026-03-12T06:00:32.443557Z'
 description: A rare genetic disorder of lipid metabolism that leads to corneal opacities,
   anemia, and renal failure due to the accumulation of unesterified cholesterol.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/lecithin-cholesterol-acyltransferase-deficiency/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/lecithin-cholesterol-acyltransferase-deficiency/
 slug: lecithin-cholesterol-acyltransferase-deficiency
 tags:
 - condition
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Lecithin Cholesterol Acyltransferase Deficiency
 type: condition
-updated: '2026-02-13T19:38:05.692276Z'
+updated: '2026-03-12T06:00:32.443557Z'
 ---
 
 {% raw %}
@@ -27,30 +27,8 @@ updated: '2026-02-13T19:38:05.692276Z'
 <li><strong>Familial LCAT Deficiency (FLD):</strong> Complete enzyme deficiency. Severe symptoms including kidney failure and anemia.</li>
 <li><strong>Fish-Eye Disease (FED):</strong> Partial enzyme deficiency. Primary symptom is corneal opacity; kidney function is usually preserved.</li>
 </ol>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/lecithin-cholesterol-acyltransferase-deficiency/" class="internal-link">Lecithin_Cholesterol_Acyltransferase_Deficiency</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:44.038345'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/lecithin-cholesterol-acyltransferase-deficiency/" class="internal-link">Lecithin_Cholesterol_Acyltransferase_Deficiency</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:44.547098'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Genetic Mutation</a><br />
-ASSOCIATED_WITH_GENE::<a class="internal-link is-unresolved" href="/404">LCAT</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Anemia</a><br />
-ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/hdl-cholesterol/" class="internal-link">HDL Cholesterol</a> - Levels are extremely low.<br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Eye</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Kidney</a></p>
+<p>No relationships found.</p>
 <h2>References</h2>
 <ul>
 <li>Kuivenhoven, J. A., et al. (1997). The role of LCAT in HDL metabolism.</li>

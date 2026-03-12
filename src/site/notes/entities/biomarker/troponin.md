@@ -1,18 +1,18 @@
 ---
-created: '2026-02-13T19:38:05.087808Z'
+created: '2026-03-12T06:00:32.167547Z'
 description: Cardiac troponin (I and T) is the gold standard biomarker for detecting
   myocardial injury and diagnosing acute myocardial infarction.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/troponin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/troponin/
 slug: troponin
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Troponin
 type: biomarker
-updated: '2026-02-13T19:38:05.087808Z'
+updated: '2026-03-12T06:00:32.167547Z'
 ---
 
 {% raw %}
@@ -62,27 +62,23 @@ updated: '2026-02-13T19:38:05.087808Z'
 </ul>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
-<li><a href="/garden/dev_admin/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a> - May support cardiac function and reduce troponin release in heart failure (mild, evidence level 3)</li>
-<li><a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> - Cardioprotective effects may reduce low-grade troponin elevations (mild, evidence level 3)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a> - May support cardiac function and reduce troponin release in heart failure (mild, evidence level 3)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> - Cardioprotective effects may reduce low-grade troponin elevations (mild, evidence level 3)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li><a href="/garden/dev_admin/labtest/troponin-i/" class="internal-link">troponin i</a> - Cardiac troponin I measurement (high-sensitivity assay preferred)</li>
-<li><a href="/garden/dev_admin/labtest/troponin-t-high-sensitivity/" class="internal-link">troponin t high sensitivity</a> - High-sensitivity cardiac troponin T measurement</li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/troponin-i/" class="internal-link">troponin i</a> - Cardiac troponin I measurement (high-sensitivity assay preferred)</li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/troponin-t-high-sensitivity/" class="internal-link">troponin t high sensitivity</a> - High-sensitivity cardiac troponin T measurement</li>
 </ul>
 <h2>Relationships</h2>
 <h3>Activates</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/creatine-kinase/" class="internal-link">Creatine Kinase</a> (biomarker)</li>
-<li>→ <a href="/garden/dev_admin/labtest/bnp/" class="internal-link">BNP</a> (biomarker)</li>
-</ul>
+<p>ACTIVATES::<a href="/garden/michal.k7w@gmail.com/labtest/bnp/" class="internal-link">BNP</a><br />
+ACTIVATES::<a href="/garden/michal.k7w@gmail.com/biomarker/creatine-kinase/" class="internal-link">Creatine_Kinase</a></p>
 <h3>Correlations</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/creatine-kinase/" class="internal-link">Creatine Kinase</a> (biomarker) - Both elevated in myocardial injury; troponin more specific and sensitive</li>
-<li>→ <a href="/garden/dev_admin/labtest/bnp/" class="internal-link">BNP</a> (biomarker) - Concurrent elevation suggests acute heart failure with myocardial injury</li>
-<li>→ <a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a> (biomarker) - Inflammation may accompany troponin elevation in acute coronary syndromes</li>
-</ul>
+<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/creatine-kinase/" class="internal-link">Creatine_Kinase</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/bnp/" class="internal-link">BNP</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs_Crp</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:25282031 - Mortensen SA et al. The effect of coenzyme Q10 on morbidity and mortality in chronic heart failure: results from Q-SYMBIO. JACC Heart Fail. 2014.</li>

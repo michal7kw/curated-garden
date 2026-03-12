@@ -1,19 +1,19 @@
 ---
-created: '2026-02-13T19:38:06.891178Z'
+created: '2026-03-12T06:00:33.317928Z'
 description: N-terminal pro-B-type Natriuretic Peptide (NT-proBNP) test. Inactive
   fragment released during BNP synthesis. More stable than BNP with age-dependent
   cutoffs. Preferred for monitoring patients on sacubitril/valsartan therapy.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/nt-probnp/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/nt-probnp/
 slug: nt-probnp
 tags:
 - labtest
 templateEngineOverride: njk
 title: nt_probnp
 type: labtest
-updated: '2026-02-13T19:38:06.891178Z'
+updated: '2026-03-12T06:00:33.317928Z'
 ---
 
 {% raw %}
@@ -103,20 +103,20 @@ updated: '2026-02-13T19:38:06.891178Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li><a href="/garden/dev_admin/condition/heart-failure/" class="internal-link">Heart Failure</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/heart-failure/" class="internal-link">Heart Failure</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Cardiomyopathy</a></li>
-<li><a href="/garden/dev_admin/phenotype/dyspnea/" class="internal-link">Dyspnea</a></li>
-<li><a href="/garden/dev_admin/condition/atrial-fibrillation/" class="internal-link">Atrial Fibrillation</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/phenotype/dyspnea/" class="internal-link">Dyspnea</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/atrial-fibrillation/" class="internal-link">Atrial Fibrillation</a></li>
 </ul>
 <h2>Relationships</h2>
-<h3>Measures</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/bnp/" class="internal-link">BNP</a> (biomarker)</li>
-</ul>
+<h3>Conditions</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/phenotype/dyspnea/" class="internal-link">Dyspnea</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/heart-failure/" class="internal-link">Heart_Failure</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/atrial-fibrillation/" class="internal-link">Atrial_Fibrillation</a></p>
 <h3>Included In</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/cardiac-biomarker-panel/" class="internal-link">cardiac biomarker panel</a> (labtestpanel)</li>
-</ul>
+<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">cardiac_biomarker_panel</a></p>
+<h3>Measures</h3>
+<p>MEASURES::<a href="/garden/michal.k7w@gmail.com/labtest/bnp/" class="internal-link">BNP</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

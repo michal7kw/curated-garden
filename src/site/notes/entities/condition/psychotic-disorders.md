@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.914110Z'
+created: '2026-03-12T06:00:32.565129Z'
 description: A group of serious mental illnesses that affect the mind, making it difficult
   to distinguish between what is real and what is not.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/psychotic-disorders/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/psychotic-disorders/
 slug: psychotic-disorders
 tags:
 - condition
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Psychotic Disorders
 type: condition
-updated: '2026-02-13T19:38:05.914110Z'
+updated: '2026-03-12T06:00:32.565129Z'
 ---
 
 {% raw %}
@@ -29,31 +29,8 @@ updated: '2026-02-13T19:38:05.914110Z'
 <li><strong>Brief Psychotic Disorder:</strong> Short-term psychosis triggered by stress.</li>
 <li><strong>Substance-Induced Psychotic Disorder.</strong></li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/psychotic-disorders/" class="internal-link">Psychotic_Disorders</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:51.543275'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/psychotic-disorders/" class="internal-link">Psychotic_Disorders</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:56.559724'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Schizophrenia</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Bipolar Disorder</a><br />
-CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Dopamine Imbalance</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Risperidone</a> - Antipsychotic.<br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Olanzapine</a><br />
-TREATED_BY_DRUG::<a href="/garden/dev_admin/drug/clozapine/" class="internal-link">Clozapine</a><br />
-TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Cognitive Behavioral Therapy</a></p>
+<p>No relationships found.</p>
 <h2>References</h2>
 <ul>
 <li>American Psychiatric Association. DSM-5.</li>

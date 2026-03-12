@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:04.774220Z'
+created: '2026-03-12T06:00:31.889162Z'
 description: Dried Urine Test for Comprehensive Hormones, providing a detailed look
   at sex hormones, adrenal function (cortisol), and their metabolites.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/dutch-test/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/dutch-test/
 slug: dutch-test
 tags:
 - biomarker
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: DUTCH Test
 type: biomarker
-updated: '2026-02-13T19:38:04.774220Z'
+updated: '2026-03-12T06:00:31.889162Z'
 ---
 
 {% raw %}
@@ -38,41 +38,8 @@ updated: '2026-02-13T19:38:04.774220Z'
 <li>Measures Estrogen metabolism (2-OH, 4-OH, 16-OH pathways).</li>
 <li>Measures Methylation capacity (via 2-Methoxyestrone).</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/dutch-test/" class="internal-link">DUTCH_Test</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.561833'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/dutch-test/" class="internal-link">DUTCH_Test</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.561833'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<h3>Influences</h3>
-<p>No known influences documented.</p>
-<h3>Correlations</h3>
-<p>No correlations documented.</p>
-<h3>Other Relationships</h3>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/dutch-test/" class="internal-link">DUTCH_Test</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:14.112652'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/dutch-test/" class="internal-link">DUTCH_Test</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:14.112652'
-source: obsidian
-</code></pre>
+<p>No relationships found.</p>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <p>No supplement effects documented yet. Add effects in the respective supplement notes.</p>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>

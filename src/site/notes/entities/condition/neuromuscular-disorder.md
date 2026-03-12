@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.790712Z'
+created: '2026-03-12T06:00:32.499928Z'
 description: A broad term for diseases that affect the nerves that control voluntary
   muscles and the communication between nerves and muscles.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/neuromuscular-disorder/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/neuromuscular-disorder/
 slug: neuromuscular-disorder
 tags:
 - condition
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Neuromuscular Disorder
 type: condition
-updated: '2026-02-13T19:38:05.790712Z'
+updated: '2026-03-12T06:00:32.499928Z'
 ---
 
 {% raw %}
@@ -37,12 +37,7 @@ SORT confidence_score DESC
 </code></pre>
 <h2>Other Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/neuromuscular-disorder/" class="internal-link">Neuromuscular_Disorder</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:28.488159'
-source: obsidian
-</code></pre>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/neuromuscular-disorder/" class="internal-link">Neuromuscular_Disorder</a></p>
 <h2>Research</h2>
 <h3>Recent Studies</h3>
 <pre><code class="language-dataview">LIST
@@ -55,22 +50,8 @@ SORT date DESC
 FROM [[Neuromuscular Disorder]] AND #clinical-trial
 SORT date DESC
 </code></pre>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/neuromuscular-disorder/" class="internal-link">Neuromuscular_Disorder</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.327317'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/neuromuscular-disorder/" class="internal-link">Neuromuscular_Disorder</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.327317'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
+<p>No relationships found.</p>
 <h2>References</h2>
 <p>No references available.</p>
 

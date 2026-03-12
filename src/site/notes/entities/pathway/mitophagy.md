@@ -1,13 +1,13 @@
 ---
-created: '2026-02-13T19:38:07.923839Z'
+created: '2026-03-12T06:00:33.823478Z'
 description: Mitophagy is the selective degradation of damaged or dysfunctional mitochondria
   by autophagy. It is a critical quality control mechanism that maintains cellular
   health by removing mitochondria that could otherwise produce excessive reactive
   oxygen species or trigger apoptosis.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/pathway/mitophagy/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/pathway/mitophagy/
 slug: mitophagy
 tags:
 - pathway
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Mitophagy
 type: pathway
-updated: '2026-02-13T19:38:07.923839Z'
+updated: '2026-03-12T06:00:33.823478Z'
 ---
 
 {% raw %}
@@ -42,81 +42,15 @@ updated: '2026-02-13T19:38:07.923839Z'
 </ul>
 <h2>Nicotine Effects</h2>
 <p>According to PMID:31197632, nicotine influences mitophagy as part of its broader effects on mitochondrial function, though specific mechanisms require further investigation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Prevents</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/oxidative-stress/" class="internal-link">Oxidative_Stress</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.248727'
-source: obsidian
-</code></pre>
-<h3>Related</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a> (pathway)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein_Aggregation</a> (pathway)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:10.957081'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinsons_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.297115'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/pathway/autophagy/" class="internal-link">Autophagy</a> (pathway)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.481193'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:19.549791'
-source: obsidian
-</code></pre>
+<p>PREVENTS::<a href="/garden/michal.k7w@gmail.com/condition/oxidative-stress/" class="internal-link">Oxidative_Stress</a></p>
 <h3>Affects</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/drug/nicotine/" class="internal-link">Nicotine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.749430'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.248727'
-source: obsidian
-</code></pre>
-<h3>Modulated By</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/drug/nicotine/" class="internal-link">Nicotine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.248727'
-source: obsidian
-</code></pre>
+<p>AFFECTS::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 <h3>Subtype Of</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/autophagy/" class="internal-link">Autophagy</a> (pathway)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.248727'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<ul>
-<li>subtype_of:: <a href="/garden/dev_admin/pathway/autophagy/" class="internal-link">Autophagy</a></li>
-<li>affects:: <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></li>
-<li>modulated_by:: <a href="/garden/dev_admin/drug/nicotine/" class="internal-link">Nicotine</a></li>
-<li>prevents:: <a href="/garden/dev_admin/condition/oxidative-stress/" class="internal-link">Oxidative_Stress</a></li>
-</ul>
+<p>SUBTYPE_OF::<a href="/garden/michal.k7w@gmail.com/pathway/autophagy/" class="internal-link">Autophagy</a></p>
+<h3>Modulated By</h3>
+<p>MODULATED_BY::<a href="/garden/michal.k7w@gmail.com/drug/nicotine/" class="internal-link">Nicotine</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:31197632 - Malinska D, et al. (2019) &quot;Mitochondria as a possible target for nicotine action.&quot; J Bioenerg Biomembr.</li>

@@ -1,16 +1,16 @@
 ---
-created: '2026-02-13T19:38:08.739591Z'
+created: '2026-03-12T06:00:34.084974Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/protein/cxcr4/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/protein/cxcr4/
 slug: cxcr4
 tags:
 - protein
 templateEngineOverride: njk
 title: CXCR4
 type: protein
-updated: '2026-02-13T19:38:08.739591Z'
+updated: '2026-03-12T06:00:34.084974Z'
 ---
 
 {% raw %}
@@ -34,72 +34,11 @@ updated: '2026-02-13T19:38:08.739591Z'
 <li><strong>Tissue Expression:</strong> N/A</li>
 </ul>
 <h2>Sequence &amp; Structure</h2>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">unnamed</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.948634'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/protein/ctnnb1/" class="internal-link">CTNNB1</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:49:00.223477'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/protein/myc/" class="internal-link">MYC</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.590073'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/protein/myc/" class="internal-link">MYC</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.948634'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/protein/ctnnb1/" class="internal-link">CTNNB1</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.948634'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">unnamed</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:45.354183'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/protein/myc/" class="internal-link">MYC</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:45.354183'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/protein/ctnnb1/" class="internal-link">CTNNB1</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:45.354183'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/protein/myc/" class="internal-link">MYC</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:49.074450'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/protein/ctnnb1/" class="internal-link">CTNNB1</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:45.151669'
-source: obsidian
-</code></pre>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/gene/myc/" class="internal-link">MYC</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">unnamed</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/gene/ctnnb1/" class="internal-link">CTNNB1</a></p>
 <h2>Source Data</h2>
 <ul>
 <li><strong>Source System:</strong> literature_extraction - <strong>Last Modified in Source:</strong> 2026-01-03T08:01:21+0000</li>

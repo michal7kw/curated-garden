@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.595537Z'
+created: '2026-03-12T06:00:32.399743Z'
 description: A partial or total inability to hear sound in one or both ears, ranging
   from mild to profound.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/hearing-loss/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/hearing-loss/
 slug: hearing-loss
 tags:
 - condition
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Hearing Loss
 type: condition
-updated: '2026-02-13T19:38:05.595537Z'
+updated: '2026-03-12T06:00:32.399743Z'
 ---
 
 {% raw %}
@@ -28,31 +28,8 @@ updated: '2026-02-13T19:38:05.595537Z'
 <li><strong>Conductive:</strong> Sound cannot get through the outer or middle ear. Often temporary or treatable. (e.g., Earwax, Fluid, Perforated eardrum).</li>
 <li><strong>Mixed:</strong> Combination of both.</li>
 </ol>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/hearing-loss/" class="internal-link">Hearing_Loss</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:39.796638'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/hearing-loss/" class="internal-link">Hearing_Loss</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:38.148153'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Tinnitus</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Dementia</a> - Untreated hearing loss is a major risk factor.<br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a><br />
-CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Noise Exposure</a><br />
-CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Aging</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Ear</a><br />
-TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Hearing Aid</a><br />
-TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Cochlear Implant</a></p>
+<p>No relationships found.</p>
 <h2>References</h2>
 <ul>
 <li>World Health Organization. Deafness and hearing loss.</li>

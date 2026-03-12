@@ -1,18 +1,18 @@
 ---
-created: '2026-02-13T19:38:06.579692Z'
+created: '2026-03-12T06:00:33.056657Z'
 description: 14-test panel measuring glucose, electrolytes, kidney function (BUN,
   creatinine), liver enzymes (ALT, AST, ALP), and proteins.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/comprehensive-metabolic-panel/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/comprehensive-metabolic-panel/
 slug: comprehensive-metabolic-panel
 tags:
 - labtest
 templateEngineOverride: njk
 title: comprehensive_metabolic_panel
 type: labtest
-updated: '2026-02-13T19:38:06.579692Z'
+updated: '2026-03-12T06:00:33.056657Z'
 ---
 
 {% raw %}
@@ -67,20 +67,20 @@ updated: '2026-02-13T19:38:06.579692Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/dev_admin/labtest/glucose/" class="internal-link">glucose</a></li>
-<li><a href="/garden/dev_admin/biomarker/bun/" class="internal-link">bun</a></li>
-<li><a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">creatinine</a></li>
-<li><a href="/garden/dev_admin/labtest/sodium/" class="internal-link">sodium</a></li>
-<li><a href="/garden/dev_admin/labtest/potassium/" class="internal-link">potassium</a></li>
-<li><a href="/garden/dev_admin/labtest/chloride/" class="internal-link">chloride</a></li>
-<li><a href="/garden/dev_admin/biomarker/co2/" class="internal-link">co2</a></li>
-<li><a href="/garden/dev_admin/labtest/calcium/" class="internal-link">calcium</a></li>
-<li><a href="/garden/dev_admin/labtest/total-protein/" class="internal-link">total_protein</a></li>
-<li><a href="/garden/dev_admin/labtest/albumin/" class="internal-link">albumin</a></li>
-<li><a href="/garden/dev_admin/biomarker/bilirubin/" class="internal-link">bilirubin</a></li>
-<li><a href="/garden/dev_admin/biomarker/alp/" class="internal-link">alp</a></li>
-<li><a href="/garden/dev_admin/biomarker/alt/" class="internal-link">alt</a></li>
-<li><a href="/garden/dev_admin/biomarker/ast/" class="internal-link">ast</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/metabolite/glucose/" class="internal-link">glucose</a></li>
+<li><a class="internal-link is-unresolved" href="/404">bun</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/creatinine/" class="internal-link">creatinine</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/sodium/" class="internal-link">sodium</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/potassium/" class="internal-link">potassium</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/chloride/" class="internal-link">chloride</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/biomarker/co2/" class="internal-link">co2</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/calcium/" class="internal-link">calcium</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/total-protein/" class="internal-link">total_protein</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/albumin/" class="internal-link">albumin</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/biomarker/bilirubin/" class="internal-link">bilirubin</a></li>
+<li><a class="internal-link is-unresolved" href="/404">alp</a></li>
+<li><a class="internal-link is-unresolved" href="/404">alt</a></li>
+<li><a class="internal-link is-unresolved" href="/404">ast</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -89,180 +89,25 @@ updated: '2026-02-13T19:38:06.579692Z'
 <p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/total-protein/" class="internal-link">total_protein</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.982645'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/sodium/" class="internal-link">sodium</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:25.865118'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/potassium/" class="internal-link">potassium</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:24.166096'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">Creatinine</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.031900'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/glucose-fasting/" class="internal-link">Glucose_Fasting</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.031900'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/glucose/" class="internal-link">glucose</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:13.767974'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">creatinine</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.828388'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/albumin/" class="internal-link">Albumin</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.031900'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/chloride/" class="internal-link">chloride</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:10.483206'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/calcium/" class="internal-link">calcium</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:10.048669'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/albumin/" class="internal-link">albumin</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.123823'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/biomarker/glucose-fasting/" class="internal-link">Glucose_Fasting</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:18.191984'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">Creatinine</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:15.961023'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/bun/" class="internal-link">bun</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.872326'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/bilirubin/" class="internal-link">bilirubin</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.872326'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/alp/" class="internal-link">alp</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.872326'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/ast/" class="internal-link">ast</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.872326'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/alt/" class="internal-link">alt</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.872326'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/co2/" class="internal-link">co2</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.872326'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/albumin/" class="internal-link">Albumin</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:13.652856'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">creatinine</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.872326'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/calcium/" class="internal-link">calcium</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.872326'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/albumin/" class="internal-link">albumin</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.872326'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/chloride/" class="internal-link">chloride</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.872326'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/potassium/" class="internal-link">potassium</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.872326'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/sodium/" class="internal-link">sodium</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.872326'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/glucose/" class="internal-link">glucose</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.872326'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/total-protein/" class="internal-link">total_protein</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.872326'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/co2/" class="internal-link">co2</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/creatinine/" class="internal-link">creatinine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/glucose/" class="internal-link">glucose</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/total-protein/" class="internal-link">total_protein</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">alp</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/albumin/" class="internal-link">albumin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/glucose-fasting/" class="internal-link">Glucose_Fasting</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/chloride/" class="internal-link">chloride</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">bun</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/potassium/" class="internal-link">potassium</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/bilirubin/" class="internal-link">bilirubin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/sodium/" class="internal-link">sodium</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/albumin/" class="internal-link">Albumin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/calcium/" class="internal-link">calcium</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">ast</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">alt</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

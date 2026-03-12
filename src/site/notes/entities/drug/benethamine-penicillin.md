@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:06.057289Z'
+created: '2026-03-12T06:00:32.647693Z'
 description: A very long-acting salt form of Penicillin G used for the treatment and
   prophylaxis of streptococcal infections.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/drug/benethamine-penicillin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/drug/benethamine-penicillin/
 slug: benethamine-penicillin
 tags:
 - drug
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Benethamine Penicillin
 type: drug
-updated: '2026-02-13T19:38:06.057289Z'
+updated: '2026-03-12T06:00:32.647693Z'
 ---
 
 {% raw %}
@@ -28,16 +28,8 @@ updated: '2026-02-13T19:38:06.057289Z'
 <li><strong>Syphilis.</strong></li>
 <li><strong>Streptococcal Pharyngitis.</strong></li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <p>No relationships found.</p>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>TREATS_CONDITION::<a class="internal-link is-unresolved" href="/404">Syphilis</a><br />
-TREATS_CONDITION::<a class="internal-link is-unresolved" href="/404">Tonsillitis</a><br />
-PREVENTS_CONDITION::<a class="internal-link is-unresolved" href="/404">Rheumatic Fever</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/bacterial-infections/" class="internal-link">Bacterial Infections</a><br />
-DRUG_CONTAINS_COMPOUND::<a href="/garden/dev_admin/drug/penicillin-g/" class="internal-link">Penicillin G</a></p>
 <h2>References</h2>
 <ul>
 <li>DrugBank. Benethamine Penicillin.</li>

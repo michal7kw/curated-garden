@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:06.017215Z'
+created: '2026-03-12T06:00:32.623415Z'
 description: A condition where a blood clot forms in a vein, encompassing Deep Vein
   Thrombosis (DVT) and Pulmonary Embolism (PE).
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/venous-thromboembolism/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/venous-thromboembolism/
 slug: venous-thromboembolism
 tags:
 - condition
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Venous Thromboembolism
 type: condition
-updated: '2026-02-13T19:38:06.017215Z'
+updated: '2026-03-12T06:00:32.623415Z'
 ---
 
 {% raw %}
@@ -38,12 +38,7 @@ SORT confidence_score DESC
 </code></pre>
 <h2>Other Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/venous-thromboembolism/" class="internal-link">Venous_Thromboembolism</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:46.265186'
-source: obsidian
-</code></pre>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/venous-thromboembolism/" class="internal-link">Venous_Thromboembolism</a></p>
 <h2>Research</h2>
 <h3>Recent Studies</h3>
 <pre><code class="language-dataview">LIST
@@ -56,22 +51,8 @@ SORT date DESC
 FROM [[Venous Thromboembolism]] AND #clinical-trial
 SORT date DESC
 </code></pre>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/venous-thromboembolism/" class="internal-link">Venous_Thromboembolism</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.061698'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/venous-thromboembolism/" class="internal-link">Venous_Thromboembolism</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.061698'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
+<p>No relationships found.</p>
 <h2>References</h2>
 <p>No references available.</p>
 

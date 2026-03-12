@@ -1,13 +1,13 @@
 ---
-created: '2026-02-13T19:38:06.594442Z'
+created: '2026-03-12T06:00:33.066917Z'
 description: Cortisol is often called “the stress hormone” because it rises during
   times of pressure or emotional distress, helping the body respond and adapt. Either
   high or low levels can signal chronic stress, sleep problems, or disorders of the
   adrenal glands.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/cortisol/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/cortisol/
 slug: cortisol
 tags:
 - labtest
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: cortisol
 type: labtest
-updated: '2026-02-13T19:38:06.594442Z'
+updated: '2026-03-12T06:00:33.066917Z'
 ---
 
 {% raw %}
@@ -69,96 +69,14 @@ updated: '2026-02-13T19:38:06.594442Z'
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/cushings-syndrome/" class="internal-link">CushingS_Syndrome</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.477843'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Chronic_Stress_Elevated_Cortisol</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.477843'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Pituitary_Disorders</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.477843'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.477843'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Adrenal_Hyperplasia</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.477843'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Adrenal_Insufficiency</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.477843'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Pituitary_Disorders</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.112102'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Adrenal_Insufficiency</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.112102'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/cushings-syndrome/" class="internal-link">CushingS_Syndrome</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.112102'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Adrenal_Hyperplasia</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.112102'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Chronic_Stress_Elevated_Cortisol</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.112102'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.940019'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/cortisol-am/" class="internal-link">cortisol_am</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:11.477843'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/cortisol-am/" class="internal-link">cortisol_am</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.036701'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/cushings-syndrome/" class="internal-link">CushingS_Syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Adrenal_Hyperplasia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Chronic_Stress_Elevated_Cortisol</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Adrenal_Insufficiency</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol-am/" class="internal-link">cortisol_am</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Pituitary_Disorders</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

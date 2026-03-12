@@ -1,18 +1,18 @@
 ---
-created: '2026-02-13T19:38:06.500312Z'
+created: '2026-03-12T06:00:32.982162Z'
 description: Measures ApoB protein, present in all atherogenic lipoprotein particles.
   Considered superior to LDL-C for CVD risk.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/apolipoprotein-b/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/apolipoprotein-b/
 slug: apolipoprotein-b
 tags:
 - labtest
 templateEngineOverride: njk
 title: apolipoprotein_b
 type: labtest
-updated: '2026-02-13T19:38:06.500312Z'
+updated: '2026-03-12T06:00:32.982162Z'
 ---
 
 {% raw %}
@@ -54,7 +54,7 @@ updated: '2026-02-13T19:38:06.500312Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/dev_admin/biomarker/apob/" class="internal-link">apoB</a></li>
+<li><a class="internal-link is-unresolved" href="/404">apoB</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -63,18 +63,9 @@ updated: '2026-02-13T19:38:06.500312Z'
 <p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/apob/" class="internal-link">apoB</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.170952'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">apoB</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

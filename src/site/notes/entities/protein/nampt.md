@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:08.812188Z'
+created: '2026-03-12T06:00:34.129330Z'
 description: Nicotinamide phosphoribosyltransferase, the rate-limiting enzyme in the
   NAD+ salvage pathway. Converts nicotinamide to nicotinamide mononucleotide (NMN),
   representing a critical control point for cellular NAD+ biosynthesis.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/protein/nampt/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/protein/nampt/
 slug: nampt
 tags:
 - protein
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: NAMPT
 type: protein
-updated: '2026-02-13T19:38:08.812188Z'
+updated: '2026-03-12T06:00:34.129330Z'
 ---
 
 {% raw %}
@@ -112,22 +112,8 @@ updated: '2026-02-13T19:38:08.812188Z'
 <li><strong>Ramsey et al., 2009</strong> (PMID: 19299583): Circadian regulation of NAMPT</li>
 <li><strong>Yoshida et al., 2019</strong> (PMID: 31002657): eNAMPT in blood extends lifespan in mice</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <p>No relationships found.</p>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>CATALYZES_PRODUCTION_OF::<a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a> - Produces NMN from nicotinamide<br />
-PARTICIPATES_IN_PATHWAY::<a href="/garden/dev_admin/pathway/nad-salvage-pathway/" class="internal-link">NAD+ Salvage Pathway</a> - Rate-limiting enzyme<br />
-UPSTREAM_OF::<a class="internal-link is-unresolved" href="/404">NAD+</a> - Controls NAD+ biosynthesis rate<br />
-ACTIVATED_BY::<a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a> - Upregulates NAMPT expression<br />
-ACTIVATED_BY::<a href="/garden/dev_admin/intervention/caloric-restriction/" class="internal-link">Caloric Restriction</a> - Increases NAMPT activity<br />
-AFFECTED_BY::<a href="/garden/dev_admin/pathway/circadian-rhythm-pathway/" class="internal-link">Circadian Rhythm Pathway</a> - Circadian expression pattern<br />
-RELATED_TO::<a href="/garden/dev_admin/protein/sirt1/" class="internal-link">SIRT1</a> - NAMPT activity determines sirtuin substrate availability<br />
-RELATED_TO::<a href="/garden/dev_admin/protein/sirt3/" class="internal-link">SIRT3</a> - Mitochondrial NAD+ pool maintenance<br />
-COMPETES_WITH::<a href="/garden/dev_admin/protein/cd38/" class="internal-link">CD38</a> - CD38 consumes NAD+ that NAMPT produces<br />
-INHIBITED_BY::<a class="internal-link is-unresolved" href="/404">Nicotinamide</a> - Product inhibition<br />
-ENCODED_BY::<a href="/garden/dev_admin/protein/nampt/" class="internal-link">NAMPT</a> - NAMPT gene</p>
 <h2>References</h2>
 <ul>
 <li>Revollo JR, et al. The NAD biosynthesis pathway mediated by nicotinamide phosphoribosyltransferase regulates Sir2 activity in mammalian cells. J Biol Chem. 2004;279(49):50754-63. PMID: 15381699</li>

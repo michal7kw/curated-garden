@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:06.301808Z'
+created: '2026-03-12T06:00:32.819555Z'
 description: Encodes AKT1 (Protein Kinase B alpha), a serine/threonine kinase that
   is a central node in the PI3K/AKT pathway. Regulates cell survival, proliferation,
   metabolism, and insulin signaling.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/gene/akt1/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/gene/akt1/
 slug: akt1
 tags:
 - gene
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: AKT1
 type: gene
-updated: '2026-02-13T19:38:06.301808Z'
+updated: '2026-03-12T06:00:32.819555Z'
 ---
 
 {% raw %}
@@ -55,19 +55,19 @@ updated: '2026-02-13T19:38:06.301808Z'
 </ul>
 <h2>Relationships</h2>
 <p>ENCODES::<a class="internal-link is-unresolved" href="/404">AKT1 Protein</a><br />
-PARTICIPATES_IN_PATHWAY::<a href="/garden/dev_admin/pathway/insulin-signaling/" class="internal-link">Insulin Signaling</a><br />
-PARTICIPATES_IN_PATHWAY::<a href="/garden/dev_admin/pathway/mtor-pathway/" class="internal-link">mTOR Pathway</a><br />
+PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/insulin-signaling/" class="internal-link">Insulin Signaling</a><br />
+PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/mtor-pathway/" class="internal-link">mTOR Pathway</a><br />
 PARTICIPATES_IN_PATHWAY::<a class="internal-link is-unresolved" href="/404">PI3K/AKT Signaling</a><br />
 ACTIVATED_BY::<a class="internal-link is-unresolved" href="/404">PI3K</a> - Upstream kinase<br />
-ACTIVATED_BY::<a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a> - Primary hormonal activator<br />
-ACTIVATED_BY::<a href="/garden/dev_admin/hormone/igf-1/" class="internal-link">IGF-1</a><br />
+ACTIVATED_BY::<a href="/garden/michal.k7w@gmail.com/labtest/insulin/" class="internal-link">Insulin</a> - Primary hormonal activator<br />
+ACTIVATED_BY::<a href="/garden/michal.k7w@gmail.com/hormone/igf-1/" class="internal-link">IGF-1</a><br />
 INHIBITED_BY::<a class="internal-link is-unresolved" href="/404">PTEN</a> - Tumor suppressor that antagonizes PI3K<br />
 ACTIVATES::<a class="internal-link is-unresolved" href="/404">mTOR</a> - Promotes growth<br />
 ACTIVATES::<a class="internal-link is-unresolved" href="/404">eNOS</a> - Promotes vasodilation<br />
 INHIBITS::<a class="internal-link is-unresolved" href="/404">GSK3beta</a> - Promotes glycogen synthesis<br />
 INHIBITS::<a class="internal-link is-unresolved" href="/404">FOXO</a> - Promotes survival<br />
 INHIBITS::<a class="internal-link is-unresolved" href="/404">BAD</a> - Anti-apoptotic<br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/cancer/" class="internal-link">Cancer</a> - Frequently hyperactivated<br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cancer/" class="internal-link">Cancer</a> - Frequently hyperactivated<br />
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a> - Insulin resistance<br />
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Proteus Syndrome</a></p>
 <h2>References</h2>

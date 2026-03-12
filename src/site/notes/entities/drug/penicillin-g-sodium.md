@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:06.178387Z'
+created: '2026-03-12T06:00:32.719436Z'
 description: A sodium salt form of Penicillin G, preferred for patients who cannot
   tolerate the potassium load of Penicillin G Potassium.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/drug/penicillin-g-sodium/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/drug/penicillin-g-sodium/
 slug: penicillin-g-sodium
 tags:
 - drug
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Penicillin G Sodium
 type: drug
-updated: '2026-02-13T19:38:06.178387Z'
+updated: '2026-03-12T06:00:32.719436Z'
 ---
 
 {% raw %}
@@ -29,15 +29,8 @@ updated: '2026-02-13T19:38:06.178387Z'
 <li><strong>Gas Gangrene.</strong></li>
 <li><strong>Endocarditis.</strong></li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <p>No relationships found.</p>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>TREATS_CONDITION::<a class="internal-link is-unresolved" href="/404">Syphilis</a><br />
-TREATS_CONDITION::<a href="/garden/dev_admin/condition/bacterial-endocarditis/" class="internal-link">Bacterial Endocarditis</a><br />
-ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/sodium/" class="internal-link">Sodium</a><br />
-DRUG_CONTAINS_COMPOUND::<a href="/garden/dev_admin/drug/penicillin-g/" class="internal-link">Penicillin G</a></p>
 <h2>References</h2>
 <ul>
 <li>FDA. Penicillin G Sodium Injection.</li>

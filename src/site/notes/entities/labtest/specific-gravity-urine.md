@@ -1,20 +1,20 @@
 ---
-created: '2026-02-13T19:38:07.020184Z'
+created: '2026-03-12T06:00:33.431884Z'
 description: Tested twice a year Urine specific gravity measures how concentrated
   or diluted urine is compared to water, providing insight into hydration status and
   kidney function. Abnormal readings—either too low or too high—can be associated
   with conditions such as dehydration, kidney stones, or impaired kidney function.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/specific-gravity-urine/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/specific-gravity-urine/
 slug: specific-gravity-urine
 tags:
 - labtest
 templateEngineOverride: njk
 title: specific_gravity_urine
 type: labtest
-updated: '2026-02-13T19:38:07.020184Z'
+updated: '2026-03-12T06:00:33.431884Z'
 ---
 
 {% raw %}
@@ -63,78 +63,21 @@ updated: '2026-02-13T19:38:07.020184Z'
 <li><a class="internal-link is-unresolved" href="/404">Overhydration</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Kidney Dysfunction</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Metabolic Dysfunction</a></li>
-<li><a href="/garden/dev_admin/condition/urinary-concentration-imbalance/" class="internal-link">Urinary Concentration Imbalance</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/urinary-concentration-imbalance/" class="internal-link">Urinary Concentration Imbalance</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
+<h3>Conditions</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/urinary-concentration-imbalance/" class="internal-link">Urinary_Concentration_Imbalance</a></p>
 <h3>Related</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:26.048203'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Metabolic_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:26.048203'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/urinary-concentration-imbalance/" class="internal-link">Urinary_Concentration_Imbalance</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:26.048203'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Metabolic_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.926138'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Dehydration</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.926138'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Overhydration</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.926138'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.926138'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/urinary-concentration-imbalance/" class="internal-link">Urinary_Concentration_Imbalance</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.926138'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/urinary-concentration-imbalance/" class="internal-link">Urinary_Concentration_Imbalance</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.546204'
-source: obsidian
-</code></pre>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/urinary-concentration-imbalance/" class="internal-link">Urinary_Concentration_Imbalance</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Overhydration</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic_Dysfunction</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a></p>
 <h3>May Detect</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/urinary-concentration-imbalance/" class="internal-link">Urinary_Concentration_Imbalance</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/urinary-concentration-imbalance/" class="internal-link">Urinary_Concentration_Imbalance</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

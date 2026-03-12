@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.422005Z'
+created: '2026-03-12T06:00:32.297208Z'
 description: A type of cancer that starts in cells that make up the skin or the tissue
   lining organs, such as the liver or kidneys.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/carcinoma/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/carcinoma/
 slug: carcinoma
 tags:
 - condition
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Carcinoma
 type: condition
-updated: '2026-02-13T19:38:05.422005Z'
+updated: '2026-03-12T06:00:32.297208Z'
 ---
 
 {% raw %}
@@ -37,12 +37,6 @@ SORT confidence_score DESC
 </code></pre>
 <h2>Other Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/carcinoma/" class="internal-link">Carcinoma</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:52.322641'
-source: obsidian
-</code></pre>
 <h2>Research</h2>
 <h3>Recent Studies</h3>
 <pre><code class="language-dataview">LIST
@@ -55,16 +49,8 @@ SORT date DESC
 FROM [[Carcinoma]] AND #clinical-trial
 SORT date DESC
 </code></pre>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/carcinoma/" class="internal-link">Carcinoma</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.651878'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
+<p>No relationships found.</p>
 <h2>References</h2>
 <p>No references available.</p>
 

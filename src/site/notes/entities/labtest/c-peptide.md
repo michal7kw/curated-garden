@@ -1,19 +1,19 @@
 ---
-created: '2026-02-13T19:38:06.544037Z'
+created: '2026-03-12T06:00:33.022166Z'
 description: C-Peptide test. Measures endogenous insulin production by quantifying
   the connecting peptide released during proinsulin cleavage. Used to differentiate
   Type 1 from Type 2 diabetes and evaluate beta-cell function.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/c-peptide/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/c-peptide/
 slug: c-peptide
 tags:
 - labtest
 templateEngineOverride: njk
 title: c_peptide
 type: labtest
-updated: '2026-02-13T19:38:06.544037Z'
+updated: '2026-03-12T06:00:33.022166Z'
 ---
 
 {% raw %}
@@ -102,13 +102,10 @@ updated: '2026-02-13T19:38:06.544037Z'
 <li><a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Insulinoma</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Hypoglycemia</a></li>
-<li><a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></li>
 </ul>
 <h2>Relationships</h2>
 <h3>Measures</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/c-peptide/" class="internal-link">C-Peptide</a> (biomarker)</li>
-</ul>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

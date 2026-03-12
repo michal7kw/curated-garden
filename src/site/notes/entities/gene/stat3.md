@@ -1,10 +1,10 @@
 ---
-created: '2026-02-13T19:38:06.343473Z'
+created: '2026-03-12T06:00:32.856565Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/gene/stat3/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/gene/stat3/
 slug: stat3
 tags:
 - gene
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: STAT3
 type: gene
-updated: '2026-02-13T19:38:06.343473Z'
+updated: '2026-03-12T06:00:32.856565Z'
 ---
 
 {% raw %}
@@ -45,13 +45,13 @@ updated: '2026-02-13T19:38:06.343473Z'
 <p>ENCODES::<a class="internal-link is-unresolved" href="/404">STAT3 Protein</a><br />
 ACTIVATED_BY::<a class="internal-link is-unresolved" href="/404">IL-6</a> - Primary cytokine activator<br />
 ACTIVATED_BY::<a class="internal-link is-unresolved" href="/404">JAK2</a> - Upstream kinase<br />
-ACTIVATED_BY::<a href="/garden/dev_admin/protein/egfr/" class="internal-link">EGFR</a><br />
+ACTIVATED_BY::<a href="/garden/michal.k7w@gmail.com/protein/egfr/" class="internal-link">EGFR</a><br />
 PARTICIPATES_IN_PATHWAY::<a class="internal-link is-unresolved" href="/404">JAK-STAT Pathway</a><br />
-REGULATES::<a href="/garden/dev_admin/condition/inflammation/" class="internal-link">Inflammation</a><br />
+REGULATES::<a href="/garden/michal.k7w@gmail.com/condition/inflammation/" class="internal-link">Inflammation</a><br />
 REGULATES::<a class="internal-link is-unresolved" href="/404">Th17 Cells</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/cancer/" class="internal-link">Cancer</a> - Promotes survival/metastasis<br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cancer/" class="internal-link">Cancer</a> - Promotes survival/metastasis<br />
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Hyper-IgE Syndrome</a> - Loss of function<br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/psoriasis/" class="internal-link">Psoriasis</a> - Driven by Th17/STAT3 axis<br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/psoriasis/" class="internal-link">Psoriasis</a> - Driven by Th17/STAT3 axis<br />
 TARGETS::<a class="internal-link is-unresolved" href="/404">BCL2</a> - Anti-apoptotic gene<br />
 TARGETS::<a class="internal-link is-unresolved" href="/404">VEGF</a> - Angiogenesis gene</p>
 <h2>References</h2>

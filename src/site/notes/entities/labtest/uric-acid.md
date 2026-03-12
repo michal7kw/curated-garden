@@ -1,20 +1,20 @@
 ---
-created: '2026-02-13T19:38:07.106221Z'
+created: '2026-03-12T06:00:33.618260Z'
 description: Uric acid is a substance the body produces when breaking down certain
   foods and natural waste products. Testing uric acid can provide insight into kidney
   function and how well the body is processing waste. Imbalances may indicate an increased
   risk of gout or certain kidney problems.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/uric-acid/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/uric-acid/
 slug: uric-acid
 tags:
 - labtest
 templateEngineOverride: njk
 title: uric_acid
 type: labtest
-updated: '2026-02-13T19:38:07.106221Z'
+updated: '2026-03-12T06:00:33.618260Z'
 ---
 
 {% raw %}
@@ -60,126 +60,28 @@ updated: '2026-02-13T19:38:07.106221Z'
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
 <li><a class="internal-link is-unresolved" href="/404">Gout</a></li>
-<li><a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney Stones</a></li>
-<li><a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></li>
-<li><a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></li>
-<li><a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/kidney-stones/" class="internal-link">Kidney Stones</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:28.726543'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:28.726543'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:28.726543'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney_Stones</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:28.726543'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Gout</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.406769'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.406769'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.406769'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.406769'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney_Stones</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:01.406769'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney_Stones</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.535622'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.198940'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.806764'
-source: obsidian
-</code></pre>
 <h3>May Detect</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney_Stones</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/kidney-stones/" class="internal-link">Kidney_Stones</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a></p>
+<h3>Related</h3>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Gout</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/kidney-stones/" class="internal-link">Kidney_Stones</a></p>
+<h3>Conditions</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/kidney-stones/" class="internal-link">Kidney_Stones</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

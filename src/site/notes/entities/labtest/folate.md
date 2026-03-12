@@ -1,18 +1,18 @@
 ---
-created: '2026-02-13T19:38:06.650623Z'
+created: '2026-03-12T06:00:33.113063Z'
 description: B-vitamin essential for DNA synthesis. Important for pregnancy and cardiovascular
   health.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/folate/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/folate/
 slug: folate
 tags:
 - labtest
 templateEngineOverride: njk
 title: folate
 type: labtest
-updated: '2026-02-13T19:38:06.650623Z'
+updated: '2026-03-12T06:00:33.113063Z'
 ---
 
 {% raw %}
@@ -57,16 +57,6 @@ updated: '2026-02-13T19:38:06.650623Z'
 <p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
-<h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/folate/" class="internal-link">folate</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.889837'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
 <p>No relationships found.</p>
 <h2>Notes</h2>

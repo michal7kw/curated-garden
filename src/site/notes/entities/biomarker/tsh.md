@@ -1,16 +1,16 @@
 ---
-created: '2026-02-13T19:38:05.045685Z'
+created: '2026-03-12T06:00:32.150828Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/tsh/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/tsh/
 slug: tsh
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Tsh
 type: biomarker
-updated: '2026-02-13T19:38:05.045685Z'
+updated: '2026-03-12T06:00:32.150828Z'
 ---
 
 {% raw %}
@@ -26,55 +26,12 @@ updated: '2026-02-13T19:38:05.045685Z'
 <li><strong>Fasting Required</strong>: False</li>
 <li><strong>Recommended Test Frequency</strong>: Not specified</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/phenotype/anxiety/" class="internal-link">Anxiety</a> (phenotype)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:23.556962'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/phenotype/fatigue/" class="internal-link">Fatigue</a> (phenotype)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:23.556962'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/phenotype/fatigue/" class="internal-link">Fatigue</a> (phenotype)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:18.588212'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/phenotype/anxiety/" class="internal-link">Anxiety</a> (phenotype)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:13.859142'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/tsh/" class="internal-link">Tsh</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.214887'
-source: obsidian
-</code></pre>
 <h3>Indicates Organ Health</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/thyroid/" class="internal-link">Thyroid</a> (organ)</li>
-</ul>
-<pre><code class="language-yaml">specificity: high
-function_indicated: Thyroid Regulation
-source: curated
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<h3>Influences</h3>
-<p>No known influences documented.</p>
-<h3>Correlations</h3>
-<p>No correlations documented.</p>
-<h3>Other Relationships</h3>
+<p>INDICATES_ORGAN_HEALTH::<a class="internal-link is-unresolved" href="/404">Thyroid</a></p>
 <h3>Related</h3>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/phenotype/anxiety/" class="internal-link">Anxiety</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/phenotype/fatigue/" class="internal-link">Fatigue</a></p>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <p>No supplement effects documented yet. Add effects in the respective supplement notes.</p>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>

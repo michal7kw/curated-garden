@@ -61,6 +61,32 @@
                               </div>
                         {%endif%}
                   {%endif%}
+                  {# Referenced in Diagrams — show diagram-type backlinks separately #}
+                  {%if settings.dgShowBacklinks === true %}
+                    {% set diagramBacklinks = [] %}
+                    {% set currentBacklinks = graph.nodes[page.url].backLinks if page.url != "/" else graph.nodes[graph.homeAlias].backLinks %}
+                    {% for backlink in currentBacklinks %}
+                      {% if graph.nodes[backlink] and graph.nodes[backlink].isDiagram %}
+                        {% set diagramBacklinks = (diagramBacklinks.push(backlink), diagramBacklinks) %}
+                      {% endif %}
+                    {% endfor %}
+                    {% if diagramBacklinks.length > 0 %}
+                      <div class="backlinks diagram-backlinks">
+                        <div class="backlink-title" style="margin: 4px 0 !important;">
+                          <i icon-name="pen-tool"></i> Referenced in diagrams
+                        </div>
+                        <div class="backlink-list">
+                          {% for backlink in diagramBacklinks %}
+                            <div class="backlink-card">
+                              <i icon-name="pen-tool"></i>
+                              <a href="{{graph.nodes[backlink].url}}" data-note-icon="{{graph.nodes[backlink].noteIcon}}" class="backlink">{{graph.nodes[backlink].title}}</a>
+                            </div>
+                          {% endfor %}
+                        </div>
+                      </div>
+                    {% endif %}
+                  {%endif%}
+
                   {% for imp in dynamics.sidebar.bottom %}
                         {% include imp %}
                   {% endfor %}

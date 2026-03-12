@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:38:08.973428Z'
+created: '2026-03-12T06:00:34.228977Z'
 description: This comprehensive mechanistic review elucidates how resveratrol activates
   SIRT1 through allosteric modulation, triggering downstream effects on PGC-1alpha,
   mitochondrial biogenesis, and metabolic homeostasis. The paper provides critical
@@ -7,8 +7,8 @@ description: This comprehensive mechanistic review elucidates how resveratrol ac
   the SIRT1/PGC-1alpha axis.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/research/sirt1-activation-by-resveratrol-mechanism-and-physiological-effects/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/research/sirt1-activation-by-resveratrol-mechanism-and-physiological-effects/
 slug: sirt1-activation-by-resveratrol-mechanism-and-physiological-effects
 tags:
 - research
@@ -22,7 +22,7 @@ tags:
 templateEngineOverride: njk
 title: 'SIRT1 activation by resveratrol: mechanism and physiological effects'
 type: research
-updated: '2026-02-13T19:38:08.973428Z'
+updated: '2026-03-12T06:00:34.228977Z'
 ---
 
 {% raw %}
@@ -43,21 +43,8 @@ updated: '2026-02-13T19:38:08.973428Z'
 <p>This comprehensive mechanistic review elucidates how resveratrol activates SIRT1 through allosteric modulation, triggering downstream effects on PGC-1alpha, mitochondrial biogenesis, and metabolic homeostasis. The paper provides critical evidence for resveratrol's role in mimicking caloric restriction benefits through the SIRT1/PGC-1alpha axis.</p>
 <h2>Keywords</h2>
 <p>resveratrol, SIRT1, PGC-1alpha, mitochondrial biogenesis, caloric restriction, NAD+, sirtuins, aging</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <p>No relationships found.</p>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>STUDIES::<a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a> - Primary compound investigated<br />
-ACTIVATES::<a href="/garden/dev_admin/protein/sirt1/" class="internal-link">SIRT1</a> - Direct allosteric activation mechanism demonstrated<br />
-ACTIVATES::<a href="/garden/dev_admin/protein/pgc-1alpha/" class="internal-link">PGC-1alpha</a> - Downstream target via SIRT1-mediated deacetylation<br />
-INCREASES::<a class="internal-link is-unresolved" href="/404">NAD+</a> - Required cofactor for SIRT1 activity<br />
-AFFECTS::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> - Enhanced biogenesis and function<br />
-ACTIVATES::<a href="/garden/dev_admin/protein/nrf2/" class="internal-link">NRF2</a> - Downstream transcription factor<br />
-ACTIVATES::<a href="/garden/dev_admin/protein/tfam/" class="internal-link">TFAM</a> - Mitochondrial transcription factor activation<br />
-RELATED_TO::<a href="/garden/dev_admin/protein/ampk/" class="internal-link">AMPK</a> - Cross-talk with energy sensing pathway<br />
-AFFECTS::<a class="internal-link is-unresolved" href="/404">Muscle</a> - Target tissue for metabolic effects<br />
-AFFECTS::<a class="internal-link is-unresolved" href="/404">Liver</a> - Hepatic metabolic improvements</p>
 <h2>Methodology</h2>
 <pre><code class="language-yaml">design: Combined in vitro biochemistry, cell culture, and mouse models
 models_used:

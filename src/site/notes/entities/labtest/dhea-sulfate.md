@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:38:06.618707Z'
+created: '2026-03-12T06:00:33.086250Z'
 description: DHEA-Sulfate (DHEA-S) is one of the most abundant hormones in women and
   serves as a building block for other hormones, including estrogen and testosterone.
   Measuring DHEA-S can provide insight into reproductive function, adrenal gland health,
@@ -9,15 +9,15 @@ description: DHEA-Sulfate (DHEA-S) is one of the most abundant hormones in women
   HAIR LOSS MOOD CHANGES
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/dhea-sulfate/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/dhea-sulfate/
 slug: dhea-sulfate
 tags:
 - labtest
 templateEngineOverride: njk
 title: dhea_sulfate
 type: labtest
-updated: '2026-02-13T19:38:06.618707Z'
+updated: '2026-03-12T06:00:33.086250Z'
 ---
 
 {% raw %}
@@ -66,119 +66,24 @@ updated: '2026-02-13T19:38:06.618707Z'
 <li><a class="internal-link is-unresolved" href="/404">Polycystic Ovary Syndrome (Pcos)</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Hormonal Imbalance (Androgen Excess Or Deficiency)</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Aging-Related Decline</a></li>
-<li><a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Polycystic_Ovary_Syndrome_Pcos</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.089825'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Hormonal_Imbalance_Androgen_Excess_Or_Deficiency</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.089825'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Aging-Related_Decline</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.089825'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.089825'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Adrenal_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.089825'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Polycystic_Ovary_Syndrome_Pcos</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.422749'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Adrenal_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.422749'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Hormonal_Imbalance_Androgen_Excess_Or_Deficiency</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.422749'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Aging-Related_Decline</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.422749'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.422749'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy_hcg</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:05.634365'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtestpanel/extended-hormone-health/" class="internal-link">extended_hormone_health</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.266447'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/extended-hormone-health/" class="internal-link">extended_hormone_health</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.089825'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy_hcg</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.089825'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-</code></pre>
-<h3>May Detect</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Hormonal_Imbalance_Androgen_Excess_Or_Deficiency</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Aging-Related_Decline</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Adrenal_Dysfunction</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">extended_hormone_health</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">pregnancy_hcg</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Polycystic_Ovary_Syndrome_Pcos</a></p>
 <h3>Included In</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy_hcg</a> (labtestpanel)</li>
-<li>→ <a href="/garden/dev_admin/labtestpanel/extended-hormone-health/" class="internal-link">extended_hormone_health</a> (labtestpanel)</li>
-</ul>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">pregnancy_hcg</a><br />
+INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">extended_hormone_health</a></p>
+<h3>May Detect</h3>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

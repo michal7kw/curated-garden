@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:05.629157Z'
+created: '2026-03-12T06:00:32.416237Z'
 description: Persistently elevated blood pressure (≥130/80 mmHg) that increases risk
   of heart disease, stroke, kidney disease, and premature death. Often called the
   'silent killer' due to lack of symptoms. Affects nearly half of U.S. adults.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/hypertension/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/hypertension/
 slug: hypertension
 tags:
 - condition
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Hypertension
 type: condition
-updated: '2026-02-13T19:38:05.629157Z'
+updated: '2026-03-12T06:00:32.416237Z'
 ---
 
 {% raw %}
@@ -39,87 +39,12 @@ SORT confidence_score DESC
 </code></pre>
 <h2>Other Relationships</h2>
 <h3>May Improve Condition</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:22.486474'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.377214'
-source: obsidian
-</code></pre>
 <h3>May Detect</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/lead/" class="internal-link">lead</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/drug/prazosin/" class="internal-link">PRAZOSIN</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T08:39:36.089288'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:11.853683'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/drug/prazosin/" class="internal-link">PRAZOSIN</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:02.527184'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/drug/prazosin/" class="internal-link">PRAZOSIN</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:11.853683'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/lead/" class="internal-link">lead</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:11.853683'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/hypertension/" class="internal-link">Hypertension</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:11.853683'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:11.853683'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/lead/" class="internal-link">lead</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:30.205261'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:07.990267'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:12.965838'
-source: obsidian
-</code></pre>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/drug/prazosin/" class="internal-link">PRAZOSIN</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/lead/" class="internal-link">lead</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/magnesium/" class="internal-link">Magnesium</a></p>
 <h2>Research</h2>
 <h3>Recent Studies</h3>
 <pre><code class="language-dataview">LIST
@@ -132,97 +57,9 @@ SORT date DESC
 FROM [[Hypertension]] AND #clinical-trial
 SORT date DESC
 </code></pre>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:41.165362'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.661054'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.779185'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/lead/" class="internal-link">lead</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.745625'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/lead/" class="internal-link">lead</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.661054'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/drug/prazosin/" class="internal-link">PRAZOSIN</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.661054'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/drug/prazosin/" class="internal-link">PRAZOSIN</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.289113'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.989104'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:38.494293'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.661054'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/hypertension/" class="internal-link">Hypertension</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.661054'
-source: obsidian
-</code></pre>
-<h3>May Detect</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/lead/" class="internal-link">lead</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<h3>May Improve Condition</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:24.377214'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:22.486474'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a></p>
 <h2>References</h2>
 <p>No references available.</p>
 

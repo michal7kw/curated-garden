@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:38:06.807718Z'
+created: '2026-03-12T06:00:33.247382Z'
 description: Lipase is a digestive enzyme made by the pancreas that helps break down
   dietary fats. Elevated levels can indicate pancreatic stress or inflammation (pancreatitis)
   and may also be associated with conditions affecting the pancreas, gallbladder,
@@ -7,8 +7,8 @@ description: Lipase is a digestive enzyme made by the pancreas that helps break 
   picture of pancreatic health.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/lipase/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/lipase/
 slug: lipase
 tags:
 - labtest
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: lipase
 type: labtest
-updated: '2026-02-13T19:38:06.807718Z'
+updated: '2026-03-12T06:00:33.247382Z'
 ---
 
 {% raw %}
@@ -63,93 +63,24 @@ updated: '2026-02-13T19:38:06.807718Z'
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
 <li><a class="internal-link is-unresolved" href="/404">Pancreatitis (Acute Or Chronic)</a></li>
-<li><a href="/garden/dev_admin/condition/gallbladder-disease/" class="internal-link">Gallbladder Disease</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/gallbladder-disease/" class="internal-link">Gallbladder Disease</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Stomach Flu (Gastroenteritis)</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Kidney Disease</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Bowel Blockage Or Perforation</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Bowel_Blockage_Or_Perforation</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:19.073656'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:19.073656'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Stomach_Flu_Gastroenteritis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:19.073656'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/gallbladder-disease/" class="internal-link">Gallbladder_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:19.073656'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Pancreatitis_Acute_Or_Chronic</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:19.073656'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Stomach_Flu_Gastroenteritis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.162445'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Pancreatitis_Acute_Or_Chronic</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.162445'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.162445'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Bowel_Blockage_Or_Perforation</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.162445'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/gallbladder-disease/" class="internal-link">Gallbladder_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.162445'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/gallbladder-disease/" class="internal-link">Gallbladder_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.084583'
-source: obsidian
-</code></pre>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Pancreatitis_Acute_Or_Chronic</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Bowel_Blockage_Or_Perforation</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/gallbladder-disease/" class="internal-link">Gallbladder_Disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Stomach_Flu_Gastroenteritis</a></p>
 <h3>May Detect</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/gallbladder-disease/" class="internal-link">Gallbladder_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/gallbladder-disease/" class="internal-link">Gallbladder_Disease</a></p>
+<h3>Conditions</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/gallbladder-disease/" class="internal-link">Gallbladder_Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

@@ -1,16 +1,16 @@
 ---
-created: '2026-02-13T19:38:07.950496Z'
+created: '2026-03-12T06:00:33.839833Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/pathway/nigrostriatal-dopamine-pathway/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/pathway/nigrostriatal-dopamine-pathway/
 slug: nigrostriatal-dopamine-pathway
 tags:
 - pathway
 templateEngineOverride: njk
 title: Nigrostriatal Dopamine Pathway
 type: pathway
-updated: '2026-02-13T19:38:07.950496Z'
+updated: '2026-03-12T06:00:33.839833Z'
 ---
 
 {% raw %}
@@ -408,5 +408,9 @@ updated: '2026-02-13T19:38:07.950496Z'
 </ul>
 <h2>Summary</h2>
 <p>The nigrostriatal dopamine pathway connects the substantia nigra pars compacta to the striatum, providing the dopamine essential for smooth voluntary movement via balanced activation of direct (&quot;go&quot;) and indirect (&quot;no-go&quot;) pathways. Progressive degeneration of this pathway causes Parkinson's disease, characterized by tremor, rigidity, bradykinesia, and postural instability due to excessive indirect pathway activity and thalamic inhibition. Acute D2 receptor blockade by antipsychotic medications causes reversible drug-induced parkinsonism. Evidence-based treatments for PD include levodopa (dopamine replacement, gold standard), dopamine agonists, MAO-B inhibitors, and deep brain stimulation (STN or GPi). Supplements with potential neuroprotective effects include Mucuna pruriens (natural L-DOPA for symptom relief, 4/5 - medical supervision required), CoQ10 (mitochondrial support, 3/5), and creatine (energy metabolism, 3/5). Lifestyle interventions prioritizing regular aerobic exercise (most neuroprotective), Mediterranean diet, avoiding environmental toxins (pesticides, heavy metals), moderate coffee consumption, and early treatment of movement disorders are foundational for maintaining healthy nigrostriatal function and reducing Parkinson's disease risk.</p>
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 
 {% endraw %}

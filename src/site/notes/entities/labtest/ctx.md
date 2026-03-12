@@ -1,20 +1,20 @@
 ---
-created: '2026-02-13T19:38:06.607520Z'
+created: '2026-03-12T06:00:33.075402Z'
 description: C-Terminal Telopeptide (CTX or beta-CrossLaps) measures a collagen degradation
   fragment released during bone resorption. It is the most widely used marker of bone
   resorption and is recommended by the IOF/IFCC as the reference resorption marker.
   Used to monitor anti-resorptive therapy in osteoporosis.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/ctx/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/ctx/
 slug: ctx
 tags:
 - labtest
 templateEngineOverride: njk
 title: ctx
 type: labtest
-updated: '2026-02-13T19:38:06.607520Z'
+updated: '2026-03-12T06:00:33.075402Z'
 ---
 
 {% raw %}
@@ -98,26 +98,19 @@ updated: '2026-02-13T19:38:06.607520Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li><a href="/garden/dev_admin/condition/osteoporosis/" class="internal-link">Osteoporosis</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/osteoporosis/" class="internal-link">Osteoporosis</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Osteopenia</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Paget's Disease</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Hyperparathyroidism</a></li>
 </ul>
 <h2>Relationships</h2>
 <h3>Measures</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/ctx/" class="internal-link">CTX</a> (biomarker)</li>
-</ul>
 <h3>Related Tests</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/osteocalcin/" class="internal-link">osteocalcin</a> (labtest) - Bone formation marker (complementary)</li>
-<li>→ <a href="/garden/dev_admin/labtest/vitamin-d-25oh/" class="internal-link">vitamin d 25oh</a> (labtest) - Vitamin D status affects bone turnover</li>
-<li>→ <a href="/garden/dev_admin/labtest/calcium/" class="internal-link">calcium</a> (labtest) - Calcium homeostasis and bone health</li>
-</ul>
+<p>RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/calcium/" class="internal-link">calcium</a><br />
+RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/vitamin-d-25oh/" class="internal-link">vitamin_d_25oh</a><br />
+RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/osteocalcin/" class="internal-link">osteocalcin</a></p>
 <h3>Included In</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/bone-health-panel/" class="internal-link">bone health panel</a> (labtestpanel)</li>
-</ul>
+<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">bone_health_panel</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Fasting morning collection is critical (CTX has marked diurnal variation)</li>

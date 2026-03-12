@@ -1,18 +1,18 @@
 ---
-created: '2026-02-13T19:38:06.996881Z'
+created: '2026-03-12T06:00:33.408619Z'
 description: Inactive thyroid hormone metabolite. Elevated in chronic illness, stress,
   and low-calorie diets.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/reverse-t3/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/reverse-t3/
 slug: reverse-t3
 tags:
 - labtest
 templateEngineOverride: njk
 title: reverse_t3
 type: labtest
-updated: '2026-02-13T19:38:06.996881Z'
+updated: '2026-03-12T06:00:33.408619Z'
 ---
 
 {% raw %}
@@ -54,7 +54,7 @@ updated: '2026-02-13T19:38:06.996881Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/dev_admin/labtest/reverse-t3/" class="internal-link">reverse_t3</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/reverse-t3/" class="internal-link">reverse_t3</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -63,30 +63,9 @@ updated: '2026-02-13T19:38:06.996881Z'
 <p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/thyroid-panel-complete/" class="internal-link">thyroid_panel_complete</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:25.282104'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/thyroid-panel-complete/" class="internal-link">thyroid_panel_complete</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.388451'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/reverse-t3/" class="internal-link">reverse_t3</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:59.498382'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/thyroid-panel-complete/" class="internal-link">thyroid_panel_complete</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

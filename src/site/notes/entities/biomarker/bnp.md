@@ -1,19 +1,19 @@
 ---
-created: '2026-02-13T19:38:04.706416Z'
+created: '2026-03-12T06:00:31.828580Z'
 description: B-type Natriuretic Peptide is a hormone released by ventricular cardiomyocytes
   in response to increased wall stress from volume overload or pressure overload,
   serving as the primary biomarker for heart failure diagnosis and monitoring.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/bnp/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/bnp/
 slug: bnp
 tags:
 - biomarker
 templateEngineOverride: njk
 title: BNP
 type: biomarker
-updated: '2026-02-13T19:38:04.706416Z'
+updated: '2026-03-12T06:00:31.828580Z'
 ---
 
 {% raw %}
@@ -63,26 +63,22 @@ updated: '2026-02-13T19:38:04.706416Z'
 </ul>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
-<li><a href="/garden/dev_admin/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a> - Decreases BNP in heart failure patients by improving myocardial energetics (moderate, evidence level 3)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a> - Decreases BNP in heart failure patients by improving myocardial energetics (moderate, evidence level 3)</li>
 <li><a class="internal-link is-unresolved" href="/404">Hawthorn</a> - Limited evidence suggests mild BNP reduction in NYHA class I-III heart failure (mild, evidence level 2)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li><a href="/garden/dev_admin/labtest/bnp/" class="internal-link">bnp</a> - B-type natriuretic peptide immunoassay</li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/bnp/" class="internal-link">bnp</a> - B-type natriuretic peptide immunoassay</li>
 <li><a class="internal-link is-unresolved" href="/404">nt-probnp</a> - N-terminal pro-B-type natriuretic peptide measurement (longer half-life, renal clearance)</li>
 </ul>
 <h2>Relationships</h2>
 <h3>Activates</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/troponin/" class="internal-link">Troponin</a> (biomarker)</li>
-</ul>
+<p>ACTIVATES::<a href="/garden/michal.k7w@gmail.com/biomarker/troponin/" class="internal-link">Troponin</a></p>
 <h3>Correlations</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/troponin/" class="internal-link">Troponin</a> (biomarker) - Concurrent elevation suggests acute heart failure with myocardial injury</li>
-<li>→ <a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">Creatinine</a> (biomarker) - NT-proBNP levels affected by renal clearance; must interpret in context of kidney function</li>
-<li>→ <a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a> (biomarker) - Inflammatory state may contribute to cardiac decompensation</li>
-</ul>
+<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/troponin/" class="internal-link">Troponin</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs_Crp</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:25282031 - Mortensen SA et al. The effect of coenzyme Q10 on morbidity and mortality in chronic heart failure: Q-SYMBIO trial. JACC Heart Fail. 2014.</li>

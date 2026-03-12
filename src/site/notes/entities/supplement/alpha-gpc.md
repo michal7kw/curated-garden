@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:08.988716Z'
+created: '2026-03-12T06:00:34.237361Z'
 description: Highly bioavailable choline compound that readily crosses the blood-brain
   barrier. Supports acetylcholine synthesis, cognitive function, and may enhance growth
   hormone release during exercise.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/supplement/alpha-gpc/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/supplement/alpha-gpc/
 slug: alpha-gpc
 tags:
 - supplement
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Alpha-GPC
 type: supplement
-updated: '2026-02-13T19:38:08.988716Z'
+updated: '2026-03-12T06:00:34.237361Z'
 ---
 
 {% raw %}
@@ -110,20 +110,8 @@ Choline → Acetylcholine (ACh)
 </tr>
 </tbody>
 </table>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <p>No relationships found.</p>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a> - Cholinergic enhancement<br />
-PRODUCES::<a href="/garden/dev_admin/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a> - Direct precursor<br />
-INCREASES_EXPRESSION::<a class="internal-link is-unresolved" href="/404">Growth_Hormone</a><br />
-SYNERGISTIC_WITH::<a class="internal-link is-unresolved" href="/404">Caffeine</a> - Athletic performance<br />
-SYNERGISTIC_WITH::<a href="/garden/dev_admin/supplement/phosphatidylserine/" class="internal-link">Phosphatidylserine</a><br />
-SYNERGISTIC_WITH::<a href="/garden/dev_admin/supplement/lions-mane/" class="internal-link">Lions_Mane</a><br />
-MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Cognitive_Impairment</a><br />
-MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a><br />
-IMPROVES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Power_Output</a></p>
 <h2>References</h2>
 <ul>
 <li>Parnetti L, et al. Multicentre study of l-alpha-glyceryl-phosphorylcholine vs ST200 among patients with probable senile dementia of Alzheimer's type. Drugs Aging. 1993;3(2):159-164.</li>

@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:06.316023Z'
+created: '2026-03-12T06:00:32.834523Z'
 description: Encodes CCCTC-binding factor, a master regulator of chromatin architecture
   and gene expression.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/gene/ctcf/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/gene/ctcf/
 slug: ctcf
 tags:
 - gene
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: CTCF
 type: gene
-updated: '2026-02-13T19:38:06.316023Z'
+updated: '2026-03-12T06:00:32.834523Z'
 ---
 
 {% raw %}
@@ -30,9 +30,6 @@ updated: '2026-02-13T19:38:06.316023Z'
 <li><strong>Loop Formation</strong>: Creating Topologically Associating Domains (TADs) by anchoring chromatin loops.</li>
 </ol>
 <h2>Relationships</h2>
-<ul>
-<li>→ <a href="/garden/dev_admin/protein/ctcf/" class="internal-link">CTCF</a> (protein) - <em>Encodes</em></li>
-</ul>
 <h2>References</h2>
 <ol>
 <li><strong>Function</strong>: Phillips, J. E., &amp; Corces, V. G. (2009). &quot;CTCF: master weaver of the genome.&quot; <em>Cell</em>.</li>

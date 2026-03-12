@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:38:06.966253Z'
+created: '2026-03-12T06:00:33.385173Z'
 description: Prolactin is a hormone made by the pituitary gland in the brain. In females,
   it supports breast development, plays a central role in milk production after childbirth,
   and also influences the menstrual cycle. Measuring prolactin can help explain irregular
@@ -7,8 +7,8 @@ description: Prolactin is a hormone made by the pituitary gland in the brain. In
   pituitary gland concerns or other hormone imbalances.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/prolactin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/prolactin/
 slug: prolactin
 tags:
 - labtest
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: prolactin
 type: labtest
-updated: '2026-02-13T19:38:06.966253Z'
+updated: '2026-03-12T06:00:33.385173Z'
 ---
 
 {% raw %}
@@ -62,104 +62,28 @@ updated: '2026-02-13T19:38:06.966253Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li><a href="/garden/dev_admin/condition/hormonal-imbalance/" class="internal-link">Hormonal Imbalance</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/hormonal-imbalance/" class="internal-link">Hormonal Imbalance</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Pituitary Dysfunction Or Adenoma</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Hypothyroidism</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Adrenal Dysfunction</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:24.330143'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Adrenal_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:24.330143'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Pituitary_Dysfunction_Or_Adenoma</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:24.330143'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Adrenal_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.920010'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Pituitary_Dysfunction_Or_Adenoma</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.920010'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Hypothyroidism</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.920010'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.920010'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy_hcg</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:05.634365'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtestpanel/extended-hormone-health/" class="internal-link">extended_hormone_health</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.266447'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/extended-hormone-health/" class="internal-link">extended_hormone_health</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:24.330143'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy_hcg</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:24.330143'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.342057'
-source: obsidian
-</code></pre>
-<h3>May Detect</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
 <h3>Included In</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy_hcg</a> (labtestpanel)</li>
-<li>→ <a href="/garden/dev_admin/labtestpanel/extended-hormone-health/" class="internal-link">extended_hormone_health</a> (labtestpanel)</li>
-</ul>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">extended_hormone_health</a><br />
+INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">pregnancy_hcg</a></p>
+<h3>Related</h3>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Adrenal_Dysfunction</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">extended_hormone_health</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hypothyroidism</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">pregnancy_hcg</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Pituitary_Dysfunction_Or_Adenoma</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a></p>
+<h3>Conditions</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a></p>
+<h3>May Detect</h3>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

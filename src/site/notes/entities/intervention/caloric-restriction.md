@@ -1,13 +1,13 @@
 ---
-created: '2026-02-13T19:38:06.359818Z'
+created: '2026-03-12T06:00:32.871162Z'
 description: A dietary intervention involving sustained reduction of caloric intake
   (typically 20-40% below ad libitum) without malnutrition. The most robust and reproducible
   intervention for extending lifespan and healthspan across multiple species, from
   yeast to primates.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/intervention/caloric-restriction/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/intervention/caloric-restriction/
 slug: caloric-restriction
 tags:
 - intervention
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Caloric Restriction
 type: intervention
-updated: '2026-02-13T19:38:06.359818Z'
+updated: '2026-03-12T06:00:32.871162Z'
 ---
 
 {% raw %}
@@ -119,38 +119,9 @@ updated: '2026-02-13T19:38:06.359818Z'
 <li>Maintain resistance exercise</li>
 <li>Monitor psychological wellbeing</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:04.904549'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a> (pathway)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>ACTIVATES::<a href="/garden/dev_admin/pathway/ampk-pathway/" class="internal-link">AMPK Pathway</a><br />
-ACTIVATES::<a href="/garden/dev_admin/protein/sirt1/" class="internal-link">SIRT1</a> - Via increased NAD+/NADH ratio<br />
-ACTIVATES::<a href="/garden/dev_admin/protein/sirt3/" class="internal-link">SIRT3</a> - Mitochondrial sirtuin activation<br />
-SUPPRESSES::<a href="/garden/dev_admin/pathway/mtor-pathway/" class="internal-link">mTOR Pathway</a><br />
-ACTIVATES::<a href="/garden/dev_admin/pathway/autophagy/" class="internal-link">Autophagy</a><br />
-INCREASES_METABOLITE::<a class="internal-link is-unresolved" href="/404">NAD+</a> - Elevated NAD+/NADH ratio<br />
-IMPROVES_BIOMARKER::<a href="/garden/dev_admin/labtest/fasting-glucose/" class="internal-link">Fasting Glucose</a><br />
-IMPROVES_BIOMARKER::<a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a><br />
-IMPROVES_BIOMARKER::<a href="/garden/dev_admin/labtest/hba1c/" class="internal-link">HbA1c</a><br />
-REDUCES_BIOMARKER::<a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">Triglycerides</a><br />
-REDUCES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hsCRP</a><br />
-SYNERGISTIC_WITH::<a href="/garden/dev_admin/intervention/intermittent-fasting/" class="internal-link">Intermittent Fasting</a> - Overlapping mechanisms<br />
-SYNERGISTIC_WITH::<a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a> - Complementary health benefits<br />
-MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
-MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a></p>
 <h2>References</h2>
 <ul>
 <li>Weindruch R, Walford RL. The Retardation of Aging and Disease by Dietary Restriction. Charles C Thomas Publisher, 1988.</li>

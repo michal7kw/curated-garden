@@ -1,19 +1,19 @@
 ---
-created: '2026-02-13T19:38:04.969292Z'
+created: '2026-03-12T06:00:32.054786Z'
 description: Oxidized LDL is low-density lipoprotein cholesterol that has undergone
   oxidative modification, serving as a key driver of atherosclerotic plaque formation
   and a more specific marker of cardiovascular risk than standard LDL cholesterol.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/oxidized-ldl/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/oxidized-ldl/
 slug: oxidized-ldl
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Oxidized LDL
 type: biomarker
-updated: '2026-02-13T19:38:04.969292Z'
+updated: '2026-03-12T06:00:32.054786Z'
 ---
 
 {% raw %}
@@ -63,28 +63,24 @@ updated: '2026-02-13T19:38:04.969292Z'
 </ul>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
-<li><a href="/garden/dev_admin/supplement/vitamin-e/" class="internal-link">Vitamin E</a> - Decreases oxLDL as the primary lipid-soluble antioxidant protecting LDL from oxidation (moderate, evidence level 3)</li>
-<li><a href="/garden/dev_admin/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a> - Decreases oxLDL through direct antioxidant protection of LDL particles (mild, evidence level 3)</li>
-<li><a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin C</a> - Decreases oxLDL by regenerating vitamin E and providing aqueous-phase antioxidant protection (mild, evidence level 3)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/vitamin-e/" class="internal-link">Vitamin E</a> - Decreases oxLDL as the primary lipid-soluble antioxidant protecting LDL from oxidation (moderate, evidence level 3)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a> - Decreases oxLDL through direct antioxidant protection of LDL particles (mild, evidence level 3)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/vitamin-c/" class="internal-link">Vitamin C</a> - Decreases oxLDL by regenerating vitamin E and providing aqueous-phase antioxidant protection (mild, evidence level 3)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li><a href="/garden/dev_admin/labtest/oxidized-ldl/" class="internal-link">oxidized ldl</a> - OxLDL ELISA (Mercodia oxLDL assay; measures malondialdehyde-modified LDL)</li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/oxidized-ldl/" class="internal-link">oxidized ldl</a> - OxLDL ELISA (Mercodia oxLDL assay; measures malondialdehyde-modified LDL)</li>
 </ul>
 <h2>Relationships</h2>
 <h3>Activates</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/ldl/" class="internal-link">Ldl</a> (biomarker)</li>
-<li>→ <a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a> (biomarker)</li>
-</ul>
+<p>ACTIVATES::<a href="/garden/michal.k7w@gmail.com/biomarker/ldl/" class="internal-link">Ldl</a><br />
+ACTIVATES::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs_Crp</a></p>
 <h3>Correlations</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/ldl/" class="internal-link">Ldl</a> (biomarker) - Higher total LDL increases the substrate available for oxidation; oxLDL is the biologically active atherogenic fraction</li>
-<li>→ <a href="/garden/dev_admin/biomarker/ldl-p/" class="internal-link">Ldl P</a> (biomarker) - LDL particle number correlates with oxidation potential; small dense LDL particles are more susceptible to oxidation</li>
-<li>→ <a href="/garden/dev_admin/labtest/apolipoprotein-b/" class="internal-link">Apolipoprotein B</a> (biomarker) - ApoB-100 is the protein component modified during LDL oxidation; both are atherogenic markers</li>
-<li>→ <a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a> (biomarker) - OxLDL promotes vascular inflammation, reflected by elevated CRP</li>
-</ul>
+<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs_Crp</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/ldl-p/" class="internal-link">Ldl_P</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/apolipoprotein-b/" class="internal-link">Apolipoprotein_B</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/ldl/" class="internal-link">Ldl</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:10871587 - Devaraj S et al. Alpha-tocopherol supplementation decreases serum C-reactive protein and monocyte interleukin-6 levels. Free Radic Biol Med. 2000.</li>

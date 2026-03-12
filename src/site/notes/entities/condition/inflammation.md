@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.641565Z'
+created: '2026-03-12T06:00:32.421884Z'
 description: The immune system's response to injury or infection, characterized by
   redness, heat, swelling, and pain. Can be acute (healing) or chronic (damaging).
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/inflammation/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/inflammation/
 slug: inflammation
 tags:
 - condition
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Inflammation
 type: condition
-updated: '2026-02-13T19:38:05.641565Z'
+updated: '2026-03-12T06:00:32.421884Z'
 ---
 
 {% raw %}
@@ -37,12 +37,6 @@ SORT confidence_score DESC
 </code></pre>
 <h2>Other Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/inflammation/" class="internal-link">Inflammation</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:13.018196'
-source: obsidian
-</code></pre>
 <h2>Research</h2>
 <h3>Recent Studies</h3>
 <pre><code class="language-dataview">LIST
@@ -55,28 +49,9 @@ SORT date DESC
 FROM [[Inflammation]] AND #clinical-trial
 SORT date DESC
 </code></pre>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/apigenin/" class="internal-link">Apigenin</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:41.619170'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/apigenin/" class="internal-link">Apigenin</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.283353'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/inflammation/" class="internal-link">Inflammation</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.039493'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/apigenin/" class="internal-link">Apigenin</a></p>
 <h2>References</h2>
 <p>No references available.</p>
 

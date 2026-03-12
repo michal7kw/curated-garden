@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:38:06.698365Z'
+created: '2026-03-12T06:00:33.149282Z'
 description: Tested twice a year Hemoglobin A1c (HbA1c) measures average blood sugar
   over 2-3 months and is used to assess diabetes risk and management. Higher levels
   mean blood sugar has been above normal, raising risks for heart, kidney, and nerve
@@ -8,15 +8,15 @@ description: Tested twice a year Hemoglobin A1c (HbA1c) measures average blood s
   tests are useful, with HbA1c especially important for overall management.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/hemoglobin-a1c-hba1c/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/hemoglobin-a1c-hba1c/
 slug: hemoglobin-a1c-hba1c
 tags:
 - labtest
 templateEngineOverride: njk
 title: hemoglobin_a1c_hba1c
 type: labtest
-updated: '2026-02-13T19:38:06.698365Z'
+updated: '2026-03-12T06:00:33.149282Z'
 ---
 
 {% raw %}
@@ -64,104 +64,24 @@ updated: '2026-02-13T19:38:06.698365Z'
 <li><a class="internal-link is-unresolved" href="/404">Type 1 / Type 2 Diabetes</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Prediabetes</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Hyperglycemia</a></li>
-<li><a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></li>
-<li><a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/hba1c/" class="internal-link">Hba1C</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:14.650057'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:14.650057'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:14.650057'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Type_1__Type_2_Diabetes</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:14.650057'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/hba1c/" class="internal-link">Hba1C</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:18.549313'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Hyperglycemia</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.915353'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Type_1__Type_2_Diabetes</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.915353'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Prediabetes</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.915353'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.915353'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.915353'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.678592'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.181114'
-source: obsidian
-</code></pre>
 <h3>May Detect</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a></p>
+<h3>Related</h3>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Type_1__Type_2_Diabetes</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hyperglycemia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Prediabetes</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/hba1c/" class="internal-link">Hba1C</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a></p>
+<h3>Conditions</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

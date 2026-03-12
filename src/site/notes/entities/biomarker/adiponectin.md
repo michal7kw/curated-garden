@@ -1,19 +1,19 @@
 ---
-created: '2026-02-13T19:38:04.645660Z'
+created: '2026-03-12T06:00:31.789896Z'
 description: Adiponectin is an anti-inflammatory adipokine hormone produced by adipose
   tissue that enhances insulin sensitivity and has cardioprotective effects. Low levels
   are associated with obesity, metabolic syndrome, and increased cardiovascular risk.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/adiponectin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/adiponectin/
 slug: adiponectin
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Adiponectin
 type: biomarker
-updated: '2026-02-13T19:38:04.645660Z'
+updated: '2026-03-12T06:00:31.789896Z'
 ---
 
 {% raw %}
@@ -73,24 +73,22 @@ updated: '2026-02-13T19:38:04.645660Z'
 </ul>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
-<li><a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> - Increases adiponectin in metabolic syndrome patients (mild, evidence level 3)</li>
-<li><a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> - Increases adiponectin via AMPK activation and improved insulin sensitivity (mild, evidence level 3)</li>
-<li><a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a> - Increases adiponectin in overweight/obese individuals (mild, evidence level 3)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> - Increases adiponectin in metabolic syndrome patients (mild, evidence level 3)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/berberine/" class="internal-link">Berberine</a> - Increases adiponectin via AMPK activation and improved insulin sensitivity (mild, evidence level 3)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/resveratrol/" class="internal-link">Resveratrol</a> - Increases adiponectin in overweight/obese individuals (mild, evidence level 3)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li><a href="/garden/dev_admin/labtest/adiponectin/" class="internal-link">adiponectin</a> - Total adiponectin measurement</li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/adiponectin/" class="internal-link">adiponectin</a> - Total adiponectin measurement</li>
 <li><a class="internal-link is-unresolved" href="/404">hmw adiponectin</a> - High-molecular-weight adiponectin (most active form)</li>
 </ul>
 <h2>Relationships</h2>
 <h3>Correlations</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a> (biomarker) - Inversely correlated; adiponectin enhances insulin sensitivity</li>
-<li>→ <a href="/garden/dev_admin/labtest/homa-ir/" class="internal-link">Homa Ir</a> (biomarker) - Inversely correlated; low adiponectin predicts insulin resistance</li>
-<li>→ <a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">Triglycerides</a> (biomarker) - Inversely correlated; adiponectin promotes triglyceride clearance</li>
-<li>→ <a href="/garden/dev_admin/biomarker/hdl/" class="internal-link">Hdl</a> (biomarker) - Positively correlated; adiponectin promotes HDL production</li>
-</ul>
+<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/homa-ir/" class="internal-link">Homa_Ir</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/hdl/" class="internal-link">Hdl</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/insulin/" class="internal-link">Insulin</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/triglycerides/" class="internal-link">Triglycerides</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:25388747 - Omega-3 fatty acid supplementation and adiponectin levels meta-analysis</li>

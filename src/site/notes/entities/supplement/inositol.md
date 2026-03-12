@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:09.071749Z'
+created: '2026-03-12T06:00:34.286892Z'
 description: A carbocyclic sugar alcohol that mediates cell signal transduction in
   response to a variety of hormones, neurotransmitters, and growth factors. Particularly
   effective for PCOS and insulin sensitivity.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/supplement/inositol/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/supplement/inositol/
 slug: inositol
 tags:
 - supplement
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Inositol
 type: supplement
-updated: '2026-02-13T19:38:09.071749Z'
+updated: '2026-03-12T06:00:34.286892Z'
 ---
 
 {% raw %}
@@ -47,23 +47,8 @@ updated: '2026-02-13T19:38:09.071749Z'
 <li><strong>Mental Health:</strong> High-dose (12-18g) Myo-Inositol is effective for Panic Disorder and OCD (though less evidence for general depression).</li>
 <li><strong>Gestational Diabetes:</strong> Reduces risk in at-risk pregnant women.</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <p>No relationships found.</p>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/dev_admin/pathway/insulin-signaling/" class="internal-link">Insulin Signaling</a> - Critical second messenger<br />
-IMPROVES_CONDITION::<a href="/garden/dev_admin/condition/pcos/" class="internal-link">PCOS</a> - First-line non-pharmaceutical treatment<br />
-IMPROVES_CONDITION::<a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a><br />
-IMPROVES_CONDITION::<a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
-IMPROVES_CONDITION::<a href="/garden/dev_admin/phenotype/anxiety/" class="internal-link">Anxiety</a> - High dose<br />
-IMPROVES_CONDITION::<a href="/garden/dev_admin/condition/gestational-diabetes/" class="internal-link">Gestational Diabetes</a><br />
-SYNERGISTIC_WITH::<a href="/garden/dev_admin/supplement/folate/" class="internal-link">Folate</a> - Often combined for fertility<br />
-SYNERGISTIC_WITH::<a class="internal-link is-unresolved" href="/404">Melatonin</a> - For egg quality<br />
-REDUCES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Testosterone</a> - In PCOS<br />
-REDUCES_BIOMARKER::<a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">Triglycerides</a><br />
-REDUCES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">HOMA-IR</a><br />
-AFFECTED_BY::<a class="internal-link is-unresolved" href="/404">High Glucose</a> - Inhibits cellular uptake of inositol</p>
 <h2>References</h2>
 <ul>
 <li>Unfer V, et al. Myo-inositol effects in women with PCOS: a meta-analysis of randomized controlled trials. Endocr Connect. 2017;6(8):647-658.</li>

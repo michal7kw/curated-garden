@@ -1,19 +1,19 @@
 ---
-created: '2026-02-13T19:38:04.636553Z'
+created: '2026-03-12T06:00:31.754292Z'
 description: 8-hydroxy-2'-deoxyguanosine is a modified nucleoside produced by oxidative
   damage to DNA. It is the most widely used biomarker of oxidative DNA damage and
   reflects the balance between oxidative stress and DNA repair capacity.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/8-ohdg/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/8-ohdg/
 slug: 8-ohdg
 tags:
 - biomarker
 templateEngineOverride: njk
 title: 8-OHdG
 type: biomarker
-updated: '2026-02-13T19:38:04.636553Z'
+updated: '2026-03-12T06:00:31.754292Z'
 ---
 
 {% raw %}
@@ -64,31 +64,27 @@ updated: '2026-02-13T19:38:04.636553Z'
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
 <li><a class="internal-link is-unresolved" href="/404">CoQ10</a> - Decreases by protecting mitochondrial DNA from oxidation (moderate effect, evidence level 2)</li>
-<li><a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin C</a> - Reduces oxidative DNA damage (moderate effect, evidence level 3)</li>
-<li><a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a> - Supports glutathione which protects DNA from oxidative damage (mild effect, evidence level 3)</li>
-<li><a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a> - Regenerates antioxidants that protect DNA (mild effect, evidence level 3)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/vitamin-c/" class="internal-link">Vitamin C</a> - Reduces oxidative DNA damage (moderate effect, evidence level 3)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/nac/" class="internal-link">NAC</a> - Supports glutathione which protects DNA from oxidative damage (mild effect, evidence level 3)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a> - Regenerates antioxidants that protect DNA (mild effect, evidence level 3)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
 <li>8-OHdG urine test - ELISA or LC-MS/MS measurement</li>
-<li><a href="/garden/dev_admin/labtest/nutreval-fmv/" class="internal-link">nutreval fmv</a> - May include oxidative stress markers</li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/nutreval-fmv/" class="internal-link">nutreval fmv</a> - May include oxidative stress markers</li>
 </ul>
 <h2>Relationships</h2>
 <h3>Correlations</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/f2-isoprostanes/" class="internal-link">F2 Isoprostanes</a> (biomarker) - Both reflect oxidative damage (DNA vs lipids)</li>
-<li>→ <a href="/garden/dev_admin/labtest/glutathione/" class="internal-link">Glutathione</a> (biomarker) - Low glutathione leads to increased 8-OHdG</li>
-<li>→ <a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a> (biomarker) - Inflammation increases oxidative DNA damage</li>
-<li>→ <a href="/garden/dev_admin/biomarker/nad-plus/" class="internal-link">NAD Plus</a> (biomarker) - NAD+ supports PARP-mediated DNA repair</li>
-</ul>
+<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/f2-isoprostanes/" class="internal-link">F2_Isoprostanes</a><br />
+CORRELATED_WITH::<a class="internal-link is-unresolved" href="/404">NAD_Plus</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs_Crp</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/glutathione/" class="internal-link">Glutathione</a></p>
 <h3>Related Conditions</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/cancer/" class="internal-link">Cancer</a> (condition)</li>
-<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> (condition)</li>
-<li>→ <a href="/garden/dev_admin/condition/neurodegeneration/" class="internal-link">Neurodegeneration</a> (condition)</li>
-<li>→ <a href="/garden/dev_admin/condition/accelerated-aging/" class="internal-link">Accelerated Aging</a> (condition)</li>
-</ul>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Neurodegeneration</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Accelerated_Aging</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cancer/" class="internal-link">Cancer</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:17614129 - Valavanidis et al. (2009) 8-OHdG: a critical biomarker of oxidative stress and carcinogenesis</li>

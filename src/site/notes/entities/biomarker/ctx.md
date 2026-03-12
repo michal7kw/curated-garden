@@ -1,19 +1,19 @@
 ---
-created: '2026-02-13T19:38:04.748663Z'
+created: '2026-03-12T06:00:31.857704Z'
 description: C-terminal telopeptide of type I collagen is a degradation product released
   during bone resorption. It is the preferred marker for monitoring anti-resorptive
   therapy efficacy in osteoporosis treatment.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/ctx/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/ctx/
 slug: ctx
 tags:
 - biomarker
 templateEngineOverride: njk
 title: CTX
 type: biomarker
-updated: '2026-02-13T19:38:04.748663Z'
+updated: '2026-03-12T06:00:31.857704Z'
 ---
 
 {% raw %}
@@ -73,22 +73,20 @@ updated: '2026-02-13T19:38:04.748663Z'
 </ul>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
-<li><a href="/garden/dev_admin/labtest/calcium/" class="internal-link">Calcium</a> - Decreases bone resorption markers including CTX (moderate, evidence level 2)</li>
-<li><a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">Vitamin D</a> - Decreases CTX by improving calcium homeostasis and reducing secondary hyperparathyroidism (moderate, evidence level 2)</li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/calcium/" class="internal-link">Calcium</a> - Decreases bone resorption markers including CTX (moderate, evidence level 2)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/vitamin-d/" class="internal-link">Vitamin D</a> - Decreases CTX by improving calcium homeostasis and reducing secondary hyperparathyroidism (moderate, evidence level 2)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li><a href="/garden/dev_admin/labtest/ctx/" class="internal-link">ctx</a> - C-terminal telopeptide measurement (beta-CrossLaps)</li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/ctx/" class="internal-link">ctx</a> - C-terminal telopeptide measurement (beta-CrossLaps)</li>
 </ul>
 <h2>Relationships</h2>
 <h3>Correlations</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/osteocalcin/" class="internal-link">Osteocalcin</a> (biomarker) - Formation/resorption ratio assessment in bone turnover</li>
-<li>→ <a href="/garden/dev_admin/labtest/calcium/" class="internal-link">Calcium</a> (biomarker) - Calcium homeostasis affects bone resorption rate</li>
-<li>→ <a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">Vitamin D</a> (biomarker) - Vitamin D deficiency causes secondary hyperparathyroidism and increased CTX</li>
-<li>→ <a href="/garden/dev_admin/biomarker/alkaline-phosphatase/" class="internal-link">Alkaline Phosphatase</a> (biomarker) - Co-elevated in high bone turnover states</li>
-</ul>
+<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/calcium/" class="internal-link">Calcium</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/osteocalcin/" class="internal-link">Osteocalcin</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/alkaline-phosphatase/" class="internal-link">Alkaline_Phosphatase</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-d/" class="internal-link">Vitamin_D</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:17513446 - Calcium supplementation effects on bone resorption markers</li>

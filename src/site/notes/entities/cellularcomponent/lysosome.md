@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.147496Z'
+created: '2026-03-12T06:00:32.199057Z'
 description: Membrane-bound organelle containing hydrolytic enzymes. The cell's recycling
   center and a central hub for nutrient sensing via mTOR/AMPK.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/cellularcomponent/lysosome/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/cellularcomponent/lysosome/
 slug: lysosome
 tags:
 - cellularcomponent
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Lysosome
 type: cellularcomponent
-updated: '2026-02-13T19:38:05.147496Z'
+updated: '2026-03-12T06:00:32.199057Z'
 ---
 
 {% raw %}
@@ -44,15 +44,22 @@ updated: '2026-02-13T19:38:05.147496Z'
 <li><strong>Longevity:</strong> Lysosomal function declines with age. Enhancing lysosomal activity extends lifespan in model organisms.</li>
 </ul>
 <h2>Relationships</h2>
-<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/dev_admin/pathway/autophagy/" class="internal-link">Autophagy</a> - Terminal step<br />
-REGULATES::<a href="/garden/dev_admin/pathway/mtor-pathway/" class="internal-link">mTOR Pathway</a> - Site of activation<br />
-REGULATED_BY::<a class="internal-link is-unresolved" href="/404">TFEB</a> - Master transcriptional regulator<br />
-CONTAINS::<a class="internal-link is-unresolved" href="/404">Hydrolytic Enzymes</a><br />
-REQUIRES::<a class="internal-link is-unresolved" href="/404">Acidic pH</a> - Maintained by V-ATPase proton pumps<br />
-DEGRADES::<a class="internal-link is-unresolved" href="/404">Amyloid Beta</a><br />
-DEGRADES::<a class="internal-link is-unresolved" href="/404">Damaged Mitochondria</a> - Via Mitophagy<br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Lysosomal Storage Diseases</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> - Failure of clearance</p>
+<h3>Degrades</h3>
+<p>DEGRADES::<a class="internal-link is-unresolved" href="/404">Amyloid_Beta</a><br />
+DEGRADES::<a class="internal-link is-unresolved" href="/404">Damaged_Mitochondria</a></p>
+<h3>Participates In Pathway</h3>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/autophagy/" class="internal-link">Autophagy</a></p>
+<h3>Contains</h3>
+<p>CONTAINS::<a class="internal-link is-unresolved" href="/404">Hydrolytic_Enzymes</a></p>
+<h3>Requires</h3>
+<p>REQUIRES::<a class="internal-link is-unresolved" href="/404">Acidic_pH</a></p>
+<h3>Regulated By</h3>
+<p>REGULATED_BY::<a class="internal-link is-unresolved" href="/404">TFEB</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Lysosomal_Storage_Diseases</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a></p>
+<h3>Regulates</h3>
+<p>REGULATES::<a href="/garden/michal.k7w@gmail.com/pathway/mtor-pathway/" class="internal-link">mTOR_Pathway</a></p>
 <h2>References</h2>
 <ul>
 <li>Settembre C, et al. TFEB links autophagy to lysosomal biogenesis. Science. 2011;332(6036):1429-33.</li>

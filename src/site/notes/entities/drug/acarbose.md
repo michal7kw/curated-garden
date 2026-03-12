@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:06.035757Z'
+created: '2026-03-12T06:00:32.635968Z'
 description: Alpha-glucosidase inhibitor that slows carbohydrate absorption. Reduces
   postprandial glucose spikes. Studied for longevity due to caloric restriction mimetic
   properties.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/drug/acarbose/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/drug/acarbose/
 slug: acarbose
 tags:
 - drug
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Acarbose
 type: drug
-updated: '2026-02-13T19:38:06.035757Z'
+updated: '2026-03-12T06:00:32.635968Z'
 ---
 
 {% raw %}
@@ -29,10 +29,6 @@ updated: '2026-02-13T19:38:06.035757Z'
 <h2>Clinical Features</h2>
 <h2>Classification</h2>
 <h2>Chemical Properties</h2>
-<!-- NEO4J_CONTENT_START -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
-<!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
 <p>No relationships found.</p>
 

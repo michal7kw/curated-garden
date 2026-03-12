@@ -1,20 +1,20 @@
 ---
-created: '2026-02-13T19:38:06.947616Z'
+created: '2026-03-12T06:00:33.369515Z'
 description: Tested twice a year Urine pH reflects how acidic or alkaline the urine
   is, and it plays a key role in helping the body maintain overall acid–base balance.
   Abnormal urine pH can increase the risk of kidney stones, or indicate metabolic
   or dietary imbalances that may warrant medical attention.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/ph-urine/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/ph-urine/
 slug: ph-urine
 tags:
 - labtest
 templateEngineOverride: njk
 title: ph_urine
 type: labtest
-updated: '2026-02-13T19:38:06.947616Z'
+updated: '2026-03-12T06:00:33.369515Z'
 ---
 
 {% raw %}
@@ -60,87 +60,24 @@ updated: '2026-02-13T19:38:06.947616Z'
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
 <li><a class="internal-link is-unresolved" href="/404">Urinary Tract Infection (Uti)</a></li>
-<li><a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney Stones</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/kidney-stones/" class="internal-link">Kidney Stones</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Metabolic Dysfunction</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Dehydration</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Dietary Or Medication Effect</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Dietary_Or_Medication_Effect</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:23.776452'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney_Stones</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:23.776452'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Metabolic_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:23.776452'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Urinary_Tract_Infection_Uti</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:23.776452'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Urinary_Tract_Infection_Uti</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.579568'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Dehydration</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.579568'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Dietary_Or_Medication_Effect</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.579568'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Metabolic_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.579568'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney_Stones</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:58.579568'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney_Stones</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.535622'
-source: obsidian
-</code></pre>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/kidney-stones/" class="internal-link">Kidney_Stones</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Dietary_Or_Medication_Effect</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Urinary_Tract_Infection_Uti</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic_Dysfunction</a></p>
 <h3>May Detect</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/kidney-stones/" class="internal-link">Kidney_Stones</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/kidney-stones/" class="internal-link">Kidney_Stones</a></p>
+<h3>Conditions</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/kidney-stones/" class="internal-link">Kidney_Stones</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

@@ -1,20 +1,20 @@
 ---
-created: '2026-02-13T19:38:07.055540Z'
+created: '2026-03-12T06:00:33.462098Z'
 description: Thyroxine (T4) Freeis one of the main hormones made by the thyroid. It
   acts largely as a precursor, since most of it is later converted into T3, the more
   active form. Measuring free T4 shows how much thyroid hormone is being produced
   and available for conversion, providing valuable insight into thyroid function.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/thyroxine-t4-free/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/thyroxine-t4-free/
 slug: thyroxine-t4-free
 tags:
 - labtest
 templateEngineOverride: njk
 title: thyroxine_t4_free
 type: labtest
-updated: '2026-02-13T19:38:07.055540Z'
+updated: '2026-03-12T06:00:33.462098Z'
 ---
 
 {% raw %}
@@ -62,101 +62,25 @@ updated: '2026-02-13T19:38:07.055540Z'
 <li><a class="internal-link is-unresolved" href="/404">Hypothyroidism</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Grave'S Disease</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Hashimoto'S Thyroiditis</a></li>
-<li><a href="/garden/dev_admin/condition/thyroid-storm/" class="internal-link">Thyroid Storm</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/thyroid-storm/" class="internal-link">Thyroid Storm</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Chronic Illness Or Secondary Thyroid Dysfunction</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
+<h3>Conditions</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/thyroid-storm/" class="internal-link">Thyroid_Storm</a></p>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/graves-disease/" class="internal-link">GraveS_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.222606'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Chronic_Illness_Or_Secondary_Thyroid_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.222606'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/hashimotos-thyroiditis/" class="internal-link">HashimotoS_Thyroiditis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.222606'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/thyroid-storm/" class="internal-link">Thyroid_Storm</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.222606'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Hypothyroidism</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.714808'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Chronic_Illness_Or_Secondary_Thyroid_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.714808'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/hashimotos-thyroiditis/" class="internal-link">HashimotoS_Thyroiditis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.714808'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/graves-disease/" class="internal-link">GraveS_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.714808'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/thyroid-storm/" class="internal-link">Thyroid_Storm</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.714808'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.644052'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.222606'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/thyroid-storm/" class="internal-link">Thyroid_Storm</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:53.735169'
-source: obsidian
-</code></pre>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/hashimotos-thyroiditis/" class="internal-link">HashimotoS_Thyroiditis</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/thyroid-storm/" class="internal-link">Thyroid_Storm</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/graves-disease/" class="internal-link">GraveS_Disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hypothyroidism</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">extended_thyroid_health</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Chronic_Illness_Or_Secondary_Thyroid_Dysfunction</a></p>
 <h3>May Detect</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/thyroid-storm/" class="internal-link">Thyroid_Storm</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/thyroid-storm/" class="internal-link">Thyroid_Storm</a></p>
 <h3>Included In</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a> (labtestpanel)</li>
-</ul>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">extended_thyroid_health</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

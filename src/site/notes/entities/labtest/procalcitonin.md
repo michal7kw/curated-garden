@@ -1,19 +1,19 @@
 ---
-created: '2026-02-13T19:38:06.962530Z'
+created: '2026-03-12T06:00:33.381825Z'
 description: Procalcitonin (PCT) test. Serum biomarker that rises specifically in
   response to bacterial infections. Used to guide initiation and discontinuation of
   antibiotic therapy, particularly in sepsis and lower respiratory tract infections.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/procalcitonin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/procalcitonin/
 slug: procalcitonin
 tags:
 - labtest
 templateEngineOverride: njk
 title: procalcitonin
 type: labtest
-updated: '2026-02-13T19:38:06.962530Z'
+updated: '2026-03-12T06:00:33.381825Z'
 ---
 
 {% raw %}
@@ -110,15 +110,16 @@ updated: '2026-02-13T19:38:06.962530Z'
 <ul>
 <li><a class="internal-link is-unresolved" href="/404">Sepsis</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Bacterial Infection</a></li>
-<li><a href="/garden/dev_admin/condition/pneumonia/" class="internal-link">Pneumonia</a></li>
-<li><a href="/garden/dev_admin/condition/meningitis/" class="internal-link">Meningitis</a></li>
-<li><a href="/garden/dev_admin/condition/urinary-tract-infection/" class="internal-link">Urinary Tract Infection</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/pneumonia/" class="internal-link">Pneumonia</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/meningitis/" class="internal-link">Meningitis</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/urinary-tract-infection/" class="internal-link">Urinary Tract Infection</a></li>
 </ul>
 <h2>Relationships</h2>
 <h3>Measures</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/procalcitonin/" class="internal-link">Procalcitonin</a> (biomarker)</li>
-</ul>
+<h3>Conditions</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/pneumonia/" class="internal-link">Pneumonia</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/meningitis/" class="internal-link">Meningitis</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/urinary-tract-infection/" class="internal-link">Urinary_Tract_Infection</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

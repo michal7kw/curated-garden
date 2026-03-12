@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.921964Z'
+created: '2026-03-12T06:00:32.569343Z'
 description: A serious type of urinary tract infection (UTI) that affects one or both
   kidneys, often causing systemic symptoms like fever and flank pain.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/pyelonephritis/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/pyelonephritis/
 slug: pyelonephritis
 tags:
 - condition
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Pyelonephritis
 type: condition
-updated: '2026-02-13T19:38:05.921964Z'
+updated: '2026-03-12T06:00:32.569343Z'
 ---
 
 {% raw %}
@@ -38,12 +38,6 @@ SORT confidence_score DESC
 </code></pre>
 <h2>Other Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/pyelonephritis/" class="internal-link">Pyelonephritis</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:38.880605'
-source: obsidian
-</code></pre>
 <h2>Research</h2>
 <h3>Recent Studies</h3>
 <pre><code class="language-dataview">LIST
@@ -56,16 +50,8 @@ SORT date DESC
 FROM [[Pyelonephritis]] AND #clinical-trial
 SORT date DESC
 </code></pre>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/pyelonephritis/" class="internal-link">Pyelonephritis</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.844393'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
+<p>No relationships found.</p>
 <h2>References</h2>
 <p>No references available.</p>
 

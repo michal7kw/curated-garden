@@ -1,19 +1,19 @@
 ---
-created: '2026-02-13T19:38:06.613456Z'
+created: '2026-03-12T06:00:33.081715Z'
 description: D-Dimer test. Measures fibrin degradation products in the blood. Primarily
   used to rule out venous thromboembolism (DVT and PE). High negative predictive value
   when combined with clinical probability scoring.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/d-dimer/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/d-dimer/
 slug: d-dimer
 tags:
 - labtest
 templateEngineOverride: njk
 title: d_dimer
 type: labtest
-updated: '2026-02-13T19:38:06.613456Z'
+updated: '2026-03-12T06:00:33.081715Z'
 ---
 
 {% raw %}
@@ -105,14 +105,9 @@ updated: '2026-02-13T19:38:06.613456Z'
 <li><a class="internal-link is-unresolved" href="/404">Stroke</a></li>
 </ul>
 <h2>Relationships</h2>
-<h3>Measures</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/d-dimer/" class="internal-link">D-Dimer</a> (biomarker)</li>
-</ul>
 <h3>Included In</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/coagulation-panel/" class="internal-link">coagulation panel</a> (labtestpanel)</li>
-</ul>
+<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">coagulation_panel</a></p>
+<h3>Measures</h3>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

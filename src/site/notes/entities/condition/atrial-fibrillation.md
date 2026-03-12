@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.376021Z'
+created: '2026-03-12T06:00:32.256245Z'
 description: A common heart rhythm disorder (arrhythmia) characterized by rapid and
   irregular beating of the atrial chambers of the heart.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/atrial-fibrillation/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/atrial-fibrillation/
 slug: atrial-fibrillation
 tags:
 - condition
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Atrial Fibrillation
 type: condition
-updated: '2026-02-13T19:38:05.376021Z'
+updated: '2026-03-12T06:00:32.256245Z'
 ---
 
 {% raw %}
@@ -29,55 +29,10 @@ updated: '2026-02-13T19:38:05.376021Z'
 <li><strong>Long-standing Persistent:</strong> Lasts longer than 12 months.</li>
 <li><strong>Permanent:</strong> When the patient and clinician decide to stop rhythm control efforts.</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/drug/quinidine/" class="internal-link">Quinidine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:31.355660'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/atrial-fibrillation/" class="internal-link">Atrial_Fibrillation</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:31.355660'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:31.355660'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/drug/quinidine/" class="internal-link">Quinidine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:43.728314'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.779185'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/atrial-fibrillation/" class="internal-link">Atrial_Fibrillation</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:24.522270'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>INCREASED_RISK_OF::<a class="internal-link is-unresolved" href="/404">Stroke</a> - Due to thromboembolism.<br />
-INCREASED_RISK_OF::<a href="/garden/dev_admin/condition/heart-failure/" class="internal-link">Heart Failure</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/hypertension/" class="internal-link">Hypertension</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Obesity</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Sleep Apnea</a><br />
-REDUCED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Warfarin</a> - Stroke prevention.<br />
-REDUCED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Amiodarone</a> - Rhythm control.<br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Heart</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/drug/quinidine/" class="internal-link">Quinidine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a></p>
 <h2>References</h2>
 <ul>
 <li>January, C. T., et al. (2019). 2019 AHA/ACC/HRS Focused Update of the 2014 AHA/ACC/HRS Guideline for the Management of Patients With Atrial Fibrillation. Circulation.</li>

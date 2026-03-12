@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:06.144819Z'
+created: '2026-03-12T06:00:32.687656Z'
 description: ACE inhibitor for hypertension, heart failure, and diabetic nephropathy.
   Reduces angiotensin II formation, lowering blood pressure and providing cardio-renal
   protection.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/drug/lisinopril/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/drug/lisinopril/
 slug: lisinopril
 tags:
 - drug
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Lisinopril
 type: drug
-updated: '2026-02-13T19:38:06.144819Z'
+updated: '2026-03-12T06:00:32.687656Z'
 ---
 
 {% raw %}
@@ -29,49 +29,10 @@ updated: '2026-02-13T19:38:06.144819Z'
 <h2>Clinical Features</h2>
 <h2>Classification</h2>
 <h2>Chemical Properties</h2>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
+<h3>Interacts With</h3>
+<p>INTERACTS_WITH::<a href="/garden/michal.k7w@gmail.com/drug/quetiapine/" class="internal-link">Quetiapine</a></p>
 <h3>Related</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/drug/quetiapine/" class="internal-link">Quetiapine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:00.766849'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/drug/quetiapine/" class="internal-link">Quetiapine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.172265'
-source: obsidian
-</code></pre>
-<h3>Interactswith</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/drug/quetiapine/" class="internal-link">Quetiapine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">imported: '2025-12-26T11:56:37.798000+00:00'
-source: PrimeKG
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<h3>Interactswith</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/drug/quetiapine/" class="internal-link">Quetiapine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">imported: '2025-12-26T11:56:37.798000+00:00'
-source: PrimeKG
-</code></pre>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/drug/quetiapine/" class="internal-link">Quetiapine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:58.772897'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/drug/quetiapine/" class="internal-link">Quetiapine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:03.350124'
-source: obsidian
-</code></pre>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/drug/quetiapine/" class="internal-link">Quetiapine</a></p>
 
 {% endraw %}

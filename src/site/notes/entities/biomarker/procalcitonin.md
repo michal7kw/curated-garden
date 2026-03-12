@@ -1,19 +1,19 @@
 ---
-created: '2026-02-13T19:38:05.012077Z'
+created: '2026-03-12T06:00:32.113281Z'
 description: Procalcitonin is a precursor peptide of calcitonin that is markedly elevated
   in systemic bacterial infections and sepsis, serving as a key biomarker for distinguishing
   bacterial from viral infections and guiding antibiotic stewardship.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/procalcitonin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/procalcitonin/
 slug: procalcitonin
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Procalcitonin
 type: biomarker
-updated: '2026-02-13T19:38:05.012077Z'
+updated: '2026-03-12T06:00:32.113281Z'
 ---
 
 {% raw %}
@@ -66,20 +66,16 @@ updated: '2026-02-13T19:38:05.012077Z'
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li><a href="/garden/dev_admin/labtest/procalcitonin/" class="internal-link">procalcitonin</a> - Procalcitonin immunoassay (BRAHMS PCT assay, chemiluminescence)</li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/procalcitonin/" class="internal-link">procalcitonin</a> - Procalcitonin immunoassay (BRAHMS PCT assay, chemiluminescence)</li>
 </ul>
 <h2>Relationships</h2>
 <h3>Activates</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/white-blood-cell-count/" class="internal-link">White Blood Cell Count</a> (biomarker)</li>
-<li>→ <a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a> (biomarker)</li>
-</ul>
+<p>ACTIVATES::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs_Crp</a><br />
+ACTIVATES::<a href="/garden/michal.k7w@gmail.com/labtest/white-blood-cell-count/" class="internal-link">White_Blood_Cell_Count</a></p>
 <h3>Correlations</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/white-blood-cell-count/" class="internal-link">White Blood Cell Count</a> (biomarker) - Both elevated in bacterial infection; WBC less specific than PCT for bacterial vs viral differentiation</li>
-<li>→ <a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a> (biomarker) - CRP rises in both bacterial and viral infections; PCT is more specific for bacterial etiology</li>
-<li>→ <a href="/garden/dev_admin/labtest/interleukin-6/" class="internal-link">Interleukin 6</a> (biomarker) - IL-6 drives PCT production; IL-6 rises earlier but is less specific for bacterial infection</li>
-</ul>
+<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/white-blood-cell-count/" class="internal-link">White_Blood_Cell_Count</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/interleukin-6/" class="internal-link">Interleukin_6</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs_Crp</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:29320413 - Schuetz P et al. Effect of procalcitonin-guided antibiotic treatment on mortality in acute respiratory infections: a meta-analysis. Lancet Infect Dis. 2018.</li>

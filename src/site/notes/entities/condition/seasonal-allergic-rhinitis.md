@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.946424Z'
+created: '2026-03-12T06:00:32.586314Z'
 description: An allergic response to specific allergens like pollen that occurs at
   certain times of the year, commonly known as Hay Fever.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/seasonal-allergic-rhinitis/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/seasonal-allergic-rhinitis/
 slug: seasonal-allergic-rhinitis
 tags:
 - condition
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Seasonal Allergic Rhinitis
 type: condition
-updated: '2026-02-13T19:38:05.946424Z'
+updated: '2026-03-12T06:00:32.586314Z'
 ---
 
 {% raw %}
@@ -37,12 +37,7 @@ SORT confidence_score DESC
 </code></pre>
 <h2>Other Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/seasonal-allergic-rhinitis/" class="internal-link">Seasonal_Allergic_Rhinitis</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:41.052499'
-source: obsidian
-</code></pre>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/seasonal-allergic-rhinitis/" class="internal-link">Seasonal_Allergic_Rhinitis</a></p>
 <h2>Research</h2>
 <h3>Recent Studies</h3>
 <pre><code class="language-dataview">LIST
@@ -55,22 +50,8 @@ SORT date DESC
 FROM [[Seasonal Allergic Rhinitis]] AND #clinical-trial
 SORT date DESC
 </code></pre>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/seasonal-allergic-rhinitis/" class="internal-link">Seasonal_Allergic_Rhinitis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:37.407491'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/seasonal-allergic-rhinitis/" class="internal-link">Seasonal_Allergic_Rhinitis</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:37.407491'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
+<p>No relationships found.</p>
 <h2>References</h2>
 <p>No references available.</p>
 

@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:09.005282Z'
+created: '2026-03-12T06:00:34.245745Z'
 description: A natural flavonoid found in chamomile, parsley, and celery with antioxidant,
   anti-inflammatory, neuroprotective, and sedative properties. It is known to inhibit
   CD38 (boosting NAD+ levels) and modulate GABA receptors.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/supplement/apigenin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/supplement/apigenin/
 slug: apigenin
 tags:
 - supplement
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Apigenin
 type: supplement
-updated: '2026-02-13T19:38:09.005282Z'
+updated: '2026-03-12T06:00:34.245745Z'
 ---
 
 {% raw %}
@@ -31,142 +31,16 @@ updated: '2026-02-13T19:38:09.005282Z'
 <li><strong>GABA Modulation</strong>: It exerts sedative and anxiolytic effects by modulating GABA(A) receptors, acting similarly to a mild benzodiazepine but without the same risk of dependency.</li>
 <li><strong>Anti-inflammatory</strong>: It reduces oxidative stress and inflammation by inhibiting key pathways like COX-2 and NF-κB.</li>
 </ol>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/gaba/" class="internal-link">GABA</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:50.295594'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">NAD</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:48.099461'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/nicotinamide-riboside/" class="internal-link">Nicotinamide_Riboside</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:48.099461'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/phenotype/anxiety/" class="internal-link">Anxiety</a> (phenotype)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:43.311207'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/nicotinamide-riboside/" class="internal-link">Nicotinamide_Riboside</a> (metabolite)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:34.490822'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/metabolite/nad/" class="internal-link">NAD</a> (metabolite)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:34.302675'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/inflammation/" class="internal-link">Inflammation</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:41.619170'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:15.523733'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Insomnia</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.283353'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.445715'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/phenotype/anxiety/" class="internal-link">Anxiety</a> (phenotype)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.283353'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.283353'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/metabolite/nad/" class="internal-link">NAD</a> (metabolite)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.283353'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.283353'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/nicotinamide-riboside/" class="internal-link">Nicotinamide_Riboside</a> (metabolite)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.283353'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/gaba/" class="internal-link">GABA</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.283353'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/inflammation/" class="internal-link">Inflammation</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.283353'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<h3>Increases Metabolite</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/metabolite/nad/" class="internal-link">NAD+</a> (metabolite)</li>
-</ul>
-<pre><code class="language-yaml">mechanism: CD38 Inhibition
-source: research
-</code></pre>
-<h3>Modulates Neurotransmitter</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/gaba/" class="internal-link">GABA</a> (neurotransmitter)</li>
-</ul>
-<pre><code class="language-yaml">effect: Positive Allosteric Modulation
-source: research
-</code></pre>
-<h3>May Improve Condition</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/phenotype/anxiety/" class="internal-link">Anxiety</a> (condition)</li>
-<li>→ <a href="/garden/dev_admin/condition/insomnia/" class="internal-link">Insomnia</a> (condition)</li>
-</ul>
-<h3>Reduces Biomarker</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/inflammation/" class="internal-link">Inflammation</a> (biomarker)</li>
-<li>→ <a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a> (hormone)</li>
-</ul>
-<h3>Synergistic With</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a> (supplement) - <em>Via NAD+ pathway</em></li>
-<li>→ <a href="/garden/dev_admin/supplement/nicotinamide-riboside/" class="internal-link">Nicotinamide Riboside</a> (supplement) - <em>Via NAD+ pathway</em></li>
-</ul>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/inflammation/" class="internal-link">Inflammation</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/nmn/" class="internal-link">NMN</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Insomnia</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/gaba/" class="internal-link">GABA</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">NAD</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/nicotinamide-riboside/" class="internal-link">Nicotinamide_Riboside</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/phenotype/anxiety/" class="internal-link">Anxiety</a></p>
 <h2>References</h2>
 <ol>
 <li><strong>Mechanism</strong>: Salehi, B., et al. (2019). &quot;The Therapeutic Potential of Apigenin.&quot; <em>International Journal of Molecular Sciences</em>.</li>

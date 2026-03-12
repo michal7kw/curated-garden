@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.763381Z'
+created: '2026-03-12T06:00:32.480148Z'
 description: A state of impaired mitochondrial function characterized by reduced ATP
   production, increased oxidative stress, and defective mitophagy.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/mitochondrial-dysfunction/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/mitochondrial-dysfunction/
 slug: mitochondrial-dysfunction
 tags:
 - condition
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Mitochondrial Dysfunction
 type: condition
-updated: '2026-02-13T19:38:05.763381Z'
+updated: '2026-03-12T06:00:32.480148Z'
 ---
 
 {% raw %}
@@ -65,9 +65,7 @@ SORT confidence_score DESC
 </code></pre>
 <h2>Other Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial_Dysfunction</a> (condition)</li>
-</ul>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial_Dysfunction</a></p>
 <h2>Research</h2>
 <h3>Recent Studies</h3>
 <pre><code class="language-dataview">LIST
@@ -80,22 +78,8 @@ SORT date DESC
 FROM [[Mitochondrial Dysfunction]] AND #clinical-trial
 SORT date DESC
 </code></pre>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.561865'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial_Dysfunction</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.561865'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
+<p>No relationships found.</p>
 <h2>References</h2>
 <p>No references available.</p>
 

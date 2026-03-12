@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.316302Z'
+created: '2026-03-12T06:00:32.223257Z'
 description: A condition where the body's pH levels deviate from the normal range
   (7.35-7.45), categorized as acidosis (too much acid) or alkalosis (too much base).
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/acid-base-imbalance/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/acid-base-imbalance/
 slug: acid-base-imbalance
 tags:
 - condition
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Acid-Base Imbalance
 type: condition
-updated: '2026-02-13T19:38:05.316302Z'
+updated: '2026-03-12T06:00:32.223257Z'
 ---
 
 {% raw %}
@@ -29,31 +29,9 @@ updated: '2026-02-13T19:38:05.316302Z'
 <li><strong>Metabolic Alkalosis:</strong> Caused by excessive vomiting or diuretic use.</li>
 <li><strong>Respiratory Acidosis/Alkalosis:</strong> Caused by lung dysfunction affecting CO2 levels.</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/acid-base-imbalance/" class="internal-link">Acid-Base_Imbalance</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:29.208360'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/acid-base-imbalance/" class="internal-link">Acid-Base_Imbalance</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:20.936807'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/diabetes-mellitus/" class="internal-link">Diabetes Mellitus</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Kidney</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Lung</a><br />
-ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/carbon-dioxide/" class="internal-link">Carbon Dioxide</a> - Primary marker for base.<br />
-ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/potassium/" class="internal-link">Potassium</a> - Often shifts with pH.<br />
-ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/chloride/" class="internal-link">Chloride</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/acid-base-imbalance/" class="internal-link">Acid-Base_Imbalance</a></p>
 <h2>References</h2>
 <ul>
 <li>Seifter, J. L. (2014). Integration of acid-base and electrolyte disorders. NEJM.</li>

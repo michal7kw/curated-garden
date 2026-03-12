@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:05.490352Z'
+created: '2026-03-12T06:00:32.324677Z'
 description: A prolonged state of emotional or physical tension resulting from internal
   or external stressors, characterized by sustained activation of the HPA axis and
   elevated cortisol.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/chronic-stress/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/chronic-stress/
 slug: chronic-stress
 tags:
 - condition
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Chronic Stress
 type: condition
-updated: '2026-02-13T19:38:05.490352Z'
+updated: '2026-03-12T06:00:32.324677Z'
 ---
 
 {% raw %}
@@ -30,32 +30,8 @@ updated: '2026-02-13T19:38:05.490352Z'
 <li><strong>Cardiovascular Strain:</strong> Hypertension and increased heart rate.</li>
 <li><strong>Metabolic Changes:</strong> Insulin resistance and weight gain (visceral fat).</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/chronic-stress/" class="internal-link">Chronic_Stress</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.235605'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/chronic-stress/" class="internal-link">Chronic_Stress</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:32.522829'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/hypertension/" class="internal-link">Hypertension</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Adrenal Glands</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
-ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a> - Elevated.<br />
-ASSOCIATED_WITH_BIOMARKER::<a class="internal-link is-unresolved" href="/404">DHEA-S</a> - May be depleted.<br />
-IMPROVED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Meditation</a><br />
-IMPROVED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Sleep Hygiene</a></p>
+<p>No relationships found.</p>
 <h2>References</h2>
 <ul>
 <li>McEwen, B. S. (2007). Central effects of stress hormones in health and disease: Understanding the protective and damaging effects of mediators of stress and adaptation. European Journal of Pharmacology.</li>

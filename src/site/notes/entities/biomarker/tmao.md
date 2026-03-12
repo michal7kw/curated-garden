@@ -1,19 +1,19 @@
 ---
-created: '2026-02-13T19:38:05.047774Z'
+created: '2026-03-12T06:00:32.137786Z'
 description: Trimethylamine N-oxide is a gut microbiome-derived metabolite produced
   from dietary choline, betaine, and L-carnitine. Elevated levels are strongly associated
   with increased cardiovascular disease risk, atherosclerosis, and thrombotic events.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/tmao/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/tmao/
 slug: tmao
 tags:
 - biomarker
 templateEngineOverride: njk
 title: TMAO
 type: biomarker
-updated: '2026-02-13T19:38:05.047774Z'
+updated: '2026-03-12T06:00:32.137786Z'
 ---
 
 {% raw %}
@@ -63,29 +63,25 @@ updated: '2026-02-13T19:38:05.047774Z'
 </ul>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
-<li><a href="/garden/dev_admin/supplement/probiotics/" class="internal-link">Probiotics</a> - May decrease TMAO by modulating gut microbiome composition (moderate effect, evidence level 3)</li>
-<li><a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a> - May decrease TMAO via gut microbiome modulation (mild effect, evidence level 3)</li>
-<li><a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> - May reduce TMAO through gut bacteria modification (moderate effect, evidence level 3)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/probiotics/" class="internal-link">Probiotics</a> - May decrease TMAO by modulating gut microbiome composition (moderate effect, evidence level 3)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/resveratrol/" class="internal-link">Resveratrol</a> - May decrease TMAO via gut microbiome modulation (mild effect, evidence level 3)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/berberine/" class="internal-link">Berberine</a> - May reduce TMAO through gut bacteria modification (moderate effect, evidence level 3)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li><a href="/garden/dev_admin/labtest/metabolon-global/" class="internal-link">metabolon global</a> - Includes TMAO in comprehensive metabolomics panel</li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/metabolon-global/" class="internal-link">metabolon global</a> - Includes TMAO in comprehensive metabolomics panel</li>
 </ul>
 <h2>Relationships</h2>
 <h3>Correlations</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a> (biomarker) - Both elevated in cardiovascular inflammation</li>
-<li>→ <a href="/garden/dev_admin/labtest/apolipoprotein-b/" class="internal-link">Apolipoprotein B</a> (biomarker) - Synergistic cardiovascular risk when both elevated</li>
-<li>→ <a href="/garden/dev_admin/labtest/oxidized-ldl/" class="internal-link">Oxidized LDL</a> (biomarker) - TMAO promotes LDL oxidation</li>
-<li>→ <a href="/garden/dev_admin/metabolite/homocysteine/" class="internal-link">Homocysteine</a> (biomarker) - Both involve methylation pathway metabolites</li>
-</ul>
+<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/metabolite/homocysteine/" class="internal-link">Homocysteine</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/apolipoprotein-b/" class="internal-link">Apolipoprotein_B</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs_Crp</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/oxidized-ldl/" class="internal-link">Oxidized_LDL</a></p>
 <h3>Related Conditions</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> (condition)</li>
-<li>→ <a href="/garden/dev_admin/condition/atherosclerosis/" class="internal-link">Atherosclerosis</a> (condition)</li>
-<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a> (condition)</li>
-</ul>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Atherosclerosis</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:23563705 - Tang et al. (2013) Intestinal microbial metabolism of phosphatidylcholine and cardiovascular risk</li>

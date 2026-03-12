@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.701202Z'
+created: '2026-03-12T06:00:32.453019Z'
 description: Abnormal growth of tissue in the lung which can be benign or malignant
   (cancerous).
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/lung-neoplasms/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/lung-neoplasms/
 slug: lung-neoplasms
 tags:
 - condition
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Lung Neoplasms
 type: condition
-updated: '2026-02-13T19:38:05.701202Z'
+updated: '2026-03-12T06:00:32.453019Z'
 ---
 
 {% raw %}
@@ -28,30 +28,8 @@ updated: '2026-02-13T19:38:05.701202Z'
 <li><strong>Small Cell Lung Cancer (SCLC):</strong> 15% of cases. Highly aggressive, strongly associated with smoking, spreads early.</li>
 <li><strong>Lung Carcinoid Tumors:</strong> Slower growing neuroendocrine tumors.</li>
 </ol>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/lung-neoplasms/" class="internal-link">Lung_Neoplasms</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:44.526188'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/lung-neoplasms/" class="internal-link">Lung_Neoplasms</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:45.448416'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Tobacco Smoking</a><br />
-CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Radon</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/chronic-obstructive-pulmonary-disease/" class="internal-link">Chronic Obstructive Pulmonary Disease</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Lung</a><br />
-TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Lobectomy</a><br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Cisplatin</a><br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Pembrolizumab</a> - Immunotherapy.</p>
+<p>No relationships found.</p>
 <h2>References</h2>
 <ul>
 <li>Travis, W. D., et al. (2015). The 2015 World Health Organization Classification of Lung Tumors.</li>

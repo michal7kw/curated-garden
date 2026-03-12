@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:09.169647Z'
+created: '2026-03-12T06:00:34.331734Z'
 description: Essential phospholipid concentrated in brain cell membranes. Supports
   cognitive function, memory, and stress response. One of few supplements with FDA-qualified
   health claim for cognitive function.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/supplement/phosphatidylserine/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/supplement/phosphatidylserine/
 slug: phosphatidylserine
 tags:
 - supplement
@@ -18,54 +18,17 @@ tags:
 templateEngineOverride: njk
 title: Phosphatidylserine
 type: supplement
-updated: '2026-02-13T19:38:09.169647Z'
+updated: '2026-03-12T06:00:34.331734Z'
 ---
 
 {% raw %}
 <h1>Phosphatidylserine</h1>
 <h2>Overview</h2>
 <p>Essential phospholipid concentrated in brain cell membranes. Supports cognitive function, memory, and stress response. One of few supplements with FDA-qualified health claim for cognitive function.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Bacopa_Monnieri</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:53.512292'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:53.512292'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Omega-3_DHA</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:53.512292'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/omega-3-dha/" class="internal-link">Omega-3_DHA</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.685849'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/bacopa-monnieri/" class="internal-link">Bacopa_Monnieri</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.750324'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.408670'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Bacopa_Monnieri</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Omega-3_DHA</a></p>
 
 {% endraw %}

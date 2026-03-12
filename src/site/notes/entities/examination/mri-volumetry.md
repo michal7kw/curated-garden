@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:06.272948Z'
+created: '2026-03-12T06:00:32.790031Z'
 description: Quantitative magnetic resonance imaging measuring brain structure volumes,
   particularly hippocampal atrophy. Used for neurodegeneration assessment in the ATN
   framework and clinical trials.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/examination/mri-volumetry/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/examination/mri-volumetry/
 slug: mri-volumetry
 tags:
 - examination
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: MRI Volumetry
 type: examination
-updated: '2026-02-13T19:38:06.272948Z'
+updated: '2026-03-12T06:00:32.790031Z'
 ---
 
 {% raw %}
@@ -230,30 +230,19 @@ updated: '2026-02-13T19:38:06.272948Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Conditions</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Hippocampal atrophy</em></li>
-<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a> (condition) - <em>Predicts conversion</em></li>
-<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal Dementia</a> (condition) - <em>Frontal pattern</em></li>
-<li>→ <a href="/garden/dev_admin/condition/huntingtons-disease/" class="internal-link">Huntington's Disease</a> (condition) - <em>Caudate atrophy</em></li>
-<li>→ <a href="/garden/dev_admin/condition/progressive-supranuclear-palsy/" class="internal-link">Progressive Supranuclear Palsy</a> (condition) - <em>Midbrain atrophy</em></li>
-</ul>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal Dementia</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/huntingtons-disease/" class="internal-link">Huntington's Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Progressive Supranuclear Palsy</a></p>
 <h3>Brain Regions</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/hippocampus/" class="internal-link">Hippocampus</a> (organ) - <em>Key measurement</em></li>
-<li>→ <a href="/garden/dev_admin/organ/entorhinal-cortex/" class="internal-link">Entorhinal Cortex</a> (organ) - <em>Earliest change</em></li>
-<li>→ <a href="/garden/dev_admin/organ/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a> (organ) - <em>FTD involvement</em></li>
-</ul>
+<p>AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Hippocampus</a><br />
+AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Entorhinal Cortex</a><br />
+AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a></p>
 <h3>Related Imaging</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/examination/amyloid-pet-imaging/" class="internal-link">Amyloid PET Imaging</a> (examination) - <em>ATN A component</em></li>
-<li>← <a href="/garden/dev_admin/examination/tau-pet-imaging/" class="internal-link">Tau PET Imaging</a> (examination) - <em>ATN T component</em></li>
-<li>← <a href="/garden/dev_admin/examination/fdg-pet/" class="internal-link">FDG-PET</a> (examination) - <em>Functional correlate</em></li>
-</ul>
 <h3>Biomarkers</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a> (biomarker) - <em>Correlates with atrophy</em></li>
-<li>→ <a href="/garden/dev_admin/biomarker/total-tau/" class="internal-link">Total Tau</a> (biomarker) - <em>Neurodegeneration marker</em></li>
-</ul>
+<p>RELATED_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a><br />
+RELATED_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/biomarker/total-tau/" class="internal-link">Total Tau</a></p>
 <h2>Advantages and Limitations</h2>
 <h3>Advantages</h3>
 <ul>

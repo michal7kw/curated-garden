@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.329261Z'
+created: '2026-03-12T06:00:32.231109Z'
 description: A rare, chronic disorder where the adrenal glands do not produce enough
   cortisol and often insufficient aldosterone, usually due to autoimmune damage.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/addisons-disease/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/addisons-disease/
 slug: addisons-disease
 tags:
 - condition
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Addisons Disease
 type: condition
-updated: '2026-02-13T19:38:05.329261Z'
+updated: '2026-03-12T06:00:32.231109Z'
 ---
 
 {% raw %}
@@ -28,32 +28,8 @@ updated: '2026-02-13T19:38:05.329261Z'
 <li><strong>Hyperpigmentation:</strong> Due to excess ACTH cross-reacting with melanocyte receptors.</li>
 <li><strong>Electrolyte Abnormalities:</strong> Low sodium and high potassium.</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/addisons-disease/" class="internal-link">Addisons_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:29.446824'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/addisons-disease/" class="internal-link">Addisons_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:21.540212'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/adrenal-disease/" class="internal-link">Adrenal Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Type 1 Diabetes</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Hypothyroidism</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Adrenal Glands</a><br />
-ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a> - Markedly low.<br />
-ASSOCIATED_WITH_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Aldosterone</a> - Low.<br />
-ASSOCIATED_WITH_BIOMARKER::<a class="internal-link is-unresolved" href="/404">ACTH</a> - High.<br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Hydrocortisone</a><br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Fludrocortisone</a></p>
+<p>No relationships found.</p>
 <h2>References</h2>
 <ul>
 <li>Bornstein, S. R., et al. (2016). Diagnosis and Treatment of Primary Adrenal Insufficiency: An Endocrine Society Clinical Practice Guideline.</li>

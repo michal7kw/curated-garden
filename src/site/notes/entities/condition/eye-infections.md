@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.551544Z'
+created: '2026-03-12T06:00:32.372488Z'
 description: Infections of the eye or its surrounding structures caused by bacteria,
   viruses, fungi, or parasites.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/eye-infections/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/eye-infections/
 slug: eye-infections
 tags:
 - condition
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Eye Infections
 type: condition
-updated: '2026-02-13T19:38:05.551544Z'
+updated: '2026-03-12T06:00:32.372488Z'
 ---
 
 {% raw %}
@@ -30,30 +30,8 @@ updated: '2026-02-13T19:38:05.551544Z'
 <li><strong>Stye (Hordeolum):</strong> Infection of an eyelash follicle or oil gland.</li>
 <li><strong>Endophthalmitis:</strong> Severe infection inside the eye.</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/eye-infections/" class="internal-link">Eye_Infections</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:38.355065'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/eye-infections/" class="internal-link">Eye_Infections</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:35.851879'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Bacteria</a><br />
-CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Virus</a><br />
-CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Fungi</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Contact Lens Use</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Eye</a><br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Antibiotic Eye Drops</a><br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Antiviral Eye Drops</a></p>
+<p>No relationships found.</p>
 <h2>References</h2>
 <ul>
 <li>Centers for Disease Control and Prevention (CDC). Eye Infections.</li>

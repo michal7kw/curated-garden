@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:38:06.867539Z'
+created: '2026-03-12T06:00:33.295558Z'
 description: Methylmalonic acid (MMA) is a substance involved in metabolism and energy
   production. MMA levels rise when vitamin B12 is low, making this one of the most
   sensitive tests for early or mild B12 deficiency—even before symptoms appear. While
@@ -9,15 +9,15 @@ description: Methylmalonic acid (MMA) is a substance involved in metabolism and 
   problems develop.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/methylmalonic-acid/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/methylmalonic-acid/
 slug: methylmalonic-acid
 tags:
 - labtest
 templateEngineOverride: njk
 title: methylmalonic_acid
 type: labtest
-updated: '2026-02-13T19:38:06.867539Z'
+updated: '2026-03-12T06:00:33.295558Z'
 ---
 
 {% raw %}
@@ -63,116 +63,29 @@ updated: '2026-02-13T19:38:06.867539Z'
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
 <li><a class="internal-link is-unresolved" href="/404">Vitamin B12 Deficiency</a></li>
-<li><a href="/garden/dev_admin/condition/pernicious-anemia/" class="internal-link">Pernicious Anemia</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/pernicious-anemia/" class="internal-link">Pernicious Anemia</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Malabsorption</a></li>
-<li><a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.426720'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/pernicious-anemia/" class="internal-link">Pernicious_Anemia</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.426720'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Vitamin_B12_Deficiency</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.426720'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Malabsorption</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.363959'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Vitamin_B12_Deficiency</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.363959'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/pernicious-anemia/" class="internal-link">Pernicious_Anemia</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.363959'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.363959'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:05.244890'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.904495'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.426720'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.426720'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/pernicious-anemia/" class="internal-link">Pernicious_Anemia</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.828660'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.198940'
-source: obsidian
-</code></pre>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">extended_vitamins_minerals_nutrients</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/pernicious-anemia/" class="internal-link">Pernicious_Anemia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Vitamin_B12_Deficiency</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Malabsorption</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">mthfr_gene</a></p>
 <h3>May Detect</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/pernicious-anemia/" class="internal-link">Pernicious_Anemia</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/pernicious-anemia/" class="internal-link">Pernicious_Anemia</a></p>
 <h3>Included In</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a> (labtestpanel)</li>
-<li>→ <a href="/garden/dev_admin/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a> (labtestpanel)</li>
-</ul>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">extended_vitamins_minerals_nutrients</a><br />
+INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">mthfr_gene</a></p>
+<h3>Conditions</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/pernicious-anemia/" class="internal-link">Pernicious_Anemia</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

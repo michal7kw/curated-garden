@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:06.365015Z'
+created: '2026-03-12T06:00:32.875286Z'
 description: Structured mental exercises designed to maintain or improve cognitive
   function. Includes memory training, processing speed exercises, and computerized
   brain training programs for dementia prevention.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/intervention/cognitive-training/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/intervention/cognitive-training/
 slug: cognitive-training
 tags:
 - intervention
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Cognitive Training
 type: intervention
-updated: '2026-02-13T19:38:06.365015Z'
+updated: '2026-03-12T06:00:32.875286Z'
 ---
 
 {% raw %}
@@ -157,208 +157,22 @@ updated: '2026-02-13T19:38:06.365015Z'
 <li>Strategy games (chess, bridge)</li>
 <li>Novel complex hobbies</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.000825'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Cognitive_Reserve</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.000825'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Age-Related_Cognitive_Decline</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.000825'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.000825'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.000825'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Omega-3_DHA</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.000825'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/prefrontal-cortex/" class="internal-link">Prefrontal_Cortex</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.000825'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/intervention/mediterranean-diet/" class="internal-link">Mediterranean_Diet</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.000825'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Parietal_Cortex</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.000825'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Bacopa_Monnieri</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.000825'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">ADHD</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.835016'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Age-Related_Cognitive_Decline</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.835016'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Cognitive_Reserve</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.835016'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Parietal_Cortex</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.835016'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/bacopa-monnieri/" class="internal-link">Bacopa_Monnieri</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.835016'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/omega-3-dha/" class="internal-link">Omega-3_DHA</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.835016'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a> (intervention)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.835016'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a> (intervention)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.835016'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/intervention/mediterranean-diet/" class="internal-link">Mediterranean_Diet</a> (intervention)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.835016'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.408670'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/biomarker/bdnf/" class="internal-link">BDNF</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.191066'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a> (intervention)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.863953'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/intervention/mediterranean-diet/" class="internal-link">Mediterranean_Diet</a> (intervention)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/prefrontal-cortex/" class="internal-link">Prefrontal_Cortex</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.835016'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/hippocampus/" class="internal-link">Hippocampus</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.835016'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.835016'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/bdnf/" class="internal-link">BDNF</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.835016'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.835016'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<h3>Cognitive Conditions</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a> (condition) - <em>May slow progression</em></li>
-<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Cognitive reserve building</em></li>
-<li>→ <a href="/garden/dev_admin/condition/adhd/" class="internal-link">ADHD</a> (condition) - <em>Working memory training</em></li>
-<li>→ <a href="/garden/dev_admin/condition/age-related-cognitive-decline/" class="internal-link">Age-Related Cognitive Decline</a> (condition) - <em>Primary target</em></li>
-</ul>
-<h3>Biomarkers</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/bdnf/" class="internal-link">BDNF</a> (biomarker) - <em>May increase with training</em></li>
-<li>→ <a href="/garden/dev_admin/concept/cognitive-reserve/" class="internal-link">Cognitive Reserve</a> (concept) - <em>Enhanced</em></li>
-</ul>
-<h3>Synergistic Interventions</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a> (intervention) - <em>Synergistic effects</em></li>
-<li>→ <a href="/garden/dev_admin/intervention/mediterranean-diet/" class="internal-link">Mediterranean Diet</a> (intervention) - <em>FINGER trial combination</em></li>
-<li>→ <a href="/garden/dev_admin/intervention/sleep-optimization/" class="internal-link">Sleep Optimization</a> (intervention) - <em>Consolidation support</em></li>
-</ul>
-<h3>Brain Regions</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/hippocampus/" class="internal-link">Hippocampus</a> (organ) - <em>Memory training target</em></li>
-<li>→ <a href="/garden/dev_admin/organ/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a> (organ) - <em>Executive function</em></li>
-<li>→ <a href="/garden/dev_admin/organ/parietal-cortex/" class="internal-link">Parietal Cortex</a> (organ) - <em>Attention</em></li>
-</ul>
-<h3>Supplements</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/omega-3-dha/" class="internal-link">Omega-3 DHA</a> (supplement) - <em>Supports neuroplasticity</em></li>
-<li>→ <a href="/garden/dev_admin/supplement/bacopa-monnieri/" class="internal-link">Bacopa Monnieri</a> (supplement) - <em>Memory support</em></li>
-</ul>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">ADHD</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/bdnf/" class="internal-link">BDNF</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Prefrontal_Cortex</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Omega-3_DHA</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hippocampus</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/mediterranean-diet/" class="internal-link">Mediterranean_Diet</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/exercise/" class="internal-link">Exercise</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Cognitive_Reserve</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Age-Related_Cognitive_Decline</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Bacopa_Monnieri</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Parietal_Cortex</a></p>
 <h2>Limitations and Considerations</h2>
 <h3>Limited Far Transfer</h3>
 <ul>

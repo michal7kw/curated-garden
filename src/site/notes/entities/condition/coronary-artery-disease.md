@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:05.507736Z'
+created: '2026-03-12T06:00:32.337243Z'
 description: A type of heart disease characterized by the narrowing or blockage of
   the coronary arteries, usually caused by atherosclerosis, which reduces blood flow
   to the heart muscle.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/coronary-artery-disease/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/coronary-artery-disease/
 slug: coronary-artery-disease
 tags:
 - condition
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Coronary Artery Disease
 type: condition
-updated: '2026-02-13T19:38:05.507736Z'
+updated: '2026-03-12T06:00:32.337243Z'
 ---
 
 {% raw %}
@@ -39,25 +39,9 @@ SORT confidence_score DESC
 </code></pre>
 <h2>Other Relationships</h2>
 <h3>Increases Risk For</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/clinicalpattern/cardiovascular-risk-pattern/" class="internal-link">Cardiovascular_Risk_Pattern</a> (clinicalpattern)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:36.399745'
-source: obsidian
-</code></pre>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/coronary-artery-disease/" class="internal-link">Coronary_Artery_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:02.307529'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/clinicalpattern/cardiovascular-risk-pattern/" class="internal-link">Cardiovascular_Risk_Pattern</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:02.307529'
-source: obsidian
-</code></pre>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/coronary-artery-disease/" class="internal-link">Coronary_Artery_Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/clinicalpattern/cardiovascular-risk-pattern/" class="internal-link">Cardiovascular_Risk_Pattern</a></p>
 <h2>Research</h2>
 <h3>Recent Studies</h3>
 <pre><code class="language-dataview">LIST
@@ -70,35 +54,8 @@ SORT date DESC
 FROM [[Coronary Artery Disease]] AND #clinical-trial
 SORT date DESC
 </code></pre>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/coronary-artery-disease/" class="internal-link">Coronary_Artery_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.706824'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/clinicalpattern/cardiovascular-risk-pattern/" class="internal-link">Cardiovascular_Risk_Pattern</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.706824'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/coronary-artery-disease/" class="internal-link">Coronary_Artery_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.706824'
-source: obsidian
-</code></pre>
-<h3>Increases Risk For</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/clinicalpattern/cardiovascular-risk-pattern/" class="internal-link">Cardiovascular_Risk_Pattern</a> (clinicalpattern)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.311340'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
 <h2>References</h2>
 <p>No references available.</p>
 

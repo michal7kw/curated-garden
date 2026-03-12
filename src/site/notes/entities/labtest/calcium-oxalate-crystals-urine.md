@@ -1,20 +1,20 @@
 ---
-created: '2026-02-13T19:38:06.550971Z'
+created: '2026-03-12T06:00:33.031784Z'
 description: Tested twice a year Calcium oxalate crystals can occasionally appear
   in urine without causing harm, often reflecting diet or hydration status. However,
   persistent crystal formation can be associated with kidney stones, chronic kidney
   problems, and underlying metabolic imbalances.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/calcium-oxalate-crystals-urine/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/calcium-oxalate-crystals-urine/
 slug: calcium-oxalate-crystals-urine
 tags:
 - labtest
 templateEngineOverride: njk
 title: calcium_oxalate_crystals_urine
 type: labtest
-updated: '2026-02-13T19:38:06.550971Z'
+updated: '2026-03-12T06:00:33.031784Z'
 ---
 
 {% raw %}
@@ -60,10 +60,6 @@ updated: '2026-02-13T19:38:06.550971Z'
 <p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
-<!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
 <p>No relationships found.</p>
 <h2>Notes</h2>

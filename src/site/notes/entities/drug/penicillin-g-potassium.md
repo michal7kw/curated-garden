@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:06.176833Z'
+created: '2026-03-12T06:00:32.717844Z'
 description: A potassium salt form of Penicillin G, used for rapid treatment of severe
   bacterial infections through intravenous or intramuscular routes.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/drug/penicillin-g-potassium/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/drug/penicillin-g-potassium/
 slug: penicillin-g-potassium
 tags:
 - drug
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Penicillin G Potassium
 type: drug
-updated: '2026-02-13T19:38:06.176833Z'
+updated: '2026-03-12T06:00:32.717844Z'
 ---
 
 {% raw %}
@@ -29,16 +29,8 @@ updated: '2026-02-13T19:38:06.176833Z'
 <li><strong>Septicemia.</strong></li>
 <li><strong>Neurosyphilis.</strong></li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <p>No relationships found.</p>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>TREATS_CONDITION::<a href="/garden/dev_admin/condition/meningitis/" class="internal-link">Meningitis</a><br />
-TREATS_CONDITION::<a class="internal-link is-unresolved" href="/404">Sepsis</a><br />
-TREATS_CONDITION::<a class="internal-link is-unresolved" href="/404">Syphilis</a><br />
-ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/labtest/potassium/" class="internal-link">Potassium</a> - Monitoring required.<br />
-DRUG_CONTAINS_COMPOUND::<a href="/garden/dev_admin/drug/penicillin-g/" class="internal-link">Penicillin G</a></p>
 <h2>References</h2>
 <ul>
 <li>Pfizer. Pfizerpen (Penicillin G Potassium) Prescribing Information.</li>

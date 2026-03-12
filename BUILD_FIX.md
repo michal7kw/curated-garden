@@ -100,7 +100,7 @@ This is **intentional** - it provides cleaner URLs and separates entity pages fr
 ## How to Rebuild
 
 ```bash
-cd "D:\NAS\Qsync\quartz_fork\content\GitHub_nas_filter\MKG_top\digitalgarden_template"
+cd "D:\NAS\Qsync\quartz_fork\content\GitHub_nas_filter\MKG_top\curated_garden"
 
 # Clean and rebuild
 npm run prebuild

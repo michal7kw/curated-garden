@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:38:06.481938Z'
+created: '2026-03-12T06:00:32.968346Z'
 description: an-tee-noo-klee-ur an-tih-bod-eez pat-urn The antinuclear antibodies
   (ANA) pattern analyzes the specific patterns of antibody staining on cells, providing
   detailed information that can help differentiate between various autoimmune diseases.
@@ -9,15 +9,15 @@ description: an-tee-noo-klee-ur an-tih-bod-eez pat-urn The antinuclear antibodie
   is positive.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/antinuclear-antibodies-ana-pattern/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/antinuclear-antibodies-ana-pattern/
 slug: antinuclear-antibodies-ana-pattern
 tags:
 - labtest
 templateEngineOverride: njk
 title: antinuclear_antibodies_ana_pattern
 type: labtest
-updated: '2026-02-13T19:38:06.481938Z'
+updated: '2026-03-12T06:00:32.968346Z'
 ---
 
 {% raw %}
@@ -63,41 +63,13 @@ updated: '2026-02-13T19:38:06.481938Z'
 <p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/labtestpanel/extended-autoimmunity/" class="internal-link">extended_autoimmunity</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.700050'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac_gluten_intolerance</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.325688'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/extended-autoimmunity/" class="internal-link">extended_autoimmunity</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.915048'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac_gluten_intolerance</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:07.915048'
-source: obsidian
-</code></pre>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">extended_autoimmunity</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">celiac_gluten_intolerance</a></p>
 <h3>Included In</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/extended-autoimmunity/" class="internal-link">extended_autoimmunity</a> (labtestpanel)</li>
-<li>→ <a href="/garden/dev_admin/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac_gluten_intolerance</a> (labtestpanel)</li>
-</ul>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">extended_autoimmunity</a><br />
+INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">celiac_gluten_intolerance</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

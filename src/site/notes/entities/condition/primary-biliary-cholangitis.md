@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.904488Z'
+created: '2026-03-12T06:00:32.557619Z'
 description: A chronic autoimmune liver disease characterized by the slow destruction
   of the small bile ducts in the liver, leading to bile buildup and scarring.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/primary-biliary-cholangitis/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/primary-biliary-cholangitis/
 slug: primary-biliary-cholangitis
 tags:
 - condition
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Primary Biliary Cholangitis
 type: condition
-updated: '2026-02-13T19:38:05.904488Z'
+updated: '2026-03-12T06:00:32.557619Z'
 ---
 
 {% raw %}
@@ -37,26 +37,9 @@ SORT confidence_score DESC
 </code></pre>
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/alkaline-phosphatase-alp/" class="internal-link">alkaline_phosphatase_alp</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/primary-biliary-cholangitis/" class="internal-link">Primary_Biliary_Cholangitis</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:37.438429'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/alkaline-phosphatase-alp/" class="internal-link">alkaline_phosphatase_alp</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:37.438429'
-source: obsidian
-</code></pre>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/primary-biliary-cholangitis/" class="internal-link">Primary_Biliary_Cholangitis</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/alkaline-phosphatase-alp/" class="internal-link">alkaline_phosphatase_alp</a></p>
 <h2>Research</h2>
 <h3>Recent Studies</h3>
 <pre><code class="language-dataview">LIST
@@ -69,42 +52,8 @@ SORT date DESC
 FROM [[Primary Biliary Cholangitis]] AND #clinical-trial
 SORT date DESC
 </code></pre>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/primary-biliary-cholangitis/" class="internal-link">Primary_Biliary_Cholangitis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.489490'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/alkaline-phosphatase-alp/" class="internal-link">alkaline_phosphatase_alp</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.561127'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/alkaline-phosphatase-alp/" class="internal-link">alkaline_phosphatase_alp</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.489490'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/primary-biliary-cholangitis/" class="internal-link">Primary_Biliary_Cholangitis</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.489490'
-source: obsidian
-</code></pre>
-<h3>May Detect</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/alkaline-phosphatase-alp/" class="internal-link">alkaline_phosphatase_alp</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
 <h2>References</h2>
 <p>No references available.</p>
 

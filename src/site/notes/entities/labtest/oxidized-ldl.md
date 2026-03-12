@@ -1,20 +1,20 @@
 ---
-created: '2026-02-13T19:38:06.941706Z'
+created: '2026-03-12T06:00:33.363383Z'
 description: Oxidized LDL (ox-LDL) test measures LDL cholesterol particles that have
   been modified by oxidation. Oxidized LDL is a key driver of atherosclerosis, promoting
   foam cell formation, endothelial dysfunction, and plaque instability. More specific
   for cardiovascular risk than standard LDL cholesterol.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/oxidized-ldl/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/oxidized-ldl/
 slug: oxidized-ldl
 tags:
 - labtest
 templateEngineOverride: njk
 title: oxidized_ldl
 type: labtest
-updated: '2026-02-13T19:38:06.941706Z'
+updated: '2026-03-12T06:00:33.363383Z'
 ---
 
 {% raw %}
@@ -93,22 +93,18 @@ updated: '2026-02-13T19:38:06.941706Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li><a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Atherosclerosis</a></li>
-<li><a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a></li>
 </ul>
 <h2>Relationships</h2>
-<h3>Measures</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/oxidized-ldl/" class="internal-link">Oxidized LDL</a> (biomarker)</li>
-</ul>
 <h3>Related Tests</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/ldl-cholesterol/" class="internal-link">ldl cholesterol</a> (labtest) - Standard LDL measurement</li>
-<li>→ <a href="/garden/dev_admin/labtest/ldl-particle-number/" class="internal-link">ldl particle number</a> (labtest) - Particle count assessment</li>
-<li>→ <a href="/garden/dev_admin/labtest/ldl-small/" class="internal-link">ldl small</a> (labtest) - Small dense LDL (more susceptible to oxidation)</li>
-</ul>
+<p>RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/ldl-cholesterol/" class="internal-link">ldl_cholesterol</a><br />
+RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/ldl-small/" class="internal-link">ldl_small</a><br />
+RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/ldl-particle-number/" class="internal-link">ldl_particle_number</a></p>
+<h3>Measures</h3>
+<p>MEASURES::<a href="/garden/michal.k7w@gmail.com/labtest/oxidized-ldl/" class="internal-link">Oxidized_LDL</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted alongside standard lipid panel</li>

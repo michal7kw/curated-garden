@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:04.976229Z'
+created: '2026-03-12T06:00:32.076259Z'
 description: Hyperphosphorylated tau protein measured in CSF or blood, indicating
   tau pathology and neurofibrillary tangle formation. A core biomarker for Alzheimer's
   disease diagnosis within the ATN framework.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/phospho-tau/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/phospho-tau/
 slug: phospho-tau
 tags:
 - biomarker
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Phospho-Tau
 type: biomarker
-updated: '2026-02-13T19:38:04.976229Z'
+updated: '2026-03-12T06:00:32.076259Z'
 ---
 
 {% raw %}
@@ -116,256 +116,22 @@ updated: '2026-02-13T19:38:04.976229Z'
 </tbody>
 </table>
 <p><em>Note: Cutoffs vary by assay platform</em></p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:54.207530'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:38.556708'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:30.206636'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Down_Syndrome</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.983992'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.983992'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.983992'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.983992'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/plasma-p-tau217/" class="internal-link">Plasma_p-tau217</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.983992'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/examination/tau-pet-imaging/" class="internal-link">Tau_PET_Imaging</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.983992'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/examination/amyloid-pet-imaging/" class="internal-link">Amyloid_PET_Imaging</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.983992'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Amyloid-Beta_4240_Ratio</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.983992'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.983992'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/total-tau/" class="internal-link">Total_Tau</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.983992'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/examination/lumbar-puncture/" class="internal-link">Lumbar_Puncture</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.983992'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/tau-phosphorylation/" class="internal-link">Tau_Phosphorylation</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.983992'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Lewy_Body_Dementia</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.983992'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.983992'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Down_Syndrome</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.718126'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Lewy_Body_Dementia</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.718126'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/pathway/tau-phosphorylation/" class="internal-link">Tau_Phosphorylation</a> (pathway)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.950584'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.718126'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.718126'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.718126'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/examination/tau-pet-imaging/" class="internal-link">Tau_PET_Imaging</a> (examination)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.718126'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/examination/lumbar-puncture/" class="internal-link">Lumbar_Puncture</a> (examination)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.718126'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.718126'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/total-tau/" class="internal-link">Total_Tau</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.718126'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.198842'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta_4240_Ratio</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:09.882854'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/examination/tau-pet-imaging/" class="internal-link">Tau_PET_Imaging</a> (examination)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:45.698956'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/examination/lumbar-puncture/" class="internal-link">Lumbar_Puncture</a> (examination)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:45.028418'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/examination/amyloid-pet-imaging/" class="internal-link">Amyloid_PET_Imaging</a> (examination)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:44.235597'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.408670'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/biomarker/total-tau/" class="internal-link">Total_Tau</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.683830'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/biomarker/plasma-p-tau217/" class="internal-link">Plasma_p-tau217</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:16.234462'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta_4240_Ratio</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.718126'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.718126'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<h3>Conditions with Elevated P-Tau</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Strongly elevated</em></li>
-<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a> (condition) - <em>Predicts AD conversion</em></li>
-<li>→ <a href="/garden/dev_admin/condition/down-syndrome/" class="internal-link">Down Syndrome</a> (condition) - <em>Early-onset AD pathology</em></li>
-</ul>
-<h3>Conditions with Normal P-Tau</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal Dementia</a> (condition) - <em>Usually normal (except some MAPT)</em></li>
-<li>→ <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a> (condition) - <em>Usually normal</em></li>
-<li>→ <a href="/garden/dev_admin/condition/lewy-body-dementia/" class="internal-link">Lewy Body Dementia</a> (condition) - <em>Mildly elevated if AD copathology</em></li>
-</ul>
-<h3>Related Biomarkers</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/total-tau/" class="internal-link">Total Tau</a> (biomarker) - <em>General neurodegeneration</em></li>
-<li>→ <a href="/garden/dev_admin/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta 42/40 Ratio</a> (biomarker) - <em>Amyloid pathology</em></li>
-<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a> (biomarker) - <em>Neurodegeneration intensity</em></li>
-</ul>
-<h3>Diagnostic Procedures</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/examination/lumbar-puncture/" class="internal-link">Lumbar Puncture</a> (examination) - <em>CSF collection</em></li>
-<li>← <a href="/garden/dev_admin/examination/tau-pet-imaging/" class="internal-link">Tau PET Imaging</a> (examination) - <em>Direct tau visualization</em></li>
-</ul>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Lewy_Body_Dementia</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/examination/amyloid-pet-imaging/" class="internal-link">Amyloid_PET_Imaging</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Amyloid-Beta_4240_Ratio</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Down_Syndrome</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/tau-phosphorylation/" class="internal-link">Tau_Phosphorylation</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/total-tau/" class="internal-link">Total_Tau</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/plasma-p-tau217/" class="internal-link">Plasma_p-tau217</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/examination/tau-pet-imaging/" class="internal-link">Tau_PET_Imaging</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/examination/lumbar-puncture/" class="internal-link">Lumbar_Puncture</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a></p>
 <h2>Advantages of Plasma P-Tau</h2>
 <h3>P-Tau217 Benefits</h3>
 <ul>

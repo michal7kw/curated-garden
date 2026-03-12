@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:07.763688Z'
+created: '2026-03-12T06:00:33.696024Z'
 description: The hypothesis that amyloid-beta accumulation is the primary initiating
   event in Alzheimer's disease, triggering downstream tau pathology, neuroinflammation,
   synaptic dysfunction, and neuronal death.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/pathway/amyloid-cascade/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/pathway/amyloid-cascade/
 slug: amyloid-cascade
 tags:
 - pathway
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Amyloid Cascade
 type: pathway
-updated: '2026-02-13T19:38:07.763688Z'
+updated: '2026-03-12T06:00:33.696024Z'
 ---
 
 {% raw %}
@@ -127,270 +127,29 @@ Non-amyloidogenic   Amyloidogenic
 <li>Aβ as downstream consequence</li>
 <li>Network-centric models</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.716975'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">-Secretase_Modulators</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.716975'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Cerebral_Amyloid_Angiopathy</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.716975'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/neuron-derived-exosome-biomarkers/" class="internal-link">Neuron-Derived_Exosome_Biomarkers</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.716975'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Synaptic_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.716975'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/gfap/" class="internal-link">GFAP</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.716975'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/tau-phosphorylation/" class="internal-link">Tau_Phosphorylation</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.716975'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/examination/amyloid-pet-imaging/" class="internal-link">Amyloid_PET_Imaging</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.716975'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.716975'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.716975'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/plasma-amyloid-beta-ratio/" class="internal-link">Plasma_Amyloid-Beta_Ratio</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.716975'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.716975'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Amyloid-Beta_4240_Ratio</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.716975'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">BACE1_Inhibitors</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.716975'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Donanemab</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Lecanemab</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Synaptic_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Cerebral_Amyloid_Angiopathy</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">-Secretase_Modulators</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (pathway)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">BACE1_Inhibitors</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/tau-phosphorylation/" class="internal-link">Tau_Phosphorylation</a> (pathway)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Aging</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a> (intervention)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.863953'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/examination/amyloid-pet-imaging/" class="internal-link">Amyloid_PET_Imaging</a> (examination)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:44.235597'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/biomarker/plasma-amyloid-beta-ratio/" class="internal-link">Plasma_Amyloid-Beta_Ratio</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.960616'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/biomarker/neuron-derived-exosome-biomarkers/" class="internal-link">Neuron-Derived_Exosome_Biomarkers</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.353378'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/biomarker/gfap/" class="internal-link">GFAP</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.668732'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/pathway/tau-phosphorylation/" class="internal-link">Tau_Phosphorylation</a> (pathway)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.950584'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (pathway)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a> (pathway)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/protein/app/" class="internal-link">APP</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta_4240_Ratio</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/examination/amyloid-pet-imaging/" class="internal-link">Amyloid_PET_Imaging</a> (examination)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/protein/apoe/" class="internal-link">ApoE</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/gene/psen1/" class="internal-link">PSEN1</a> (gene)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.155642'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<h3>Upstream Factors</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/protein/app/" class="internal-link">APP</a> (gene) - <em>Aβ precursor</em></li>
-<li>→ <a href="/garden/dev_admin/protein/apoe/" class="internal-link">APOE</a> (gene) - <em>Clearance modulator</em></li>
-<li>→ <a href="/garden/dev_admin/gene/psen1/" class="internal-link">PSEN1</a> (gene) - <em>γ-secretase component</em></li>
-<li>← <a href="/garden/dev_admin/process/aging/" class="internal-link">Aging</a> (process) - <em>Primary risk factor</em></li>
-</ul>
-<h3>Downstream Effects</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/tau-phosphorylation/" class="internal-link">Tau Phosphorylation</a> (pathway) - <em>Triggered by Aβ</em></li>
-<li>→ <a href="/garden/dev_admin/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (pathway) - <em>Microglial activation</em></li>
-<li>→ <a href="/garden/dev_admin/pathway/synaptic-dysfunction/" class="internal-link">Synaptic Dysfunction</a> (pathway) - <em>LTP inhibition</em></li>
-</ul>
-<h3>Diseases</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Central hypothesis</em></li>
-<li>→ <a href="/garden/dev_admin/condition/cerebral-amyloid-angiopathy/" class="internal-link">Cerebral Amyloid Angiopathy</a> (condition) - <em>Vascular amyloid</em></li>
-<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a> (condition) - <em>Prodromal stage</em></li>
-</ul>
-<h3>Biomarkers</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta 42/40 Ratio</a> (biomarker) - <em>CSF/plasma</em></li>
-<li>← <a href="/garden/dev_admin/examination/amyloid-pet-imaging/" class="internal-link">Amyloid PET Imaging</a> (examination) - <em>Plaque visualization</em></li>
-</ul>
-<h3>Therapeutic Targets</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/drug/lecanemab/" class="internal-link">Lecanemab</a> (drug) - <em>Anti-Aβ antibody; FDA approved</em></li>
-<li>← <a href="/garden/dev_admin/drug/donanemab/" class="internal-link">Donanemab</a> (drug) - <em>Anti-Aβ antibody</em></li>
-<li>← <a href="/garden/dev_admin/drug/bace1-inhibitors/" class="internal-link">BACE1 Inhibitors</a> (drug) - <em>Reduce production</em></li>
-<li>← <a href="/garden/dev_admin/drug/secretase-modulators/" class="internal-link">γ-Secretase Modulators</a> (drug) - <em>Shift Aβ42/40 ratio</em></li>
-</ul>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Aging</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/gene/apoe/" class="internal-link">ApoE</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/examination/amyloid-pet-imaging/" class="internal-link">Amyloid_PET_Imaging</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Donanemab</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/gfap/" class="internal-link">GFAP</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Lecanemab</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">PSEN1</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">-Secretase_Modulators</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">BACE1_Inhibitors</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/plasma-amyloid-beta-ratio/" class="internal-link">Plasma_Amyloid-Beta_Ratio</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Synaptic_Dysfunction</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/gene/app/" class="internal-link">APP</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/tau-phosphorylation/" class="internal-link">Tau_Phosphorylation</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Amyloid-Beta_4240_Ratio</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/neuron-derived-exosome-biomarkers/" class="internal-link">Neuron-Derived_Exosome_Biomarkers</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Cerebral_Amyloid_Angiopathy</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a></p>
 <h2>Therapeutic Strategies</h2>
 <h3>Production Inhibition</h3>
 <ul>

@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.924066Z'
+created: '2026-03-12T06:00:32.570569Z'
 description: Severe pain caused by a kidney stone moving through the urinary tract,
   typically blocking the flow of urine.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/renal-colic/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/renal-colic/
 slug: renal-colic
 tags:
 - condition
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Renal Colic
 type: condition
-updated: '2026-02-13T19:38:05.924066Z'
+updated: '2026-03-12T06:00:32.570569Z'
 ---
 
 {% raw %}
@@ -38,12 +38,7 @@ SORT confidence_score DESC
 </code></pre>
 <h2>Other Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/renal-colic/" class="internal-link">Renal_Colic</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:39.089157'
-source: obsidian
-</code></pre>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/renal-colic/" class="internal-link">Renal_Colic</a></p>
 <h2>Research</h2>
 <h3>Recent Studies</h3>
 <pre><code class="language-dataview">LIST
@@ -56,22 +51,8 @@ SORT date DESC
 FROM [[Renal Colic]] AND #clinical-trial
 SORT date DESC
 </code></pre>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/renal-colic/" class="internal-link">Renal_Colic</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.917440'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/renal-colic/" class="internal-link">Renal_Colic</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.917440'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
+<p>No relationships found.</p>
 <h2>References</h2>
 <p>No references available.</p>
 

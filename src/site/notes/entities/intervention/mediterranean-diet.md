@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:06.395568Z'
+created: '2026-03-12T06:00:32.892830Z'
 description: A dietary pattern emphasizing fruits, vegetables, whole grains, legumes,
   nuts, olive oil, and fish. Associated with reduced risk of cardiovascular disease,
   cognitive decline, and dementia.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/intervention/mediterranean-diet/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/intervention/mediterranean-diet/
 slug: mediterranean-diet
 tags:
 - intervention
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Mediterranean Diet
 type: intervention
-updated: '2026-02-13T19:38:06.395568Z'
+updated: '2026-03-12T06:00:32.892830Z'
 ---
 
 {% raw %}
@@ -210,245 +210,27 @@ updated: '2026-02-13T19:38:06.395568Z'
 <li>Short-chain fatty acid production</li>
 <li>Reduced intestinal permeability</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.770855'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.770855'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Type_2_Diabetes</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.770855'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (pathway)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.770855'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.770855'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.770855'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.770855'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/ldl-cholesterol/" class="internal-link">LDL_Cholesterol</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.770855'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Omega-3_DHA</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.770855'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/intervention/cognitive-training/" class="internal-link">Cognitive_Training</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.770855'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/vitamin-e/" class="internal-link">Vitamin_E</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:05.770855'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">CRP</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/omega-3-dha/" class="internal-link">Omega-3_DHA</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Polyphenols</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Type_2_Diabetes</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/hba1c/" class="internal-link">HbA1c</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/ldl-cholesterol/" class="internal-link">LDL_Cholesterol</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (pathway)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a> (intervention)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/intervention/cognitive-training/" class="internal-link">Cognitive_Training</a> (intervention)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:47.835016'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.779185'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.408670'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a> (intervention)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.863953'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a> (intervention)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/intervention/cognitive-training/" class="internal-link">Cognitive_Training</a> (intervention)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/bdnf/" class="internal-link">BDNF</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/vitamin-e/" class="internal-link">Vitamin_E</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/metabolite/homocysteine/" class="internal-link">Homocysteine</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/folate/" class="internal-link">Folate</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.486140'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<h3>Conditions (Prevention)</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Reduced risk</em></li>
-<li>→ <a href="/garden/dev_admin/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a> (condition) - <em>Cardiovascular protection</em></li>
-<li>→ <a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a> (condition) - <em>Slowed progression</em></li>
-<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> (condition) - <em>PREDIMED evidence</em></li>
-<li>→ <a href="/garden/dev_admin/condition/type-2-diabetes/" class="internal-link">Type 2 Diabetes</a> (condition) - <em>Reduced incidence</em></li>
-<li>→ <a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a> (condition) - <em>SMILES trial evidence</em></li>
-</ul>
-<h3>Biomarkers</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/crp/" class="internal-link">CRP</a> (biomarker) - <em>Reduces inflammation</em></li>
-<li>→ <a href="/garden/dev_admin/labtest/ldl-cholesterol/" class="internal-link">LDL Cholesterol</a> (biomarker) - <em>Reduces oxidation</em></li>
-<li>→ <a href="/garden/dev_admin/labtest/hba1c/" class="internal-link">HbA1c</a> (biomarker) - <em>Glycemic control</em></li>
-<li>→ <a href="/garden/dev_admin/biomarker/bdnf/" class="internal-link">BDNF</a> (biomarker) - <em>May increase</em></li>
-<li>→ <a href="/garden/dev_admin/metabolite/homocysteine/" class="internal-link">Homocysteine</a> (biomarker) - <em>Reduced with folate</em></li>
-</ul>
-<h3>Synergistic Interventions</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a> (intervention) - <em>PREDIMED-Plus combination</em></li>
-<li>→ <a href="/garden/dev_admin/intervention/cognitive-training/" class="internal-link">Cognitive Training</a> (intervention) - <em>FINGER trial</em></li>
-<li>→ <a href="/garden/dev_admin/intervention/sleep-optimization/" class="internal-link">Sleep Optimization</a> (intervention) - <em>Comprehensive lifestyle</em></li>
-</ul>
-<h3>Key Nutrients</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/omega-3-dha/" class="internal-link">Omega-3 DHA</a> (supplement) - <em>From fish</em></li>
-<li>→ <a href="/garden/dev_admin/supplement/vitamin-e/" class="internal-link">Vitamin E</a> (supplement) - <em>From olive oil, nuts</em></li>
-<li>→ <a href="/garden/dev_admin/supplement/folate/" class="internal-link">Folate</a> (supplement) - <em>From leafy greens</em></li>
-<li>→ <a href="/garden/dev_admin/supplement/polyphenols/" class="internal-link">Polyphenols</a> (supplement) - <em>From plants, wine</em></li>
-</ul>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/bdnf/" class="internal-link">BDNF</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Type_2_Diabetes</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/depression/" class="internal-link">Depression</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-e/" class="internal-link">Vitamin_E</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">CRP</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/folate/" class="internal-link">Folate</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/ldl-cholesterol/" class="internal-link">LDL_Cholesterol</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Polyphenols</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/exercise/" class="internal-link">Exercise</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/hba1c/" class="internal-link">HbA1c</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/homocysteine/" class="internal-link">Homocysteine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Omega-3_DHA</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/cognitive-training/" class="internal-link">Cognitive_Training</a></p>
 <h2>Practical Implementation</h2>
 <h3>Getting Started</h3>
 <ol>

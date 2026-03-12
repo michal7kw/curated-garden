@@ -1,16 +1,16 @@
 ---
-created: '2026-02-13T19:38:07.860555Z'
+created: '2026-03-12T06:00:33.767560Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/pathway/glutamatergic-pathways/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/pathway/glutamatergic-pathways/
 slug: glutamatergic-pathways
 tags:
 - pathway
 templateEngineOverride: njk
 title: Glutamatergic Pathways
 type: pathway
-updated: '2026-02-13T19:38:07.860555Z'
+updated: '2026-03-12T06:00:33.767560Z'
 ---
 
 {% raw %}
@@ -421,5 +421,9 @@ updated: '2026-02-13T19:38:07.860555Z'
 </ul>
 <h2>Summary</h2>
 <p>Glutamatergic pathways constitute the brain's primary excitatory system, with ~70-80% of neurons using glutamate for fast excitatory transmission, learning, memory, and cognition. NMDA receptors act as coincidence detectors essential for synaptic plasticity (LTP/LTD) and Hebbian learning. Excessive glutamate signaling causes excitotoxicity in stroke, traumatic brain injury, and contributes to neurodegeneration in Alzheimer's and ALS. NMDA receptor hypofunction on cortical interneurons is implicated in schizophrenia pathophysiology. Clinical interventions targeting glutamate include memantine (NMDA antagonist for Alzheimer's), riluzole (reduces glutamate release in ALS), perampanel (AMPA antagonist for epilepsy), and ketamine (rapid antidepressant via NMDA blockade). Evidence-based supplements that may support healthy glutamatergic function include magnesium (physiological NMDA antagonist, 3/5), omega-3 fatty acids (neuroprotection, 3/5), N-acetyl cysteine (glutamate homeostasis, 2/5), and general antioxidants (vitamin E, creatine - 2/5). Lifestyle interventions prioritizing stroke prevention (BP control, anticoagulation), head injury prevention, epilepsy management, mental stimulation (engages glutamatergic plasticity), adequate magnesium intake, and limiting alcohol (prevents withdrawal glutamate hyperexcitability) are foundational for maintaining balanced glutamatergic function and preventing excitotoxic damage.</p>
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 
 {% endraw %}

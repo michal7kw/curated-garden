@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:07.855826Z'
+created: '2026-03-12T06:00:33.764967Z'
 description: Gluconeogenesis is the metabolic pathway that synthesizes glucose from
   non-carbohydrate precursors, essential for maintaining blood glucose during fasting
   and providing glucose to glucose-dependent tissues.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/pathway/gluconeogenesis/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/pathway/gluconeogenesis/
 slug: gluconeogenesis
 tags:
 - pathway
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Gluconeogenesis
 type: pathway
-updated: '2026-02-13T19:38:07.855826Z'
+updated: '2026-03-12T06:00:33.764967Z'
 ---
 
 {% raw %}
@@ -70,7 +70,7 @@ updated: '2026-02-13T19:38:07.855826Z'
 </thead>
 <tbody>
 <tr>
-<td><strong><a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a></strong></td>
+<td><strong><a href="/garden/michal.k7w@gmail.com/supplement/berberine/" class="internal-link">Berberine</a></strong></td>
 <td>Inhibits</td>
 <td>AMPK activation</td>
 </tr>
@@ -86,43 +86,10 @@ updated: '2026-02-13T19:38:07.855826Z'
 </tr>
 </tbody>
 </table>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:56.150744'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Biotin</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.945657'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.945657'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>LOCATED_IN::<a class="internal-link is-unresolved" href="/404">Liver</a> - Primary site<br />
-LOCATED_IN::<a class="internal-link is-unresolved" href="/404">Kidney</a> - Secondary site<br />
-PRODUCES::<a href="/garden/dev_admin/labtest/glucose/" class="internal-link">Glucose</a> - End product<br />
-CONSUMES::<a class="internal-link is-unresolved" href="/404">Pyruvate</a> - Major precursor<br />
-CONSUMES::<a class="internal-link is-unresolved" href="/404">Lactate</a> - Via Cori cycle<br />
-CONSUMES::<a class="internal-link is-unresolved" href="/404">Oxaloacetate</a> - Key intermediate<br />
-CONSUMES::<a class="internal-link is-unresolved" href="/404">ATP</a> - Energy requirement<br />
-CONNECTED_TO::<a href="/garden/dev_admin/pathway/glycolysis/" class="internal-link">Glycolysis</a> - Reverse pathway<br />
-CONNECTED_TO::<a href="/garden/dev_admin/pathway/citric-acid-cycle/" class="internal-link">Citric Acid Cycle</a> - Via oxaloacetate<br />
-REGULATED_BY::<a class="internal-link is-unresolved" href="/404">Glucagon</a> - Stimulates<br />
-REGULATED_BY::<a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a> - Inhibits<br />
-INHIBITED_BY::<a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> - AMPK activator<br />
-REQUIRES_COFACTOR::<a class="internal-link is-unresolved" href="/404">Biotin</a> - For pyruvate carboxylase<br />
-RELATED_TO::<a href="/garden/dev_admin/protein/pgc-1alpha/" class="internal-link">PGC-1alpha</a> - Transcriptional coactivator</p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/berberine/" class="internal-link">Berberine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Biotin</a></p>
 <h2>References</h2>
 <ul>
 <li>Pilkis SJ, Granner DK. Molecular physiology of the regulation of hepatic gluconeogenesis and glycolysis. Annu Rev Physiol. 1992;54:885-909.</li>

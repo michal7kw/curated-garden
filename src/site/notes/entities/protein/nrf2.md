@@ -1,13 +1,13 @@
 ---
-created: '2026-02-13T19:38:08.817902Z'
+created: '2026-03-12T06:00:34.133640Z'
 description: Nuclear factor erythroid 2-related factor 2, the master regulator of
   antioxidant and cytoprotective gene expression. Normally sequestered in cytoplasm
   by Keap1, oxidative stress or electrophiles release NRF2 to activate the ARE (antioxidant
   response element) pathway.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/protein/nrf2/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/protein/nrf2/
 slug: nrf2
 tags:
 - protein
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: NRF2
 type: protein
-updated: '2026-02-13T19:38:08.817902Z'
+updated: '2026-03-12T06:00:34.133640Z'
 ---
 
 {% raw %}
@@ -156,11 +156,11 @@ updated: '2026-02-13T19:38:08.817902Z'
 </thead>
 <tbody>
 <tr>
-<td><strong><a href="/garden/dev_admin/supplement/sulforaphane/" class="internal-link">Sulforaphane</a></strong></td>
+<td><strong><a href="/garden/michal.k7w@gmail.com/supplement/sulforaphane/" class="internal-link">Sulforaphane</a></strong></td>
 <td>Broccoli sprouts (most studied)</td>
 </tr>
 <tr>
-<td><strong><a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a></strong></td>
+<td><strong><a href="/garden/michal.k7w@gmail.com/supplement/curcumin/" class="internal-link">Curcumin</a></strong></td>
 <td>Turmeric</td>
 </tr>
 <tr>
@@ -168,7 +168,7 @@ updated: '2026-02-13T19:38:08.817902Z'
 <td>Green tea</td>
 </tr>
 <tr>
-<td><strong><a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a></strong></td>
+<td><strong><a href="/garden/michal.k7w@gmail.com/supplement/resveratrol/" class="internal-link">Resveratrol</a></strong></td>
 <td>Grapes, wine</td>
 </tr>
 <tr>
@@ -229,151 +229,47 @@ updated: '2026-02-13T19:38:08.817902Z'
 </thead>
 <tbody>
 <tr>
-<td><strong><a href="/garden/dev_admin/supplement/sulforaphane/" class="internal-link">Sulforaphane</a></strong></td>
+<td><strong><a href="/garden/michal.k7w@gmail.com/supplement/sulforaphane/" class="internal-link">Sulforaphane</a></strong></td>
 <td>Strong activation</td>
 <td>Keap1 cysteine modification</td>
 </tr>
 <tr>
-<td><strong><a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a></strong></td>
+<td><strong><a href="/garden/michal.k7w@gmail.com/supplement/nac/" class="internal-link">NAC</a></strong></td>
 <td>Indirect support</td>
 <td>Glutathione precursor, NRF2 target</td>
 </tr>
 <tr>
-<td><strong><a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a></strong></td>
+<td><strong><a href="/garden/michal.k7w@gmail.com/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a></strong></td>
 <td>Activation</td>
 <td>Electrophilic modification</td>
 </tr>
 <tr>
-<td><strong><a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a></strong></td>
+<td><strong><a href="/garden/michal.k7w@gmail.com/supplement/curcumin/" class="internal-link">Curcumin</a></strong></td>
 <td>Moderate activation</td>
 <td>Michael acceptor</td>
 </tr>
 <tr>
-<td><strong><a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a></strong></td>
+<td><strong><a href="/garden/michal.k7w@gmail.com/supplement/resveratrol/" class="internal-link">Resveratrol</a></strong></td>
 <td>Moderate activation</td>
 <td>Multiple mechanisms</td>
 </tr>
 <tr>
-<td><strong><a href="/garden/dev_admin/labtest/glutathione/" class="internal-link">Glutathione</a></strong></td>
+<td><strong><a href="/garden/michal.k7w@gmail.com/labtest/glutathione/" class="internal-link">Glutathione</a></strong></td>
 <td>Downstream target</td>
 <td>NRF2-induced synthesis</td>
 </tr>
 </tbody>
 </table>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/sulforaphane/" class="internal-link">Sulforaphane</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:54.639321'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:53.933138'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:52.237873'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:49.757693'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:47.821091'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:49:02.167395'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:49:02.167395'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/glutathione/" class="internal-link">Glutathione</a> (metabolite)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:33.973056'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">EGCG</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.690636'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:19.549791'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.690636'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.690636'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/glutathione/" class="internal-link">Glutathione</a> (metabolite)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.690636'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/sulforaphane/" class="internal-link">Sulforaphane</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.690636'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.690636'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.690636'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>INHIBITED_BY::<a class="internal-link is-unresolved" href="/404">Keap1</a> - Cytoplasmic retention and degradation<br />
-RELEASED_BY::<a href="/garden/dev_admin/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a> - Keap1 modification<br />
-RELEASED_BY::<a href="/garden/dev_admin/supplement/sulforaphane/" class="internal-link">Sulforaphane</a> - Keap1 modification<br />
-RELEASED_BY::<a class="internal-link is-unresolved" href="/404">Fumarate</a> - Keap1 succination<br />
-ACTIVATES_TRANSCRIPTION::<a class="internal-link is-unresolved" href="/404">Glutathione Synthesis</a> - GCLC/GCLM genes<br />
-ACTIVATES_TRANSCRIPTION::<a class="internal-link is-unresolved" href="/404">HO-1</a> - Cytoprotective enzyme<br />
-ACTIVATES_TRANSCRIPTION::<a class="internal-link is-unresolved" href="/404">NQO1</a> - Detoxification enzyme<br />
-PROMOTES::<a class="internal-link is-unresolved" href="/404">Antioxidant Defense</a> - Master regulator<br />
-PROMOTES::<a class="internal-link is-unresolved" href="/404">Detoxification</a> - Phase II enzymes<br />
-RELATED_TO::<a class="internal-link is-unresolved" href="/404">NAD+</a> - Metabolic regulation<br />
-RELATED_TO::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> - Protects from oxidative damage<br />
-ENCODED_BY::<a class="internal-link is-unresolved" href="/404">NFE2L2</a> - Gene encoding NRF2<br />
-PARTNER_OF::<a class="internal-link is-unresolved" href="/404">Small Maf Proteins</a> - DNA binding partners</p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">EGCG</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/resveratrol/" class="internal-link">Resveratrol</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/curcumin/" class="internal-link">Curcumin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/nac/" class="internal-link">NAC</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/sulforaphane/" class="internal-link">Sulforaphane</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/glutathione/" class="internal-link">Glutathione</a></p>
 <h2>References</h2>
 <ul>
 <li>Dinkova-Kostova AT, Abramov AY. The emerging role of Nrf2 in mitochondrial function. Free Radic Biol Med. 2015;88(Pt B):179-188. PMID: 25975984</li>

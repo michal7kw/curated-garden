@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:06.091506Z'
+created: '2026-03-12T06:00:32.659210Z'
 description: Atypical antipsychotic known for its superior efficacy in treatment-resistant
   schizophrenia. It requires strict monitoring due to the risk of agranulocytosis.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/drug/clozapine/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/drug/clozapine/
 slug: clozapine
 tags:
 - drug
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Clozapine
 type: drug
-updated: '2026-02-13T19:38:06.091506Z'
+updated: '2026-03-12T06:00:32.659210Z'
 ---
 
 {% raw %}
@@ -31,289 +31,30 @@ updated: '2026-02-13T19:38:06.091506Z'
 <li><strong>Suicidal Behavior in Schizophrenia</strong>: FDA approved (only antipsychotic with this indication).</li>
 <li><strong>Psychosis in Parkinson's Disease</strong>: Off-label, often effective at low doses.</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:45.214867'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/neurotransmitter/serotonin/" class="internal-link">Serotonin</a> (neurotransmitter)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:35.475847'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/neurotransmitter/dopamine/" class="internal-link">Dopamine</a> (neurotransmitter)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:34.905107'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a> (neurotransmitter)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:34.799400'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.913292'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">25-Dimethoxy-4-ethylthioamphetamine</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.497560'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Octylphenoxy_polyethoxyethanol</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.497560'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Black_cohosh</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.497560'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Gentamicin_C1a</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.497560'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Farnesyl_thiopyrophosphate</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.497560'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Dopamine_D4_Receptor</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.497560'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Sodium_oxybate</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.497560'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Sodium_sulfate</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.497560'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Vinyl_ether</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.497560'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Parkinsons_Disease_Psychosis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.497560'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Suicidal_Ideation</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.497560'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.497560'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Histamine_H1_Receptor</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.497560'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Muscarinic_Acetylcholine_Receptor</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.497560'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">5-HT2A_Receptor</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.497560'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Choline_salicylate</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.497560'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">5-HT2A_Receptor</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.913292'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Schizophrenia</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.913292'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Muscarinic_Acetylcholine_Receptor</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.913292'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Agranulocytosis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.913292'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Suicidal_Ideation</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.913292'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Histamine_H1_Receptor</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.913292'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Dopamine_D4_Receptor</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.913292'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Myocarditis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.913292'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Parkinsons_Disease_Psychosis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.913292'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/neurotransmitter/dopamine/" class="internal-link">Dopamine</a> (neurotransmitter)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.913292'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a> (neurotransmitter)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.913292'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/neurotransmitter/serotonin/" class="internal-link">Serotonin</a> (neurotransmitter)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.913292'
-source: obsidian
-</code></pre>
-<h3>Interactswith</h3>
-<ul>
-<li>← <a class="internal-link is-unresolved" href="/404">Choline_salicylate</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.041000+00:00'
-source: PrimeKG
-</code></pre>
-<ul>
-<li>← <a class="internal-link is-unresolved" href="/404">Vinyl_ether</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.122000+00:00'
-source: PrimeKG
-</code></pre>
-<ul>
-<li>← <a class="internal-link is-unresolved" href="/404">Black_cohosh</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.150000+00:00'
-source: PrimeKG
-</code></pre>
-<ul>
-<li>← <a class="internal-link is-unresolved" href="/404">25-Dimethoxy-4-ethylthioamphetamine</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.155000+00:00'
-source: PrimeKG
-</code></pre>
-<ul>
-<li>← <a class="internal-link is-unresolved" href="/404">Sodium_sulfate</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.177000+00:00'
-source: PrimeKG
-</code></pre>
-<ul>
-<li>← <a class="internal-link is-unresolved" href="/404">Gentamicin_C1a</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.183000+00:00'
-source: PrimeKG
-</code></pre>
-<ul>
-<li>← <a class="internal-link is-unresolved" href="/404">Farnesyl_thiopyrophosphate</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.250000+00:00'
-source: PrimeKG
-</code></pre>
-<ul>
-<li>← <a class="internal-link is-unresolved" href="/404">Octylphenoxy_polyethoxyethanol</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.266000+00:00'
-source: PrimeKG
-</code></pre>
-<ul>
-<li>← <a class="internal-link is-unresolved" href="/404">Sodium_oxybate</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.288000+00:00'
-source: PrimeKG
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<h3>Modulates Neurotransmitter</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/neurotransmitter/dopamine/" class="internal-link">Dopamine</a> (neurotransmitter) - <em>Weak D2 antagonism</em></li>
-<li>→ <a href="/garden/dev_admin/neurotransmitter/serotonin/" class="internal-link">Serotonin</a> (neurotransmitter) - <em>Strong 5-HT2A antagonism</em></li>
-<li>→ <a href="/garden/dev_admin/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a> (neurotransmitter) - <em>Muscarinic antagonism</em></li>
-</ul>
-<h3>Modulates Protein</h3>
-<ul>
-<li>⊣ <a href="/garden/dev_admin/protein/dopamine-d4-receptor/" class="internal-link">Dopamine D4 Receptor</a> (protein) - <em>High affinity antagonist</em></li>
-<li>⊣ <a href="/garden/dev_admin/protein/5-ht2a-receptor/" class="internal-link">5-HT2A Receptor</a> (protein) - <em>High affinity antagonist</em></li>
-<li>⊣ <a href="/garden/dev_admin/protein/muscarinic-acetylcholine-receptor/" class="internal-link">Muscarinic Acetylcholine Receptor</a> (protein) - <em>Antagonist (M1, M4 agonist/antagonist mix)</em></li>
-<li>⊣ <a href="/garden/dev_admin/protein/histamine-h1-receptor/" class="internal-link">Histamine H1 Receptor</a> (protein) - <em>Antagonist (Sedation)</em></li>
-</ul>
-<h3>Treats Condition</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/schizophrenia/" class="internal-link">Schizophrenia</a> (condition)</li>
-<li>→ <a href="/garden/dev_admin/condition/suicidal-ideation/" class="internal-link">Suicidal Ideation</a> (condition)</li>
-<li>→ <a href="/garden/dev_admin/condition/parkinsons-disease-psychosis/" class="internal-link">Parkinson's Disease Psychosis</a> (condition)</li>
-</ul>
-<h3>Adverse Effects</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/agranulocytosis/" class="internal-link">Agranulocytosis</a> (condition) - <em>Severe risk</em></li>
-<li>→ <a href="/garden/dev_admin/condition/myocarditis/" class="internal-link">Myocarditis</a> (condition)</li>
-<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a> (condition)</li>
-</ul>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Gentamicin_C1a</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Muscarinic_Acetylcholine_Receptor</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Choline_salicylate</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Schizophrenia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Farnesyl_thiopyrophosphate</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Myocarditis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">25-Dimethoxy-4-ethylthioamphetamine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Octylphenoxy_polyethoxyethanol</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Sodium_sulfate</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">5-HT2A_Receptor</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Dopamine_D4_Receptor</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Vinyl_ether</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Histamine_H1_Receptor</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Black_cohosh</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Agranulocytosis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Suicidal_Ideation</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Sodium_oxybate</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Parkinsons_Disease_Psychosis</a></p>
 <h2>References</h2>
 <ol>
 <li><strong>Efficacy</strong>: Kane, J., et al. (1988). &quot;Clozapine for the treatment-resistant schizophrenic.&quot; <em>Archives of General Psychiatry</em>.</li>

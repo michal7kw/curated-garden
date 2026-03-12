@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.182233Z'
+created: '2026-03-12T06:00:32.220909Z'
 description: Impaired kidney function indicated by elevated creatinine, BUN, and reduced
   eGFR. Early detection enables intervention to slow progression.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/clinicalpattern/kidney-stress-pattern/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/clinicalpattern/kidney-stress-pattern/
 slug: kidney-stress-pattern
 tags:
 - clinicalpattern
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Kidney Stress Pattern
 type: clinicalpattern
-updated: '2026-02-13T19:38:05.182233Z'
+updated: '2026-03-12T06:00:32.220909Z'
 ---
 
 {% raw %}
@@ -75,19 +75,17 @@ Risk Multiplier: 2.0x for CKD progression and cardiovascular events</p>
 </tbody>
 </table>
 <h2>Relationships</h2>
-<ul>
-<li>REQUIRES_BIOMARKER::<a href="/garden/dev_admin/protein/egfr/" class="internal-link">eGFR</a></li>
-<li>REQUIRES_BIOMARKER::<a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">Creatinine</a></li>
-<li>REQUIRES_BIOMARKER::<a href="/garden/dev_admin/biomarker/bun/" class="internal-link">BUN</a></li>
-<li>INCREASES_RISK_FOR::<a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></li>
-<li>INCREASES_RISK_FOR::<a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></li>
-<li>INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Anemia</a></li>
-<li>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Kidneys</a></li>
-<li>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Heart</a></li>
-<li>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a></li>
-<li>IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Alpha-Lipoic Acid</a></li>
-<li>RELATED_PATTERN::<a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></li>
-</ul>
+<p>REQUIRES_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/protein/egfr/" class="internal-link">eGFR</a><br />
+REQUIRES_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+REQUIRES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">BUN</a><br />
+INCREASES_RISK_FOR::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a><br />
+INCREASES_RISK_FOR::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
+INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Anemia</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Kidneys</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Heart</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Alpha-Lipoic Acid</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
 <h2>References</h2>
 <ul>
 <li>KDIGO 2012 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease. Kidney Int Suppl. 2013</li>

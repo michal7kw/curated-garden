@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:06.341899Z'
+created: '2026-03-12T06:00:32.855434Z'
 description: Encodes the proto-oncogene tyrosine-protein kinase Src. The first retroviral
   oncogene discovered.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/gene/src/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/gene/src/
 slug: src
 tags:
 - gene
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: SRC
 type: gene
-updated: '2026-02-13T19:38:06.341899Z'
+updated: '2026-03-12T06:00:32.855434Z'
 ---
 
 {% raw %}
@@ -26,10 +26,7 @@ updated: '2026-02-13T19:38:06.341899Z'
 <p>The <strong>SRC</strong> gene encodes a non-receptor tyrosine kinase. It was the first <strong>proto-oncogene</strong> ever identified (as the cellular homolog of the v-src gene in Rous Sarcoma Virus).</p>
 <p>It plays a pivotal role in regulating cell growth, adhesion, and migration. Mutations or overexpression lead to malignant transformation.</p>
 <h2>Relationships</h2>
-<ul>
-<li>→ <a href="/garden/dev_admin/protein/src/" class="internal-link">SRC</a> (protein) - <em>Encodes</em></li>
-<li>→ <a href="/garden/dev_admin/condition/cancer/" class="internal-link">Cancer</a> (condition) - <em>Driver</em></li>
-</ul>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/cancer/" class="internal-link">Cancer</a></p>
 <h2>References</h2>
 <ol>
 <li><strong>History</strong>: Stehelin, D., et al. (1976). &quot;DNA related to the transforming gene(s) of avian sarcoma viruses is present in normal avian DNA.&quot; <em>Nature</em>.</li>

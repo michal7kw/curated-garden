@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:06.305433Z'
+created: '2026-03-12T06:00:32.822655Z'
 description: Encodes Apolipoprotein E, a major cholesterol carrier in the brain. The
   APOE4 allele is the strongest genetic risk factor for late-onset Alzheimer's disease.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/gene/apoe/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/gene/apoe/
 slug: apoe
 tags:
 - gene
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: APOE
 type: gene
-updated: '2026-02-13T19:38:06.305433Z'
+updated: '2026-03-12T06:00:32.822655Z'
 ---
 
 {% raw %}
@@ -49,22 +49,27 @@ updated: '2026-02-13T19:38:06.305433Z'
 <li><strong>Cardiovascular Disease:</strong> APOE4 is associated with higher LDL cholesterol and increased risk of atherosclerosis.</li>
 <li><strong>Cerebral Amyloid Angiopathy (CAA):</strong> Impaired clearance leads to amyloid deposition in blood vessel walls.</li>
 </ul>
-<h2>Relationships</h2>
-<p>ENCODES::<a class="internal-link is-unresolved" href="/404">ApoE Protein</a><br />
-REGULATES::<a class="internal-link is-unresolved" href="/404">Lipid Metabolism</a> - Brain and systemic<br />
-REGULATES::<a class="internal-link is-unresolved" href="/404">Amyloid Beta</a> - Clearance<br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> - Major risk factor (ε4)<br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> - Increased risk (ε4)<br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Hyperlipoproteinemia Type III</a> - Associated with ε2<br />
-INTERACTS_WITH::<a class="internal-link is-unresolved" href="/404">LDLR</a> - LDL Receptor<br />
-INTERACTS_WITH::<a class="internal-link is-unresolved" href="/404">LRP1</a> - LRP Receptor<br />
-AFFECTED_BY::<a class="internal-link is-unresolved" href="/404">Saturated Fat</a> - ε4 carriers often have exaggerated response<br />
-AFFECTED_BY::<a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> - May be less effective in ε4 carriers<br />
-RISK_FACTOR_FOR::<a class="internal-link is-unresolved" href="/404">Blood Brain Barrier</a> - Disruption (ε4)</p>
+<h2>Pharmacogenomic Significance</h2>
+<p>APOE genotype influences therapeutic decisions across multiple domains:</p>
+<ul>
+<li><strong>Statin response</strong>: ε4 carriers may have greater LDL-lowering response but also greater cardiovascular risk baseline</li>
+<li><strong>Alzheimer's therapies</strong>: lecanemab (Leqembi) and aducanumab — ε4 carriers have higher risk of ARIA (amyloid-related imaging abnormalities), requiring genetic testing before anti-amyloid immunotherapy</li>
+<li><strong>Hormone replacement therapy</strong>: ε4 carriers may have increased Alzheimer's risk with HRT (controversial)</li>
+<li><strong>Dietary response</strong>: ε4 carriers show exaggerated response to dietary saturated fat → lipid levels</li>
+</ul>
+<h2>Longevity Context</h2>
+<ul>
+<li><strong>APOE ε2</strong>: associated with exceptional longevity in centenarian studies (2-3x enrichment vs general population)</li>
+<li><strong>APOE ε4</strong>: reduced in centenarians, associated with accelerated biological aging</li>
+<li>APOE interacts with other longevity pathways: FOXO3 (stress resistance), mTOR (growth signaling), and inflammaging (APOE4 promotes neuroinflammation)</li>
+</ul>
 <h2>References</h2>
 <ul>
-<li>Corder EH, et al. Gene dose of apolipoprotein E type 4 allele and the risk of Alzheimer's disease in late onset families. Science. 1993;261(5123):921-3.</li>
-<li>Liu CC, et al. Apolipoprotein E and Alzheimer disease: risk, mechanisms and therapy. Nat Rev Neurol. 2013;9(2):106-118.</li>
+<li>Corder EH, et al. Gene dose of apolipoprotein E type 4 allele and the risk of Alzheimer's disease in late onset families. Science. 1993;261(5123):921-3. PMID: 8346443</li>
+<li>Liu CC, et al. Apolipoprotein E and Alzheimer disease: risk, mechanisms and therapy. Nat Rev Neurol. 2013;9(2):106-118. PMID: 23296339</li>
+<li>Belloy ME, et al. A quarter century of APOE and Alzheimer's disease: progress to date and the path forward. Neuron. 2019;101(5):820-838. PMID: 30851293</li>
+<li>Sebastiani P, et al. APOE alleles and extreme human longevity. J Gerontol A Biol Sci Med Sci. 2019;74(1):44-51. PMID: 29718109</li>
 </ul>
+<h2>Relationships</h2>
 
 {% endraw %}

@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.719350Z'
+created: '2026-03-12T06:00:32.467072Z'
 description: A natural biological process marking the end of a woman's reproductive
   years, defined as 12 consecutive months without a menstrual period.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/menopause/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/menopause/
 slug: menopause
 tags:
 - condition
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Menopause
 type: condition
-updated: '2026-02-13T19:38:05.719350Z'
+updated: '2026-03-12T06:00:32.467072Z'
 ---
 
 {% raw %}
@@ -38,12 +38,6 @@ SORT confidence_score DESC
 </code></pre>
 <h2>Other Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/menopause/" class="internal-link">Menopause</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:21.253884'
-source: obsidian
-</code></pre>
 <h2>Research</h2>
 <h3>Recent Studies</h3>
 <pre><code class="language-dataview">LIST
@@ -56,16 +50,8 @@ SORT date DESC
 FROM [[Menopause]] AND #clinical-trial
 SORT date DESC
 </code></pre>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/menopause/" class="internal-link">Menopause</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.472099'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
+<p>No relationships found.</p>
 <h2>References</h2>
 <p>No references available.</p>
 

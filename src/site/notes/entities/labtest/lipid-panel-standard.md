@@ -1,18 +1,18 @@
 ---
-created: '2026-02-13T19:38:06.810869Z'
+created: '2026-03-12T06:00:33.251261Z'
 description: Measures total cholesterol, LDL, HDL, and triglycerides. Essential for
   cardiovascular risk assessment.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/lipid-panel-standard/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/lipid-panel-standard/
 slug: lipid-panel-standard
 tags:
 - labtest
 templateEngineOverride: njk
 title: lipid_panel_standard
 type: labtest
-updated: '2026-02-13T19:38:06.810869Z'
+updated: '2026-03-12T06:00:33.251261Z'
 ---
 
 {% raw %}
@@ -67,11 +67,11 @@ updated: '2026-02-13T19:38:06.810869Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/dev_admin/labtest/total-cholesterol/" class="internal-link">total_cholesterol</a></li>
-<li><a href="/garden/dev_admin/biomarker/ldl/" class="internal-link">ldl</a></li>
-<li><a href="/garden/dev_admin/biomarker/hdl/" class="internal-link">hdl</a></li>
-<li><a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">triglycerides</a></li>
-<li><a href="/garden/dev_admin/biomarker/vldl/" class="internal-link">vldl</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/total-cholesterol/" class="internal-link">total_cholesterol</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/biomarker/ldl/" class="internal-link">ldl</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/biomarker/hdl/" class="internal-link">hdl</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/triglycerides/" class="internal-link">triglycerides</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/biomarker/vldl/" class="internal-link">vldl</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -80,102 +80,17 @@ updated: '2026-02-13T19:38:06.810869Z'
 <p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">triglycerides</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:28.183752'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/total-cholesterol/" class="internal-link">total_cholesterol</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.745148'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/total-cholesterol/" class="internal-link">Total_Cholesterol</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:19.242090'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/hdl/" class="internal-link">Hdl</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:19.242090'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">Triglycerides</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:19.242090'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/ldl/" class="internal-link">Ldl</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:19.242090'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">Triglycerides</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:24.411186'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/total-cholesterol/" class="internal-link">Total_Cholesterol</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:23.644632'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/biomarker/ldl/" class="internal-link">Ldl</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.114995'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/biomarker/hdl/" class="internal-link">Hdl</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:18.760722'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/vldl/" class="internal-link">vldl</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.248166'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/hdl/" class="internal-link">hdl</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.248166'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/ldl/" class="internal-link">ldl</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.248166'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/total-cholesterol/" class="internal-link">total_cholesterol</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.248166'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">triglycerides</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.248166'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/vldl/" class="internal-link">vldl</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/triglycerides/" class="internal-link">Triglycerides</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/triglycerides/" class="internal-link">triglycerides</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/hdl/" class="internal-link">hdl</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/ldl/" class="internal-link">Ldl</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/ldl/" class="internal-link">ldl</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/total-cholesterol/" class="internal-link">Total_Cholesterol</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/hdl/" class="internal-link">Hdl</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/total-cholesterol/" class="internal-link">total_cholesterol</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

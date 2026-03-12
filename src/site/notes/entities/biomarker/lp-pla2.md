@@ -1,20 +1,20 @@
 ---
-created: '2026-02-13T19:38:04.897698Z'
+created: '2026-03-12T06:00:31.976115Z'
 description: Lipoprotein-associated phospholipase A2 is a vascular-specific inflammatory
   enzyme produced by macrophages within atherosclerotic plaques. Elevated levels indicate
   active vascular inflammation and unstable plaque, independently predicting coronary
   events and ischemic stroke.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/lp-pla2/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/lp-pla2/
 slug: lp-pla2
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Lp-PLA2
 type: biomarker
-updated: '2026-02-13T19:38:04.897698Z'
+updated: '2026-03-12T06:00:31.976115Z'
 ---
 
 {% raw %}
@@ -64,9 +64,9 @@ updated: '2026-02-13T19:38:04.897698Z'
 </ul>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
-<li><a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> - Decreases Lp-PLA2 activity (moderate effect, evidence level 3)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> - Decreases Lp-PLA2 activity (moderate effect, evidence level 3)</li>
 <li><a class="internal-link is-unresolved" href="/404">Niacin</a> - Decreases Lp-PLA2 in dyslipidemia (mild effect, evidence level 3)</li>
-<li><a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a> - May decrease via anti-inflammatory mechanisms (mild effect, evidence level 4)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/curcumin/" class="internal-link">Curcumin</a> - May decrease via anti-inflammatory mechanisms (mild effect, evidence level 4)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
@@ -75,18 +75,14 @@ updated: '2026-02-13T19:38:04.897698Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Correlations</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/oxidized-ldl/" class="internal-link">Oxidized LDL</a> (biomarker) - Lp-PLA2 acts directly on oxidized LDL phospholipids</li>
-<li>→ <a href="/garden/dev_admin/biomarker/ldl-p/" class="internal-link">Ldl P</a> (biomarker) - Lp-PLA2 is carried on LDL particles</li>
-<li>→ <a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a> (biomarker) - Complementary markers of inflammation (vascular vs systemic)</li>
-<li>→ <a href="/garden/dev_admin/labtest/apolipoprotein-b/" class="internal-link">Apolipoprotein B</a> (biomarker) - Both predict cardiovascular events</li>
-</ul>
+<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/apolipoprotein-b/" class="internal-link">Apolipoprotein_B</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/oxidized-ldl/" class="internal-link">Oxidized_LDL</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs_Crp</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/ldl-p/" class="internal-link">Ldl_P</a></p>
 <h3>Related Conditions</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> (condition)</li>
-<li>→ <a href="/garden/dev_admin/condition/atherosclerosis/" class="internal-link">Atherosclerosis</a> (condition)</li>
-<li>→ <a href="/garden/dev_admin/condition/stroke/" class="internal-link">Stroke</a> (condition)</li>
-</ul>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Stroke</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Atherosclerosis</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:21360686 - Corson (2011) Lp-PLA2 as a biologic marker of vascular inflammation</li>

@@ -1,19 +1,19 @@
 ---
-created: '2026-02-13T19:38:06.944454Z'
+created: '2026-03-12T06:00:33.366353Z'
 description: Activated Partial Thromboplastin Time (aPTT) test. Evaluates the intrinsic
   and common coagulation pathways (Factors XII, XI, IX, VIII, X, V, II, I). Used for
   monitoring unfractionated heparin therapy and screening for coagulation disorders.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/partial-thromboplastin-time-ptt/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/partial-thromboplastin-time-ptt/
 slug: partial-thromboplastin-time-ptt
 tags:
 - labtest
 templateEngineOverride: njk
 title: partial_thromboplastin_time_ptt
 type: labtest
-updated: '2026-02-13T19:38:06.944454Z'
+updated: '2026-03-12T06:00:33.366353Z'
 ---
 
 {% raw %}
@@ -107,13 +107,9 @@ updated: '2026-02-13T19:38:06.944454Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Measures</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/partial-thromboplastin-time/" class="internal-link">Partial Thromboplastin Time</a> (biomarker)</li>
-</ul>
+<p>MEASURES::<a class="internal-link is-unresolved" href="/404">Partial_Thromboplastin_Time</a></p>
 <h3>Included In</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/coagulation-panel/" class="internal-link">coagulation panel</a> (labtestpanel)</li>
-</ul>
+<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">coagulation_panel</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

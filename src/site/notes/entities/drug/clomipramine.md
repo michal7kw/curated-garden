@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:06.084685Z'
+created: '2026-03-12T06:00:32.656734Z'
 description: Tricyclic antidepressant (TCA) with potent serotonin reuptake inhibition.
   The gold standard medication for Obsessive-Compulsive Disorder (OCD).
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/drug/clomipramine/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/drug/clomipramine/
 slug: clomipramine
 tags:
 - drug
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Clomipramine
 type: drug
-updated: '2026-02-13T19:38:06.084685Z'
+updated: '2026-03-12T06:00:32.656734Z'
 ---
 
 {% raw %}
@@ -32,226 +32,26 @@ updated: '2026-02-13T19:38:06.084685Z'
 <li><strong>Cataplexy</strong>: Associated with narcolepsy (off-label).</li>
 <li><strong>Premature Ejaculation</strong>: Off-label.</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/drug/carbamazepine/" class="internal-link">Carbamazepine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:56.519455'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/neurotransmitter/serotonin/" class="internal-link">Serotonin</a> (neurotransmitter)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:35.475847'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a> (neurotransmitter)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:35.279530'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.875774'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/drug/carbamazepine/" class="internal-link">Carbamazepine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.184501'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Iobenguane_sulfate_I-123</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.184501'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Benzyl_alcohol</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.184501'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Magnesium_salicylate</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.184501'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Clocortolone_acetate</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.184501'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">5-methoxy-NN-dimethyltryptamine</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.184501'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Oxazepam_acetate</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.184501'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Polymyxin_B</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.184501'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Interferon_alfa-2b</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.184501'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Testosterone_propionate</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.184501'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Polyestradiol_phosphate</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:57.184501'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Cataplexy</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.791132'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">OCD</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.791132'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">NET</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.791132'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">SERT</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.791132'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.791132'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/neurotransmitter/serotonin/" class="internal-link">Serotonin</a> (neurotransmitter)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.791132'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a> (neurotransmitter)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.791132'
-source: obsidian
-</code></pre>
-<h3>Interactswith</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/drug/carbamazepine/" class="internal-link">Carbamazepine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.888000+00:00'
-source: PrimeKG
-</code></pre>
-<ul>
-<li>← <a class="internal-link is-unresolved" href="/404">Oxazepam_acetate</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.685000+00:00'
-source: PrimeKG
-</code></pre>
-<ul>
-<li>← <a class="internal-link is-unresolved" href="/404">Polyestradiol_phosphate</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.695000+00:00'
-source: PrimeKG
-</code></pre>
-<ul>
-<li>← <a class="internal-link is-unresolved" href="/404">Interferon_alfa-2b</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.745000+00:00'
-source: PrimeKG
-</code></pre>
-<ul>
-<li>← <a class="internal-link is-unresolved" href="/404">Magnesium_salicylate</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.768000+00:00'
-source: PrimeKG
-</code></pre>
-<ul>
-<li>← <a class="internal-link is-unresolved" href="/404">5-methoxy-NN-dimethyltryptamine</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.804000+00:00'
-source: PrimeKG
-</code></pre>
-<ul>
-<li>← <a class="internal-link is-unresolved" href="/404">Testosterone_propionate</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.896000+00:00'
-source: PrimeKG
-</code></pre>
-<ul>
-<li>← <a class="internal-link is-unresolved" href="/404">Clocortolone_acetate</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.901000+00:00'
-source: PrimeKG
-</code></pre>
-<ul>
-<li>← <a class="internal-link is-unresolved" href="/404">Benzyl_alcohol</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.920000+00:00'
-source: PrimeKG
-</code></pre>
-<ul>
-<li>← <a class="internal-link is-unresolved" href="/404">Polymyxin_B</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.926000+00:00'
-source: PrimeKG
-</code></pre>
-<ul>
-<li>← <a class="internal-link is-unresolved" href="/404">Iobenguane_sulfate_I-123</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">imported: '2025-12-26T11:56:36.942000+00:00'
-source: PrimeKG
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<h3>Modulates Neurotransmitter</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/neurotransmitter/serotonin/" class="internal-link">Serotonin</a> (neurotransmitter) - <em>Potent Reuptake Inhibition</em></li>
-<li>→ <a href="/garden/dev_admin/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a> (neurotransmitter) - <em>Reuptake Inhibition (via metabolite)</em></li>
-</ul>
-<h3>Modulates Protein</h3>
-<ul>
-<li>⊣ <a href="/garden/dev_admin/protein/sert/" class="internal-link">SERT</a> (protein) - <em>Primary target</em></li>
-<li>⊣ <a href="/garden/dev_admin/protein/net/" class="internal-link">NET</a> (protein) - <em>Secondary target</em></li>
-</ul>
-<h3>Treats Condition</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/ocd/" class="internal-link">OCD</a> (condition)</li>
-<li>→ <a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a> (condition)</li>
-<li>→ <a href="/garden/dev_admin/condition/cataplexy/" class="internal-link">Cataplexy</a> (condition)</li>
-</ul>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Clocortolone_acetate</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">5-methoxy-NN-dimethyltryptamine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Iobenguane_sulfate_I-123</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">SERT</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Interferon_alfa-2b</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">OCD</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Benzyl_alcohol</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Oxazepam_acetate</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Testosterone_propionate</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Polymyxin_B</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Cataplexy</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">NET</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Polyestradiol_phosphate</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/depression/" class="internal-link">Depression</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Magnesium_salicylate</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/drug/carbamazepine/" class="internal-link">Carbamazepine</a></p>
 <h2>References</h2>
 <ol>
 <li><strong>OCD</strong>: Katzman, M. A., et al. (2014). &quot;Canadian clinical practice guidelines for the management of anxiety, posttraumatic stress and obsessive-compulsive disorders.&quot; <em>BMC Psychiatry</em>.</li>

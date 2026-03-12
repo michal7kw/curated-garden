@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:04.761217Z'
+created: '2026-03-12T06:00:31.894104Z'
 description: Continuous, passive monitoring of cognition, motor function, and behavior
   using smartphones, wearables, and digital sensors. Enable early detection and real-world
   tracking of neurodegenerative disease progression.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/digital-biomarkers-for-neurodegeneration/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/digital-biomarkers-for-neurodegeneration/
 slug: digital-biomarkers-for-neurodegeneration
 tags:
 - biomarker
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Digital Biomarkers for Neurodegeneration
 type: biomarker
-updated: '2026-02-13T19:38:04.761217Z'
+updated: '2026-03-12T06:00:31.894104Z'
 ---
 
 {% raw %}
@@ -268,149 +268,18 @@ updated: '2026-02-13T19:38:04.761217Z'
 <li><strong>Digital divide</strong> (older adults, tech access)</li>
 <li><strong>Clinical integration</strong> (interpretation, EHR)</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/digital-biomarkers-for-neurodegeneration/" class="internal-link">Digital_Biomarkers_for_Neurodegeneration</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:16.352580'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/amyotrophic-lateral-sclerosis/" class="internal-link">Amyotrophic_Lateral_Sclerosis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:16.352580'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Parkinsons_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:16.352580'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/digital-biomarkers-for-neurodegeneration/" class="internal-link">Digital_Biomarkers_for_Neurodegeneration</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:04.855999'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/basal-ganglia/" class="internal-link">Basal_Ganglia</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:16.352580'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:16.352580'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/blood-nfl/" class="internal-link">Blood_NfL</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:16.352580'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/prefrontal-cortex/" class="internal-link">Prefrontal_Cortex</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:16.352580'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Huntingtons_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:16.352580'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Multiple_Sclerosis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:16.352580'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/examination/neuropsychological-testing/" class="internal-link">Neuropsychological_Testing</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:16.352580'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Multiple_Sclerosis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.464163'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.464163'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinsons_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.464163'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/examination/neuropsychological-testing/" class="internal-link">Neuropsychological_Testing</a> (examination)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.464163'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/huntingtons-disease/" class="internal-link">Huntingtons_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.464163'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/amyotrophic-lateral-sclerosis/" class="internal-link">Amyotrophic_Lateral_Sclerosis</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.464163'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/prefrontal-cortex/" class="internal-link">Prefrontal_Cortex</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.464163'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/basal-ganglia/" class="internal-link">Basal_Ganglia</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.464163'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/blood-nfl/" class="internal-link">Blood_NfL</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.464163'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<h3>Conditions</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a> (condition) - <em>Most advanced applications</em></li>
-<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Emerging applications</em></li>
-<li>→ <a href="/garden/dev_admin/condition/multiple-sclerosis/" class="internal-link">Multiple Sclerosis</a> (condition) - <em>Walking, function monitoring</em></li>
-<li>→ <a href="/garden/dev_admin/condition/amyotrophic-lateral-sclerosis/" class="internal-link">Amyotrophic Lateral Sclerosis</a> (condition) - <em>Speech, typing tracking</em></li>
-<li>→ <a href="/garden/dev_admin/condition/huntingtons-disease/" class="internal-link">Huntington's Disease</a> (condition) - <em>Chorea, gait monitoring</em></li>
-</ul>
-<h3>Related Biomarkers</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/blood-nfl/" class="internal-link">Blood NfL</a> (biomarker) - <em>Complementary objective measure</em></li>
-<li>→ <a href="/garden/dev_admin/examination/neuropsychological-testing/" class="internal-link">Neuropsychological Testing</a> (examination) - <em>Traditional comparison</em></li>
-</ul>
-<h3>Brain Regions (Correlations)</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/basal-ganglia/" class="internal-link">Basal Ganglia</a> (organ) - <em>Motor digital markers</em></li>
-<li>→ <a href="/garden/dev_admin/organ/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a> (organ) - <em>Executive function markers</em></li>
-</ul>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Huntingtons_Disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Basal_Ganglia</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/amyotrophic-lateral-sclerosis/" class="internal-link">Amyotrophic_Lateral_Sclerosis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/digital-biomarkers-for-neurodegeneration/" class="internal-link">Digital_Biomarkers_for_Neurodegeneration</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Multiple_Sclerosis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Prefrontal_Cortex</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Parkinsons_Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/examination/neuropsychological-testing/" class="internal-link">Neuropsychological_Testing</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/blood-nfl/" class="internal-link">Blood_NfL</a></p>
 <h2>Integration with Clinical Care</h2>
 <h3>Current Best Practices</h3>
 <ol>

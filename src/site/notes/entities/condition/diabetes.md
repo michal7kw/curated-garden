@@ -1,13 +1,13 @@
 ---
-created: '2026-02-13T19:38:05.523564Z'
+created: '2026-03-12T06:00:32.349996Z'
 description: Diabetes mellitus is a group of metabolic diseases characterized by high
   blood sugar levels over a prolonged period. This high blood sugar can cause symptoms
   such as frequent urination, increased thirst, and increased hunger. If left untreated,
   diabetes can cause many complications.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/diabetes/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/diabetes/
 slug: diabetes
 tags:
 - condition
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Diabetes
 type: condition
-updated: '2026-02-13T19:38:05.523564Z'
+updated: '2026-03-12T06:00:32.349996Z'
 ---
 
 {% raw %}
@@ -38,162 +38,20 @@ SORT confidence_score DESC
 </code></pre>
 <h2>Other Relationships</h2>
 <h3>Complicates</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:07.546536'
-source: obsidian
-</code></pre>
+<p>COMPLICATES::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
 <h3>Worsened By Condition</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:07.100000'
-source: obsidian
-</code></pre>
 <h3>Worsened By Intervention</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/intervention/keto-diet/" class="internal-link">Keto_Diet</a> (intervention)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:07.449897'
-source: obsidian
-</code></pre>
+<p>AFFECTED_BY_INTERVENTION::<a href="/garden/michal.k7w@gmail.com/intervention/keto-diet/" class="internal-link">Keto_Diet</a></p>
 <h3>May Improve Condition</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/intervention/keto-diet/" class="internal-link">Keto_Diet</a> (intervention)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:10.311911'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:19.201468'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:22.547804'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">Vitamin_D</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.103508'
-source: obsidian
-</code></pre>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:03.553962'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/glucose/" class="internal-link">Glucose</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:17.188234'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/glucose/" class="internal-link">Glucose</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:03.553962'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:03.553962'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/intervention/keto-diet/" class="internal-link">Keto_Diet</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:03.553962'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">Vitamin_D</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:03.553962'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/glucose-urine/" class="internal-link">glucose_urine</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:03.553962'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:50.148655'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:57.049485'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:03.553962'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:03.553962'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-27T18:02:21.238365'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/glucose-urine/" class="internal-link">glucose_urine</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:22.895264'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/intervention/keto-diet/" class="internal-link">Keto_Diet</a> (intervention)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:10.258074'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:58.948673'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:07.990267'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">Vitamin_D</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:31.497920'
-source: obsidian
-</code></pre>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/berberine/" class="internal-link">Berberine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/glucose/" class="internal-link">Glucose</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/keto-diet/" class="internal-link">Keto_Diet</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-d/" class="internal-link">Vitamin_D</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/glucose-urine/" class="internal-link">glucose_urine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/magnesium/" class="internal-link">Magnesium</a></p>
 <h3>May Detect</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/glucose-urine/" class="internal-link">glucose_urine</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
 <h2>Research</h2>
 <h3>Recent Studies</h3>
 <pre><code class="language-dataview">LIST
@@ -206,166 +64,11 @@ SORT date DESC
 FROM [[Diabetes]] AND #clinical-trial
 SORT date DESC
 </code></pre>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">Vitamin_D</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.090852'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.090852'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/intervention/keto-diet/" class="internal-link">Keto_Diet</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.090852'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/glucose-urine/" class="internal-link">glucose_urine</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.338942'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.282261'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/glucose-urine/" class="internal-link">glucose_urine</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.090852'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/glucose/" class="internal-link">Glucose</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.090852'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/glucose/" class="internal-link">Glucose</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.943509'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.090852'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">Vitamin_D</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:42.448102'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:38.494293'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.916356'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/intervention/keto-diet/" class="internal-link">Keto_Diet</a> (intervention)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:48.239770'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-27T18:02:21.238365'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.090852'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.090852'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:25.519524'
-source: obsidian
-</code></pre>
-<h3>May Detect</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/glucose-urine/" class="internal-link">glucose_urine</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<h3>May Improve Condition</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">Vitamin_D</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:28.103508'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:22.547804'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:19.201468'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/intervention/keto-diet/" class="internal-link">Keto_Diet</a> (intervention)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:10.311911'
-source: obsidian
-</code></pre>
+<h3>Affected By Intervention</h3>
 <h3>Worsened By Intervention</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/intervention/keto-diet/" class="internal-link">Keto_Diet</a> (intervention)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:07.449897'
-source: obsidian
-</code></pre>
-<h3>Worsened By Condition</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:07.100000'
-source: obsidian
-</code></pre>
 <h3>Complicates</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:07.546536'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
 <h2>References</h2>
 <p>No references available.</p>
 

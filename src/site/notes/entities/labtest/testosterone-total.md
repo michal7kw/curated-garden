@@ -1,18 +1,18 @@
 ---
-created: '2026-02-13T19:38:07.029600Z'
+created: '2026-03-12T06:00:33.440910Z'
 description: Measures total testosterone levels. Important for assessing hypogonadism,
   PCOS, and hormonal balance.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/testosterone-total/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/testosterone-total/
 slug: testosterone-total
 tags:
 - labtest
 templateEngineOverride: njk
 title: testosterone_total
 type: labtest
-updated: '2026-02-13T19:38:07.029600Z'
+updated: '2026-03-12T06:00:33.440910Z'
 ---
 
 {% raw %}
@@ -59,7 +59,7 @@ updated: '2026-02-13T19:38:07.029600Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/dev_admin/labtest/testosterone-total/" class="internal-link">testosterone_total</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/testosterone-total/" class="internal-link">testosterone_total</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -68,16 +68,6 @@ updated: '2026-02-13T19:38:07.029600Z'
 <p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
-<h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/testosterone-total/" class="internal-link">testosterone_total</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.082032'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
 <p>No relationships found.</p>
 <h2>Notes</h2>

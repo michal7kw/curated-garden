@@ -1,19 +1,19 @@
 ---
-created: '2026-02-13T19:38:05.100037Z'
+created: '2026-03-12T06:00:32.174960Z'
 description: Uric acid is the final oxidation product of purine metabolism in humans,
   serving as both an antioxidant at physiological levels and a pathological mediator
   when elevated, contributing to gout, kidney stones, and cardiovascular disease.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/uric-acid/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/uric-acid/
 slug: uric-acid
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Uric Acid
 type: biomarker
-updated: '2026-02-13T19:38:05.100037Z'
+updated: '2026-03-12T06:00:32.174960Z'
 ---
 
 {% raw %}
@@ -63,24 +63,20 @@ updated: '2026-02-13T19:38:05.100037Z'
 </ul>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
-<li><a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin C</a> - Decreases uric acid by promoting uricosuric renal excretion (moderate, evidence level 2)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/vitamin-c/" class="internal-link">Vitamin C</a> - Decreases uric acid by promoting uricosuric renal excretion (moderate, evidence level 2)</li>
 <li><a class="internal-link is-unresolved" href="/404">Cherry Extract</a> - Decreases uric acid through xanthine oxidase inhibition and anti-inflammatory effects (mild, evidence level 3)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li><a href="/garden/dev_admin/labtest/uric-acid/" class="internal-link">uric acid</a> - Serum uric acid enzymatic colorimetric assay</li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/uric-acid/" class="internal-link">uric acid</a> - Serum uric acid enzymatic colorimetric assay</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Activates</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">Creatinine</a> (biomarker)</li>
-</ul>
 <h3>Correlations</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">Creatinine</a> (biomarker) - Both elevated in renal impairment; uric acid clearance depends on kidney function</li>
-<li>→ <a href="/garden/dev_admin/biomarker/estimated-gfr/" class="internal-link">Estimated GFR</a> (biomarker) - Declining GFR leads to reduced uric acid excretion and hyperuricemia</li>
-</ul>
+<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+CORRELATED_WITH::<a class="internal-link is-unresolved" href="/404">Estimated_GFR</a></p>
+<h3>Activates</h3>
+<p>ACTIVATES::<a href="/garden/michal.k7w@gmail.com/labtest/creatinine/" class="internal-link">Creatinine</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:21671418 - Juraschek SP et al. Effect of oral vitamin C supplementation on serum uric acid: a meta-analysis of randomized controlled trials. Arthritis Care Res. 2011.</li>

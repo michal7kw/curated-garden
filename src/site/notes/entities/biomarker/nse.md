@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:04.953562Z'
+created: '2026-03-12T06:00:32.000589Z'
 description: Neuron-Specific Enolase, a glycolytic enzyme found in neurons and neuroendocrine
   cells. Used as a biomarker for neuronal injury and as a tumor marker for small cell
   lung cancer and neuroblastoma.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/nse/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/nse/
 slug: nse
 tags:
 - biomarker
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: NSE
 type: biomarker
-updated: '2026-02-13T19:38:04.953562Z'
+updated: '2026-03-12T06:00:32.000589Z'
 ---
 
 {% raw %}
@@ -98,189 +98,22 @@ updated: '2026-02-13T19:38:04.953562Z'
 <li>Single measurement insufficient; trend more informative</li>
 <li>Combine with other prognostic tools (EEG, imaging, clinical exam)</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Traumatic_Brain_Injury</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.693422'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/uch-l1/" class="internal-link">UCH-L1</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.693422'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">MRI_Brain</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.693422'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Small_Cell_Lung_Cancer</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.693422'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Cardiac_Arrest</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.693422'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.693422'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Hypoxic_Brain_Injury</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.693422'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Somatosensory_Evoked_Potentials</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:21.693422'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:20.980878'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/biomarker/gfap/" class="internal-link">GFAP</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.899103'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">MRI_Brain</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Small_Cell_Lung_Cancer</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Hypoxic_Brain_Injury</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Lactate</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Cardiac_Arrest</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Somatosensory_Evoked_Potentials</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Neuroblastoma</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Stroke</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Traumatic_Brain_Injury</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/examination/eeg/" class="internal-link">EEG</a> (examination)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/s100b/" class="internal-link">S100B</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/examination/eeg/" class="internal-link">EEG</a> (examination)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:44.540742'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/biomarker/uch-l1/" class="internal-link">UCH-L1</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:18.184073'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/biomarker/s100b/" class="internal-link">S100B</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:16.720220'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/gfap/" class="internal-link">GFAP</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.500703'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<h3>Conditions with Elevated NSE</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/hypoxic-brain-injury/" class="internal-link">Hypoxic Brain Injury</a> (condition) - <em>Prognostic marker</em></li>
-<li>→ <a href="/garden/dev_admin/condition/cardiac-arrest/" class="internal-link">Cardiac Arrest</a> (condition) - <em>Outcome prediction</em></li>
-<li>→ <a href="/garden/dev_admin/condition/traumatic-brain-injury/" class="internal-link">Traumatic Brain Injury</a> (condition) - <em>Injury marker</em></li>
-<li>→ <a href="/garden/dev_admin/condition/small-cell-lung-cancer/" class="internal-link">Small Cell Lung Cancer</a> (condition) - <em>Tumor marker</em></li>
-<li>→ <a href="/garden/dev_admin/condition/neuroblastoma/" class="internal-link">Neuroblastoma</a> (condition) - <em>Tumor marker</em></li>
-<li>→ <a href="/garden/dev_admin/condition/stroke/" class="internal-link">Stroke</a> (condition) - <em>Injury marker</em></li>
-</ul>
-<h3>Related Biomarkers</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/s100b/" class="internal-link">S100B</a> (biomarker) - <em>Astrocyte injury</em></li>
-<li>→ <a href="/garden/dev_admin/biomarker/gfap/" class="internal-link">GFAP</a> (biomarker) - <em>Astrocyte injury</em></li>
-<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a> (biomarker) - <em>Axonal injury</em></li>
-<li>→ <a href="/garden/dev_admin/biomarker/lactate/" class="internal-link">Lactate</a> (biomarker) - <em>Hypoxia marker</em></li>
-</ul>
-<h3>Diagnostic Context</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/examination/eeg/" class="internal-link">EEG</a> (examination) - <em>Combined prognostication</em></li>
-<li>← <a href="/garden/dev_admin/examination/mri-brain/" class="internal-link">MRI Brain</a> (examination) - <em>Imaging correlation</em></li>
-<li>← <a href="/garden/dev_admin/examination/somatosensory-evoked-potentials/" class="internal-link">Somatosensory Evoked Potentials</a> (examination) - <em>Multimodal assessment</em></li>
-</ul>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Cardiac_Arrest</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/examination/eeg/" class="internal-link">EEG</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/s100b/" class="internal-link">S100B</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Lactate</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Small_Cell_Lung_Cancer</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Traumatic_Brain_Injury</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/gfap/" class="internal-link">GFAP</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Somatosensory_Evoked_Potentials</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Neuroblastoma</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Stroke</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hypoxic_Brain_Injury</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">MRI_Brain</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/uch-l1/" class="internal-link">UCH-L1</a></p>
 <h2>Prognostication After Cardiac Arrest</h2>
 <h3>European Guidelines (ERC/ESICM 2021)</h3>
 <ul>

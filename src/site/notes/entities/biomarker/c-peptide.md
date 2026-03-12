@@ -1,19 +1,19 @@
 ---
-created: '2026-02-13T19:38:04.709527Z'
+created: '2026-03-12T06:00:31.850280Z'
 description: C-Peptide is a 31-amino acid polypeptide cleaved from proinsulin during
   insulin biosynthesis, serving as a direct measure of endogenous insulin production
   by pancreatic beta cells.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/c-peptide/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/c-peptide/
 slug: c-peptide
 tags:
 - biomarker
 templateEngineOverride: njk
 title: C-Peptide
 type: biomarker
-updated: '2026-02-13T19:38:04.709527Z'
+updated: '2026-03-12T06:00:31.850280Z'
 ---
 
 {% raw %}
@@ -63,27 +63,23 @@ updated: '2026-02-13T19:38:04.709527Z'
 </ul>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
-<li><a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> - May improve insulin secretion and beta cell function in Type 2 diabetes (mild increase, evidence level 3)</li>
-<li><a href="/garden/dev_admin/supplement/chromium/" class="internal-link">Chromium</a> - May improve insulin sensitivity and secondarily support insulin secretion (mild increase, evidence level 3)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/berberine/" class="internal-link">Berberine</a> - May improve insulin secretion and beta cell function in Type 2 diabetes (mild increase, evidence level 3)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/chromium/" class="internal-link">Chromium</a> - May improve insulin sensitivity and secondarily support insulin secretion (mild increase, evidence level 3)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li><a href="/garden/dev_admin/biomarker/c-peptide/" class="internal-link">c-peptide</a> - Fasting C-Peptide immunoassay (chemiluminescence or ELISA)</li>
+<li><a href="/garden/michal.k7w@gmail.com/biomarker/c-peptide/" class="internal-link">c-peptide</a> - Fasting C-Peptide immunoassay (chemiluminescence or ELISA)</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Activates</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a> (biomarker)</li>
-<li>→ <a href="/garden/dev_admin/biomarker/insulin-fasting/" class="internal-link">Insulin Fasting</a> (biomarker)</li>
-</ul>
 <h3>Correlations</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a> (biomarker) - C-Peptide and insulin are co-secreted; C-Peptide reflects endogenous production without hepatic extraction interference</li>
-<li>→ <a href="/garden/dev_admin/biomarker/insulin-fasting/" class="internal-link">Insulin Fasting</a> (biomarker) - Fasting C-Peptide correlates with fasting insulin in the absence of exogenous insulin therapy</li>
-<li>→ <a href="/garden/dev_admin/labtest/hba1c/" class="internal-link">HbA1c</a> (biomarker) - Declining C-Peptide over time corresponds with worsening glycemic control</li>
-<li>→ <a href="/garden/dev_admin/biomarker/glucose-fasting/" class="internal-link">Glucose Fasting</a> (biomarker) - Low C-Peptide with high fasting glucose indicates absolute insulin deficiency</li>
-</ul>
+<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/hba1c/" class="internal-link">HbA1c</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/insulin/" class="internal-link">Insulin</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/glucose-fasting/" class="internal-link">Glucose_Fasting</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/insulin-fasting/" class="internal-link">Insulin_Fasting</a></p>
+<h3>Activates</h3>
+<p>ACTIVATES::<a href="/garden/michal.k7w@gmail.com/labtest/insulin/" class="internal-link">Insulin</a><br />
+ACTIVATES::<a href="/garden/michal.k7w@gmail.com/biomarker/insulin-fasting/" class="internal-link">Insulin_Fasting</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:18442638 - Yin J et al. Efficacy of berberine in patients with type 2 diabetes mellitus. Metabolism. 2008.</li>

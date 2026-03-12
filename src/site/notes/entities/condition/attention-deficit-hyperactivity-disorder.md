@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.379149Z'
+created: '2026-03-12T06:00:32.257777Z'
 description: A neurodevelopmental disorder characterized by persistent patterns of
   inattention, hyperactivity, and impulsivity that interfere with functioning or development.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/attention-deficit-hyperactivity-disorder/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/attention-deficit-hyperactivity-disorder/
 slug: attention-deficit-hyperactivity-disorder
 tags:
 - condition
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Attention Deficit Hyperactivity Disorder
 type: condition
-updated: '2026-02-13T19:38:05.379149Z'
+updated: '2026-03-12T06:00:32.257777Z'
 ---
 
 {% raw %}
@@ -29,31 +29,8 @@ updated: '2026-02-13T19:38:05.379149Z'
 <li><strong>Predominantly Hyperactive-Impulsive:</strong> Fidgets, talks a lot, has difficulty sitting still, interrupts others.</li>
 <li><strong>Combined Presentation:</strong> Symptoms of both.</li>
 </ol>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/attention-deficit-hyperactivity-disorder/" class="internal-link">Attention_Deficit_Hyperactivity_Disorder</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:31.424915'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/attention-deficit-hyperactivity-disorder/" class="internal-link">Attention_Deficit_Hyperactivity_Disorder</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:24.640322'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Anxiety Disorders</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Learning Disabilities</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a><br />
-CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Dopamine Imbalance</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Methylphenidate</a><br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Amphetamine</a><br />
-IMPROVED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Cognitive Behavioral Therapy</a></p>
+<p>No relationships found.</p>
 <h2>References</h2>
 <ul>
 <li>American Psychiatric Association. DSM-5.</li>

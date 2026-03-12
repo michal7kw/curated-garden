@@ -1,18 +1,18 @@
 ---
-created: '2026-02-13T19:38:04.784184Z'
+created: '2026-03-12T06:00:31.905541Z'
 description: Receptor tyrosine kinase that regulates cell growth, survival, and differentiation.
   A major target for cancer therapies (TKIs).
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/egfr/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/egfr/
 slug: egfr
 tags:
 - biomarker
 templateEngineOverride: njk
 title: EGFR
 type: biomarker
-updated: '2026-02-13T19:38:04.784184Z'
+updated: '2026-03-12T06:00:31.905541Z'
 ---
 
 {% raw %}
@@ -28,173 +28,35 @@ updated: '2026-02-13T19:38:04.784184Z'
 <li><strong>Fasting Required</strong>: False</li>
 <li><strong>Recommended Test Frequency</strong>: Not specified</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
+<h3>Participates In Pathway</h3>
+<p>PARTICIPATES_IN_PATHWAY::<a class="internal-link is-unresolved" href="/404">EGFR_Signaling_Pathway</a><br />
+PARTICIPATES_IN_PATHWAY::<a class="internal-link is-unresolved" href="/404">MAPK_Signaling_Pathway</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Lung_Cancer</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Colorectal_Cancer</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/glioblastoma/" class="internal-link">Glioblastoma</a></p>
+<h3>Targeted By</h3>
+<p>TARGETED_BY::<a class="internal-link is-unresolved" href="/404">Cetuximab</a><br />
+TARGETED_BY::<a class="internal-link is-unresolved" href="/404">Gefitinib</a><br />
+TARGETED_BY::<a class="internal-link is-unresolved" href="/404">Erlotinib</a></p>
 <h3>Related</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/protein/akt1/" class="internal-link">AKT1</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:58.404292'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/glioblastoma/" class="internal-link">Glioblastoma</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:39.447169'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/protein/egfr/" class="internal-link">Egfr</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.969487'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Colorectal_Cancer</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.003644'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/egfr-status/" class="internal-link">EGFR_Status</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.003644'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/protein/src/" class="internal-link">SRC</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.003644'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Lung_Cancer</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.003644'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">MAPK_Signaling_Pathway</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.003644'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">EGFR_Signaling_Pathway</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.003644'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Gefitinib</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Cetuximab</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">EGF</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">KRAS</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">TGF-alpha</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">EGFR_Signaling_Pathway</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">MAPK_Signaling_Pathway</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Colorectal_Cancer</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Erlotinib</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Lung_Cancer</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/protein/src/" class="internal-link">SRC</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:33.887168'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/glioblastoma/" class="internal-link">Glioblastoma</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/protein/akt1/" class="internal-link">AKT1</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/biomarker/egfr-status/" class="internal-link">EGFR_Status</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:11.766148'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/protein/ubc/" class="internal-link">UBC</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:34.416393'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/protein/ubc/" class="internal-link">UBC</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:17.003644'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/protein/egfr/" class="internal-link">EGFR</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:46.410223'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<h3>Influences</h3>
-<p>No known influences documented.</p>
-<h3>Correlations</h3>
-<p>No correlations documented.</p>
-<h3>Other Relationships</h3>
-<h3>Related</h3>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Erlotinib</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/egfr-status/" class="internal-link">EGFR_Status</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">KRAS</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/gene/akt1/" class="internal-link">AKT1</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Colorectal_Cancer</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">TGF-alpha</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Lung_Cancer</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/gene/src/" class="internal-link">SRC</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Cetuximab</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Gefitinib</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">EGFR_Signaling_Pathway</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">MAPK_Signaling_Pathway</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/glioblastoma/" class="internal-link">Glioblastoma</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/gene/ubc/" class="internal-link">UBC</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">EGF</a></p>
+<h3>Related Conditions</h3>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <p>No supplement effects documented yet. Add effects in the respective supplement notes.</p>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>

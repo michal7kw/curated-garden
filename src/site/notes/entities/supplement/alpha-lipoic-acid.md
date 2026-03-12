@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:08.991843Z'
+created: '2026-03-12T06:00:34.239414Z'
 description: Powerful antioxidant that works in both water and fat environments. Regenerates
   other antioxidants, supports blood sugar metabolism, and protects against neuropathy.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/supplement/alpha-lipoic-acid/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/supplement/alpha-lipoic-acid/
 slug: alpha-lipoic-acid
 tags:
 - supplement
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Alpha Lipoic Acid
 type: supplement
-updated: '2026-02-13T19:38:08.991843Z'
+updated: '2026-03-12T06:00:34.239414Z'
 ---
 
 {% raw %}
@@ -156,436 +156,45 @@ updated: '2026-02-13T19:38:08.991843Z'
 <li><strong>SYDNEY Trial</strong>: Ametov, A.S., et al. (2003). &quot;The sensory symptoms of diabetic polyneuropathy are improved with alpha-lipoic acid.&quot; <em>Diabetes Care</em>.</li>
 <li><strong>Review</strong>: Shay, K.P., et al. (2009). &quot;Alpha-lipoic acid as a dietary supplement.&quot; <em>Molecular and Cellular Biochemistry</em>.</li>
 </ol>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/protein/ampk/" class="internal-link">AMPK</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:47.821091'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/citric-acid-cycle/" class="internal-link">Citric_Acid_Cycle</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:47.821091'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/protein/nrf2/" class="internal-link">NRF2</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:47.821091'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:47.821091'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative_Phosphorylation</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:47.821091'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/protein/pgc-1alpha/" class="internal-link">PGC-1alpha</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:47.821091'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/protein/tfam/" class="internal-link">TFAM</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:47.821091'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin_C</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.057147'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.057147'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">CoQ10</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.057147'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/vitamin-e/" class="internal-link">Vitamin_E</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.057147'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">NAD</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.057147'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/protein/tfam/" class="internal-link">TFAM</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:34.241083'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/protein/pgc-1alpha/" class="internal-link">PGC-1alpha</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.809686'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/protein/nrf2/" class="internal-link">NRF2</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.690636'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/protein/ampk/" class="internal-link">AMPK</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.642108'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative_Phosphorylation</a> (pathway)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.714420'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/pathway/citric-acid-cycle/" class="internal-link">Citric_Acid_Cycle</a> (pathway)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.663413'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:19.549791'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.057147'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/glutathione/" class="internal-link">Glutathione</a> (metabolite)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.057147'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.057147'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/liver/" class="internal-link">Liver</a> (organ)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.057147'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/nerves/" class="internal-link">Nerves</a> (organ)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.057147'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a> (organ)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.057147'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-27T18:04:14.087567'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:35.057147'
-source: obsidian
-</code></pre>
-<h3>Regenerates</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/vitamin-e/" class="internal-link">Vitamin_E</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:17.952562'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin_C</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:17.914747'
-source: obsidian
-</code></pre>
 <h3>Affects Organ</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a> (organ)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:17.855650'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/nerves/" class="internal-link">Nerves</a> (organ)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:17.886795'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/liver/" class="internal-link">Liver</a> (organ)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:17.814211'
-source: obsidian
-</code></pre>
-<h3>Synergistic With</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:23.421811'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:19.118328'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.155231'
-source: obsidian
-</code></pre>
+<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Nerves</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Liver</a></p>
+<h3>Related</h3>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/glutathione/" class="internal-link">Glutathione</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/protein/nrf2/" class="internal-link">NRF2</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/citric-acid-cycle/" class="internal-link">Citric_Acid_Cycle</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/berberine/" class="internal-link">Berberine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/protein/pgc-1alpha/" class="internal-link">PGC-1alpha</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-e/" class="internal-link">Vitamin_E</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">NAD</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Nerves</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative_Phosphorylation</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-c/" class="internal-link">Vitamin_C</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/protein/tfam/" class="internal-link">TFAM</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/protein/ampk/" class="internal-link">AMPK</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">CoQ10</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/nac/" class="internal-link">NAC</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/insulin/" class="internal-link">Insulin</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Liver</a></p>
 <h3>May Improve Condition</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.321732'
-source: obsidian
-</code></pre>
+<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a></p>
 <h3>Modulates Hormone</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.234425'
-source: obsidian
-</code></pre>
-<h3>Increases Metabolite</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/metabolite/nad/" class="internal-link">NAD</a> (metabolite)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.108674'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/glutathione/" class="internal-link">Glutathione</a> (metabolite)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.021530'
-source: obsidian
-</code></pre>
+<p>MODULATES_HORMONE::<a href="/garden/michal.k7w@gmail.com/labtest/insulin/" class="internal-link">Insulin</a></p>
+<h3>Synergistic With</h3>
+<p>SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/nac/" class="internal-link">NAC</a></p>
 <h3>Affects Biomarker</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/hba1c/" class="internal-link">Hba1C</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">effect_direction: decreases
-magnitude: mild
-evidence_level: 3
-source: curated
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">effect_direction: decreases
-magnitude: mild
-evidence_level: 3
-source: curated
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<h3>Affects Organ</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/liver/" class="internal-link">Liver</a> (organ)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:17.814211'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/nerves/" class="internal-link">Nerves</a> (organ)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:17.886795'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a> (organ)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:17.855650'
-source: obsidian
-</code></pre>
+<p>AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs_Crp</a><br />
+AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/hba1c/" class="internal-link">Hba1C</a></p>
 <h3>Increases Metabolite</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/glutathione/" class="internal-link">Glutathione</a> (metabolite)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.021530'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/metabolite/nad/" class="internal-link">NAD</a> (metabolite)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.108674'
-source: obsidian
-</code></pre>
-<h3>Synergistic With</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.155231'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:19.118328'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/coq10/" class="internal-link">CoQ10</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:19.653592'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:23.421811'
-source: obsidian
-</code></pre>
-<h3>Modulates Hormone</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.234425'
-source: obsidian
-</code></pre>
-<h3>May Improve Condition</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:18.321732'
-source: obsidian
-</code></pre>
+<p>INCREASES_METABOLITE::<a href="/garden/michal.k7w@gmail.com/labtest/glutathione/" class="internal-link">Glutathione</a><br />
+INCREASES_METABOLITE::<a class="internal-link is-unresolved" href="/404">NAD</a></p>
 <h3>Regenerates</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin_C</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:17.914747'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/vitamin-e/" class="internal-link">Vitamin_E</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:17.952562'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/coq10/" class="internal-link">CoQ10</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:17.978016'
-source: obsidian
-</code></pre>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:56.743917'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">NAD</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:56.743917'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:56.743917'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin_C</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:56.743917'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/vitamin-e/" class="internal-link">Vitamin_E</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:56.743917'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:56.743917'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/coq10/" class="internal-link">CoQ10</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:56.743917'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-27T18:04:14.087567'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a> (organ)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:56.743917'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/nerves/" class="internal-link">Nerves</a> (organ)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:56.743917'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/liver/" class="internal-link">Liver</a> (organ)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:56.743917'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:56.743917'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/glutathione/" class="internal-link">Glutathione</a> (metabolite)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:56.743917'
-source: obsidian
-</code></pre>
+<p>REGENERATES::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-c/" class="internal-link">Vitamin_C</a><br />
+REGENERATES::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-e/" class="internal-link">Vitamin_E</a></p>
 
 {% endraw %}

@@ -1,20 +1,20 @@
 ---
-created: '2026-02-13T19:38:07.034889Z'
+created: '2026-03-12T06:00:33.446917Z'
 description: Thyroglobulin antibodies are proteins made by the immune system that
   mistakenly target thyroglobulin, a protein the thyroid uses to make hormones. Their
   presence can signal autoimmune activity affecting the thyroid, which may interfere
   with hormone production and metabolism.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/thyroglobulin-antibodies-tgab/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/thyroglobulin-antibodies-tgab/
 slug: thyroglobulin-antibodies-tgab
 tags:
 - labtest
 templateEngineOverride: njk
 title: thyroglobulin_antibodies_tgab
 type: labtest
-updated: '2026-02-13T19:38:07.034889Z'
+updated: '2026-03-12T06:00:33.446917Z'
 ---
 
 {% raw %}
@@ -62,107 +62,25 @@ updated: '2026-02-13T19:38:07.034889Z'
 <li><a class="internal-link is-unresolved" href="/404">Hashimoto’S Thyroiditis</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Autoimmune Hypothyroidism</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Other Autoimmune Diseases (E.G., Type 1 Diabetes, Rheumatoid Arthritis)</a></li>
-<li><a href="/garden/dev_admin/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical Hypothyroidism</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical Hypothyroidism</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Papillary Thyroid Cancer</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:26.387865'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Papillary_Thyroid_Cancer</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:26.387865'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/hashimotos-thyroiditis/" class="internal-link">HashimotoS_Thyroiditis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:26.387865'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Autoimmune_Hypothyroidism</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:26.387865'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Other_Autoimmune_Diseases_EG_Type_1_Diabetes_Rheumatoid_Arthritis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:26.387865'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Papillary_Thyroid_Cancer</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.175550'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Autoimmune_Hypothyroidism</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.175550'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Other_Autoimmune_Diseases_EG_Type_1_Diabetes_Rheumatoid_Arthritis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.175550'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/hashimotos-thyroiditis/" class="internal-link">HashimotoS_Thyroiditis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.175550'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.175550'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.644052'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:26.387865'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:37.892532'
-source: obsidian
-</code></pre>
-<h3>May Detect</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/hashimotos-thyroiditis/" class="internal-link">HashimotoS_Thyroiditis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">extended_thyroid_health</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Papillary_Thyroid_Cancer</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Other_Autoimmune_Diseases_EG_Type_1_Diabetes_Rheumatoid_Arthritis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Autoimmune_Hypothyroidism</a></p>
+<h3>Conditions</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a></p>
 <h3>Included In</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a> (labtestpanel)</li>
-</ul>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">extended_thyroid_health</a></p>
+<h3>May Detect</h3>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

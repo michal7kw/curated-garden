@@ -1,10 +1,10 @@
 ---
-created: '2026-02-13T19:38:08.701314Z'
+created: '2026-03-12T06:00:34.075345Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/protein/atp-binding/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/protein/atp-binding/
 slug: atp-binding
 tags:
 - protein
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: ATP binding
 type: protein
-updated: '2026-02-13T19:38:08.701314Z'
+updated: '2026-03-12T06:00:34.075345Z'
 ---
 
 {% raw %}
@@ -38,86 +38,13 @@ updated: '2026-02-13T19:38:08.701314Z'
 <li><strong>Tissue Expression:</strong> N/A</li>
 </ul>
 <h2>Sequence &amp; Structure</h2>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
+<h3>Related To Function</h3>
+<p>RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">adenyl_ribonucleotide_binding</a><br />
+RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">purine_ribonucleoside_triphosphate_binding</a></p>
 <h3>Related</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">purine_ribonucleoside_triphosphate_binding</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.082826'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">adenyl_ribonucleotide_binding</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.082826'
-source: obsidian
-</code></pre>
-<h3>Relatedtofunction</h3>
-<ul>
-<li>← <a class="internal-link is-unresolved" href="/404">adenyl_ribonucleotide_binding</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">imported: '2025-12-26T09:40:13.962000+00:00'
-source: PrimeKG
-</code></pre>
-<ul>
-<li>← <a class="internal-link is-unresolved" href="/404">purine_ribonucleoside_triphosphate_binding</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">imported: '2025-12-26T09:40:13.968000+00:00'
-source: PrimeKG
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">purine_ribonucleoside_triphosphate_binding</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">imported: '2025-12-26T09:40:13.974000+00:00'
-source: PrimeKG
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">adenyl_ribonucleotide_binding</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">imported: '2025-12-26T09:40:13.979000+00:00'
-source: PrimeKG
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<h3>Relatedtofunction</h3>
-<ul>
-<li>← <a class="internal-link is-unresolved" href="/404">adenyl_ribonucleotide_binding</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">imported: '2025-12-26T09:40:13.962000+00:00'
-source: PrimeKG
-</code></pre>
-<ul>
-<li>← <a class="internal-link is-unresolved" href="/404">purine_ribonucleoside_triphosphate_binding</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">imported: '2025-12-26T09:40:13.968000+00:00'
-source: PrimeKG
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">purine_ribonucleoside_triphosphate_binding</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">imported: '2025-12-26T09:40:13.974000+00:00'
-source: PrimeKG
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">adenyl_ribonucleotide_binding</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">imported: '2025-12-26T09:40:13.979000+00:00'
-source: PrimeKG
-</code></pre>
-<h3>Related</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">adenyl_ribonucleotide_binding</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:44.799071'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">purine_ribonucleoside_triphosphate_binding</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:44.799071'
-source: obsidian
-</code></pre>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">purine_ribonucleoside_triphosphate_binding</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">adenyl_ribonucleotide_binding</a></p>
 <h2>Source Data</h2>
 <ul>
 <li><strong>Source System:</strong> PrimeKG - <strong>Last Modified in Source:</strong> 2026-01-19T09:06:44.728839+00:00</li>

@@ -1,16 +1,16 @@
 ---
-created: '2026-02-13T19:38:07.969437Z'
+created: '2026-03-12T06:00:33.859208Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/pathway/noradrenergic-locus-coeruleus-pathways/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/pathway/noradrenergic-locus-coeruleus-pathways/
 slug: noradrenergic-locus-coeruleus-pathways
 tags:
 - pathway
 templateEngineOverride: njk
 title: Noradrenergic Locus Coeruleus Pathways
 type: pathway
-updated: '2026-02-13T19:38:07.969437Z'
+updated: '2026-03-12T06:00:33.859208Z'
 ---
 
 {% raw %}
@@ -422,5 +422,9 @@ updated: '2026-02-13T19:38:07.969437Z'
 </ul>
 <h2>Summary</h2>
 <p>The noradrenergic locus coeruleus pathways originate from the tiny locus coeruleus in the brainstem and project throughout the brain and spinal cord, regulating arousal, attention, stress responses, and memory consolidation. LC firing follows an inverted-U curve: too little norepinephrine causes inattention and drowsiness (ADHD, narcolepsy), optimal levels support peak alertness and cognition, and too much causes anxiety and distractibility (PTSD, panic disorder, chronic stress). Treatments include stimulants and atomoxetine for ADHD, prazosin for PTSD nightmares, and SNRIs for depression. Evidence-based supplements that may support healthy LC function include L-tyrosine (stress resilience, 3/5), Rhodiola rosea (fatigue and stress reduction, 4/5), ashwagandha (stress and cortisol reduction, 4/5), and phosphatidylserine (cortisol modulation, 3/5). Lifestyle interventions prioritizing regular sleep-wake schedules, stress management (meditation, mindfulness), moderate exercise, early treatment of PTSD/anxiety, and avoiding stimulant abuse are foundational for maintaining balanced locus coeruleus-noradrenergic function and optimal arousal regulation.</p>
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 
 {% endraw %}

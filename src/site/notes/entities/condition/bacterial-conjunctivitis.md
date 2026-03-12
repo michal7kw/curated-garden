@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.392407Z'
+created: '2026-03-12T06:00:32.272065Z'
 description: A highly contagious infection of the conjunctiva caused by bacteria,
   characterized by purulent discharge and redness.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/bacterial-conjunctivitis/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/bacterial-conjunctivitis/
 slug: bacterial-conjunctivitis
 tags:
 - condition
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Bacterial Conjunctivitis
 type: condition
-updated: '2026-02-13T19:38:05.392407Z'
+updated: '2026-03-12T06:00:32.272065Z'
 ---
 
 {% raw %}
@@ -30,29 +30,9 @@ updated: '2026-02-13T19:38:05.392407Z'
 <li><strong>Pseudomonas aeruginosa:</strong> Associated with contact lenses.</li>
 <li><strong>Neisseria gonorrhoeae / Chlamydia trachomatis:</strong> Severe, hyperacute forms.</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/bacterial-conjunctivitis/" class="internal-link">Bacterial_Conjunctivitis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:32.000097'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/bacterial-conjunctivitis/" class="internal-link">Bacterial_Conjunctivitis</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:25.606221'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Staphylococcus aureus</a><br />
-CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Streptococcus pneumoniae</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Eye</a><br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Tobramycin</a> - Eye drops.<br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Erythromycin</a> - Ointment.<br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Ofloxacin</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/bacterial-conjunctivitis/" class="internal-link">Bacterial_Conjunctivitis</a></p>
 <h2>References</h2>
 <ul>
 <li>Azari, A. A., &amp; Barney, N. P. (2013). Conjunctivitis: a systematic review of diagnosis and treatment. JAMA.</li>

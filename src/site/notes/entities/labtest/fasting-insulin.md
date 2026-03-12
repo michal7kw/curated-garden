@@ -1,18 +1,18 @@
 ---
-created: '2026-02-13T19:38:06.640160Z'
+created: '2026-03-12T06:00:33.103255Z'
 description: Measures insulin levels after fasting. Key marker for insulin resistance
   and metabolic health.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/fasting-insulin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/fasting-insulin/
 slug: fasting-insulin
 tags:
 - labtest
 templateEngineOverride: njk
 title: fasting_insulin
 type: labtest
-updated: '2026-02-13T19:38:06.640160Z'
+updated: '2026-03-12T06:00:33.103255Z'
 ---
 
 {% raw %}
@@ -61,7 +61,7 @@ updated: '2026-02-13T19:38:06.640160Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/dev_admin/biomarker/insulin-fasting/" class="internal-link">insulin_fasting</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/biomarker/insulin-fasting/" class="internal-link">insulin_fasting</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -70,30 +70,10 @@ updated: '2026-02-13T19:38:06.640160Z'
 <p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.710967'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:19.652699'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/insulin-fasting/" class="internal-link">insulin_fasting</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.764973'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/insulin/" class="internal-link">Insulin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/insulin-fasting/" class="internal-link">insulin_fasting</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

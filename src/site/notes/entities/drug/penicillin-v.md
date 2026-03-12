@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:06.188563Z'
+created: '2026-03-12T06:00:32.727048Z'
 description: An oral natural penicillin used for mild to moderate bacterial infections,
   such as strep throat and skin infections.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/drug/penicillin-v/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/drug/penicillin-v/
 slug: penicillin-v
 tags:
 - drug
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Penicillin V
 type: drug
-updated: '2026-02-13T19:38:06.188563Z'
+updated: '2026-03-12T06:00:32.727048Z'
 ---
 
 {% raw %}
@@ -29,16 +29,8 @@ updated: '2026-02-13T19:38:06.188563Z'
 <li><strong>Prophylaxis of Rheumatic Fever.</strong></li>
 <li><strong>Dental Infections.</strong></li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <p>No relationships found.</p>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>TREATS_CONDITION::<a class="internal-link is-unresolved" href="/404">Tonsillitis</a><br />
-TREATS_CONDITION::<a href="/garden/dev_admin/condition/scarlet-fever/" class="internal-link">Scarlet Fever</a><br />
-PREVENTS_CONDITION::<a class="internal-link is-unresolved" href="/404">Rheumatic Fever</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/bacterial-infections/" class="internal-link">Bacterial Infections</a><br />
-INHIBITS_PROTEIN::<a class="internal-link is-unresolved" href="/404">Penicillin-Binding Proteins</a></p>
 <h2>References</h2>
 <ul>
 <li>Mandell, G. L., et al. Principles and Practice of Infectious Diseases.</li>

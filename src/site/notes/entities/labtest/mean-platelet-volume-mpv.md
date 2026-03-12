@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:38:06.854831Z'
+created: '2026-03-12T06:00:33.286558Z'
 description: Tested twice a year Mean platelet volume (MPV) measures the average size
   of platelets, the cells that help blood clot and stop bleeding. High MPV means the
   body is making larger, younger platelets, often in response to blood loss, inflammation,
@@ -9,15 +9,15 @@ description: Tested twice a year Mean platelet volume (MPV) measures the average
   like easy bruising or unusual bleeding..
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/mean-platelet-volume-mpv/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/mean-platelet-volume-mpv/
 slug: mean-platelet-volume-mpv
 tags:
 - labtest
 templateEngineOverride: njk
 title: mean_platelet_volume_mpv
 type: labtest
-updated: '2026-02-13T19:38:06.854831Z'
+updated: '2026-03-12T06:00:33.286558Z'
 ---
 
 {% raw %}
@@ -63,106 +63,25 @@ updated: '2026-02-13T19:38:06.854831Z'
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
 <li><a class="internal-link is-unresolved" href="/404">Immune Thrombocytopenia (Low Platelets)</a></li>
-<li><a href="/garden/dev_admin/condition/bone-marrow-disorder/" class="internal-link">Bone Marrow Disorder</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/bone-marrow-disorder/" class="internal-link">Bone Marrow Disorder</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Inflammatory Disorder</a></li>
-<li><a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Recent Blood Loss</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Immune_Thrombocytopenia_Low_Platelets</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:20.951512'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:20.951512'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Recent_Blood_Loss</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:20.951512'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:20.951512'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Inflammatory_Disorder</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:20.951512'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Immune_Thrombocytopenia_Low_Platelets</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.181105'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Recent_Blood_Loss</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.181105'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Inflammatory_Disorder</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.181105'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.181105'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.181105'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.806764'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.346890'
-source: obsidian
-</code></pre>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Inflammatory_Disorder</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Immune_Thrombocytopenia_Low_Platelets</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Recent_Blood_Loss</a></p>
 <h3>May Detect</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a></p>
+<h3>Conditions</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

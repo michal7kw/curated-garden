@@ -1,16 +1,16 @@
 ---
-created: '2026-02-13T19:38:07.838121Z'
+created: '2026-03-12T06:00:33.743066Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/pathway/gabaergic-pathways/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/pathway/gabaergic-pathways/
 slug: gabaergic-pathways
 tags:
 - pathway
 templateEngineOverride: njk
 title: GABAergic Pathways
 type: pathway
-updated: '2026-02-13T19:38:07.838121Z'
+updated: '2026-03-12T06:00:33.743066Z'
 ---
 
 {% raw %}
@@ -433,5 +433,9 @@ updated: '2026-02-13T19:38:07.838121Z'
 </ul>
 <h2>Summary</h2>
 <p>GABAergic pathways constitute the brain's primary inhibitory system, with GABAergic neurons distributed throughout all brain regions providing local inhibition essential for preventing seizures, reducing anxiety, promoting sleep, and fine-tuning all cognitive functions through signal-to-noise enhancement and oscillatory rhythms. GABA_A receptors are the target of many widely-used medications including benzodiazepines (anxiety, seizures, alcohol withdrawal), barbiturates (seizures, anesthesia), Z-drugs (insomnia), and alcohol. Dysfunction of GABAergic circuits contributes to epilepsy (insufficient inhibition), anxiety disorders (reduced GABA or receptor function), insomnia (impaired sleep-promoting GABA neurons), and schizophrenia (PV interneuron deficits impairing cognition). Evidence-based supplements that may support GABAergic function include L-theanine (anxiolytic without sedation, 3/5), magnesium (GABA_A modulation, calming, 3/5), valerian root (sleep improvement, 3/5), and taurine (mild GABA_A agonism, 2/5). <strong>Oral GABA supplements are NOT recommended</strong> as GABA does not cross the blood-brain barrier. Lifestyle interventions prioritizing stress management (chronic stress depletes GABA), regular exercise (boosts GABA), adequate sleep, mindfulness meditation (increases GABA), limiting alcohol, and avoiding benzodiazepine dependence are foundational for maintaining healthy GABAergic function and balanced brain excitability.</p>
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 
 {% endraw %}

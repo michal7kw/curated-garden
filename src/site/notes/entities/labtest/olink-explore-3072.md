@@ -1,18 +1,18 @@
 ---
-created: '2026-02-13T19:38:06.900708Z'
+created: '2026-03-12T06:00:33.330206Z'
 description: Olink's high-throughput proteomics panel measuring 3000+ proteins with
   high specificity.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/olink-explore-3072/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/olink-explore-3072/
 slug: olink-explore-3072
 tags:
 - labtest
 templateEngineOverride: njk
 title: olink_explore_3072
 type: labtest
-updated: '2026-02-13T19:38:06.900708Z'
+updated: '2026-03-12T06:00:33.330206Z'
 ---
 
 {% raw %}
@@ -58,10 +58,6 @@ updated: '2026-02-13T19:38:06.900708Z'
 <p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
-<!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
 <p>No relationships found.</p>
 <h2>Notes</h2>

@@ -1,18 +1,18 @@
 ---
-created: '2026-02-13T19:38:06.865303Z'
+created: '2026-03-12T06:00:33.293254Z'
 description: Research-grade global metabolomics profiling measuring 1000+ metabolites.
   Provides comprehensive metabolic fingerprint.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/metabolon-global/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/metabolon-global/
 slug: metabolon-global
 tags:
 - labtest
 templateEngineOverride: njk
 title: metabolon_global
 type: labtest
-updated: '2026-02-13T19:38:06.865303Z'
+updated: '2026-03-12T06:00:33.293254Z'
 ---
 
 {% raw %}
@@ -65,15 +65,8 @@ updated: '2026-02-13T19:38:06.865303Z'
 <p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <p>No relationships found.</p>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<h3>Measures</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/tmao/" class="internal-link">TMAO</a> (biomarker) - Included in comprehensive metabolomics panel</li>
-</ul>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

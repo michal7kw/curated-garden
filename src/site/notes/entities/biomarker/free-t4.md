@@ -1,16 +1,16 @@
 ---
-created: '2026-02-13T19:38:04.806264Z'
+created: '2026-03-12T06:00:31.920223Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/free-t4/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/free-t4/
 slug: free-t4
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Free T4
 type: biomarker
-updated: '2026-02-13T19:38:04.806264Z'
+updated: '2026-03-12T06:00:31.920223Z'
 ---
 
 {% raw %}
@@ -26,87 +26,12 @@ updated: '2026-02-13T19:38:04.806264Z'
 <li><strong>Fasting Required</strong>: False</li>
 <li><strong>Recommended Test Frequency</strong>: Not specified</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/thyroid-dysfunction/" class="internal-link">thyroid_dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.510643'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/thyroid-dysfunction/" class="internal-link">Thyroid_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.510643'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/free-t4/" class="internal-link">Free_T4</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.510643'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/thyroid-dysfunction/" class="internal-link">Thyroid_Dysfunction</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-25T20:32:12.713341'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/free-t4/" class="internal-link">Free_T4</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:12.510643'
-source: obsidian
-</code></pre>
-<h3>Requires Biomarker</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/thyroid-dysfunction/" class="internal-link">Thyroid_Dysfunction</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.098625'
-source: obsidian
-</code></pre>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/thyroid-dysfunction/" class="internal-link">Thyroid_Dysfunction</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/thyroid-dysfunction/" class="internal-link">thyroid_dysfunction</a></p>
 <h3>Indicates Organ Health</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/thyroid/" class="internal-link">Thyroid</a> (organ)</li>
-</ul>
-<pre><code class="language-yaml">specificity: high
-function_indicated: Thyroid Hormone Production
-source: curated
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<h3>Influences</h3>
-<p>No known influences documented.</p>
-<h3>Correlations</h3>
-<p>No correlations documented.</p>
-<h3>Other Relationships</h3>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/free-t4/" class="internal-link">Free_T4</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:16.567866'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/free-t4/" class="internal-link">Free_T4</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:16.567866'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/thyroid-dysfunction/" class="internal-link">Thyroid_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:16.567866'
-source: obsidian
-</code></pre>
-<h3>Requires Biomarker</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/thyroid-dysfunction/" class="internal-link">thyroid_dysfunction</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:43.393690'
-source: obsidian
-</code></pre>
+<p>INDICATES_ORGAN_HEALTH::<a class="internal-link is-unresolved" href="/404">Thyroid</a></p>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <p>No supplement effects documented yet. Add effects in the respective supplement notes.</p>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>

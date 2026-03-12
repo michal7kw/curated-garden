@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:09.239973Z'
+created: '2026-03-12T06:00:34.368598Z'
 description: Essential trace mineral involved in over 300 enzymatic reactions. Critical
   for immune function, wound healing, testosterone production, and thyroid function.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/supplement/zinc/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/supplement/zinc/
 slug: zinc
 tags:
 - supplement
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Zinc
 type: supplement
-updated: '2026-02-13T19:38:09.239973Z'
+updated: '2026-03-12T06:00:34.368598Z'
 ---
 
 {% raw %}
@@ -25,62 +25,30 @@ updated: '2026-02-13T19:38:09.239973Z'
 <p>Essential trace mineral involved in over 300 enzymatic reactions. Critical for immune function, wound healing, testosterone production, and thyroid function.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">Zinc</a> (biomarker)</li>
-<li>← <a href="/garden/dev_admin/hormone/testosterone/" class="internal-link">Testosterone</a> (hormone)</li>
-<li>← <a href="/garden/dev_admin/hormone/thyroid-hormones/" class="internal-link">Thyroid_Hormones</a> (hormone)</li>
-<li>← <a href="/garden/dev_admin/organ/immune-system/" class="internal-link">Immune_System</a> (organ)</li>
-<li>← <a href="/garden/dev_admin/organ/skin/" class="internal-link">Skin</a> (organ)</li>
-<li>← <a href="/garden/dev_admin/organ/thyroid/" class="internal-link">Thyroid</a> (organ)</li>
-<li>← <a href="/garden/dev_admin/supplement/copper/" class="internal-link">Copper</a> (supplement)</li>
-<li>← <a href="/garden/dev_admin/supplement/gaba/" class="internal-link">GABA</a> (supplement)</li>
-<li>← <a href="/garden/dev_admin/supplement/iron/" class="internal-link">Iron</a> (supplement)</li>
-<li>← <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
-<li>← <a href="/garden/dev_admin/supplement/selenium/" class="internal-link">Selenium</a> (supplement)</li>
-<li>← <a href="/garden/dev_admin/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a> (supplement)</li>
-<li>→ <a href="/garden/dev_admin/organ/skin/" class="internal-link">Skin</a> (organ)</li>
-<li>→ <a href="/garden/dev_admin/organ/thyroid/" class="internal-link">Thyroid</a> (organ)</li>
-<li>→ <a href="/garden/dev_admin/supplement/copper/" class="internal-link">Copper</a> (supplement)</li>
-<li>→ <a href="/garden/dev_admin/supplement/iron/" class="internal-link">Iron</a> (supplement)</li>
-<li>→ <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
-<li>→ <a href="/garden/dev_admin/supplement/selenium/" class="internal-link">Selenium</a> (supplement)</li>
-<li>→ <a href="/garden/dev_admin/supplement/gaba/" class="internal-link">GABA</a> (supplement)</li>
-<li>→ <a href="/garden/dev_admin/hormone/testosterone/" class="internal-link">Testosterone</a> (hormone)</li>
-</ul>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Skin</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Thyroid</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/copper/" class="internal-link">Copper</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/iron/" class="internal-link">Iron</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/magnesium/" class="internal-link">Magnesium</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/selenium/" class="internal-link">Selenium</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/gaba/" class="internal-link">GABA</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Testosterone</a></p>
 <h3>Synergistic With</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/selenium/" class="internal-link">Selenium</a> (supplement)</li>
-<li>→ <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
-<li>→ <a href="/garden/dev_admin/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a> (supplement)</li>
-</ul>
+<p>SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/magnesium/" class="internal-link">Magnesium</a><br />
+SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a></p>
 <h3>Affects Organ</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/immune-system/" class="internal-link">Immune_System</a> (organ)</li>
-<li>→ <a href="/garden/dev_admin/organ/thyroid/" class="internal-link">Thyroid</a> (organ)</li>
-<li>→ <a href="/garden/dev_admin/organ/skin/" class="internal-link">Skin</a> (organ)</li>
-</ul>
+<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Immune_System</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Thyroid</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Skin</a></p>
 <h3>Modulates Hormone</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/hormone/testosterone/" class="internal-link">Testosterone</a> (hormone)</li>
-<li>→ <a href="/garden/dev_admin/hormone/thyroid-hormones/" class="internal-link">Thyroid_Hormones</a> (hormone)</li>
-</ul>
+<p>MODULATES_HORMONE::<a class="internal-link is-unresolved" href="/404">Testosterone</a><br />
+MODULATES_HORMONE::<a class="internal-link is-unresolved" href="/404">Thyroid_Hormones</a></p>
 <h3>Modulates Neurotransmitter</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/gaba/" class="internal-link">GABA</a> (supplement)</li>
-</ul>
+<p>MODULATES_NEUROTRANSMITTER::<a href="/garden/michal.k7w@gmail.com/supplement/gaba/" class="internal-link">GABA</a></p>
 <h3>Competes With</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/iron/" class="internal-link">Iron</a> (supplement)</li>
-<li>→ <a href="/garden/dev_admin/supplement/copper/" class="internal-link">Copper</a> (supplement)</li>
-</ul>
+<p>COMPETES_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/iron/" class="internal-link">Iron</a><br />
+COMPETES_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/copper/" class="internal-link">Copper</a></p>
 <h3>Affects Biomarker</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/tsh/" class="internal-link">Tsh</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">effect_direction: modulates
-magnitude: mild
-evidence_level: 3
-source: curated
-</code></pre>
+<p>AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/tsh/" class="internal-link">Tsh</a></p>
 
 {% endraw %}

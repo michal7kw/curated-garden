@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.831359Z'
+created: '2026-03-12T06:00:32.523880Z'
 description: A condition where the pancreas does not produce enough enzymes to properly
   digest food, leading to malabsorption and nutritional deficiencies.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/pancreatic-insufficiency/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/pancreatic-insufficiency/
 slug: pancreatic-insufficiency
 tags:
 - condition
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Pancreatic Insufficiency
 type: condition
-updated: '2026-02-13T19:38:05.831359Z'
+updated: '2026-03-12T06:00:32.523880Z'
 ---
 
 {% raw %}
@@ -29,31 +29,8 @@ updated: '2026-02-13T19:38:05.831359Z'
 <li><strong>Osteoporosis:</strong> Due to Vitamin D malabsorption.</li>
 <li><strong>Sarcopenia:</strong> Due to protein malabsorption.</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/pancreatic-insufficiency/" class="internal-link">Pancreatic_Insufficiency</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:49.189375'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/pancreatic-insufficiency/" class="internal-link">Pancreatic_Insufficiency</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:52.669173'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/pancreatitis/" class="internal-link">Pancreatitis</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/diabetes-mellitus/" class="internal-link">Diabetes Mellitus</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/malnutrition-and-malabsorption/" class="internal-link">Malnutrition and Malabsorption</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Pancreas</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Intestine</a><br />
-ASSOCIATED_WITH_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Fecal Elastase</a> - Key diagnostic test.<br />
-ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">Vitamin D</a> - Often low.<br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Pancrelipase</a> - Enzyme replacement (PERT).</p>
+<p>No relationships found.</p>
 <h2>References</h2>
 <ul>
 <li>Lindkvist, B. (2013). Diagnosis and treatment of pancreatic exocrine insufficiency. World Journal of Gastroenterology.</li>

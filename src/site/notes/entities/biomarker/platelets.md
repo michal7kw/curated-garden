@@ -1,16 +1,16 @@
 ---
-created: '2026-02-13T19:38:05.007901Z'
+created: '2026-03-12T06:00:32.106930Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/platelets/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/platelets/
 slug: platelets
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Platelets
 type: biomarker
-updated: '2026-02-13T19:38:05.007901Z'
+updated: '2026-03-12T06:00:32.106930Z'
 ---
 
 {% raw %}
@@ -26,37 +26,9 @@ updated: '2026-02-13T19:38:05.007901Z'
 <li><strong>Fasting Required</strong>: False</li>
 <li><strong>Recommended Test Frequency</strong>: Not specified</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/platelets/" class="internal-link">Platelets</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:16.419776'
-source: obsidian
-</code></pre>
 <h3>Indicates Organ Health</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/bones/" class="internal-link">Bones</a> (organ)</li>
-</ul>
-<pre><code class="language-yaml">specificity: high
-function_indicated: Megakaryopoiesis
-source: curated
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<h3>Influences</h3>
-<p>No known influences documented.</p>
-<h3>Correlations</h3>
-<p>No correlations documented.</p>
-<h3>Other Relationships</h3>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/platelets/" class="internal-link">Platelets</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:24.516868'
-source: obsidian
-</code></pre>
+<p>INDICATES_ORGAN_HEALTH::<a class="internal-link is-unresolved" href="/404">Bones</a></p>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <p>No supplement effects documented yet. Add effects in the respective supplement notes.</p>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>

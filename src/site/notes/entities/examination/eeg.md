@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:06.242973Z'
+created: '2026-03-12T06:00:32.764229Z'
 description: Recording of brain electrical activity used for seizure detection, encephalopathy
   assessment, and prognostication after cardiac arrest. Shows characteristic slowing
   in neurodegenerative diseases.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/examination/eeg/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/examination/eeg/
 slug: eeg
 tags:
 - examination
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: EEG
 type: examination
-updated: '2026-02-13T19:38:06.242973Z'
+updated: '2026-03-12T06:00:32.764229Z'
 ---
 
 {% raw %}
@@ -148,24 +148,16 @@ updated: '2026-02-13T19:38:06.242973Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Conditions</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/creutzfeldt-jakob-disease/" class="internal-link">Creutzfeldt-Jakob Disease</a> (condition) - <em>PSWCs diagnostic</em></li>
-<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Diffuse slowing</em></li>
-<li>→ <a href="/garden/dev_admin/condition/lewy-body-dementia/" class="internal-link">Lewy Body Dementia</a> (condition) - <em>Marked slowing</em></li>
-<li>→ <a href="/garden/dev_admin/condition/epilepsy/" class="internal-link">Epilepsy</a> (condition) - <em>Primary indication</em></li>
-<li>→ <a href="/garden/dev_admin/condition/delirium/" class="internal-link">Delirium</a> (condition) - <em>Triphasic waves, slowing</em></li>
-</ul>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Creutzfeldt-Jakob Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Lewy Body Dementia</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Epilepsy</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Delirium</a></p>
 <h3>Related Examinations</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/examination/neuropsychological-testing/" class="internal-link">Neuropsychological Testing</a> (examination) - <em>Cognitive correlate</em></li>
-<li>← <a href="/garden/dev_admin/examination/mri-volumetry/" class="internal-link">MRI Volumetry</a> (examination) - <em>Structural correlate</em></li>
-<li>→ <a href="/garden/dev_admin/examination/evoked-potentials/" class="internal-link">Evoked Potentials</a> (examination) - <em>Related technique</em></li>
-</ul>
+<p>RELATED_EXAMINATION::<a class="internal-link is-unresolved" href="/404">Evoked Potentials</a></p>
 <h3>Biomarkers</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/nse/" class="internal-link">NSE</a> (biomarker) - <em>Combined in cardiac arrest prognosis</em></li>
-<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a> (biomarker) - <em>Neurodegeneration</em></li>
-</ul>
+<p>RELATED_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/biomarker/nse/" class="internal-link">NSE</a><br />
+RELATED_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a></p>
 <h2>Interpretation Guide</h2>
 <h3>Normal Findings</h3>
 <ul>

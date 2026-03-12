@@ -1,16 +1,16 @@
 ---
-created: '2026-02-13T19:38:05.077181Z'
+created: '2026-03-12T06:00:32.164097Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/transferrin-saturation/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/transferrin-saturation/
 slug: transferrin-saturation
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Transferrin Saturation
 type: biomarker
-updated: '2026-02-13T19:38:05.077181Z'
+updated: '2026-03-12T06:00:32.164097Z'
 ---
 
 {% raw %}
@@ -26,73 +26,10 @@ updated: '2026-02-13T19:38:05.077181Z'
 <li><strong>Fasting Required</strong>: False</li>
 <li><strong>Recommended Test Frequency</strong>: Not specified</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/iron-deficiency/" class="internal-link">Iron_Deficiency</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:24.301328'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/transferrin-saturation/" class="internal-link">Transferrin_Saturation</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.855874'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/clinicalpattern/iron-deficiency-pattern/" class="internal-link">Iron_Deficiency_Pattern</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.855874'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/transferrin-saturation/" class="internal-link">Transferrin_Saturation</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:17.855874'
-source: obsidian
-</code></pre>
-<h3>Requires Biomarker</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/iron-deficiency/" class="internal-link">Iron_Deficiency</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.890940'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<h3>Influences</h3>
-<p>No known influences documented.</p>
-<h3>Correlations</h3>
-<p>No correlations documented.</p>
-<h3>Other Relationships</h3>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/transferrin-saturation/" class="internal-link">Transferrin_Saturation</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:28.599453'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/transferrin-saturation/" class="internal-link">Transferrin_Saturation</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:28.599453'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/clinicalpattern/iron-deficiency-pattern/" class="internal-link">Iron_Deficiency_Pattern</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:28.599453'
-source: obsidian
-</code></pre>
-<h3>Requires Biomarker</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/clinicalpattern/iron-deficiency-pattern/" class="internal-link">Iron_Deficiency_Pattern</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:39.366268'
-source: obsidian
-</code></pre>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Iron_Deficiency_Pattern</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency/" class="internal-link">Iron_Deficiency</a></p>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <p>No supplement effects documented yet. Add effects in the respective supplement notes.</p>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>

@@ -1,13 +1,13 @@
 ---
-created: '2026-02-13T19:38:05.824506Z'
+created: '2026-03-12T06:00:32.519325Z'
 description: Oxidative stress is an imbalance between the production of reactive oxygen
   species (ROS) and the biological system's ability to detoxify or repair the resulting
   damage. It is implicated in many pathological conditions including neurodegeneration,
   cardiovascular diseases, and metabolic disorders.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/oxidative-stress/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/oxidative-stress/
 slug: oxidative-stress
 tags:
 - condition
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Oxidative Stress
 type: condition
-updated: '2026-02-13T19:38:05.824506Z'
+updated: '2026-03-12T06:00:32.519325Z'
 ---
 
 {% raw %}
@@ -40,63 +40,18 @@ SORT confidence_score DESC
 </code></pre>
 <h2>Other Relationships</h2>
 <h3>Involves</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:31.414383'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/electron-transport-chain/" class="internal-link">Electron_Transport_Chain</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:31.414383'
-source: obsidian
-</code></pre>
+<p>INVOLVES::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
+INVOLVES::<a href="/garden/michal.k7w@gmail.com/pathway/electron-transport-chain/" class="internal-link">Electron_Transport_Chain</a></p>
 <h3>Modulated By</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/drug/nicotine/" class="internal-link">Nicotine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:31.414383'
-source: obsidian
-</code></pre>
+<p>MODULATED_BY::<a href="/garden/michal.k7w@gmail.com/drug/nicotine/" class="internal-link">Nicotine</a></p>
 <h3>Activates</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/nrf2-pathway/" class="internal-link">Nrf2_Pathway</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:31.414383'
-source: obsidian
-</code></pre>
+<p>ACTIVATES::<a href="/garden/michal.k7w@gmail.com/pathway/nrf2-pathway/" class="internal-link">Nrf2_Pathway</a></p>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/oxidative-stress/" class="internal-link">Oxidative_Stress</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:31.681292'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:31.681292'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/electron-transport-chain/" class="internal-link">Electron_Transport_Chain</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:31.681292'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/drug/nicotine/" class="internal-link">Nicotine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:31.681292'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/nrf2-pathway/" class="internal-link">Nrf2_Pathway</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:31.681292'
-source: obsidian
-</code></pre>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/oxidative-stress/" class="internal-link">Oxidative_Stress</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/electron-transport-chain/" class="internal-link">Electron_Transport_Chain</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/drug/nicotine/" class="internal-link">Nicotine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/nrf2-pathway/" class="internal-link">Nrf2_Pathway</a></p>
 <h2>Research</h2>
 <h3>Recent Studies</h3>
 <pre><code class="language-dataview">LIST
@@ -109,72 +64,12 @@ SORT date DESC
 FROM [[Oxidative Stress]] AND #clinical-trial
 SORT date DESC
 </code></pre>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (pathway)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:48.905499'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/oxidative-stress/" class="internal-link">Oxidative_Stress</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.918464'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/electron-transport-chain/" class="internal-link">Electron_Transport_Chain</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.918464'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/nrf2-pathway/" class="internal-link">Nrf2_Pathway</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.918464'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (pathway)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.918464'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/drug/nicotine/" class="internal-link">Nicotine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.918464'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/oxidative-stress/" class="internal-link">Oxidative_Stress</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.918464'
-source: obsidian
-</code></pre>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a></p>
 <h3>Modulated By</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/drug/nicotine/" class="internal-link">Nicotine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:37:22.629336'
-source: obsidian
-</code></pre>
+<h3>Activates</h3>
 <h3>Involves</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:37:22.629336'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
 <h2>References</h2>
 <p>No references available.</p>
 

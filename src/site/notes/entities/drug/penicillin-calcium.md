@@ -1,10 +1,10 @@
 ---
-created: '2026-02-13T19:38:06.173192Z'
+created: '2026-03-12T06:00:32.715060Z'
 description: A calcium salt form of Penicillin G, historically used as an antibiotic.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/drug/penicillin-calcium/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/drug/penicillin-calcium/
 slug: penicillin-calcium
 tags:
 - drug
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Penicillin Calcium
 type: drug
-updated: '2026-02-13T19:38:06.173192Z'
+updated: '2026-03-12T06:00:32.715060Z'
 ---
 
 {% raw %}
@@ -24,13 +24,8 @@ updated: '2026-02-13T19:38:06.173192Z'
 <ul>
 <li><strong>Bacterial Infections:</strong> Sensitive gram-positive organisms.</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <p>No relationships found.</p>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>TREATS_CONDITION::<a href="/garden/dev_admin/condition/bacterial-infections/" class="internal-link">Bacterial Infections</a><br />
-DRUG_CONTAINS_COMPOUND::<a href="/garden/dev_admin/drug/penicillin-g/" class="internal-link">Penicillin G</a></p>
 <h2>References</h2>
 <ul>
 <li>PubChem. Penicillin G Calcium.</li>

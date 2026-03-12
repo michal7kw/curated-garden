@@ -1,13 +1,13 @@
 ---
-created: '2026-02-13T19:38:08.705665Z'
+created: '2026-03-12T06:00:34.069821Z'
 description: The molecular turbine that synthesizes ATP from ADP and phosphate using
   the proton gradient across the inner mitochondrial membrane. Also known as Complex
   V of the electron transport chain, it is one of nature's most remarkable molecular
   machines.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/protein/atp-synthase/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/protein/atp-synthase/
 slug: atp-synthase
 tags:
 - protein
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: ATP Synthase
 type: protein
-updated: '2026-02-13T19:38:08.705665Z'
+updated: '2026-03-12T06:00:34.069821Z'
 ---
 
 {% raw %}
@@ -180,15 +180,15 @@ updated: '2026-02-13T19:38:08.705665Z'
 <td>Supports upstream ETC</td>
 </tr>
 <tr>
-<td><strong><a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a>/<a href="/garden/dev_admin/supplement/nicotinamide-riboside/" class="internal-link">Nicotinamide Riboside</a></strong></td>
+<td><strong><a href="/garden/michal.k7w@gmail.com/supplement/nmn/" class="internal-link">NMN</a>/<a href="/garden/michal.k7w@gmail.com/supplement/nicotinamide-riboside/" class="internal-link">Nicotinamide Riboside</a></strong></td>
 <td>Supports NAD+ → NADH → ETC → protons</td>
 </tr>
 <tr>
-<td><strong><a href="/garden/dev_admin/supplement/creatine/" class="internal-link">Creatine</a></strong></td>
+<td><strong><a href="/garden/michal.k7w@gmail.com/supplement/creatine/" class="internal-link">Creatine</a></strong></td>
 <td>Buffers ATP produced</td>
 </tr>
 <tr>
-<td><strong><a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a></strong></td>
+<td><strong><a href="/garden/michal.k7w@gmail.com/supplement/magnesium/" class="internal-link">Magnesium</a></strong></td>
 <td>Required for ATP (MgATP substrate)</td>
 </tr>
 </tbody>
@@ -203,72 +203,14 @@ updated: '2026-02-13T19:38:08.705665Z'
 </ul>
 </li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/nicotinamide-riboside/" class="internal-link">Nicotinamide_Riboside</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:59.343642'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:59.343642'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">CoQ10</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.174663'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:19.549791'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/nicotinamide-riboside/" class="internal-link">Nicotinamide_Riboside</a> (metabolite)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.174663'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/creatine/" class="internal-link">Creatine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.174663'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.174663'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.174663'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>LOCATED_IN::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> - Inner membrane<br />
-PRODUCES::<a class="internal-link is-unresolved" href="/404">ATP</a> - Primary product<br />
-CONSUMES::<a class="internal-link is-unresolved" href="/404">ADP</a> - Substrate<br />
-CONSUMES::<a class="internal-link is-unresolved" href="/404">Phosphate</a> - Substrate<br />
-DRIVEN_BY::<a class="internal-link is-unresolved" href="/404">Proton Gradient</a> - Chemiosmotic coupling<br />
-PART_OF::<a href="/garden/dev_admin/pathway/electron-transport-chain/" class="internal-link">Electron Transport Chain</a> - Complex V<br />
-PART_OF::<a href="/garden/dev_admin/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative Phosphorylation</a> - ATP synthesis step<br />
-INHIBITED_BY::<a class="internal-link is-unresolved" href="/404">Oligomycin</a> - Research tool<br />
-SUPPORTED_BY::<a class="internal-link is-unresolved" href="/404">CoQ10</a> - Via ETC function<br />
-SUPPORTED_BY::<a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> - MgATP formation<br />
-REGULATED_BY::<a class="internal-link is-unresolved" href="/404">IF1</a> - Prevents ATP hydrolysis<br />
-RELATED_TO::<a class="internal-link is-unresolved" href="/404">NADH</a> - Upstream electron donor<br />
-RELATED_TO::<a class="internal-link is-unresolved" href="/404">Oxygen</a> - Terminal electron acceptor</p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/nmn/" class="internal-link">NMN</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/magnesium/" class="internal-link">Magnesium</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/creatine/" class="internal-link">Creatine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/nicotinamide-riboside/" class="internal-link">Nicotinamide_Riboside</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">CoQ10</a></p>
 <h2>References</h2>
 <ul>
 <li>Boyer PD. The ATP synthase—a splendid molecular machine. Annu Rev Biochem. 1997;66:717-49. PMID: 9242922</li>

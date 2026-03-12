@@ -1,19 +1,19 @@
 ---
-created: '2026-02-13T19:38:06.761244Z'
+created: '2026-03-12T06:00:33.206508Z'
 description: Lactate Dehydrogenase (LDH) test. Non-specific tissue damage marker present
   in nearly all body tissues. Elevated in hemolytic anemia, liver disease, lymphoma,
   and myocardial infarction. Also a prognostic marker in oncology.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/ldh/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/ldh/
 slug: ldh
 tags:
 - labtest
 templateEngineOverride: njk
 title: ldh
 type: labtest
-updated: '2026-02-13T19:38:06.761244Z'
+updated: '2026-03-12T06:00:33.206508Z'
 ---
 
 {% raw %}
@@ -99,17 +99,18 @@ updated: '2026-02-13T19:38:06.761244Z'
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
 <li><a class="internal-link is-unresolved" href="/404">Hemolytic Anemia</a></li>
-<li><a href="/garden/dev_admin/condition/liver-disease/" class="internal-link">Liver Disease</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/liver-disease/" class="internal-link">Liver Disease</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Lymphoma</a></li>
-<li><a href="/garden/dev_admin/condition/myocardial-infarction/" class="internal-link">Myocardial Infarction</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/myocardial-infarction/" class="internal-link">Myocardial Infarction</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Pulmonary Embolism</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Megaloblastic Anemia</a></li>
 </ul>
 <h2>Relationships</h2>
 <h3>Measures</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/lactate-dehydrogenase/" class="internal-link">Lactate Dehydrogenase</a> (biomarker)</li>
-</ul>
+<p>MEASURES::<a href="/garden/michal.k7w@gmail.com/biomarker/lactate-dehydrogenase/" class="internal-link">Lactate_Dehydrogenase</a></p>
+<h3>Conditions</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/liver-disease/" class="internal-link">Liver_Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/myocardial-infarction/" class="internal-link">Myocardial_Infarction</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

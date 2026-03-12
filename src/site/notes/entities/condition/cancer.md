@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:05.417837Z'
+created: '2026-03-12T06:00:32.634418Z'
 description: A large group of diseases characterized by the uncontrolled growth and
   spread of abnormal cells, which can invade nearby tissues and metastasize to distant
   organs.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/cancer/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/cancer/
 slug: cancer
 tags:
 - condition
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Cancer
 type: condition
-updated: '2026-02-13T19:38:05.417837Z'
+updated: '2026-03-12T06:00:32.634418Z'
 ---
 
 {% raw %}
@@ -38,31 +38,8 @@ SORT confidence_score DESC
 </code></pre>
 <h2>Other Relationships</h2>
 <h3>Increases Risk For</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:37.999694'
-source: obsidian
-</code></pre>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/cancer/" class="internal-link">Cancer</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:51.934014'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:51.934014'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:57.049485'
-source: obsidian
-</code></pre>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
 <h2>Research</h2>
 <h3>Recent Studies</h3>
 <pre><code class="language-dataview">LIST
@@ -75,83 +52,12 @@ SORT date DESC
 FROM [[Cancer]] AND #clinical-trial
 SORT date DESC
 </code></pre>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/protein/src/" class="internal-link">SRC</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:32.664708'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/protein/ctcf/" class="internal-link">CTCF</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:32.664708'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/protein/cdk2/" class="internal-link">CDK2</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:32.664708'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/protein/akt1/" class="internal-link">AKT1</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:32.664708'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.513258'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/protein/ctcf/" class="internal-link">CTCF</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.769335'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/protein/cdk2/" class="internal-link">CDK2</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:29.529226'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/protein/akt1/" class="internal-link">AKT1</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:28.530000'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/protein/src/" class="internal-link">SRC</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:46.919120'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:25.519524'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/cancer/" class="internal-link">Cancer</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.513258'
-source: obsidian
-</code></pre>
-<h3>Increases Risk For</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.520330'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/gene/ctcf/" class="internal-link">CTCF</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/gene/src/" class="internal-link">SRC</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/gene/akt1/" class="internal-link">AKT1</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/gene/cdk2/" class="internal-link">CDK2</a></p>
 <h2>References</h2>
 <p>No references available.</p>
 

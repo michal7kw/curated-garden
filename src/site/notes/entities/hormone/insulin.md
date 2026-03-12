@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:06.355640Z'
+created: '2026-03-12T06:00:32.865417Z'
 description: Peptide hormone produced by pancreatic beta cells that regulates glucose
   metabolism, enabling cells to absorb glucose from the bloodstream for energy production
   or storage.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/hormone/insulin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/hormone/insulin/
 slug: insulin
 tags:
 - hormone
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Insulin
 type: hormone
-updated: '2026-02-13T19:38:06.355640Z'
+updated: '2026-03-12T06:00:32.865417Z'
 ---
 
 {% raw %}
@@ -97,20 +97,20 @@ updated: '2026-02-13T19:38:06.355640Z'
 <li><strong>Omega-3</strong>: Reduces insulin resistance</li>
 </ul>
 <h2>Relationships</h2>
-<p>PRODUCED_BY_ORGAN::<a class="internal-link is-unresolved" href="/404">Pancreas</a><br />
+<p>PRODUCED_BY::<a class="internal-link is-unresolved" href="/404">Pancreas</a><br />
 AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Liver</a><br />
 AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Muscle</a><br />
 AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Adipose Tissue</a><br />
 AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
 REGULATES::<a class="internal-link is-unresolved" href="/404">Blood Glucose</a><br />
 ANTAGONIST_OF::<a class="internal-link is-unresolved" href="/404">Glucagon</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a><br />
-AFFECTS_BIOMARKER::<a href="/garden/dev_admin/labtest/hba1c/" class="internal-link">HbA1c</a><br />
-AFFECTS_BIOMARKER::<a href="/garden/dev_admin/labtest/fasting-glucose/" class="internal-link">Fasting Glucose</a></p>
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/diabetes/" class="internal-link">Diabetes</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/berberine/" class="internal-link">Berberine</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/magnesium/" class="internal-link">Magnesium</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a><br />
+AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/hba1c/" class="internal-link">HbA1c</a><br />
+AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/fasting-glucose/" class="internal-link">Fasting Glucose</a></p>
 <h2>References</h2>
 <ul>
 <li>Wilcox G. Insulin and insulin resistance. Clin Biochem Rev. 2005</li>

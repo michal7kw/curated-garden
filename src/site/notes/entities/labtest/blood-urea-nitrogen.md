@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:38:06.533170Z'
+created: '2026-03-12T06:00:33.009458Z'
 description: Tested twice a year Blood urea nitrogen (BUN) measures the amount of
   nitrogen in the blood that comes from urea, a waste product made when the body breaks
   down protein. BUN is commonly used to check kidney function, since healthy kidneys
@@ -7,15 +7,15 @@ description: Tested twice a year Blood urea nitrogen (BUN) measures the amount o
   high protein intake, or certain metabolic or kidney conditions.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/blood-urea-nitrogen/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/blood-urea-nitrogen/
 slug: blood-urea-nitrogen
 tags:
 - labtest
 templateEngineOverride: njk
 title: blood_urea_nitrogen
 type: labtest
-updated: '2026-02-13T19:38:06.533170Z'
+updated: '2026-03-12T06:00:33.009458Z'
 ---
 
 {% raw %}
@@ -62,80 +62,23 @@ updated: '2026-02-13T19:38:06.533170Z'
 <ul>
 <li><a class="internal-link is-unresolved" href="/404">Kidney Dysfunction</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Dehydration</a></li>
-<li><a href="/garden/dev_admin/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal Bleeding</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal Bleeding</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Liver Dysfunction</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Malnutrition</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal_Bleeding</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:09.704116'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:09.704116'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:09.704116'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.852350'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.852350'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Malnutrition</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.852350'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Dehydration</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.852350'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal_Bleeding</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.852350'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal_Bleeding</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.231284'
-source: obsidian
-</code></pre>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Malnutrition</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal_Bleeding</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a></p>
+<h3>Conditions</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal_Bleeding</a></p>
 <h3>May Detect</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal_Bleeding</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal_Bleeding</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

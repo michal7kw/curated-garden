@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:07.928580Z'
+created: '2026-03-12T06:00:33.825430Z'
 description: The primary route for NAD+ biosynthesis in mammals, recycling nicotinamide
   released by NAD+-consuming enzymes back into NAD+. Accounts for approximately 85%
   of NAD+ production and is essential for maintaining cellular NAD+ homeostasis.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/pathway/nad-salvage-pathway/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/pathway/nad-salvage-pathway/
 slug: nad-salvage-pathway
 tags:
 - pathway
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: NAD+ Salvage Pathway
 type: pathway
-updated: '2026-02-13T19:38:07.928580Z'
+updated: '2026-03-12T06:00:33.825430Z'
 ---
 
 {% raw %}
@@ -143,23 +143,8 @@ Step 2: NMN + ATP → NAD+ + PPi
 </tr>
 </tbody>
 </table>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <p>No relationships found.</p>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>CONTAINS_ENZYME::<a href="/garden/dev_admin/protein/nampt/" class="internal-link">NAMPT</a> - Rate-limiting enzyme<br />
-PRODUCES::<a class="internal-link is-unresolved" href="/404">NAD+</a> - End product<br />
-PRODUCES::<a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a> - Intermediate product<br />
-USES_SUBSTRATE::<a href="/garden/dev_admin/supplement/nicotinamide-riboside/" class="internal-link">Nicotinamide Riboside</a> - Alternative entry point<br />
-REGULATED_BY::<a href="/garden/dev_admin/pathway/circadian-rhythm-pathway/" class="internal-link">Circadian Rhythm Pathway</a> - Circadian NAMPT expression<br />
-ACTIVATED_BY::<a href="/garden/dev_admin/intervention/caloric-restriction/" class="internal-link">Caloric Restriction</a> - Upregulates pathway<br />
-ACTIVATED_BY::<a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a> - Increases NAMPT<br />
-AFFECTED_BY::<a href="/garden/dev_admin/protein/cd38/" class="internal-link">CD38</a> - Competes for NAD+<br />
-AFFECTS::<a href="/garden/dev_admin/protein/sirt1/" class="internal-link">SIRT1</a> - Provides NAD+ substrate<br />
-AFFECTS::<a href="/garden/dev_admin/protein/sirt3/" class="internal-link">SIRT3</a> - Mitochondrial NAD+ supply<br />
-RELATED_TO::<a href="/garden/dev_admin/pathway/de-novo-nad-synthesis-pathway/" class="internal-link">De Novo NAD+ Synthesis Pathway</a> - Alternative biosynthesis route<br />
-UPSTREAM_OF::<a href="/garden/dev_admin/pathway/electron-transport-chain/" class="internal-link">Electron Transport Chain</a> - NAD+ required for ETC</p>
 <h2>References</h2>
 <ul>
 <li>Revollo JR, Grimm AA, Imai S. The NAD biosynthesis pathway mediated by nicotinamide phosphoribosyltransferase regulates Sir2 activity in mammalian cells. J Biol Chem. 2004;279(49):50754-63. PMID: 15381699</li>

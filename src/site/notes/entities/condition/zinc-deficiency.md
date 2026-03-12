@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:06.033023Z'
+created: '2026-03-12T06:00:32.632988Z'
 description: A nutritional deficiency state characterized by insufficient levels of
   zinc, an essential trace element involved in immune function, protein synthesis,
   and wound healing.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/zinc-deficiency/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/zinc-deficiency/
 slug: zinc-deficiency
 tags:
 - condition
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Zinc Deficiency
 type: condition
-updated: '2026-02-13T19:38:06.033023Z'
+updated: '2026-03-12T06:00:32.632988Z'
 ---
 
 {% raw %}
@@ -39,26 +39,9 @@ SORT confidence_score DESC
 </code></pre>
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">zinc</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/zinc-deficiency/" class="internal-link">Zinc_Deficiency</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:47.790606'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">zinc</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:47.790606'
-source: obsidian
-</code></pre>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/zinc-deficiency/" class="internal-link">Zinc_Deficiency</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/zinc/" class="internal-link">zinc</a></p>
 <h2>Research</h2>
 <h3>Recent Studies</h3>
 <pre><code class="language-dataview">LIST
@@ -71,42 +54,8 @@ SORT date DESC
 FROM [[Zinc Deficiency]] AND #clinical-trial
 SORT date DESC
 </code></pre>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/zinc-deficiency/" class="internal-link">Zinc_Deficiency</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.463462'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">zinc</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.110806'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/zinc-deficiency/" class="internal-link">Zinc_Deficiency</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.463462'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">zinc</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.463462'
-source: obsidian
-</code></pre>
-<h3>May Detect</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/zinc/" class="internal-link">zinc</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
 <h2>References</h2>
 <p>No references available.</p>
 

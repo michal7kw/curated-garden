@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.937337Z'
+created: '2026-03-12T06:00:32.581229Z'
 description: A progressive and generalized skeletal muscle disorder characterized
   by the age-related loss of muscle mass, strength, and function.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/sarcopenia/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/sarcopenia/
 slug: sarcopenia
 tags:
 - condition
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Sarcopenia
 type: condition
-updated: '2026-02-13T19:38:05.937337Z'
+updated: '2026-03-12T06:00:32.581229Z'
 ---
 
 {% raw %}
@@ -49,45 +49,10 @@ updated: '2026-02-13T19:38:05.937337Z'
 <li><strong>Protein Intake:</strong> Higher requirements for older adults (1.2-1.5 g/kg/day) to overcome anabolic resistance. Leucine is particularly critical.</li>
 <li><strong>Creatine:</strong> Improves muscle mass and strength when combined with exercise.</li>
 </ol>
-<h2>Relationships</h2>
-<p>IMPROVED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Resistance Training</a> - Primary treatment<br />
-IMPROVED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Protein Intake</a> - Essential nutrient<br />
-IMPROVED_BY_INTERVENTION::<a href="/garden/dev_admin/supplement/creatine/" class="internal-link">Creatine</a> - Ergogenic aid<br />
-ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/biomarker/creatine-kinase/" class="internal-link">Creatine Kinase</a> - Marker of muscle mass/turnover<br />
-ASSOCIATED_WITH_BIOMARKER::<a href="/garden/dev_admin/hormone/igf-1/" class="internal-link">IGF-1</a> - Anabolic factor<br />
-RISK_FACTOR_FOR::<a class="internal-link is-unresolved" href="/404">Falls</a><br />
-RISK_FACTOR_FOR::<a href="/garden/dev_admin/condition/osteoporosis/" class="internal-link">Osteoporosis</a> - &quot;Osteosarcopenia&quot;<br />
-RISK_FACTOR_FOR::<a class="internal-link is-unresolved" href="/404">Frailty</a><br />
-CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Aging</a><br />
-CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Sedentary Lifestyle</a><br />
-CAUSED_BY::<a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
 <h2>Other Relationships</h2>
 <h3>May Improve Condition</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/creatine/" class="internal-link">Creatine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:01.825845'
-source: obsidian
-</code></pre>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/sarcopenia/" class="internal-link">Sarcopenia</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:40.327345'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/creatine/" class="internal-link">Creatine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:40.327345'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/creatine/" class="internal-link">Creatine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:54.843123'
-source: obsidian
-</code></pre>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/creatine/" class="internal-link">Creatine</a></p>
 <h2>Research</h2>
 <h3>Recent Studies</h3>
 <pre><code class="language-dataview">LIST
@@ -107,35 +72,8 @@ SORT date DESC
 FROM [[Sarcopenia]] AND #intervention
 SORT confidence_score DESC
 </code></pre>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/creatine/" class="internal-link">Creatine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.099790'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/creatine/" class="internal-link">Creatine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:37.192580'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/sarcopenia/" class="internal-link">Sarcopenia</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:37.192580'
-source: obsidian
-</code></pre>
-<h3>May Improve Condition</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/creatine/" class="internal-link">Creatine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:36.518401'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
 <h2>References</h2>
 <ul>
 <li>Cruz-Jentoft AJ, et al. Sarcopenia: revised European consensus on definition and diagnosis. Age Ageing. 2019;48(1):16-31.</li>

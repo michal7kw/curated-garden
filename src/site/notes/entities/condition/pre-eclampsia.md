@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.899722Z'
+created: '2026-03-12T06:00:32.553507Z'
 description: A pregnancy complication characterized by high blood pressure and signs
   of damage to another organ system, most often the liver and kidneys.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/pre-eclampsia/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/pre-eclampsia/
 slug: pre-eclampsia
 tags:
 - condition
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Pre-Eclampsia
 type: condition
-updated: '2026-02-13T19:38:05.899722Z'
+updated: '2026-03-12T06:00:32.553507Z'
 ---
 
 {% raw %}
@@ -38,12 +38,6 @@ SORT confidence_score DESC
 </code></pre>
 <h2>Other Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/pre-eclampsia/" class="internal-link">Pre-Eclampsia</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:36.938982'
-source: obsidian
-</code></pre>
 <h2>Research</h2>
 <h3>Recent Studies</h3>
 <pre><code class="language-dataview">LIST
@@ -56,16 +50,8 @@ SORT date DESC
 FROM [[Pre-Eclampsia]] AND #clinical-trial
 SORT date DESC
 </code></pre>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/pre-eclampsia/" class="internal-link">Pre-Eclampsia</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.354027'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
+<p>No relationships found.</p>
 <h2>References</h2>
 <p>No references available.</p>
 

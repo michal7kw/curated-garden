@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.549308Z'
+created: '2026-03-12T06:00:32.370949Z'
 description: A broad category of disorders affecting the eye and its adnexa, ranging
   from acute infections to chronic degenerative conditions.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/eye-diseases/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/eye-diseases/
 slug: eye-diseases
 tags:
 - condition
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Eye Diseases
 type: condition
-updated: '2026-02-13T19:38:05.549308Z'
+updated: '2026-03-12T06:00:32.370949Z'
 ---
 
 {% raw %}
@@ -30,28 +30,8 @@ updated: '2026-02-13T19:38:05.549308Z'
 <li><strong>Retinal Disorders:</strong> Macular degeneration, diabetic retinopathy, retinal detachment.</li>
 <li><strong>Infections/Inflammation:</strong> Conjunctivitis, Uveitis, Keratitis.</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/eye-diseases/" class="internal-link">Eye_Diseases</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:38.303183'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/eye-diseases/" class="internal-link">Eye_Diseases</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:35.757978'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/diabetes-mellitus/" class="internal-link">Diabetes Mellitus</a> - Diabetic Retinopathy.<br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/hypertension/" class="internal-link">Hypertension</a><br />
-CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Aging</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Eye</a><br />
-INCREASED_RISK_OF::<a class="internal-link is-unresolved" href="/404">Blindness</a></p>
+<p>No relationships found.</p>
 <h2>References</h2>
 <ul>
 <li>World Health Organization (WHO). Blindness and vision impairment.</li>

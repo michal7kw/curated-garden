@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:08.747523Z'
+created: '2026-03-12T06:00:34.105407Z'
 description: A small heme protein that serves as an essential electron carrier in
   the mitochondrial electron transport chain, shuttling electrons from Complex III
   to Complex IV. Also plays a crucial role in apoptosis when released into the cytoplasm.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/protein/cytochrome-c/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/protein/cytochrome-c/
 slug: cytochrome-c
 tags:
 - protein
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Cytochrome C
 type: protein
-updated: '2026-02-13T19:38:08.747523Z'
+updated: '2026-03-12T06:00:34.105407Z'
 ---
 
 {% raw %}
@@ -137,24 +137,8 @@ updated: '2026-02-13T19:38:08.747523Z'
 <li>Classic model for molecular evolution studies</li>
 <li>Functional constraints maintain sequence</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <p>No relationships found.</p>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>PART_OF::<a href="/garden/dev_admin/pathway/electron-transport-chain/" class="internal-link">Electron Transport Chain</a> - Essential electron carrier<br />
-TRANSFERS_ELECTRONS_FROM::<a class="internal-link is-unresolved" href="/404">Complex III</a> - Receives electrons<br />
-TRANSFERS_ELECTRONS_TO::<a class="internal-link is-unresolved" href="/404">Complex IV</a> - Donates electrons<br />
-LOCATED_IN::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> - Intermembrane space<br />
-TRIGGERS::<a class="internal-link is-unresolved" href="/404">Apoptosis</a> - Intrinsic pathway<br />
-BINDS::<a class="internal-link is-unresolved" href="/404">Cardiolipin</a> - Inner membrane attachment<br />
-ACTIVATES::<a class="internal-link is-unresolved" href="/404">Apaf-1</a> - Apoptosome formation<br />
-AFFECTED_BY::<a href="/garden/dev_admin/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a> - Cardiolipin peroxidation<br />
-PARTICIPATES_IN_PATHWAY::<a href="/garden/dev_admin/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative Phosphorylation</a><br />
-RELATED_TO::<a class="internal-link is-unresolved" href="/404">CoQ10</a> - Upstream electron carrier<br />
-RELATED_TO::<a class="internal-link is-unresolved" href="/404">ATP</a> - Supports synthesis<br />
-RELATED_TO::<a class="internal-link is-unresolved" href="/404">Bcl-2</a> - Anti-apoptotic antagonist<br />
-ENCODED_BY::<a class="internal-link is-unresolved" href="/404">CYCS</a> - Nuclear gene</p>
 <h2>References</h2>
 <ul>
 <li>Liu X, et al. Induction of apoptotic program in cell-free extracts: requirement for dATP and cytochrome c. Cell. 1996;86(1):147-57. PMID: 8689682</li>

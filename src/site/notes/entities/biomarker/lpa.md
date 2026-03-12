@@ -1,19 +1,19 @@
 ---
-created: '2026-02-13T19:38:04.894568Z'
+created: '2026-03-12T06:00:31.972879Z'
 description: A genetically determined, highly atherogenic lipoprotein consisting of
   an LDL-like particle bound to apolipoprotein(a). Independent risk factor for cardiovascular
   disease.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/lpa/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/lpa/
 slug: lpa
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Lp(a)
 type: biomarker
-updated: '2026-02-13T19:38:04.894568Z'
+updated: '2026-03-12T06:00:31.972879Z'
 ---
 
 {% raw %}
@@ -42,16 +42,6 @@ updated: '2026-02-13T19:38:04.894568Z'
 <li><strong>Niacin:</strong> Lowers levels but did not show clinical benefit in trials.</li>
 <li><strong>Emerging Therapies:</strong> Antisense oligonucleotides (e.g., Pelacarsen) and siRNAs (e.g., Olpasiran) in clinical trials show potent reductions &gt;80%.</li>
 </ul>
-<h2>Relationships</h2>
-<p>ASSOCIATED_WITH_GENE::<a class="internal-link is-unresolved" href="/404">LPA Gene</a> - Determines &gt;90% of levels<br />
-RISK_FACTOR_FOR::<a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> - Independent causal factor<br />
-RISK_FACTOR_FOR::<a class="internal-link is-unresolved" href="/404">Aortic Valve Stenosis</a><br />
-RISK_FACTOR_FOR::<a href="/garden/dev_admin/condition/myocardial-infarction/" class="internal-link">Myocardial Infarction</a><br />
-SIMILAR_TO::<a href="/garden/dev_admin/biomarker/ldl/" class="internal-link">LDL</a> - Structural core<br />
-INHIBITS::<a class="internal-link is-unresolved" href="/404">Plasminogen</a> - Pro-thrombotic mechanism<br />
-AFFECTED_BY::<a class="internal-link is-unresolved" href="/404">PCSK9 Inhibitors</a> - Modest reduction<br />
-UNAFFECTED_BY::<a class="internal-link is-unresolved" href="/404">Diet</a> - Generally resistant to lifestyle change<br />
-UNAFFECTED_BY::<a class="internal-link is-unresolved" href="/404">Statins</a></p>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <p>No supplement effects documented yet. Add effects in the respective supplement notes.</p>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
@@ -61,20 +51,7 @@ UNAFFECTED_BY::<a class="internal-link is-unresolved" href="/404">Statins</a></p
 <li>Tsimikas S. A Test in Context: Lipoprotein(a): Diagnosis, Prognosis, Controversies, and Emerging Therapies. J Am Coll Cardiol. 2017;69(6):692-711.</li>
 <li>Nordestgaard BG, et al. Lipoprotein(a) as a cardiovascular risk factor: current status. Eur Heart J. 2010;31(23):2844-53.</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Lp_A</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:14.579785'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/lp-a/" class="internal-link">Lp_A</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:14.579785'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
+<p>No relationships found.</p>
+
 {% endraw %}

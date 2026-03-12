@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:06.320726Z'
+created: '2026-03-12T06:00:32.838423Z'
 description: Encodes the Epidermal Growth Factor Receptor. Mutations and amplification
   of this gene are common in many cancers.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/gene/egfr/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/gene/egfr/
 slug: egfr
 tags:
 - gene
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: EGFR
 type: gene
-updated: '2026-02-13T19:38:06.320726Z'
+updated: '2026-03-12T06:00:32.838423Z'
 ---
 
 {% raw %}
@@ -25,10 +25,7 @@ updated: '2026-02-13T19:38:06.320726Z'
 <p>The <strong>EGFR</strong> gene encodes a receptor tyrosine kinase of the ErbB family. Ligand binding induces receptor dimerization and autophosphorylation, initiating signaling cascades like MAPK, PI3K-Akt, and STAT.</p>
 <p>Mutations in this gene are associated with lung cancer (NSCLC) and glioblastoma. Amplification is observed in colorectal cancer and breast cancer.</p>
 <h2>Relationships</h2>
-<ul>
-<li>→ <a href="/garden/dev_admin/protein/egfr/" class="internal-link">EGFR</a> (protein) - <em>Encodes</em></li>
-<li>→ <a href="/garden/dev_admin/condition/lung-cancer/" class="internal-link">Lung Cancer</a> (condition) - <em>Associated with mutations</em></li>
-</ul>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Lung Cancer</a></p>
 <h2>References</h2>
 <ol>
 <li><strong>Genetics</strong>: Paez, J. G., et al. (2004). &quot;EGFR mutations in lung cancer: correlation with clinical response to gefitinib therapy.&quot; <em>Science</em>.</li>

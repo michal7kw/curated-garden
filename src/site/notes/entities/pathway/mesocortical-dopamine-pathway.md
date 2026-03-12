@@ -1,16 +1,16 @@
 ---
-created: '2026-02-13T19:38:07.884719Z'
+created: '2026-03-12T06:00:33.787679Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/pathway/mesocortical-dopamine-pathway/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/pathway/mesocortical-dopamine-pathway/
 slug: mesocortical-dopamine-pathway
 tags:
 - pathway
 templateEngineOverride: njk
 title: Mesocortical Dopamine Pathway
 type: pathway
-updated: '2026-02-13T19:38:07.884719Z'
+updated: '2026-03-12T06:00:33.787679Z'
 ---
 
 {% raw %}
@@ -391,5 +391,9 @@ updated: '2026-02-13T19:38:07.884719Z'
 </ul>
 <h2>Summary</h2>
 <p>The mesocortical dopamine pathway connects the VTA to the prefrontal cortex, providing the dopamine essential for executive functions like working memory, planning, impulse control, and sustained attention. This pathway exhibits an inverted-U dose-response curve - both too little dopamine (ADHD, chronic stress) and too much dopamine (acute stress, schizophrenia) impair PFC function. Dysfunction of this pathway contributes to ADHD (reduced dopamine, inattention, executive dysfunction), schizophrenia negative symptoms (reduced dopamine, flat affect, avolition), and stress-related cognitive impairment (excessive dopamine, working memory collapse). Evidence-based interventions that may support healthy mesocortical function include L-tyrosine (replenishes dopamine under stress, 3/5), omega-3 fatty acids (structural support for PFC neurons, 3/5), and Rhodiola rosea (prevents stress-induced dopamine depletion, 3/5). Lifestyle interventions prioritizing cognitive challenges, regular exercise, adequate sleep, stress management, mindfulness meditation, and avoiding chronic multitasking are foundational for maintaining optimal mesocortical dopamine function and executive control.</p>
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 
 {% endraw %}

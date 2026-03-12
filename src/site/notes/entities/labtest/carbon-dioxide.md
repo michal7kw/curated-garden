@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:38:06.558329Z'
+created: '2026-03-12T06:00:33.036755Z'
 description: Tested twice a year Carbon dioxide levels monitor pH and are an indirect
   measure of bicarbonate, a key buffer involved in maintaining the body’s acid-base
   balance. When the body’s acid–base balance is thrown off—called acidosis or alkalosis—carbon
@@ -7,15 +7,15 @@ description: Tested twice a year Carbon dioxide levels monitor pH and are an ind
   balance.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/carbon-dioxide/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/carbon-dioxide/
 slug: carbon-dioxide
 tags:
 - labtest
 templateEngineOverride: njk
 title: carbon_dioxide
 type: labtest
-updated: '2026-02-13T19:38:06.558329Z'
+updated: '2026-03-12T06:00:33.036755Z'
 ---
 
 {% raw %}
@@ -62,105 +62,25 @@ updated: '2026-02-13T19:38:06.558329Z'
 <ul>
 <li><a class="internal-link is-unresolved" href="/404">Metabolic Acidosis</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Metabolic Alkalosis</a></li>
-<li><a href="/garden/dev_admin/condition/chronic-lung-disease/" class="internal-link">Chronic Lung Disease</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/chronic-lung-disease/" class="internal-link">Chronic Lung Disease</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Kidney Dysfunction</a></li>
-<li><a href="/garden/dev_admin/condition/electrolyte-imbalance/" class="internal-link">Electrolyte Imbalance</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/electrolyte-imbalance/" class="internal-link">Electrolyte Imbalance</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Metabolic_Acidosis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:10.275635'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/electrolyte-imbalance/" class="internal-link">Electrolyte_Imbalance</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:10.275635'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/chronic-lung-disease/" class="internal-link">Chronic_Lung_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:10.275635'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:10.275635'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Metabolic_Alkalosis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:10.275635'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.144441'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Metabolic_Alkalosis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.144441'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Metabolic_Acidosis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.144441'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/chronic-lung-disease/" class="internal-link">Chronic_Lung_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.144441'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/electrolyte-imbalance/" class="internal-link">Electrolyte_Imbalance</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.144441'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/electrolyte-imbalance/" class="internal-link">Electrolyte_Imbalance</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.525508'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/chronic-lung-disease/" class="internal-link">Chronic_Lung_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:36.051041'
-source: obsidian
-</code></pre>
 <h3>May Detect</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/electrolyte-imbalance/" class="internal-link">Electrolyte_Imbalance</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/chronic-lung-disease/" class="internal-link">Chronic_Lung_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/chronic-lung-disease/" class="internal-link">Chronic_Lung_Disease</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/electrolyte-imbalance/" class="internal-link">Electrolyte_Imbalance</a></p>
+<h3>Conditions</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/electrolyte-imbalance/" class="internal-link">Electrolyte_Imbalance</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-lung-disease/" class="internal-link">Chronic_Lung_Disease</a></p>
+<h3>Related</h3>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic_Alkalosis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic_Acidosis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/electrolyte-imbalance/" class="internal-link">Electrolyte_Imbalance</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-lung-disease/" class="internal-link">Chronic_Lung_Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

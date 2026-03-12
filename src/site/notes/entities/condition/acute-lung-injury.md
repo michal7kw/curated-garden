@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:05.324019Z'
+created: '2026-03-12T06:00:32.228014Z'
 description: A serious condition characterized by widespread inflammation in the lungs
   and disruption of the alveolar-capillary barrier, rapidly leading to respiratory
   failure.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/acute-lung-injury/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/acute-lung-injury/
 slug: acute-lung-injury
 tags:
 - condition
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Acute Lung Injury
 type: condition
-updated: '2026-02-13T19:38:05.324019Z'
+updated: '2026-03-12T06:00:32.228014Z'
 ---
 
 {% raw %}
@@ -49,29 +49,8 @@ updated: '2026-02-13T19:38:05.324019Z'
 <li>Acute pancreatitis</li>
 <li>Drug overdose</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/acute-lung-injury/" class="internal-link">Acute_Lung_Injury</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:29.352335'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/acute-lung-injury/" class="internal-link">Acute_Lung_Injury</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:21.340449'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Acute Respiratory Distress Syndrome</a> - ALI is often considered the precursor or mild form of ARDS.<br />
-CAUSED_BY::<a href="/garden/dev_admin/condition/pneumonia/" class="internal-link">Pneumonia</a><br />
-CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Sepsis</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Lung</a><br />
-INCREASED_RISK_OF::<a class="internal-link is-unresolved" href="/404">Multiple Organ Dysfunction Syndrome</a><br />
-CHARACTERIZED_BY::<a href="/garden/dev_admin/condition/inflammation/" class="internal-link">Inflammation</a></p>
+<p>No relationships found.</p>
 <h2>References</h2>
 <ul>
 <li>Force, A. D. T., et al. (2012). Acute respiratory distress syndrome: the Berlin Definition. JAMA, 307(23), 2526-2533.</li>

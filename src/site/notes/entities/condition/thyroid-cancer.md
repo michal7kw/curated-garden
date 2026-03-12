@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.979225Z'
+created: '2026-03-12T06:00:32.605092Z'
 description: A type of cancer that starts in the thyroid gland, with papillary thyroid
   carcinoma being the most common and generally treatable form.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/thyroid-cancer/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/thyroid-cancer/
 slug: thyroid-cancer
 tags:
 - condition
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Thyroid Cancer
 type: condition
-updated: '2026-02-13T19:38:05.979225Z'
+updated: '2026-03-12T06:00:32.605092Z'
 ---
 
 {% raw %}
@@ -30,29 +30,8 @@ updated: '2026-02-13T19:38:05.979225Z'
 <li><strong>Medullary:</strong> Arises from C-cells (calcitonin-producing); often genetic.</li>
 <li><strong>Anaplastic:</strong> Rare, very aggressive, and difficult to treat.</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/thyroid-cancer/" class="internal-link">Thyroid_Cancer</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:53.201085'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/thyroid-cancer/" class="internal-link">Thyroid_Cancer</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:59.641637'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/hashimotos-thyroiditis/" class="internal-link">Hashimotos Thyroiditis</a> - Linked to increased risk of PTC.<br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Thyroid Gland</a><br />
-ASSOCIATED_WITH_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Thyroglobulin</a> - Used as a tumor marker after surgery.<br />
-ASSOCIATED_WITH_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Calcitonin</a> - Marker for Medullary type.<br />
-TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Thyroidectomy</a><br />
-TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Radioactive Iodine</a></p>
+<p>No relationships found.</p>
 <h2>References</h2>
 <ul>
 <li>Haugen, B. R., et al. (2016). 2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer.</li>

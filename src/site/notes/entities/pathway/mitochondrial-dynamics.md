@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:07.920695Z'
+created: '2026-03-12T06:00:33.820575Z'
 description: The continuous remodeling of the mitochondrial network through fusion
   and fission events. Essential for maintaining mitochondrial quality, distribution,
   and function.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/pathway/mitochondrial-dynamics/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/pathway/mitochondrial-dynamics/
 slug: mitochondrial-dynamics
 tags:
 - pathway
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Mitochondrial Dynamics
 type: pathway
-updated: '2026-02-13T19:38:07.920695Z'
+updated: '2026-03-12T06:00:33.820575Z'
 ---
 
 {% raw %}
@@ -57,16 +57,21 @@ updated: '2026-02-13T19:38:07.920695Z'
 <li><strong>Aging:</strong> Dynamics shift towards fission/fragmentation with age.</li>
 </ul>
 <h2>Relationships</h2>
-<p>REGULATES::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> - Network morphology<br />
-REGULATES::<a href="/garden/dev_admin/pathway/mitophagy/" class="internal-link">Mitophagy</a> - Fission required to isolate cargo<br />
-DRIVEN_BY::<a class="internal-link is-unresolved" href="/404">Drp1</a> - Fission protein<br />
-DRIVEN_BY::<a class="internal-link is-unresolved" href="/404">Mfn1</a> - Fusion protein<br />
-DRIVEN_BY::<a class="internal-link is-unresolved" href="/404">Mfn2</a> - Fusion protein<br />
-DRIVEN_BY::<a class="internal-link is-unresolved" href="/404">OPA1</a> - Fusion protein<br />
-ACTIVATED_BY::<a href="/garden/dev_admin/protein/ampk/" class="internal-link">AMPK</a> - Promotes fission to clear damage (mitophagy)<br />
-INHIBITED_BY::<a href="/garden/dev_admin/pathway/mtor-pathway/" class="internal-link">mTOR Pathway</a> - Can suppress quality control<br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a></p>
+<h3>Driven By</h3>
+<p>DRIVEN_BY::<a class="internal-link is-unresolved" href="/404">Mfn2</a><br />
+DRIVEN_BY::<a class="internal-link is-unresolved" href="/404">Mfn1</a><br />
+DRIVEN_BY::<a class="internal-link is-unresolved" href="/404">Drp1</a><br />
+DRIVEN_BY::<a class="internal-link is-unresolved" href="/404">OPA1</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/diabetes/" class="internal-link">Diabetes</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Parkinsons_Disease</a></p>
+<h3>Regulates</h3>
+<p>REGULATES::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
+REGULATES::<a href="/garden/michal.k7w@gmail.com/pathway/mitophagy/" class="internal-link">Mitophagy</a></p>
+<h3>Activated By</h3>
+<p>ACTIVATED_BY::<a href="/garden/michal.k7w@gmail.com/protein/ampk/" class="internal-link">AMPK</a></p>
+<h3>Inhibited By</h3>
+<p>INHIBITED_BY::<a href="/garden/michal.k7w@gmail.com/pathway/mtor-pathway/" class="internal-link">mTOR_Pathway</a></p>
 <h2>References</h2>
 <ul>
 <li>Chan DC. Fusion and fission: interlinked processes critical for mitochondrial health. Annu Rev Genet. 2012.</li>

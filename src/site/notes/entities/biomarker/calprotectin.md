@@ -1,19 +1,19 @@
 ---
-created: '2026-02-13T19:38:04.718013Z'
+created: '2026-03-12T06:00:31.866432Z'
 description: Fecal calprotectin is a neutrophil-derived protein that serves as a non-invasive
   marker of gastrointestinal inflammation. It is the gold standard stool biomarker
   for distinguishing inflammatory bowel disease from irritable bowel syndrome.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/calprotectin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/calprotectin/
 slug: calprotectin
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Calprotectin
 type: biomarker
-updated: '2026-02-13T19:38:04.718013Z'
+updated: '2026-03-12T06:00:31.866432Z'
 ---
 
 {% raw %}
@@ -68,22 +68,20 @@ updated: '2026-02-13T19:38:04.718013Z'
 </ul>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
-<li><a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a> - May decrease fecal calprotectin in IBD patients as adjunct therapy (moderate, evidence level 3)</li>
-<li><a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> - May decrease intestinal inflammation and calprotectin levels (mild, evidence level 3)</li>
-<li><a href="/garden/dev_admin/supplement/probiotics/" class="internal-link">Probiotics</a> - May decrease calprotectin in mild-moderate IBD (mild, evidence level 3)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/curcumin/" class="internal-link">Curcumin</a> - May decrease fecal calprotectin in IBD patients as adjunct therapy (moderate, evidence level 3)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> - May decrease intestinal inflammation and calprotectin levels (mild, evidence level 3)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/probiotics/" class="internal-link">Probiotics</a> - May decrease calprotectin in mild-moderate IBD (mild, evidence level 3)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li><a href="/garden/dev_admin/labtest/fecal-calprotectin/" class="internal-link">fecal calprotectin</a> - Quantitative fecal calprotectin measurement by ELISA</li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/fecal-calprotectin/" class="internal-link">fecal calprotectin</a> - Quantitative fecal calprotectin measurement by ELISA</li>
 </ul>
 <h2>Relationships</h2>
 <h3>Correlations</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/zonulin/" class="internal-link">Zonulin</a> (biomarker) - Both assess intestinal health; zonulin measures permeability while calprotectin measures inflammation</li>
-<li>→ <a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a> (biomarker) - Systemic inflammation marker; calprotectin is more specific for GI inflammation</li>
-<li>→ <a href="/garden/dev_admin/biomarker/erythrocyte-sedimentation-rate/" class="internal-link">Erythrocyte Sedimentation Rate</a> (biomarker) - Non-specific inflammation marker co-monitored in IBD</li>
-</ul>
+<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/zonulin/" class="internal-link">Zonulin</a><br />
+CORRELATED_WITH::<a class="internal-link is-unresolved" href="/404">Erythrocyte_Sedimentation_Rate</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs_Crp</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:31299865 - Curcumin effects on fecal calprotectin in IBD</li>

@@ -1,16 +1,16 @@
 ---
-created: '2026-02-13T19:38:04.906736Z'
+created: '2026-03-12T06:00:31.994468Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/mcv/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/mcv/
 slug: mcv
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Mcv
 type: biomarker
-updated: '2026-02-13T19:38:04.906736Z'
+updated: '2026-03-12T06:00:31.994468Z'
 ---
 
 {% raw %}
@@ -26,29 +26,8 @@ updated: '2026-02-13T19:38:04.906736Z'
 <li><strong>Fasting Required</strong>: False</li>
 <li><strong>Recommended Test Frequency</strong>: Not specified</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/mcv/" class="internal-link">Mcv</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:14.849265'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<h3>Influences</h3>
-<p>No known influences documented.</p>
-<h3>Correlations</h3>
-<p>No correlations documented.</p>
-<h3>Other Relationships</h3>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/mcv/" class="internal-link">Mcv</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:23.418507'
-source: obsidian
-</code></pre>
+<p>No relationships found.</p>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <p>No supplement effects documented yet. Add effects in the respective supplement notes.</p>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>

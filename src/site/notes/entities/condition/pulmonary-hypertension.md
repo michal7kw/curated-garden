@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.916735Z'
+created: '2026-03-12T06:00:32.566554Z'
 description: A type of high blood pressure that affects the arteries in the lungs
   and the right side of the heart.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/pulmonary-hypertension/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/pulmonary-hypertension/
 slug: pulmonary-hypertension
 tags:
 - condition
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Pulmonary Hypertension
 type: condition
-updated: '2026-02-13T19:38:05.916735Z'
+updated: '2026-03-12T06:00:32.566554Z'
 ---
 
 {% raw %}
@@ -30,31 +30,8 @@ updated: '2026-02-13T19:38:05.916735Z'
 <li><strong>Group 4:</strong> Chronic Thromboembolic Pulmonary Hypertension (CTEPH).</li>
 <li><strong>Group 5:</strong> Unclear/multifactorial mechanisms.</li>
 </ol>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/pulmonary-hypertension/" class="internal-link">Pulmonary_Hypertension</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:51.590434'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/pulmonary-hypertension/" class="internal-link">Pulmonary_Hypertension</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:56.705736'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/heart-failure/" class="internal-link">Heart Failure</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/chronic-obstructive-pulmonary-disease/" class="internal-link">Chronic Obstructive Pulmonary Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Sleep Apnea</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Lung</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Heart</a><br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Sildenafil</a><br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Bosentan</a><br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Epoprostenol</a></p>
+<p>No relationships found.</p>
 <h2>References</h2>
 <ul>
 <li>Galie, N., et al. (2016). ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension. European Heart Journal.</li>

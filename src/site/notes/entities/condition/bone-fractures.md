@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.407213Z'
+created: '2026-03-12T06:00:32.286560Z'
 description: A complete or partial break in the continuity of bone tissue, usually
   caused by trauma or underlying disease.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/bone-fractures/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/bone-fractures/
 slug: bone-fractures
 tags:
 - condition
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Bone Fractures
 type: condition
-updated: '2026-02-13T19:38:05.407213Z'
+updated: '2026-03-12T06:00:32.286560Z'
 ---
 
 {% raw %}
@@ -30,32 +30,9 @@ updated: '2026-02-13T19:38:05.407213Z'
 <li><strong>Greenstick:</strong> Incomplete break (common in children).</li>
 <li><strong>Stress:</strong> Hairline crack from overuse.</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/bone-fractures/" class="internal-link">Bone_Fractures</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:32.356629'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/bone-fractures/" class="internal-link">Bone_Fractures</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:26.355558'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Trauma</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/osteoporosis/" class="internal-link">Osteoporosis</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Osteopenia</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Bone Cancer</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Bone</a><br />
-TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Immobilization</a> - Casting/Splinting.<br />
-TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Surgery</a> - ORIF (Open Reduction Internal Fixation).<br />
-REQUIRES_COFACTOR::<a href="/garden/dev_admin/labtest/calcium/" class="internal-link">Calcium</a> - For healing.<br />
-REQUIRES_COFACTOR::<a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">Vitamin D</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/bone-fractures/" class="internal-link">Bone_Fractures</a></p>
 <h2>References</h2>
 <ul>
 <li>American Academy of Orthopaedic Surgeons (AAOS). Fractures (Broken Bones).</li>

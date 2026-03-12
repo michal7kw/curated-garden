@@ -1,16 +1,16 @@
 ---
-created: '2026-02-13T19:38:05.554742Z'
+created: '2026-03-12T06:00:32.374181Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/fever/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/fever/
 slug: fever
 tags:
 - condition
 templateEngineOverride: njk
 title: Fever
 type: condition
-updated: '2026-02-13T19:38:05.554742Z'
+updated: '2026-03-12T06:00:32.374181Z'
 ---
 
 {% raw %}
@@ -32,13 +32,6 @@ SORT confidence_score DESC
 </code></pre>
 <h2>Other Relationships</h2>
 <h3>Treats</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/drug/dexibuprofen/" class="internal-link">DEXIBUPROFEN</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">created_at: '2025-12-16T18:56:20.196353'
-max_phase: '3.0'
-source: ChEMBL
-</code></pre>
 <h2>Research</h2>
 <h3>Recent Studies</h3>
 <pre><code class="language-dataview">LIST
@@ -53,5 +46,6 @@ SORT date DESC
 </code></pre>
 <h2>References</h2>
 <p>No references available.</p>
+<h2>Relationships</h2>
 
 {% endraw %}

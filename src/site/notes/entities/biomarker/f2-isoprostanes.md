@@ -1,19 +1,19 @@
 ---
-created: '2026-02-13T19:38:04.789416Z'
+created: '2026-03-12T06:00:31.909718Z'
 description: F2-Isoprostanes are prostaglandin-like compounds formed by free radical-mediated
   peroxidation of arachidonic acid. They are considered the gold standard biomarker
   of in vivo oxidative stress and lipid peroxidation.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/f2-isoprostanes/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/f2-isoprostanes/
 slug: f2-isoprostanes
 tags:
 - biomarker
 templateEngineOverride: njk
 title: F2 Isoprostanes
 type: biomarker
-updated: '2026-02-13T19:38:04.789416Z'
+updated: '2026-03-12T06:00:31.909718Z'
 ---
 
 {% raw %}
@@ -63,9 +63,9 @@ updated: '2026-02-13T19:38:04.789416Z'
 </ul>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
-<li><a href="/garden/dev_admin/supplement/vitamin-e/" class="internal-link">Vitamin E</a> - Decreases F2-IsoPs as primary lipophilic chain-breaking antioxidant (moderate effect, evidence level 2)</li>
-<li><a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin C</a> - Decreases through aqueous-phase radical scavenging (moderate effect, evidence level 3)</li>
-<li><a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> - May decrease by competing with arachidonic acid (moderate effect, evidence level 3)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/vitamin-e/" class="internal-link">Vitamin E</a> - Decreases F2-IsoPs as primary lipophilic chain-breaking antioxidant (moderate effect, evidence level 2)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/vitamin-c/" class="internal-link">Vitamin C</a> - Decreases through aqueous-phase radical scavenging (moderate effect, evidence level 3)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> - May decrease by competing with arachidonic acid (moderate effect, evidence level 3)</li>
 <li><a class="internal-link is-unresolved" href="/404">CoQ10</a> - Protects mitochondrial membranes from peroxidation (mild effect, evidence level 3)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
@@ -75,19 +75,15 @@ updated: '2026-02-13T19:38:04.789416Z'
 <li>8-iso-Prostaglandin F2α urine test - Urinary measurement (less invasive)</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Correlations</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/oxidized-ldl/" class="internal-link">Oxidized LDL</a> (biomarker) - Both reflect lipid peroxidation</li>
-<li>→ <a href="/garden/dev_admin/labtest/glutathione/" class="internal-link">Glutathione</a> (biomarker) - Low glutathione associated with high F2-IsoPs</li>
-<li>→ <a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a> (biomarker) - Oxidative stress promotes inflammation</li>
-<li>→ <a href="/garden/dev_admin/biomarker/mpo/" class="internal-link">MPO</a> (biomarker) - MPO generates oxidants that form isoprostanes</li>
-</ul>
 <h3>Related Conditions</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> (condition)</li>
-<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition)</li>
-<li>→ <a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a> (condition)</li>
-</ul>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/diabetes/" class="internal-link">Diabetes</a></p>
+<h3>Correlations</h3>
+<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/oxidized-ldl/" class="internal-link">Oxidized_LDL</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/mpo/" class="internal-link">MPO</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs_Crp</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/glutathione/" class="internal-link">Glutathione</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:11511309 - Roberts &amp; Morrow (2000) Measurement of F2-isoprostanes as index of oxidative stress</li>

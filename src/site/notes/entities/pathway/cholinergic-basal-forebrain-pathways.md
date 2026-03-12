@@ -1,16 +1,16 @@
 ---
-created: '2026-02-13T19:38:07.797541Z'
+created: '2026-03-12T06:00:33.714758Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/pathway/cholinergic-basal-forebrain-pathways/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/pathway/cholinergic-basal-forebrain-pathways/
 slug: cholinergic-basal-forebrain-pathways
 tags:
 - pathway
 templateEngineOverride: njk
 title: Cholinergic Basal Forebrain Pathways
 type: pathway
-updated: '2026-02-13T19:38:07.797541Z'
+updated: '2026-03-12T06:00:33.714758Z'
 ---
 
 {% raw %}
@@ -414,5 +414,9 @@ updated: '2026-02-13T19:38:07.797541Z'
 </ul>
 <h2>Summary</h2>
 <p>The cholinergic basal forebrain pathways originate from the nucleus basalis of Meynert and other basal forebrain nuclei, projecting widely to cortex and hippocampus to enhance attention, memory encoding, and cortical arousal. These pathways degenerate severely in Alzheimer's disease (~80% neuron loss in nucleus basalis), causing progressive memory loss and cognitive decline. Cholinesterase inhibitors (donepezil, rivastigmine, galantamine) provide modest symptomatic benefit by increasing synaptic acetylcholine, but do not slow disease progression. Chronic use of anticholinergic medications (antihistamines, sleep aids, overactive bladder drugs) impairs cognition acutely and increases long-term dementia risk. Evidence-based supplements that may support cholinergic function include alpha-GPC (choline source for ACh synthesis, 3/5), citicoline (supports ACh and membranes, 3/5), huperzine A (natural AChE inhibitor, 3/5 - avoid with prescription ChEIs), and Bacopa monnieri (memory enhancement, 4/5). Lifestyle interventions prioritizing mental stimulation, physical exercise, Mediterranean diet, adequate dietary choline, avoiding anticholinergic medications, and early treatment of cognitive decline are foundational for maintaining healthy cholinergic function and reducing Alzheimer's disease risk.</p>
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 
 {% endraw %}

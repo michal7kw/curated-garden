@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:06.197444Z'
+created: '2026-03-12T06:00:32.730483Z'
 description: A long-acting form of Penicillin G combined with procaine to slow absorption
   and reduce injection site pain.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/drug/procaine-benzylpenicillin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/drug/procaine-benzylpenicillin/
 slug: procaine-benzylpenicillin
 tags:
 - drug
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Procaine Benzylpenicillin
 type: drug
-updated: '2026-02-13T19:38:06.197444Z'
+updated: '2026-03-12T06:00:32.730483Z'
 ---
 
 {% raw %}
@@ -29,16 +29,8 @@ updated: '2026-02-13T19:38:06.197444Z'
 <li><strong>Diphtheria Carrier State.</strong></li>
 <li><strong>Uncomplicated Pneumonia.</strong></li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <p>No relationships found.</p>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>TREATS_CONDITION::<a class="internal-link is-unresolved" href="/404">Syphilis</a><br />
-TREATS_CONDITION::<a href="/garden/dev_admin/condition/pneumonia/" class="internal-link">Pneumonia</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/bacterial-infections/" class="internal-link">Bacterial Infections</a><br />
-DRUG_CONTAINS_COMPOUND::<a href="/garden/dev_admin/drug/penicillin-g/" class="internal-link">Penicillin G</a><br />
-DRUG_CONTAINS_COMPOUND::<a class="internal-link is-unresolved" href="/404">Procaine</a></p>
 <h2>References</h2>
 <ul>
 <li>Wikipedia. Procaine benzylpenicillin.</li>

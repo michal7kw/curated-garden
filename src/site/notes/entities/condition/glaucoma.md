@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.580914Z'
+created: '2026-03-12T06:00:32.387265Z'
 description: A group of eye conditions that damage the optic nerve, often caused by
   abnormally high pressure in the eye, leading to progressive vision loss.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/glaucoma/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/glaucoma/
 slug: glaucoma
 tags:
 - condition
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Glaucoma
 type: condition
-updated: '2026-02-13T19:38:05.580914Z'
+updated: '2026-03-12T06:00:32.387265Z'
 ---
 
 {% raw %}
@@ -37,12 +37,6 @@ SORT confidence_score DESC
 </code></pre>
 <h2>Other Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/glaucoma/" class="internal-link">Glaucoma</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:08.276896'
-source: obsidian
-</code></pre>
 <h2>Research</h2>
 <h3>Recent Studies</h3>
 <pre><code class="language-dataview">LIST
@@ -55,28 +49,9 @@ SORT date DESC
 FROM [[Glaucoma]] AND #clinical-trial
 SORT date DESC
 </code></pre>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/examination/retinal-imaging-for-neurodegeneration/" class="internal-link">Retinal_Imaging_for_Neurodegeneration</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:39.359650'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/examination/retinal-imaging-for-neurodegeneration/" class="internal-link">Retinal_Imaging_for_Neurodegeneration</a> (examination)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:45.549973'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/glaucoma/" class="internal-link">Glaucoma</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.389126'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/examination/retinal-imaging-for-neurodegeneration/" class="internal-link">Retinal_Imaging_for_Neurodegeneration</a></p>
 <h2>References</h2>
 <p>No references available.</p>
 

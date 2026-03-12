@@ -1,19 +1,19 @@
 ---
-created: '2026-02-13T19:38:05.140736Z'
+created: '2026-03-12T06:00:32.187580Z'
 description: Zonulin is a protein that reversibly modulates intestinal tight junction
   permeability. Elevated serum zonulin indicates increased intestinal permeability
   and is associated with autoimmune and inflammatory conditions.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/zonulin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/zonulin/
 slug: zonulin
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Zonulin
 type: biomarker
-updated: '2026-02-13T19:38:05.140736Z'
+updated: '2026-03-12T06:00:32.187580Z'
 ---
 
 {% raw %}
@@ -69,21 +69,19 @@ updated: '2026-02-13T19:38:05.140736Z'
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
 <li><a class="internal-link is-unresolved" href="/404">L-Glutamine</a> - May decrease zonulin by supporting enterocyte tight junction integrity (moderate, evidence level 3)</li>
-<li><a href="/garden/dev_admin/supplement/zinc/" class="internal-link">Zinc</a> - May decrease zonulin by strengthening tight junction proteins (mild, evidence level 3)</li>
-<li><a href="/garden/dev_admin/supplement/probiotics/" class="internal-link">Probiotics</a> - May decrease zonulin by modulating gut microbiome and barrier function (mild, evidence level 3)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/zinc/" class="internal-link">Zinc</a> - May decrease zonulin by strengthening tight junction proteins (mild, evidence level 3)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/probiotics/" class="internal-link">Probiotics</a> - May decrease zonulin by modulating gut microbiome and barrier function (mild, evidence level 3)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li><a href="/garden/dev_admin/labtest/zonulin/" class="internal-link">zonulin</a> - Serum zonulin ELISA measurement</li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/zonulin/" class="internal-link">zonulin</a> - Serum zonulin ELISA measurement</li>
 <li><a class="internal-link is-unresolved" href="/404">zonulin stool</a> - Fecal zonulin for localized intestinal assessment</li>
 </ul>
 <h2>Relationships</h2>
 <h3>Correlations</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/calprotectin/" class="internal-link">Calprotectin</a> (biomarker) - Both indicate GI inflammation; often co-ordered</li>
-<li>→ <a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a> (biomarker) - Systemic inflammation marker correlated with gut permeability</li>
-</ul>
+<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/calprotectin/" class="internal-link">Calprotectin</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs_Crp</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:28802833 - L-Glutamine supplementation and intestinal permeability</li>

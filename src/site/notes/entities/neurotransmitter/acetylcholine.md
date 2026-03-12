@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:07.170770Z'
+created: '2026-03-12T06:00:33.669856Z'
 description: First neurotransmitter discovered, essential for learning, memory, attention,
   and muscle control. Functions in both central and peripheral nervous systems, including
   parasympathetic ("rest and digest") activation.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/neurotransmitter/acetylcholine/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/neurotransmitter/acetylcholine/
 slug: acetylcholine
 tags:
 - neurotransmitter
@@ -18,54 +18,17 @@ tags:
 templateEngineOverride: njk
 title: Acetylcholine
 type: neurotransmitter
-updated: '2026-02-13T19:38:07.170770Z'
+updated: '2026-03-12T06:00:33.669856Z'
 ---
 
 {% raw %}
 <h1>Acetylcholine</h1>
 <h2>Overview</h2>
 <p>First neurotransmitter discovered, essential for learning, memory, attention, and muscle control. Functions in both central and peripheral nervous systems, including parasympathetic (&quot;rest and digest&quot;) activation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/drug/clozapine/" class="internal-link">Clozapine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:34.799400'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/drug/donepezil/" class="internal-link">Donepezil</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:34.799400'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/drug/imipramine/" class="internal-link">Imipramine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:34.799400'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/drug/imipramine/" class="internal-link">Imipramine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.019672'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/drug/donepezil/" class="internal-link">Donepezil</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:41.406812'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/drug/clozapine/" class="internal-link">Clozapine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:40.913292'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/drug/imipramine/" class="internal-link">Imipramine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/drug/clozapine/" class="internal-link">Clozapine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/drug/donepezil/" class="internal-link">Donepezil</a></p>
 
 {% endraw %}

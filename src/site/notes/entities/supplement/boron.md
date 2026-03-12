@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:09.029955Z'
+created: '2026-03-12T06:00:34.255167Z'
 description: Trace mineral important for bone health, hormone balance, and cognitive
   function. May support testosterone levels and reduce inflammatory markers. Essential
   for calcium, magnesium, and vitamin D metabolism.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/supplement/boron/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/supplement/boron/
 slug: boron
 tags:
 - supplement
@@ -19,17 +19,13 @@ tags:
 templateEngineOverride: njk
 title: Boron
 type: supplement
-updated: '2026-02-13T19:38:09.029955Z'
+updated: '2026-03-12T06:00:34.255167Z'
 ---
 
 {% raw %}
 <h1>Boron</h1>
 <h2>Overview</h2>
 <p>Trace mineral important for bone health, hormone balance, and cognitive function. May support testosterone levels and reduce inflammatory markers. Essential for calcium, magnesium, and vitamin D metabolism.</p>
-<!-- NEO4J_CONTENT_START -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
-<!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
 <p>No relationships found.</p>
 

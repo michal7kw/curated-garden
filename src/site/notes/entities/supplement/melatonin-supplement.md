@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:09.129925Z'
+created: '2026-03-12T06:00:34.306800Z'
 description: Supplemental form of the sleep hormone melatonin. Supports sleep onset,
   jet lag, and circadian rhythm regulation. Also provides antioxidant benefits.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/supplement/melatonin-supplement/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/supplement/melatonin-supplement/
 slug: melatonin-supplement
 tags:
 - supplement
@@ -16,192 +16,31 @@ tags:
 templateEngineOverride: njk
 title: Melatonin Supplement
 type: supplement
-updated: '2026-02-13T19:38:09.129925Z'
+updated: '2026-03-12T06:00:34.306800Z'
 ---
 
 {% raw %}
 <h1>Melatonin Supplement</h1>
 <h2>Overview</h2>
 <p>Supplemental form of the sleep hormone melatonin. Supports sleep onset, jet lag, and circadian rhythm regulation. Also provides antioxidant benefits.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Pineal_Gland</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.028484'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/hormone/melatonin/" class="internal-link">Melatonin</a> (hormone)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.028484'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a> (organ)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.028484'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.028484'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/l-theanine/" class="internal-link">L-Theanine</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.028484'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/gaba/" class="internal-link">GABA</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.028484'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/glycine/" class="internal-link">Glycine</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:39.028484'
-source: obsidian
-</code></pre>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Pineal_Gland</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/glycine/" class="internal-link">Glycine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/l-theanine/" class="internal-link">L-Theanine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/magnesium/" class="internal-link">Magnesium</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/gaba/" class="internal-link">GABA</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Melatonin</a></p>
 <h3>Synergistic With</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/glycine/" class="internal-link">Glycine</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:23.056323'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/gaba/" class="internal-link">GABA</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:23.031973'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/l-theanine/" class="internal-link">L-Theanine</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:23.007719'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:22.981919'
-source: obsidian
-</code></pre>
+<p>SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/glycine/" class="internal-link">Glycine</a><br />
+SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/magnesium/" class="internal-link">Magnesium</a><br />
+SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/gaba/" class="internal-link">GABA</a><br />
+SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/l-theanine/" class="internal-link">L-Theanine</a></p>
 <h3>Affects Organ</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a> (organ)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:22.879282'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/pineal-gland/" class="internal-link">Pineal_Gland</a> (organ)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:22.905745'
-source: obsidian
-</code></pre>
+<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Pineal_Gland</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a></p>
 <h3>Mimics Hormone</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/hormone/melatonin/" class="internal-link">Melatonin</a> (hormone)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:22.934797'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<h3>Affects Organ</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/pineal-gland/" class="internal-link">Pineal_Gland</a> (organ)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:22.905745'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a> (organ)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:22.879282'
-source: obsidian
-</code></pre>
-<h3>Mimics Hormone</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/hormone/melatonin/" class="internal-link">Melatonin</a> (hormone)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:22.934797'
-source: obsidian
-</code></pre>
-<h3>Synergistic With</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:22.981919'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/l-theanine/" class="internal-link">L-Theanine</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:23.007719'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/gaba/" class="internal-link">GABA</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:23.031973'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/glycine/" class="internal-link">Glycine</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2025-12-28T11:01:23.056323'
-source: obsidian
-</code></pre>
-<h3>Related</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Pineal_Gland</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:10.203874'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/glycine/" class="internal-link">Glycine</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:10.203874'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/gaba/" class="internal-link">GABA</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:10.203874'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/l-theanine/" class="internal-link">L-Theanine</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:10.203874'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:10.203874'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a> (organ)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:10.203874'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/hormone/melatonin/" class="internal-link">Melatonin</a> (hormone)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:07:10.203874'
-source: obsidian
-</code></pre>
+<p>MIMICS::<a class="internal-link is-unresolved" href="/404">Melatonin</a></p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:38:06.840207Z'
+created: '2026-03-12T06:00:33.277105Z'
 description: meen kor-pus-kyoo-lur hee-muh-gloh-bin kon-sen-tray-shun (m-c-h-c) Tested
   twice a year Mean corpuscular hemoglobin (MCH) measures the average amount of hemoglobin—the
   protein that carries oxygen—in each red blood cell. Low MCH often points to iron
@@ -8,15 +8,15 @@ description: meen kor-pus-kyoo-lur hee-muh-gloh-bin kon-sen-tray-shun (m-c-h-c) 
   type of anemia and guide treatment.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/mean-corpuscular-hemoglobin-concentration-mchc/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/mean-corpuscular-hemoglobin-concentration-mchc/
 slug: mean-corpuscular-hemoglobin-concentration-mchc
 tags:
 - labtest
 templateEngineOverride: njk
 title: mean_corpuscular_hemoglobin_concentration_mchc
 type: labtest
-updated: '2026-02-13T19:38:06.840207Z'
+updated: '2026-03-12T06:00:33.277105Z'
 ---
 
 {% raw %}
@@ -61,114 +61,28 @@ updated: '2026-02-13T19:38:06.840207Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li><a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Thalassemia</a></li>
-<li><a href="/garden/dev_admin/condition/hereditary-spherocytosis/" class="internal-link">Hereditary Spherocytosis</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/hereditary-spherocytosis/" class="internal-link">Hereditary Spherocytosis</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Autoimmune Hemolytic Anemia</a></li>
-<li><a href="/garden/dev_admin/condition/sickle-cell-disease/" class="internal-link">Sickle Cell Disease</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/sickle-cell-disease/" class="internal-link">Sickle Cell Disease</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/sickle-cell-disease/" class="internal-link">Sickle_Cell_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:20.439028'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:20.439028'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/hereditary-spherocytosis/" class="internal-link">Hereditary_Spherocytosis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:20.439028'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Autoimmune_Hemolytic_Anemia</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:20.439028'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Autoimmune_Hemolytic_Anemia</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.923847'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Thalassemia</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.923847'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/hereditary-spherocytosis/" class="internal-link">Hereditary_Spherocytosis</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.923847'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.923847'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/sickle-cell-disease/" class="internal-link">Sickle_Cell_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:56.923847'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/sickle-cell-disease/" class="internal-link">Sickle_Cell_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:37.564852'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.669493'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/hereditary-spherocytosis/" class="internal-link">Hereditary_Spherocytosis</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.032147'
-source: obsidian
-</code></pre>
 <h3>May Detect</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/sickle-cell-disease/" class="internal-link">Sickle_Cell_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/hereditary-spherocytosis/" class="internal-link">Hereditary_Spherocytosis</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/sickle-cell-disease/" class="internal-link">Sickle_Cell_Disease</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/hereditary-spherocytosis/" class="internal-link">Hereditary_Spherocytosis</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a></p>
+<h3>Related</h3>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/sickle-cell-disease/" class="internal-link">Sickle_Cell_Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/hereditary-spherocytosis/" class="internal-link">Hereditary_Spherocytosis</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Thalassemia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Autoimmune_Hemolytic_Anemia</a></p>
+<h3>Conditions</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/hereditary-spherocytosis/" class="internal-link">Hereditary_Spherocytosis</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/sickle-cell-disease/" class="internal-link">Sickle_Cell_Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

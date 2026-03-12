@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:38:06.859562Z'
+created: '2026-03-12T06:00:33.289772Z'
 description: Mercury is a heavy metal that can be toxic in high amounts. Exposure
   most often happens from eating seafood high in methylmercury (tuna, swordfish, and
   shark), from breathing in mercury vapor from broken thermometers or fluorescent
@@ -9,8 +9,8 @@ description: Mercury is a heavy metal that can be toxic in high amounts. Exposur
   can be taken to lower risk or prevent further harm.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/mercury/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/mercury/
 slug: mercury
 tags:
 - labtest
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: mercury
 type: labtest
-updated: '2026-02-13T19:38:06.859562Z'
+updated: '2026-03-12T06:00:33.289772Z'
 ---
 
 {% raw %}
@@ -66,134 +66,30 @@ updated: '2026-02-13T19:38:06.859562Z'
 <ul>
 <li><a class="internal-link is-unresolved" href="/404">Peripheral Neuropathy And Neurotoxicity</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Cognitive Impairment</a></li>
-<li><a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Hypertension And Cardiovascular Dysfunction</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Immune Dysfunction</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.160053'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Peripheral_Neuropathy_And_Neurotoxicity</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.160053'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Immune_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.160053'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Hypertension_And_Cardiovascular_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.160053'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Cognitive_Impairment</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.160053'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Cognitive_Impairment</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.260215'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Hypertension_And_Cardiovascular_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.260215'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Immune_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.260215'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Peripheral_Neuropathy_And_Neurotoxicity</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.260215'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.260215'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtestpanel/forever-chemicals-pfas-exposure/" class="internal-link">forever_chemicals_pfas_exposure</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:04.374771'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtestpanel/extended-heavy-metals/" class="internal-link">extended_heavy_metals</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.172630'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtestpanel/bisphenol-a-bpa-exposure/" class="internal-link">bisphenol_a_bpa_exposure</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.222515'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/forever-chemicals-pfas-exposure/" class="internal-link">forever_chemicals_pfas_exposure</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.160053'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/bisphenol-a-bpa-exposure/" class="internal-link">bisphenol_a_bpa_exposure</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.160053'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/extended-heavy-metals/" class="internal-link">extended_heavy_metals</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.160053'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.198940'
-source: obsidian
-</code></pre>
-<h3>May Detect</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
 <h3>Included In</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/forever-chemicals-pfas-exposure/" class="internal-link">forever_chemicals_pfas_exposure</a> (labtestpanel)</li>
-<li>→ <a href="/garden/dev_admin/labtestpanel/extended-heavy-metals/" class="internal-link">extended_heavy_metals</a> (labtestpanel)</li>
-<li>→ <a href="/garden/dev_admin/labtestpanel/bisphenol-a-bpa-exposure/" class="internal-link">bisphenol_a_bpa_exposure</a> (labtestpanel)</li>
-</ul>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">forever_chemicals_pfas_exposure</a><br />
+INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">bisphenol_a_bpa_exposure</a><br />
+INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">extended_heavy_metals</a></p>
+<h3>Conditions</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a></p>
+<h3>Related</h3>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Cognitive_Impairment</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">extended_heavy_metals</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">bisphenol_a_bpa_exposure</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">forever_chemicals_pfas_exposure</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Peripheral_Neuropathy_And_Neurotoxicity</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hypertension_And_Cardiovascular_Dysfunction</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Immune_Dysfunction</a></p>
+<h3>May Detect</h3>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

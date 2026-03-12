@@ -1,13 +1,13 @@
 ---
-created: '2026-02-13T19:38:08.826239Z'
+created: '2026-03-12T06:00:34.139258Z'
 description: Peroxisome proliferator-activated receptor gamma coactivator 1-alpha,
   the master regulator of mitochondrial biogenesis. A transcriptional coactivator
   that coordinates the expression of genes involved in energy metabolism, oxidative
   phosphorylation, and adaptive thermogenesis.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/protein/pgc-1alpha/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/protein/pgc-1alpha/
 slug: pgc-1alpha
 tags:
 - protein
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: PGC-1alpha
 type: protein
-updated: '2026-02-13T19:38:08.826239Z'
+updated: '2026-03-12T06:00:34.139258Z'
 ---
 
 {% raw %}
@@ -177,23 +177,23 @@ updated: '2026-02-13T19:38:08.826239Z'
 </thead>
 <tbody>
 <tr>
-<td><strong><a href="/garden/dev_admin/supplement/pqq/" class="internal-link">PQQ</a></strong></td>
+<td><strong><a href="/garden/michal.k7w@gmail.com/supplement/pqq/" class="internal-link">PQQ</a></strong></td>
 <td>Directly induces PGC-1α expression</td>
 </tr>
 <tr>
-<td><strong><a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a></strong> / <strong><a href="/garden/dev_admin/supplement/nicotinamide-riboside/" class="internal-link">Nicotinamide Riboside</a></strong></td>
+<td><strong><a href="/garden/michal.k7w@gmail.com/supplement/nmn/" class="internal-link">NMN</a></strong> / <strong><a href="/garden/michal.k7w@gmail.com/supplement/nicotinamide-riboside/" class="internal-link">Nicotinamide Riboside</a></strong></td>
 <td>Increases NAD+ → SIRT1 activation → PGC-1α deacetylation</td>
 </tr>
 <tr>
-<td><strong><a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a></strong></td>
+<td><strong><a href="/garden/michal.k7w@gmail.com/supplement/resveratrol/" class="internal-link">Resveratrol</a></strong></td>
 <td>Activates SIRT1 → PGC-1α deacetylation</td>
 </tr>
 <tr>
-<td><strong><a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a></strong></td>
+<td><strong><a href="/garden/michal.k7w@gmail.com/supplement/berberine/" class="internal-link">Berberine</a></strong></td>
 <td>Activates AMPK → PGC-1α phosphorylation</td>
 </tr>
 <tr>
-<td><strong><a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a></strong></td>
+<td><strong><a href="/garden/michal.k7w@gmail.com/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a></strong></td>
 <td>May activate AMPK pathway</td>
 </tr>
 <tr>
@@ -202,121 +202,15 @@ updated: '2026-02-13T19:38:08.826239Z'
 </tr>
 </tbody>
 </table>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:53.933138'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/pqq/" class="internal-link">PQQ</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:53.580760'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:52.527979'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:42:47.821091'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/nicotinamide-riboside/" class="internal-link">Nicotinamide_Riboside</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:49:02.391047'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:49:02.391047'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:49:02.391047'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/nicotinamide-riboside/" class="internal-link">Nicotinamide_Riboside</a> (metabolite)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:34.490822'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:56.150744'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:19.549791'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/nicotinamide-riboside/" class="internal-link">Nicotinamide_Riboside</a> (metabolite)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.809686'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.809686'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.809686'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.809686'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/pqq/" class="internal-link">PQQ</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.809686'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:31.809686'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>ACTIVATED_BY::<a href="/garden/dev_admin/protein/sirt1/" class="internal-link">SIRT1</a> - NAD+-dependent deacetylation<br />
-ACTIVATED_BY::<a href="/garden/dev_admin/protein/ampk/" class="internal-link">AMPK</a> - Phosphorylation and activation<br />
-ACTIVATED_BY::<a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a> - Primary physiological activator<br />
-ACTIVATED_BY::<a href="/garden/dev_admin/intervention/cold-exposure/" class="internal-link">Cold Exposure</a> - Thermogenic activation<br />
-ACTIVATED_BY::<a href="/garden/dev_admin/supplement/pqq/" class="internal-link">PQQ</a> - Direct transcriptional induction<br />
-ACTIVATED_BY::<a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a> - Via SIRT1<br />
-COACTIVATES::<a class="internal-link is-unresolved" href="/404">NRF1</a> - Mitochondrial gene transcription<br />
-COACTIVATES::<a href="/garden/dev_admin/protein/tfam/" class="internal-link">TFAM</a> - Via NRF1 induction<br />
-INDUCES::<a class="internal-link is-unresolved" href="/404">Mitochondrial Biogenesis</a> - Master regulator<br />
-PARTICIPATES_IN_PATHWAY::<a href="/garden/dev_admin/pathway/gluconeogenesis/" class="internal-link">Gluconeogenesis</a> - Hepatic activation<br />
-REGULATES::<a href="/garden/dev_admin/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative Phosphorylation</a> - OXPHOS gene expression<br />
-RELATED_TO::<a class="internal-link is-unresolved" href="/404">NAD+</a> - Activity linked to NAD+ levels<br />
-RELATED_TO::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> - Biogenesis regulator<br />
-ENCODED_BY::<a class="internal-link is-unresolved" href="/404">PPARGC1A</a> - Gene encoding</p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/nicotinamide-riboside/" class="internal-link">Nicotinamide_Riboside</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/pqq/" class="internal-link">PQQ</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/resveratrol/" class="internal-link">Resveratrol</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/berberine/" class="internal-link">Berberine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/nmn/" class="internal-link">NMN</a></p>
 <h2>References</h2>
 <ul>
 <li>Puigserver P, Spiegelman BM. Peroxisome proliferator-activated receptor-gamma coactivator 1 alpha (PGC-1 alpha): transcriptional coactivator and metabolic regulator. Endocr Rev. 2003;24(1):78-90. PMID: 12588810</li>

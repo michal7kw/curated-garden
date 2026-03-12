@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:38:08.970305Z'
+created: '2026-03-12T06:00:34.221683Z'
 description: In a randomized, placebo-controlled, double-blind trial, NMN supplementation
   (250 mg/day for 10 weeks) increased skeletal muscle insulin sensitivity, insulin
   signaling, and muscle remodeling in postmenopausal prediabetic women. This represents
@@ -7,8 +7,8 @@ description: In a randomized, placebo-controlled, double-blind trial, NMN supple
   metabolic dysfunction.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/research/nmn-improves-muscle-insulin-sensitivity-in-prediabetic-women/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/research/nmn-improves-muscle-insulin-sensitivity-in-prediabetic-women/
 slug: nmn-improves-muscle-insulin-sensitivity-in-prediabetic-women
 tags:
 - research
@@ -22,7 +22,7 @@ tags:
 templateEngineOverride: njk
 title: NMN improves muscle insulin sensitivity in prediabetic women
 type: research
-updated: '2026-02-13T19:38:08.970305Z'
+updated: '2026-03-12T06:00:34.221683Z'
 ---
 
 {% raw %}
@@ -36,10 +36,8 @@ updated: '2026-02-13T19:38:08.970305Z'
 <p>In a randomized, placebo-controlled, double-blind trial, NMN supplementation (250 mg/day for 10 weeks) increased skeletal muscle insulin sensitivity, insulin signaling, and muscle remodeling in postmenopausal prediabetic women. This represents a significant translational study demonstrating NAD+ precursor efficacy in human metabolic dysfunction.</p>
 <h2>Keywords</h2>
 <p>NMN, NAD+, insulin sensitivity, skeletal muscle, aging, prediabetes, metabolic health, SIRT1</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <p>No relationships found.</p>
-<!-- NEO4J_CONTENT_END -->
 <h2>Methodology</h2>
 <pre><code class="language-yaml">'{&quot;blinding&quot;: &quot;Double-blind (participants and investigators)&quot;, &quot;design&quot;: &quot;Randomized,
   placebo-controlled, double-blind trial&quot;, &quot;intervention&quot;: &quot;250 mg/day NMN or placebo

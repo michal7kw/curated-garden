@@ -1,20 +1,20 @@
 ---
-created: '2026-02-13T19:38:04.972965Z'
+created: '2026-03-12T06:00:32.061680Z'
 description: Procollagen type I N-terminal propeptide is the most sensitive marker
   of bone formation. It is cleaved from type I collagen during bone synthesis and
   reflects osteoblast activity. Used to monitor osteoporosis treatment response and
   assess bone turnover.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/p1np/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/p1np/
 slug: p1np
 tags:
 - biomarker
 templateEngineOverride: njk
 title: P1NP
 type: biomarker
-updated: '2026-02-13T19:38:04.972965Z'
+updated: '2026-03-12T06:00:32.061680Z'
 ---
 
 {% raw %}
@@ -64,9 +64,9 @@ updated: '2026-02-13T19:38:04.972965Z'
 </ul>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
-<li><a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">Vitamin D</a> - Increases P1NP by supporting osteoblast function (moderate effect, evidence level 2)</li>
-<li><a href="/garden/dev_admin/labtest/calcium/" class="internal-link">Calcium</a> - Supports bone formation when adequate (moderate effect, evidence level 2)</li>
-<li><a href="/garden/dev_admin/supplement/vitamin-k2/" class="internal-link">Vitamin K2</a> - Supports osteocalcin carboxylation and bone formation (mild effect, evidence level 3)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/vitamin-d/" class="internal-link">Vitamin D</a> - Increases P1NP by supporting osteoblast function (moderate effect, evidence level 2)</li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/calcium/" class="internal-link">Calcium</a> - Supports bone formation when adequate (moderate effect, evidence level 2)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/vitamin-k2/" class="internal-link">Vitamin K2</a> - Supports osteocalcin carboxylation and bone formation (mild effect, evidence level 3)</li>
 <li><a class="internal-link is-unresolved" href="/404">Collagen Peptides</a> - May increase P1NP through providing collagen precursors (mild effect, evidence level 3)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
@@ -77,19 +77,15 @@ updated: '2026-02-13T19:38:04.972965Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Correlations</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/osteocalcin/" class="internal-link">Osteocalcin</a> (biomarker) - Both are bone formation markers (complementary)</li>
-<li>→ <a href="/garden/dev_admin/labtest/ctx/" class="internal-link">CTX</a> (biomarker) - Formation vs resorption; ratio indicates bone balance</li>
-<li>→ <a href="/garden/dev_admin/biomarker/alkaline-phosphatase/" class="internal-link">Alkaline Phosphatase</a> (biomarker) - ALP partly reflects bone-specific formation</li>
-<li>→ <a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">Vitamin D</a> (biomarker) - Vitamin D status affects bone formation rate</li>
-<li>→ <a href="/garden/dev_admin/labtest/calcium/" class="internal-link">Calcium</a> (biomarker) - Calcium homeostasis linked to bone turnover</li>
-</ul>
+<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-d/" class="internal-link">Vitamin_D</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/osteocalcin/" class="internal-link">Osteocalcin</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/alkaline-phosphatase/" class="internal-link">Alkaline_Phosphatase</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/ctx/" class="internal-link">CTX</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/calcium/" class="internal-link">Calcium</a></p>
 <h3>Related Conditions</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/osteoporosis/" class="internal-link">Osteoporosis</a> (condition)</li>
-<li>→ <a href="/garden/dev_admin/condition/osteopenia/" class="internal-link">Osteopenia</a> (condition)</li>
-<li>→ <a href="/garden/dev_admin/condition/pagets-disease/" class="internal-link">Paget's Disease</a> (condition)</li>
-</ul>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Pagets_Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Osteopenia</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/osteoporosis/" class="internal-link">Osteoporosis</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:21118827 - Vasikaran et al. (2011) IOF-IFCC bone turnover markers</li>

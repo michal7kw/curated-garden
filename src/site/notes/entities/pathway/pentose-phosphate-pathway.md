@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:07.996703Z'
+created: '2026-03-12T06:00:33.886704Z'
 description: A metabolic pathway parallel to glycolysis that generates NADPH for biosynthesis
   and antioxidant defense, and ribose-5-phosphate for nucleotide synthesis. Essential
   for rapidly dividing cells and cells requiring high antioxidant capacity.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/pathway/pentose-phosphate-pathway/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/pathway/pentose-phosphate-pathway/
 slug: pentose-phosphate-pathway
 tags:
 - pathway
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Pentose Phosphate Pathway
 type: pathway
-updated: '2026-02-13T19:38:07.996703Z'
+updated: '2026-03-12T06:00:33.886704Z'
 ---
 
 {% raw %}
@@ -165,11 +165,11 @@ updated: '2026-02-13T19:38:07.996703Z'
 <td>Cofactor for transketolase</td>
 </tr>
 <tr>
-<td><strong><a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a></strong></td>
+<td><strong><a href="/garden/michal.k7w@gmail.com/supplement/nac/" class="internal-link">NAC</a></strong></td>
 <td>Requires NADPH for glutathione synthesis</td>
 </tr>
 <tr>
-<td><strong><a href="/garden/dev_admin/labtest/glutathione/" class="internal-link">Glutathione</a></strong></td>
+<td><strong><a href="/garden/michal.k7w@gmail.com/labtest/glutathione/" class="internal-link">Glutathione</a></strong></td>
 <td>Requires NADPH for regeneration</td>
 </tr>
 <tr>
@@ -178,46 +178,12 @@ updated: '2026-02-13T19:38:07.996703Z'
 </tr>
 </tbody>
 </table>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Thiamine</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.802349'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Riboflavin</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.802349'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/nac/" class="internal-link">NAC</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.802349'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/glutathione/" class="internal-link">Glutathione</a> (metabolite)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.802349'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>BRANCHES_FROM::<a href="/garden/dev_admin/pathway/glycolysis/" class="internal-link">Glycolysis</a> - At glucose-6-phosphate<br />
-PRODUCES::<a class="internal-link is-unresolved" href="/404">NADPH</a> - Two per glucose-6-P oxidized<br />
-PRODUCES::<a class="internal-link is-unresolved" href="/404">Ribose-5-phosphate</a> - For nucleotide synthesis<br />
-FEEDS_BACK_TO::<a href="/garden/dev_admin/pathway/glycolysis/" class="internal-link">Glycolysis</a> - Via F-6-P and G-3-P<br />
-SUPPORTS::<a href="/garden/dev_admin/labtest/glutathione/" class="internal-link">Glutathione</a> - NADPH for regeneration<br />
-SUPPORTS::<a class="internal-link is-unresolved" href="/404">Fatty Acid Synthesis</a> - NADPH source<br />
-LOCATED_IN::<a class="internal-link is-unresolved" href="/404">Cytosol</a> - Cytoplasmic pathway<br />
-REQUIRES_COFACTOR::<a class="internal-link is-unresolved" href="/404">Thiamine</a> - For transketolase<br />
-KEY_ENZYME::<a class="internal-link is-unresolved" href="/404">G6PD</a> - Rate-limiting enzyme<br />
-RELATED_TO::<a class="internal-link is-unresolved" href="/404">NAD+</a> - Different coenzyme pool (NADP+)<br />
-AFFECTED_BY::<a href="/garden/dev_admin/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a> - Increases flux</p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Thiamine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Riboflavin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/nac/" class="internal-link">NAC</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/glutathione/" class="internal-link">Glutathione</a></p>
 <h2>References</h2>
 <ul>
 <li>Stanton RC. Glucose-6-phosphate dehydrogenase, NADPH, and cell survival. IUBMB Life. 2012;64(5):362-9. PMID: 22431005</li>

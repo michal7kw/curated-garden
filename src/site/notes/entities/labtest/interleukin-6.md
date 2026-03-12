@@ -1,20 +1,20 @@
 ---
-created: '2026-02-13T19:38:06.733170Z'
+created: '2026-03-12T06:00:33.177196Z'
 description: Interleukin-6 (IL-6) is a pro-inflammatory cytokine test that measures
   the level of IL-6 in blood. IL-6 is a key mediator of the acute-phase response and
   is elevated in infections, autoimmune conditions, cardiovascular disease, and various
   cancers. It stimulates hepatic production of CRP and other acute-phase proteins.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/interleukin-6/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/interleukin-6/
 slug: interleukin-6
 tags:
 - labtest
 templateEngineOverride: njk
 title: interleukin_6
 type: labtest
-updated: '2026-02-13T19:38:06.733170Z'
+updated: '2026-03-12T06:00:33.177196Z'
 ---
 
 {% raw %}
@@ -100,20 +100,18 @@ updated: '2026-02-13T19:38:06.733170Z'
 <ul>
 <li><a class="internal-link is-unresolved" href="/404">Rheumatoid Arthritis</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Sepsis</a></li>
-<li><a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Castleman Disease</a></li>
-<li><a href="/garden/dev_admin/condition/systemic-lupus-erythematosus/" class="internal-link">Systemic Lupus Erythematosus</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/systemic-lupus-erythematosus/" class="internal-link">Systemic Lupus Erythematosus</a></li>
 </ul>
 <h2>Relationships</h2>
-<h3>Measures</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/interleukin-6/" class="internal-link">Interleukin 6</a> (biomarker)</li>
-</ul>
 <h3>Included In</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/cytokine-panel/" class="internal-link">cytokine panel</a> (labtestpanel)</li>
-<li>→ <a href="/garden/dev_admin/labtestpanel/advanced-inflammation-panel/" class="internal-link">advanced inflammation panel</a> (labtestpanel)</li>
-</ul>
+<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">advanced_inflammation_panel</a><br />
+INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtest/cytokine-panel/" class="internal-link">cytokine_panel</a></p>
+<h3>Conditions</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/systemic-lupus-erythematosus/" class="internal-link">Systemic_Lupus_Erythematosus</a></p>
+<h3>Measures</h3>
+<p>MEASURES::<a href="/garden/michal.k7w@gmail.com/labtest/interleukin-6/" class="internal-link">Interleukin_6</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

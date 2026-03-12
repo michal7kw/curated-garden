@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.879773Z'
+created: '2026-03-12T06:00:32.543362Z'
 description: Infections caused by the bacterium Streptococcus pneumoniae, ranging
   from ear and sinus infections to pneumonia and bloodstream infections.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/pneumococcal-infections/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/pneumococcal-infections/
 slug: pneumococcal-infections
 tags:
 - condition
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Pneumococcal Infections
 type: condition
-updated: '2026-02-13T19:38:05.879773Z'
+updated: '2026-03-12T06:00:32.543362Z'
 ---
 
 {% raw %}
@@ -27,32 +27,8 @@ updated: '2026-02-13T19:38:05.879773Z'
 <li><strong>Non-Invasive:</strong> Otitis media, Sinusitis.</li>
 <li><strong>Invasive:</strong> Pneumonia, Bacteremia, Meningitis.</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/pneumococcal-infections/" class="internal-link">Pneumococcal_Infections</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:50.514073'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/pneumococcal-infections/" class="internal-link">Pneumococcal_Infections</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:54.715568'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Streptococcus pneumoniae</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/pneumonia/" class="internal-link">Pneumonia</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/meningitis/" class="internal-link">Meningitis</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/otitis-media/" class="internal-link">Otitis Media</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Sepsis</a><br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Penicillin</a><br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Ceftriaxone</a><br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Vancomycin</a><br />
-PREVENTED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Pneumococcal Vaccine</a></p>
+<p>No relationships found.</p>
 <h2>References</h2>
 <ul>
 <li>CDC. Pneumococcal Disease.</li>

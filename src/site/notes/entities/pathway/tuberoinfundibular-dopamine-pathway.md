@@ -1,16 +1,16 @@
 ---
-created: '2026-02-13T19:38:08.035946Z'
+created: '2026-03-12T06:00:33.918631Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/pathway/tuberoinfundibular-dopamine-pathway/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/pathway/tuberoinfundibular-dopamine-pathway/
 slug: tuberoinfundibular-dopamine-pathway
 tags:
 - pathway
 templateEngineOverride: njk
 title: Tuberoinfundibular Dopamine Pathway
 type: pathway
-updated: '2026-02-13T19:38:08.035946Z'
+updated: '2026-03-12T06:00:33.918631Z'
 ---
 
 {% raw %}
@@ -287,5 +287,9 @@ updated: '2026-02-13T19:38:08.035946Z'
 <p><strong>IMPORTANT</strong>: For clinically significant hyperprolactinemia (prolactinomas, drug-induced with symptoms), supplements are INSUFFICIENT. Medical treatment with dopamine agonists (cabergoline, bromocriptine) or medication adjustment is required.</p>
 <h2>Summary</h2>
 <p>The tuberoinfundibular dopamine pathway connects the arcuate nucleus of the hypothalamus to the anterior pituitary, providing tonic dopamine inhibition of prolactin secretion. This pathway is unique in that dopamine acts as a hormone (released into portal blood) rather than a neurotransmitter (synaptic), and it INHIBITS its target (prolactin release) rather than exciting it. Blockade of D2 receptors in the pituitary by antipsychotic medications removes this tonic inhibition, causing hyperprolactinemia with galactorrhea, amenorrhea, sexual dysfunction, and osteoporosis. Prolactinomas (benign pituitary tumors) autonomously secrete prolactin and are effectively treated with dopamine agonists (cabergoline, bromocriptine) which restore dopamine inhibition and shrink tumors. Supplements have very limited role in tuberoinfundibular function - vitamin B6 and vitex agnus-castus have weak evidence for mild prolactin elevation but are NOT effective for clinically significant hyperprolactinemia. Lifestyle interventions prioritizing medication review (avoiding prolactin-elevating drugs when possible), stress management, and early medical treatment of hyperprolactinemia are essential for maintaining healthy tuberoinfundibular function and preventing complications of chronic prolactin elevation.</p>
+<h2>Relationships</h2>
+<p>No relationships found.</p>
+<h2>Relationships</h2>
+<p>No relationships found.</p>
 
 {% endraw %}

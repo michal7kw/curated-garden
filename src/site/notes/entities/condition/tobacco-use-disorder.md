@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.993441Z'
+created: '2026-03-12T06:00:32.612234Z'
 description: A problematic pattern of tobacco use leading to clinically significant
   impairment or distress, characterized by nicotine dependence.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/tobacco-use-disorder/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/tobacco-use-disorder/
 slug: tobacco-use-disorder
 tags:
 - condition
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Tobacco Use Disorder
 type: condition
-updated: '2026-02-13T19:38:05.993441Z'
+updated: '2026-03-12T06:00:32.612234Z'
 ---
 
 {% raw %}
@@ -29,32 +29,8 @@ updated: '2026-02-13T19:38:05.993441Z'
 <li><strong>Respiratory:</strong> COPD, Emphysema, Chronic Bronchitis.</li>
 <li><strong>Cardiovascular:</strong> Heart attack, Stroke, PAD.</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/tobacco-use-disorder/" class="internal-link">Tobacco_Use_Disorder</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:53.799329'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/tobacco-use-disorder/" class="internal-link">Tobacco_Use_Disorder</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:04:00.427599'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>CAUSED_BY::<a href="/garden/dev_admin/drug/nicotine/" class="internal-link">Nicotine</a><br />
-CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Tobacco Smoking</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Lung Cancer</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/chronic-obstructive-pulmonary-disease/" class="internal-link">Chronic Obstructive Pulmonary Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a><br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Varenicline</a> - Chantix.<br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Bupropion</a> - Wellbutrin/Zyban.<br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Nicotine Patch</a> - NRT.<br />
-IMPROVED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Cognitive Behavioral Therapy</a></p>
+<p>No relationships found.</p>
 <h2>References</h2>
 <ul>
 <li>American Psychiatric Association. DSM-5.</li>

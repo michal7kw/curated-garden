@@ -1,13 +1,13 @@
 ---
-created: '2026-02-13T19:38:07.834448Z'
+created: '2026-03-12T06:00:33.740931Z'
 description: The electron transport chain (ETC) is a series of protein complexes embedded
   in the inner mitochondrial membrane that transfers electrons from NADH and FADH2
   to oxygen, generating the proton gradient used for ATP synthesis. It is the final
   stage of cellular respiration and produces the majority of cellular ATP.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/pathway/electron-transport-chain/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/pathway/electron-transport-chain/
 slug: electron-transport-chain
 tags:
 - pathway
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Electron Transport Chain
 type: pathway
-updated: '2026-02-13T19:38:07.834448Z'
+updated: '2026-03-12T06:00:33.740931Z'
 ---
 
 {% raw %}
@@ -42,77 +42,18 @@ updated: '2026-02-13T19:38:07.834448Z'
 </ol>
 <h2>Nicotine Effects</h2>
 <p>According to PMID:31197632, nicotine affects the respiratory chain as part of its broad effects on mitochondrial function, potentially impacting energy production and ROS generation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">CoQ10</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.766680'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/coenzyme-q10/" class="internal-link">Coenzyme_Q10</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.766680'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:19.549791'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/drug/nicotine/" class="internal-link">Nicotine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.766680'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.766680'
-source: obsidian
-</code></pre>
-<h3>Component</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/coenzyme-q10/" class="internal-link">Coenzyme_Q10</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.837447'
-source: obsidian
-</code></pre>
 <h3>Supported By</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">CoQ10</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.837447'
-source: obsidian
-</code></pre>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">CoQ10</a></p>
 <h3>Affected By</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/drug/nicotine/" class="internal-link">Nicotine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.837447'
-source: obsidian
-</code></pre>
+<p>AFFECTED_BY::<a href="/garden/michal.k7w@gmail.com/drug/nicotine/" class="internal-link">Nicotine</a></p>
 <h3>Located In</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (cellularcomponent)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.837447'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<ul>
-<li>located_in:: <a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></li>
-<li>produces:: ATP</li>
-<li>generates:: Reactive Oxygen Species</li>
-<li>affected_by:: <a href="/garden/dev_admin/drug/nicotine/" class="internal-link">Nicotine</a></li>
-<li>supported_by:: <a class="internal-link is-unresolved" href="/404">CoQ10</a></li>
-<li>component:: <a href="/garden/dev_admin/supplement/coenzyme-q10/" class="internal-link">Coenzyme_Q10</a></li>
-</ul>
+<p>LOCATED_IN::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
+<h3>Related</h3>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/drug/nicotine/" class="internal-link">Nicotine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/coenzyme-q10/" class="internal-link">Coenzyme_Q10</a></p>
+<h3>Component</h3>
 <h2>References</h2>
 <ul>
 <li>PMID:31197632 - Malinska D, et al. (2019) &quot;Mitochondria as a possible target for nicotine action.&quot; J Bioenerg Biomembr.</li>

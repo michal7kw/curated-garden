@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:38:07.063905Z'
+created: '2026-03-12T06:00:33.467627Z'
 description: Tested twice a year Total bilirubin measures all forms of bilirubin,
   a yellow substance made when the body breaks down old red blood cells. Normally,
   the liver processes bilirubin so it can be removed from the body. Measuring total
@@ -7,15 +7,15 @@ description: Tested twice a year Total bilirubin measures all forms of bilirubin
   bile duct problems, or other metabolic concerns.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/total-bilirubin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/total-bilirubin/
 slug: total-bilirubin
 tags:
 - labtest
 templateEngineOverride: njk
 title: total_bilirubin
 type: labtest
-updated: '2026-02-13T19:38:07.063905Z'
+updated: '2026-03-12T06:00:33.467627Z'
 ---
 
 {% raw %}
@@ -68,72 +68,13 @@ updated: '2026-02-13T19:38:07.063905Z'
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Bile_Duct_Blockage_Gallstones_Tumors</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.407330'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Medication-Induced_Liver_Injury</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.407330'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/gilberts-syndrome/" class="internal-link">GilbertS_Syndrome</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.407330'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Hemolytic_Anemia</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.407330'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Liver_Inflammation_Hepatitis_Cirrhosis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:27.407330'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Liver_Inflammation_Hepatitis_Cirrhosis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.796920'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Hemolytic_Anemia</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.796920'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Bile_Duct_Blockage_Gallstones_Tumors</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.796920'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Medication-Induced_Liver_Injury</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.796920'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/gilberts-syndrome/" class="internal-link">GilbertS_Syndrome</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.796920'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Medication-Induced_Liver_Injury</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hemolytic_Anemia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Bile_Duct_Blockage_Gallstones_Tumors</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Liver_Inflammation_Hepatitis_Cirrhosis</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/gilberts-syndrome/" class="internal-link">GilbertS_Syndrome</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

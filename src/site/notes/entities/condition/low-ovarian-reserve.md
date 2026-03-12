@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.698068Z'
+created: '2026-03-12T06:00:32.451625Z'
 description: A condition where a woman has a lower number of eggs remaining in her
   ovaries than expected for her age, which can impact fertility.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/low-ovarian-reserve/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/low-ovarian-reserve/
 slug: low-ovarian-reserve
 tags:
 - condition
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Low Ovarian Reserve
 type: condition
-updated: '2026-02-13T19:38:05.698068Z'
+updated: '2026-03-12T06:00:32.451625Z'
 ---
 
 {% raw %}
@@ -37,26 +37,9 @@ SORT confidence_score DESC
 </code></pre>
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/anti-mullerian-hormone/" class="internal-link">anti_mullerian_hormone</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/low-ovarian-reserve/" class="internal-link">Low_Ovarian_Reserve</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:19.445067'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/anti-mullerian-hormone/" class="internal-link">anti_mullerian_hormone</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:19.445067'
-source: obsidian
-</code></pre>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/low-ovarian-reserve/" class="internal-link">Low_Ovarian_Reserve</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/anti-mullerian-hormone/" class="internal-link">anti_mullerian_hormone</a></p>
 <h2>Research</h2>
 <h3>Recent Studies</h3>
 <pre><code class="language-dataview">LIST
@@ -69,42 +52,8 @@ SORT date DESC
 FROM [[Low Ovarian Reserve]] AND #clinical-trial
 SORT date DESC
 </code></pre>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/low-ovarian-reserve/" class="internal-link">Low_Ovarian_Reserve</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.038200'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/anti-mullerian-hormone/" class="internal-link">anti_mullerian_hormone</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.785719'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/low-ovarian-reserve/" class="internal-link">Low_Ovarian_Reserve</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.038200'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/anti-mullerian-hormone/" class="internal-link">anti_mullerian_hormone</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:32.038200'
-source: obsidian
-</code></pre>
-<h3>May Detect</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/anti-mullerian-hormone/" class="internal-link">anti_mullerian_hormone</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
 <h2>References</h2>
 <p>No references available.</p>
 

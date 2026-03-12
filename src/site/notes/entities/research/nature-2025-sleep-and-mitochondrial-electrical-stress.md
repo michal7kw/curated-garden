@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:08.968228Z'
+created: '2026-03-12T06:00:34.226994Z'
 description: A breakthrough study identifying mitochondrial electrical stress as a
   direct trigger for sleep pressure in fruit flies.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/research/nature-2025-sleep-and-mitochondrial-electrical-stress/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/research/nature-2025-sleep-and-mitochondrial-electrical-stress/
 slug: nature-2025-sleep-and-mitochondrial-electrical-stress
 tags:
 - research
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: 'Nature 2025: Sleep and Mitochondrial Electrical Stress'
 type: research
-updated: '2026-02-13T19:38:08.968228Z'
+updated: '2026-03-12T06:00:34.226994Z'
 ---
 
 {% raw %}
@@ -38,9 +38,11 @@ updated: '2026-02-13T19:38:08.968228Z'
 <li><strong>Aging:</strong> Age-related mitochondrial dysfunction could explain sleep fragmentation in the elderly.</li>
 </ul>
 <h2>Relationships</h2>
-<h2>STUDIED_TOPIC::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
-STUDIED_TOPIC::<a href="/garden/dev_admin/intervention/sleep-optimization/" class="internal-link">Sleep Optimization</a><br />
-STUDIED_TOPIC::<a class="internal-link is-unresolved" href="/404">Reactive Oxygen Species</a><br />
-SUPPORTS_HYPOTHESIS::<a class="internal-link is-unresolved" href="/404">Mitochondrial Theory of Aging</a></h2>
+<h3>Supports Hypothesis</h3>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Mitochondrial_Theory_of_Aging</a></p>
+<h3>Studied Topic</h3>
+<p>STUDIED_TOPIC::<a class="internal-link is-unresolved" href="/404">Reactive_Oxygen_Species</a><br />
+STUDIED_TOPIC::<a href="/garden/michal.k7w@gmail.com/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a><br />
+STUDIED_TOPIC::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 
 {% endraw %}

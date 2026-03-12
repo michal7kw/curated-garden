@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.608326Z'
+created: '2026-03-12T06:00:32.407940Z'
 description: A dietary state characterized by a high proportion of protein consumption,
   which can impact metabolic markers and kidney function.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/high-protein-intake/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/high-protein-intake/
 slug: high-protein-intake
 tags:
 - condition
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: High Protein Intake
 type: condition
-updated: '2026-02-13T19:38:05.608326Z'
+updated: '2026-03-12T06:00:32.407940Z'
 ---
 
 {% raw %}
@@ -37,26 +37,9 @@ SORT confidence_score DESC
 </code></pre>
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/bun-creatinine-ratio/" class="internal-link">bun_creatinine_ratio</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/high-protein-intake/" class="internal-link">High_Protein_Intake</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:10.916582'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/bun-creatinine-ratio/" class="internal-link">bun_creatinine_ratio</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:10.916582'
-source: obsidian
-</code></pre>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/high-protein-intake/" class="internal-link">High_Protein_Intake</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/bun-creatinine-ratio/" class="internal-link">bun_creatinine_ratio</a></p>
 <h2>Research</h2>
 <h3>Recent Studies</h3>
 <pre><code class="language-dataview">LIST
@@ -69,42 +52,8 @@ SORT date DESC
 FROM [[High Protein Intake]] AND #clinical-trial
 SORT date DESC
 </code></pre>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/high-protein-intake/" class="internal-link">High_Protein_Intake</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.216757'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/bun-creatinine-ratio/" class="internal-link">bun_creatinine_ratio</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.934888'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/high-protein-intake/" class="internal-link">High_Protein_Intake</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.216757'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/bun-creatinine-ratio/" class="internal-link">bun_creatinine_ratio</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.216757'
-source: obsidian
-</code></pre>
-<h3>May Detect</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/bun-creatinine-ratio/" class="internal-link">bun_creatinine_ratio</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
 <h2>References</h2>
 <p>No references available.</p>
 

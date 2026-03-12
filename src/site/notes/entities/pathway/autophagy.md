@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:07.785383Z'
+created: '2026-03-12T06:00:33.706747Z'
 description: The natural, conserved degradation of the cell that removes unnecessary
   or dysfunctional components through a lysosome-dependent regulated mechanism.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/pathway/autophagy/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/pathway/autophagy/
 slug: autophagy
 tags:
 - pathway
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Autophagy
 type: pathway
-updated: '2026-02-13T19:38:07.785383Z'
+updated: '2026-03-12T06:00:33.706747Z'
 ---
 
 {% raw %}
@@ -67,40 +67,13 @@ updated: '2026-02-13T19:38:07.785383Z'
 <li><strong>Cancer:</strong> Dual role; suppresses tumor initiation by maintaining genomic stability, but promotes survival of established tumors under stress.</li>
 <li><strong>Immunity:</strong> Eliminates intracellular pathogens (xenophagy).</li>
 </ul>
-<h2>Relationships</h2>
-<p>REGULATED_BY::<a href="/garden/dev_admin/pathway/mtor-pathway/" class="internal-link">mTOR Pathway</a> - Inhibits<br />
-REGULATED_BY::<a href="/garden/dev_admin/pathway/ampk-pathway/" class="internal-link">AMPK Pathway</a> - Activates<br />
-ACTIVATED_BY::<a class="internal-link is-unresolved" href="/404">Fasting</a> - Potent inducer<br />
-ACTIVATED_BY::<a href="/garden/dev_admin/intervention/caloric-restriction/" class="internal-link">Caloric Restriction</a><br />
-ACTIVATED_BY::<a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a><br />
-ACTIVATED_BY::<a href="/garden/dev_admin/drug/rapamycin/" class="internal-link">Rapamycin</a> - Pharmacological inducer (mTOR inhibitor)<br />
-ACTIVATED_BY::<a href="/garden/dev_admin/supplement/spermidine/" class="internal-link">Spermidine</a><br />
-REMOVES::<a class="internal-link is-unresolved" href="/404">Amyloid Beta</a><br />
-REMOVES::<a class="internal-link is-unresolved" href="/404">Tau Protein</a><br />
-REMOVES::<a class="internal-link is-unresolved" href="/404">Damaged Mitochondria</a> - Specific form called Mitophagy<br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> - Impaired autophagy<br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a><br />
-RELATED_TO::<a href="/garden/dev_admin/pathway/mitophagy/" class="internal-link">Mitophagy</a> - Selective autophagy of mitochondria</p>
 <h2>References</h2>
 <ul>
 <li>Mizushima N, Komatsu M. Autophagy: renovation of cells and tissues. Cell. 2011;147(4):728-41.</li>
 <li>Levine B, Kroemer G. Biological functions of autophagy genes: a disease perspective. Cell. 2019;176(1-2):11-42.</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/mitophagy/" class="internal-link">Mitophagy</a> (pathway)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.481193'
-source: obsidian
-</code></pre>
-<h3>Subtype Of</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/pathway/mitophagy/" class="internal-link">Mitophagy</a> (pathway)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.248727'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/mitophagy/" class="internal-link">Mitophagy</a></p>
+
 {% endraw %}

@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:07.172855Z'
+created: '2026-03-12T06:00:33.670944Z'
 description: A purine nucleoside that acts as a neuromodulator. Accumulates during
   wakefulness to create 'sleep pressure' and is the target of caffeine antagonism.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/neurotransmitter/adenosine/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/neurotransmitter/adenosine/
 slug: adenosine
 tags:
 - neurotransmitter
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Adenosine
 type: neurotransmitter
-updated: '2026-02-13T19:38:07.172855Z'
+updated: '2026-03-12T06:00:33.670944Z'
 ---
 
 {% raw %}
@@ -31,12 +31,18 @@ updated: '2026-02-13T19:38:07.172855Z'
 <h2>Recent Research (2025)</h2>
 <p>A breakthrough 2025 study linked adenosine accumulation directly to <strong>mitochondrial electrical stress</strong> (electron leak) in sleep-regulating neurons, unifying the theories of energy metabolism and sleep function.</p>
 <h2>Relationships</h2>
-<p>PRODUCED_FROM::<a class="internal-link is-unresolved" href="/404">ATP</a> - Breakdown product<br />
-REGULATES::<a href="/garden/dev_admin/intervention/sleep-optimization/" class="internal-link">Sleep Optimization</a> - Primary driver of sleep pressure<br />
-ANTAGONIZED_BY::<a class="internal-link is-unresolved" href="/404">Caffeine</a> - Blocks receptors<br />
-BINDS_TO::<a class="internal-link is-unresolved" href="/404">Adenosine Receptors</a><br />
-LINKED_TO::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> - 2025 Research link<br />
-ASSOCIATED_WITH_RESEARCH::<a class="internal-link is-unresolved" href="/404">Nature 2025 Sleep and Mitochondria</a></p>
+<h3>Associated With Research</h3>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Nature_2025_Sleep_and_Mitochondria</a></p>
+<h3>Produced From</h3>
+<p>PRODUCED_FROM::<a class="internal-link is-unresolved" href="/404">ATP</a></p>
+<h3>Linked To</h3>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
+<h3>Binds To</h3>
+<p>BINDS_TO::<a class="internal-link is-unresolved" href="/404">Adenosine_Receptors</a></p>
+<h3>Antagonized By</h3>
+<p>ANTAGONIZED_BY::<a class="internal-link is-unresolved" href="/404">Caffeine</a></p>
+<h3>Regulates</h3>
+<p>REGULATES::<a href="/garden/michal.k7w@gmail.com/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a></p>
 <h2>References</h2>
 <ul>
 <li>Porkka-Heiskanen T, et al. Adenosine: a mediator of the sleep-inducing effects of prolonged wakefulness. Science. 1997.</li>

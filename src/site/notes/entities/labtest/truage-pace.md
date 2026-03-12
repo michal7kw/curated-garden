@@ -1,18 +1,18 @@
 ---
-created: '2026-02-13T19:38:07.102044Z'
+created: '2026-03-12T06:00:33.614990Z'
 description: Measures DunedinPACE - the rate of biological aging rather than absolute
   age.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/truage-pace/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/truage-pace/
 slug: truage-pace
 tags:
 - labtest
 templateEngineOverride: njk
 title: truage_pace
 type: labtest
-updated: '2026-02-13T19:38:07.102044Z'
+updated: '2026-03-12T06:00:33.614990Z'
 ---
 
 {% raw %}
@@ -58,10 +58,6 @@ updated: '2026-02-13T19:38:07.102044Z'
 <p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
-<!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
 <p>No relationships found.</p>
 <h2>Notes</h2>

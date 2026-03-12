@@ -1,20 +1,20 @@
 ---
-created: '2026-02-13T19:38:06.678449Z'
+created: '2026-03-12T06:00:33.133310Z'
 description: Glutathione test measures the body's master antioxidant in blood. Glutathione
   (GSH) is a tripeptide (glutamate-cysteine-glycine) critical for detoxification,
   immune function, and protection against oxidative damage. Both total glutathione
   and the GSH/GSSG ratio are clinically informative.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/glutathione/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/glutathione/
 slug: glutathione
 tags:
 - labtest
 templateEngineOverride: njk
 title: glutathione
 type: labtest
-updated: '2026-02-13T19:38:06.678449Z'
+updated: '2026-03-12T06:00:33.133310Z'
 ---
 
 {% raw %}
@@ -100,21 +100,19 @@ updated: '2026-02-13T19:38:06.678449Z'
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
 <li><a class="internal-link is-unresolved" href="/404">Chronic Fatigue Syndrome</a></li>
-<li><a href="/garden/dev_admin/condition/liver-disease/" class="internal-link">Liver Disease</a></li>
-<li><a href="/garden/dev_admin/condition/autoimmune-disease/" class="internal-link">Autoimmune Disease</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/liver-disease/" class="internal-link">Liver Disease</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/autoimmune-disease/" class="internal-link">Autoimmune Disease</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Neurodegenerative Disease</a></li>
-<li><a href="/garden/dev_admin/condition/cancer/" class="internal-link">Cancer</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/cancer/" class="internal-link">Cancer</a></li>
 </ul>
 <h2>Relationships</h2>
+<h3>Conditions</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/liver-disease/" class="internal-link">Liver_Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a></p>
 <h3>Measures</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/glutathione/" class="internal-link">Glutathione</a> (biomarker)</li>
-</ul>
 <h3>Related Tests</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/nutreval-fmv/" class="internal-link">nutreval fmv</a> (labtest) - May include glutathione assessment</li>
-<li>→ <a href="/garden/dev_admin/labtest/organic-acids-test/" class="internal-link">organic acids test</a> (labtest) - Indirect markers of glutathione status</li>
-</ul>
+<p>RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/nutreval-fmv/" class="internal-link">nutreval_fmv</a><br />
+RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/organic-acids-test/" class="internal-link">organic_acids_test</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Whole blood measurement is preferred over plasma (&gt;98% is intracellular)</li>

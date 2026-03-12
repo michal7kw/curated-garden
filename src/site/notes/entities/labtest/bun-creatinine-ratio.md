@@ -1,20 +1,20 @@
 ---
-created: '2026-02-13T19:38:06.540588Z'
+created: '2026-03-12T06:00:33.019401Z'
 description: Tested twice a year The BUN/creatinine ratio compares two waste products
   in the blood—urea and creatinine—to provide a view of kidney health. An abnormal
   ratio can help distinguish between kidney problems and other conditions affecting
   metabolism or hydration.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/bun-creatinine-ratio/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/bun-creatinine-ratio/
 slug: bun-creatinine-ratio
 tags:
 - labtest
 templateEngineOverride: njk
 title: bun_creatinine_ratio
 type: labtest
-updated: '2026-02-13T19:38:06.540588Z'
+updated: '2026-03-12T06:00:33.019401Z'
 ---
 
 {% raw %}
@@ -60,94 +60,26 @@ updated: '2026-02-13T19:38:06.540588Z'
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
 <li><a class="internal-link is-unresolved" href="/404">Kidney Dysfunction</a></li>
-<li><a href="/garden/dev_admin/condition/high-protein-intake/" class="internal-link">High Protein Intake</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/high-protein-intake/" class="internal-link">High Protein Intake</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Dehydration</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Malnutrition</a></li>
-<li><a href="/garden/dev_admin/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal Bleeding</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal Bleeding</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:09.852773'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal_Bleeding</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:09.852773'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/high-protein-intake/" class="internal-link">High_Protein_Intake</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:09.852773'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Malnutrition</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.934888'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Dehydration</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.934888'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.934888'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal_Bleeding</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.934888'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/high-protein-intake/" class="internal-link">High_Protein_Intake</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:50.934888'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/high-protein-intake/" class="internal-link">High_Protein_Intake</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.216757'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal_Bleeding</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.231284'
-source: obsidian
-</code></pre>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Malnutrition</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal_Bleeding</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/high-protein-intake/" class="internal-link">High_Protein_Intake</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a></p>
+<h3>Conditions</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/high-protein-intake/" class="internal-link">High_Protein_Intake</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal_Bleeding</a></p>
 <h3>May Detect</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal_Bleeding</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/high-protein-intake/" class="internal-link">High_Protein_Intake</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal_Bleeding</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/high-protein-intake/" class="internal-link">High_Protein_Intake</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

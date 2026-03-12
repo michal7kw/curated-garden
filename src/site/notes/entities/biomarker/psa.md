@@ -1,19 +1,19 @@
 ---
-created: '2026-02-13T19:38:05.015194Z'
+created: '2026-03-12T06:00:32.068829Z'
 description: Prostate-specific antigen is a serine protease produced by prostatic
   epithelial cells. It is the primary screening biomarker for prostate cancer, though
   elevations also occur in benign prostatic hyperplasia and prostatitis.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/psa/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/psa/
 slug: psa
 tags:
 - biomarker
 templateEngineOverride: njk
 title: PSA
 type: biomarker
-updated: '2026-02-13T19:38:05.015194Z'
+updated: '2026-03-12T06:00:32.068829Z'
 ---
 
 {% raw %}
@@ -69,15 +69,13 @@ updated: '2026-02-13T19:38:05.015194Z'
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li><a href="/garden/dev_admin/labtest/prostate-specific-antigen-psa-total/" class="internal-link">prostate specific antigen psa total</a> - Total PSA measurement</li>
-<li><a href="/garden/dev_admin/labtest/prostate-specific-antigen-psa-free/" class="internal-link">prostate specific antigen psa free</a> - Free PSA for calculating free-to-total ratio</li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/prostate-specific-antigen-psa-total/" class="internal-link">prostate specific antigen psa total</a> - Total PSA measurement</li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/prostate-specific-antigen-psa-free/" class="internal-link">prostate specific antigen psa free</a> - Free PSA for calculating free-to-total ratio</li>
 </ul>
 <h2>Relationships</h2>
 <h3>Correlations</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/testosterone-total/" class="internal-link">Testosterone Total</a> (biomarker) - Testosterone influences prostate growth and PSA production</li>
-<li>→ <a href="/garden/dev_admin/labtest/testosterone-free/" class="internal-link">Testosterone Free</a> (biomarker) - Free testosterone directly affects prostatic tissue</li>
-</ul>
+<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/testosterone-free/" class="internal-link">Testosterone_Free</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/testosterone-total/" class="internal-link">Testosterone_Total</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:19118655 - Saw palmetto extract effects on PSA levels in BPH</li>

@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:05.778705Z'
+created: '2026-03-12T06:00:32.488713Z'
 description: A life-threatening condition where blood flow to the heart muscle is
   abruptly cut off, causing tissue death, usually due to a blood clot in a coronary
   artery.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/myocardial-infarction/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/myocardial-infarction/
 slug: myocardial-infarction
 tags:
 - condition
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Myocardial Infarction
 type: condition
-updated: '2026-02-13T19:38:05.778705Z'
+updated: '2026-03-12T06:00:32.488713Z'
 ---
 
 {% raw %}
@@ -39,25 +39,9 @@ SORT confidence_score DESC
 </code></pre>
 <h2>Other Relationships</h2>
 <h3>Increases Risk For</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/clinicalpattern/cardiovascular-risk-pattern/" class="internal-link">Cardiovascular_Risk_Pattern</a> (clinicalpattern)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:36.399745'
-source: obsidian
-</code></pre>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/myocardial-infarction/" class="internal-link">Myocardial_Infarction</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:27.286895'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/clinicalpattern/cardiovascular-risk-pattern/" class="internal-link">Cardiovascular_Risk_Pattern</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:27.286895'
-source: obsidian
-</code></pre>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/myocardial-infarction/" class="internal-link">Myocardial_Infarction</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/clinicalpattern/cardiovascular-risk-pattern/" class="internal-link">Cardiovascular_Risk_Pattern</a></p>
 <h2>Research</h2>
 <h3>Recent Studies</h3>
 <pre><code class="language-dataview">LIST
@@ -70,35 +54,8 @@ SORT date DESC
 FROM [[Myocardial Infarction]] AND #clinical-trial
 SORT date DESC
 </code></pre>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/clinicalpattern/cardiovascular-risk-pattern/" class="internal-link">Cardiovascular_Risk_Pattern</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.898297'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/myocardial-infarction/" class="internal-link">Myocardial_Infarction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.898297'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/myocardial-infarction/" class="internal-link">Myocardial_Infarction</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.898297'
-source: obsidian
-</code></pre>
-<h3>Increases Risk For</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/clinicalpattern/cardiovascular-risk-pattern/" class="internal-link">Cardiovascular_Risk_Pattern</a> (clinicalpattern)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.311340'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
 <h2>References</h2>
 <p>No references available.</p>
 

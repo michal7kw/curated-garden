@@ -1,20 +1,20 @@
 ---
-created: '2026-02-13T19:38:07.004367Z'
+created: '2026-03-12T06:00:33.414495Z'
 description: Selenium test measures this essential trace mineral in blood. Selenium
   is a critical component of selenoproteins including glutathione peroxidases, thioredoxin
   reductases, and iodothyronine deiodinases. It plays vital roles in antioxidant defense,
   thyroid hormone metabolism, and immune function.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/selenium/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/selenium/
 slug: selenium
 tags:
 - labtest
 templateEngineOverride: njk
 title: selenium
 type: labtest
-updated: '2026-02-13T19:38:07.004367Z'
+updated: '2026-03-12T06:00:33.414495Z'
 ---
 
 {% raw %}
@@ -110,16 +110,11 @@ updated: '2026-02-13T19:38:07.004367Z'
 <li><a class="internal-link is-unresolved" href="/404">Kashin-Beck Disease</a></li>
 </ul>
 <h2>Relationships</h2>
-<h3>Measures</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/selenium/" class="internal-link">Selenium</a> (biomarker) - if exists</li>
-</ul>
 <h3>Related Tests</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/thyroid-stimulating-hormone-tsh/" class="internal-link">thyroid stimulating hormone tsh</a> (labtest) - Selenium critical for thyroid</li>
-<li>→ <a href="/garden/dev_admin/labtest/thyroid-peroxidase-antibodies-tpo/" class="internal-link">thyroid peroxidase antibodies tpo</a> (labtest) - Selenium may reduce TPO antibodies</li>
-<li>→ <a href="/garden/dev_admin/labtest/zinc-serum/" class="internal-link">zinc serum</a> (labtest) - Often tested together as trace minerals</li>
-</ul>
+<p>RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/thyroid-stimulating-hormone-tsh/" class="internal-link">thyroid_stimulating_hormone_tsh</a><br />
+RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/thyroid-peroxidase-antibodies-tpo/" class="internal-link">thyroid_peroxidase_antibodies_tpo</a><br />
+RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/zinc-serum/" class="internal-link">zinc_serum</a></p>
+<h3>Measures</h3>
 <h2>Notes</h2>
 <ul>
 <li>Geography matters: soil selenium varies dramatically by region</li>

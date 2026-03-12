@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:06.185130Z'
+created: '2026-03-12T06:00:32.724300Z'
 description: A long-acting oral salt form of Penicillin V used for the treatment and
   prophylaxis of bacterial infections.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/drug/penicillin-v-benzathine/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/drug/penicillin-v-benzathine/
 slug: penicillin-v-benzathine
 tags:
 - drug
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Penicillin V Benzathine
 type: drug
-updated: '2026-02-13T19:38:06.185130Z'
+updated: '2026-03-12T06:00:32.724300Z'
 ---
 
 {% raw %}
@@ -26,14 +26,8 @@ updated: '2026-02-13T19:38:06.185130Z'
 <li><strong>Streptococcal Pharyngitis.</strong></li>
 <li><strong>Rheumatic Fever Prophylaxis.</strong></li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <p>No relationships found.</p>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>TREATS_CONDITION::<a class="internal-link is-unresolved" href="/404">Tonsillitis</a><br />
-PREVENTS_CONDITION::<a class="internal-link is-unresolved" href="/404">Rheumatic Fever</a><br />
-DRUG_CONTAINS_COMPOUND::<a href="/garden/dev_admin/drug/penicillin-v/" class="internal-link">Penicillin V</a></p>
 <h2>References</h2>
 <ul>
 <li>DrugBank. Penicillin V Benzathine.</li>

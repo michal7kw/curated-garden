@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:09.100315Z'
+created: '2026-03-12T06:00:34.298270Z'
 description: Medicinal mushroom (Hericium erinaceus) renowned for neuroprotective
   and neurogenerative properties. Stimulates NGF and BDNF production, supporting cognitive
   function and nerve regeneration.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/supplement/lions-mane/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/supplement/lions-mane/
 slug: lions-mane
 tags:
 - supplement
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Lions Mane
 type: supplement
-updated: '2026-02-13T19:38:09.100315Z'
+updated: '2026-03-12T06:00:34.298270Z'
 ---
 
 {% raw %}
@@ -139,10 +139,6 @@ updated: '2026-02-13T19:38:09.100315Z'
 <li><strong>NGF Mechanism</strong>: Mori, K., et al. (2008). &quot;Hericenones and erinacines stimulate NGF synthesis.&quot; <em>Mycoscience</em>.</li>
 <li><strong>Review</strong>: Friedman, M. (2015). &quot;Chemistry, nutrition, and health-promoting properties of Hericium erinaceus mushroom.&quot; <em>Journal of Agricultural and Food Chemistry</em>.</li>
 </ol>
-<!-- NEO4J_CONTENT_START -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
-<!-- NEO4J_CONTENT_END -->
 <h2>Relationships</h2>
 <p>No relationships found.</p>
 

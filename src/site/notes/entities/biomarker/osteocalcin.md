@@ -1,19 +1,19 @@
 ---
-created: '2026-02-13T19:38:04.965154Z'
+created: '2026-03-12T06:00:32.047599Z'
 description: Osteocalcin is a non-collagenous protein produced by osteoblasts that
   serves as a marker of bone formation. It also functions as a hormone affecting glucose
   metabolism and energy expenditure.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/osteocalcin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/osteocalcin/
 slug: osteocalcin
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Osteocalcin
 type: biomarker
-updated: '2026-02-13T19:38:04.965154Z'
+updated: '2026-03-12T06:00:32.047599Z'
 ---
 
 {% raw %}
@@ -73,22 +73,20 @@ updated: '2026-02-13T19:38:04.965154Z'
 </ul>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
-<li><a href="/garden/dev_admin/supplement/vitamin-k2/" class="internal-link">Vitamin K2</a> - Increases carboxylation of osteocalcin, improving bone matrix binding (moderate, evidence level 2)</li>
-<li><a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">Vitamin D</a> - Increases osteocalcin production by stimulating osteoblast activity (moderate, evidence level 3)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/vitamin-k2/" class="internal-link">Vitamin K2</a> - Increases carboxylation of osteocalcin, improving bone matrix binding (moderate, evidence level 2)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/vitamin-d/" class="internal-link">Vitamin D</a> - Increases osteocalcin production by stimulating osteoblast activity (moderate, evidence level 3)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li><a href="/garden/dev_admin/labtest/osteocalcin/" class="internal-link">osteocalcin</a> - Total osteocalcin measurement</li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/osteocalcin/" class="internal-link">osteocalcin</a> - Total osteocalcin measurement</li>
 <li><a class="internal-link is-unresolved" href="/404">undercarboxylated osteocalcin</a> - Reflects vitamin K status</li>
 </ul>
 <h2>Relationships</h2>
 <h3>Correlations</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/calcium/" class="internal-link">Calcium</a> (biomarker) - Co-regulated in bone metabolism</li>
-<li>→ <a href="/garden/dev_admin/supplement/vitamin-d/" class="internal-link">Vitamin D</a> (biomarker) - Vitamin D stimulates osteocalcin gene expression</li>
-<li>→ <a href="/garden/dev_admin/biomarker/alkaline-phosphatase/" class="internal-link">Alkaline Phosphatase</a> (biomarker) - Co-elevated in high bone turnover states</li>
-</ul>
+<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/calcium/" class="internal-link">Calcium</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/alkaline-phosphatase/" class="internal-link">Alkaline_Phosphatase</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-d/" class="internal-link">Vitamin_D</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:25516361 - Vitamin K2 supplementation and osteocalcin carboxylation</li>

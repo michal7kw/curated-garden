@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.420469Z'
+created: '2026-03-12T06:00:32.295908Z'
 description: A fungal infection caused by an overgrowth of Candida species, primarily
   Candida albicans, affecting the skin, mucous membranes, or internal organs.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/candidiasis/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/candidiasis/
 slug: candidiasis
 tags:
 - condition
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Candidiasis
 type: condition
-updated: '2026-02-13T19:38:05.420469Z'
+updated: '2026-03-12T06:00:32.295908Z'
 ---
 
 {% raw %}
@@ -39,12 +39,6 @@ SORT confidence_score DESC
 </code></pre>
 <h2>Other Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/candidiasis/" class="internal-link">Candidiasis</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:52.137631'
-source: obsidian
-</code></pre>
 <h2>Research</h2>
 <h3>Recent Studies</h3>
 <pre><code class="language-dataview">LIST
@@ -57,16 +51,8 @@ SORT date DESC
 FROM [[Candidiasis]] AND #clinical-trial
 SORT date DESC
 </code></pre>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/candidiasis/" class="internal-link">Candidiasis</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:24.588715'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
+<p>No relationships found.</p>
 <h2>References</h2>
 <p>No references available.</p>
 

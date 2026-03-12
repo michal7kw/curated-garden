@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:38:06.702148Z'
+created: '2026-03-12T06:00:33.152122Z'
 description: Tested twice a year Hemoglobin is the protein in red blood cells that
   carries oxygen from the lungs to the rest of the body, supporting energy and healthy
   organ function. Low hemoglobin may indicate anemia due to vitamin deficiencies,
@@ -7,8 +7,8 @@ description: Tested twice a year Hemoglobin is the protein in red blood cells th
   Higher hemoglobin levels can be seen with dehydration or certain blood disorders.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/hemoglobin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/hemoglobin/
 slug: hemoglobin
 tags:
 - labtest
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: hemoglobin
 type: labtest
-updated: '2026-02-13T19:38:06.702148Z'
+updated: '2026-03-12T06:00:33.152122Z'
 ---
 
 {% raw %}
@@ -62,144 +62,29 @@ updated: '2026-02-13T19:38:06.702148Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li><a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Anemia Of Chronic Disease</a></li>
-<li><a href="/garden/dev_admin/condition/polycythemia-vera/" class="internal-link">Polycythemia Vera</a></li>
-<li><a href="/garden/dev_admin/condition/high-altitude-adaptation/" class="internal-link">High Altitude Adaptation</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/polycythemia-vera/" class="internal-link">Polycythemia Vera</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/high-altitude-adaptation/" class="internal-link">High Altitude Adaptation</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Chronic Hypoxia (Lung Or Heart Disease)</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
+<h3>Conditions</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/high-altitude-adaptation/" class="internal-link">High_Altitude_Adaptation</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/polycythemia-vera/" class="internal-link">Polycythemia_Vera</a></p>
 <h3>Related</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Anemia_Of_Chronic_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:14.856201'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/polycythemia-vera/" class="internal-link">Polycythemia_Vera</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:14.856201'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/high-altitude-adaptation/" class="internal-link">High_Altitude_Adaptation</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:14.856201'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:14.856201'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Chronic_Hypoxia_Lung_Or_Heart_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:14.856201'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">Hemoglobin</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:14.856201'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Anemia_Of_Chronic_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.024958'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Chronic_Hypoxia_Lung_Or_Heart_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.024958'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">Hemoglobin</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:13.512799'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/polycythemia-vera/" class="internal-link">Polycythemia_Vera</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.024958'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.024958'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/high-altitude-adaptation/" class="internal-link">High_Altitude_Adaptation</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.024958'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/complete-blood-count/" class="internal-link">complete_blood_count</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:14.856201'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/polycythemia-vera/" class="internal-link">Polycythemia_Vera</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.134207'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.669493'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/high-altitude-adaptation/" class="internal-link">High_Altitude_Adaptation</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.111188'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/complete-blood-count/" class="internal-link">complete_blood_count</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:51.718250'
-source: obsidian
-</code></pre>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Chronic_Hypoxia_Lung_Or_Heart_Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/polycythemia-vera/" class="internal-link">Polycythemia_Vera</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Anemia_Of_Chronic_Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/high-altitude-adaptation/" class="internal-link">High_Altitude_Adaptation</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/complete-blood-count/" class="internal-link">complete_blood_count</a></p>
 <h3>May Detect</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/high-altitude-adaptation/" class="internal-link">High_Altitude_Adaptation</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/polycythemia-vera/" class="internal-link">Polycythemia_Vera</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/high-altitude-adaptation/" class="internal-link">High_Altitude_Adaptation</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/polycythemia-vera/" class="internal-link">Polycythemia_Vera</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

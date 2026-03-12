@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:38:06.652700Z'
+created: '2026-03-12T06:00:33.114745Z'
 description: Follicle-stimulating hormone (FSH) is made by the pituitary gland in
   the brain. In females, it regulates the menstrual cycle and stimulates the ovaries
   to grow and mature eggs for ovulation. Measuring FSH can provide insight into fertility,
@@ -9,15 +9,15 @@ description: Follicle-stimulating hormone (FSH) is made by the pituitary gland i
   the results less meaningful.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/follicle-stimulating-hormone/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/follicle-stimulating-hormone/
 slug: follicle-stimulating-hormone
 tags:
 - labtest
 templateEngineOverride: njk
 title: follicle_stimulating_hormone
 type: labtest
-updated: '2026-02-13T19:38:06.652700Z'
+updated: '2026-03-12T06:00:33.114745Z'
 ---
 
 {% raw %}
@@ -65,133 +65,29 @@ updated: '2026-02-13T19:38:06.652700Z'
 <li><a class="internal-link is-unresolved" href="/404">Polycystic Ovary Syndrome (Pcos)</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Perimenopause Or Menopause</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Pituitary Dysfunction</a></li>
-<li><a href="/garden/dev_admin/condition/ovarian-dysfunction/" class="internal-link">Ovarian Dysfunction</a></li>
-<li><a href="/garden/dev_admin/condition/hormonal-imbalance/" class="internal-link">Hormonal Imbalance</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/ovarian-dysfunction/" class="internal-link">Ovarian Dysfunction</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/hormonal-imbalance/" class="internal-link">Hormonal Imbalance</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/ovarian-dysfunction/" class="internal-link">Ovarian_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.969244'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.969244'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Pituitary_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.969244'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Polycystic_Ovary_Syndrome_Pcos</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.969244'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Perimenopause_Or_Menopause</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.969244'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Pituitary_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.960824'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Polycystic_Ovary_Syndrome_Pcos</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.960824'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Perimenopause_Or_Menopause</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.960824'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.960824'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/ovarian-dysfunction/" class="internal-link">Ovarian_Dysfunction</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.960824'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy_hcg</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:05.634365'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtestpanel/extended-hormone-health/" class="internal-link">extended_hormone_health</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.266447'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/extended-hormone-health/" class="internal-link">extended_hormone_health</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.969244'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy_hcg</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.969244'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/ovarian-dysfunction/" class="internal-link">Ovarian_Dysfunction</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:34.791556'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.342057'
-source: obsidian
-</code></pre>
-<h3>May Detect</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/ovarian-dysfunction/" class="internal-link">Ovarian_Dysfunction</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/ovarian-dysfunction/" class="internal-link">Ovarian_Dysfunction</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">extended_hormone_health</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Perimenopause_Or_Menopause</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Polycystic_Ovary_Syndrome_Pcos</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Pituitary_Dysfunction</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">pregnancy_hcg</a></p>
+<h3>Conditions</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/ovarian-dysfunction/" class="internal-link">Ovarian_Dysfunction</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a></p>
 <h3>Included In</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy_hcg</a> (labtestpanel)</li>
-<li>→ <a href="/garden/dev_admin/labtestpanel/extended-hormone-health/" class="internal-link">extended_hormone_health</a> (labtestpanel)</li>
-</ul>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">extended_hormone_health</a><br />
+INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">pregnancy_hcg</a></p>
+<h3>May Detect</h3>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/ovarian-dysfunction/" class="internal-link">Ovarian_Dysfunction</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

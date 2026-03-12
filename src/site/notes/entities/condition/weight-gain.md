@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:06.027835Z'
+created: '2026-03-12T06:00:32.630076Z'
 description: An increase in body weight, which can be caused by increased body fat,
   muscle mass, or fluid retention.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/weight-gain/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/weight-gain/
 slug: weight-gain
 tags:
 - condition
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Weight Gain
 type: condition
-updated: '2026-02-13T19:38:06.027835Z'
+updated: '2026-03-12T06:00:32.630076Z'
 ---
 
 {% raw %}
@@ -30,33 +30,8 @@ updated: '2026-02-13T19:38:06.027835Z'
 <li><strong>Heart/Kidney/Liver Failure:</strong> Causes fluid buildup.</li>
 <li><strong>Depression:</strong> Changes in eating/activity levels.</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/weight-gain/" class="internal-link">Weight_Gain</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:55.153563'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/weight-gain/" class="internal-link">Weight_Gain</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:04:02.726028'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Obesity</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/diabetes-mellitus/" class="internal-link">Diabetes Mellitus</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Hypothyroidism</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/depressive-disorder/" class="internal-link">Depressive Disorder</a><br />
-ASSOCIATED_WITH_BIOMARKER::<a class="internal-link is-unresolved" href="/404">BMI</a> - Elevated.<br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Orlistat</a><br />
-TREATED_BY_DRUG::<a href="/garden/dev_admin/drug/semaglutide/" class="internal-link">Semaglutide</a> - GLP-1 agonist.<br />
-IMPROVED_BY_INTERVENTION::<a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a><br />
-IMPROVED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Dietary Modification</a></p>
+<p>No relationships found.</p>
 <h2>References</h2>
 <ul>
 <li>WHO. Obesity and overweight.</li>

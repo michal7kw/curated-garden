@@ -1,20 +1,20 @@
 ---
-created: '2026-02-13T19:38:07.045942Z'
+created: '2026-03-12T06:00:33.455919Z'
 description: TPO antibodies are proteins made by the immune system that target an
   enzyme needed for thyroid hormone production. Detecting TPO antibodies can reveal
   autoimmune activity that may impair thyroid function. Possible symptoms UNEXPLAINED
   WEIGHT GAIN OR WEIGHT LOSS COLD INTOLERANCE CONSTIPATION HAIR THINNING OR HAIR LOSS
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/thyroid-peroxidase-antibodies-tpo/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/thyroid-peroxidase-antibodies-tpo/
 slug: thyroid-peroxidase-antibodies-tpo
 tags:
 - labtest
 templateEngineOverride: njk
 title: thyroid_peroxidase_antibodies_tpo
 type: labtest
-updated: '2026-02-13T19:38:07.045942Z'
+updated: '2026-03-12T06:00:33.455919Z'
 ---
 
 {% raw %}
@@ -60,122 +60,28 @@ updated: '2026-02-13T19:38:07.045942Z'
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
 <li><a class="internal-link is-unresolved" href="/404">Hashimoto’S Thyroiditis</a></li>
-<li><a href="/garden/dev_admin/condition/postpartum-thyroiditis/" class="internal-link">Postpartum Thyroiditis</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/postpartum-thyroiditis/" class="internal-link">Postpartum Thyroiditis</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Addison'S Disease</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Other Autoimmune Diseases (E.G., Type 1 Diabetes, Rheumatoid Arthritis)</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Graves’ Disease</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/postpartum-thyroiditis/" class="internal-link">Postpartum_Thyroiditis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:26.823782'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/addisons-disease/" class="internal-link">AddisonS_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:26.823782'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/graves-disease/" class="internal-link">Graves_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:26.823782'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/hashimotos-thyroiditis/" class="internal-link">HashimotoS_Thyroiditis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:26.823782'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Other_Autoimmune_Diseases_EG_Type_1_Diabetes_Rheumatoid_Arthritis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:26.823782'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Other_Autoimmune_Diseases_EG_Type_1_Diabetes_Rheumatoid_Arthritis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.528520'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/hashimotos-thyroiditis/" class="internal-link">HashimotoS_Thyroiditis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.528520'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/addisons-disease/" class="internal-link">AddisonS_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.528520'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/graves-disease/" class="internal-link">Graves_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.528520'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/postpartum-thyroiditis/" class="internal-link">Postpartum_Thyroiditis</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.528520'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.644052'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:26.823782'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/postpartum-thyroiditis/" class="internal-link">Postpartum_Thyroiditis</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.280450'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/graves-disease/" class="internal-link">Graves_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.634376'
-source: obsidian
-</code></pre>
-<h3>May Detect</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/graves-disease/" class="internal-link">Graves_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/postpartum-thyroiditis/" class="internal-link">Postpartum_Thyroiditis</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/graves-disease/" class="internal-link">Graves_Disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">extended_thyroid_health</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/hashimotos-thyroiditis/" class="internal-link">HashimotoS_Thyroiditis</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/addisons-disease/" class="internal-link">AddisonS_Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/postpartum-thyroiditis/" class="internal-link">Postpartum_Thyroiditis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Other_Autoimmune_Diseases_EG_Type_1_Diabetes_Rheumatoid_Arthritis</a></p>
 <h3>Included In</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a> (labtestpanel)</li>
-</ul>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">extended_thyroid_health</a></p>
+<h3>May Detect</h3>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/postpartum-thyroiditis/" class="internal-link">Postpartum_Thyroiditis</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/graves-disease/" class="internal-link">Graves_Disease</a></p>
+<h3>Conditions</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/postpartum-thyroiditis/" class="internal-link">Postpartum_Thyroiditis</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

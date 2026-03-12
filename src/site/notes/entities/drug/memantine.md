@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:06.153689Z'
+created: '2026-03-12T06:00:32.695713Z'
 description: Uncompetitive NMDA receptor antagonist. Protects neurons from excitotoxicity.
   Used for moderate to severe Alzheimer's disease.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/drug/memantine/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/drug/memantine/
 slug: memantine
 tags:
 - drug
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Memantine
 type: drug
-updated: '2026-02-13T19:38:06.153689Z'
+updated: '2026-03-12T06:00:32.695713Z'
 ---
 
 {% raw %}
@@ -28,102 +28,16 @@ updated: '2026-02-13T19:38:06.153689Z'
 <li><strong>Alzheimer's Disease</strong>: Moderate to Severe (often combined with Donepezil).</li>
 <li><strong>Vascular Dementia</strong>: Off-label.</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/neurotransmitter/glutamate/" class="internal-link">Glutamate</a> (neurotransmitter)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:35.159786'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:59.667638'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">NMDA_Receptor</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:59.667638'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">NMDA_Receptor</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.400780'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.400780'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/neurotransmitter/glutamate/" class="internal-link">Glutamate</a> (neurotransmitter)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:42.400780'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.210589'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/drug/quetiapine/" class="internal-link">Quetiapine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:00.766849'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/drug/imipramine/" class="internal-link">Imipramine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:59.667638'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/drug/quetiapine/" class="internal-link">Quetiapine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:59.667638'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/drug/imipramine/" class="internal-link">Imipramine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:59.154865'
-source: obsidian
-</code></pre>
-<h3>Interactswith</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/drug/quetiapine/" class="internal-link">Quetiapine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">imported: '2025-12-26T11:56:37.681000+00:00'
-source: PrimeKG
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/drug/imipramine/" class="internal-link">Imipramine</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">imported: '2025-12-26T11:56:37.022000+00:00'
-source: PrimeKG
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<h3>Modulates Neurotransmitter</h3>
-<ul>
-<li>⊣ <a href="/garden/dev_admin/neurotransmitter/glutamate/" class="internal-link">Glutamate</a> (neurotransmitter) - <em>Blocks toxicity</em></li>
-</ul>
-<h3>Modulates Protein</h3>
-<ul>
-<li>⊣ <a href="/garden/dev_admin/protein/nmda-receptor/" class="internal-link">NMDA Receptor</a> (protein) - <em>Uncompetitive Antagonist</em></li>
-</ul>
-<h3>Treats Condition</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Moderate-Severe</em></li>
-</ul>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/drug/quetiapine/" class="internal-link">Quetiapine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/drug/imipramine/" class="internal-link">Imipramine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/glutamate/" class="internal-link">Glutamate</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">NMDA_Receptor</a></p>
+<h3>Interacts With</h3>
+<p>INTERACTS_WITH::<a href="/garden/michal.k7w@gmail.com/drug/imipramine/" class="internal-link">Imipramine</a><br />
+INTERACTS_WITH::<a href="/garden/michal.k7w@gmail.com/drug/quetiapine/" class="internal-link">Quetiapine</a></p>
 <h2>References</h2>
 <ol>
 <li><strong>Mechanism</strong>: Lipton, S. A. (2006). &quot;Paradigm shift in neuroprotection by NMDA receptor blockade: memantine and beyond.&quot; <em>Nature Reviews Drug Discovery</em>.</li>

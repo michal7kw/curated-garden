@@ -1,13 +1,13 @@
 ---
-created: '2026-02-13T19:38:06.872236Z'
+created: '2026-03-12T06:00:33.298688Z'
 description: Tested twice a year Monocytes are immune cells important for defense,
   inflammation regulation, and tissue repair. These white blood cells can transform
   into macrophages or dendritic cells to fight infections, clear debris, and promote
   healing. The test includes both percentage and absolute levels.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/monocytes/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/monocytes/
 slug: monocytes
 tags:
 - labtest
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: monocytes
 type: labtest
-updated: '2026-02-13T19:38:06.872236Z'
+updated: '2026-03-12T06:00:33.298688Z'
 ---
 
 {% raw %}
@@ -61,136 +61,32 @@ updated: '2026-02-13T19:38:06.872236Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li><a href="/garden/dev_admin/condition/chronic-infection/" class="internal-link">Chronic Infection</a></li>
-<li><a href="/garden/dev_admin/condition/autoimmune-disease/" class="internal-link">Autoimmune Disease</a></li>
-<li><a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/chronic-infection/" class="internal-link">Chronic Infection</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/autoimmune-disease/" class="internal-link">Autoimmune Disease</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Impaired Immune Function</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.639420'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/chronic-infection/" class="internal-link">Chronic_Infection</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.639420'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Impaired_Immune_Function</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.639420'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.639420'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Impaired_Immune_Function</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.436126'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.436126'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/chronic-infection/" class="internal-link">Chronic_Infection</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.436126'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:57.436126'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtestpanel/extended-immune-regulation/" class="internal-link">extended_immune_regulation</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.434318'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic_inflammatory_response_mold_response</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.490694'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic_inflammatory_response_mold_response</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.639420'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/extended-immune-regulation/" class="internal-link">extended_immune_regulation</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:21.639420'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:25.519524'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/chronic-infection/" class="internal-link">Chronic_Infection</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:25.307542'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.757663'
-source: obsidian
-</code></pre>
 <h3>May Detect</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/chronic-infection/" class="internal-link">Chronic_Infection</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/chronic-infection/" class="internal-link">Chronic_Infection</a></p>
 <h3>Included In</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/extended-immune-regulation/" class="internal-link">extended_immune_regulation</a> (labtestpanel)</li>
-<li>→ <a href="/garden/dev_admin/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic_inflammatory_response_mold_response</a> (labtestpanel)</li>
-</ul>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">extended_immune_regulation</a><br />
+INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">chronic_inflammatory_response_mold_response</a></p>
+<h3>Related</h3>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-infection/" class="internal-link">Chronic_Infection</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Impaired_Immune_Function</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">extended_immune_regulation</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">chronic_inflammatory_response_mold_response</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
+<h3>Conditions</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-infection/" class="internal-link">Chronic_Infection</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

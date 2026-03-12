@@ -1,20 +1,20 @@
 ---
-created: '2026-02-13T19:38:06.586483Z'
+created: '2026-03-12T06:00:33.060463Z'
 description: Serum copper test measures the total copper concentration in blood. Copper
   is an essential trace mineral required as a cofactor for over 30 enzymes. The test
   helps diagnose copper deficiency, Wilson's disease, and monitor copper supplementation.
   Should be interpreted alongside ceruloplasmin and zinc levels.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/copper-serum/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/copper-serum/
 slug: copper-serum
 tags:
 - labtest
 templateEngineOverride: njk
 title: copper_serum
 type: labtest
-updated: '2026-02-13T19:38:06.586483Z'
+updated: '2026-03-12T06:00:33.060463Z'
 ---
 
 {% raw %}
@@ -100,16 +100,12 @@ updated: '2026-02-13T19:38:06.586483Z'
 <li><a class="internal-link is-unresolved" href="/404">Neutropenia</a></li>
 </ul>
 <h2>Relationships</h2>
-<h3>Measures</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/copper/" class="internal-link">Copper</a> (biomarker)</li>
-</ul>
 <h3>Related Tests</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/zinc-serum/" class="internal-link">zinc serum</a> (labtest) - Copper:zinc ratio assessment</li>
-<li>→ <a href="/garden/dev_admin/supplement/iron/" class="internal-link">iron</a> (labtest) - Copper deficiency can cause iron deficiency anemia</li>
-<li>→ <a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">ferritin</a> (labtest) - Iron stores affected by copper status</li>
-</ul>
+<p>RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/supplement/iron/" class="internal-link">iron</a><br />
+RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/zinc-serum/" class="internal-link">zinc_serum</a><br />
+RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/ferritin/" class="internal-link">ferritin</a></p>
+<h3>Measures</h3>
+<p>MEASURES::<a href="/garden/michal.k7w@gmail.com/supplement/copper/" class="internal-link">Copper</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Always interpret alongside ceruloplasmin and zinc levels</li>

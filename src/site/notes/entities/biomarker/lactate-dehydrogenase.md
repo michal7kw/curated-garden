@@ -1,19 +1,19 @@
 ---
-created: '2026-02-13T19:38:04.882381Z'
+created: '2026-03-12T06:00:31.965688Z'
 description: Lactate Dehydrogenase is an intracellular enzyme found in virtually all
   body tissues that catalyzes the interconversion of lactate and pyruvate, serving
   as a nonspecific marker of tissue damage and cellular turnover.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/lactate-dehydrogenase/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/lactate-dehydrogenase/
 slug: lactate-dehydrogenase
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Lactate Dehydrogenase
 type: biomarker
-updated: '2026-02-13T19:38:04.882381Z'
+updated: '2026-03-12T06:00:31.965688Z'
 ---
 
 {% raw %}
@@ -68,19 +68,15 @@ updated: '2026-02-13T19:38:04.882381Z'
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li><a href="/garden/dev_admin/labtest/ldh/" class="internal-link">ldh</a> - Lactate dehydrogenase total activity (enzymatic assay)</li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/ldh/" class="internal-link">ldh</a> - Lactate dehydrogenase total activity (enzymatic assay)</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Activates</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/alanine-transaminase/" class="internal-link">Alanine Transaminase</a> (biomarker)</li>
-</ul>
 <h3>Correlations</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/alanine-transaminase/" class="internal-link">Alanine Transaminase</a> (biomarker) - Both elevated in hepatocellular injury; ALT more liver-specific than LDH</li>
-<li>→ <a href="/garden/dev_admin/biomarker/aspartate-aminotransferase/" class="internal-link">Aspartate Aminotransferase</a> (biomarker) - Both elevated in liver and muscle damage; AST/LDH ratio helps differentiate etiologies</li>
-<li>→ <a href="/garden/dev_admin/biomarker/creatine-kinase/" class="internal-link">Creatine Kinase</a> (biomarker) - Both elevated in muscle injury and myocardial infarction; CK more specific for muscle</li>
-</ul>
+<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/aspartate-aminotransferase/" class="internal-link">Aspartate_Aminotransferase</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/alanine-transaminase/" class="internal-link">Alanine_Transaminase</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/creatine-kinase/" class="internal-link">Creatine_Kinase</a></p>
+<h3>Activates</h3>
+<p>ACTIVATES::<a href="/garden/michal.k7w@gmail.com/biomarker/alanine-transaminase/" class="internal-link">Alanine_Transaminase</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:20424161 - Smilkstein MJ et al. N-Acetylcysteine in the treatment of hepatotoxicity. J Clin Gastroenterol. 2010.</li>

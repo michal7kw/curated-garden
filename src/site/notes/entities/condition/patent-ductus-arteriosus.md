@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.849228Z'
+created: '2026-03-12T06:00:32.531982Z'
 description: A congenital heart defect where the ductus arteriosus, a blood vessel
   connecting the pulmonary artery to the aorta, fails to close after birth.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/patent-ductus-arteriosus/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/patent-ductus-arteriosus/
 slug: patent-ductus-arteriosus
 tags:
 - condition
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Patent Ductus Arteriosus
 type: condition
-updated: '2026-02-13T19:38:05.849228Z'
+updated: '2026-03-12T06:00:32.531982Z'
 ---
 
 {% raw %}
@@ -29,30 +29,9 @@ updated: '2026-02-13T19:38:05.849228Z'
 <li><strong>Endocarditis:</strong> Infection of the heart lining.</li>
 <li><strong>Eisenmenger Syndrome:</strong> Irreversible lung damage leading to cyanosis.</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/patent-ductus-arteriosus/" class="internal-link">Patent_Ductus_Arteriosus</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:49.827468'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/patent-ductus-arteriosus/" class="internal-link">Patent_Ductus_Arteriosus</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:53.649758'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Heart</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Lung</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/premature-birth/" class="internal-link">Premature Birth</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Rubella</a><br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Indomethacin</a> - NSAID used to close PDA in premature infants.<br />
-TREATED_BY_DRUG::<a href="/garden/dev_admin/drug/ibuprofen/" class="internal-link">Ibuprofen</a><br />
-TREATED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Cardiac Catheterization</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/patent-ductus-arteriosus/" class="internal-link">Patent_Ductus_Arteriosus</a></p>
 <h2>References</h2>
 <ul>
 <li>Schneider, D. J., &amp; Moore, J. W. (2006). Patent ductus arteriosus. Circulation.</li>

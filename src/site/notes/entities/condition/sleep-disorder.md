@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.955874Z'
+created: '2026-03-12T06:00:32.591867Z'
 description: A broad category of conditions that disrupt normal sleep patterns, affecting
   the quality, timing, and amount of sleep.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/sleep-disorder/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/sleep-disorder/
 slug: sleep-disorder
 tags:
 - condition
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Sleep Disorder
 type: condition
-updated: '2026-02-13T19:38:05.955874Z'
+updated: '2026-03-12T06:00:32.591867Z'
 ---
 
 {% raw %}
@@ -29,31 +29,8 @@ updated: '2026-02-13T19:38:05.955874Z'
 <li><strong>Circadian Rhythm Disorders:</strong> Misalignment of the internal clock.</li>
 <li><strong>Parasomnias:</strong> Abnormal behaviors during sleep (e.g., sleepwalking).</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/sleep-disorder/" class="internal-link">Sleep_Disorder</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:52.634140'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/sleep-disorder/" class="internal-link">Sleep_Disorder</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:58.429918'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Obesity</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/hypertension/" class="internal-link">Hypertension</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Melatonin</a><br />
-TREATED_BY_DRUG::<a class="internal-link is-unresolved" href="/404">Zolpidem</a><br />
-IMPROVED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">CBT-I</a><br />
-IMPROVED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Sleep Hygiene</a></p>
+<p>No relationships found.</p>
 <h2>References</h2>
 <ul>
 <li>Colten, H. R., &amp; Altevogt, B. M. (2006). Sleep Disorders and Sleep Deprivation: An Unmet Public Health Problem.</li>

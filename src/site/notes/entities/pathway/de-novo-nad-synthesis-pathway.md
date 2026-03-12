@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:07.827131Z'
+created: '2026-03-12T06:00:33.735637Z'
 description: The biosynthetic pathway that converts dietary tryptophan to NAD+ through
   a series of enzymatic reactions. Also known as the kynurenine pathway, this route
   provides a mechanism for producing NAD+ from an essential amino acid.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/pathway/de-novo-nad-synthesis-pathway/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/pathway/de-novo-nad-synthesis-pathway/
 slug: de-novo-nad-synthesis-pathway
 tags:
 - pathway
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: De Novo NAD+ Synthesis Pathway
 type: pathway
-updated: '2026-02-13T19:38:07.827131Z'
+updated: '2026-03-12T06:00:33.735637Z'
 ---
 
 {% raw %}
@@ -235,20 +235,8 @@ NAD+
 </tr>
 </tbody>
 </table>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <p>No relationships found.</p>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>USES_SUBSTRATE::<a href="/garden/dev_admin/supplement/l-tryptophan/" class="internal-link">L-Tryptophan</a> - Essential amino acid starting point<br />
-PRODUCES::<a class="internal-link is-unresolved" href="/404">NAD+</a> - End product<br />
-PRODUCES::<a class="internal-link is-unresolved" href="/404">Quinolinic Acid</a> - Intermediate, neuroactive<br />
-ACTIVATED_BY::<a href="/garden/dev_admin/pathway/nf-kb-pathway/" class="internal-link">NF-kB Pathway</a> - Inflammatory induction of IDO1<br />
-RELATED_TO::<a href="/garden/dev_admin/pathway/nad-salvage-pathway/" class="internal-link">NAD+ Salvage Pathway</a> - Alternative NAD+ biosynthesis<br />
-AFFECTS::<a class="internal-link is-unresolved" href="/404">Brain</a> - Kynurenine metabolites cross BBB<br />
-UPSTREAM_OF::<a href="/garden/dev_admin/protein/sirt1/" class="internal-link">SIRT1</a> - Provides NAD+ substrate<br />
-UPSTREAM_OF::<a href="/garden/dev_admin/protein/sirt3/" class="internal-link">SIRT3</a> - Contributes to NAD+ pool<br />
-AFFECTED_BY::<a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a> - Pathway upregulated</p>
 <h2>References</h2>
 <ul>
 <li>Schwarcz R, et al. Kynurenines in the mammalian brain: when physiology meets pathology. Nat Rev Neurosci. 2012;13(7):465-77. PMID: 22678511</li>

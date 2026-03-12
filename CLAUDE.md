@@ -1,8 +1,8 @@
 ---
 created: 2025-11-01
-updated: 2025-11-01
+updated: 2026-03-05
 ---
-# CLAUDE.md - digitalgarden_template
+# CLAUDE.md - curated_garden
 
 ## Overview
 This directory contains a customized digital garden template for publishing medical knowledge content from Obsidian to the web. It's built on Eleventy (11ty) and designed specifically for health and medical knowledge sharing.
@@ -37,58 +37,58 @@ This directory contains a customized digital garden template for publishing medi
 
 ### Prerequisites
 - **Node.js 18+** (required for Eleventy)
-- **npm or yarn** (package manager)
+- **[Bun](https://bun.sh)** (package manager)
 - **Obsidian vault** (with content to publish)
 
 ### Setup and Development
 ```bash
 # Navigate to digital garden directory from repository root
-cd digitalgarden_template
+cd curated_garden
 
 # Install dependencies (first-time setup)
-npm install
+bun install
 
 # Start development server (default: http://localhost:8080)
-npm run dev
+bun run dev
 
 # Build for production (output: _site/ directory)
-npm run build
+bun run build
 
 # Preview production build locally
-npm run serve
+bun run serve
 
 # Deploy to Vercel (requires Vercel CLI)
-npm run deploy
+bun run deploy
 ```
 
 ### Content Management
 ```bash
 # Process new notes from Obsidian vault
-npm run process-notes
+bun run process-notes
 
 # Update full-text search index
-npm run update-search
+bun run update-search
 
 # Clean and rebuild entire site
-npm run clean && npm run build
+bun run clean && bun run build
 
 # Validate links and cross-references
-npm run validate-links
+bun run validate-links
 ```
 
 ### Development Workflow
 ```bash
 # Watch for changes during development
-npm run dev
+bun run dev
 
 # Build with specific environment
-NODE_ENV=production npm run build
+NODE_ENV=production bun run build
 
 # Run linting
-npm run lint
+bun run lint
 
 # Check for broken links
-npm run check-links
+bun run check-links
 ```
 
 ## Template Features

@@ -1,16 +1,16 @@
 ---
-created: '2026-02-13T19:38:05.776435Z'
+created: '2026-03-12T06:00:32.487129Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/myalgia/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/myalgia/
 slug: myalgia
 tags:
 - condition
 templateEngineOverride: njk
 title: Myalgia
 type: condition
-updated: '2026-02-13T19:38:05.776435Z'
+updated: '2026-03-12T06:00:32.487129Z'
 ---
 
 {% raw %}
@@ -32,30 +32,8 @@ SORT confidence_score DESC
 </code></pre>
 <h2>Other Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/myalgia/" class="internal-link">Myalgia</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:26.941983'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">INDOMETHACIN</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:26.941983'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/phenotype/pain/" class="internal-link">Pain</a> (phenotype)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:26.941983'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/phenotype/pain/" class="internal-link">Pain</a> (phenotype)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:06:29.345319'
-source: obsidian
-</code></pre>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">INDOMETHACIN</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/pain/" class="internal-link">Pain</a></p>
 <h2>Research</h2>
 <h3>Recent Studies</h3>
 <pre><code class="language-dataview">LIST
@@ -68,34 +46,8 @@ SORT date DESC
 FROM [[Myalgia]] AND #clinical-trial
 SORT date DESC
 </code></pre>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">INDOMETHACIN</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.807696'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/phenotype/pain/" class="internal-link">Pain</a> (phenotype)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:23.771829'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/myalgia/" class="internal-link">Myalgia</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.807696'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/phenotype/pain/" class="internal-link">Pain</a> (phenotype)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:33.807696'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
 <h2>References</h2>
 <p>No references available.</p>
 

@@ -1,5 +1,5 @@
 ---
-created: '2026-02-13T19:38:07.143377Z'
+created: '2026-03-12T06:00:33.658150Z'
 description: Zinc is an essential mineral that plays a key role in immune strength,
   wound healing, metabolism, and hormone balance. Testing zinc levels shows whether
   the body has enough to support these functions. Low levels can be linked to issues
@@ -7,8 +7,8 @@ description: Zinc is an essential mineral that plays a key role in immune streng
   adequate levels help keep many biological processes running smoothly.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/zinc/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/zinc/
 slug: zinc
 tags:
 - labtest
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: zinc
 type: labtest
-updated: '2026-02-13T19:38:07.143377Z'
+updated: '2026-03-12T06:00:33.658150Z'
 ---
 
 {% raw %}
@@ -62,142 +62,33 @@ updated: '2026-02-13T19:38:07.143377Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li><a href="/garden/dev_admin/condition/zinc-deficiency/" class="internal-link">Zinc Deficiency</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/zinc-deficiency/" class="internal-link">Zinc Deficiency</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Poor Nutrient Absorption</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Malnutrition</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Impaired Immune Function</a></li>
-<li><a href="/garden/dev_admin/condition/copper-imbalance/" class="internal-link">Copper Imbalance</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/copper-imbalance/" class="internal-link">Copper Imbalance</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
+<h3>Conditions</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/copper-imbalance/" class="internal-link">Copper_Imbalance</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/zinc-deficiency/" class="internal-link">Zinc_Deficiency</a></p>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/zinc-deficiency/" class="internal-link">Zinc_Deficiency</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.979746'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Impaired_Immune_Function</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.979746'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Poor_Nutrient_Absorption</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.979746'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/copper-imbalance/" class="internal-link">Copper_Imbalance</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.979746'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Impaired_Immune_Function</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.110806'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Poor_Nutrient_Absorption</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.110806'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Malnutrition</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.110806'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/copper-imbalance/" class="internal-link">Copper_Imbalance</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.110806'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/zinc-deficiency/" class="internal-link">Zinc_Deficiency</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.110806'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:05.244890'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.904495'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.979746'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/zinc-serum/" class="internal-link">zinc_serum</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.979746'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:29.979746'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/zinc-deficiency/" class="internal-link">Zinc_Deficiency</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:39.463462'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/copper-imbalance/" class="internal-link">Copper_Imbalance</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.592612'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/zinc-serum/" class="internal-link">zinc_serum</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.018670'
-source: obsidian
-</code></pre>
-<h3>May Detect</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/copper-imbalance/" class="internal-link">Copper_Imbalance</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/zinc-deficiency/" class="internal-link">Zinc_Deficiency</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">extended_vitamins_minerals_nutrients</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/copper-imbalance/" class="internal-link">Copper_Imbalance</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/zinc-deficiency/" class="internal-link">Zinc_Deficiency</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Malnutrition</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">mthfr_gene</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Poor_Nutrient_Absorption</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Impaired_Immune_Function</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/zinc-serum/" class="internal-link">zinc_serum</a></p>
 <h3>Included In</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a> (labtestpanel)</li>
-<li>→ <a href="/garden/dev_admin/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a> (labtestpanel)</li>
-</ul>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">extended_vitamins_minerals_nutrients</a><br />
+INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">mthfr_gene</a></p>
+<h3>May Detect</h3>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/copper-imbalance/" class="internal-link">Copper_Imbalance</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/zinc-deficiency/" class="internal-link">Zinc_Deficiency</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

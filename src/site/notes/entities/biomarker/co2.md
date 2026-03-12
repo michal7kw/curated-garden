@@ -1,16 +1,16 @@
 ---
-created: '2026-02-13T19:38:04.721719Z'
+created: '2026-03-12T06:00:31.869363Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/co2/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/co2/
 slug: co2
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Co2
 type: biomarker
-updated: '2026-02-13T19:38:04.721719Z'
+updated: '2026-03-12T06:00:31.869363Z'
 ---
 
 {% raw %}
@@ -26,23 +26,8 @@ updated: '2026-02-13T19:38:04.721719Z'
 <li><strong>Fasting Required</strong>: False</li>
 <li><strong>Recommended Test Frequency</strong>: Not specified</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/co2/" class="internal-link">Co2</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.825294'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<h3>Influences</h3>
-<p>No known influences documented.</p>
-<h3>Correlations</h3>
-<p>No correlations documented.</p>
-<h3>Other Relationships</h3>
-<h3>Related</h3>
+<p>No relationships found.</p>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <p>No supplement effects documented yet. Add effects in the respective supplement notes.</p>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>

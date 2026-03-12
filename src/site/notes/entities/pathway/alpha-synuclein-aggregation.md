@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:07.750045Z'
+created: '2026-03-12T06:00:33.691223Z'
 description: The pathological process by which alpha-synuclein protein misfolds and
   aggregates into oligomers, fibrils, and Lewy bodies. Central to Parkinson's disease
   and other synucleinopathies.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/pathway/alpha-synuclein-aggregation/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/pathway/alpha-synuclein-aggregation/
 slug: alpha-synuclein-aggregation
 tags:
 - pathway
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Alpha-Synuclein Aggregation
 type: pathway
-updated: '2026-02-13T19:38:07.750045Z'
+updated: '2026-03-12T06:00:33.691223Z'
 ---
 
 {% raw %}
@@ -124,269 +124,27 @@ updated: '2026-02-13T19:38:07.750045Z'
 <li>siRNA approaches</li>
 <li>SNCA reduction strategies</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/locus-coeruleus/" class="internal-link">Locus_Coeruleus</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.358689'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/examination/alpha-synuclein-saa/" class="internal-link">Alpha-Synuclein_SAA</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.358689'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative_Phosphorylation</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.358689'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/dorsal-raphe-nucleus/" class="internal-link">Dorsal_Raphe_Nucleus</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.358689'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Lewy_Body_Dementia</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.358689'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Enteric_Nervous_System</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.358689'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/examination/dat-spect/" class="internal-link">DAT-SPECT</a> (examination)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.358689'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.358689'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/neuron-derived-exosome-biomarkers/" class="internal-link">Neuron-Derived_Exosome_Biomarkers</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.358689'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.358689'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Parkinsons_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.358689'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/blood-nfl/" class="internal-link">Blood_NfL</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.358689'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Multiple_System_Atrophy</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.358689'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Autophagy_Enhancers</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.358689'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Alpha-Synuclein_CSF</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.358689'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/substantia-nigra/" class="internal-link">Substantia_Nigra</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:39.358689'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Autophagy_Enhancers</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:10.957081'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Alpha-Synuclein_CSF</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:10.957081'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a> (pathway)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:10.957081'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Enteric_Nervous_System</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:10.957081'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative_Phosphorylation</a> (pathway)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:10.957081'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Lewy_Body_Dementia</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:10.957081'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (pathway)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:10.957081'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Multiple_System_Atrophy</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:10.957081'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/examination/dat-spect/" class="internal-link">DAT-SPECT</a> (examination)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:44.395203'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/examination/alpha-synuclein-saa/" class="internal-link">Alpha-Synuclein_SAA</a> (examination)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:44.082636'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinsons_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:35.297115'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/biomarker/neuron-derived-exosome-biomarkers/" class="internal-link">Neuron-Derived_Exosome_Biomarkers</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:15.353378'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/biomarker/blood-nfl/" class="internal-link">Blood_NfL</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:10.597897'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (pathway)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:12.428247'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a> (pathway)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/dorsal-raphe-nucleus/" class="internal-link">Dorsal_Raphe_Nucleus</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:10.957081'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/substantia-nigra/" class="internal-link">Substantia_Nigra</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:10.957081'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/mitophagy/" class="internal-link">Mitophagy</a> (pathway)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:10.957081'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/locus-coeruleus/" class="internal-link">Locus_Coeruleus</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:10.957081'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a> (intervention)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:10.957081'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:10.957081'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinsons_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:10.957081'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<h3>Associated Diseases</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a> (condition) - <em>Hallmark pathology</em></li>
-<li>→ <a href="/garden/dev_admin/condition/lewy-body-dementia/" class="internal-link">Lewy Body Dementia</a> (condition) - <em>Cortical Lewy bodies</em></li>
-<li>→ <a href="/garden/dev_admin/condition/multiple-system-atrophy/" class="internal-link">Multiple System Atrophy</a> (condition) - <em>Glial cytoplasmic inclusions</em></li>
-</ul>
-<h3>Brain Regions Affected</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/substantia-nigra/" class="internal-link">Substantia Nigra</a> (organ) - <em>Dopamine neuron loss</em></li>
-<li>→ <a href="/garden/dev_admin/organ/locus-coeruleus/" class="internal-link">Locus Coeruleus</a> (organ) - <em>Noradrenergic loss</em></li>
-<li>→ <a href="/garden/dev_admin/organ/dorsal-raphe-nucleus/" class="internal-link">Dorsal Raphe Nucleus</a> (organ) - <em>Serotonergic involvement</em></li>
-<li>→ <a href="/garden/dev_admin/organ/enteric-nervous-system/" class="internal-link">Enteric Nervous System</a> (organ) - <em>Early involvement</em></li>
-</ul>
-<h3>Contributing Pathways</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/pathway/mitophagy/" class="internal-link">Mitophagy</a> (pathway) - <em>Impaired mitochondrial clearance</em></li>
-<li>← <a href="/garden/dev_admin/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative Phosphorylation</a> (pathway) - <em>Mitochondrial dysfunction</em></li>
-<li>← <a href="/garden/dev_admin/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal Pathway</a> (pathway) - <em>Clearance failure</em></li>
-<li>← <a href="/garden/dev_admin/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (pathway) - <em>Microglial activation</em></li>
-</ul>
-<h3>Biomarkers</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/alpha-synuclein-csf/" class="internal-link">Alpha-Synuclein CSF</a> (biomarker) - <em>Diagnostic potential</em></li>
-<li>→ <a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a> (biomarker) - <em>Neurodegeneration marker</em></li>
-</ul>
-<h3>Therapeutic Interventions</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a> (intervention) - <em>May reduce aggregation</em></li>
-<li>← <a href="/garden/dev_admin/intervention/autophagy-enhancers/" class="internal-link">Autophagy Enhancers</a> (intervention) - <em>Clearance support</em></li>
-</ul>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Locus_Coeruleus</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/blood-nfl/" class="internal-link">Blood_NfL</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Parkinsons_Disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Substantia_Nigra</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Enteric_Nervous_System</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Alpha-Synuclein_CSF</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Multiple_System_Atrophy</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative_Phosphorylation</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Autophagy_Enhancers</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/examination/dat-spect/" class="internal-link">DAT-SPECT</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/neuron-derived-exosome-biomarkers/" class="internal-link">Neuron-Derived_Exosome_Biomarkers</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/mitophagy/" class="internal-link">Mitophagy</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/examination/alpha-synuclein-saa/" class="internal-link">Alpha-Synuclein_SAA</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/exercise/" class="internal-link">Exercise</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Lewy_Body_Dementia</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Dorsal_Raphe_Nucleus</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a></p>
 <h2>References</h2>
 <ol>
 <li><strong>Pathology</strong>: Spillantini, M.G., et al. (1997). &quot;Alpha-synuclein in Lewy bodies.&quot; <em>Nature</em>.</li>

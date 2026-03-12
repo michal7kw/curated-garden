@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:06.130641Z'
+created: '2026-03-12T06:00:32.675066Z'
 description: A lysine salt of ibuprofen used for rapid pain relief and specifically
   for the closure of patent ductus arteriosus in premature infants.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/drug/ibuprofen-lysine/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/drug/ibuprofen-lysine/
 slug: ibuprofen-lysine
 tags:
 - drug
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Ibuprofen Lysine
 type: drug
-updated: '2026-02-13T19:38:06.130641Z'
+updated: '2026-03-12T06:00:32.675066Z'
 ---
 
 {% raw %}
@@ -28,17 +28,8 @@ updated: '2026-02-13T19:38:06.130641Z'
 <li><strong>Acute Pain.</strong></li>
 <li><strong>Migraine.</strong></li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <p>No relationships found.</p>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>TREATS_CONDITION::<a href="/garden/dev_admin/condition/patent-ductus-arteriosus/" class="internal-link">Patent Ductus Arteriosus</a><br />
-TREATS_CONDITION::<a href="/garden/dev_admin/phenotype/pain/" class="internal-link">Pain</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/premature-birth/" class="internal-link">Premature Birth</a><br />
-INHIBITS_PROTEIN::<a class="internal-link is-unresolved" href="/404">COX-1</a><br />
-INHIBITS_PROTEIN::<a class="internal-link is-unresolved" href="/404">COX-2</a><br />
-DRUG_CONTAINS_COMPOUND::<a href="/garden/dev_admin/drug/ibuprofen/" class="internal-link">Ibuprofen</a></p>
 <h2>References</h2>
 <ul>
 <li>FDA. NeoProfen (Ibuprofen Lysine) Injection.</li>

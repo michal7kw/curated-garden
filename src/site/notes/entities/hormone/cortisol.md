@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:06.350743Z'
+created: '2026-03-12T06:00:32.863649Z'
 description: Primary glucocorticoid hormone produced by the adrenal cortex that regulates
   stress response, metabolism, immune function, and circadian rhythm. Essential for
   life but chronically elevated levels contribute to numerous health problems.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/hormone/cortisol/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/hormone/cortisol/
 slug: cortisol
 tags:
 - hormone
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Cortisol
 type: hormone
-updated: '2026-02-13T19:38:06.350743Z'
+updated: '2026-03-12T06:00:32.863649Z'
 ---
 
 {% raw %}

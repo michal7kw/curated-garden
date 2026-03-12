@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:07.773780Z'
+created: '2026-03-12T06:00:33.701201Z'
 description: The cellular degradation and recycling system that removes damaged organelles
   and protein aggregates. Dysfunction contributes to accumulation of toxic proteins
   in neurodegenerative diseases.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/pathway/autophagy-lysosomal-pathway/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/pathway/autophagy-lysosomal-pathway/
 slug: autophagy-lysosomal-pathway
 tags:
 - pathway
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Autophagy-Lysosomal Pathway
 type: pathway
-updated: '2026-02-13T19:38:07.773780Z'
+updated: '2026-03-12T06:00:33.701201Z'
 ---
 
 {% raw %}
@@ -129,220 +129,25 @@ updated: '2026-02-13T19:38:07.773780Z'
 <li>Substrate accumulation</li>
 <li>Secondary autophagy block</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Parkinsons_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Ubiquitin-Proteasome_System</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/intervention/intermittent-fasting/" class="internal-link">Intermittent_Fasting</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Huntingtons_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">mTOR_Signaling</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/tau-phosphorylation/" class="internal-link">Tau_Phosphorylation</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein_Aggregation</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/intervention/caloric-restriction/" class="internal-link">Caloric_Restriction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/amyotrophic-lateral-sclerosis/" class="internal-link">Amyotrophic_Lateral_Sclerosis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:40.063840'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/tau-phosphorylation/" class="internal-link">Tau_Phosphorylation</a> (pathway)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/protein/ampk/" class="internal-link">AMPK</a> (protein)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">mTOR_Signaling</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Ubiquitin-Proteasome_System</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein_Aggregation</a> (pathway)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:10.957081'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a> (pathway)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimers_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/mitophagy/" class="internal-link">Mitophagy</a> (pathway)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/drug/rapamycin/" class="internal-link">Rapamycin</a> (drug)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/amyotrophic-lateral-sclerosis/" class="internal-link">Amyotrophic_Lateral_Sclerosis</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/spermidine/" class="internal-link">Spermidine</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a> (intervention)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinsons_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/intervention/caloric-restriction/" class="internal-link">Caloric_Restriction</a> (intervention)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/intervention/intermittent-fasting/" class="internal-link">Intermittent_Fasting</a> (intervention)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein_Aggregation</a> (pathway)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/huntingtons-disease/" class="internal-link">Huntingtons_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:11.341134'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<h3>Neurodegenerative Diseases</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Lysosomal dysfunction</em></li>
-<li>→ <a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a> (condition) - <em>Mitophagy defects</em></li>
-<li>→ <a href="/garden/dev_admin/condition/huntingtons-disease/" class="internal-link">Huntington's Disease</a> (condition) - <em>Cargo recognition impaired</em></li>
-<li>→ <a href="/garden/dev_admin/condition/amyotrophic-lateral-sclerosis/" class="internal-link">Amyotrophic Lateral Sclerosis</a> (condition) - <em>Autophagy gene mutations</em></li>
-<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal Dementia</a> (condition) - <em>C9orf72, GRN involvement</em></li>
-</ul>
-<h3>Related Pathways</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/mitophagy/" class="internal-link">Mitophagy</a> (pathway) - <em>Selective mitochondria autophagy</em></li>
-<li>→ <a href="/garden/dev_admin/pathway/ubiquitin-proteasome-system/" class="internal-link">Ubiquitin-Proteasome System</a> (pathway) - <em>Complementary degradation</em></li>
-<li>→ <a href="/garden/dev_admin/pathway/mtor-signaling/" class="internal-link">mTOR Signaling</a> (pathway) - <em>Master regulator</em></li>
-<li>← <a href="/garden/dev_admin/protein/ampk/" class="internal-link">AMPK</a> (protein) - <em>Autophagy activator</em></li>
-</ul>
-<h3>Pathological Cargo</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein Aggregation</a> (pathway) - <em>Cleared by autophagy</em></li>
-<li>← <a href="/garden/dev_admin/pathway/tau-phosphorylation/" class="internal-link">Tau Phosphorylation</a> (pathway) - <em>Tau degraded by autophagy/CMA</em></li>
-<li>← <a href="/garden/dev_admin/pathway/amyloid-cascade/" class="internal-link">Amyloid Cascade</a> (pathway) - <em>Aβ cleared by autophagy</em></li>
-</ul>
-<h3>Interventions</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/intervention/caloric-restriction/" class="internal-link">Caloric Restriction</a> (intervention) - <em>Potent autophagy inducer</em></li>
-<li>← <a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a> (intervention) - <em>Activates AMPK, autophagy</em></li>
-<li>← <a href="/garden/dev_admin/drug/rapamycin/" class="internal-link">Rapamycin</a> (drug) - <em>mTOR inhibitor; autophagy inducer</em></li>
-<li>← <a href="/garden/dev_admin/supplement/spermidine/" class="internal-link">Spermidine</a> (supplement) - <em>Autophagy enhancer</em></li>
-<li>← <a href="/garden/dev_admin/intervention/intermittent-fasting/" class="internal-link">Intermittent Fasting</a> (intervention) - <em>Autophagy activation</em></li>
-</ul>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">mTOR_Signaling</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Ubiquitin-Proteasome_System</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/caloric-restriction/" class="internal-link">Caloric_Restriction</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/intermittent-fasting/" class="internal-link">Intermittent_Fasting</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/drug/rapamycin/" class="internal-link">Rapamycin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/spermidine/" class="internal-link">Spermidine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/amyotrophic-lateral-sclerosis/" class="internal-link">Amyotrophic_Lateral_Sclerosis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Huntingtons_Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/exercise/" class="internal-link">Exercise</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein_Aggregation</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/protein/ampk/" class="internal-link">AMPK</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Parkinsons_Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/tau-phosphorylation/" class="internal-link">Tau_Phosphorylation</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/mitophagy/" class="internal-link">Mitophagy</a></p>
 <h2>Therapeutic Strategies</h2>
 <h3>Autophagy Inducers</h3>
 <ul>

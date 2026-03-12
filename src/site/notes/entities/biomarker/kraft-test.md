@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:04.879255Z'
+created: '2026-03-12T06:00:31.964019Z'
 description: An oral glucose tolerance test with serial insulin measurements (GTIR),
   used to detect early-stage insulin resistance and occult diabetes.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/kraft-test/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/kraft-test/
 slug: kraft-test
 tags:
 - biomarker
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Kraft Test
 type: biomarker
-updated: '2026-02-13T19:38:04.879255Z'
+updated: '2026-03-12T06:00:31.964019Z'
 ---
 
 {% raw %}
@@ -39,41 +39,8 @@ updated: '2026-02-13T19:38:04.879255Z'
 <li>Pattern IV: Hyperinsulinemic Fasting (Elevated fasting insulin).</li>
 <li>Pattern V: Insulinopenia (Low insulin production).</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/kraft-test/" class="internal-link">Kraft_Test</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:14.243375'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/kraft-test/" class="internal-link">Kraft_Test</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:14.243375'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<h3>Influences</h3>
-<p>No known influences documented.</p>
-<h3>Correlations</h3>
-<p>No correlations documented.</p>
-<h3>Other Relationships</h3>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/kraft-test/" class="internal-link">Kraft_Test</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:21.570072'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/kraft-test/" class="internal-link">Kraft_Test</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:21.570072'
-source: obsidian
-</code></pre>
+<p>No relationships found.</p>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <p>No supplement effects documented yet. Add effects in the respective supplement notes.</p>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>

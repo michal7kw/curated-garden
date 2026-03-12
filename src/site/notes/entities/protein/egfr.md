@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:08.776618Z'
+created: '2026-03-12T06:00:34.118113Z'
 description: Receptor tyrosine kinase that regulates cell growth, survival, and differentiation.
   A major target for cancer therapies (TKIs).
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/protein/egfr/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/protein/egfr/
 slug: egfr
 tags:
 - protein
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: EGFR
 type: protein
-updated: '2026-02-13T19:38:08.776618Z'
+updated: '2026-03-12T06:00:34.118113Z'
 ---
 
 {% raw %}
@@ -31,29 +31,21 @@ updated: '2026-02-13T19:38:08.776618Z'
 </ol>
 <h2>Relationships</h2>
 <h3>Participates in Pathway</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/egfr-signaling-pathway/" class="internal-link">EGFR Signaling Pathway</a> (pathway)</li>
-<li>→ <a href="/garden/dev_admin/pathway/mapk-signaling-pathway/" class="internal-link">MAPK Signaling Pathway</a> (pathway)</li>
-</ul>
+<p>PARTICIPATES_IN_PATHWAY::<a class="internal-link is-unresolved" href="/404">EGFR Signaling Pathway</a><br />
+PARTICIPATES_IN_PATHWAY::<a class="internal-link is-unresolved" href="/404">MAPK Signaling Pathway</a></p>
 <h3>Interacts With</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/protein/egf/" class="internal-link">EGF</a> (protein) - <em>Ligand</em></li>
-<li>← <a href="/garden/dev_admin/protein/tgf-alpha/" class="internal-link">TGF-alpha</a> (protein) - <em>Ligand</em></li>
-<li>→ <a href="/garden/dev_admin/protein/kras/" class="internal-link">KRAS</a> (protein) - <em>Downstream effector</em></li>
-<li>→ <a href="/garden/dev_admin/protein/akt1/" class="internal-link">AKT1</a> (protein) - <em>Downstream effector</em></li>
-</ul>
+<p>INTERACTS_WITH::<a class="internal-link is-unresolved" href="/404">KRAS</a><br />
+INTERACTS_WITH::<a href="/garden/michal.k7w@gmail.com/gene/akt1/" class="internal-link">AKT1</a></p>
 <h3>Targeted By</h3>
 <ul>
-<li>⊣ <a href="/garden/dev_admin/drug/gefitinib/" class="internal-link">Gefitinib</a> (drug) - <em>TKI</em></li>
-<li>⊣ <a href="/garden/dev_admin/drug/erlotinib/" class="internal-link">Erlotinib</a> (drug) - <em>TKI</em></li>
-<li>⊣ <a href="/garden/dev_admin/drug/cetuximab/" class="internal-link">Cetuximab</a> (drug) - <em>Monoclonal Antibody</em></li>
+<li>⊣ <a href="/garden/michal.k7w@gmail.com/drug/gefitinib/" class="internal-link">Gefitinib</a> (drug) - <em>TKI</em></li>
+<li>⊣ <a href="/garden/michal.k7w@gmail.com/drug/erlotinib/" class="internal-link">Erlotinib</a> (drug) - <em>TKI</em></li>
+<li>⊣ <a href="/garden/michal.k7w@gmail.com/drug/cetuximab/" class="internal-link">Cetuximab</a> (drug) - <em>Monoclonal Antibody</em></li>
 </ul>
 <h3>Related Conditions</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/lung-cancer/" class="internal-link">Lung Cancer</a> (condition)</li>
-<li>→ <a href="/garden/dev_admin/condition/colorectal-cancer/" class="internal-link">Colorectal Cancer</a> (condition)</li>
-<li>→ <a href="/garden/dev_admin/condition/glioblastoma/" class="internal-link">Glioblastoma</a> (condition)</li>
-</ul>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Lung Cancer</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Colorectal Cancer</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/glioblastoma/" class="internal-link">Glioblastoma</a></p>
 <h2>References</h2>
 <ol>
 <li><strong>UniProt</strong>: P00533 (EGFR_HUMAN)</li>

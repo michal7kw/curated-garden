@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:05.583004Z'
+created: '2026-03-12T06:00:32.388588Z'
 description: An aggressive type of cancer that can occur in the brain or spinal cord,
   formed from cells called astrocytes. It is the most common malignant primary brain
   tumor in adults.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/glioblastoma/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/glioblastoma/
 slug: glioblastoma
 tags:
 - condition
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Glioblastoma
 type: condition
-updated: '2026-02-13T19:38:05.583004Z'
+updated: '2026-03-12T06:00:32.388588Z'
 ---
 
 {% raw %}
@@ -44,55 +44,13 @@ updated: '2026-02-13T19:38:05.583004Z'
 <li><strong>Immunotherapy:</strong> Checkpoint inhibitors, CAR-T cells (still investigational).</li>
 <li><strong>Targeted Therapy:</strong> EGFR inhibitors, VEGF inhibitors (Bevacizumab).</li>
 </ul>
-<h2>Relationships</h2>
-<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a> - Primary site<br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Astrocytes</a> - Cell of origin<br />
-DRIVEN_BY::<a href="/garden/dev_admin/protein/egfr/" class="internal-link">EGFR</a> - Frequent amplification<br />
-DRIVEN_BY::<a class="internal-link is-unresolved" href="/404">PI3K/AKT Signaling</a> - Hyperactivated via PTEN loss<br />
-ASSOCIATED_WITH_GENE::<a href="/garden/dev_admin/protein/tp53/" class="internal-link">TP53</a> - Frequently mutated<br />
-ASSOCIATED_WITH_GENE::<a class="internal-link is-unresolved" href="/404">PTEN</a> - Frequently deleted<br />
-ASSOCIATED_WITH_GENE::<a class="internal-link is-unresolved" href="/404">MGMT</a> - Methylation status predicts survival<br />
-TREATED_WITH::<a class="internal-link is-unresolved" href="/404">Temozolomide</a> - Standard chemotherapy<br />
-TREATED_WITH::<a class="internal-link is-unresolved" href="/404">Radiation Therapy</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Li-Fraumeni Syndrome</a> - Genetic predisposition</p>
 <h2>References</h2>
 <ul>
 <li>Stupp R, et al. Radiotherapy plus concomitant and adjuvant temozolomide for glioblastoma. N Engl J Med. 2005;352(10):987-96.</li>
 <li>Louis DN, et al. The 2021 WHO Classification of Tumors of the Central Nervous System: a summary. Neuro Oncol. 2021;23(8):1231-1251.</li>
 </ul>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/protein/egfr/" class="internal-link">EGFR</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:39.447169'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/protein/egfr/" class="internal-link">EGFR</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:37.499401'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/protein/egfr/" class="internal-link">EGFR</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:30.803713'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/glioblastoma/" class="internal-link">Glioblastoma</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:28.444942'
-source: obsidian
-</code></pre>
-<h3>Interventions</h3>
-<pre><code class="language-dataview">TABLE 
-    effectiveness AS &quot;Effectiveness&quot;,
-    confidence_score AS &quot;Confidence&quot;
-FROM [[Glioblastoma]] AND #intervention
-SORT confidence_score DESC
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/protein/egfr/" class="internal-link">EGFR</a></p>
+
 {% endraw %}

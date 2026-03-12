@@ -1,10 +1,10 @@
 ---
-created: '2026-02-13T19:38:06.334425Z'
+created: '2026-03-12T06:00:32.852412Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/gene/myc/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/gene/myc/
 slug: myc
 tags:
 - gene
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: MYC
 type: gene
-updated: '2026-02-13T19:38:06.334425Z'
+updated: '2026-03-12T06:00:32.852412Z'
 ---
 
 {% raw %}
@@ -41,10 +41,10 @@ updated: '2026-02-13T19:38:06.334425Z'
 <p>ENCODES::<a class="internal-link is-unresolved" href="/404">c-Myc Protein</a><br />
 INTERACTS_WITH::<a class="internal-link is-unresolved" href="/404">MAX</a> - Obligate partner for DNA binding<br />
 REGULATES::<a class="internal-link is-unresolved" href="/404">Cell Cycle</a> - Promotes G1/S transition<br />
-REGULATES::<a href="/garden/dev_admin/pathway/glycolysis/" class="internal-link">Glycolysis</a> - Increases glucose metabolism<br />
+REGULATES::<a href="/garden/michal.k7w@gmail.com/pathway/glycolysis/" class="internal-link">Glycolysis</a> - Increases glucose metabolism<br />
 REGULATES::<a class="internal-link is-unresolved" href="/404">Ribosome Biogenesis</a> - Drives protein synthesis capacity<br />
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Burkitt's Lymphoma</a> - Hallmark translocation<br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/cancer/" class="internal-link">Cancer</a> - Universal driver<br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cancer/" class="internal-link">Cancer</a> - Universal driver<br />
 INHIBITED_BY::<a class="internal-link is-unresolved" href="/404">MXD1</a> - Competes for MAX binding<br />
 ACTIVATED_BY::<a class="internal-link is-unresolved" href="/404">Wnt Signaling</a><br />
 ACTIVATED_BY::<a class="internal-link is-unresolved" href="/404">MAPK Pathway</a></p>

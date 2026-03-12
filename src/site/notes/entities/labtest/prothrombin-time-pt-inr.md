@@ -1,19 +1,19 @@
 ---
-created: '2026-02-13T19:38:06.979460Z'
+created: '2026-03-12T06:00:33.396598Z'
 description: Prothrombin Time (PT) with International Normalized Ratio (INR) test.
   Evaluates the extrinsic and common coagulation pathways (Factors I, II, V, VII,
   X). Essential for monitoring warfarin therapy and assessing liver synthetic function.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/prothrombin-time-pt-inr/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/prothrombin-time-pt-inr/
 slug: prothrombin-time-pt-inr
 tags:
 - labtest
 templateEngineOverride: njk
 title: prothrombin_time_pt_inr
 type: labtest
-updated: '2026-02-13T19:38:06.979460Z'
+updated: '2026-03-12T06:00:33.396598Z'
 ---
 
 {% raw %}
@@ -109,20 +109,18 @@ updated: '2026-02-13T19:38:06.979460Z'
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
 <li><a class="internal-link is-unresolved" href="/404">Warfarin Therapy Monitoring</a></li>
-<li><a href="/garden/dev_admin/condition/liver-disease/" class="internal-link">Liver Disease</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/liver-disease/" class="internal-link">Liver Disease</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Coagulopathy</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Vitamin K Deficiency</a></li>
 <li><a class="internal-link is-unresolved" href="/404">DIC</a></li>
 </ul>
 <h2>Relationships</h2>
 <h3>Measures</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/prothrombin-time/" class="internal-link">Prothrombin Time</a> (biomarker)</li>
-</ul>
+<p>MEASURES::<a class="internal-link is-unresolved" href="/404">Prothrombin_Time</a></p>
+<h3>Conditions</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/liver-disease/" class="internal-link">Liver_Disease</a></p>
 <h3>Included In</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/coagulation-panel/" class="internal-link">coagulation panel</a> (labtestpanel)</li>
-</ul>
+<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">coagulation_panel</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

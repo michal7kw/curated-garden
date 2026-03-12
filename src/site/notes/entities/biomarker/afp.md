@@ -1,19 +1,19 @@
 ---
-created: '2026-02-13T19:38:04.649314Z'
+created: '2026-03-12T06:00:31.780219Z'
 description: Alpha-fetoprotein is a major fetal plasma protein that serves as a tumor
   marker for hepatocellular carcinoma and certain germ cell tumors. Elevated levels
   in non-pregnant adults suggest hepatic malignancy, testicular cancer, or liver disease.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/afp/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/afp/
 slug: afp
 tags:
 - biomarker
 templateEngineOverride: njk
 title: AFP
 type: biomarker
-updated: '2026-02-13T19:38:04.649314Z'
+updated: '2026-03-12T06:00:31.780219Z'
 ---
 
 {% raw %}
@@ -71,16 +71,14 @@ updated: '2026-02-13T19:38:04.649314Z'
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li><a href="/garden/dev_admin/labtest/afp/" class="internal-link">afp</a> - Alpha-fetoprotein measurement</li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/afp/" class="internal-link">afp</a> - Alpha-fetoprotein measurement</li>
 <li><a class="internal-link is-unresolved" href="/404">afp l3</a> - AFP-L3 fraction for improved HCC specificity</li>
 </ul>
 <h2>Relationships</h2>
 <h3>Correlations</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/cea/" class="internal-link">CEA</a> (biomarker) - Co-measured tumor marker for GI malignancies</li>
-<li>→ <a href="/garden/dev_admin/biomarker/alanine-transaminase/" class="internal-link">Alanine Transaminase</a> (biomarker) - Liver function context for AFP interpretation</li>
-<li>→ <a href="/garden/dev_admin/biomarker/gamma-glutamyl-transferase/" class="internal-link">Gamma-Glutamyl Transferase</a> (biomarker) - Liver disease marker used alongside AFP</li>
-</ul>
+<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/alanine-transaminase/" class="internal-link">Alanine_Transaminase</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/cea/" class="internal-link">CEA</a><br />
+CORRELATED_WITH::<a class="internal-link is-unresolved" href="/404">Gamma-Glutamyl_Transferase</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:29307414 - AASLD guidelines for HCC surveillance using AFP</li>

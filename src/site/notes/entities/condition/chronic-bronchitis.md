@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:05.440836Z'
+created: '2026-03-12T06:00:32.305728Z'
 description: A long-term inflammatory condition of the bronchial tubes, characterized
   by a persistent mucus-producing cough lasting at least three months per year for
   two consecutive years.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/chronic-bronchitis/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/chronic-bronchitis/
 slug: chronic-bronchitis
 tags:
 - condition
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Chronic Bronchitis
 type: condition
-updated: '2026-02-13T19:38:05.440836Z'
+updated: '2026-03-12T06:00:32.305728Z'
 ---
 
 {% raw %}
@@ -30,30 +30,9 @@ updated: '2026-02-13T19:38:05.440836Z'
 <li><strong>Inflammation</strong> and edema of the bronchial wall.</li>
 <li><strong>Ciliary dysfunction</strong>, preventing clearance of mucus.</li>
 </ol>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/chronic-bronchitis/" class="internal-link">Chronic_Bronchitis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:33.917618'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/chronic-bronchitis/" class="internal-link">Chronic_Bronchitis</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:29.961007'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/chronic-obstructive-pulmonary-disease/" class="internal-link">Chronic Obstructive Pulmonary Disease</a> - Major subtype.<br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/emphysema/" class="internal-link">Emphysema</a> - Often co-occurs.<br />
-CAUSED_BY::<a class="internal-link is-unresolved" href="/404">Tobacco Smoking</a><br />
-INCREASED_RISK_OF::<a href="/garden/dev_admin/condition/pneumonia/" class="internal-link">Pneumonia</a><br />
-INCREASED_RISK_OF::<a class="internal-link is-unresolved" href="/404">Cor Pulmonale</a> - Right-sided heart failure due to lung disease.<br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Lung</a><br />
-CHARACTERIZED_BY::<a href="/garden/dev_admin/condition/inflammation/" class="internal-link">Inflammation</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-bronchitis/" class="internal-link">Chronic_Bronchitis</a></p>
 <h2>References</h2>
 <ul>
 <li>Global Initiative for Chronic Obstructive Lung Disease (GOLD). (2024). Global Strategy for the Diagnosis, Management, and Prevention of COPD.</li>

@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:06.001325Z'
+created: '2026-03-12T06:00:32.617026Z'
 description: A blockage that inhibits the normal flow of urine through the urinary
   tract, potentially leading to kidney damage and infection.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/urinary-tract-obstruction/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/urinary-tract-obstruction/
 slug: urinary-tract-obstruction
 tags:
 - condition
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Urinary Tract Obstruction
 type: condition
-updated: '2026-02-13T19:38:06.001325Z'
+updated: '2026-03-12T06:00:32.617026Z'
 ---
 
 {% raw %}
@@ -37,26 +37,9 @@ SORT confidence_score DESC
 </code></pre>
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">creatinine</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/urinary-tract-obstruction/" class="internal-link">Urinary_Tract_Obstruction</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:45.856303'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">creatinine</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:45.856303'
-source: obsidian
-</code></pre>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/urinary-tract-obstruction/" class="internal-link">Urinary_Tract_Obstruction</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/creatinine/" class="internal-link">creatinine</a></p>
 <h2>Research</h2>
 <h3>Recent Studies</h3>
 <pre><code class="language-dataview">LIST
@@ -69,42 +52,8 @@ SORT date DESC
 FROM [[Urinary Tract Obstruction]] AND #clinical-trial
 SORT date DESC
 </code></pre>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/urinary-tract-obstruction/" class="internal-link">Urinary_Tract_Obstruction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.647165'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">creatinine</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:52.253411'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">creatinine</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.647165'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/urinary-tract-obstruction/" class="internal-link">Urinary_Tract_Obstruction</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:38.647165'
-source: obsidian
-</code></pre>
-<h3>May Detect</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">creatinine</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
 <h2>References</h2>
 <p>No references available.</p>
 

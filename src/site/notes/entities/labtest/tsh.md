@@ -1,18 +1,18 @@
 ---
-created: '2026-02-13T19:38:07.103618Z'
+created: '2026-03-12T06:00:33.616569Z'
 description: Primary screening test for thyroid function. Elevated in hypothyroidism,
   low in hyperthyroidism.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/tsh/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/tsh/
 slug: tsh
 tags:
 - labtest
 templateEngineOverride: njk
 title: tsh
 type: labtest
-updated: '2026-02-13T19:38:07.103618Z'
+updated: '2026-03-12T06:00:33.616569Z'
 ---
 
 {% raw %}
@@ -57,42 +57,10 @@ updated: '2026-02-13T19:38:07.103618Z'
 <p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/thyroid-panel-complete/" class="internal-link">thyroid_panel_complete</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:28.633850'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/thyroid-panel-complete/" class="internal-link">thyroid_panel_complete</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.388451'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/thyroid-panel-basic/" class="internal-link">thyroid_panel_basic</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:28.633850'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/thyroid-panel-basic/" class="internal-link">thyroid_panel_basic</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:00.286859'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/tsh/" class="internal-link">tsh</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:28.633850'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/thyroid-panel-basic/" class="internal-link">thyroid_panel_basic</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/thyroid-panel-complete/" class="internal-link">thyroid_panel_complete</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

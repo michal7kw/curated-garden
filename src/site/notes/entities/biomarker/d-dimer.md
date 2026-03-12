@@ -1,19 +1,19 @@
 ---
-created: '2026-02-13T19:38:04.754458Z'
+created: '2026-03-12T06:00:31.886624Z'
 description: D-Dimer is a fibrin degradation product released when cross-linked fibrin
   is broken down by plasmin, serving as a sensitive marker for the presence of intravascular
   clot formation and fibrinolysis.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/d-dimer/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/d-dimer/
 slug: d-dimer
 tags:
 - biomarker
 templateEngineOverride: njk
 title: D-Dimer
 type: biomarker
-updated: '2026-02-13T19:38:04.754458Z'
+updated: '2026-03-12T06:00:31.886624Z'
 ---
 
 {% raw %}
@@ -63,24 +63,20 @@ updated: '2026-02-13T19:38:04.754458Z'
 </ul>
 <h2>💊 Supplements That Affect This Biomarker</h2>
 <ul>
-<li><a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> - Mild effect on coagulation parameters and D-Dimer levels (mild, evidence level 3)</li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> - Mild effect on coagulation parameters and D-Dimer levels (mild, evidence level 3)</li>
 <li><a class="internal-link is-unresolved" href="/404">Nattokinase</a> - Fibrinolytic enzyme with direct effects on clot degradation and D-Dimer reduction (moderate, evidence level 2)</li>
 </ul>
 <h2>🧪 Lab Tests That Measure This Biomarker</h2>
 <h3>Direct Tests</h3>
 <ul>
-<li><a href="/garden/dev_admin/biomarker/d-dimer/" class="internal-link">d-dimer</a> - Quantitative D-Dimer immunoassay (turbidimetric or ELISA)</li>
+<li><a href="/garden/michal.k7w@gmail.com/biomarker/d-dimer/" class="internal-link">d-dimer</a> - Quantitative D-Dimer immunoassay (turbidimetric or ELISA)</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Activates</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/fibrinogen/" class="internal-link">Fibrinogen</a> (biomarker)</li>
-</ul>
 <h3>Correlations</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/fibrinogen/" class="internal-link">Fibrinogen</a> (biomarker) - Both elevated in hypercoagulable states; fibrinogen is the precursor of fibrin from which D-Dimer is derived</li>
-<li>→ <a href="/garden/dev_admin/biomarker/platelets/" class="internal-link">Platelets</a> (biomarker) - Platelet consumption may occur alongside elevated D-Dimer in DIC</li>
-</ul>
+<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/platelets/" class="internal-link">Platelets</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/fibrinogen/" class="internal-link">Fibrinogen</a></p>
+<h3>Activates</h3>
+<p>ACTIVATES::<a href="/garden/michal.k7w@gmail.com/labtest/fibrinogen/" class="internal-link">Fibrinogen</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:19358878 - Hsia CH et al. Nattokinase decreases plasma levels of fibrinogen, factor VII, and factor VIII in human subjects. Nutr Res. 2009.</li>

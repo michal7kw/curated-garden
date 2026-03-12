@@ -1,19 +1,19 @@
 ---
-created: '2026-02-13T19:38:06.447211Z'
+created: '2026-03-12T06:00:32.939510Z'
 description: Tested twice a year Alanine aminotransferase (ALT) is an enzyme found
   in the liver that helps process nutrients and toxins. Elevated ALT levels in the
   blood can signal liver cell damage, making it a useful marker of liver health.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/alanine-transaminase-alt/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/alanine-transaminase-alt/
 slug: alanine-transaminase-alt
 tags:
 - labtest
 templateEngineOverride: njk
 title: alanine_transaminase_alt
 type: labtest
-updated: '2026-02-13T19:38:06.447211Z'
+updated: '2026-03-12T06:00:32.939510Z'
 ---
 
 {% raw %}
@@ -60,118 +60,27 @@ updated: '2026-02-13T19:38:06.447211Z'
 <ul>
 <li><a class="internal-link is-unresolved" href="/404">Metabolic Dysfunction-Associated Steatotic Liver Dysfunction (Masld)</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Viral Hepatitis</a></li>
-<li><a href="/garden/dev_admin/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related Liver Injury</a></li>
-<li><a href="/garden/dev_admin/condition/autoimmune-hepatitis/" class="internal-link">Autoimmune Hepatitis</a></li>
-<li><a href="/garden/dev_admin/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced Liver Injury</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related Liver Injury</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/autoimmune-hepatitis/" class="internal-link">Autoimmune Hepatitis</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced Liver Injury</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/autoimmune-hepatitis/" class="internal-link">Autoimmune_Hepatitis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.704918'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced_Liver_Injury</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.704918'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Viral_Hepatitis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.704918'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.704918'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Metabolic_Dysfunction-Associated_Steatotic_Liver_Dysfunction_Masld</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:06.704918'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Metabolic_Dysfunction-Associated_Steatotic_Liver_Dysfunction_Masld</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.215543'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Viral_Hepatitis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.215543'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/autoimmune-hepatitis/" class="internal-link">Autoimmune_Hepatitis</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.215543'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.215543'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced_Liver_Injury</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.215543'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced_Liver_Injury</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:27.359033'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/autoimmune-hepatitis/" class="internal-link">Autoimmune_Hepatitis</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:23.911901'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:22.914283'
-source: obsidian
-</code></pre>
+<h3>Conditions</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/autoimmune-hepatitis/" class="internal-link">Autoimmune_Hepatitis</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced_Liver_Injury</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a></p>
 <h3>May Detect</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced_Liver_Injury</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/autoimmune-hepatitis/" class="internal-link">Autoimmune_Hepatitis</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced_Liver_Injury</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/autoimmune-hepatitis/" class="internal-link">Autoimmune_Hepatitis</a></p>
+<h3>Related</h3>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related_Liver_Injury</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic_Dysfunction-Associated_Steatotic_Liver_Dysfunction_Masld</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/autoimmune-hepatitis/" class="internal-link">Autoimmune_Hepatitis</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced_Liver_Injury</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Viral_Hepatitis</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

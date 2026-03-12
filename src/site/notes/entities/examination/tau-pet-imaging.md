@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:06.295012Z'
+created: '2026-03-12T06:00:32.811616Z'
 description: Positron emission tomography using radiotracers that bind to tau neurofibrillary
   tangles. Correlates strongly with cognitive symptoms and disease progression in
   Alzheimer's disease and other tauopathies.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/examination/tau-pet-imaging/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/examination/tau-pet-imaging/
 slug: tau-pet-imaging
 tags:
 - examination
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Tau PET Imaging
 type: examination
-updated: '2026-02-13T19:38:06.295012Z'
+updated: '2026-03-12T06:00:32.811616Z'
 ---
 
 {% raw %}
@@ -187,29 +187,20 @@ updated: '2026-02-13T19:38:06.295012Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Conditions</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> (condition) - <em>Correlates with symptoms</em></li>
-<li>→ <a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal Dementia</a> (condition) - <em>4R tauopathies</em></li>
-<li>→ <a href="/garden/dev_admin/condition/progressive-supranuclear-palsy/" class="internal-link">Progressive Supranuclear Palsy</a> (condition) - <em>4R tau pattern</em></li>
-<li>→ <a href="/garden/dev_admin/condition/corticobasal-degeneration/" class="internal-link">Corticobasal Degeneration</a> (condition) - <em>Asymmetric 4R tau</em></li>
-<li>→ <a href="/garden/dev_admin/condition/chronic-traumatic-encephalopathy/" class="internal-link">Chronic Traumatic Encephalopathy</a> (condition) - <em>Distinct pattern</em></li>
-</ul>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal Dementia</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Progressive Supranuclear Palsy</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Corticobasal Degeneration</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Traumatic Encephalopathy</a></p>
 <h3>Related Biomarkers</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/phospho-tau/" class="internal-link">Phospho-Tau</a> (biomarker) - <em>CSF/plasma correlate</em></li>
-<li>→ <a href="/garden/dev_admin/biomarker/total-tau/" class="internal-link">Total Tau</a> (biomarker) - <em>Neurodegeneration marker</em></li>
-<li>← <a href="/garden/dev_admin/examination/amyloid-pet-imaging/" class="internal-link">Amyloid PET Imaging</a> (examination) - <em>Combined ATN staging</em></li>
-</ul>
+<p>RELATED_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/biomarker/phospho-tau/" class="internal-link">Phospho-Tau</a><br />
+RELATED_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/biomarker/total-tau/" class="internal-link">Total Tau</a></p>
 <h3>Brain Regions (Affected)</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/entorhinal-cortex/" class="internal-link">Entorhinal Cortex</a> (organ) - <em>Earliest involvement</em></li>
-<li>→ <a href="/garden/dev_admin/organ/hippocampus/" class="internal-link">Hippocampus</a> (organ) - <em>Memory symptoms</em></li>
-<li>→ <a href="/garden/dev_admin/organ/posterior-cingulate-cortex/" class="internal-link">Posterior Cingulate Cortex</a> (organ) - <em>Early neocortical</em></li>
-</ul>
+<p>BRAIN_REGIONS_(AFFECTED)::<a class="internal-link is-unresolved" href="/404">Entorhinal Cortex</a><br />
+BRAIN_REGIONS_(AFFECTED)::<a class="internal-link is-unresolved" href="/404">Hippocampus</a><br />
+BRAIN_REGIONS_(AFFECTED)::<a class="internal-link is-unresolved" href="/404">Posterior Cingulate Cortex</a></p>
 <h3>Pathways</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/pathway/tau-phosphorylation/" class="internal-link">Tau Phosphorylation</a> (pathway) - <em>Visualizes endpoint</em></li>
-</ul>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/tau-phosphorylation/" class="internal-link">Tau Phosphorylation</a></p>
 <h2>Combined ATN Imaging</h2>
 <h3>Complete Biomarker Profile</h3>
 <ul>

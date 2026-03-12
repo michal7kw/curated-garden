@@ -1,18 +1,18 @@
 ---
-created: '2026-02-13T19:38:06.624152Z'
+created: '2026-03-12T06:00:33.089213Z'
 description: Dried urine test for comprehensive hormone analysis including cortisol
   patterns, sex hormones, and metabolites.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/dutch-complete/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/dutch-complete/
 slug: dutch-complete
 tags:
 - labtest
 templateEngineOverride: njk
 title: dutch_complete
 type: labtest
-updated: '2026-02-13T19:38:06.624152Z'
+updated: '2026-03-12T06:00:33.089213Z'
 ---
 
 {% raw %}
@@ -64,24 +64,9 @@ updated: '2026-02-13T19:38:06.624152Z'
 <p>General health screening.</p>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:12.279711'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:15.523733'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">Cortisol</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

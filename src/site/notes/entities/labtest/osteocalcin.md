@@ -1,19 +1,19 @@
 ---
-created: '2026-02-13T19:38:06.938093Z'
+created: '2026-03-12T06:00:33.360213Z'
 description: Osteocalcin test. Bone-specific protein produced by osteoblasts during
   bone formation. Serves as a marker of bone turnover and osteoblast activity. Used
   in monitoring osteoporosis treatment and assessing bone metabolic disorders.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/osteocalcin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/osteocalcin/
 slug: osteocalcin
 tags:
 - labtest
 templateEngineOverride: njk
 title: osteocalcin
 type: labtest
-updated: '2026-02-13T19:38:06.938093Z'
+updated: '2026-03-12T06:00:33.360213Z'
 ---
 
 {% raw %}
@@ -103,21 +103,16 @@ updated: '2026-02-13T19:38:06.938093Z'
 <h3>Conditions</h3>
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
-<li><a href="/garden/dev_admin/condition/osteoporosis/" class="internal-link">Osteoporosis</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/osteoporosis/" class="internal-link">Osteoporosis</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Osteopenia</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Paget's Disease</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Hyperparathyroidism</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Renal Osteodystrophy</a></li>
 </ul>
 <h2>Relationships</h2>
-<h3>Measures</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/osteocalcin/" class="internal-link">Osteocalcin</a> (biomarker)</li>
-</ul>
 <h3>Included In</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/bone-health-panel/" class="internal-link">bone health panel</a> (labtestpanel)</li>
-</ul>
+<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">bone_health_panel</a></p>
+<h3>Measures</h3>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

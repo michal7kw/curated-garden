@@ -1,13 +1,13 @@
 ---
-created: '2026-02-13T19:38:06.790700Z'
+created: '2026-03-12T06:00:33.233120Z'
 description: Lead is a heavy metal commonly found in contaminated water and soil,
   older houses, and some occupational settings. Lead exposure can impact nearly every
   organ, but it most strongly affects the nervous system, blood, bone marrow, kidneys,
   and heart.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/lead/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/lead/
 slug: lead
 tags:
 - labtest
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: lead
 type: labtest
-updated: '2026-02-13T19:38:06.790700Z'
+updated: '2026-03-12T06:00:33.233120Z'
 ---
 
 {% raw %}
@@ -62,149 +62,35 @@ updated: '2026-02-13T19:38:06.790700Z'
 <p>Useful for monitoring or diagnosing:</p>
 <ul>
 <li><a class="internal-link is-unresolved" href="/404">Anemia</a></li>
-<li><a href="/garden/dev_admin/condition/hypertension/" class="internal-link">Hypertension</a></li>
-<li><a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/hypertension/" class="internal-link">Hypertension</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></li>
 <li><a class="internal-link is-unresolved" href="/404">Cognitive Decline</a></li>
-<li><a href="/garden/dev_admin/condition/peripheral-neuropathy/" class="internal-link">Peripheral Neuropathy</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/condition/peripheral-neuropathy/" class="internal-link">Peripheral Neuropathy</a></li>
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
-<h3>Related</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Cognitive_Decline</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:18.287115'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/peripheral-neuropathy/" class="internal-link">Peripheral_Neuropathy</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:18.287115'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:18.287115'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Cognitive_Decline</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.745625'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Anemia</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.745625'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.745625'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/peripheral-neuropathy/" class="internal-link">Peripheral_Neuropathy</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.745625'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtestpanel/forever-chemicals-pfas-exposure/" class="internal-link">forever_chemicals_pfas_exposure</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:04.374771'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtestpanel/extended-heavy-metals/" class="internal-link">extended_heavy_metals</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:03.172630'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtestpanel/bisphenol-a-bpa-exposure/" class="internal-link">bisphenol_a_bpa_exposure</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:08:02.222515'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/hypertension/" class="internal-link">Hypertension</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:55.745625'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/forever-chemicals-pfas-exposure/" class="internal-link">forever_chemicals_pfas_exposure</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:18.287115'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/bisphenol-a-bpa-exposure/" class="internal-link">bisphenol_a_bpa_exposure</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:18.287115'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/extended-heavy-metals/" class="internal-link">extended_heavy_metals</a> (labtestpanel)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:18.287115'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/peripheral-neuropathy/" class="internal-link">Peripheral_Neuropathy</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:50.197040'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/hypertension/" class="internal-link">Hypertension</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:29.661054'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:26.198940'
-source: obsidian
-</code></pre>
-<h3>May Detect</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/peripheral-neuropathy/" class="internal-link">Peripheral_Neuropathy</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/hypertension/" class="internal-link">Hypertension</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
 <h3>Included In</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtestpanel/forever-chemicals-pfas-exposure/" class="internal-link">forever_chemicals_pfas_exposure</a> (labtestpanel)</li>
-<li>→ <a href="/garden/dev_admin/labtestpanel/extended-heavy-metals/" class="internal-link">extended_heavy_metals</a> (labtestpanel)</li>
-<li>→ <a href="/garden/dev_admin/labtestpanel/bisphenol-a-bpa-exposure/" class="internal-link">bisphenol_a_bpa_exposure</a> (labtestpanel)</li>
-</ul>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">forever_chemicals_pfas_exposure</a><br />
+INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">bisphenol_a_bpa_exposure</a><br />
+INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">extended_heavy_metals</a></p>
+<h3>Related</h3>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Anemia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">bisphenol_a_bpa_exposure</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/hypertension/" class="internal-link">Hypertension</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">extended_heavy_metals</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/peripheral-neuropathy/" class="internal-link">Peripheral_Neuropathy</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Cognitive_Decline</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">forever_chemicals_pfas_exposure</a></p>
+<h3>Conditions</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/hypertension/" class="internal-link">Hypertension</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/peripheral-neuropathy/" class="internal-link">Peripheral_Neuropathy</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a></p>
+<h3>May Detect</h3>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/hypertension/" class="internal-link">Hypertension</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/peripheral-neuropathy/" class="internal-link">Peripheral_Neuropathy</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

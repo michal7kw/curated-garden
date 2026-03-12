@@ -1,12 +1,12 @@
 ---
-created: '2026-02-13T19:38:06.666871Z'
+created: '2026-03-12T06:00:33.125479Z'
 description: Tested twice a year Globulin is a protein essential for liver function,
   blood clotting, and immune system operations. Abnormal globulin levels may indicate
   changes affecting the liver, immune system, or overall health.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/globulin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/globulin/
 slug: globulin
 tags:
 - labtest
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: globulin
 type: labtest
-updated: '2026-02-13T19:38:06.666871Z'
+updated: '2026-03-12T06:00:33.125479Z'
 ---
 
 {% raw %}
@@ -68,72 +68,13 @@ updated: '2026-02-13T19:38:06.666871Z'
 </ul>
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:13.450913'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:13.450913'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Monoclonal_Gammopathies_EG_Multiple_Myeloma_Mgus</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:13.450913'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Chronic_Inflammation_EG_Autoimmune_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:13.450913'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Malnutrition_Or_Poor_Absorption</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:48:13.450913'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Monoclonal_Gammopathies_EG_Multiple_Myeloma_Mgus</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.218767'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Chronic_Inflammation_EG_Autoimmune_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.218767'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Malnutrition_Or_Poor_Absorption</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.218767'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Kidney_Disease</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.218767'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:53.218767'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
-<h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Chronic_Inflammation_EG_Autoimmune_Disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Monoclonal_Gammopathies_EG_Multiple_Myeloma_Mgus</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Malnutrition_Or_Poor_Absorption</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

@@ -1,11 +1,11 @@
 ---
-created: '2026-02-13T19:38:05.908179Z'
+created: '2026-03-12T06:00:32.559810Z'
 description: A chronic, progressive disease of the bile ducts characterized by inflammation,
   scarring, and narrowing of the ducts both inside and outside the liver.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/primary-sclerosing-cholangitis/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/primary-sclerosing-cholangitis/
 slug: primary-sclerosing-cholangitis
 tags:
 - condition
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Primary Sclerosing Cholangitis
 type: condition
-updated: '2026-02-13T19:38:05.908179Z'
+updated: '2026-03-12T06:00:32.559810Z'
 ---
 
 {% raw %}
@@ -38,26 +38,9 @@ SORT confidence_score DESC
 </code></pre>
 <h2>Other Relationships</h2>
 <h3>May Detect</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/alkaline-phosphatase-alp/" class="internal-link">alkaline_phosphatase_alp</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/primary-sclerosing-cholangitis/" class="internal-link">Primary_Sclerosing_Cholangitis</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:37.655705'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/alkaline-phosphatase-alp/" class="internal-link">alkaline_phosphatase_alp</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:37.655705'
-source: obsidian
-</code></pre>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/primary-sclerosing-cholangitis/" class="internal-link">Primary_Sclerosing_Cholangitis</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/alkaline-phosphatase-alp/" class="internal-link">alkaline_phosphatase_alp</a></p>
 <h2>Research</h2>
 <h3>Recent Studies</h3>
 <pre><code class="language-dataview">LIST
@@ -70,42 +53,8 @@ SORT date DESC
 FROM [[Primary Sclerosing Cholangitis]] AND #clinical-trial
 SORT date DESC
 </code></pre>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/primary-sclerosing-cholangitis/" class="internal-link">Primary_Sclerosing_Cholangitis</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.573940'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/alkaline-phosphatase-alp/" class="internal-link">alkaline_phosphatase_alp</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:49.561127'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/primary-sclerosing-cholangitis/" class="internal-link">Primary_Sclerosing_Cholangitis</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.573940'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/alkaline-phosphatase-alp/" class="internal-link">alkaline_phosphatase_alp</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:36.573940'
-source: obsidian
-</code></pre>
-<h3>May Detect</h3>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/alkaline-phosphatase-alp/" class="internal-link">alkaline_phosphatase_alp</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">confidence: suggested
-created_at: '2026-01-18T16:02:36.677740'
-source: function-health
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
 <h2>References</h2>
 <p>No references available.</p>
 

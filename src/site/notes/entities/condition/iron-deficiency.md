@@ -1,16 +1,16 @@
 ---
-created: '2026-02-13T19:38:05.670447Z'
+created: '2026-03-12T06:00:32.430111Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/iron-deficiency/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/iron-deficiency/
 slug: iron-deficiency
 tags:
 - condition
 templateEngineOverride: njk
 title: Iron Deficiency
 type: condition
-updated: '2026-02-13T19:38:05.670447Z'
+updated: '2026-03-12T06:00:32.430111Z'
 ---
 
 {% raw %}
@@ -32,161 +32,32 @@ SORT confidence_score DESC
 </code></pre>
 <h2>Other Relationships</h2>
 <h3>Requires Biomarker</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">Ferritin</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:39.366268'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/tibc/" class="internal-link">TIBC</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:39.366268'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/transferrin-saturation/" class="internal-link">Transferrin_Saturation</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:39.366268'
-source: obsidian
-</code></pre>
+<p>REQUIRES_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/ferritin/" class="internal-link">Ferritin</a><br />
+REQUIRES_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/biomarker/tibc/" class="internal-link">TIBC</a><br />
+REQUIRES_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/biomarker/transferrin-saturation/" class="internal-link">Transferrin_Saturation</a></p>
 <h3>Increases Risk For</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T08:39:25.239061'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Restless_Leg_Syndrome</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:39.366268'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:39.366268'
-source: obsidian
-</code></pre>
+<p>INCREASES_RISK_FOR::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a><br />
+INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Restless_Leg_Syndrome</a></p>
 <h3>Affects Organ</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Bone_Marrow</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:39.366268'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a> (organ)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:39.366268'
-source: obsidian
-</code></pre>
+<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Bone_Marrow</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a></p>
 <h3>Improved By Supplement</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Iron_Bisglycinate</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:39.366268'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin_C</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:39.366268'
-source: obsidian
-</code></pre>
+<p>IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Iron_Bisglycinate</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-c/" class="internal-link">Vitamin_C</a></p>
 <h3>Modulated By Pathway</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Iron_Metabolism</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:30:39.366268'
-source: obsidian
-</code></pre>
+<p>MODULATED_BY_PATHWAY::<a class="internal-link is-unresolved" href="/404">Iron_Metabolism</a></p>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/clinicalpattern/iron-deficiency-pattern/" class="internal-link">Iron_Deficiency_Pattern</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:16.661054'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">Ferritin</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:16.661054'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/tibc/" class="internal-link">TIBC</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:16.661054'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/transferrin-saturation/" class="internal-link">Transferrin_Saturation</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:16.661054'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:16.661054'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Restless_Leg_Syndrome</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:16.661054'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Bone_Marrow</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:16.661054'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a> (organ)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:16.661054'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Iron_Bisglycinate</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:16.661054'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin_C</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:16.661054'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Iron_Metabolism</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:31:16.661054'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/iron/" class="internal-link">iron</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:26.595154'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/iron-binding-capacity/" class="internal-link">iron_binding_capacity</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:26.895499'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/iron-saturation/" class="internal-link">iron_saturation</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-19T09:32:27.471024'
-source: obsidian
-</code></pre>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Iron_Deficiency_Pattern</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/ferritin/" class="internal-link">Ferritin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/tibc/" class="internal-link">TIBC</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/transferrin-saturation/" class="internal-link">Transferrin_Saturation</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Restless_Leg_Syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Bone_Marrow</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Iron_Bisglycinate</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-c/" class="internal-link">Vitamin_C</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Iron_Metabolism</a></p>
 <h2>Research</h2>
 <h3>Recent Studies</h3>
 <pre><code class="language-dataview">LIST
@@ -199,201 +70,18 @@ SORT date DESC
 FROM [[Iron Deficiency Pattern]] AND #clinical-trial
 SORT date DESC
 </code></pre>
-<!-- NEO4J_CONTENT_START -->
 <h2>Relationships</h2>
 <h3>Related</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/clinicalpattern/iron-deficiency-pattern/" class="internal-link">Iron_Deficiency_Pattern</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:30.886190'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/iron-deficiency/" class="internal-link">Iron_Deficiency</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:47:42.923345'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/iron-deficiency/" class="internal-link">iron_deficiency</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.184931'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Iron_Metabolism</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.184931'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.184931'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin_C</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.184931'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/clinicalpattern/iron-deficiency-pattern/" class="internal-link">Iron_Deficiency_Pattern</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.184931'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/transferrin-saturation/" class="internal-link">Transferrin_Saturation</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.184931'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Iron_Bisglycinate</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.184931'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Bone_Marrow</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.184931'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/tibc/" class="internal-link">TIBC</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.184931'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Restless_Leg_Syndrome</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.184931'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/iron-binding-capacity/" class="internal-link">iron_binding_capacity</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.184931'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/iron/" class="internal-link">iron</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.184931'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/iron-saturation/" class="internal-link">iron_saturation</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.184931'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/iron-saturation/" class="internal-link">iron_saturation</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.849989'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/labtest/iron-binding-capacity/" class="internal-link">iron_binding_capacity</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.670159'
-source: obsidian
-</code></pre>
-<ul>
-<li>← <a href="/garden/dev_admin/supplement/iron/" class="internal-link">iron</a> (labtest)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:54.949570'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a> (organ)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.184931'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">Ferritin</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:31.184931'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/iron-deficiency/" class="internal-link">Iron_Deficiency</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T06:03:42.957243'
-source: obsidian
-</code></pre>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency/" class="internal-link">Iron_Deficiency</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency/" class="internal-link">iron_deficiency</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/iron-binding-capacity/" class="internal-link">iron_binding_capacity</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/iron/" class="internal-link">iron</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/iron-saturation/" class="internal-link">iron_saturation</a></p>
 <h3>Modulated By Pathway</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Iron_Metabolism</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.890940'
-source: obsidian
-</code></pre>
 <h3>Improved By Supplement</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Iron_Bisglycinate</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.890940'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin_C</a> (supplement)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.890940'
-source: obsidian
-</code></pre>
 <h3>Affects Organ</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Bone_Marrow</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.890940'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a> (organ)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.890940'
-source: obsidian
-</code></pre>
 <h3>Increases Risk For</h3>
-<ul>
-<li>→ <a class="internal-link is-unresolved" href="/404">Restless_Leg_Syndrome</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.890940'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a> (condition)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.890940'
-source: obsidian
-</code></pre>
 <h3>Requires Biomarker</h3>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/tibc/" class="internal-link">TIBC</a> (entity)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.890940'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">Ferritin</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.890940'
-source: obsidian
-</code></pre>
-<ul>
-<li>→ <a href="/garden/dev_admin/biomarker/transferrin-saturation/" class="internal-link">Transferrin_Saturation</a> (biomarker)</li>
-</ul>
-<pre><code class="language-yaml">last_modified: '2026-01-26T07:07:20.890940'
-source: obsidian
-</code></pre>
-<!-- NEO4J_CONTENT_END -->
 <h2>References</h2>
 <p>No references available.</p>
 
