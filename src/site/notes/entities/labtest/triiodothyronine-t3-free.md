@@ -1,5 +1,5 @@
 ---
-created: '2026-03-27T09:46:14.001690Z'
+created: '2026-03-28T07:29:07.422851Z'
 description: try-eye-oh-doh-thigh-ruh-neen tee-three free Triiodothyronine (T3) Free
   is the active thyroid hormone that directly regulates metabolism, energy levels,
   and body temperature. Most T3 is made by converting T4 into this active form. Measuring
@@ -7,15 +7,15 @@ description: try-eye-oh-doh-thigh-ruh-neen tee-three free Triiodothyronine (T3) 
   hormone is available for the body to use.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/triiodothyronine-t3-free/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/triiodothyronine-t3-free/
 slug: triiodothyronine-t3-free
 tags:
 - labtest
 templateEngineOverride: njk
 title: triiodothyronine_t3_free
 type: labtest
-updated: '2026-03-27T09:46:14.001690Z'
+updated: '2026-03-28T07:29:07.422851Z'
 ---
 
 {% raw %}
@@ -64,13 +64,13 @@ updated: '2026-03-27T09:46:14.001690Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Hypothyroidism</a><br />
-RELATED::<a href="/garden/dev_admin/condition/graves-disease/" class="internal-link">GraveS_Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/graves-disease/" class="internal-link">GraveS_Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Euthyroid_Sick_Syndrome_Low_T3_Syndrome_In_Critical_Illness</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Thyroiditis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Pituitary_Or_Hypothalamic_Dysfunction_Central_Hypothyroidism</a><br />
-RELATED::<a href="/garden/dev_admin/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a></p>
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/dev_admin/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a></p>
+<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

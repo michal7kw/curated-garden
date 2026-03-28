@@ -1,16 +1,16 @@
 ---
-created: '2026-03-27T09:46:14.194538Z'
+created: '2026-03-28T07:29:07.816774Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/arthralgia/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/arthralgia/
 slug: arthralgia
 tags:
 - condition
 templateEngineOverride: njk
 title: Arthralgia
 type: condition
-updated: '2026-03-27T09:46:14.194538Z'
+updated: '2026-03-28T07:29:07.816774Z'
 ---
 
 {% raw %}
@@ -18,6 +18,6 @@ updated: '2026-03-27T09:46:14.194538Z'
 <h2>Description</h2>
 <h2>Relationships</h2>
 <h3>Related To Phenotype</h3>
-<p>RELATED_TO_PHENOTYPE::<a href="/garden/dev_admin/condition/pain/" class="internal-link">Pain</a></p>
+<p>RELATED_TO_PHENOTYPE::<a href="/garden/michal.k7w@gmail.com/condition/pain/" class="internal-link">Pain</a></p>
 
 {% endraw %}

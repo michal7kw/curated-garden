@@ -1,5 +1,5 @@
 ---
-created: '2026-03-27T09:46:13.894339Z'
+created: '2026-03-28T07:29:07.211926Z'
 description: Magnesium is an essential mineral involved in hundreds of processes in
   the body, including building strong bones, maintaining a steady heart rhythm, supporting
   muscle function, and producing energy. Nearly half of U.S. adults don't get enough
@@ -8,8 +8,8 @@ description: Magnesium is an essential mineral involved in hundreds of processes
   problems.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/magnesium/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/magnesium/
 slug: magnesium
 tags:
 - labtest
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: magnesium
 type: labtest
-updated: '2026-03-27T09:46:13.894339Z'
+updated: '2026-03-28T07:29:07.211926Z'
 ---
 
 {% raw %}
@@ -67,20 +67,20 @@ updated: '2026-03-27T09:46:13.894339Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Poor_Sleep_Quality</a><br />
-RELATED::<a href="/garden/dev_admin/condition/magnesium-deficiency/" class="internal-link">Magnesium_Deficiency</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/magnesium-deficiency/" class="internal-link">Magnesium_Deficiency</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Poor_Nutrient_Absorption</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Increased_Cardiovascular_Risk</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Neuromuscular_Dysfunction</a><br />
-RELATED::<a href="/garden/dev_admin/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Mood_Or_Congition_Changes</a><br />
-RELATED::<a href="/garden/dev_admin/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a></p>
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/dev_admin/condition/magnesium-deficiency/" class="internal-link">Magnesium_Deficiency</a></p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/magnesium-deficiency/" class="internal-link">Magnesium_Deficiency</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/dev_admin/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a><br />
-INCLUDED_IN::<a href="/garden/dev_admin/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a></p>
+<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a><br />
+INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/magnesium-deficiency/" class="internal-link">Magnesium_Deficiency</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/magnesium-deficiency/" class="internal-link">Magnesium_Deficiency</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

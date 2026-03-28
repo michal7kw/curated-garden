@@ -1,18 +1,18 @@
 ---
-created: '2026-03-27T09:46:14.009851Z'
+created: '2026-03-28T07:29:07.438800Z'
 description: Primary screening test for thyroid function. Elevated in hypothyroidism,
   low in hyperthyroidism.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/tsh/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/tsh/
 slug: tsh
 tags:
 - labtest
 templateEngineOverride: njk
 title: tsh
 type: labtest
-updated: '2026-03-27T09:46:14.009851Z'
+updated: '2026-03-28T07:29:07.438800Z'
 ---
 
 {% raw %}
@@ -59,8 +59,8 @@ updated: '2026-03-27T09:46:14.009851Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/labtest/thyroid-panel-complete/" class="internal-link">thyroid_panel_complete</a><br />
-RELATED::<a href="/garden/dev_admin/labtest/thyroid-panel-basic/" class="internal-link">thyroid_panel_basic</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/thyroid-panel-complete/" class="internal-link">thyroid_panel_complete</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/thyroid-panel-basic/" class="internal-link">thyroid_panel_basic</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

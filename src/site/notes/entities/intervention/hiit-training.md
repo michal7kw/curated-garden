@@ -1,13 +1,13 @@
 ---
-created: '2026-03-27T09:46:13.693771Z'
+created: '2026-03-28T07:29:06.830767Z'
 description: High-Intensity Interval Training - exercise protocol alternating short
   bursts of intense anaerobic activity with recovery periods. Highly time-efficient
   method for improving cardiovascular fitness, insulin sensitivity, mitochondrial
   function, and metabolic health in as little as 10-20 minutes.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/intervention/hiit-training/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/intervention/hiit-training/
 slug: hiit-training
 tags:
 - intervention
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: HIIT Training
 type: intervention
-updated: '2026-03-27T09:46:13.693771Z'
+updated: '2026-03-28T07:29:06.830767Z'
 ---
 
 {% raw %}

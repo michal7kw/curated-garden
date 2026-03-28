@@ -1,11 +1,11 @@
 ---
-created: '2026-03-27T09:46:13.527136Z'
+created: '2026-03-28T07:29:06.474124Z'
 description: A pregnancy complication characterized by high blood pressure and signs
   of damage to another organ system, most often the liver and kidneys.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/pre-eclampsia/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/pre-eclampsia/
 slug: pre-eclampsia
 tags:
 - condition
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Pre-Eclampsia
 type: condition
-updated: '2026-03-27T09:46:13.527136Z'
+updated: '2026-03-28T07:29:06.474124Z'
 ---
 
 {% raw %}
@@ -25,16 +25,16 @@ updated: '2026-03-27T09:46:13.527136Z'
 <p>A pregnancy complication characterized by high blood pressure and signs of damage to another organ system, most often the liver and kidneys.</p>
 <h2>Relationships</h2>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
-ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/alanine-transaminase/" class="internal-link">Alanine Transaminase</a><br />
-ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">Creatinine</a><br />
-ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/platelets/" class="internal-link">Platelets</a><br />
-ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/uric-acid/" class="internal-link">Uric Acid</a></p>
+<p>ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
+ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/alanine-transaminase/" class="internal-link">Alanine Transaminase</a><br />
+ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/platelets/" class="internal-link">Platelets</a><br />
+ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/uric-acid/" class="internal-link">Uric Acid</a></p>
 <h3>Improved By Supplement</h3>
-<p>IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/magnesium/" class="internal-link">Magnesium</a><br />
-IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/vitamin-d/" class="internal-link">Vitamin D</a><br />
-IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
-IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/magnesium/" class="internal-link">Magnesium</a><br />
-IMPROVED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/folate/" class="internal-link">Folate</a></p>
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/labtest/magnesium/" class="internal-link">Magnesium</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/labtest/vitamin-d/" class="internal-link">Vitamin D</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/labtest/magnesium/" class="internal-link">Magnesium</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/folate/" class="internal-link">Folate</a></p>
 
 {% endraw %}

@@ -1,13 +1,13 @@
 ---
-created: '2026-03-27T09:46:13.662618Z'
+created: '2026-03-28T07:29:06.713119Z'
 description: Optimize exercise performance, recovery, and adaptation. Creatine is
   the most studied ergogenic supplement, beta-alanine buffers muscle acidosis, citrulline
   enhances blood flow, electrolytes prevent exercise-induced depletion, and magnesium
   supports muscle function.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/healthstack/athletic-performance/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/healthstack/athletic-performance/
 slug: athletic-performance
 tags:
 - healthstack
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Athletic Performance
 type: healthstack
-updated: '2026-03-27T09:46:13.662618Z'
+updated: '2026-03-28T07:29:06.713119Z'
 ---
 
 {% raw %}
@@ -44,7 +44,7 @@ updated: '2026-03-27T09:46:13.662618Z'
 <td>Increases phosphocreatine stores for high-intensity efforts</td>
 </tr>
 <tr>
-<td><a href="/garden/dev_admin/supplement/beta-alanine/" class="internal-link">Beta-Alanine</a></td>
+<td><a href="/garden/michal.k7w@gmail.com/supplement/beta-alanine/" class="internal-link">Beta-Alanine</a></td>
 <td>3.2g</td>
 <td>once daily</td>
 <td>morning</td>
@@ -86,7 +86,7 @@ updated: '2026-03-27T09:46:13.662618Z'
 </thead>
 <tbody>
 <tr>
-<td><a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">Ferritin</a></td>
+<td><a href="/garden/michal.k7w@gmail.com/labtest/ferritin/" class="internal-link">Ferritin</a></td>
 <td>30-300</td>
 <td>50-150</td>
 <td>ng/mL</td>
@@ -107,7 +107,7 @@ updated: '2026-03-27T09:46:13.662618Z'
 <td>Anabolic hormone — low levels impair recovery and adaptation</td>
 </tr>
 <tr>
-<td><a href="/garden/dev_admin/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a></td>
+<td><a href="/garden/michal.k7w@gmail.com/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a></td>
 <td>30-100</td>
 <td>50-80</td>
 <td>ng/mL</td>

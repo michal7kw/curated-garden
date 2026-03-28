@@ -1,12 +1,12 @@
 ---
-created: '2026-03-27T09:46:13.696331Z'
+created: '2026-03-28T07:29:06.834736Z'
 description: The ketogenic diet is a very low-carb, high-fat diet that involves drastically
   reducing carbohydrate intake and replacing it with fat. This reduction in carbs
   puts your body into a metabolic state called ketosis.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/intervention/keto-diet/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/intervention/keto-diet/
 slug: keto-diet
 tags:
 - diet
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Keto Diet
 type: intervention
-updated: '2026-03-27T09:46:13.696331Z'
+updated: '2026-03-28T07:29:06.834736Z'
 ---
 
 {% raw %}
@@ -41,17 +41,17 @@ updated: '2026-03-27T09:46:13.696331Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Affects</h3>
-<p>AFFECTS::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
+<p>AFFECTS::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
-RELATED::<a href="/garden/dev_admin/drug/mct8-oil/" class="internal-link">MCT8_Oil</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a><br />
-RELATED::<a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a><br />
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/drug/mct8-oil/" class="internal-link">MCT8_Oil</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/diabetes/" class="internal-link">Diabetes</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">health_goals</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/diabetes/" class="internal-link">Diabetes</a></p>
 <h3>Requires Supplement</h3>
-<p>REQUIRES_SUPPLEMENT::<a href="/garden/dev_admin/drug/mct8-oil/" class="internal-link">MCT8_Oil</a></p>
+<p>REQUIRES_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/drug/mct8-oil/" class="internal-link">MCT8_Oil</a></p>
 <h2>Research Support</h2>
 <p>No research studies documented yet.</p>
 <h2>References</h2>

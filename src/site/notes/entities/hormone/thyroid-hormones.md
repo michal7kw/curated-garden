@@ -1,19 +1,19 @@
 ---
-created: '2026-03-27T09:46:13.686127Z'
+created: '2026-03-28T07:29:06.809188Z'
 description: Thyroid hormones (T4/thyroxine and T3/triiodothyronine) regulate metabolism,
   energy production, growth, and development in virtually every tissue. Essential
   for normal brain development, body temperature regulation, and metabolic rate.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/hormone/thyroid-hormones/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/hormone/thyroid-hormones/
 slug: thyroid-hormones
 tags:
 - hormone
 templateEngineOverride: njk
 title: Thyroid Hormones
 type: hormone
-updated: '2026-03-27T09:46:13.686127Z'
+updated: '2026-03-28T07:29:06.809188Z'
 ---
 
 {% raw %}
@@ -22,10 +22,10 @@ updated: '2026-03-27T09:46:13.686127Z'
 <p>Thyroid hormones (T4/thyroxine and T3/triiodothyronine) regulate metabolism, energy production, growth, and development in virtually every tissue. Essential for normal brain development, body temperature regulation, and metabolic rate.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/labtest/zinc/" class="internal-link">Zinc</a><br />
-RELATED::<a href="/garden/dev_admin/labtest/vitamin-d/" class="internal-link">Vitamin_D</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/selenium/" class="internal-link">Selenium</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/ashwagandha/" class="internal-link">Ashwagandha</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/zinc/" class="internal-link">Zinc</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/vitamin-d/" class="internal-link">Vitamin_D</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/selenium/" class="internal-link">Selenium</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/ashwagandha/" class="internal-link">Ashwagandha</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a></p>
 
 {% endraw %}

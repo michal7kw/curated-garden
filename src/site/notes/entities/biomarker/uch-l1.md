@@ -1,12 +1,12 @@
 ---
-created: '2026-03-27T09:46:13.245858Z'
+created: '2026-03-28T07:29:06.075451Z'
 description: Ubiquitin C-terminal Hydrolase L1, a neuron-specific enzyme released
   upon neuronal injury. FDA-cleared for traumatic brain injury assessment in combination
   with GFAP.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/uch-l1/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/uch-l1/
 slug: uch-l1
 tags:
 - biomarker
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: UCH-L1
 type: biomarker
-updated: '2026-03-27T09:46:13.245858Z'
+updated: '2026-03-28T07:29:06.075451Z'
 ---
 
 {% raw %}
@@ -27,13 +27,13 @@ updated: '2026-03-27T09:46:13.245858Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Hypoxic_Brain_Injury</a><br />
-RELATED::<a href="/garden/dev_admin/biomarker/blood-nfl/" class="internal-link">Blood_NfL</a><br />
-RELATED::<a href="/garden/dev_admin/biomarker/s100b/" class="internal-link">S100B</a><br />
-RELATED::<a href="/garden/dev_admin/biomarker/nse/" class="internal-link">NSE</a><br />
-RELATED::<a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/blood-nfl/" class="internal-link">Blood_NfL</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/s100b/" class="internal-link">S100B</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/nse/" class="internal-link">NSE</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Cardiac_Arrest</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Traumatic_Brain_Injury</a><br />
-RELATED::<a href="/garden/dev_admin/biomarker/gfap/" class="internal-link">GFAP</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/gfap/" class="internal-link">GFAP</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Stroke</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">CT_Head</a></p>
 

@@ -1,16 +1,16 @@
 ---
-created: '2026-03-27T09:46:14.249088Z'
+created: '2026-03-28T07:29:07.921898Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/pain/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/pain/
 slug: pain
 tags:
 - condition
 templateEngineOverride: njk
 title: Pain
 type: condition
-updated: '2026-03-27T09:46:14.249088Z'
+updated: '2026-03-28T07:29:07.921898Z'
 ---
 
 {% raw %}
@@ -18,7 +18,7 @@ updated: '2026-03-27T09:46:14.249088Z'
 <h2>Description</h2>
 <h2>Relationships</h2>
 <h3>Related To Phenotype</h3>
-<p>RELATED_TO_PHENOTYPE::<a href="/garden/dev_admin/phenotype/abdominal-pain/" class="internal-link">Abdominal_pain</a><br />
-RELATED_TO_PHENOTYPE::<a href="/garden/dev_admin/condition/arthralgia/" class="internal-link">Arthralgia</a></p>
+<p>RELATED_TO_PHENOTYPE::<a href="/garden/michal.k7w@gmail.com/phenotype/abdominal-pain/" class="internal-link">Abdominal_pain</a><br />
+RELATED_TO_PHENOTYPE::<a href="/garden/michal.k7w@gmail.com/condition/arthralgia/" class="internal-link">Arthralgia</a></p>
 
 {% endraw %}

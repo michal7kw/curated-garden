@@ -1,13 +1,13 @@
 ---
-created: '2026-03-27T09:46:14.093011Z'
+created: '2026-03-28T07:29:07.595357Z'
 description: High-energy phosphate compound that serves as a rapid ATP buffer in tissues
   with high and fluctuating energy demands, particularly skeletal muscle, heart, and
   brain. The phosphocreatine-creatine kinase system provides immediate ATP regeneration
   during intense activity.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/metabolite/phosphocreatine/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/metabolite/phosphocreatine/
 slug: phosphocreatine
 tags:
 - metabolite
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Phosphocreatine
 type: metabolite
-updated: '2026-03-27T09:46:14.093011Z'
+updated: '2026-03-28T07:29:07.595357Z'
 ---
 
 {% raw %}
@@ -28,7 +28,7 @@ updated: '2026-03-27T09:46:14.093011Z'
 <p>High-energy phosphate compound that serves as a rapid ATP buffer in tissues with high and fluctuating energy demands, particularly skeletal muscle, heart, and brain. The phosphocreatine-creatine kinase system provides immediate ATP regeneration during intense activity.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/metabolite/atp/" class="internal-link">ATP</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/creatine/" class="internal-link">Creatine</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/atp/" class="internal-link">ATP</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/creatine/" class="internal-link">Creatine</a></p>
 
 {% endraw %}

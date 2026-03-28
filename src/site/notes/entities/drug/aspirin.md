@@ -1,12 +1,12 @@
 ---
-created: '2026-03-27T09:46:13.591023Z'
+created: '2026-03-28T07:29:06.565573Z'
 description: Nonsteroidal anti-inflammatory drug (NSAID) with irreversible antiplatelet
   effects. Used for pain, fever, inflammation, and cardiovascular protection. One
   of the most widely used medications worldwide.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/drug/aspirin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/drug/aspirin/
 slug: aspirin
 tags:
 - drug
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Aspirin
 type: drug
-updated: '2026-03-27T09:46:13.591023Z'
+updated: '2026-03-28T07:29:06.565573Z'
 ---
 
 {% raw %}

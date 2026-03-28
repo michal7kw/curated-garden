@@ -1,16 +1,16 @@
 ---
-created: '2026-03-27T09:46:13.284083Z'
+created: '2026-03-28T07:29:06.141216Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/cognitivefunction/memory-and-learning/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/cognitivefunction/memory-and-learning/
 slug: memory-and-learning
 tags:
 - cognitivefunction
 templateEngineOverride: njk
 title: Memory and Learning
 type: cognitivefunction
-updated: '2026-03-27T09:46:13.284083Z'
+updated: '2026-03-28T07:29:06.141216Z'
 ---
 
 {% raw %}

@@ -1,18 +1,18 @@
 ---
-created: '2026-03-27T09:46:13.725367Z'
+created: '2026-03-28T07:29:06.890541Z'
 description: Measures 20+ amino acids. Useful for protein metabolism, neurotransmitter
   synthesis, and metabolic disorders.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/amino-acids-plasma/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/amino-acids-plasma/
 slug: amino-acids-plasma
 tags:
 - labtest
 templateEngineOverride: njk
 title: amino_acids_plasma
 type: labtest
-updated: '2026-03-27T09:46:13.725367Z'
+updated: '2026-03-28T07:29:06.890541Z'
 ---
 
 {% raw %}

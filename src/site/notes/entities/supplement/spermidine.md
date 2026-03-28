@@ -1,5 +1,5 @@
 ---
-created: '2026-03-27T09:46:14.436439Z'
+created: '2026-03-28T07:29:08.378376Z'
 description: Natural polyamine that induces autophagy via inhibition of acetyltransferase
   EP300 (p300). Found in wheat germ, soybeans, aged cheese, natto, and mushrooms.
   Associated with increased lifespan in yeast, flies, worms, and mice. Human epidemiological
@@ -7,8 +7,8 @@ description: Natural polyamine that induces autophagy via inhibition of acetyltr
   cognitive decline.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/supplement/spermidine/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/supplement/spermidine/
 slug: spermidine
 tags:
 - supplement
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Spermidine
 type: supplement
-updated: '2026-03-27T09:46:14.436439Z'
+updated: '2026-03-28T07:29:08.378376Z'
 ---
 
 {% raw %}
@@ -39,15 +39,15 @@ updated: '2026-03-27T09:46:14.436439Z'
 RELATED::<a class="internal-link is-unresolved" href="/404">Cellular_Senescence_Pathway</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Inflammaging</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">AMPK_alpha</a><br />
-RELATED::<a href="/garden/dev_admin/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a><br />
-RELATED::<a href="/garden/dev_admin/organ/hippocampus/" class="internal-link">Hippocampus</a></p>
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/organ/hippocampus/" class="internal-link">Hippocampus</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>
+<p>AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/inflammation/" class="internal-link">Inflammation</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/inflammation/" class="internal-link">Inflammation</a></p>
 
 {% endraw %}

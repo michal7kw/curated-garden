@@ -1,13 +1,13 @@
 ---
-created: '2026-03-27T09:46:13.703278Z'
+created: '2026-03-28T07:29:06.850575Z'
 description: Heat therapy using dry heat (Finnish sauna, 80-100C) or infrared radiation
   (infrared sauna, 40-60C). Regular use associated with reduced cardiovascular mortality,
   improved endothelial function, and enhanced heat shock protein expression. Triggers
   hormetic stress response with adaptations similar to moderate exercise.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/intervention/sauna/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/intervention/sauna/
 slug: sauna
 tags:
 - intervention
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Sauna
 type: intervention
-updated: '2026-03-27T09:46:13.703278Z'
+updated: '2026-03-28T07:29:06.850575Z'
 ---
 
 {% raw %}
@@ -43,10 +43,10 @@ updated: '2026-03-27T09:46:13.703278Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/organ/heart/" class="internal-link">Heart</a><br />
-RELATED::<a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a><br />
-RELATED::<a href="/garden/dev_admin/hormone/growth-hormone/" class="internal-link">Growth_Hormone</a><br />
-RELATED::<a href="/garden/dev_admin/intervention/cold-exposure/" class="internal-link">Cold_Exposure</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/organ/heart/" class="internal-link">Heart</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/exercise/" class="internal-link">Exercise</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/hormone/growth-hormone/" class="internal-link">Growth_Hormone</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/cold-exposure/" class="internal-link">Cold_Exposure</a></p>
 <h2>Research Support</h2>
 <p>No research studies documented yet.</p>
 <h2>References</h2>

@@ -1,10 +1,10 @@
 ---
-created: '2026-03-27T09:46:14.274702Z'
+created: '2026-03-28T07:29:07.979347Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/protein/atp-binding/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/protein/atp-binding/
 slug: atp-binding
 tags:
 - protein
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: ATP binding
 type: protein
-updated: '2026-03-27T09:46:14.274702Z'
+updated: '2026-03-28T07:29:07.979347Z'
 ---
 
 {% raw %}

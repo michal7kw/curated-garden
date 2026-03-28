@@ -1,12 +1,12 @@
 ---
-created: '2026-03-27T09:46:14.104386Z'
+created: '2026-03-28T07:29:07.614030Z'
 description: Gamma-aminobutyric acid, the brain's primary inhibitory neurotransmitter.
   GABA reduces neuronal excitability, promotes relaxation, reduces anxiety, and facilitates
   sleep. It provides the "brake" to glutamate's "accelerator."
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/supplement/gaba/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/supplement/gaba/
 slug: gaba
 tags:
 - supplement
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: GABA
 type: supplement
-updated: '2026-03-27T09:46:14.104386Z'
+updated: '2026-03-28T07:29:07.614030Z'
 ---
 
 {% raw %}
@@ -51,12 +51,12 @@ updated: '2026-03-27T09:46:14.104386Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/l-theanine/" class="internal-link">L-Theanine</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/ashwagandha/" class="internal-link">Ashwagandha</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/melatonin-supplement/" class="internal-link">Melatonin_Supplement</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/apigenin/" class="internal-link">Apigenin</a><br />
-RELATED::<a href="/garden/dev_admin/labtest/magnesium/" class="internal-link">Magnesium</a><br />
-RELATED::<a href="/garden/dev_admin/labtest/zinc/" class="internal-link">Zinc</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/l-theanine/" class="internal-link">L-Theanine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/ashwagandha/" class="internal-link">Ashwagandha</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/melatonin-supplement/" class="internal-link">Melatonin_Supplement</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/apigenin/" class="internal-link">Apigenin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/magnesium/" class="internal-link">Magnesium</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/zinc/" class="internal-link">Zinc</a></p>
 
 {% endraw %}

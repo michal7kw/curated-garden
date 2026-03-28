@@ -1,16 +1,16 @@
 ---
-created: '2026-03-27T09:46:13.153534Z'
+created: '2026-03-28T07:29:05.930411Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/folate/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/folate/
 slug: folate
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Folate
 type: biomarker
-updated: '2026-03-27T09:46:13.153534Z'
+updated: '2026-03-28T07:29:05.930411Z'
 ---
 
 {% raw %}
@@ -18,13 +18,13 @@ updated: '2026-03-27T09:46:13.153534Z'
 <h2>Overview</h2>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/metabolite/methylfolate/" class="internal-link">Methylfolate</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a><br />
-RELATED::<a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a><br />
-RELATED::<a href="/garden/dev_admin/labtest/homocysteine/" class="internal-link">Homocysteine</a><br />
-RELATED::<a href="/garden/dev_admin/labtest/vitamin-b12/" class="internal-link">Vitamin_B12</a><br />
-RELATED::<a href="/garden/dev_admin/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
-RELATED::<a href="/garden/dev_admin/organ/blood/" class="internal-link">Blood</a><br />
-RELATED::<a href="/garden/dev_admin/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/methylfolate/" class="internal-link">Methylfolate</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/homocysteine/" class="internal-link">Homocysteine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/vitamin-b12/" class="internal-link">Vitamin_B12</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/organ/blood/" class="internal-link">Blood</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
 
 {% endraw %}

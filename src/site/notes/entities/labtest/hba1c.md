@@ -1,18 +1,18 @@
 ---
-created: '2026-03-27T09:46:13.832174Z'
+created: '2026-03-28T07:29:07.072380Z'
 description: 3-month average blood glucose. Gold standard for diabetes diagnosis and
   monitoring.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/hba1c/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/hba1c/
 slug: hba1c
 tags:
 - labtest
 templateEngineOverride: njk
 title: hba1c
 type: labtest
-updated: '2026-03-27T09:46:13.832174Z'
+updated: '2026-03-28T07:29:07.072380Z'
 ---
 
 {% raw %}
@@ -53,7 +53,7 @@ updated: '2026-03-27T09:46:13.832174Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/dev_admin/labtest/hba1c/" class="internal-link">hba1c</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/hba1c/" class="internal-link">hba1c</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>

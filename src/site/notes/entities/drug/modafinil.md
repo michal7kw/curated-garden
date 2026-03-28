@@ -1,12 +1,12 @@
 ---
-created: '2026-03-27T09:46:13.627625Z'
+created: '2026-03-28T07:29:06.628092Z'
 description: Wakefulness-promoting agent used for narcolepsy, sleep apnea, and shift
   work disorder. Popular off-label as a cognitive enhancer. Mechanism distinct from
   traditional stimulants.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/drug/modafinil/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/drug/modafinil/
 slug: modafinil
 tags:
 - drug
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Modafinil
 type: drug
-updated: '2026-03-27T09:46:13.627625Z'
+updated: '2026-03-28T07:29:06.628092Z'
 ---
 
 {% raw %}

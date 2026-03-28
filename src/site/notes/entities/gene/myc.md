@@ -1,10 +1,10 @@
 ---
-created: '2026-03-27T09:46:14.311971Z'
+created: '2026-03-28T07:29:08.058576Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/gene/myc/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/gene/myc/
 slug: myc
 tags:
 - gene
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: MYC
 type: gene
-updated: '2026-03-27T09:46:14.311971Z'
+updated: '2026-03-28T07:29:08.058576Z'
 ---
 
 {% raw %}
@@ -26,12 +26,12 @@ updated: '2026-03-27T09:46:14.311971Z'
 <h2>Relationships</h2>
 <h3>Regulates</h3>
 <p>REGULATES::<a class="internal-link is-unresolved" href="/404">Ribosome_Biogenesis</a><br />
-REGULATES::<a href="/garden/dev_admin/pathway/glycolysis/" class="internal-link">Glycolysis</a><br />
+REGULATES::<a href="/garden/michal.k7w@gmail.com/pathway/glycolysis/" class="internal-link">Glycolysis</a><br />
 REGULATES::<a class="internal-link is-unresolved" href="/404">Cell_Cycle</a></p>
 <h3>Inhibited By</h3>
 <p>INHIBITED_BY::<a class="internal-link is-unresolved" href="/404">MXD1</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/cancer/" class="internal-link">Cancer</a><br />
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cancer/" class="internal-link">Cancer</a><br />
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Burkitts_Lymphoma</a></p>
 <h3>Interacts With</h3>
 <p>INTERACTS_WITH::<a class="internal-link is-unresolved" href="/404">MAX</a></p>

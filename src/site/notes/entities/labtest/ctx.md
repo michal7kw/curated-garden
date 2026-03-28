@@ -1,20 +1,20 @@
 ---
-created: '2026-03-27T09:46:13.794420Z'
+created: '2026-03-28T07:29:07.006188Z'
 description: C-Terminal Telopeptide (CTX or beta-CrossLaps) measures a collagen degradation
   fragment released during bone resorption. It is the most widely used marker of bone
   resorption and is recommended by the IOF/IFCC as the reference resorption marker.
   Used to monitor anti-resorptive therapy in osteoporosis.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/ctx/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/ctx/
 slug: ctx
 tags:
 - labtest
 templateEngineOverride: njk
 title: ctx
 type: labtest
-updated: '2026-03-27T09:46:13.794420Z'
+updated: '2026-03-28T07:29:07.006188Z'
 ---
 
 {% raw %}
@@ -68,7 +68,7 @@ updated: '2026-03-27T09:46:13.794420Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/dev_admin/labtest/ctx/" class="internal-link">ctx</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/ctx/" class="internal-link">ctx</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -79,11 +79,11 @@ updated: '2026-03-27T09:46:13.794420Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related Tests</h3>
-<p>RELATED_TESTS::<a href="/garden/dev_admin/labtest/vitamin-d-25oh/" class="internal-link">vitamin_d_25oh</a><br />
-RELATED_TESTS::<a href="/garden/dev_admin/labtest/osteocalcin/" class="internal-link">osteocalcin</a><br />
-RELATED_TESTS::<a href="/garden/dev_admin/labtest/calcium/" class="internal-link">calcium</a></p>
+<p>RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/vitamin-d-25oh/" class="internal-link">vitamin_d_25oh</a><br />
+RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/osteocalcin/" class="internal-link">osteocalcin</a><br />
+RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/calcium/" class="internal-link">calcium</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/dev_admin/labtestpanel/bone-health-panel/" class="internal-link">bone_health_panel</a></p>
+<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/bone-health-panel/" class="internal-link">bone_health_panel</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

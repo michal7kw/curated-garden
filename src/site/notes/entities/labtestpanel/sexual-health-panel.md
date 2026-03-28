@@ -1,5 +1,5 @@
 ---
-created: '2026-03-27T09:46:14.069451Z'
+created: '2026-03-28T07:29:07.556074Z'
 description: These tests screen for the most common sexually transmitted infections
   (STIs) in the United States. STIs often go undiagnosed and untreated, potentially
   leading to serious complications such as pelvic inflammatory disease, genital tract
@@ -11,15 +11,15 @@ description: These tests screen for the most common sexually transmitted infecti
   Virus 1 HIV 1 & 2 Antigen-Antibody
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtestpanel/sexual-health-panel/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtestpanel/sexual-health-panel/
 slug: sexual-health-panel
 tags:
 - labtestpanel
 templateEngineOverride: njk
 title: sexual_health_panel
 type: labtestpanel
-updated: '2026-03-27T09:46:14.069451Z'
+updated: '2026-03-28T07:29:07.556074Z'
 ---
 
 {% raw %}

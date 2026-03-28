@@ -1,16 +1,16 @@
 ---
-created: '2026-03-27T09:46:13.154051Z'
+created: '2026-03-28T07:29:05.931502Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/free-t3/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/free-t3/
 slug: free-t3
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Free T3
 type: biomarker
-updated: '2026-03-27T09:46:13.154051Z'
+updated: '2026-03-28T07:29:05.931502Z'
 ---
 
 {% raw %}
@@ -18,9 +18,9 @@ updated: '2026-03-27T09:46:13.154051Z'
 <h2>Overview</h2>
 <h2>Relationships</h2>
 <h3>Indicates Organ Health</h3>
-<p>INDICATES_ORGAN_HEALTH::<a href="/garden/dev_admin/organ/thyroid/" class="internal-link">Thyroid</a></p>
+<p>INDICATES_ORGAN_HEALTH::<a href="/garden/michal.k7w@gmail.com/organ/thyroid/" class="internal-link">Thyroid</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/condition/thyroid-dysfunction/" class="internal-link">thyroid_dysfunction</a><br />
-RELATED::<a href="/garden/dev_admin/condition/thyroid-dysfunction/" class="internal-link">Thyroid_Dysfunction</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/thyroid-dysfunction/" class="internal-link">thyroid_dysfunction</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/thyroid-dysfunction/" class="internal-link">Thyroid_Dysfunction</a></p>
 
 {% endraw %}

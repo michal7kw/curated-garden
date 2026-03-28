@@ -1,10 +1,10 @@
 ---
-created: '2026-03-27T09:46:14.246978Z'
+created: '2026-03-28T07:29:07.916468Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/phenotype/nausea/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/phenotype/nausea/
 slug: nausea
 tags:
 - phenotype
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Nausea
 type: phenotype
-updated: '2026-03-27T09:46:14.246978Z'
+updated: '2026-03-28T07:29:07.916468Z'
 ---
 
 {% raw %}
@@ -43,7 +43,7 @@ RELATED::<a class="internal-link is-unresolved" href="/404">serotonin_syndrome</
 RELATED::<a class="internal-link is-unresolved" href="/404">gastric_mucosal_hypertrophy</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">jejunal_neuroendocrine_tumor_well_differentiated_low_or_intermediate_grade</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">ethylene_glycol_poisoning</a><br />
-RELATED::<a href="/garden/dev_admin/drug/chlorpromazine/" class="internal-link">Chlorpromazine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/drug/chlorpromazine/" class="internal-link">Chlorpromazine</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">hereditary_angioedema</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">hereditary_pheochromocytoma-paraganglioma</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">duodenal_neuroendocrine_tumor_well_differentiated_low_or_intermediate_grade</a><br />

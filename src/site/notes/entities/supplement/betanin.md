@@ -1,5 +1,5 @@
 ---
-created: '2026-03-27T09:46:14.367334Z'
+created: '2026-03-28T07:29:08.217586Z'
 description: Primary betalain pigment in beetroot (Beta vulgaris), a potent natural
   antioxidant and anti-inflammatory compound. Activates the Nrf2/ARE pathway for endogenous
   antioxidant defense, inhibits NF-kB-mediated inflammation, supports nitric oxide
@@ -7,8 +7,8 @@ description: Primary betalain pigment in beetroot (Beta vulgaris), a potent natu
   and mechanism.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/supplement/betanin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/supplement/betanin/
 slug: betanin
 tags:
 - supplement
@@ -22,7 +22,7 @@ tags:
 templateEngineOverride: njk
 title: Betanin
 type: supplement
-updated: '2026-03-27T09:46:14.367334Z'
+updated: '2026-03-28T07:29:08.217586Z'
 ---
 
 {% raw %}
@@ -100,30 +100,30 @@ updated: '2026-03-27T09:46:14.367334Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/garden/dev_admin/organ/liver/" class="internal-link">Liver</a><br />
-AFFECTS_ORGAN::<a href="/garden/dev_admin/organ/heart/" class="internal-link">Heart</a><br />
-AFFECTS_ORGAN::<a href="/garden/dev_admin/organ/kidneys/" class="internal-link">Kidneys</a></p>
+<p>AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/liver/" class="internal-link">Liver</a><br />
+AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/heart/" class="internal-link">Heart</a><br />
+AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/kidneys/" class="internal-link">Kidneys</a></p>
 <h3>Modulates Pathway</h3>
-<p>MODULATES_PATHWAY::<a href="/garden/dev_admin/pathway/nrf2-pathway/" class="internal-link">Nrf2 Pathway</a><br />
-MODULATES_PATHWAY::<a href="/garden/dev_admin/pathway/nf-kb-pathway/" class="internal-link">NF-kB Pathway</a></p>
+<p>MODULATES_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/nrf2-pathway/" class="internal-link">Nrf2 Pathway</a><br />
+MODULATES_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/nf-kb-pathway/" class="internal-link">NF-kB Pathway</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/inflammation/" class="internal-link">Inflammation</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/nafld/" class="internal-link">NAFLD</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/hypertension/" class="internal-link">Hypertension</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/inflammation/" class="internal-link">Inflammation</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/nafld/" class="internal-link">NAFLD</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/hypertension/" class="internal-link">Hypertension</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
-AFFECTS_BIOMARKER::<a href="/garden/dev_admin/biomarker/alanine-transaminase/" class="internal-link">Alanine Transaminase</a></p>
+<p>AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
+AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/biomarker/alanine-transaminase/" class="internal-link">Alanine Transaminase</a></p>
 <h3>Decreases Biomarker</h3>
-<p>DECREASES_BIOMARKER::<a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">Triglycerides</a></p>
+<p>DECREASES_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/triglycerides/" class="internal-link">Triglycerides</a></p>
 <h3>Synergistic With</h3>
-<p>SYNERGISTIC_WITH::<a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin C</a><br />
-SYNERGISTIC_WITH::<a href="/garden/dev_admin/supplement/quercetin/" class="internal-link">Quercetin</a></p>
+<p>SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-c/" class="internal-link">Vitamin C</a><br />
+SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/quercetin/" class="internal-link">Quercetin</a></p>
 <h3>Supports</h3>
-<p>SUPPORTS::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
+<p>SUPPORTS::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/protein/nrf2/" class="internal-link">NRF2</a><br />
-RELATED::<a href="/garden/dev_admin/metabolite/reactive-oxygen-species/" class="internal-link">Reactive Oxygen Species</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/protein/nrf2/" class="internal-link">NRF2</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/reactive-oxygen-species/" class="internal-link">Reactive Oxygen Species</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:25459009 - Betanin antioxidant and anti-inflammatory properties review</li>

@@ -1,11 +1,11 @@
 ---
-created: '2026-03-27T09:46:13.643612Z'
+created: '2026-03-28T07:29:06.658423Z'
 description: Class IA antiarrhythmic agent used for atrial and ventricular arrhythmias.
   Also an antimalarial agent.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/drug/quinidine/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/drug/quinidine/
 slug: quinidine
 tags:
 - drug
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Quinidine
 type: drug
-updated: '2026-03-27T09:46:13.643612Z'
+updated: '2026-03-28T07:29:06.658423Z'
 ---
 
 {% raw %}
@@ -38,10 +38,10 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Brugada_Syndrome</a>
 RELATED::<a class="internal-link is-unresolved" href="/404">Magnesium_aspartate</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Acetylglycinamide_chloral_hydrate</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Torsades_de_Pointes</a><br />
-RELATED::<a href="/garden/dev_admin/condition/atrial-fibrillation/" class="internal-link">Atrial_Fibrillation</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/atrial-fibrillation/" class="internal-link">Atrial_Fibrillation</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">QT_Prolongation</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">P-glycoprotein</a><br />
-RELATED::<a href="/garden/dev_admin/protein/cyp2d6/" class="internal-link">CYP2D6</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/protein/cyp2d6/" class="internal-link">CYP2D6</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Malaria</a></p>
 
 {% endraw %}

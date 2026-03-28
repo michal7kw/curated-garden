@@ -1,5 +1,5 @@
 ---
-created: '2026-03-27T09:46:13.817146Z'
+created: '2026-03-28T07:29:07.046672Z'
 description: Follicle-stimulating hormone (FSH) is made by the pituitary gland in
   the brain. In females, it regulates the menstrual cycle and stimulates the ovaries
   to grow and mature eggs for ovulation. Measuring FSH can provide insight into fertility,
@@ -9,15 +9,15 @@ description: Follicle-stimulating hormone (FSH) is made by the pituitary gland i
   the results less meaningful.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/follicle-stimulating-hormone/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/follicle-stimulating-hormone/
 slug: follicle-stimulating-hormone
 tags:
 - labtest
 templateEngineOverride: njk
 title: follicle_stimulating_hormone
 type: labtest
-updated: '2026-03-27T09:46:13.817146Z'
+updated: '2026-03-28T07:29:07.046672Z'
 ---
 
 {% raw %}
@@ -65,22 +65,22 @@ updated: '2026-03-27T09:46:13.817146Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/labtestpanel/extended-hormone-health/" class="internal-link">extended_hormone_health</a><br />
-RELATED::<a href="/garden/dev_admin/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy_hcg</a><br />
-RELATED::<a href="/garden/dev_admin/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a><br />
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-hormone-health/" class="internal-link">extended_hormone_health</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy_hcg</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Polycystic_Ovary_Syndrome_Pcos</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Pituitary_Dysfunction</a><br />
-RELATED::<a href="/garden/dev_admin/condition/ovarian-dysfunction/" class="internal-link">Ovarian_Dysfunction</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/ovarian-dysfunction/" class="internal-link">Ovarian_Dysfunction</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Perimenopause_Or_Menopause</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/dev_admin/labtestpanel/extended-hormone-health/" class="internal-link">extended_hormone_health</a><br />
-INCLUDED_IN::<a href="/garden/dev_admin/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy_hcg</a></p>
+<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-hormone-health/" class="internal-link">extended_hormone_health</a><br />
+INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy_hcg</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/ovarian-dysfunction/" class="internal-link">Ovarian_Dysfunction</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/ovarian-dysfunction/" class="internal-link">Ovarian_Dysfunction</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/dev_admin/condition/ovarian-dysfunction/" class="internal-link">Ovarian_Dysfunction</a><br />
-MAY_DETECT::<a href="/garden/dev_admin/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a></p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/ovarian-dysfunction/" class="internal-link">Ovarian_Dysfunction</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/hormonal-imbalance/" class="internal-link">Hormonal_Imbalance</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

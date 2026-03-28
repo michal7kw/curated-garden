@@ -1,11 +1,11 @@
 ---
-created: '2026-03-27T09:46:13.637407Z'
+created: '2026-03-28T07:29:06.648548Z'
 description: A sodium salt of Penicillin O (Almecillin), used as an antimicrobial
   agent.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/drug/penicillin-o-sodium/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/drug/penicillin-o-sodium/
 slug: penicillin-o-sodium
 tags:
 - drug
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Penicillin O Sodium
 type: drug
-updated: '2026-03-27T09:46:13.637407Z'
+updated: '2026-03-28T07:29:06.648548Z'
 ---
 
 {% raw %}

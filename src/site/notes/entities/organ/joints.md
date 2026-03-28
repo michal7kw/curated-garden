@@ -1,18 +1,18 @@
 ---
-created: '2026-03-27T09:46:14.122780Z'
+created: '2026-03-28T07:29:07.650910Z'
 description: Articulations between bones enabling movement. Include synovial joints
   with cartilage, synovial fluid, and ligaments.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/organ/joints/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/organ/joints/
 slug: joints
 tags:
 - organ
 templateEngineOverride: njk
 title: Joints
 type: organ
-updated: '2026-03-27T09:46:14.122780Z'
+updated: '2026-03-28T07:29:07.650910Z'
 ---
 
 {% raw %}
@@ -21,7 +21,7 @@ updated: '2026-03-27T09:46:14.122780Z'
 <p>Articulations between bones enabling movement. Include synovial joints with cartilage, synovial fluid, and ligaments.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/curcumin/" class="internal-link">Curcumin</a></p>
 
 {% endraw %}

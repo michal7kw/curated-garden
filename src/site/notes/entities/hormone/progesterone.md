@@ -1,13 +1,13 @@
 ---
-created: '2026-03-27T09:46:13.683584Z'
+created: '2026-03-28T07:29:06.799318Z'
 description: Steroid hormone primarily produced by the corpus luteum and placenta,
   essential for menstrual cycle regulation, pregnancy maintenance, and neuroprotection.
   Also synthesized in the brain as a neurosteroid with anxiolytic and neuroprotective
   properties.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/hormone/progesterone/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/hormone/progesterone/
 slug: progesterone
 tags:
 - hormone
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Progesterone
 type: hormone
-updated: '2026-03-27T09:46:13.683584Z'
+updated: '2026-03-28T07:29:06.799318Z'
 ---
 
 {% raw %}
@@ -28,9 +28,9 @@ updated: '2026-03-27T09:46:13.683584Z'
 <p>Steroid hormone primarily produced by the corpus luteum and placenta, essential for menstrual cycle regulation, pregnancy maintenance, and neuroprotection. Also synthesized in the brain as a neurosteroid with anxiolytic and neuroprotective properties.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/supplement/gaba/" class="internal-link">GABA</a><br />
-RELATED::<a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a><br />
-RELATED::<a href="/garden/dev_admin/hormone/estrogen/" class="internal-link">Estrogen</a><br />
-RELATED::<a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/gaba/" class="internal-link">GABA</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/hormone/estrogen/" class="internal-link">Estrogen</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">Cortisol</a></p>
 
 {% endraw %}

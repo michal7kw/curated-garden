@@ -1,12 +1,12 @@
 ---
-created: '2026-03-27T09:46:14.330584Z'
+created: '2026-03-28T07:29:08.104034Z'
 description: Sirtuin 3, the primary mitochondrial NAD+-dependent deacetylase. Regulates
   mitochondrial metabolism, oxidative stress responses, and cellular energy homeostasis.
   Key player in metabolic adaptation to fasting, exercise, and caloric restriction.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/protein/sirt3/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/protein/sirt3/
 slug: sirt3
 tags:
 - protein
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: SIRT3
 type: protein
-updated: '2026-03-27T09:46:14.330584Z'
+updated: '2026-03-28T07:29:08.104034Z'
 ---
 
 {% raw %}
@@ -29,6 +29,6 @@ updated: '2026-03-27T09:46:14.330584Z'
 <p>Sirtuin 3, the primary mitochondrial NAD+-dependent deacetylase. Regulates mitochondrial metabolism, oxidative stress responses, and cellular energy homeostasis. Key player in metabolic adaptation to fasting, exercise, and caloric restriction.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 
 {% endraw %}

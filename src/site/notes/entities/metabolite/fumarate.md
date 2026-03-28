@@ -1,12 +1,12 @@
 ---
-created: '2026-03-27T09:46:14.078121Z'
+created: '2026-03-28T07:29:07.571798Z'
 description: Four-carbon unsaturated dicarboxylic acid intermediate of the citric
   acid cycle. Product of succinate oxidation and substrate for hydration to malate.
   Also functions as an oncometabolite when accumulated due to fumarase deficiency.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/metabolite/fumarate/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/metabolite/fumarate/
 slug: fumarate
 tags:
 - metabolite
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Fumarate
 type: metabolite
-updated: '2026-03-27T09:46:14.078121Z'
+updated: '2026-03-28T07:29:07.571798Z'
 ---
 
 {% raw %}

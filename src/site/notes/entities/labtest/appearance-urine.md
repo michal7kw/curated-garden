@@ -1,20 +1,20 @@
 ---
-created: '2026-03-27T09:46:13.740150Z'
+created: '2026-03-28T07:29:06.927456Z'
 description: Tested twice a year The appearance of urine—its color, clarity, and presence
   of foam—can provide simple but valuable clues about hydration, diet, and overall
   metabolic balance. Possible symptoms CLOUDY URINE FOAMY URINE DARK URINE PINK OR
   RED URINE FREQUENT URINATION
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/appearance-urine/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/appearance-urine/
 slug: appearance-urine
 tags:
 - labtest
 templateEngineOverride: njk
 title: appearance_urine
 type: labtest
-updated: '2026-03-27T09:46:13.740150Z'
+updated: '2026-03-28T07:29:06.927456Z'
 ---
 
 {% raw %}
@@ -65,12 +65,12 @@ updated: '2026-03-27T09:46:13.740150Z'
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Stone_Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Disease</a><br />
-RELATED::<a href="/garden/dev_admin/condition/bladder-disease/" class="internal-link">Bladder_Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/bladder-disease/" class="internal-link">Bladder_Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Urinary_Tract_Infection_Uti</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/dev_admin/condition/bladder-disease/" class="internal-link">Bladder_Disease</a></p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/bladder-disease/" class="internal-link">Bladder_Disease</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/bladder-disease/" class="internal-link">Bladder_Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/bladder-disease/" class="internal-link">Bladder_Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

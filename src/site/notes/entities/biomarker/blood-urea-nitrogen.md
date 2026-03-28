@@ -1,13 +1,13 @@
 ---
-created: '2026-03-27T09:46:13.121345Z'
+created: '2026-03-28T07:29:05.878230Z'
 description: Blood Urea Nitrogen (BUN) measures the amount of urea nitrogen in the
   blood, a waste product of protein metabolism formed in the liver and excreted by
   the kidneys. It is a primary marker for assessing kidney function and hydration
   status.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/blood-urea-nitrogen/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/blood-urea-nitrogen/
 slug: blood-urea-nitrogen
 tags:
 - biomarker
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Blood Urea Nitrogen
 type: biomarker
-updated: '2026-03-27T09:46:13.121345Z'
+updated: '2026-03-28T07:29:05.878230Z'
 ---
 
 {% raw %}
@@ -26,7 +26,7 @@ updated: '2026-03-27T09:46:13.121345Z'
 <p>Blood Urea Nitrogen (BUN) measures the amount of urea nitrogen in the blood, a waste product of protein metabolism formed in the liver and excreted by the kidneys. It is a primary marker for assessing kidney function and hydration status.</p>
 <h2>Relationships</h2>
 <h3>Indicates Organ Health</h3>
-<p>INDICATES_ORGAN_HEALTH::<a href="/garden/dev_admin/organ/kidneys/" class="internal-link">Kidneys</a></p>
+<p>INDICATES_ORGAN_HEALTH::<a href="/garden/michal.k7w@gmail.com/organ/kidneys/" class="internal-link">Kidneys</a></p>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Bun</a></p>
 

@@ -1,10 +1,10 @@
 ---
-created: '2026-03-27T09:46:14.255247Z'
+created: '2026-03-28T07:29:07.932510Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/phenotype/seizure/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/phenotype/seizure/
 slug: seizure
 tags:
 - phenotype
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Seizure
 type: phenotype
-updated: '2026-03-27T09:46:14.255247Z'
+updated: '2026-03-28T07:29:07.932510Z'
 ---
 
 {% raw %}

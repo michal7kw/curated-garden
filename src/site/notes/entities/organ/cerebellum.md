@@ -1,16 +1,16 @@
 ---
-created: '2026-03-27T09:46:14.115576Z'
+created: '2026-03-28T07:29:07.635257Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/organ/cerebellum/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/organ/cerebellum/
 slug: cerebellum
 tags:
 - organ
 templateEngineOverride: njk
 title: Cerebellum
 type: organ
-updated: '2026-03-27T09:46:14.115576Z'
+updated: '2026-03-28T07:29:07.635257Z'
 ---
 
 {% raw %}

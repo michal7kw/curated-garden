@@ -1,10 +1,10 @@
 ---
-created: '2026-03-27T09:46:14.239137Z'
+created: '2026-03-28T07:29:07.899240Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/phenotype/inflammatory-abnormality-of-the-skin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/phenotype/inflammatory-abnormality-of-the-skin/
 slug: inflammatory-abnormality-of-the-skin
 tags:
 - phenotype
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Inflammatory abnormality of the skin
 type: phenotype
-updated: '2026-03-27T09:46:14.239137Z'
+updated: '2026-03-28T07:29:07.899240Z'
 ---
 
 {% raw %}

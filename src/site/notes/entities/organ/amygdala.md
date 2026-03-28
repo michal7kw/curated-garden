@@ -1,16 +1,16 @@
 ---
-created: '2026-03-27T09:46:14.111538Z'
+created: '2026-03-28T07:29:07.627776Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/organ/amygdala/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/organ/amygdala/
 slug: amygdala
 tags:
 - organ
 templateEngineOverride: njk
 title: Amygdala
 type: organ
-updated: '2026-03-27T09:46:14.111538Z'
+updated: '2026-03-28T07:29:07.627776Z'
 ---
 
 {% raw %}

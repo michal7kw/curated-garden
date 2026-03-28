@@ -1,12 +1,12 @@
 ---
-created: '2026-03-27T09:46:14.099063Z'
+created: '2026-03-28T07:29:07.606691Z'
 description: First neurotransmitter discovered, essential for learning, memory, attention,
   and muscle control. Functions in both central and peripheral nervous systems, including
   parasympathetic ("rest and digest") activation.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/neurotransmitter/acetylcholine/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/neurotransmitter/acetylcholine/
 slug: acetylcholine
 tags:
 - neurotransmitter
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Acetylcholine
 type: neurotransmitter
-updated: '2026-03-27T09:46:14.099063Z'
+updated: '2026-03-28T07:29:07.606691Z'
 ---
 
 {% raw %}
@@ -52,8 +52,8 @@ updated: '2026-03-27T09:46:14.099063Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/drug/imipramine/" class="internal-link">Imipramine</a><br />
-RELATED::<a href="/garden/dev_admin/drug/clozapine/" class="internal-link">Clozapine</a><br />
-RELATED::<a href="/garden/dev_admin/drug/donepezil/" class="internal-link">Donepezil</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/drug/imipramine/" class="internal-link">Imipramine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/drug/clozapine/" class="internal-link">Clozapine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/drug/donepezil/" class="internal-link">Donepezil</a></p>
 
 {% endraw %}

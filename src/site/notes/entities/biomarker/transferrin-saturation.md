@@ -1,16 +1,16 @@
 ---
-created: '2026-03-27T09:46:13.242811Z'
+created: '2026-03-28T07:29:06.069500Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/transferrin-saturation/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/transferrin-saturation/
 slug: transferrin-saturation
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Transferrin Saturation
 type: biomarker
-updated: '2026-03-27T09:46:13.242811Z'
+updated: '2026-03-28T07:29:06.069500Z'
 ---
 
 {% raw %}
@@ -19,6 +19,6 @@ updated: '2026-03-27T09:46:13.242811Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Iron_Deficiency_Pattern</a><br />
-RELATED::<a href="/garden/dev_admin/condition/iron-deficiency/" class="internal-link">Iron_Deficiency</a></p>
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency/" class="internal-link">Iron_Deficiency</a></p>
 
 {% endraw %}

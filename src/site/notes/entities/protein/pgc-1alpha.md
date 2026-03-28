@@ -1,13 +1,13 @@
 ---
-created: '2026-03-27T09:46:14.315504Z'
+created: '2026-03-28T07:29:08.072144Z'
 description: Peroxisome proliferator-activated receptor gamma coactivator 1-alpha,
   the master regulator of mitochondrial biogenesis. A transcriptional coactivator
   that coordinates the expression of genes involved in energy metabolism, oxidative
   phosphorylation, and adaptive thermogenesis.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/protein/pgc-1alpha/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/protein/pgc-1alpha/
 slug: pgc-1alpha
 tags:
 - protein
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: PGC-1alpha
 type: protein
-updated: '2026-03-27T09:46:14.315504Z'
+updated: '2026-03-28T07:29:08.072144Z'
 ---
 
 {% raw %}
@@ -28,12 +28,12 @@ updated: '2026-03-27T09:46:14.315504Z'
 <p>Peroxisome proliferator-activated receptor gamma coactivator 1-alpha, the master regulator of mitochondrial biogenesis. A transcriptional coactivator that coordinates the expression of genes involved in energy metabolism, oxidative phosphorylation, and adaptive thermogenesis.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/supplement/pqq/" class="internal-link">PQQ</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/resveratrol/" class="internal-link">Resveratrol</a><br />
-RELATED::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a><br />
-RELATED::<a href="/garden/dev_admin/metabolite/nicotinamide-riboside/" class="internal-link">Nicotinamide_Riboside</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/pqq/" class="internal-link">PQQ</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/resveratrol/" class="internal-link">Resveratrol</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/berberine/" class="internal-link">Berberine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/nmn/" class="internal-link">NMN</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/nicotinamide-riboside/" class="internal-link">Nicotinamide_Riboside</a></p>
 
 {% endraw %}

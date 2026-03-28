@@ -1,5 +1,5 @@
 ---
-created: '2026-03-27T09:46:13.604728Z'
+created: '2026-03-28T07:29:06.586073Z'
 description: The most researched sports supplement in history with extensive safety
   data. Creatine enhances ATP regeneration via the phosphocreatine system, supporting
   both high-intensity physical performance and brain energy metabolism. Emerging evidence
@@ -8,8 +8,8 @@ description: The most researched sports supplement in history with extensive saf
   and neurodegenerative conditions.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/supplement/creatine/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/supplement/creatine/
 slug: creatine
 tags:
 - supplement
@@ -23,7 +23,7 @@ tags:
 templateEngineOverride: njk
 title: Creatine
 type: supplement
-updated: '2026-03-27T09:46:13.604728Z'
+updated: '2026-03-28T07:29:06.586073Z'
 ---
 
 {% raw %}
@@ -119,33 +119,33 @@ updated: '2026-03-27T09:46:13.604728Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Participates In Pathway</h3>
-<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/dev_admin/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative Phosphorylation</a></p>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative Phosphorylation</a></p>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a><br />
-AFFECTS_ORGAN::<a href="/garden/dev_admin/organ/heart/" class="internal-link">Heart</a><br />
-AFFECTS_ORGAN::<a href="/garden/dev_admin/organ/muscle/" class="internal-link">Muscle</a></p>
+<p>AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a><br />
+AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/heart/" class="internal-link">Heart</a><br />
+AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/muscle/" class="internal-link">Muscle</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative_Phosphorylation</a><br />
-RELATED::<a href="/garden/dev_admin/metabolite/adp/" class="internal-link">ADP</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative_Phosphorylation</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/adp/" class="internal-link">ADP</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/depression/" class="internal-link">Depression</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a></p>
 <h3>Synergistic With</h3>
 <p>SYNERGISTIC_WITH::<a class="internal-link is-unresolved" href="/404">HMB</a><br />
-SYNERGISTIC_WITH::<a href="/garden/dev_admin/supplement/beta-alanine/" class="internal-link">Beta-Alanine</a><br />
+SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/beta-alanine/" class="internal-link">Beta-Alanine</a><br />
 SYNERGISTIC_WITH::<a class="internal-link is-unresolved" href="/404">Carbohydrates</a></p>
 <h3>Increases Metabolite</h3>
-<p>INCREASES_METABOLITE::<a href="/garden/dev_admin/metabolite/phosphocreatine/" class="internal-link">Phosphocreatine</a><br />
-INCREASES_METABOLITE::<a href="/garden/dev_admin/metabolite/atp/" class="internal-link">ATP</a></p>
+<p>INCREASES_METABOLITE::<a href="/garden/michal.k7w@gmail.com/metabolite/phosphocreatine/" class="internal-link">Phosphocreatine</a><br />
+INCREASES_METABOLITE::<a href="/garden/michal.k7w@gmail.com/metabolite/atp/" class="internal-link">ATP</a></p>
 <h3>Supports</h3>
-<p>SUPPORTS::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
+<p>SUPPORTS::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 <h3>Supports Function</h3>
-<p>SUPPORTS_FUNCTION::<a href="/garden/dev_admin/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a><br />
-SUPPORTS_FUNCTION::<a href="/garden/dev_admin/cognitivefunction/executive-function/" class="internal-link">Executive Function</a></p>
+<p>SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a><br />
+SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/executive-function/" class="internal-link">Executive Function</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/garden/dev_admin/biomarker/creatine-kinase/" class="internal-link">Creatine Kinase</a><br />
-AFFECTS_BIOMARKER::<a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">Creatinine</a><br />
-AFFECTS_BIOMARKER::<a href="/garden/dev_admin/labtest/homocysteine/" class="internal-link">Homocysteine</a></p>
+<p>AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/biomarker/creatine-kinase/" class="internal-link">Creatine Kinase</a><br />
+AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/homocysteine/" class="internal-link">Homocysteine</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:29704637 - Creatine supplementation and brain function review</li>

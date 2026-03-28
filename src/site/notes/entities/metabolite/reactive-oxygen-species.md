@@ -1,13 +1,13 @@
 ---
-created: '2026-03-27T09:46:14.094519Z'
+created: '2026-03-28T07:29:07.597532Z'
 description: Byproducts of electron transport chain electron leak (~1-2% of total
   electron flow). Includes superoxide (O2.-), hydrogen peroxide (H2O2), and hydroxyl
   radical (OH.). Both signaling molecules at low levels and damaging oxidants at high
   levels.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/metabolite/reactive-oxygen-species/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/metabolite/reactive-oxygen-species/
 slug: reactive-oxygen-species
 tags:
 - metabolite
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Reactive Oxygen Species
 type: metabolite
-updated: '2026-03-27T09:46:14.094519Z'
+updated: '2026-03-28T07:29:07.597532Z'
 ---
 
 {% raw %}
@@ -25,14 +25,14 @@ updated: '2026-03-27T09:46:14.094519Z'
 <p>Byproducts of electron transport chain electron leak (~1-2% of total electron flow). Includes superoxide (O2.-), hydrogen peroxide (H2O2), and hydroxyl radical (OH.). Both signaling molecules at low levels and damaging oxidants at high levels.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/protein/complex-i/" class="internal-link">Complex_I</a><br />
-RELATED::<a href="/garden/dev_admin/protein/nrf2/" class="internal-link">NRF2</a><br />
-RELATED::<a href="/garden/dev_admin/protein/complex-ii/" class="internal-link">Complex_II</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/protein/complex-i/" class="internal-link">Complex_I</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/protein/nrf2/" class="internal-link">NRF2</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/protein/complex-ii/" class="internal-link">Complex_II</a></p>
 <h3>Produced By</h3>
-<p>PRODUCED_BY::<a href="/garden/dev_admin/protein/complex-i/" class="internal-link">Complex_I</a></p>
+<p>PRODUCED_BY::<a href="/garden/michal.k7w@gmail.com/protein/complex-i/" class="internal-link">Complex_I</a></p>
 <h3>Regulates</h3>
-<p>REGULATES::<a href="/garden/dev_admin/protein/ampk/" class="internal-link">AMPK</a><br />
-REGULATES::<a href="/garden/dev_admin/protein/sirt3/" class="internal-link">SIRT3</a><br />
-REGULATES::<a href="/garden/dev_admin/protein/nrf2/" class="internal-link">NRF2</a></p>
+<p>REGULATES::<a href="/garden/michal.k7w@gmail.com/protein/ampk/" class="internal-link">AMPK</a><br />
+REGULATES::<a href="/garden/michal.k7w@gmail.com/protein/sirt3/" class="internal-link">SIRT3</a><br />
+REGULATES::<a href="/garden/michal.k7w@gmail.com/protein/nrf2/" class="internal-link">NRF2</a></p>
 
 {% endraw %}

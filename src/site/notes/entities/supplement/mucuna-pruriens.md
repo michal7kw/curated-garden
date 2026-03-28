@@ -1,5 +1,5 @@
 ---
-created: '2026-03-27T09:46:14.404755Z'
+created: '2026-03-28T07:29:08.295625Z'
 description: Tropical legume (velvet bean) and traditional Ayurvedic medicine containing
   the highest natural concentration of L-DOPA (3-6% in seeds), making it the richest
   known plant source of this dopamine precursor. Used for centuries in Ayurveda as
@@ -9,8 +9,8 @@ description: Tropical legume (velvet bean) and traditional Ayurvedic medicine co
   alkaloids that may contribute to its broad neurological profile.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/supplement/mucuna-pruriens/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/supplement/mucuna-pruriens/
 slug: mucuna-pruriens
 tags:
 - supplement
@@ -23,7 +23,7 @@ tags:
 templateEngineOverride: njk
 title: Mucuna Pruriens
 type: supplement
-updated: '2026-03-27T09:46:14.404755Z'
+updated: '2026-03-28T07:29:08.295625Z'
 ---
 
 {% raw %}
@@ -90,26 +90,26 @@ updated: '2026-03-27T09:46:14.404755Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Contains</h3>
-<p>CONTAINS::<a href="/garden/dev_admin/metabolite/l-dopa/" class="internal-link">L-DOPA</a></p>
+<p>CONTAINS::<a href="/garden/michal.k7w@gmail.com/metabolite/l-dopa/" class="internal-link">L-DOPA</a></p>
 <h3>Precursor Of</h3>
-<p>PRECURSOR_OF::<a href="/garden/dev_admin/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
+<p>PRECURSOR_OF::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
 <h3>Synergistic With</h3>
-<p>SYNERGISTIC_WITH::<a href="/garden/dev_admin/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a></p>
+<p>SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/depression/" class="internal-link">Depression</a></p>
 <h3>Participates In Pathway</h3>
-<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/dev_admin/pathway/dopamine-synthesis/" class="internal-link">Dopamine Synthesis</a></p>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/dopamine-synthesis/" class="internal-link">Dopamine Synthesis</a></p>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a><br />
-AFFECTS_ORGAN::<a href="/garden/dev_admin/organ/substantia-nigra/" class="internal-link">Substantia Nigra</a></p>
+<p>AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a><br />
+AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/substantia-nigra/" class="internal-link">Substantia Nigra</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a></p>
+<p>AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">Cortisol</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/iron/" class="internal-link">Iron</a><br />
-RELATED::<a href="/garden/dev_admin/protein/tyrosine-hydroxylase/" class="internal-link">Tyrosine Hydroxylase</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/5-htp/" class="internal-link">5-HTP</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/iron/" class="internal-link">Iron</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/protein/tyrosine-hydroxylase/" class="internal-link">Tyrosine Hydroxylase</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/5-htp/" class="internal-link">5-HTP</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:15548480 - Mucuna pruriens vs synthetic levodopa in Parkinson's</li>

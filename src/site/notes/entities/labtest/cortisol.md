@@ -1,13 +1,13 @@
 ---
-created: '2026-03-27T09:46:13.787331Z'
+created: '2026-03-28T07:29:06.995851Z'
 description: Cortisol is often called “the stress hormone” because it rises during
   times of pressure or emotional distress, helping the body respond and adapt. Either
   high or low levels can signal chronic stress, sleep problems, or disorders of the
   adrenal glands.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/cortisol/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/cortisol/
 slug: cortisol
 tags:
 - labtest
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: cortisol
 type: labtest
-updated: '2026-03-27T09:46:13.787331Z'
+updated: '2026-03-28T07:29:06.995851Z'
 ---
 
 {% raw %}
@@ -58,7 +58,7 @@ updated: '2026-03-27T09:46:13.787331Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">cortisol</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">cortisol</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -70,9 +70,9 @@ updated: '2026-03-27T09:46:13.787331Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Pituitary_Disorders</a><br />
-RELATED::<a href="/garden/dev_admin/labtest/cortisol-am/" class="internal-link">cortisol_am</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol-am/" class="internal-link">cortisol_am</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Adrenal_Insufficiency</a><br />
-RELATED::<a href="/garden/dev_admin/condition/cushings-syndrome/" class="internal-link">CushingS_Syndrome</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/cushings-syndrome/" class="internal-link">CushingS_Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Adrenal_Hyperplasia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Chronic_Stress_Elevated_Cortisol</a></p>
 <h2>Notes</h2>

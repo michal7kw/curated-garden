@@ -1,12 +1,12 @@
 ---
-created: '2026-03-27T09:46:14.156377Z'
+created: '2026-03-28T07:29:07.730410Z'
 description: Gluconeogenesis is the metabolic pathway that synthesizes glucose from
   non-carbohydrate precursors, essential for maintaining blood glucose during fasting
   and providing glucose to glucose-dependent tissues.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/pathway/gluconeogenesis/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/pathway/gluconeogenesis/
 slug: gluconeogenesis
 tags:
 - pathway
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Gluconeogenesis
 type: pathway
-updated: '2026-03-27T09:46:14.156377Z'
+updated: '2026-03-28T07:29:07.730410Z'
 ---
 
 {% raw %}
@@ -27,21 +27,21 @@ updated: '2026-03-27T09:46:14.156377Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Biotin</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a></p>
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/berberine/" class="internal-link">Berberine</a></p>
 <h3>Modulated By Supplement</h3>
-<p>MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/niacin/" class="internal-link">Niacin</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/labtest/magnesium/" class="internal-link">Magnesium</a></p>
+<p>MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/berberine/" class="internal-link">Berberine</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/niacin/" class="internal-link">Niacin</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/labtest/magnesium/" class="internal-link">Magnesium</a></p>
 <h3>Associated Biomarker</h3>
-<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/glucose-fasting/" class="internal-link">Glucose Fasting</a><br />
-ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/hba1c/" class="internal-link">Hba1C</a><br />
-ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a><br />
-ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/homa-ir/" class="internal-link">Homa Ir</a><br />
-ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a></p>
+<p>ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/glucose-fasting/" class="internal-link">Glucose Fasting</a><br />
+ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/hba1c/" class="internal-link">Hba1C</a><br />
+ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/insulin/" class="internal-link">Insulin</a><br />
+ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/homa-ir/" class="internal-link">Homa Ir</a><br />
+ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">Cortisol</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/weight-gain/" class="internal-link">Weight Gain</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/nafld/" class="internal-link">NAFLD</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/diabetes/" class="internal-link">Diabetes</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/weight-gain/" class="internal-link">Weight Gain</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/nafld/" class="internal-link">NAFLD</a></p>
 
 {% endraw %}

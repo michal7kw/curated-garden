@@ -1,18 +1,18 @@
 ---
-created: '2026-03-27T09:46:14.126891Z'
+created: '2026-03-28T07:29:07.659969Z'
 description: Contractile tissues enabling movement, posture, and heat production.
   Skeletal muscle is the largest organ system by mass and a major metabolic tissue.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/organ/muscles/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/organ/muscles/
 slug: muscles
 tags:
 - organ
 templateEngineOverride: njk
 title: Muscles
 type: organ
-updated: '2026-03-27T09:46:14.126891Z'
+updated: '2026-03-28T07:29:07.659969Z'
 ---
 
 {% raw %}
@@ -21,8 +21,8 @@ updated: '2026-03-27T09:46:14.126891Z'
 <p>Contractile tissues enabling movement, posture, and heat production. Skeletal muscle is the largest organ system by mass and a major metabolic tissue.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/labtest/magnesium/" class="internal-link">Magnesium</a><br />
-RELATED::<a href="/garden/dev_admin/labtest/vitamin-d/" class="internal-link">Vitamin_D</a><br />
-RELATED::<a href="/garden/dev_admin/organ/muscle/" class="internal-link">Muscle</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/magnesium/" class="internal-link">Magnesium</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/vitamin-d/" class="internal-link">Vitamin_D</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/organ/muscle/" class="internal-link">Muscle</a></p>
 
 {% endraw %}

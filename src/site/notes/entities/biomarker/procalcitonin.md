@@ -1,19 +1,19 @@
 ---
-created: '2026-03-27T09:46:13.219623Z'
+created: '2026-03-28T07:29:06.034840Z'
 description: Procalcitonin is a precursor peptide of calcitonin that is markedly elevated
   in systemic bacterial infections and sepsis, serving as a key biomarker for distinguishing
   bacterial from viral infections and guiding antibiotic stewardship.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/procalcitonin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/procalcitonin/
 slug: procalcitonin
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Procalcitonin
 type: biomarker
-updated: '2026-03-27T09:46:13.219623Z'
+updated: '2026-03-28T07:29:06.034840Z'
 ---
 
 {% raw %}
@@ -22,22 +22,22 @@ updated: '2026-03-27T09:46:13.219623Z'
 <p>Procalcitonin is a precursor peptide of calcitonin that is markedly elevated in systemic bacterial infections and sepsis, serving as a key biomarker for distinguishing bacterial from viral infections and guiding antibiotic stewardship.</p>
 <h2>Relationships</h2>
 <h3>Correlated With</h3>
-<p>CORRELATED_WITH::<a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs_Crp</a><br />
-CORRELATED_WITH::<a href="/garden/dev_admin/labtest/white-blood-cell-count/" class="internal-link">White_Blood_Cell_Count</a><br />
-CORRELATED_WITH::<a href="/garden/dev_admin/labtest/interleukin-6/" class="internal-link">Interleukin_6</a></p>
+<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs_Crp</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/white-blood-cell-count/" class="internal-link">White_Blood_Cell_Count</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/interleukin-6/" class="internal-link">Interleukin_6</a></p>
 <h3>Activates</h3>
-<p>ACTIVATES::<a href="/garden/dev_admin/labtest/white-blood-cell-count/" class="internal-link">White_Blood_Cell_Count</a><br />
-ACTIVATES::<a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs_Crp</a></p>
+<p>ACTIVATES::<a href="/garden/michal.k7w@gmail.com/labtest/white-blood-cell-count/" class="internal-link">White_Blood_Cell_Count</a><br />
+ACTIVATES::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs_Crp</a></p>
 <h3>Affected By Supplement</h3>
 <ul>
-<li>-&gt; <a href="/garden/dev_admin/labtest/vitamin-d/" class="internal-link">Vitamin D</a> (supplement)</li>
-<li>-&gt; <a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin C</a> (supplement)</li>
-<li>-&gt; <a href="/garden/dev_admin/supplement/probiotics/" class="internal-link">Probiotics</a> (supplement)</li>
-<li>-&gt; <a href="/garden/dev_admin/supplement/selenium/" class="internal-link">Selenium</a> (supplement)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/vitamin-d/" class="internal-link">Vitamin D</a> (supplement)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/vitamin-c/" class="internal-link">Vitamin C</a> (supplement)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/probiotics/" class="internal-link">Probiotics</a> (supplement)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/selenium/" class="internal-link">Selenium</a> (supplement)</li>
 </ul>
 <h3>Measured By Test</h3>
 <ul>
-<li>-&gt; <a href="/garden/dev_admin/labtest/procalcitonin/" class="internal-link">procalcitonin</a> (labtest)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/procalcitonin/" class="internal-link">procalcitonin</a> (labtest)</li>
 </ul>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-27T09:46:13.705925Z'
+created: '2026-03-28T07:29:06.857023Z'
 description: Resistance exercise using progressive overload to increase muscular strength,
   mass, and endurance. Foundational for metabolic health, bone density, functional
   independence, and longevity. Stimulates muscle protein synthesis, growth hormone
@@ -7,8 +7,8 @@ description: Resistance exercise using progressive overload to increase muscular
   per week for all adults.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/intervention/strength-training/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/intervention/strength-training/
 slug: strength-training
 tags:
 - intervention
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Strength Training
 type: intervention
-updated: '2026-03-27T09:46:13.705925Z'
+updated: '2026-03-28T07:29:06.857023Z'
 ---
 
 {% raw %}
@@ -43,11 +43,11 @@ updated: '2026-03-27T09:46:13.705925Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a><br />
-RELATED::<a href="/garden/dev_admin/organ/muscles/" class="internal-link">Muscles</a><br />
-RELATED::<a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a><br />
-RELATED::<a href="/garden/dev_admin/organ/bones/" class="internal-link">Bones</a><br />
-RELATED::<a href="/garden/dev_admin/hormone/growth-hormone/" class="internal-link">Growth_Hormone</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/exercise/" class="internal-link">Exercise</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/organ/muscles/" class="internal-link">Muscles</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/insulin/" class="internal-link">Insulin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/organ/bones/" class="internal-link">Bones</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/hormone/growth-hormone/" class="internal-link">Growth_Hormone</a></p>
 <h2>Research Support</h2>
 <p>No research studies documented yet.</p>
 <h2>References</h2>

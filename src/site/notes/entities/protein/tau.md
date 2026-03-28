@@ -1,12 +1,12 @@
 ---
-created: '2026-03-27T09:46:14.333690Z'
+created: '2026-03-28T07:29:08.121727Z'
 description: Microtubule-associated protein that stabilizes the neuronal cytoskeleton.
   Hyperphosphorylation leads to its detachment and aggregation into neurofibrillary
   tangles (NFTs).
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/protein/tau/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/protein/tau/
 slug: tau
 tags:
 - protein
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Tau
 type: protein
-updated: '2026-03-27T09:46:14.333690Z'
+updated: '2026-03-28T07:29:08.121727Z'
 ---
 
 {% raw %}
@@ -29,9 +29,9 @@ updated: '2026-03-27T09:46:14.333690Z'
 RELATED::<a class="internal-link is-unresolved" href="/404">Microtubules</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Chronic_Traumatic_Encephalopathy</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">CDK5</a><br />
-RELATED::<a href="/garden/dev_admin/gene/mapt/" class="internal-link">MAPT</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/gene/mapt/" class="internal-link">MAPT</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers_Disease_Pathway</a><br />
-RELATED::<a href="/garden/dev_admin/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">GSK3-beta</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a></p>
 

@@ -1,16 +1,16 @@
 ---
-created: '2026-03-27T09:46:14.129914Z'
+created: '2026-03-28T07:29:07.665574Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/organ/periaqueductal-gray/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/organ/periaqueductal-gray/
 slug: periaqueductal-gray
 tags:
 - organ
 templateEngineOverride: njk
 title: Periaqueductal Gray
 type: organ
-updated: '2026-03-27T09:46:14.129914Z'
+updated: '2026-03-28T07:29:07.665574Z'
 ---
 
 {% raw %}

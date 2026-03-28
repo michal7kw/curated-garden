@@ -1,16 +1,16 @@
 ---
-created: '2026-03-27T09:46:14.133934Z'
+created: '2026-03-28T07:29:07.676117Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/organ/striatum/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/organ/striatum/
 slug: striatum
 tags:
 - organ
 templateEngineOverride: njk
 title: Striatum
 type: organ
-updated: '2026-03-27T09:46:14.133934Z'
+updated: '2026-03-28T07:29:07.676117Z'
 ---
 
 {% raw %}

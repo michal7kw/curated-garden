@@ -1,18 +1,18 @@
 ---
-created: '2026-03-27T09:46:13.746802Z'
+created: '2026-03-28T07:29:06.938748Z'
 description: 8-test panel measuring glucose, calcium, electrolytes, and kidney function
   markers.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/basic-metabolic-panel/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/basic-metabolic-panel/
 slug: basic-metabolic-panel
 tags:
 - labtest
 templateEngineOverride: njk
 title: basic_metabolic_panel
 type: labtest
-updated: '2026-03-27T09:46:13.746802Z'
+updated: '2026-03-28T07:29:06.938748Z'
 ---
 
 {% raw %}
@@ -67,8 +67,8 @@ updated: '2026-03-27T09:46:13.746802Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/biomarker/glucose-fasting/" class="internal-link">Glucose_Fasting</a><br />
-RELATED::<a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">Creatinine</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/glucose-fasting/" class="internal-link">Glucose_Fasting</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/creatinine/" class="internal-link">Creatinine</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

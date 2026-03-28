@@ -1,5 +1,5 @@
 ---
-created: '2026-03-27T09:46:14.095523Z'
+created: '2026-03-28T07:29:07.598915Z'
 description: Universal methyl donor involved in over 200 methylation reactions including
   DNA methylation, neurotransmitter synthesis, phospholipid metabolism, and detoxification.
   Synthesized from methionine and ATP by methionine adenosyltransferase. After donating
@@ -7,8 +7,8 @@ description: Universal methyl donor involved in over 200 methylation reactions i
   cycle.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/metabolite/s-adenosylmethionine/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/metabolite/s-adenosylmethionine/
 slug: s-adenosylmethionine
 tags:
 - metabolite
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: S-Adenosylmethionine
 type: metabolite
-updated: '2026-03-27T09:46:14.095523Z'
+updated: '2026-03-28T07:29:07.598915Z'
 ---
 
 {% raw %}
@@ -29,10 +29,10 @@ updated: '2026-03-27T09:46:14.095523Z'
 <p>Universal methyl donor involved in over 200 methylation reactions including DNA methylation, neurotransmitter synthesis, phospholipid metabolism, and detoxification. Synthesized from methionine and ATP by methionine adenosyltransferase. After donating its methyl group, becomes S-adenosylhomocysteine (SAH), linking to the homocysteine/methylation cycle.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/labtest/homocysteine/" class="internal-link">Homocysteine</a><br />
-RELATED::<a href="/garden/dev_admin/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
-RELATED::<a href="/garden/dev_admin/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
-RELATED::<a href="/garden/dev_admin/metabolite/methylfolate/" class="internal-link">Methylfolate</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/glutathione/" class="internal-link">Glutathione</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/homocysteine/" class="internal-link">Homocysteine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/methylfolate/" class="internal-link">Methylfolate</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/glutathione/" class="internal-link">Glutathione</a></p>
 
 {% endraw %}

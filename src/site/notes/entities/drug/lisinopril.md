@@ -1,12 +1,12 @@
 ---
-created: '2026-03-27T09:46:13.617694Z'
+created: '2026-03-28T07:29:06.607109Z'
 description: ACE inhibitor for hypertension, heart failure, and diabetic nephropathy.
   Reduces angiotensin II formation, lowering blood pressure and providing cardio-renal
   protection.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/drug/lisinopril/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/drug/lisinopril/
 slug: lisinopril
 tags:
 - drug
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Lisinopril
 type: drug
-updated: '2026-03-27T09:46:13.617694Z'
+updated: '2026-03-28T07:29:06.607109Z'
 ---
 
 {% raw %}
@@ -27,8 +27,8 @@ updated: '2026-03-27T09:46:13.617694Z'
 <p>ACE inhibitor for hypertension, heart failure, and diabetic nephropathy. Reduces angiotensin II formation, lowering blood pressure and providing cardio-renal protection.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/drug/quetiapine/" class="internal-link">Quetiapine</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/drug/quetiapine/" class="internal-link">Quetiapine</a></p>
 <h3>Interacts With</h3>
-<p>INTERACTS_WITH::<a href="/garden/dev_admin/drug/quetiapine/" class="internal-link">Quetiapine</a></p>
+<p>INTERACTS_WITH::<a href="/garden/michal.k7w@gmail.com/drug/quetiapine/" class="internal-link">Quetiapine</a></p>
 
 {% endraw %}

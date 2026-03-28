@@ -1,12 +1,12 @@
 ---
-created: '2026-03-27T09:46:13.689163Z'
+created: '2026-03-28T07:29:06.820420Z'
 description: Structured mental exercises designed to maintain or improve cognitive
   function. Includes memory training, processing speed exercises, and computerized
   brain training programs for dementia prevention.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/intervention/cognitive-training/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/intervention/cognitive-training/
 slug: cognitive-training
 tags:
 - intervention
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Cognitive Training
 type: intervention
-updated: '2026-03-27T09:46:13.689163Z'
+updated: '2026-03-28T07:29:06.820420Z'
 ---
 
 {% raw %}
@@ -34,16 +34,16 @@ updated: '2026-03-27T09:46:13.689163Z'
 RELATED::<a class="internal-link is-unresolved" href="/404">Age-Related_Cognitive_Decline</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Cognitive_Reserve</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Parietal_Cortex</a><br />
-RELATED::<a href="/garden/dev_admin/biomarker/bdnf/" class="internal-link">BDNF</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/omega-3-dha/" class="internal-link">Omega-3_DHA</a><br />
-RELATED::<a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a><br />
-RELATED::<a href="/garden/dev_admin/organ/hippocampus/" class="internal-link">Hippocampus</a><br />
-RELATED::<a href="/garden/dev_admin/organ/prefrontal-cortex/" class="internal-link">Prefrontal_Cortex</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/bdnf/" class="internal-link">BDNF</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/omega-3-dha/" class="internal-link">Omega-3_DHA</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/exercise/" class="internal-link">Exercise</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/organ/hippocampus/" class="internal-link">Hippocampus</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/organ/prefrontal-cortex/" class="internal-link">Prefrontal_Cortex</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">ADHD</a><br />
-RELATED::<a href="/garden/dev_admin/intervention/mediterranean-diet/" class="internal-link">Mediterranean_Diet</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/bacopa-monnieri/" class="internal-link">Bacopa_Monnieri</a><br />
-RELATED::<a href="/garden/dev_admin/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a><br />
-RELATED::<a href="/garden/dev_admin/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a></p>
+RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/mediterranean-diet/" class="internal-link">Mediterranean_Diet</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/bacopa-monnieri/" class="internal-link">Bacopa_Monnieri</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a></p>
 <h2>Research Support</h2>
 <p>No research studies documented yet.</p>
 <h2>References</h2>

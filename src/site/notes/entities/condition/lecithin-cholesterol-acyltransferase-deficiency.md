@@ -1,11 +1,11 @@
 ---
-created: '2026-03-27T09:46:13.454200Z'
+created: '2026-03-28T07:29:06.363227Z'
 description: A rare genetic disorder of lipid metabolism that leads to corneal opacities,
   anemia, and renal failure due to the accumulation of unesterified cholesterol.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/lecithin-cholesterol-acyltransferase-deficiency/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/lecithin-cholesterol-acyltransferase-deficiency/
 slug: lecithin-cholesterol-acyltransferase-deficiency
 tags:
 - condition
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Lecithin Cholesterol Acyltransferase Deficiency
 type: condition
-updated: '2026-03-27T09:46:13.454200Z'
+updated: '2026-03-28T07:29:06.363227Z'
 ---
 
 {% raw %}
@@ -24,10 +24,10 @@ updated: '2026-03-27T09:46:13.454200Z'
 <p>A rare genetic disorder of lipid metabolism that leads to corneal opacities, anemia, and renal failure due to the accumulation of unesterified cholesterol.</p>
 <h2>Relationships</h2>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/hdl/" class="internal-link">Hdl</a><br />
-ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/total-cholesterol/" class="internal-link">Total Cholesterol</a><br />
-ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">Creatinine</a><br />
-ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
-ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/albumin/" class="internal-link">Albumin</a></p>
+<p>ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/hdl/" class="internal-link">Hdl</a><br />
+ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/total-cholesterol/" class="internal-link">Total Cholesterol</a><br />
+ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
+ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/albumin/" class="internal-link">Albumin</a></p>
 
 {% endraw %}

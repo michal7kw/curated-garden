@@ -1,16 +1,16 @@
 ---
-created: '2026-03-27T09:46:13.283556Z'
+created: '2026-03-28T07:29:06.140098Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/cognitivefunction/executive-function/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/cognitivefunction/executive-function/
 slug: executive-function
 tags:
 - cognitivefunction
 templateEngineOverride: njk
 title: Executive Function
 type: cognitivefunction
-updated: '2026-03-27T09:46:13.283556Z'
+updated: '2026-03-28T07:29:06.140098Z'
 ---
 
 {% raw %}

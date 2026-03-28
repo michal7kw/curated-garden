@@ -1,11 +1,11 @@
 ---
-created: '2026-03-27T09:46:13.601708Z'
+created: '2026-03-28T07:29:06.581371Z'
 description: Tricyclic antidepressant (TCA) with potent serotonin reuptake inhibition.
   The gold standard medication for Obsessive-Compulsive Disorder (OCD).
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/drug/clomipramine/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/drug/clomipramine/
 slug: clomipramine
 tags:
 - drug
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Clomipramine
 type: drug
-updated: '2026-03-27T09:46:13.601708Z'
+updated: '2026-03-28T07:29:06.581371Z'
 ---
 
 {% raw %}
@@ -27,16 +27,16 @@ updated: '2026-03-27T09:46:13.601708Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Iobenguane_sulfate_I-123</a><br />
-RELATED::<a href="/garden/dev_admin/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
-RELATED::<a href="/garden/dev_admin/drug/carbamazepine/" class="internal-link">Carbamazepine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/drug/carbamazepine/" class="internal-link">Carbamazepine</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Polymyxin_B</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Polyestradiol_phosphate</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Cataplexy</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Interferon_alfa-2b</a><br />
-RELATED::<a href="/garden/dev_admin/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">SERT</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">NET</a><br />
-RELATED::<a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/depression/" class="internal-link">Depression</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">OCD</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">5-methoxy-NN-dimethyltryptamine</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Clocortolone_acetate</a><br />

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-27T09:46:14.373427Z'
+created: '2026-03-28T07:29:08.235122Z'
 description: Parasitic desert plant (Cistanche tubulosa/deserticola) used in Traditional
   Chinese Medicine for over 1,800 years as a kidney and yang tonic. Contains phenylethanoid
   glycosides (echinacoside, acteoside) with demonstrated neuroprotective, anti-inflammatory,
@@ -7,8 +7,8 @@ description: Parasitic desert plant (Cistanche tubulosa/deserticola) used in Tra
   is primarily preclinical with limited human trials.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/supplement/cistanche/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/supplement/cistanche/
 slug: cistanche
 tags:
 - supplement
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Cistanche
 type: supplement
-updated: '2026-03-27T09:46:14.373427Z'
+updated: '2026-03-28T07:29:08.235122Z'
 ---
 
 {% raw %}
@@ -34,14 +34,14 @@ updated: '2026-03-27T09:46:14.373427Z'
 <p>100-300mg standardized extract (containing 15-30% echinacoside) daily</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/supplement/ashwagandha/" class="internal-link">Ashwagandha</a><br />
-RELATED::<a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/ashwagandha/" class="internal-link">Ashwagandha</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/garden/dev_admin/hormone/testosterone/" class="internal-link">Testosterone</a><br />
-AFFECTS_BIOMARKER::<a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>
+<p>AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/hormone/testosterone/" class="internal-link">Testosterone</a><br />
+AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/hormonal-imbalance/" class="internal-link">Hormonal Imbalance</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/hormonal-imbalance/" class="internal-link">Hormonal Imbalance</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a></p>
 
 {% endraw %}

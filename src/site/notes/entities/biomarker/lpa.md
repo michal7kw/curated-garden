@@ -1,19 +1,19 @@
 ---
-created: '2026-03-27T09:46:13.189581Z'
+created: '2026-03-28T07:29:05.983633Z'
 description: A genetically determined, highly atherogenic lipoprotein consisting of
   an LDL-like particle bound to apolipoprotein(a). Independent risk factor for cardiovascular
   disease.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/lpa/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/lpa/
 slug: lpa
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Lp(a)
 type: biomarker
-updated: '2026-03-27T09:46:13.189581Z'
+updated: '2026-03-28T07:29:05.983633Z'
 ---
 
 {% raw %}
@@ -23,14 +23,14 @@ updated: '2026-03-27T09:46:13.189581Z'
 <h2>Relationships</h2>
 <h3>Affected By Supplement</h3>
 <ul>
-<li>-&gt; <a href="/garden/dev_admin/supplement/niacin/" class="internal-link">Niacin</a> (supplement)</li>
-<li>-&gt; <a href="/garden/dev_admin/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a> (supplement)</li>
-<li>-&gt; <a href="/garden/dev_admin/supplement/l-carnitine/" class="internal-link">L-Carnitine</a> (supplement)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/niacin/" class="internal-link">Niacin</a> (supplement)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a> (supplement)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/l-carnitine/" class="internal-link">L-Carnitine</a> (supplement)</li>
 </ul>
 <h3>Measured By Test</h3>
 <ul>
-<li>-&gt; <a href="/garden/dev_admin/labtest/lipoprotein-a/" class="internal-link">lipoprotein_a</a> (labtest)</li>
-<li>-&gt; <a href="/garden/dev_admin/labtest/advanced-lipid-panel/" class="internal-link">advanced_lipid_panel</a> (labtest)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/lipoprotein-a/" class="internal-link">lipoprotein_a</a> (labtest)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/advanced-lipid-panel/" class="internal-link">advanced_lipid_panel</a> (labtest)</li>
 </ul>
 
 {% endraw %}

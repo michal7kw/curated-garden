@@ -1,11 +1,11 @@
 ---
-created: '2026-03-27T09:46:14.273699Z'
+created: '2026-03-28T07:29:07.973213Z'
 description: Encodes the Amyloid-Beta Precursor Protein. Mutations in this gene are
   associated with early-onset Alzheimer's disease.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/gene/app/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/gene/app/
 slug: app
 tags:
 - gene
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: APP
 type: gene
-updated: '2026-03-27T09:46:14.273699Z'
+updated: '2026-03-28T07:29:07.973213Z'
 ---
 
 {% raw %}

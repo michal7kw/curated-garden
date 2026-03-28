@@ -1,10 +1,10 @@
 ---
-created: '2026-03-27T09:46:14.301546Z'
+created: '2026-03-28T07:29:08.035690Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/gene/esr1/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/gene/esr1/
 slug: esr1
 tags:
 - gene
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: ESR1
 type: gene
-updated: '2026-03-27T09:46:14.301546Z'
+updated: '2026-03-28T07:29:08.035690Z'
 ---
 
 {% raw %}
@@ -25,14 +25,14 @@ updated: '2026-03-27T09:46:14.301546Z'
 <p>...</p>
 <h2>Relationships</h2>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/osteoporosis/" class="internal-link">Osteoporosis</a><br />
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/osteoporosis/" class="internal-link">Osteoporosis</a><br />
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Breast_Cancer</a></p>
 <h3>Activated By</h3>
-<p>ACTIVATED_BY::<a href="/garden/dev_admin/hormone/estrogen/" class="internal-link">Estrogen</a><br />
-ACTIVATED_BY::<a href="/garden/dev_admin/labtest/estradiol/" class="internal-link">Estradiol</a></p>
+<p>ACTIVATED_BY::<a href="/garden/michal.k7w@gmail.com/hormone/estrogen/" class="internal-link">Estrogen</a><br />
+ACTIVATED_BY::<a href="/garden/michal.k7w@gmail.com/labtest/estradiol/" class="internal-link">Estradiol</a></p>
 <h3>Interacts With</h3>
-<p>INTERACTS_WITH::<a href="/garden/dev_admin/gene/src/" class="internal-link">SRC</a><br />
-INTERACTS_WITH::<a href="/garden/dev_admin/gene/ep300/" class="internal-link">EP300</a><br />
+<p>INTERACTS_WITH::<a href="/garden/michal.k7w@gmail.com/gene/src/" class="internal-link">SRC</a><br />
+INTERACTS_WITH::<a href="/garden/michal.k7w@gmail.com/gene/ep300/" class="internal-link">EP300</a><br />
 INTERACTS_WITH::<a class="internal-link is-unresolved" href="/404">ESR2</a></p>
 <h3>Encodes</h3>
 <p>ENCODES::<a class="internal-link is-unresolved" href="/404">Estrogen_Receptor_Alpha</a></p>

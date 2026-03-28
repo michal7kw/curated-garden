@@ -1,11 +1,11 @@
 ---
-created: '2026-03-27T09:46:14.428333Z'
+created: '2026-03-28T07:29:08.351837Z'
 description: Adaptogenic herb that enhances stress resilience, mental performance,
   and physical endurance. Modulates stress hormones and supports dopamine levels.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/supplement/rhodiola-rosea/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/supplement/rhodiola-rosea/
 slug: rhodiola-rosea
 tags:
 - supplement
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Rhodiola Rosea
 type: supplement
-updated: '2026-03-27T09:46:14.428333Z'
+updated: '2026-03-28T07:29:08.351837Z'
 ---
 
 {% raw %}
@@ -30,24 +30,24 @@ updated: '2026-03-27T09:46:14.428333Z'
 <p>200-600 mg daily (standardized extract)</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
-RELATED::<a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a><br />
-RELATED::<a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a><br />
-RELATED::<a href="/garden/dev_admin/phenotype/fatigue/" class="internal-link">Fatigue</a><br />
-RELATED::<a href="/garden/dev_admin/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/ashwagandha/" class="internal-link">Ashwagandha</a><br />
-RELATED::<a href="/garden/dev_admin/organ/adrenal-glands/" class="internal-link">Adrenal_Glands</a><br />
-RELATED::<a href="/garden/dev_admin/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/phenotype/fatigue/" class="internal-link">Fatigue</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/ashwagandha/" class="internal-link">Ashwagandha</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/organ/adrenal-glands/" class="internal-link">Adrenal_Glands</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a><br />
-AFFECTS_ORGAN::<a href="/garden/dev_admin/organ/adrenal-glands/" class="internal-link">Adrenal_Glands</a></p>
+<p>AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a><br />
+AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/adrenal-glands/" class="internal-link">Adrenal_Glands</a></p>
 <h3>Affects Neurotransmitter</h3>
-<p>AFFECTS_NEUROTRANSMITTER::<a href="/garden/dev_admin/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
-AFFECTS_NEUROTRANSMITTER::<a href="/garden/dev_admin/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
-AFFECTS_NEUROTRANSMITTER::<a href="/garden/dev_admin/neurotransmitter/serotonin/" class="internal-link">Serotonin</a></p>
+<p>AFFECTS_NEUROTRANSMITTER::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
+AFFECTS_NEUROTRANSMITTER::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
+AFFECTS_NEUROTRANSMITTER::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/serotonin/" class="internal-link">Serotonin</a></p>
 <h3>Synergistic With</h3>
-<p>SYNERGISTIC_WITH::<a href="/garden/dev_admin/supplement/ashwagandha/" class="internal-link">Ashwagandha</a></p>
+<p>SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/ashwagandha/" class="internal-link">Ashwagandha</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/phenotype/fatigue/" class="internal-link">Fatigue</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/phenotype/fatigue/" class="internal-link">Fatigue</a></p>
 
 {% endraw %}

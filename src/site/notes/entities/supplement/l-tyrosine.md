@@ -1,5 +1,5 @@
 ---
-created: '2026-03-27T09:46:14.396142Z'
+created: '2026-03-28T07:29:08.281118Z'
 description: Conditionally essential amino acid and primary precursor to the catecholamine
   neurotransmitters (dopamine, norepinephrine, epinephrine) and thyroid hormones (T3,
   T4). Most effective for cognitive enhancement under conditions of stress, sleep
@@ -7,8 +7,8 @@ description: Conditionally essential amino acid and primary precursor to the cat
   significantly increase catecholamines above baseline at rest.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/supplement/l-tyrosine/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/supplement/l-tyrosine/
 slug: l-tyrosine
 tags:
 - supplement
@@ -22,7 +22,7 @@ tags:
 templateEngineOverride: njk
 title: L-Tyrosine
 type: supplement
-updated: '2026-03-27T09:46:14.396142Z'
+updated: '2026-03-28T07:29:08.281118Z'
 ---
 
 {% raw %}
@@ -96,45 +96,45 @@ updated: '2026-03-27T09:46:14.396142Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/garden/dev_admin/organ/adrenal-glands/" class="internal-link">Adrenal Glands</a><br />
-AFFECTS_ORGAN::<a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a><br />
-AFFECTS_ORGAN::<a href="/garden/dev_admin/organ/thyroid/" class="internal-link">Thyroid</a></p>
+<p>AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/adrenal-glands/" class="internal-link">Adrenal Glands</a><br />
+AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a><br />
+AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/thyroid/" class="internal-link">Thyroid</a></p>
 <h3>Precursor Of</h3>
-<p>PRECURSOR_OF::<a href="/garden/dev_admin/hormone/thyroid-hormones/" class="internal-link">Thyroid Hormones</a><br />
-PRECURSOR_OF::<a href="/garden/dev_admin/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
-PRECURSOR_OF::<a href="/garden/dev_admin/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a></p>
+<p>PRECURSOR_OF::<a href="/garden/michal.k7w@gmail.com/hormone/thyroid-hormones/" class="internal-link">Thyroid Hormones</a><br />
+PRECURSOR_OF::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
+PRECURSOR_OF::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a></p>
 <h3>Modulates Neurotransmitter</h3>
-<p>MODULATES_NEUROTRANSMITTER::<a href="/garden/dev_admin/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
-MODULATES_NEUROTRANSMITTER::<a href="/garden/dev_admin/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a></p>
+<p>MODULATES_NEUROTRANSMITTER::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
+MODULATES_NEUROTRANSMITTER::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a></p>
 <h3>Modulates Hormone</h3>
-<p>MODULATES_HORMONE::<a href="/garden/dev_admin/hormone/thyroid-hormones/" class="internal-link">Thyroid Hormones</a></p>
+<p>MODULATES_HORMONE::<a href="/garden/michal.k7w@gmail.com/hormone/thyroid-hormones/" class="internal-link">Thyroid Hormones</a></p>
 <h3>Requires Cofactor</h3>
-<p>REQUIRES_COFACTOR::<a href="/garden/dev_admin/supplement/iron/" class="internal-link">Iron</a><br />
-REQUIRES_COFACTOR::<a href="/garden/dev_admin/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a></p>
+<p>REQUIRES_COFACTOR::<a href="/garden/michal.k7w@gmail.com/supplement/iron/" class="internal-link">Iron</a><br />
+REQUIRES_COFACTOR::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a></p>
 <h3>Synergistic With</h3>
-<p>SYNERGISTIC_WITH::<a href="/garden/dev_admin/supplement/iodine/" class="internal-link">Iodine</a><br />
-SYNERGISTIC_WITH::<a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin C</a></p>
+<p>SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/iodine/" class="internal-link">Iodine</a><br />
+SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-c/" class="internal-link">Vitamin C</a></p>
 <h3>Participates In Pathway</h3>
-<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/dev_admin/pathway/dopamine-synthesis/" class="internal-link">Dopamine Synthesis</a></p>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/dopamine-synthesis/" class="internal-link">Dopamine Synthesis</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/depression/" class="internal-link">Depression</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/attention-deficit-hyperactivity-disorder/" class="internal-link">Attention Deficit Hyperactivity Disorder</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/depression/" class="internal-link">Depression</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/attention-deficit-hyperactivity-disorder/" class="internal-link">Attention Deficit Hyperactivity Disorder</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a></p>
 <h3>Supports Function</h3>
-<p>SUPPORTS_FUNCTION::<a href="/garden/dev_admin/cognitivefunction/attention-and-focus/" class="internal-link">Attention and Focus</a><br />
-SUPPORTS_FUNCTION::<a href="/garden/dev_admin/cognitivefunction/executive-function/" class="internal-link">Executive Function</a></p>
+<p>SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/attention-and-focus/" class="internal-link">Attention and Focus</a><br />
+SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/executive-function/" class="internal-link">Executive Function</a></p>
 <h3>Competes With</h3>
-<p>COMPETES_WITH::<a href="/garden/dev_admin/supplement/5-htp/" class="internal-link">5-HTP</a><br />
-COMPETES_WITH::<a href="/garden/dev_admin/supplement/l-tryptophan/" class="internal-link">L-Tryptophan</a></p>
+<p>COMPETES_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/5-htp/" class="internal-link">5-HTP</a><br />
+COMPETES_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/l-tryptophan/" class="internal-link">L-Tryptophan</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/supplement/iron/" class="internal-link">Iron</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/vitamin-c/" class="internal-link">Vitamin_C</a><br />
-RELATED::<a href="/garden/dev_admin/organ/adrenal-glands/" class="internal-link">Adrenal_Glands</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/iron/" class="internal-link">Iron</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-c/" class="internal-link">Vitamin_C</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/organ/adrenal-glands/" class="internal-link">Adrenal_Glands</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/garden/dev_admin/labtest/tsh/" class="internal-link">Tsh</a><br />
-AFFECTS_BIOMARKER::<a href="/garden/dev_admin/biomarker/free-t3/" class="internal-link">Free T3</a><br />
-AFFECTS_BIOMARKER::<a href="/garden/dev_admin/biomarker/free-t4/" class="internal-link">Free T4</a></p>
+<p>AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/tsh/" class="internal-link">Tsh</a><br />
+AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/biomarker/free-t3/" class="internal-link">Free T3</a><br />
+AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/biomarker/free-t4/" class="internal-link">Free T4</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:25797188 - L-Tyrosine promotes cognitive flexibility</li>

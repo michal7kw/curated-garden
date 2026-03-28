@@ -1,13 +1,13 @@
 ---
-created: '2026-03-27T09:46:13.670473Z'
+created: '2026-03-28T07:29:06.750187Z'
 description: Support emotional resilience and stress adaptation. Magnesium calms the
   nervous system, omega-3 EPA supports neurotransmitter function, vitamin D3 modulates
   mood-regulating pathways, and ashwagandha is a well-studied adaptogen for cortisol
   regulation.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/healthstack/mood-stress/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/healthstack/mood-stress/
 slug: mood-stress
 tags:
 - healthstack
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Mood & Stress
 type: healthstack
-updated: '2026-03-27T09:46:13.670473Z'
+updated: '2026-03-28T07:29:06.750187Z'
 ---
 
 {% raw %}
@@ -79,14 +79,14 @@ updated: '2026-03-27T09:46:13.670473Z'
 </thead>
 <tbody>
 <tr>
-<td><a href="/garden/dev_admin/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a></td>
+<td><a href="/garden/michal.k7w@gmail.com/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a></td>
 <td>30-100</td>
 <td>50-80</td>
 <td>ng/mL</td>
 <td>Low levels strongly associated with depression</td>
 </tr>
 <tr>
-<td><a href="/garden/dev_admin/labtest/cortisol-am/" class="internal-link">Cortisol AM</a></td>
+<td><a href="/garden/michal.k7w@gmail.com/labtest/cortisol-am/" class="internal-link">Cortisol AM</a></td>
 <td>6-18.4</td>
 <td>10-15</td>
 <td>mcg/dL</td>

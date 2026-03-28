@@ -1,18 +1,18 @@
 ---
-created: '2026-03-27T09:46:13.809484Z'
+created: '2026-03-28T07:29:07.033146Z'
 description: Blood sugar after fasting. Used for diabetes screening and metabolic
   health assessment.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/fasting-glucose/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/fasting-glucose/
 slug: fasting-glucose
 tags:
 - labtest
 templateEngineOverride: njk
 title: fasting_glucose
 type: labtest
-updated: '2026-03-27T09:46:13.809484Z'
+updated: '2026-03-28T07:29:07.033146Z'
 ---
 
 {% raw %}
@@ -61,7 +61,7 @@ updated: '2026-03-27T09:46:13.809484Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/dev_admin/biomarker/glucose-fasting/" class="internal-link">glucose_fasting</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/biomarker/glucose-fasting/" class="internal-link">glucose_fasting</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -72,8 +72,8 @@ updated: '2026-03-27T09:46:13.809484Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/biomarker/glucose-fasting/" class="internal-link">glucose_fasting</a><br />
-RELATED::<a href="/garden/dev_admin/biomarker/glucose-fasting/" class="internal-link">Glucose_Fasting</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/glucose-fasting/" class="internal-link">glucose_fasting</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/glucose-fasting/" class="internal-link">Glucose_Fasting</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

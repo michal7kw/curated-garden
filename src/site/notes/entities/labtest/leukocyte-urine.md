@@ -1,19 +1,19 @@
 ---
-created: '2026-03-27T09:46:13.881940Z'
+created: '2026-03-28T07:29:07.188474Z'
 description: Tested twice a year Leukocytes (white blood cells) are part of the immune
   system and normally help the body fight infection. When they appear in urine, which
   is called leukocyturia, it can signal inflammation in the urinary tract.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/leukocyte-urine/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/leukocyte-urine/
 slug: leukocyte-urine
 tags:
 - labtest
 templateEngineOverride: njk
 title: leukocyte_urine
 type: labtest
-updated: '2026-03-27T09:46:13.881940Z'
+updated: '2026-03-28T07:29:07.188474Z'
 ---
 
 {% raw %}
@@ -61,15 +61,15 @@ updated: '2026-03-27T09:46:13.881940Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/condition/interstitial-cystitis/" class="internal-link">Interstitial_Cystitis</a><br />
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/interstitial-cystitis/" class="internal-link">Interstitial_Cystitis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Urinary_Tract_Infection_Uti</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Urinary_Tract_Inflammation</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Bladder_Inflammation</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Infection</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/dev_admin/condition/interstitial-cystitis/" class="internal-link">Interstitial_Cystitis</a></p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/interstitial-cystitis/" class="internal-link">Interstitial_Cystitis</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/interstitial-cystitis/" class="internal-link">Interstitial_Cystitis</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/interstitial-cystitis/" class="internal-link">Interstitial_Cystitis</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

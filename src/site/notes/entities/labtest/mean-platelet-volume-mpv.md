@@ -1,5 +1,5 @@
 ---
-created: '2026-03-27T09:46:13.903172Z'
+created: '2026-03-28T07:29:07.232207Z'
 description: Tested twice a year Mean platelet volume (MPV) measures the average size
   of platelets, the cells that help blood clot and stop bleeding. High MPV means the
   body is making larger, younger platelets, often in response to blood loss, inflammation,
@@ -9,15 +9,15 @@ description: Tested twice a year Mean platelet volume (MPV) measures the average
   like easy bruising or unusual bleeding..
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/mean-platelet-volume-mpv/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/mean-platelet-volume-mpv/
 slug: mean-platelet-volume-mpv
 tags:
 - labtest
 templateEngineOverride: njk
 title: mean_platelet_volume_mpv
 type: labtest
-updated: '2026-03-27T09:46:13.903172Z'
+updated: '2026-03-28T07:29:07.232207Z'
 ---
 
 {% raw %}
@@ -65,16 +65,16 @@ updated: '2026-03-27T09:46:13.903172Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a></p>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Inflammatory_Disorder</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Recent_Blood_Loss</a><br />
-RELATED::<a href="/garden/dev_admin/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Immune_Thrombocytopenia_Low_Platelets</a><br />
-RELATED::<a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a></p>
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a><br />
-MAY_DETECT::<a href="/garden/dev_admin/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a></p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/bone-marrow-disorder/" class="internal-link">Bone_Marrow_Disorder</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

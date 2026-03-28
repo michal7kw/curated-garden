@@ -1,5 +1,5 @@
 ---
-created: '2026-03-27T09:46:13.731447Z'
+created: '2026-03-28T07:29:06.903831Z'
 description: an-tee-noo-klee-ur an-tih-bod-eez pat-urn The antinuclear antibodies
   (ANA) pattern analyzes the specific patterns of antibody staining on cells, providing
   detailed information that can help differentiate between various autoimmune diseases.
@@ -9,15 +9,15 @@ description: an-tee-noo-klee-ur an-tih-bod-eez pat-urn The antinuclear antibodie
   is positive.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/antinuclear-antibodies-ana-pattern/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/antinuclear-antibodies-ana-pattern/
 slug: antinuclear-antibodies-ana-pattern
 tags:
 - labtest
 templateEngineOverride: njk
 title: antinuclear_antibodies_ana_pattern
 type: labtest
-updated: '2026-03-27T09:46:13.731447Z'
+updated: '2026-03-28T07:29:06.903831Z'
 ---
 
 {% raw %}
@@ -65,11 +65,11 @@ updated: '2026-03-27T09:46:13.731447Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/dev_admin/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac_gluten_intolerance</a><br />
-INCLUDED_IN::<a href="/garden/dev_admin/labtestpanel/extended-autoimmunity/" class="internal-link">extended_autoimmunity</a></p>
+<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac_gluten_intolerance</a><br />
+INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-autoimmunity/" class="internal-link">extended_autoimmunity</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/labtestpanel/extended-autoimmunity/" class="internal-link">extended_autoimmunity</a><br />
-RELATED::<a href="/garden/dev_admin/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac_gluten_intolerance</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-autoimmunity/" class="internal-link">extended_autoimmunity</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac_gluten_intolerance</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

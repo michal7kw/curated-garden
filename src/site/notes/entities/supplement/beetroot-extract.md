@@ -1,12 +1,12 @@
 ---
-created: '2026-03-27T09:46:14.360974Z'
+created: '2026-03-28T07:29:08.202789Z'
 description: Rich source of dietary nitrate that converts to nitric oxide (NO) in
   the body, improving oxygen efficiency, reducing oxygen cost of exercise, enhancing
   blood flow, and improving endurance performance.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/supplement/beetroot-extract/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/supplement/beetroot-extract/
 slug: beetroot-extract
 tags:
 - supplement
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Beetroot Extract
 type: supplement
-updated: '2026-03-27T09:46:14.360974Z'
+updated: '2026-03-28T07:29:08.202789Z'
 ---
 
 {% raw %}
@@ -54,17 +54,17 @@ updated: '2026-03-27T09:46:14.360974Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/metabolite/nitric-oxide/" class="internal-link">Nitric Oxide</a><br />
-RELATED::<a href="/garden/dev_admin/intervention/exercise/" class="internal-link">Exercise</a><br />
-RELATED::<a href="/garden/dev_admin/intervention/zone-2-training/" class="internal-link">Zone 2 Training</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/nitric-oxide/" class="internal-link">Nitric Oxide</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/exercise/" class="internal-link">Exercise</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/zone-2-training/" class="internal-link">Zone 2 Training</a></p>
 <h3>Affects Biomarker</h3>
 <p>AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Blood Pressure</a></p>
 <h3>Supports</h3>
-<p>SUPPORTS::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
+<p>SUPPORTS::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/hypertension/" class="internal-link">Hypertension</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/peripheral-arterial-disease/" class="internal-link">Peripheral Arterial Disease</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/hypertension/" class="internal-link">Hypertension</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/peripheral-arterial-disease/" class="internal-link">Peripheral Arterial Disease</a></p>
 <h2>References</h2>
 <ul>
 <li>Jones AM et al. Dietary nitrate and physical performance. Annu Rev Nutr. 2018;38:303-328. PMID:30130468</li>

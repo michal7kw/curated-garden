@@ -1,20 +1,20 @@
 ---
-created: '2026-03-27T09:46:13.784747Z'
+created: '2026-03-28T07:29:06.991556Z'
 description: Serum copper test measures the total copper concentration in blood. Copper
   is an essential trace mineral required as a cofactor for over 30 enzymes. The test
   helps diagnose copper deficiency, Wilson's disease, and monitor copper supplementation.
   Should be interpreted alongside ceruloplasmin and zinc levels.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/copper-serum/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/copper-serum/
 slug: copper-serum
 tags:
 - labtest
 templateEngineOverride: njk
 title: copper_serum
 type: labtest
-updated: '2026-03-27T09:46:13.784747Z'
+updated: '2026-03-28T07:29:06.991556Z'
 ---
 
 {% raw %}
@@ -56,7 +56,7 @@ updated: '2026-03-27T09:46:13.784747Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/dev_admin/biomarker/copper/" class="internal-link">copper</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/biomarker/copper/" class="internal-link">copper</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -67,11 +67,11 @@ updated: '2026-03-27T09:46:13.784747Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related Tests</h3>
-<p>RELATED_TESTS::<a href="/garden/dev_admin/labtest/ferritin/" class="internal-link">ferritin</a><br />
-RELATED_TESTS::<a href="/garden/dev_admin/supplement/iron/" class="internal-link">iron</a><br />
-RELATED_TESTS::<a href="/garden/dev_admin/labtest/zinc-serum/" class="internal-link">zinc_serum</a></p>
+<p>RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/ferritin/" class="internal-link">ferritin</a><br />
+RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/supplement/iron/" class="internal-link">iron</a><br />
+RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/zinc-serum/" class="internal-link">zinc_serum</a></p>
 <h3>Measures</h3>
-<p>MEASURES::<a href="/garden/dev_admin/biomarker/copper/" class="internal-link">Copper</a></p>
+<p>MEASURES::<a href="/garden/michal.k7w@gmail.com/biomarker/copper/" class="internal-link">Copper</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

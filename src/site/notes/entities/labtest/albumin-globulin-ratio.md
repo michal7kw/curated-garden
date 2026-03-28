@@ -1,5 +1,5 @@
 ---
-created: '2026-03-27T09:46:13.720208Z'
+created: '2026-03-28T07:29:06.883594Z'
 description: 'Tested twice a year The albumin-to-globulin ratio compares two major
   proteins in the blood: albumin, produced by the liver to maintain fluid balance,
   and globulins, which support immune function and blood clotting. Changes in this
@@ -7,15 +7,15 @@ description: 'Tested twice a year The albumin-to-globulin ratio compares two maj
   into how the body is producing and using proteins.'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/albumin-globulin-ratio/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/albumin-globulin-ratio/
 slug: albumin-globulin-ratio
 tags:
 - labtest
 templateEngineOverride: njk
 title: albumin_globulin_ratio
 type: labtest
-updated: '2026-03-27T09:46:13.720208Z'
+updated: '2026-03-28T07:29:06.883594Z'
 ---
 
 {% raw %}

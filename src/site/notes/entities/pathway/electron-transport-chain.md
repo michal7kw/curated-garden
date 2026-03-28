@@ -1,13 +1,13 @@
 ---
-created: '2026-03-27T09:46:14.152737Z'
+created: '2026-03-28T07:29:07.721670Z'
 description: The electron transport chain (ETC) is a series of protein complexes embedded
   in the inner mitochondrial membrane that transfers electrons from NADH and FADH2
   to oxygen, generating the proton gradient used for ATP synthesis. It is the final
   stage of cellular respiration and produces the majority of cellular ATP.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/pathway/electron-transport-chain/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/pathway/electron-transport-chain/
 slug: electron-transport-chain
 tags:
 - pathway
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Electron Transport Chain
 type: pathway
-updated: '2026-03-27T09:46:14.152737Z'
+updated: '2026-03-28T07:29:07.721670Z'
 ---
 
 {% raw %}
@@ -27,28 +27,28 @@ updated: '2026-03-27T09:46:14.152737Z'
 <p>The electron transport chain (ETC) is a series of protein complexes embedded in the inner mitochondrial membrane that transfers electrons from NADH and FADH2 to oxygen, generating the proton gradient used for ATP synthesis. It is the final stage of cellular respiration and produces the majority of cellular ATP.</p>
 <h2>Relationships</h2>
 <h3>Affected By</h3>
-<p>AFFECTED_BY::<a href="/garden/dev_admin/drug/nicotine/" class="internal-link">Nicotine</a></p>
+<p>AFFECTED_BY::<a href="/garden/michal.k7w@gmail.com/drug/nicotine/" class="internal-link">Nicotine</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/drug/nicotine/" class="internal-link">Nicotine</a><br />
-RELATED::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/drug/nicotine/" class="internal-link">Nicotine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Coenzyme_Q10</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">CoQ10</a></p>
 <h3>Located In</h3>
-<p>LOCATED_IN::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
+<p>LOCATED_IN::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 <h3>Modulated By Supplement</h3>
 <p>MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Coenzyme Q10</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/pqq/" class="internal-link">PQQ</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/l-carnitine/" class="internal-link">L-Carnitine</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a></p>
+MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/pqq/" class="internal-link">PQQ</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/l-carnitine/" class="internal-link">L-Carnitine</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/nmn/" class="internal-link">NMN</a></p>
 <h3>Associated Biomarker</h3>
-<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/nad/" class="internal-link">NAD+</a><br />
-ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/8-ohdg/" class="internal-link">8-OHdG</a><br />
-ASSOCIATED_WITH::<a href="/garden/dev_admin/supplement/glutathione/" class="internal-link">Glutathione</a></p>
+<p>ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/nad/" class="internal-link">NAD+</a><br />
+ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/8-ohdg/" class="internal-link">8-OHdG</a><br />
+ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/glutathione/" class="internal-link">Glutathione</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/heart-failure/" class="internal-link">Heart Failure</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/heart-failure/" class="internal-link">Heart Failure</a></p>
 
 {% endraw %}

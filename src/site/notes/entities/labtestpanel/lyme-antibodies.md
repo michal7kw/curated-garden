@@ -1,5 +1,5 @@
 ---
-created: '2026-03-27T09:46:14.063322Z'
+created: '2026-03-28T07:29:07.540190Z'
 description: These tests identify antibodies associated with tick-borne infections
   like Lyme disease, babesiosis (caused by Babesia), ehrlichiosis (caused by Ehrlichia),
   anaplasmosis (caused by Anaplasma), and Bartonella-related diseases, detecting both
@@ -21,15 +21,15 @@ description: These tests identify antibodies associated with tick-borne infectio
   Phagocytophilum Antibodies (IgG) Lyme Antibody Screen
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtestpanel/lyme-antibodies/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtestpanel/lyme-antibodies/
 slug: lyme-antibodies
 tags:
 - labtestpanel
 templateEngineOverride: njk
 title: lyme_antibodies
 type: labtestpanel
-updated: '2026-03-27T09:46:14.063322Z'
+updated: '2026-03-28T07:29:07.540190Z'
 ---
 
 {% raw %}

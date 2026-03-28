@@ -1,20 +1,20 @@
 ---
-created: '2026-03-27T09:46:13.853614Z'
+created: '2026-03-28T07:29:07.127092Z'
 description: Interleukin-6 (IL-6) is a pro-inflammatory cytokine test that measures
   the level of IL-6 in blood. IL-6 is a key mediator of the acute-phase response and
   is elevated in infections, autoimmune conditions, cardiovascular disease, and various
   cancers. It stimulates hepatic production of CRP and other acute-phase proteins.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/interleukin-6/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/interleukin-6/
 slug: interleukin-6
 tags:
 - labtest
 templateEngineOverride: njk
 title: interleukin_6
 type: labtest
-updated: '2026-03-27T09:46:13.853614Z'
+updated: '2026-03-28T07:29:07.127092Z'
 ---
 
 {% raw %}
@@ -56,7 +56,7 @@ updated: '2026-03-27T09:46:13.853614Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/dev_admin/labtest/interleukin-6/" class="internal-link">interleukin_6</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/interleukin-6/" class="internal-link">interleukin_6</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -67,12 +67,12 @@ updated: '2026-03-27T09:46:13.853614Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Measures</h3>
-<p>MEASURES::<a href="/garden/dev_admin/labtest/interleukin-6/" class="internal-link">Interleukin_6</a></p>
+<p>MEASURES::<a href="/garden/michal.k7w@gmail.com/labtest/interleukin-6/" class="internal-link">Interleukin_6</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/dev_admin/labtest/cytokine-panel/" class="internal-link">cytokine_panel</a><br />
-INCLUDED_IN::<a href="/garden/dev_admin/labtestpanel/advanced-inflammation-panel/" class="internal-link">advanced_inflammation_panel</a></p>
+<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtest/cytokine-panel/" class="internal-link">cytokine_panel</a><br />
+INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/advanced-inflammation-panel/" class="internal-link">advanced_inflammation_panel</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/systemic-lupus-erythematosus/" class="internal-link">Systemic_Lupus_Erythematosus</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/systemic-lupus-erythematosus/" class="internal-link">Systemic_Lupus_Erythematosus</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

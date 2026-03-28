@@ -1,20 +1,20 @@
 ---
-created: '2026-03-27T09:46:14.064826Z'
+created: '2026-03-28T07:29:07.542389Z'
 description: Scans for a broad spectrum of conditions, including cancers of the brain,
   thyroid, liver, gallbladder, pancreas, spleen, kidneys, adrenal glands, bladder,
   ovaries, uterus, and prostate. Also scans for signs of stroke, sinus inflammation,
   fatty liver, gallstones, uterine fibroids, kidney stones, and abdominal aortic aneurysm.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtestpanel/mri-scan/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtestpanel/mri-scan/
 slug: mri-scan
 tags:
 - labtestpanel
 templateEngineOverride: njk
 title: mri_scan
 type: labtestpanel
-updated: '2026-03-27T09:46:14.064826Z'
+updated: '2026-03-28T07:29:07.542389Z'
 ---
 
 {% raw %}

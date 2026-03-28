@@ -1,13 +1,13 @@
 ---
-created: '2026-03-27T09:46:13.694794Z'
+created: '2026-03-28T07:29:06.832655Z'
 description: Dietary pattern that cycles between periods of eating and voluntary fasting
   on a regular schedule. Improves metabolic health, promotes autophagy, enhances insulin
   sensitivity, and supports weight management. Multiple protocols ranging from 12-hour
   to multi-day fasts.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/intervention/intermittent-fasting/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/intervention/intermittent-fasting/
 slug: intermittent-fasting
 tags:
 - intervention
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Intermittent Fasting
 type: intervention
-updated: '2026-03-27T09:46:13.694794Z'
+updated: '2026-03-28T07:29:06.832655Z'
 ---
 
 {% raw %}
@@ -53,8 +53,8 @@ updated: '2026-03-27T09:46:13.694794Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a><br />
-RELATED::<a href="/garden/dev_admin/biomarker/bdnf/" class="internal-link">BDNF</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/bdnf/" class="internal-link">BDNF</a></p>
 <h2>Research Support</h2>
 <p>No research studies documented yet.</p>
 <h2>References</h2>

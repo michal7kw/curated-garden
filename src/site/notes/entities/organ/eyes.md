@@ -1,18 +1,18 @@
 ---
-created: '2026-03-27T09:46:14.117133Z'
+created: '2026-03-28T07:29:07.638552Z'
 description: Sensory organs responsible for vision, converting light into neural signals.
   Highly metabolically active with specialized nutrient requirements.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/organ/eyes/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/organ/eyes/
 slug: eyes
 tags:
 - organ
 templateEngineOverride: njk
 title: Eyes
 type: organ
-updated: '2026-03-27T09:46:14.117133Z'
+updated: '2026-03-28T07:29:07.638552Z'
 ---
 
 {% raw %}
@@ -21,6 +21,6 @@ updated: '2026-03-27T09:46:14.117133Z'
 <p>Sensory organs responsible for vision, converting light into neural signals. Highly metabolically active with specialized nutrient requirements.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a></p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-27T09:46:13.992876Z'
+created: '2026-03-28T07:29:07.403124Z'
 description: Tested twice a year Total bilirubin measures all forms of bilirubin,
   a yellow substance made when the body breaks down old red blood cells. Normally,
   the liver processes bilirubin so it can be removed from the body. Measuring total
@@ -7,15 +7,15 @@ description: Tested twice a year Total bilirubin measures all forms of bilirubin
   bile duct problems, or other metabolic concerns.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/total-bilirubin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/total-bilirubin/
 slug: total-bilirubin
 tags:
 - labtest
 templateEngineOverride: njk
 title: total_bilirubin
 type: labtest
-updated: '2026-03-27T09:46:13.992876Z'
+updated: '2026-03-28T07:29:07.403124Z'
 ---
 
 {% raw %}
@@ -63,7 +63,7 @@ updated: '2026-03-27T09:46:13.992876Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/condition/gilberts-syndrome/" class="internal-link">GilbertS_Syndrome</a><br />
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/gilberts-syndrome/" class="internal-link">GilbertS_Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Liver_Inflammation_Hepatitis_Cirrhosis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Medication-Induced_Liver_Injury</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hemolytic_Anemia</a><br />

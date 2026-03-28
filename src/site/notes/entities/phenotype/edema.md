@@ -1,10 +1,10 @@
 ---
-created: '2026-03-27T09:46:14.208848Z'
+created: '2026-03-28T07:29:07.849049Z'
 description: Abnormal accumulation of fluid in tissues causing swelling.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/phenotype/edema/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/phenotype/edema/
 slug: edema
 tags:
 - phenotype
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Edema
 type: phenotype
-updated: '2026-03-27T09:46:14.208848Z'
+updated: '2026-03-28T07:29:07.849049Z'
 ---
 
 {% raw %}
@@ -26,12 +26,12 @@ updated: '2026-03-27T09:46:14.208848Z'
 RELATED::<a class="internal-link is-unresolved" href="/404">Genital_edema</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Pleural_effusion</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Pedal_edema</a><br />
-RELATED::<a href="/garden/dev_admin/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/creatinine/" class="internal-link">Creatinine</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Intestinal_edema</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Joint_swelling</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Pharyngeal_edema</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hyperkeratosis_over_edematous_areas</a><br />
-RELATED::<a href="/garden/dev_admin/labtest/albumin/" class="internal-link">Albumin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/albumin/" class="internal-link">Albumin</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Abnormality_of_fluid_regulation</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Edema_of_the_dorsum_of_hands</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Laryngeal_edema</a><br />

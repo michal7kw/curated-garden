@@ -1,12 +1,12 @@
 ---
-created: '2026-03-27T09:46:14.443625Z'
+created: '2026-03-28T07:29:08.397775Z'
 description: Essential B-vitamin (B1) that serves as a cofactor for pyruvate dehydrogenase
   and alpha-ketoglutarate dehydrogenase, two critical enzymes linking glycolysis to
   the TCA cycle and maintaining TCA cycle flux.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/supplement/thiamine/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/supplement/thiamine/
 slug: thiamine
 tags:
 - supplement
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Thiamine
 type: supplement
-updated: '2026-03-27T09:46:14.443625Z'
+updated: '2026-03-28T07:29:08.397775Z'
 ---
 
 {% raw %}
@@ -56,27 +56,27 @@ updated: '2026-03-27T09:46:14.443625Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/pathway/citric-acid-cycle/" class="internal-link">Citric Acid Cycle</a><br />
-RELATED::<a href="/garden/dev_admin/metabolite/pyruvate/" class="internal-link">Pyruvate</a><br />
-RELATED::<a href="/garden/dev_admin/metabolite/acetyl-coa/" class="internal-link">Acetyl-CoA</a><br />
-RELATED::<a href="/garden/dev_admin/protein/pyruvate-dehydrogenase/" class="internal-link">Pyruvate Dehydrogenase</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/citric-acid-cycle/" class="internal-link">Citric Acid Cycle</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/pyruvate/" class="internal-link">Pyruvate</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/acetyl-coa/" class="internal-link">Acetyl-CoA</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/protein/pyruvate-dehydrogenase/" class="internal-link">Pyruvate Dehydrogenase</a></p>
 <h3>Participates In Pathway</h3>
-<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/dev_admin/pathway/citric-acid-cycle/" class="internal-link">Citric Acid Cycle</a><br />
-PARTICIPATES_IN_PATHWAY::<a href="/garden/dev_admin/pathway/glycolysis/" class="internal-link">Glycolysis</a></p>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/citric-acid-cycle/" class="internal-link">Citric Acid Cycle</a><br />
+PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/glycolysis/" class="internal-link">Glycolysis</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/garden/dev_admin/metabolite/lactate/" class="internal-link">Lactate</a></p>
+<p>AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/metabolite/lactate/" class="internal-link">Lactate</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/supplement/riboflavin/" class="internal-link">Riboflavin</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/niacin/" class="internal-link">Niacin</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/b-complex-vitamins/" class="internal-link">B-Complex Vitamins</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/riboflavin/" class="internal-link">Riboflavin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/niacin/" class="internal-link">Niacin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/b-complex-vitamins/" class="internal-link">B-Complex Vitamins</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/peripheral-neuropathy/" class="internal-link">Peripheral Neuropathy</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/heart-failure/" class="internal-link">Heart Failure</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/b-vitamin-deficiency/" class="internal-link">B Vitamin Deficiency</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/diabetes/" class="internal-link">Diabetes</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/peripheral-neuropathy/" class="internal-link">Peripheral Neuropathy</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/heart-failure/" class="internal-link">Heart Failure</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/b-vitamin-deficiency/" class="internal-link">B Vitamin Deficiency</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/diabetes/" class="internal-link">Diabetes</a></p>
 <h2>References</h2>
 <ul>
 <li>Lonsdale D. A review of the biochemistry, metabolism and clinical benefits of thiamin(e). Evid Based Complement Alternat Med. 2006;3(1):49-59. PMID:16550223</li>

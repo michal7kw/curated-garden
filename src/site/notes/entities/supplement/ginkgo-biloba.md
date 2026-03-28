@@ -1,5 +1,5 @@
 ---
-created: '2026-03-27T09:46:14.382275Z'
+created: '2026-03-28T07:29:08.256312Z'
 description: One of the oldest living tree species (~270 million years) and among
   the most widely studied herbal cognitive enhancers. Standardized extracts (EGb 761)
   contain ginkgolides (terpenoid lactones acting as PAF antagonists) and flavonoid
@@ -10,8 +10,8 @@ description: One of the oldest living tree species (~270 million years) and amon
   and peripheral vascular insufficiency.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/supplement/ginkgo-biloba/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/supplement/ginkgo-biloba/
 slug: ginkgo-biloba
 tags:
 - supplement
@@ -24,7 +24,7 @@ tags:
 templateEngineOverride: njk
 title: Ginkgo Biloba
 type: supplement
-updated: '2026-03-27T09:46:14.382275Z'
+updated: '2026-03-28T07:29:08.256312Z'
 ---
 
 {% raw %}
@@ -93,27 +93,27 @@ updated: '2026-03-27T09:46:14.382275Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a><br />
-AFFECTS_ORGAN::<a href="/garden/dev_admin/organ/heart/" class="internal-link">Heart</a><br />
-AFFECTS_ORGAN::<a href="/garden/dev_admin/organ/eyes/" class="internal-link">Eyes</a></p>
+<p>AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a><br />
+AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/heart/" class="internal-link">Heart</a><br />
+AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/eyes/" class="internal-link">Eyes</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a></p>
 <h3>Synergistic With</h3>
-<p>SYNERGISTIC_WITH::<a href="/garden/dev_admin/supplement/pqq/" class="internal-link">PQQ</a><br />
-SYNERGISTIC_WITH::<a href="/garden/dev_admin/drug/methylene-blue/" class="internal-link">Methylene Blue</a></p>
+<p>SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/pqq/" class="internal-link">PQQ</a><br />
+SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/drug/methylene-blue/" class="internal-link">Methylene Blue</a></p>
 <h3>Supports Function</h3>
-<p>SUPPORTS_FUNCTION::<a href="/garden/dev_admin/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a><br />
-SUPPORTS_FUNCTION::<a href="/garden/dev_admin/cognitivefunction/attention-and-focus/" class="internal-link">Attention and Focus</a></p>
+<p>SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a><br />
+SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/attention-and-focus/" class="internal-link">Attention and Focus</a></p>
 <h3>Supports</h3>
-<p>SUPPORTS::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
+<p>SUPPORTS::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 <h3>Modulates Pathway</h3>
-<p>MODULATES_PATHWAY::<a href="/garden/dev_admin/pathway/nrf2-pathway/" class="internal-link">Nrf2 Pathway</a><br />
-MODULATES_PATHWAY::<a href="/garden/dev_admin/pathway/nf-kb-pathway/" class="internal-link">NF-kB Pathway</a></p>
+<p>MODULATES_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/nrf2-pathway/" class="internal-link">Nrf2 Pathway</a><br />
+MODULATES_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/nf-kb-pathway/" class="internal-link">NF-kB Pathway</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/metabolite/reactive-oxygen-species/" class="internal-link">Reactive Oxygen Species</a><br />
-RELATED::<a href="/garden/dev_admin/metabolite/nitric-oxide/" class="internal-link">Nitric Oxide</a><br />
-RELATED::<a href="/garden/dev_admin/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/reactive-oxygen-species/" class="internal-link">Reactive Oxygen Species</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/nitric-oxide/" class="internal-link">Nitric Oxide</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:20236541 - Ginkgo biloba for cognitive impairment and dementia (Cochrane)</li>

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-27T09:46:13.674532Z'
+created: '2026-03-28T07:29:06.768354Z'
 description: Primary mineralocorticoid hormone produced by the zona glomerulosa of
   the adrenal cortex. Central regulator of the renin-angiotensin-aldosterone system
   (RAAS). Controls sodium/potassium balance, blood volume, and blood pressure through
@@ -7,8 +7,8 @@ description: Primary mineralocorticoid hormone produced by the zona glomerulosa 
   or contributes to essential hypertension.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/hormone/aldosterone/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/hormone/aldosterone/
 slug: aldosterone
 tags:
 - hormone
@@ -21,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: Aldosterone
 type: hormone
-updated: '2026-03-27T09:46:13.674532Z'
+updated: '2026-03-28T07:29:06.768354Z'
 ---
 
 {% raw %}
@@ -30,9 +30,9 @@ updated: '2026-03-27T09:46:13.674532Z'
 <p>Primary mineralocorticoid hormone produced by the zona glomerulosa of the adrenal cortex. Central regulator of the renin-angiotensin-aldosterone system (RAAS). Controls sodium/potassium balance, blood volume, and blood pressure through renal tubular action. Dysregulation causes primary aldosteronism (Conn's syndrome) or contributes to essential hypertension.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/organ/kidneys/" class="internal-link">Kidneys</a><br />
-RELATED::<a href="/garden/dev_admin/condition/hypertension/" class="internal-link">Hypertension</a><br />
-RELATED::<a href="/garden/dev_admin/organ/heart/" class="internal-link">Heart</a><br />
-RELATED::<a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/organ/kidneys/" class="internal-link">Kidneys</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/hypertension/" class="internal-link">Hypertension</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/organ/heart/" class="internal-link">Heart</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">Cortisol</a></p>
 
 {% endraw %}

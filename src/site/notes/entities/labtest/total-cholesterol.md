@@ -1,5 +1,5 @@
 ---
-created: '2026-03-27T09:46:13.994399Z'
+created: '2026-03-28T07:29:07.408520Z'
 description: Tested twice a year Cholesterol is produced by the liver and is essential
   for various bodily functions like making hormones and vitamin D, building cell membranes,
   and supporting brain function. Total cholesterol is a measure of the total amount
@@ -7,15 +7,15 @@ description: Tested twice a year Cholesterol is produced by the liver and is ess
   plaque-forming types.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/total-cholesterol/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/total-cholesterol/
 slug: total-cholesterol
 tags:
 - labtest
 templateEngineOverride: njk
 title: total_cholesterol
 type: labtest
-updated: '2026-03-27T09:46:13.994399Z'
+updated: '2026-03-28T07:29:07.408520Z'
 ---
 
 {% raw %}
@@ -70,19 +70,19 @@ updated: '2026-03-27T09:46:13.994399Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/labtestpanel/genetic-heart-risks/" class="internal-link">genetic_heart_risks</a><br />
-RELATED::<a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
-RELATED::<a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a><br />
-RELATED::<a href="/garden/dev_admin/labtestpanel/extended-heart-metabolic/" class="internal-link">extended_heart_metabolic</a><br />
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/genetic-heart-risks/" class="internal-link">genetic_heart_risks</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-heart-metabolic/" class="internal-link">extended_heart_metabolic</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Atherosclerosis</a><br />
-RELATED::<a href="/garden/dev_admin/labtest/lipid-panel-standard/" class="internal-link">lipid_panel_standard</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/lipid-panel-standard/" class="internal-link">lipid_panel_standard</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hyperlipidemia</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/dev_admin/labtestpanel/extended-heart-metabolic/" class="internal-link">extended_heart_metabolic</a><br />
-INCLUDED_IN::<a href="/garden/dev_admin/labtestpanel/genetic-heart-risks/" class="internal-link">genetic_heart_risks</a></p>
+<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-heart-metabolic/" class="internal-link">extended_heart_metabolic</a><br />
+INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/genetic-heart-risks/" class="internal-link">genetic_heart_risks</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
-MAY_DETECT::<a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a></p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

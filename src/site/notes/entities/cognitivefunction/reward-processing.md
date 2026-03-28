@@ -1,16 +1,16 @@
 ---
-created: '2026-03-27T09:46:13.284083Z'
+created: '2026-03-28T07:29:06.141997Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/cognitivefunction/reward-processing/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/cognitivefunction/reward-processing/
 slug: reward-processing
 tags:
 - cognitivefunction
 templateEngineOverride: njk
 title: Reward Processing
 type: cognitivefunction
-updated: '2026-03-27T09:46:13.284083Z'
+updated: '2026-03-28T07:29:06.141997Z'
 ---
 
 {% raw %}

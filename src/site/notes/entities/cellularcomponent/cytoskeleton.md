@@ -1,13 +1,13 @@
 ---
-created: '2026-03-27T09:46:13.253457Z'
+created: '2026-03-28T07:29:06.089151Z'
 description: Dynamic network of protein filaments providing structural support, cell
   shape, and intracellular transport. Composed of three main systems — microfilaments
   (actin), intermediate filaments, and microtubules (tubulin). Essential for cell
   division, motility, signaling, and organelle positioning.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/cellularcomponent/cytoskeleton/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/cellularcomponent/cytoskeleton/
 slug: cytoskeleton
 tags:
 - cellularcomponent
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Cytoskeleton
 type: cellularcomponent
-updated: '2026-03-27T09:46:13.253457Z'
+updated: '2026-03-28T07:29:06.089151Z'
 ---
 
 {% raw %}
@@ -26,7 +26,7 @@ updated: '2026-03-27T09:46:13.253457Z'
 <p>Dynamic network of protein filaments providing structural support, cell shape, and intracellular transport. Composed of three main systems — microfilaments (actin), intermediate filaments, and microtubules (tubulin). Essential for cell division, motility, signaling, and organelle positioning.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/cellularcomponent/cell-membrane/" class="internal-link">Cell_Membrane</a><br />
-RELATED::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/cell-membrane/" class="internal-link">Cell_Membrane</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 
 {% endraw %}

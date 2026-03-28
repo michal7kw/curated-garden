@@ -1,18 +1,18 @@
 ---
-created: '2026-03-27T09:46:13.807948Z'
+created: '2026-03-28T07:29:07.031599Z'
 description: Primary estrogen in reproductive-age women. Important for fertility,
   menopause assessment, and hormone therapy monitoring.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/estradiol/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/estradiol/
 slug: estradiol
 tags:
 - labtest
 templateEngineOverride: njk
 title: estradiol
 type: labtest
-updated: '2026-03-27T09:46:13.807948Z'
+updated: '2026-03-28T07:29:07.031599Z'
 ---
 
 {% raw %}

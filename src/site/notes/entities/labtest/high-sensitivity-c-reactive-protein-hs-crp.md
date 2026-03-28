@@ -1,5 +1,5 @@
 ---
-created: '2026-03-27T09:46:13.842851Z'
+created: '2026-03-28T07:29:07.095660Z'
 description: high-sen-sih-tiv see-ree-ak-tiv pro-teen (h-s c-r-p) Tested twice a year
   High-sensitivity C-reactive protein (hs-CRP) can reveal even small amounts of inflammation
   in the body, making it a powerful tool for understanding risk for diseases linked
@@ -11,15 +11,15 @@ description: high-sen-sih-tiv see-ree-ak-tiv pro-teen (h-s c-r-p) Tested twice a
   show the exact cause of the inflammation.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/high-sensitivity-c-reactive-protein-hs-crp/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/high-sensitivity-c-reactive-protein-hs-crp/
 slug: high-sensitivity-c-reactive-protein-hs-crp
 tags:
 - labtest
 templateEngineOverride: njk
 title: high_sensitivity_c_reactive_protein_hs_crp
 type: labtest
-updated: '2026-03-27T09:46:13.842851Z'
+updated: '2026-03-28T07:29:07.095660Z'
 ---
 
 {% raw %}
@@ -67,29 +67,29 @@ updated: '2026-03-27T09:46:13.842851Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/labtestpanel/genetic-heart-risks/" class="internal-link">genetic_heart_risks</a><br />
-RELATED::<a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
-RELATED::<a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs_Crp</a><br />
-RELATED::<a href="/garden/dev_admin/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a><br />
-RELATED::<a href="/garden/dev_admin/labtestpanel/extended-immune-regulation/" class="internal-link">extended_immune_regulation</a><br />
-RELATED::<a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a><br />
-RELATED::<a href="/garden/dev_admin/labtestpanel/extended-heart-metabolic/" class="internal-link">extended_heart_metabolic</a><br />
-RELATED::<a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/genetic-heart-risks/" class="internal-link">genetic_heart_risks</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs_Crp</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-immune-regulation/" class="internal-link">extended_immune_regulation</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-heart-metabolic/" class="internal-link">extended_heart_metabolic</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Infection</a><br />
-RELATED::<a href="/garden/dev_admin/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic_inflammatory_response_mold_response</a></p>
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic_inflammatory_response_mold_response</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
-MAY_DETECT::<a href="/garden/dev_admin/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a><br />
-MAY_DETECT::<a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a><br />
-MAY_DETECT::<a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a></p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/dev_admin/labtestpanel/genetic-heart-risks/" class="internal-link">genetic_heart_risks</a><br />
-INCLUDED_IN::<a href="/garden/dev_admin/labtestpanel/extended-immune-regulation/" class="internal-link">extended_immune_regulation</a><br />
-INCLUDED_IN::<a href="/garden/dev_admin/labtestpanel/extended-heart-metabolic/" class="internal-link">extended_heart_metabolic</a><br />
-INCLUDED_IN::<a href="/garden/dev_admin/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic_inflammatory_response_mold_response</a></p>
+<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/genetic-heart-risks/" class="internal-link">genetic_heart_risks</a><br />
+INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-immune-regulation/" class="internal-link">extended_immune_regulation</a><br />
+INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-heart-metabolic/" class="internal-link">extended_heart_metabolic</a><br />
+INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic_inflammatory_response_mold_response</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

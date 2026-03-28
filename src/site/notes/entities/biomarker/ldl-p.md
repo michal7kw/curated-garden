@@ -1,16 +1,16 @@
 ---
-created: '2026-03-27T09:46:13.186552Z'
+created: '2026-03-28T07:29:05.979618Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/ldl-p/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/ldl-p/
 slug: ldl-p
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Ldl P
 type: biomarker
-updated: '2026-03-27T09:46:13.186552Z'
+updated: '2026-03-28T07:29:05.979618Z'
 ---
 
 {% raw %}
@@ -19,14 +19,14 @@ updated: '2026-03-27T09:46:13.186552Z'
 <h2>Relationships</h2>
 <h3>Affected By Supplement</h3>
 <ul>
-<li>-&gt; <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (supplement)</li>
-<li>-&gt; <a href="/garden/dev_admin/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> (supplement)</li>
-<li>-&gt; <a href="/garden/dev_admin/supplement/niacin/" class="internal-link">Niacin</a> (supplement)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/berberine/" class="internal-link">Berberine</a> (supplement)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> (supplement)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/niacin/" class="internal-link">Niacin</a> (supplement)</li>
 </ul>
 <h3>Measured By Test</h3>
 <ul>
-<li>-&gt; <a href="/garden/dev_admin/labtest/advanced-lipid-panel/" class="internal-link">advanced_lipid_panel</a> (labtest)</li>
-<li>-&gt; <a href="/garden/dev_admin/labtest/ldl-particle-number/" class="internal-link">ldl_particle_number</a> (labtest)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/advanced-lipid-panel/" class="internal-link">advanced_lipid_panel</a> (labtest)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/ldl-particle-number/" class="internal-link">ldl_particle_number</a> (labtest)</li>
 </ul>
 
 {% endraw %}

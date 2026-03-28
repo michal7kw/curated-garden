@@ -1,16 +1,16 @@
 ---
-created: '2026-03-27T09:46:14.134436Z'
+created: '2026-03-28T07:29:07.676890Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/organ/substantia-nigra/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/organ/substantia-nigra/
 slug: substantia-nigra
 tags:
 - organ
 templateEngineOverride: njk
 title: Substantia Nigra
 type: organ
-updated: '2026-03-27T09:46:14.134436Z'
+updated: '2026-03-28T07:29:07.676890Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-27T09:46:13.677038Z'
+created: '2026-03-28T07:29:06.775944Z'
 description: Final catecholamine in the biosynthetic cascade (Tyrosine -> L-DOPA ->
   Dopamine -> Norepinephrine -> Epinephrine). Synthesized from norepinephrine by phenylethanolamine
   N-methyltransferase (PNMT) in adrenal medulla chromaffin cells, using S-adenosylmethionine
@@ -8,8 +8,8 @@ description: Final catecholamine in the biosynthetic cascade (Tyrosine -> L-DOPA
   beta adrenergic receptors.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/hormone/epinephrine/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/hormone/epinephrine/
 slug: epinephrine
 tags:
 - hormone
@@ -21,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: Epinephrine
 type: hormone
-updated: '2026-03-27T09:46:13.677038Z'
+updated: '2026-03-28T07:29:06.775944Z'
 ---
 
 {% raw %}
@@ -80,27 +80,27 @@ updated: '2026-03-27T09:46:13.677038Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Synthesized From</h3>
-<p>SYNTHESIZED_FROM::<a href="/garden/dev_admin/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
-SYNTHESIZED_FROM::<a href="/garden/dev_admin/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a></p>
+<p>SYNTHESIZED_FROM::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
+SYNTHESIZED_FROM::<a href="/garden/michal.k7w@gmail.com/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a></p>
 <h3>Requires Cofactor</h3>
-<p>REQUIRES_COFACTOR::<a href="/garden/dev_admin/supplement/same/" class="internal-link">SAMe</a></p>
+<p>REQUIRES_COFACTOR::<a href="/garden/michal.k7w@gmail.com/supplement/same/" class="internal-link">SAMe</a></p>
 <h3>Produced By</h3>
-<p>PRODUCED_BY::<a href="/garden/dev_admin/organ/adrenal-glands/" class="internal-link">Adrenal Glands</a></p>
+<p>PRODUCED_BY::<a href="/garden/michal.k7w@gmail.com/organ/adrenal-glands/" class="internal-link">Adrenal Glands</a></p>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/garden/dev_admin/organ/heart/" class="internal-link">Heart</a><br />
-AFFECTS_ORGAN::<a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a><br />
-AFFECTS_ORGAN::<a href="/garden/dev_admin/organ/liver/" class="internal-link">Liver</a><br />
-AFFECTS_ORGAN::<a href="/garden/dev_admin/organ/lungs/" class="internal-link">Lungs</a></p>
+<p>AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/heart/" class="internal-link">Heart</a><br />
+AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a><br />
+AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/liver/" class="internal-link">Liver</a><br />
+AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/lungs/" class="internal-link">Lungs</a></p>
 <h3>Participates In Pathway</h3>
-<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/dev_admin/pathway/dopamine-synthesis/" class="internal-link">Dopamine Synthesis</a></p>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/dopamine-synthesis/" class="internal-link">Dopamine Synthesis</a></p>
 <h3>Affects Biomarker</h3>
 <p>AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Blood Pressure</a><br />
-AFFECTS_BIOMARKER::<a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a></p>
+AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">Cortisol</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
-RELATED::<a href="/garden/dev_admin/metabolite/l-dopa/" class="internal-link">L-DOPA</a><br />
-RELATED::<a href="/garden/dev_admin/protein/mao-a/" class="internal-link">MAO-A</a><br />
-RELATED::<a href="/garden/dev_admin/protein/dopamine-beta-hydroxylase/" class="internal-link">Dopamine Beta-Hydroxylase</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/l-dopa/" class="internal-link">L-DOPA</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/protein/mao-a/" class="internal-link">MAO-A</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/protein/dopamine-beta-hydroxylase/" class="internal-link">Dopamine Beta-Hydroxylase</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:11171002 - Catecholamine biosynthesis and regulation</li>

@@ -2,15 +2,15 @@
 aliases:
 - Cytochrome c Oxidase
 - COX
-created: '2026-03-27T09:46:14.281651Z'
+created: '2026-03-28T07:29:08.018146Z'
 description: Cytochrome c oxidase, the terminal enzyme of the electron transport chain.
   Catalyzes the four-electron reduction of molecular oxygen to water, the final step
   of aerobic respiration. Pumps 2 protons per electron pair across the inner mitochondrial
   membrane.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/protein/complex-iv/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/protein/complex-iv/
 slug: complex-iv
 tags:
 - protein
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Complex IV
 type: protein
-updated: '2026-03-27T09:46:14.281651Z'
+updated: '2026-03-28T07:29:08.018146Z'
 ---
 
 {% raw %}
@@ -29,6 +29,6 @@ updated: '2026-03-27T09:46:14.281651Z'
 <p>Cytochrome c oxidase, the terminal enzyme of the electron transport chain. Catalyzes the four-electron reduction of molecular oxygen to water, the final step of aerobic respiration. Pumps 2 protons per electron pair across the inner mitochondrial membrane.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/protein/cytochrome-c/" class="internal-link">Cytochrome_C</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/protein/cytochrome-c/" class="internal-link">Cytochrome_C</a></p>
 
 {% endraw %}

@@ -1,18 +1,18 @@
 ---
-created: '2026-03-27T09:46:14.008792Z'
+created: '2026-03-28T07:29:07.435947Z'
 description: Measures DunedinPACE - the rate of biological aging rather than absolute
   age.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/truage-pace/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/truage-pace/
 slug: truage-pace
 tags:
 - labtest
 templateEngineOverride: njk
 title: truage_pace
 type: labtest
-updated: '2026-03-27T09:46:14.008792Z'
+updated: '2026-03-28T07:29:07.435947Z'
 ---
 
 {% raw %}

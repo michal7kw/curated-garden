@@ -1,12 +1,12 @@
 ---
-created: '2026-03-27T09:46:14.408816Z'
+created: '2026-03-28T07:29:08.308669Z'
 description: Essential B-vitamin (B3) and NAD+ precursor through the Preiss-Handler
   salvage pathway. Supports cellular energy production, sirtuin activity, and DNA
   repair. Available as nicotinic acid and nicotinamide forms.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/supplement/niacin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/supplement/niacin/
 slug: niacin
 tags:
 - supplement
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Niacin
 type: supplement
-updated: '2026-03-27T09:46:14.408816Z'
+updated: '2026-03-28T07:29:08.308669Z'
 ---
 
 {% raw %}
@@ -71,30 +71,30 @@ updated: '2026-03-27T09:46:14.408816Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/metabolite/nadh/" class="internal-link">NADH</a><br />
-RELATED::<a href="/garden/dev_admin/pathway/nad-salvage-pathway/" class="internal-link">NAD+ Salvage Pathway</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/nmn/" class="internal-link">NMN</a><br />
-RELATED::<a href="/garden/dev_admin/metabolite/nicotinamide-riboside/" class="internal-link">Nicotinamide Riboside</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/nadh/" class="internal-link">NADH</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/nad-salvage-pathway/" class="internal-link">NAD+ Salvage Pathway</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/nmn/" class="internal-link">NMN</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/nicotinamide-riboside/" class="internal-link">Nicotinamide Riboside</a></p>
 <h3>Participates In Pathway</h3>
-<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/dev_admin/pathway/nad-salvage-pathway/" class="internal-link">NAD+ Salvage Pathway</a></p>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/nad-salvage-pathway/" class="internal-link">NAD+ Salvage Pathway</a></p>
 <h3>Modulates</h3>
-<p>MODULATES::<a href="/garden/dev_admin/protein/sirt1/" class="internal-link">SIRT1</a><br />
-MODULATES::<a href="/garden/dev_admin/protein/sirt3/" class="internal-link">SIRT3</a></p>
+<p>MODULATES::<a href="/garden/michal.k7w@gmail.com/protein/sirt1/" class="internal-link">SIRT1</a><br />
+MODULATES::<a href="/garden/michal.k7w@gmail.com/protein/sirt3/" class="internal-link">SIRT3</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/supplement/riboflavin/" class="internal-link">Riboflavin</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/thiamine/" class="internal-link">Thiamine</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/b-complex-vitamins/" class="internal-link">B-Complex Vitamins</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/riboflavin/" class="internal-link">Riboflavin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/thiamine/" class="internal-link">Thiamine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/b-complex-vitamins/" class="internal-link">B-Complex Vitamins</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/garden/dev_admin/biomarker/hdl/" class="internal-link">Hdl</a><br />
-AFFECTS_BIOMARKER::<a href="/garden/dev_admin/biomarker/ldl/" class="internal-link">Ldl</a><br />
-AFFECTS_BIOMARKER::<a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">Triglycerides</a><br />
-AFFECTS_BIOMARKER::<a href="/garden/dev_admin/biomarker/lpa/" class="internal-link">Lp(a)</a></p>
+<p>AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/biomarker/hdl/" class="internal-link">Hdl</a><br />
+AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/biomarker/ldl/" class="internal-link">Ldl</a><br />
+AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/triglycerides/" class="internal-link">Triglycerides</a><br />
+AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/biomarker/lpa/" class="internal-link">Lp(a)</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/coronary-artery-disease/" class="internal-link">Coronary Artery Disease</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/b-vitamin-deficiency/" class="internal-link">B Vitamin Deficiency</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/coronary-artery-disease/" class="internal-link">Coronary Artery Disease</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/b-vitamin-deficiency/" class="internal-link">B Vitamin Deficiency</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a></p>
 <h2>References</h2>
 <ul>
 <li>Bogan KL, Brenner C. Nicotinic acid, nicotinamide, and nicotinamide riboside: a molecular evaluation of NAD+ precursor vitamins in human nutrition. Annu Rev Nutr. 2008;28:115-130. PMID:18429699</li>

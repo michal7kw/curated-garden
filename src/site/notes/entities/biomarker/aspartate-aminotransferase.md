@@ -1,13 +1,13 @@
 ---
-created: '2026-03-27T09:46:13.114488Z'
+created: '2026-03-28T07:29:05.860334Z'
 description: Aspartate Aminotransferase (AST) is an enzyme found in various tissues,
   with high concentrations in the liver, heart, and skeletal muscle. It is released
   into the blood following cellular injury, serving as a marker for liver damage,
   myocardial infarction, or muscle trauma.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/aspartate-aminotransferase/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/aspartate-aminotransferase/
 slug: aspartate-aminotransferase
 tags:
 - biomarker
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Aspartate Aminotransferase
 type: biomarker
-updated: '2026-03-27T09:46:13.114488Z'
+updated: '2026-03-28T07:29:05.860334Z'
 ---
 
 {% raw %}
@@ -27,19 +27,19 @@ updated: '2026-03-27T09:46:13.114488Z'
 <p>Aspartate Aminotransferase (AST) is an enzyme found in various tissues, with high concentrations in the liver, heart, and skeletal muscle. It is released into the blood following cellular injury, serving as a marker for liver damage, myocardial infarction, or muscle trauma.</p>
 <h2>Relationships</h2>
 <h3>Correlated With</h3>
-<p>CORRELATED_WITH::<a href="/garden/dev_admin/biomarker/creatine-kinase/" class="internal-link">Creatine_Kinase</a><br />
-CORRELATED_WITH::<a href="/garden/dev_admin/biomarker/alanine-transaminase/" class="internal-link">Alanine_Transaminase</a><br />
-CORRELATED_WITH::<a href="/garden/dev_admin/biomarker/bilirubin-total/" class="internal-link">Bilirubin_Total</a></p>
+<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/creatine-kinase/" class="internal-link">Creatine_Kinase</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/alanine-transaminase/" class="internal-link">Alanine_Transaminase</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/bilirubin-total/" class="internal-link">Bilirubin_Total</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/myocardial-infarction/" class="internal-link">Myocardial_Infarction</a><br />
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/myocardial-infarction/" class="internal-link">Myocardial_Infarction</a><br />
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Hepatitis</a><br />
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Cirrhosis</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/rhabdomyolysis/" class="internal-link">Rhabdomyolysis</a></p>
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/rhabdomyolysis/" class="internal-link">Rhabdomyolysis</a></p>
 <h3>Indicates Organ Health</h3>
-<p>INDICATES_ORGAN_HEALTH::<a href="/garden/dev_admin/organ/liver/" class="internal-link">Liver</a><br />
-INDICATES_ORGAN_HEALTH::<a href="/garden/dev_admin/organ/muscle/" class="internal-link">Muscle</a><br />
-INDICATES_ORGAN_HEALTH::<a href="/garden/dev_admin/organ/heart/" class="internal-link">Heart</a></p>
+<p>INDICATES_ORGAN_HEALTH::<a href="/garden/michal.k7w@gmail.com/organ/liver/" class="internal-link">Liver</a><br />
+INDICATES_ORGAN_HEALTH::<a href="/garden/michal.k7w@gmail.com/organ/muscle/" class="internal-link">Muscle</a><br />
+INDICATES_ORGAN_HEALTH::<a href="/garden/michal.k7w@gmail.com/organ/heart/" class="internal-link">Heart</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/garden/dev_admin/supplement/ashwagandha/" class="internal-link">Ashwagandha</a></p>
+<p>AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/supplement/ashwagandha/" class="internal-link">Ashwagandha</a></p>
 
 {% endraw %}

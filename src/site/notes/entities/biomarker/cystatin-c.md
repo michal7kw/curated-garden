@@ -1,16 +1,16 @@
 ---
-created: '2026-03-27T09:46:13.138207Z'
+created: '2026-03-28T07:29:05.907935Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/cystatin-c/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/cystatin-c/
 slug: cystatin-c
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Cystatin C
 type: biomarker
-updated: '2026-03-27T09:46:13.138207Z'
+updated: '2026-03-28T07:29:05.907935Z'
 ---
 
 {% raw %}
@@ -18,6 +18,6 @@ updated: '2026-03-27T09:46:13.138207Z'
 <h2>Overview</h2>
 <h2>Relationships</h2>
 <h3>Indicates Organ Health</h3>
-<p>INDICATES_ORGAN_HEALTH::<a href="/garden/dev_admin/organ/kidneys/" class="internal-link">Kidneys</a></p>
+<p>INDICATES_ORGAN_HEALTH::<a href="/garden/michal.k7w@gmail.com/organ/kidneys/" class="internal-link">Kidneys</a></p>
 
 {% endraw %}

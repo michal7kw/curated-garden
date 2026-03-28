@@ -2,14 +2,14 @@
 aliases:
 - Cytochrome bc1
 - Ubiquinol:Cytochrome c Oxidoreductase
-created: '2026-03-27T09:46:14.280648Z'
+created: '2026-03-28T07:29:08.016649Z'
 description: Cytochrome bc1 complex, the third complex of the electron transport chain.
   Transfers electrons from ubiquinol to cytochrome c via the Q-cycle mechanism, pumping
   4 protons per pair of electrons across the inner mitochondrial membrane.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/protein/complex-iii/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/protein/complex-iii/
 slug: complex-iii
 tags:
 - protein
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Complex III
 type: protein
-updated: '2026-03-27T09:46:14.280648Z'
+updated: '2026-03-28T07:29:08.016649Z'
 ---
 
 {% raw %}
@@ -28,11 +28,11 @@ updated: '2026-03-27T09:46:14.280648Z'
 <p>Cytochrome bc1 complex, the third complex of the electron transport chain. Transfers electrons from ubiquinol to cytochrome c via the Q-cycle mechanism, pumping 4 protons per pair of electrons across the inner mitochondrial membrane.</p>
 <h2>Relationships</h2>
 <h3>Participates In Pathway</h3>
-<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/dev_admin/protein/complex-ii/" class="internal-link">Complex_II</a><br />
-PARTICIPATES_IN_PATHWAY::<a href="/garden/dev_admin/protein/complex-i/" class="internal-link">Complex_I</a></p>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/protein/complex-ii/" class="internal-link">Complex_II</a><br />
+PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/protein/complex-i/" class="internal-link">Complex_I</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/protein/complex-i/" class="internal-link">Complex_I</a><br />
-RELATED::<a href="/garden/dev_admin/protein/cytochrome-c/" class="internal-link">Cytochrome_C</a><br />
-RELATED::<a href="/garden/dev_admin/protein/complex-ii/" class="internal-link">Complex_II</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/protein/complex-i/" class="internal-link">Complex_I</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/protein/cytochrome-c/" class="internal-link">Cytochrome_C</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/protein/complex-ii/" class="internal-link">Complex_II</a></p>
 
 {% endraw %}

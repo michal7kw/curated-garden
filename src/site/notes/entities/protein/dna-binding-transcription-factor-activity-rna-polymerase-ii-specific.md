@@ -1,17 +1,17 @@
 ---
-created: '2026-03-27T09:46:14.297261Z'
+created: '2026-03-28T07:29:08.025323Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/protein/dna-binding-transcription-factor-activity-rna-polymerase-ii-specific/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/protein/dna-binding-transcription-factor-activity-rna-polymerase-ii-specific/
 slug: dna-binding-transcription-factor-activity-rna-polymerase-ii-specific
 tags:
 - protein
 templateEngineOverride: njk
 title: DNA-binding transcription factor activity, RNA polymerase II-specific
 type: protein
-updated: '2026-03-27T09:46:14.297261Z'
+updated: '2026-03-28T07:29:08.025323Z'
 ---
 
 {% raw %}

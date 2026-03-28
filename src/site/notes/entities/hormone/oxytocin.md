@@ -1,13 +1,13 @@
 ---
-created: '2026-03-27T09:46:13.683081Z'
+created: '2026-03-28T07:29:06.795929Z'
 description: Nonapeptide hormone synthesized in the hypothalamus (paraventricular
   and supraoptic nuclei) and released from the posterior pituitary. Beyond its classical
   roles in labor and lactation, oxytocin is a key mediator of social bonding, trust,
   anxiety reduction, and anti-inflammatory effects. Acts as both a hormone and neurotransmitter.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/hormone/oxytocin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/hormone/oxytocin/
 slug: oxytocin
 tags:
 - hormone
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Oxytocin
 type: hormone
-updated: '2026-03-27T09:46:13.683081Z'
+updated: '2026-03-28T07:29:06.795929Z'
 ---
 
 {% raw %}
@@ -29,11 +29,11 @@ updated: '2026-03-27T09:46:13.683081Z'
 <p>Nonapeptide hormone synthesized in the hypothalamus (paraventricular and supraoptic nuclei) and released from the posterior pituitary. Beyond its classical roles in labor and lactation, oxytocin is a key mediator of social bonding, trust, anxiety reduction, and anti-inflammatory effects. Acts as both a hormone and neurotransmitter.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/supplement/gaba/" class="internal-link">GABA</a><br />
-RELATED::<a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a><br />
-RELATED::<a href="/garden/dev_admin/hormone/progesterone/" class="internal-link">Progesterone</a><br />
-RELATED::<a href="/garden/dev_admin/hormone/estrogen/" class="internal-link">Estrogen</a><br />
-RELATED::<a href="/garden/dev_admin/labtest/cortisol/" class="internal-link">Cortisol</a><br />
-RELATED::<a href="/garden/dev_admin/organ/hypothalamus/" class="internal-link">Hypothalamus</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/gaba/" class="internal-link">GABA</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/hormone/progesterone/" class="internal-link">Progesterone</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/hormone/estrogen/" class="internal-link">Estrogen</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/organ/hypothalamus/" class="internal-link">Hypothalamus</a></p>
 
 {% endraw %}

@@ -1,19 +1,19 @@
 ---
-created: '2026-03-27T09:46:13.711101Z'
+created: '2026-03-28T07:29:06.868431Z'
 description: Adiponectin test measures this anti-inflammatory adipokine hormone produced
   by adipose tissue. Higher levels indicate better insulin sensitivity and lower cardiovascular
   risk. Inversely correlated with obesity, metabolic syndrome, and type 2 diabetes.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/adiponectin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/adiponectin/
 slug: adiponectin
 tags:
 - labtest
 templateEngineOverride: njk
 title: adiponectin
 type: labtest
-updated: '2026-03-27T09:46:13.711101Z'
+updated: '2026-03-28T07:29:06.868431Z'
 ---
 
 {% raw %}
@@ -66,7 +66,7 @@ updated: '2026-03-27T09:46:13.711101Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/dev_admin/labtest/adiponectin/" class="internal-link">adiponectin</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/adiponectin/" class="internal-link">adiponectin</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -77,9 +77,9 @@ updated: '2026-03-27T09:46:13.711101Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related Tests</h3>
-<p>RELATED_TESTS::<a href="/garden/dev_admin/labtest/triglycerides/" class="internal-link">triglycerides</a><br />
-RELATED_TESTS::<a href="/garden/dev_admin/labtest/fasting-insulin/" class="internal-link">fasting_insulin</a><br />
-RELATED_TESTS::<a href="/garden/dev_admin/labtest/homa-ir/" class="internal-link">homa_ir</a></p>
+<p>RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/triglycerides/" class="internal-link">triglycerides</a><br />
+RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/fasting-insulin/" class="internal-link">fasting_insulin</a><br />
+RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/homa-ir/" class="internal-link">homa_ir</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

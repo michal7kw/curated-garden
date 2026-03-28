@@ -1,12 +1,12 @@
 ---
-created: '2026-03-27T09:46:13.646780Z'
+created: '2026-03-28T07:29:06.663229Z'
 description: Turmeric is a spice derived from the root of the Curcuma longa plant,
   known for its active compound curcumin, which possesses potent anti-inflammatory
   and antioxidant properties.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/drug/turmeric/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/drug/turmeric/
 slug: turmeric
 tags:
 - drug
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Turmeric
 type: drug
-updated: '2026-03-27T09:46:13.646780Z'
+updated: '2026-03-28T07:29:06.663229Z'
 ---
 
 {% raw %}
@@ -26,13 +26,13 @@ updated: '2026-03-27T09:46:13.646780Z'
 <p>Turmeric is a spice derived from the root of the Curcuma longa plant, known for its active compound curcumin, which possesses potent anti-inflammatory and antioxidant properties.</p>
 <h2>Relationships</h2>
 <h3>Reduces Condition</h3>
-<p>REDUCES_CONDITION::<a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
+<p>REDUCES_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
 <h3>Contains</h3>
-<p>CONTAINS::<a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a></p>
+<p>CONTAINS::<a href="/garden/michal.k7w@gmail.com/supplement/curcumin/" class="internal-link">Curcumin</a></p>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">health_goals</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">supplement_regimen</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/curcumin/" class="internal-link">Curcumin</a><br />
-RELATED::<a href="/garden/dev_admin/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/curcumin/" class="internal-link">Curcumin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
 
 {% endraw %}

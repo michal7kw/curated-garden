@@ -1,12 +1,12 @@
 ---
-created: '2026-03-27T09:46:14.108462Z'
+created: '2026-03-28T07:29:07.620747Z'
 description: Catecholamine neurotransmitter and hormone that mediates the fight-or-flight
   response, promotes alertness and arousal, enhances attention and focus, and regulates
   blood pressure. Also known as noradrenaline.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/neurotransmitter/norepinephrine/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/neurotransmitter/norepinephrine/
 slug: norepinephrine
 tags:
 - neurotransmitter
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Norepinephrine
 type: neurotransmitter
-updated: '2026-03-27T09:46:14.108462Z'
+updated: '2026-03-28T07:29:07.620747Z'
 ---
 
 {% raw %}
@@ -52,13 +52,13 @@ updated: '2026-03-27T09:46:14.108462Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/drug/imipramine/" class="internal-link">Imipramine</a><br />
-RELATED::<a href="/garden/dev_admin/drug/doxepin/" class="internal-link">Doxepin</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a><br />
-RELATED::<a href="/garden/dev_admin/drug/clomipramine/" class="internal-link">Clomipramine</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/rhodiola-rosea/" class="internal-link">Rhodiola_Rosea</a><br />
-RELATED::<a href="/garden/dev_admin/drug/quetiapine/" class="internal-link">Quetiapine</a><br />
-RELATED::<a href="/garden/dev_admin/drug/amitriptyline/" class="internal-link">Amitriptyline</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/drug/imipramine/" class="internal-link">Imipramine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/drug/doxepin/" class="internal-link">Doxepin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/drug/clomipramine/" class="internal-link">Clomipramine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/rhodiola-rosea/" class="internal-link">Rhodiola_Rosea</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/drug/quetiapine/" class="internal-link">Quetiapine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/drug/amitriptyline/" class="internal-link">Amitriptyline</a></p>
 
 {% endraw %}

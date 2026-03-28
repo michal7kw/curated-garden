@@ -1,10 +1,10 @@
 ---
-created: '2026-03-27T09:46:14.318757Z'
+created: '2026-03-28T07:29:08.143309Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/protein/protein-binding/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/protein/protein-binding/
 slug: protein-binding
 tags:
 - protein
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: protein binding
 type: protein
-updated: '2026-03-27T09:46:14.318757Z'
+updated: '2026-03-28T07:29:08.143309Z'
 ---
 
 {% raw %}
@@ -63,7 +63,7 @@ RELATED::<a class="internal-link is-unresolved" href="/404">MDM2MDM4_family_prot
 RELATED::<a class="internal-link is-unresolved" href="/404">alpha-catenin_binding</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">SMAD_binding</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">protein_N-terminus_binding</a><br />
-RELATED::<a href="/garden/dev_admin/protein/identical-protein-binding/" class="internal-link">identical_protein_binding</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/protein/identical-protein-binding/" class="internal-link">identical_protein_binding</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">signaling_receptor_binding</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Wnt-protein_binding</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">cytoskeletal_protein_binding</a><br />
@@ -72,6 +72,6 @@ RELATED::<a class="internal-link is-unresolved" href="/404">proteoglycan_binding
 RELATED::<a class="internal-link is-unresolved" href="/404">growth_factor_binding</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">very-low-density_lipoprotein_particle_binding</a></p>
 <h3>Related To Function</h3>
-<p>RELATED_TO_FUNCTION::<a href="/garden/dev_admin/protein/identical-protein-binding/" class="internal-link">identical_protein_binding</a></p>
+<p>RELATED_TO_FUNCTION::<a href="/garden/michal.k7w@gmail.com/protein/identical-protein-binding/" class="internal-link">identical_protein_binding</a></p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-27T09:46:13.851539Z'
+created: '2026-03-28T07:29:07.120828Z'
 description: Tested twice a year Insulin is a hormone that acts like a key, helping
   sugar in the blood move into cells for energy. Unlike glucose, insulin isn’t routinely
   tested in standard checkups, but measuring it can sometimes detect signs of diabetes
@@ -9,8 +9,8 @@ description: Tested twice a year Insulin is a hormone that acts like a key, help
   glucose gives a fuller picture of metabolic health.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/insulin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/insulin/
 slug: insulin
 tags:
 - labtest
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: insulin
 type: labtest
-updated: '2026-03-27T09:46:13.851539Z'
+updated: '2026-03-28T07:29:07.120828Z'
 ---
 
 {% raw %}
@@ -61,7 +61,7 @@ updated: '2026-03-27T09:46:13.851539Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/dev_admin/labtest/insulin/" class="internal-link">insulin</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/insulin/" class="internal-link">insulin</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -72,16 +72,16 @@ updated: '2026-03-27T09:46:13.851539Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a><br />
-MAY_DETECT::<a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a></p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Pcos_Polycystic_Ovary_Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Type_2_Diabetes</a><br />
-RELATED::<a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Mafld_Metabolic_Dysfunction-Associated_Fatty_Liver_Disease</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

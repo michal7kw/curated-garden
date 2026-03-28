@@ -1,5 +1,5 @@
 ---
-created: '2026-03-27T09:46:13.998437Z'
+created: '2026-03-28T07:29:07.414558Z'
 description: Tested twice a year Total protein measures the combined levels of albumin
   and globulin in the blood. Maintaining adequate protein levels is important for
   overall health, as proteins support tissue repair, immune function, and general
@@ -7,15 +7,15 @@ description: Tested twice a year Total protein measures the combined levels of a
   WEAKNESS RECURRENT INFECTIONS SLOW WOUND HEALING
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/total-protein/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/total-protein/
 slug: total-protein
 tags:
 - labtest
 templateEngineOverride: njk
 title: total_protein
 type: labtest
-updated: '2026-03-27T09:46:13.998437Z'
+updated: '2026-03-28T07:29:07.414558Z'
 ---
 
 {% raw %}
@@ -63,17 +63,17 @@ updated: '2026-03-27T09:46:13.998437Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/condition/liver-disease/" class="internal-link">Liver_Disease</a><br />
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/liver-disease/" class="internal-link">Liver_Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Blood_Cancers_EG_Multiple_Myeloma</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Chronic_Inflammation_EG_Autoimmune_Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Malnutrition_Or_Poor_Absorption</a><br />
-RELATED::<a href="/garden/dev_admin/labtest/liver-function-panel/" class="internal-link">liver_function_panel</a><br />
-RELATED::<a href="/garden/dev_admin/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a></p>
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/liver-function-panel/" class="internal-link">liver_function_panel</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/dev_admin/condition/liver-disease/" class="internal-link">Liver_Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/liver-disease/" class="internal-link">Liver_Disease</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/dev_admin/condition/liver-disease/" class="internal-link">Liver_Disease</a></p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/liver-disease/" class="internal-link">Liver_Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

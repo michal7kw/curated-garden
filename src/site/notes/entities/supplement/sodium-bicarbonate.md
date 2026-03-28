@@ -1,12 +1,12 @@
 ---
-created: '2026-03-27T09:46:14.434912Z'
+created: '2026-03-28T07:29:08.374443Z'
 description: Extracellular pH buffer that enhances exercise performance by counteracting
   blood acidosis during high-intensity repeated efforts, allowing greater work output
   before fatigue.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/supplement/sodium-bicarbonate/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/supplement/sodium-bicarbonate/
 slug: sodium-bicarbonate
 tags:
 - supplement
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Sodium Bicarbonate
 type: supplement
-updated: '2026-03-27T09:46:14.434912Z'
+updated: '2026-03-28T07:29:08.374443Z'
 ---
 
 {% raw %}
@@ -56,16 +56,16 @@ updated: '2026-03-27T09:46:14.434912Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/metabolite/lactate/" class="internal-link">Lactate</a><br />
-RELATED::<a href="/garden/dev_admin/pathway/glycolysis/" class="internal-link">Glycolysis</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/lactate/" class="internal-link">Lactate</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/glycolysis/" class="internal-link">Glycolysis</a></p>
 <h3>Synergistic With</h3>
-<p>SYNERGISTIC_WITH::<a href="/garden/dev_admin/supplement/beta-alanine/" class="internal-link">Beta-Alanine</a><br />
-SYNERGISTIC_WITH::<a href="/garden/dev_admin/supplement/creatine/" class="internal-link">Creatine</a></p>
+<p>SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/beta-alanine/" class="internal-link">Beta-Alanine</a><br />
+SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/creatine/" class="internal-link">Creatine</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/garden/dev_admin/metabolite/lactate/" class="internal-link">Lactate</a></p>
+<p>AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/metabolite/lactate/" class="internal-link">Lactate</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/acid-base-imbalance/" class="internal-link">Acid-Base Imbalance</a><br />
-MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/acid-base-imbalance/" class="internal-link">Acid-Base Imbalance</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></p>
 <h2>References</h2>
 <ul>
 <li>Carr AJ et al. Effects of acute alkalosis and acidosis on performance. Sports Med. 2011;41(10):801-814. PMID:21923200</li>

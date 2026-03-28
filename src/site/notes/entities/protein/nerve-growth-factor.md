@@ -1,5 +1,5 @@
 ---
-created: '2026-03-27T09:46:14.312990Z'
+created: '2026-03-28T07:29:08.064658Z'
 description: Neurotrophin essential for the survival, growth, and maintenance of sympathetic,
   sensory, and basal forebrain cholinergic neurons. First neurotrophin discovered
   (Rita Levi-Montalcini, 1986 Nobel Prize). Stimulated by PQQ in astrocytes, modulated
@@ -7,8 +7,8 @@ description: Neurotrophin essential for the survival, growth, and maintenance of
   Decline in NGF signaling is implicated in Alzheimer's disease cholinergic degeneration.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/protein/nerve-growth-factor/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/protein/nerve-growth-factor/
 slug: nerve-growth-factor
 tags:
 - protein
@@ -21,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: Nerve Growth Factor
 type: protein
-updated: '2026-03-27T09:46:14.312990Z'
+updated: '2026-03-28T07:29:08.064658Z'
 ---
 
 {% raw %}
@@ -85,23 +85,23 @@ updated: '2026-03-27T09:46:14.312990Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Stimulated By</h3>
-<p>STIMULATED_BY::<a href="/garden/dev_admin/supplement/pqq/" class="internal-link">PQQ</a><br />
+<p>STIMULATED_BY::<a href="/garden/michal.k7w@gmail.com/supplement/pqq/" class="internal-link">PQQ</a><br />
 STIMULATED_BY::<a class="internal-link is-unresolved" href="/404">Lion's Mane</a></p>
 <h3>Modulated By</h3>
-<p>MODULATED_BY::<a href="/garden/dev_admin/drug/nicotine/" class="internal-link">Nicotine</a></p>
+<p>MODULATED_BY::<a href="/garden/michal.k7w@gmail.com/drug/nicotine/" class="internal-link">Nicotine</a></p>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a><br />
-AFFECTS_ORGAN::<a href="/garden/dev_admin/organ/hippocampus/" class="internal-link">Hippocampus</a></p>
+<p>AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a><br />
+AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/hippocampus/" class="internal-link">Hippocampus</a></p>
 <h3>Participates In Pathway</h3>
-<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/dev_admin/pathway/basal-forebrain-cholinergic-pathway/" class="internal-link">Basal Forebrain Cholinergic Pathway</a></p>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/basal-forebrain-cholinergic-pathway/" class="internal-link">Basal Forebrain Cholinergic Pathway</a></p>
 <h3>Supports Function</h3>
-<p>SUPPORTS_FUNCTION::<a href="/garden/dev_admin/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a></p>
+<p>SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
-RELATED::<a href="/garden/dev_admin/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
-RELATED::<a href="/garden/dev_admin/biomarker/bdnf/" class="internal-link">BDNF</a><br />
-RELATED::<a href="/garden/dev_admin/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a><br />
-RELATED::<a href="/garden/dev_admin/protein/creb/" class="internal-link">CREB</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/bdnf/" class="internal-link">BDNF</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/protein/creb/" class="internal-link">CREB</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:8518462 - PQQ stimulates NGF synthesis in astrocytes</li>

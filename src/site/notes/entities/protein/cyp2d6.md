@@ -1,5 +1,5 @@
 ---
-created: '2026-03-27T09:46:14.293203Z'
+created: '2026-03-28T07:29:08.007069Z'
 description: Cytochrome P450 2D6, a highly polymorphic drug-metabolizing enzyme responsible
   for the metabolism of approximately 25% of clinically used drugs including SSRIs,
   beta-blockers, opioids, and antipsychotics. Genetic polymorphisms create poor, intermediate,
@@ -7,8 +7,8 @@ description: Cytochrome P450 2D6, a highly polymorphic drug-metabolizing enzyme 
   for drug dosing and interactions.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/protein/cyp2d6/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/protein/cyp2d6/
 slug: cyp2d6
 tags:
 - protein
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: CYP2D6
 type: protein
-updated: '2026-03-27T09:46:14.293203Z'
+updated: '2026-03-28T07:29:08.007069Z'
 ---
 
 {% raw %}
@@ -75,13 +75,13 @@ updated: '2026-03-27T09:46:14.293203Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/gene/cyp3a4/" class="internal-link">CYP3A4</a><br />
-RELATED::<a href="/garden/dev_admin/organ/liver/" class="internal-link">Liver</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/gene/cyp3a4/" class="internal-link">CYP3A4</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/organ/liver/" class="internal-link">Liver</a></p>
 <h3>Metabolizes</h3>
-<p>RELATED::<a href="/garden/dev_admin/drug/fluoxetine/" class="internal-link">Fluoxetine</a><br />
-RELATED::<a href="/garden/dev_admin/drug/metoprolol/" class="internal-link">Metoprolol</a><br />
-RELATED::<a href="/garden/dev_admin/drug/haloperidol/" class="internal-link">Haloperidol</a><br />
-RELATED::<a href="/garden/dev_admin/drug/sertraline/" class="internal-link">Sertraline</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/drug/fluoxetine/" class="internal-link">Fluoxetine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/drug/metoprolol/" class="internal-link">Metoprolol</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/drug/haloperidol/" class="internal-link">Haloperidol</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/drug/sertraline/" class="internal-link">Sertraline</a></p>
 <h2>References</h2>
 <ul>
 <li>Gaedigk A et al. The Pharmacogene Variation Consortium: CYP2D6. Clin Pharmacol Ther. 2018;103(3):399-401. PMID:29134625</li>

@@ -1,12 +1,12 @@
 ---
-created: '2026-03-27T09:46:13.619698Z'
+created: '2026-03-28T07:29:06.612304Z'
 description: Ultra-low dose opioid antagonist (1.5-4.5mg) with immunomodulatory and
   anti-inflammatory effects. Off-label use for autoimmune conditions, chronic pain,
   and cancer support. Distinct from standard naltrexone dosing.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/drug/low-dose-naltrexone/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/drug/low-dose-naltrexone/
 slug: low-dose-naltrexone
 tags:
 - drug
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Low Dose Naltrexone
 type: drug
-updated: '2026-03-27T09:46:13.619698Z'
+updated: '2026-03-28T07:29:06.612304Z'
 ---
 
 {% raw %}

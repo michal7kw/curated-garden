@@ -1,10 +1,10 @@
 ---
-created: '2026-03-27T09:46:14.309960Z'
+created: '2026-03-28T07:29:08.139112Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/protein/metal-ion-binding/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/protein/metal-ion-binding/
 slug: metal-ion-binding
 tags:
 - protein
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: metal ion binding
 type: protein
-updated: '2026-03-27T09:46:14.309960Z'
+updated: '2026-03-28T07:29:08.139112Z'
 ---
 
 {% raw %}

@@ -1,13 +1,13 @@
 ---
-created: '2026-03-27T09:46:13.261897Z'
+created: '2026-03-28T07:29:06.099397Z'
 description: Single-membrane organelle containing oxidative enzymes, primarily catalase
   and various oxidases. Specializes in very-long-chain fatty acid beta-oxidation,
   plasmalogen synthesis, and reactive oxygen species (ROS) detoxification. Plays a
   key role in lipid metabolism and cellular redox homeostasis.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/cellularcomponent/peroxisome/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/cellularcomponent/peroxisome/
 slug: peroxisome
 tags:
 - cellularcomponent
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Peroxisome
 type: cellularcomponent
-updated: '2026-03-27T09:46:13.261897Z'
+updated: '2026-03-28T07:29:06.099397Z'
 ---
 
 {% raw %}
@@ -27,7 +27,7 @@ updated: '2026-03-27T09:46:13.261897Z'
 <p>Single-membrane organelle containing oxidative enzymes, primarily catalase and various oxidases. Specializes in very-long-chain fatty acid beta-oxidation, plasmalogen synthesis, and reactive oxygen species (ROS) detoxification. Plays a key role in lipid metabolism and cellular redox homeostasis.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
-RELATED::<a href="/garden/dev_admin/cellularcomponent/endoplasmic-reticulum/" class="internal-link">Endoplasmic_Reticulum</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/endoplasmic-reticulum/" class="internal-link">Endoplasmic_Reticulum</a></p>
 
 {% endraw %}

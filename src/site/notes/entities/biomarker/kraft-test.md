@@ -1,11 +1,11 @@
 ---
-created: '2026-03-27T09:46:13.184495Z'
+created: '2026-03-28T07:29:05.976757Z'
 description: An oral glucose tolerance test with serial insulin measurements (GTIR),
   used to detect early-stage insulin resistance and occult diabetes.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/kraft-test/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/kraft-test/
 slug: kraft-test
 tags:
 - biomarker
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Kraft Test
 type: biomarker
-updated: '2026-03-27T09:46:13.184495Z'
+updated: '2026-03-28T07:29:05.976757Z'
 ---
 
 {% raw %}
@@ -25,15 +25,15 @@ updated: '2026-03-27T09:46:13.184495Z'
 <h2>Relationships</h2>
 <h3>Affected By Supplement</h3>
 <ul>
-<li>-&gt; <a href="/garden/dev_admin/supplement/berberine/" class="internal-link">Berberine</a> (supplement)</li>
-<li>-&gt; <a href="/garden/dev_admin/supplement/chromium/" class="internal-link">Chromium</a> (supplement)</li>
-<li>-&gt; <a href="/garden/dev_admin/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a> (supplement)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/berberine/" class="internal-link">Berberine</a> (supplement)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/chromium/" class="internal-link">Chromium</a> (supplement)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a> (supplement)</li>
 </ul>
 <h3>Measured By Test</h3>
 <ul>
-<li>-&gt; <a href="/garden/dev_admin/labtest/fasting-insulin/" class="internal-link">fasting_insulin</a> (labtest)</li>
-<li>-&gt; <a href="/garden/dev_admin/labtest/fasting-glucose/" class="internal-link">fasting_glucose</a> (labtest)</li>
-<li>-&gt; <a href="/garden/dev_admin/labtest/homa-ir/" class="internal-link">homa_ir</a> (labtest)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/fasting-insulin/" class="internal-link">fasting_insulin</a> (labtest)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/fasting-glucose/" class="internal-link">fasting_glucose</a> (labtest)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/homa-ir/" class="internal-link">homa_ir</a> (labtest)</li>
 </ul>
 
 {% endraw %}

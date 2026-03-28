@@ -1,5 +1,5 @@
 ---
-created: '2026-03-27T09:46:13.972148Z'
+created: '2026-03-28T07:29:07.360076Z'
 description: Tested twice a year Sodium, an essential electrolyte commonly consumed
   as part of table salt (sodium chloride), plays a vital role in maintaining the body’s
   fluid balance, supporting nerve signaling, and enabling muscle contractions, including
@@ -7,8 +7,8 @@ description: Tested twice a year Sodium, an essential electrolyte commonly consu
   use, and physical activity can influence sodium balance.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/sodium/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/sodium/
 slug: sodium
 tags:
 - labtest
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: sodium
 type: labtest
-updated: '2026-03-27T09:46:13.972148Z'
+updated: '2026-03-28T07:29:07.360076Z'
 ---
 
 {% raw %}
@@ -67,7 +67,7 @@ updated: '2026-03-27T09:46:13.972148Z'
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Medication_Effect</a><br />
-RELATED::<a href="/garden/dev_admin/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Fluid_Imbalance_Low_Or_High_Sodium</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hormonal_Imbalance_Adrenal_Or_Thyroid</a></p>

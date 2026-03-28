@@ -1,16 +1,16 @@
 ---
-created: '2026-03-27T09:46:14.122270Z'
+created: '2026-03-28T07:29:07.648783Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/organ/insula/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/organ/insula/
 slug: insula
 tags:
 - organ
 templateEngineOverride: njk
 title: Insula
 type: organ
-updated: '2026-03-27T09:46:14.122270Z'
+updated: '2026-03-28T07:29:07.648783Z'
 ---
 
 {% raw %}

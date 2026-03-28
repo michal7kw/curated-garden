@@ -1,18 +1,18 @@
 ---
-created: '2026-03-27T09:46:13.736623Z'
+created: '2026-03-28T07:29:06.918658Z'
 description: Tests APOE gene variants (E2, E3, E4). E4 associated with increased Alzheimer's
   and cardiovascular risk.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/apoe-genotype/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/apoe-genotype/
 slug: apoe-genotype
 tags:
 - labtest
 templateEngineOverride: njk
 title: apoe_genotype
 type: labtest
-updated: '2026-03-27T09:46:13.736623Z'
+updated: '2026-03-28T07:29:06.918658Z'
 ---
 
 {% raw %}
@@ -54,7 +54,7 @@ updated: '2026-03-27T09:46:13.736623Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/dev_admin/labtest/apoe-genotype/" class="internal-link">apoe_genotype</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/apoe-genotype/" class="internal-link">apoe_genotype</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>

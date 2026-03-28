@@ -1,11 +1,11 @@
 ---
-created: '2026-03-27T09:46:13.638410Z'
+created: '2026-03-28T07:29:06.652097Z'
 description: An oral natural penicillin used for mild to moderate bacterial infections,
   such as strep throat and skin infections.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/drug/penicillin-v/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/drug/penicillin-v/
 slug: penicillin-v
 tags:
 - drug
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Penicillin V
 type: drug
-updated: '2026-03-27T09:46:13.638410Z'
+updated: '2026-03-28T07:29:06.652097Z'
 ---
 
 {% raw %}

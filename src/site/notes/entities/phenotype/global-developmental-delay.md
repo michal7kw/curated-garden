@@ -1,10 +1,10 @@
 ---
-created: '2026-03-27T09:46:14.226373Z'
+created: '2026-03-28T07:29:07.875407Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/phenotype/global-developmental-delay/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/phenotype/global-developmental-delay/
 slug: global-developmental-delay
 tags:
 - phenotype
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Global developmental delay
 type: phenotype
-updated: '2026-03-27T09:46:14.226373Z'
+updated: '2026-03-28T07:29:07.875407Z'
 ---
 
 {% raw %}

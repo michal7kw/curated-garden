@@ -1,16 +1,16 @@
 ---
-created: '2026-03-27T09:46:13.139839Z'
+created: '2026-03-28T07:29:05.913078Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/dhea-s/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/dhea-s/
 slug: dhea-s
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Dhea S
 type: biomarker
-updated: '2026-03-27T09:46:13.139839Z'
+updated: '2026-03-28T07:29:05.913078Z'
 ---
 
 {% raw %}
@@ -18,6 +18,6 @@ updated: '2026-03-27T09:46:13.139839Z'
 <h2>Overview</h2>
 <h2>Relationships</h2>
 <h3>Indicates Organ Health</h3>
-<p>INDICATES_ORGAN_HEALTH::<a href="/garden/dev_admin/organ/adrenal-glands/" class="internal-link">Adrenal_Glands</a></p>
+<p>INDICATES_ORGAN_HEALTH::<a href="/garden/michal.k7w@gmail.com/organ/adrenal-glands/" class="internal-link">Adrenal_Glands</a></p>
 
 {% endraw %}

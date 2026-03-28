@@ -1,11 +1,11 @@
 ---
-created: '2026-03-27T09:46:13.603219Z'
+created: '2026-03-28T07:29:06.583493Z'
 description: Atypical antipsychotic known for its superior efficacy in treatment-resistant
   schizophrenia. It requires strict monitoring due to the risk of agranulocytosis.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/drug/clozapine/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/drug/clozapine/
 slug: clozapine
 tags:
 - drug
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Clozapine
 type: drug
-updated: '2026-03-27T09:46:13.603219Z'
+updated: '2026-03-28T07:29:06.583493Z'
 ---
 
 {% raw %}
@@ -26,13 +26,13 @@ updated: '2026-03-27T09:46:13.603219Z'
 <p>Atypical antipsychotic known for its superior efficacy in treatment-resistant schizophrenia. It requires strict monitoring due to the risk of agranulocytosis.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a><br />
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Schizophrenia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Choline_salicylate</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Histamine_H1_Receptor</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Myocarditis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Agranulocytosis</a><br />
-RELATED::<a href="/garden/dev_admin/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Sodium_sulfate</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Muscarinic_Acetylcholine_Receptor</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Dopamine_D4_Receptor</a><br />
@@ -42,11 +42,11 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Suicidal_Ideation</a
 RELATED::<a class="internal-link is-unresolved" href="/404">Parkinsons_Disease_Psychosis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Black_cohosh</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">5-HT2A_Receptor</a><br />
-RELATED::<a href="/garden/dev_admin/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Farnesyl_thiopyrophosphate</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Octylphenoxy_polyethoxyethanol</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">25-Dimethoxy-4-ethylthioamphetamine</a><br />
-RELATED::<a href="/garden/dev_admin/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Vinyl_ether</a></p>
 
 {% endraw %}

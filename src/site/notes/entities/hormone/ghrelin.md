@@ -1,5 +1,5 @@
 ---
-created: '2026-03-27T09:46:13.679802Z'
+created: '2026-03-28T07:29:06.786123Z'
 description: 28-amino acid peptide hormone primarily produced by X/A-like cells in
   the gastric fundus. Known as the "hunger hormone" — stimulates appetite, growth
   hormone release, and gastric motility. Unique post-translational acylation (n-octanoyl
@@ -7,8 +7,8 @@ description: 28-amino acid peptide hormone primarily produced by X/A-like cells 
   regulation.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/hormone/ghrelin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/hormone/ghrelin/
 slug: ghrelin
 tags:
 - hormone
@@ -21,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: Ghrelin
 type: hormone
-updated: '2026-03-27T09:46:13.679802Z'
+updated: '2026-03-28T07:29:06.786123Z'
 ---
 
 {% raw %}
@@ -30,9 +30,9 @@ updated: '2026-03-27T09:46:13.679802Z'
 <p>28-amino acid peptide hormone primarily produced by X/A-like cells in the gastric fundus. Known as the &quot;hunger hormone&quot; — stimulates appetite, growth hormone release, and gastric motility. Unique post-translational acylation (n-octanoyl at Ser3) required for receptor activation. Antagonistic to leptin in energy balance regulation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/organ/hypothalamus/" class="internal-link">Hypothalamus</a><br />
-RELATED::<a href="/garden/dev_admin/hormone/growth-hormone/" class="internal-link">Growth_Hormone</a><br />
-RELATED::<a href="/garden/dev_admin/labtest/leptin/" class="internal-link">Leptin</a><br />
-RELATED::<a href="/garden/dev_admin/labtest/insulin/" class="internal-link">Insulin</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/organ/hypothalamus/" class="internal-link">Hypothalamus</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/hormone/growth-hormone/" class="internal-link">Growth_Hormone</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/leptin/" class="internal-link">Leptin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/insulin/" class="internal-link">Insulin</a></p>
 
 {% endraw %}

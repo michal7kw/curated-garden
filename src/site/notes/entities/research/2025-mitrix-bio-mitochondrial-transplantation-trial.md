@@ -1,11 +1,11 @@
 ---
-created: '2026-03-27T09:46:14.343205Z'
+created: '2026-03-28T07:29:08.155117Z'
 description: First-in-human informal trials of 'Mitotherapy' - transplanting bioreactor-grown
   mitochondria to reverse age-related bioenergetic decline.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/research/2025-mitrix-bio-mitochondrial-transplantation-trial/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/research/2025-mitrix-bio-mitochondrial-transplantation-trial/
 slug: 2025-mitrix-bio-mitochondrial-transplantation-trial
 tags:
 - research
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: 2025 Mitrix Bio Mitochondrial Transplantation Trial
 type: research
-updated: '2026-03-27T09:46:14.343205Z'
+updated: '2026-03-28T07:29:08.155117Z'
 ---
 
 {% raw %}
@@ -25,9 +25,9 @@ updated: '2026-03-27T09:46:14.343205Z'
 <p>First-in-human informal trials of 'Mitotherapy' - transplanting bioreactor-grown mitochondria to reverse age-related bioenergetic decline.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/intervention/mitochondrial-transplantation/" class="internal-link">Mitochondrial_Transplantation</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/mitochondrial-transplantation/" class="internal-link">Mitochondrial_Transplantation</a></p>
 <h3>Studied Topic</h3>
-<p>STUDIED_TOPIC::<a href="/garden/dev_admin/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
-STUDIED_TOPIC::<a href="/garden/dev_admin/healthstack/longevity/" class="internal-link">Longevity</a></p>
+<p>STUDIED_TOPIC::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
+STUDIED_TOPIC::<a href="/garden/michal.k7w@gmail.com/healthstack/longevity/" class="internal-link">Longevity</a></p>
 
 {% endraw %}

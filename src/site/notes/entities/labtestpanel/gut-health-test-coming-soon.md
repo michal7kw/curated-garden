@@ -1,16 +1,16 @@
 ---
-created: '2026-03-27T09:46:14.060783Z'
+created: '2026-03-28T07:29:07.534862Z'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtestpanel/gut-health-test-coming-soon/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtestpanel/gut-health-test-coming-soon/
 slug: gut-health-test-coming-soon
 tags:
 - labtestpanel
 templateEngineOverride: njk
 title: gut_health_test_coming_soon
 type: labtestpanel
-updated: '2026-03-27T09:46:14.060783Z'
+updated: '2026-03-28T07:29:07.534862Z'
 ---
 
 {% raw %}

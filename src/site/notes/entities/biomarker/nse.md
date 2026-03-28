@@ -1,12 +1,12 @@
 ---
-created: '2026-03-27T09:46:13.205823Z'
+created: '2026-03-28T07:29:06.002039Z'
 description: Neuron-Specific Enolase, a glycolytic enzyme found in neurons and neuroendocrine
   cells. Used as a biomarker for neuronal injury and as a tumor marker for small cell
   lung cancer and neuroblastoma.
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/biomarker/nse/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/nse/
 slug: nse
 tags:
 - biomarker
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: NSE
 type: biomarker
-updated: '2026-03-27T09:46:13.205823Z'
+updated: '2026-03-28T07:29:06.002039Z'
 ---
 
 {% raw %}
@@ -27,18 +27,18 @@ updated: '2026-03-27T09:46:13.205823Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">EEG</a><br />
-RELATED::<a href="/garden/dev_admin/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Small_Cell_Lung_Cancer</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Stroke</a><br />
-RELATED::<a href="/garden/dev_admin/biomarker/gfap/" class="internal-link">GFAP</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/gfap/" class="internal-link">GFAP</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Cardiac_Arrest</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Traumatic_Brain_Injury</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">MRI_Brain</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Neuroblastoma</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hypoxic_Brain_Injury</a><br />
-RELATED::<a href="/garden/dev_admin/biomarker/s100b/" class="internal-link">S100B</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/s100b/" class="internal-link">S100B</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Somatosensory_Evoked_Potentials</a><br />
-RELATED::<a href="/garden/dev_admin/biomarker/uch-l1/" class="internal-link">UCH-L1</a><br />
-RELATED::<a href="/garden/dev_admin/metabolite/lactate/" class="internal-link">Lactate</a></p>
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/uch-l1/" class="internal-link">UCH-L1</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/lactate/" class="internal-link">Lactate</a></p>
 
 {% endraw %}

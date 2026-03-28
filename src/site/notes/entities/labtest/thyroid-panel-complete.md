@@ -1,18 +1,18 @@
 ---
-created: '2026-03-27T09:46:13.984602Z'
+created: '2026-03-28T07:29:07.388995Z'
 description: 'Comprehensive thyroid assessment: TSH, Free T4, Free T3, Total T4, Total
   T3, Reverse T3, TPO antibodies, thyroglobulin antibodies.'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/labtest/thyroid-panel-complete/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/thyroid-panel-complete/
 slug: thyroid-panel-complete
 tags:
 - labtest
 templateEngineOverride: njk
 title: thyroid_panel_complete
 type: labtest
-updated: '2026-03-27T09:46:13.984602Z'
+updated: '2026-03-28T07:29:07.388995Z'
 ---
 
 {% raw %}
@@ -54,14 +54,14 @@ updated: '2026-03-27T09:46:13.984602Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/dev_admin/labtest/tsh/" class="internal-link">tsh</a></li>
-<li><a href="/garden/dev_admin/biomarker/free-t4/" class="internal-link">free_t4</a></li>
-<li><a href="/garden/dev_admin/biomarker/free-t3/" class="internal-link">free_t3</a></li>
-<li><a href="/garden/dev_admin/biomarker/total-t4/" class="internal-link">total_t4</a></li>
-<li><a href="/garden/dev_admin/biomarker/total-t3/" class="internal-link">total_t3</a></li>
-<li><a href="/garden/dev_admin/labtest/reverse-t3/" class="internal-link">reverse_t3</a></li>
-<li><a href="/garden/dev_admin/biomarker/tpo-antibodies/" class="internal-link">tpo_antibodies</a></li>
-<li><a href="/garden/dev_admin/biomarker/tg-antibodies/" class="internal-link">tg_antibodies</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/tsh/" class="internal-link">tsh</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/biomarker/free-t4/" class="internal-link">free_t4</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/biomarker/free-t3/" class="internal-link">free_t3</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/biomarker/total-t4/" class="internal-link">total_t4</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/biomarker/total-t3/" class="internal-link">total_t3</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/reverse-t3/" class="internal-link">reverse_t3</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/biomarker/tpo-antibodies/" class="internal-link">tpo_antibodies</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/biomarker/tg-antibodies/" class="internal-link">tg_antibodies</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -72,14 +72,14 @@ updated: '2026-03-27T09:46:13.984602Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/biomarker/free-t3/" class="internal-link">free_t3</a><br />
-RELATED::<a href="/garden/dev_admin/biomarker/total-t3/" class="internal-link">total_t3</a><br />
-RELATED::<a href="/garden/dev_admin/biomarker/tpo-antibodies/" class="internal-link">tpo_antibodies</a><br />
-RELATED::<a href="/garden/dev_admin/labtest/reverse-t3/" class="internal-link">reverse_t3</a><br />
-RELATED::<a href="/garden/dev_admin/biomarker/total-t4/" class="internal-link">total_t4</a><br />
-RELATED::<a href="/garden/dev_admin/biomarker/free-t4/" class="internal-link">free_t4</a><br />
-RELATED::<a href="/garden/dev_admin/labtest/tsh/" class="internal-link">tsh</a><br />
-RELATED::<a href="/garden/dev_admin/biomarker/tg-antibodies/" class="internal-link">tg_antibodies</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/free-t3/" class="internal-link">free_t3</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/total-t3/" class="internal-link">total_t3</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/tpo-antibodies/" class="internal-link">tpo_antibodies</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/reverse-t3/" class="internal-link">reverse_t3</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/total-t4/" class="internal-link">total_t4</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/free-t4/" class="internal-link">free_t4</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/tsh/" class="internal-link">tsh</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/tg-antibodies/" class="internal-link">tg_antibodies</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

@@ -1,11 +1,11 @@
 ---
-created: '2026-03-27T09:46:13.321761Z'
+created: '2026-03-28T07:29:06.214705Z'
 description: Serious gastrointestinal emergencies involving either a blockage of the
   intestines (obstruction) or a tear in the intestinal wall (perforation).
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/condition/bowel-obstruction-and-perforation/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/bowel-obstruction-and-perforation/
 slug: bowel-obstruction-and-perforation
 tags:
 - condition
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Bowel Obstruction and Perforation
 type: condition
-updated: '2026-03-27T09:46:13.321761Z'
+updated: '2026-03-28T07:29:06.214705Z'
 ---
 
 {% raw %}
@@ -26,10 +26,10 @@ updated: '2026-03-27T09:46:13.321761Z'
 <p>Serious gastrointestinal emergencies involving either a blockage of the intestines (obstruction) or a tear in the intestinal wall (perforation).</p>
 <h2>Relationships</h2>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/wbc/" class="internal-link">Wbc</a><br />
-ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
-ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/procalcitonin/" class="internal-link">Procalcitonin</a><br />
-ASSOCIATED_WITH::<a href="/garden/dev_admin/biomarker/lactate-dehydrogenase/" class="internal-link">Lactate Dehydrogenase</a><br />
-ASSOCIATED_WITH::<a href="/garden/dev_admin/labtest/albumin/" class="internal-link">Albumin</a></p>
+<p>ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/wbc/" class="internal-link">Wbc</a><br />
+ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
+ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/procalcitonin/" class="internal-link">Procalcitonin</a><br />
+ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/lactate-dehydrogenase/" class="internal-link">Lactate Dehydrogenase</a><br />
+ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/albumin/" class="internal-link">Albumin</a></p>
 
 {% endraw %}

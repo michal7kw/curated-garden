@@ -1,10 +1,10 @@
 ---
-created: '2026-03-27T09:46:14.304865Z'
+created: '2026-03-28T07:29:08.044185Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/gene/grb2/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/gene/grb2/
 slug: grb2
 tags:
 - gene
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: GRB2
 type: gene
-updated: '2026-03-27T09:46:14.304865Z'
+updated: '2026-03-28T07:29:08.044185Z'
 ---
 
 {% raw %}

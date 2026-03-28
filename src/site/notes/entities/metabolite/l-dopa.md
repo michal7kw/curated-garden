@@ -1,5 +1,5 @@
 ---
-created: '2026-03-27T09:46:14.082383Z'
+created: '2026-03-28T07:29:07.580859Z'
 description: Intermediate catecholamine metabolite produced from L-Tyrosine by tyrosine
   hydroxylase. L-DOPA (levodopa) is the immediate precursor to dopamine and the gold
   standard treatment for Parkinson's disease. Crosses the blood-brain barrier more
@@ -7,8 +7,8 @@ description: Intermediate catecholamine metabolite produced from L-Tyrosine by t
   content).
 dg-home: false
 dg-publish: true
-gardenUsername: dev_admin
-permalink: /garden/dev_admin/metabolite/l-dopa/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/metabolite/l-dopa/
 slug: l-dopa
 tags:
 - metabolite
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: L-DOPA
 type: metabolite
-updated: '2026-03-27T09:46:14.082383Z'
+updated: '2026-03-28T07:29:07.580859Z'
 ---
 
 {% raw %}
@@ -78,24 +78,24 @@ updated: '2026-03-27T09:46:14.082383Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Synthesized From</h3>
-<p>SYNTHESIZED_FROM::<a href="/garden/dev_admin/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a></p>
+<p>SYNTHESIZED_FROM::<a href="/garden/michal.k7w@gmail.com/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a></p>
 <h3>Precursor Of</h3>
-<p>PRECURSOR_OF::<a href="/garden/dev_admin/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
+<p>PRECURSOR_OF::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
 <h3>Requires Cofactor</h3>
-<p>REQUIRES_COFACTOR::<a href="/garden/dev_admin/supplement/iron/" class="internal-link">Iron</a><br />
-REQUIRES_COFACTOR::<a href="/garden/dev_admin/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a></p>
+<p>REQUIRES_COFACTOR::<a href="/garden/michal.k7w@gmail.com/supplement/iron/" class="internal-link">Iron</a><br />
+REQUIRES_COFACTOR::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a></p>
 <h3>Participates In Pathway</h3>
-<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/dev_admin/pathway/dopamine-synthesis/" class="internal-link">Dopamine Synthesis</a></p>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/dopamine-synthesis/" class="internal-link">Dopamine Synthesis</a></p>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/garden/dev_admin/organ/brain/" class="internal-link">Brain</a><br />
-AFFECTS_ORGAN::<a href="/garden/dev_admin/organ/substantia-nigra/" class="internal-link">Substantia Nigra</a></p>
+<p>AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a><br />
+AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/substantia-nigra/" class="internal-link">Substantia Nigra</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/garden/dev_admin/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/dev_admin/metabolite/tetrahydrobiopterin/" class="internal-link">Tetrahydrobiopterin</a><br />
-RELATED::<a href="/garden/dev_admin/supplement/mucuna-pruriens/" class="internal-link">Mucuna Pruriens</a><br />
-RELATED::<a href="/garden/dev_admin/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
-RELATED::<a href="/garden/dev_admin/protein/tyrosine-hydroxylase/" class="internal-link">Tyrosine Hydroxylase</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/tetrahydrobiopterin/" class="internal-link">Tetrahydrobiopterin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/mucuna-pruriens/" class="internal-link">Mucuna Pruriens</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/protein/tyrosine-hydroxylase/" class="internal-link">Tyrosine Hydroxylase</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:15590953 - Levodopa mechanism and clinical pharmacology</li>
