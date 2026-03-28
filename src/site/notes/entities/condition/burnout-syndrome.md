@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.263603Z'
+created: '2026-03-28T19:56:09.526752Z'
 description: State of chronic physical and emotional exhaustion resulting from prolonged
   occupational or caregiving stress. Classified by WHO (ICD-11) as an occupational
   phenomenon characterized by emotional exhaustion, depersonalization/cynicism, and
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Burnout Syndrome
 type: condition
-updated: '2026-03-28T19:47:17.263603Z'
+updated: '2026-03-28T19:56:09.526752Z'
 ---
 
 {% raw %}

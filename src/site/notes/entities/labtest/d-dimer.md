@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.971232Z'
+created: '2026-03-28T19:56:10.245802Z'
 description: D-Dimer test. Measures fibrin degradation products in the blood. Primarily
   used to rule out venous thromboembolism (DVT and PE). High negative predictive value
   when combined with clinical probability scoring.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: d_dimer
 type: labtest
-updated: '2026-03-28T19:47:17.971232Z'
+updated: '2026-03-28T19:56:10.245802Z'
 ---
 
 {% raw %}

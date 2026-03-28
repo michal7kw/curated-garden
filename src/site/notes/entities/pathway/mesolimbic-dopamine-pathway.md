@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.691444Z'
+created: '2026-03-28T19:56:10.883917Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/pathway/mesolimbic-dopamine-pathway/
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Mesolimbic Dopamine Pathway
 type: pathway
-updated: '2026-03-28T19:47:18.691444Z'
+updated: '2026-03-28T19:56:10.883917Z'
 ---
 
 {% raw %}

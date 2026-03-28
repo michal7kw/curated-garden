@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.578790Z'
+created: '2026-03-28T19:56:10.768023Z'
 description: Biogenic amine neurotransmitter and immune mediator synthesized from
   histidine by histidine decarboxylase. Functions as neurotransmitter (wakefulness,
   cognition), immune modulator (allergic response, inflammation), and gastric acid
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Histamine
 type: neurotransmitter
-updated: '2026-03-28T19:47:18.578790Z'
+updated: '2026-03-28T19:56:10.768023Z'
 ---
 
 {% raw %}

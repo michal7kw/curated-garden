@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:19.045569Z'
+created: '2026-03-28T19:56:11.226876Z'
 description: Trace mineral important for bone health, hormone balance, and cognitive
   function. May support testosterone levels and reduce inflammatory markers. Essential
   for calcium, magnesium, and vitamin D metabolism.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Boron
 type: supplement
-updated: '2026-03-28T19:47:19.045569Z'
+updated: '2026-03-28T19:56:11.226876Z'
 ---
 
 {% raw %}

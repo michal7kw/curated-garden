@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.422580Z'
+created: '2026-03-28T19:56:10.614309Z'
 description: white blud sell kownt Tested twice a year White blood cells are immune
   cells that help defend the body against infections, inflammation, and other stressors.
   Maintaining a healthy white blood cell count is essential for immune resilience,
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: white_blood_cell_count
 type: labtest
-updated: '2026-03-28T19:47:18.422580Z'
+updated: '2026-03-28T19:56:10.614309Z'
 ---
 
 {% raw %}

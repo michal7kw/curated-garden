@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.103593Z'
+created: '2026-03-28T19:56:09.380820Z'
 description: Primary male sex hormone and anabolic steroid essential for development
   of male reproductive tissues, muscle mass, bone density, body hair, and overall
   vitality. Also important in females at lower levels.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Testosterone
 type: biomarker
-updated: '2026-03-28T19:47:17.103593Z'
+updated: '2026-03-28T19:56:09.380820Z'
 ---
 
 {% raw %}

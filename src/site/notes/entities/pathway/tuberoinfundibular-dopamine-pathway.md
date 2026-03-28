@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.720547Z'
+created: '2026-03-28T19:56:10.921830Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/pathway/tuberoinfundibular-dopamine-pathway/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Tuberoinfundibular Dopamine Pathway
 type: pathway
-updated: '2026-03-28T19:47:18.720547Z'
+updated: '2026-03-28T19:56:10.921830Z'
 ---
 
 {% raw %}

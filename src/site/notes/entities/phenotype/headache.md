@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.785971Z'
+created: '2026-03-28T19:56:10.977246Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Headache
 type: phenotype
-updated: '2026-03-28T19:47:18.785971Z'
+updated: '2026-03-28T19:56:10.977246Z'
 ---
 
 {% raw %}

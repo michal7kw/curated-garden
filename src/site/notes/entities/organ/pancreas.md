@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.629952Z'
+created: '2026-03-28T19:56:10.812141Z'
 description: Dual-function organ with exocrine (digestive enzymes) and endocrine (insulin,
   glucagon) roles. Central to blood sugar regulation and digestion.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: Pancreas
 type: organ
-updated: '2026-03-28T19:47:18.629952Z'
+updated: '2026-03-28T19:56:10.812141Z'
 ---
 
 {% raw %}

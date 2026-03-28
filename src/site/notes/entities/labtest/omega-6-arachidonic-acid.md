@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.271982Z'
+created: '2026-03-28T19:56:10.472661Z'
 description: Arachidonic acid is an omega-6 fatty acid that helps regulate inflammation
   and immune function. Because excessive AA can promote chronic inflammatory activity,
   measuring it provides important insight into risks for conditions like heart disease,
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: omega_6_arachidonic_acid
 type: labtest
-updated: '2026-03-28T19:47:18.271982Z'
+updated: '2026-03-28T19:56:10.472661Z'
 ---
 
 {% raw %}

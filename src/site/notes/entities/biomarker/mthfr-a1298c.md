@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.045716Z'
+created: '2026-03-28T19:56:09.326804Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/mthfr-a1298c/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Mthfr A1298C
 type: biomarker
-updated: '2026-03-28T19:47:17.045716Z'
+updated: '2026-03-28T19:56:09.326804Z'
 ---
 
 {% raw %}

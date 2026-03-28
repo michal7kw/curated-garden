@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.797208Z'
+created: '2026-03-28T19:56:10.082890Z'
 description: Mindfulness and meditation practices that reduce cortisol, lower sympathetic
   nervous system activation, and improve stress resilience through regular practice.
   Studied for effects on inflammation, telomere length, and neuroendocrine balance.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Meditation
 type: intervention
-updated: '2026-03-28T19:47:17.797208Z'
+updated: '2026-03-28T19:56:10.082890Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.827706Z'
+created: '2026-03-28T19:56:11.006423Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Pruritus
 type: phenotype
-updated: '2026-03-28T19:47:18.827706Z'
+updated: '2026-03-28T19:56:11.006423Z'
 ---
 
 {% raw %}

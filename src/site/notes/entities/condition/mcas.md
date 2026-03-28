@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.430135Z'
+created: '2026-03-28T19:56:09.680106Z'
 description: Chronic condition characterized by inappropriate and excessive mast cell
   activation and mediator release affecting multiple organ systems. Distinct from
   mastocytosis (clonal mast cell proliferation). Mast cells degranulate in response
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: MCAS
 type: condition
-updated: '2026-03-28T19:47:17.430135Z'
+updated: '2026-03-28T19:56:09.680106Z'
 ---
 
 {% raw %}

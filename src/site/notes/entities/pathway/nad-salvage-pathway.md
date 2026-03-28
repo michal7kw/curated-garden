@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.697482Z'
+created: '2026-03-28T19:56:10.890237Z'
 description: The primary route for NAD+ biosynthesis in mammals, recycling nicotinamide
   released by NAD+-consuming enzymes back into NAD+. Accounts for approximately 85%
   of NAD+ production and is essential for maintaining cellular NAD+ homeostasis.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: NAD+ Salvage Pathway
 type: pathway
-updated: '2026-03-28T19:47:18.697482Z'
+updated: '2026-03-28T19:56:10.890237Z'
 ---
 
 {% raw %}

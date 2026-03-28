@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:16.993276Z'
+created: '2026-03-28T19:56:09.275288Z'
 description: Plasma glutamate level, the primary excitatory neurotransmitter in the
   CNS. Measurable as a research biomarker for excitotoxicity, neurodegeneration, and
   glutamatergic dysfunction. Elevated levels associated with ALS, epilepsy, and migraine.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Glutamate
 type: biomarker
-updated: '2026-03-28T19:47:16.993276Z'
+updated: '2026-03-28T19:56:09.275288Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.826599Z'
+created: '2026-03-28T19:56:11.005551Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/condition/pain/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Pain
 type: condition
-updated: '2026-03-28T19:47:18.826599Z'
+updated: '2026-03-28T19:56:11.005551Z'
 ---
 
 {% raw %}

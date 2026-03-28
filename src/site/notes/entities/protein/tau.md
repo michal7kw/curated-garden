@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.974667Z'
+created: '2026-03-28T19:56:11.148490Z'
 description: Microtubule-associated protein that stabilizes the neuronal cytoskeleton.
   Hyperphosphorylation leads to its detachment and aggregation into neurofibrillary
   tangles (NFTs).
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Tau
 type: protein
-updated: '2026-03-28T19:47:18.974667Z'
+updated: '2026-03-28T19:56:11.148490Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.700845Z'
+created: '2026-03-28T19:56:09.989956Z'
 description: Catechol-O-methyltransferase, a key enzyme in catecholamine (dopamine,
   norepinephrine, epinephrine) and estrogen degradation. The Val158Met polymorphism
   (rs4680) significantly impacts dopamine clearance in the prefrontal cortex, affecting
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: COMT
 type: gene
-updated: '2026-03-28T19:47:17.700845Z'
+updated: '2026-03-28T19:56:09.989956Z'
 ---
 
 {% raw %}

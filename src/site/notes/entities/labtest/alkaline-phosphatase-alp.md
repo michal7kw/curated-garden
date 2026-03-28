@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.856217Z'
+created: '2026-03-28T19:56:10.136285Z'
 description: Tested twice a year Alkaline phosphatase (ALP) is an enzyme found in
   the liver, bones, and other tissues that helps break down proteins and support growth.
   Abnormal ALP levels can point to conditions affecting the liver, bones, or nutrition
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: alkaline_phosphatase_alp
 type: labtest
-updated: '2026-03-28T19:47:17.856217Z'
+updated: '2026-03-28T19:56:10.136285Z'
 ---
 
 {% raw %}

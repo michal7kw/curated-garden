@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.515325Z'
+created: '2026-03-28T19:56:10.707620Z'
 description: Primary circulating ketone body produced during fatty acid oxidation
   in the liver. Alternative fuel source for brain and heart during fasting, ketosis,
   or prolonged exercise. Also functions as a signaling molecule — inhibits HDAC enzymes
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Beta-Hydroxybutyrate
 type: metabolite
-updated: '2026-03-28T19:47:18.515325Z'
+updated: '2026-03-28T19:56:10.707620Z'
 ---
 
 {% raw %}

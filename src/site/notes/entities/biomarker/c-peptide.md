@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:16.937685Z'
+created: '2026-03-28T19:56:09.220643Z'
 description: C-Peptide is a 31-amino acid polypeptide cleaved from proinsulin during
   insulin biosynthesis, serving as a direct measure of endogenous insulin production
   by pancreatic beta cells.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: C-Peptide
 type: biomarker
-updated: '2026-03-28T19:47:16.937685Z'
+updated: '2026-03-28T19:56:09.220643Z'
 ---
 
 {% raw %}

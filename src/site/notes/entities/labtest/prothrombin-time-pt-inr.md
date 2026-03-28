@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.315379Z'
+created: '2026-03-28T19:56:10.511491Z'
 description: Prothrombin Time (PT) with International Normalized Ratio (INR) test.
   Evaluates the extrinsic and common coagulation pathways (Factors I, II, V, VII,
   X). Essential for monitoring warfarin therapy and assessing liver synthetic function.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: prothrombin_time_pt_inr
 type: labtest
-updated: '2026-03-28T19:47:18.315379Z'
+updated: '2026-03-28T19:56:10.511491Z'
 ---
 
 {% raw %}

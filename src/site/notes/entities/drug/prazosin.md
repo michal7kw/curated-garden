@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.677914Z'
+created: '2026-03-28T19:56:09.965054Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/drug/prazosin/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: PRAZOSIN
 type: drug
-updated: '2026-03-28T19:47:17.677914Z'
+updated: '2026-03-28T19:56:09.965054Z'
 ---
 
 {% raw %}

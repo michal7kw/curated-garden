@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.113092Z'
+created: '2026-03-28T19:56:09.389995Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/tpo-antibodies/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Tpo Antibodies
 type: biomarker
-updated: '2026-03-28T19:47:17.113092Z'
+updated: '2026-03-28T19:56:09.389995Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.768414Z'
+created: '2026-03-28T19:56:10.052789Z'
 description: Peptide hormone primarily produced by lactotroph cells of the anterior
   pituitary. Best known for inducing lactation, but has over 300 known biological
   functions including immune regulation, bone metabolism, stress modulation, and reproductive
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Prolactin
 type: hormone
-updated: '2026-03-28T19:47:17.768414Z'
+updated: '2026-03-28T19:56:10.052789Z'
 ---
 
 {% raw %}

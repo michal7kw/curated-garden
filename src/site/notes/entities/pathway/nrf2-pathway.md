@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.706823Z'
+created: '2026-03-28T19:56:10.903457Z'
 description: The nuclear factor erythroid 2-related factor 2 (Nrf2) pathway is the
   master regulator of cellular antioxidant defenses, controlling the expression of
   cytoprotective genes in response to oxidative stress.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Nrf2 Pathway
 type: pathway
-updated: '2026-03-28T19:47:18.706823Z'
+updated: '2026-03-28T19:56:10.903457Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.721768Z'
+created: '2026-03-28T19:56:10.923015Z'
 description: The mechanistic target of rapamycin (mTOR) pathway is a central regulator
   of cell growth, proliferation, and metabolism, integrating nutrient and growth factor
   signals to control anabolic processes.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: mTOR Pathway
 type: pathway
-updated: '2026-03-28T19:47:18.721768Z'
+updated: '2026-03-28T19:56:10.923015Z'
 ---
 
 {% raw %}

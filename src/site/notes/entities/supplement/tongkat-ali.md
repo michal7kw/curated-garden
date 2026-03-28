@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:19.193973Z'
+created: '2026-03-28T19:56:11.382106Z'
 description: Root extract of Eurycoma longifolia, a Southeast Asian medicinal plant
   traditionally used as an aphrodisiac and energy tonic. Contains bioactive quassinoids
   (eurycomanone, eurycolactone) that modulate testosterone via HPA axis and SHBG mechanisms.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Tongkat Ali
 type: supplement
-updated: '2026-03-28T19:47:19.193973Z'
+updated: '2026-03-28T19:56:11.382106Z'
 ---
 
 {% raw %}

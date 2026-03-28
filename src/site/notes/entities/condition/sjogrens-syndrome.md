@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.559280Z'
+created: '2026-03-28T19:56:09.829287Z'
 description: A chronic autoimmune disease where the immune system mistakenly attacks
   moisture-producing glands, primarily the salivary and lacrimal glands.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Sjogrens Syndrome
 type: condition
-updated: '2026-03-28T19:47:17.559280Z'
+updated: '2026-03-28T19:56:09.829287Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.670325Z'
+created: '2026-03-28T19:56:09.955936Z'
 description: Naturally occurring alkaloid and potent nicotinic acetylcholine receptor
   (nAChR) agonist. Beyond its well-known role in tobacco, pure nicotine at low doses
   (1-2 mg) is studied for cognitive enhancement, neuroprotection, and attentional
@@ -22,7 +22,7 @@ tags:
 templateEngineOverride: njk
 title: Nicotine
 type: drug
-updated: '2026-03-28T19:47:17.670325Z'
+updated: '2026-03-28T19:56:09.955936Z'
 ---
 
 {% raw %}

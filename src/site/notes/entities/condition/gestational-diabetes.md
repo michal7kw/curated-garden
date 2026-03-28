@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.348307Z'
+created: '2026-03-28T19:56:09.603691Z'
 description: A type of diabetes that develops during pregnancy in women who did not
   already have diabetes, caused by placental hormones blocking insulin action.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Gestational Diabetes
 type: condition
-updated: '2026-03-28T19:47:17.348307Z'
+updated: '2026-03-28T19:56:09.603691Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.666620Z'
+created: '2026-03-28T19:56:10.857375Z'
 description: The biosynthetic pathway that converts dietary tryptophan to NAD+ through
   a series of enzymatic reactions. Also known as the kynurenine pathway, this route
   provides a mechanism for producing NAD+ from an essential amino acid.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: De Novo NAD+ Synthesis Pathway
 type: pathway
-updated: '2026-03-28T19:47:18.666620Z'
+updated: '2026-03-28T19:56:10.857375Z'
 ---
 
 {% raw %}

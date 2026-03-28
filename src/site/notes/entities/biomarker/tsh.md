@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.118252Z'
+created: '2026-03-28T19:56:09.394452Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/tsh/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Tsh
 type: biomarker
-updated: '2026-03-28T19:47:17.118252Z'
+updated: '2026-03-28T19:56:09.394452Z'
 ---
 
 {% raw %}

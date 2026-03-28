@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:16.887969Z'
+created: '2026-03-28T19:56:09.180252Z'
 description: Posterior cortical lobe dedicated to visual processing. Contains primary
   visual cortex (V1) and visual association areas for object recognition, motion detection,
   and color perception.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Occipital Lobe
 type: Anatomy
-updated: '2026-03-28T19:47:16.887969Z'
+updated: '2026-03-28T19:56:09.180252Z'
 ---
 
 {% raw %}

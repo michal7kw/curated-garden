@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.762119Z'
+created: '2026-03-28T19:56:10.044953Z'
 description: 191-amino acid protein hormone secreted by somatotroph cells of the anterior
   pituitary. Primary regulator of linear growth, body composition, and metabolic substrate
   utilization. Stimulates IGF-1 production, promotes lipolysis, spares protein during
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Growth Hormone
 type: hormone
-updated: '2026-03-28T19:47:17.762119Z'
+updated: '2026-03-28T19:56:10.044953Z'
 ---
 
 {% raw %}

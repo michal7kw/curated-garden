@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.920526Z'
+created: '2026-03-28T19:56:11.096645Z'
 description: Copper-dependent monooxygenase that converts dopamine to norepinephrine
   in noradrenergic neurons and adrenal medulla chromaffin cells. Requires ascorbic
   acid (Vitamin C) and copper as essential cofactors. Uniquely localized within synaptic
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Dopamine Beta-Hydroxylase
 type: protein
-updated: '2026-03-28T19:47:18.920526Z'
+updated: '2026-03-28T19:56:11.096645Z'
 ---
 
 {% raw %}

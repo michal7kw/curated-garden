@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.733461Z'
+created: '2026-03-28T19:56:10.935950Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/condition/arthralgia/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Arthralgia
 type: condition
-updated: '2026-03-28T19:47:18.733461Z'
+updated: '2026-03-28T19:56:10.935950Z'
 ---
 
 {% raw %}

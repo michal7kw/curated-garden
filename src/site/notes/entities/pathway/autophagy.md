@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.655862Z'
+created: '2026-03-28T19:56:10.845946Z'
 description: The natural, conserved degradation of the cell that removes unnecessary
   or dysfunctional components through a lysosome-dependent regulated mechanism.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Autophagy
 type: pathway
-updated: '2026-03-28T19:47:18.655862Z'
+updated: '2026-03-28T19:56:10.845946Z'
 ---
 
 {% raw %}

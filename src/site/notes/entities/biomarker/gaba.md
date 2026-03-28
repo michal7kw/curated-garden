@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:16.982669Z'
+created: '2026-03-28T19:56:09.264289Z'
 description: Plasma gamma-aminobutyric acid (GABA) level. The primary inhibitory neurotransmitter
   in the CNS, measurable in blood as a research biomarker for anxiety, epilepsy, and
   neurological disorders.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: GABA
 type: biomarker
-updated: '2026-03-28T19:47:16.982669Z'
+updated: '2026-03-28T19:56:09.264289Z'
 ---
 
 {% raw %}

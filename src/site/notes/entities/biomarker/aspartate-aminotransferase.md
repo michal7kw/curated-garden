@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:16.923393Z'
+created: '2026-03-28T19:56:09.208688Z'
 description: Aspartate Aminotransferase (AST) is an enzyme found in various tissues,
   with high concentrations in the liver, heart, and skeletal muscle. It is released
   into the blood following cellular injury, serving as a marker for liver damage,
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Aspartate Aminotransferase
 type: biomarker
-updated: '2026-03-28T19:47:16.923393Z'
+updated: '2026-03-28T19:56:09.208688Z'
 ---
 
 {% raw %}

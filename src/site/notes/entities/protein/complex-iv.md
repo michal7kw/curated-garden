@@ -2,7 +2,7 @@
 aliases:
 - Cytochrome c Oxidase
 - COX
-created: '2026-03-28T19:47:18.912150Z'
+created: '2026-03-28T19:56:11.088985Z'
 description: Cytochrome c oxidase, the terminal enzyme of the electron transport chain.
   Catalyzes the four-electron reduction of molecular oxygen to water, the final step
   of aerobic respiration. Pumps 2 protons per electron pair across the inner mitochondrial
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Complex IV
 type: protein
-updated: '2026-03-28T19:47:18.912150Z'
+updated: '2026-03-28T19:56:11.088985Z'
 ---
 
 {% raw %}

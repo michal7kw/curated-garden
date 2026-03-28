@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.530506Z'
+created: '2026-03-28T19:56:10.720454Z'
 description: Intermediate catecholamine metabolite produced from L-Tyrosine by tyrosine
   hydroxylase. L-DOPA (levodopa) is the immediate precursor to dopamine and the gold
   standard treatment for Parkinson's disease. Crosses the blood-brain barrier more
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: L-DOPA
 type: metabolite
-updated: '2026-03-28T19:47:18.530506Z'
+updated: '2026-03-28T19:56:10.720454Z'
 ---
 
 {% raw %}

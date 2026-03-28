@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.251985Z'
+created: '2026-03-28T19:56:09.517450Z'
 description: A broad category of disorders affecting the urinary bladder, including
   infections, functional issues, stones, and cancers.
 dg-home: false
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Bladder Disease
 type: condition
-updated: '2026-03-28T19:47:17.251985Z'
+updated: '2026-03-28T19:56:09.517450Z'
 ---
 
 {% raw %}

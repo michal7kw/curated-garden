@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.697495Z'
+created: '2026-03-28T19:56:09.986022Z'
 description: Turmeric is a spice derived from the root of the Curcuma longa plant,
   known for its active compound curcumin, which possesses potent anti-inflammatory
   and antioxidant properties.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Turmeric
 type: drug
-updated: '2026-03-28T19:47:17.697495Z'
+updated: '2026-03-28T19:56:09.986022Z'
 ---
 
 {% raw %}

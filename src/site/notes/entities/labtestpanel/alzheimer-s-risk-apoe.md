@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.445942Z'
+created: '2026-03-28T19:56:10.643293Z'
 description: This test looks at genetic variations in apolipoprotein E (ApoE), a protein
   essential for transporting cholesterol and regulating fat metabolism. Specific ApoE
   gene variations are associated with an increased risk of cardiovascular disease
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: alzheimer_s_risk_apoe
 type: labtestpanel
-updated: '2026-03-28T19:47:18.445942Z'
+updated: '2026-03-28T19:56:10.643293Z'
 ---
 
 {% raw %}

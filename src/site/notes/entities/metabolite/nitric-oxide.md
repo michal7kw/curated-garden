@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.543519Z'
+created: '2026-03-28T19:56:10.730089Z'
 description: Gaseous signaling molecule with vasodilatory, neurotransmitter, and immune
   defense functions. Produced enzymatically by three NOS isoforms (eNOS, nNOS, iNOS)
   requiring tetrahydrobiopterin (BH4) as cofactor, or non-enzymatically via the dietary
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Nitric Oxide
 type: metabolite
-updated: '2026-03-28T19:47:18.543519Z'
+updated: '2026-03-28T19:56:10.730089Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.004276Z'
+created: '2026-03-28T19:56:09.288955Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/hematocrit/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Hematocrit
 type: biomarker
-updated: '2026-03-28T19:47:17.004276Z'
+updated: '2026-03-28T19:56:09.288955Z'
 ---
 
 {% raw %}

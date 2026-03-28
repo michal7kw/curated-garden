@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.661586Z'
+created: '2026-03-28T19:56:10.852477Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/pathway/cholinergic-basal-forebrain-pathways/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Cholinergic Basal Forebrain Pathways
 type: pathway
-updated: '2026-03-28T19:47:18.661586Z'
+updated: '2026-03-28T19:56:10.852477Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.256409Z'
+created: '2026-03-28T19:56:10.460402Z'
 description: EPA+DHA as percentage of red blood cell membranes. Target >8% for cardiovascular
   protection.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: omega3_index
 type: labtest
-updated: '2026-03-28T19:47:18.256409Z'
+updated: '2026-03-28T19:56:10.460402Z'
 ---
 
 {% raw %}

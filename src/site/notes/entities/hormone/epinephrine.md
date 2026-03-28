@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.752129Z'
+created: '2026-03-28T19:56:10.038487Z'
 description: Final catecholamine in the biosynthetic cascade (Tyrosine -> L-DOPA ->
   Dopamine -> Norepinephrine -> Epinephrine). Synthesized from norepinephrine by phenylethanolamine
   N-methyltransferase (PNMT) in adrenal medulla chromaffin cells, using S-adenosylmethionine
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Epinephrine
 type: hormone
-updated: '2026-03-28T19:47:17.752129Z'
+updated: '2026-03-28T19:56:10.038487Z'
 ---
 
 {% raw %}

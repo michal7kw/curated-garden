@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.622099Z'
+created: '2026-03-28T19:56:10.803592Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/locus-coeruleus/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Locus Coeruleus
 type: organ
-updated: '2026-03-28T19:47:18.622099Z'
+updated: '2026-03-28T19:56:10.803592Z'
 ---
 
 {% raw %}

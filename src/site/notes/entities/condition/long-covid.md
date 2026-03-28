@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.424775Z'
+created: '2026-03-28T19:56:09.674436Z'
 description: Multi-system condition occurring after SARS-CoV-2 infection, defined
   by WHO as symptoms persisting or developing 3+ months after initial infection, lasting
   at least 2 months, and not explained by alternative diagnoses. Affects an estimated
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Long COVID
 type: condition
-updated: '2026-03-28T19:47:17.424775Z'
+updated: '2026-03-28T19:56:09.674436Z'
 ---
 
 {% raw %}

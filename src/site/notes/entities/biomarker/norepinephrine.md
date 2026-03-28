@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.061125Z'
+created: '2026-03-28T19:56:09.337802Z'
 description: Urinary or plasma norepinephrine level, measured as part of catecholamine
   panels. Used to evaluate pheochromocytoma, autonomic dysfunction, and stress response.
   Key biomarker for sympathetic nervous system activity.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Norepinephrine
 type: biomarker
-updated: '2026-03-28T19:47:17.061125Z'
+updated: '2026-03-28T19:56:09.337802Z'
 ---
 
 {% raw %}

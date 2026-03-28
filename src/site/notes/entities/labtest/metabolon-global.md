@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.218699Z'
+created: '2026-03-28T19:56:10.425377Z'
 description: Research-grade global metabolomics profiling measuring 1000+ metabolites.
   Provides comprehensive metabolic fingerprint.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: metabolon_global
 type: labtest
-updated: '2026-03-28T19:47:18.218699Z'
+updated: '2026-03-28T19:56:10.425377Z'
 ---
 
 {% raw %}

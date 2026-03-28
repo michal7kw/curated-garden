@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.527892Z'
+created: '2026-03-28T19:56:10.719083Z'
 description: Group of three metabolites (beta-hydroxybutyrate, acetoacetate, acetone)
   produced from fatty acid oxidation in liver mitochondria during fasting, carbohydrate
   restriction, or prolonged exercise. Serve as alternative fuel for brain, heart,
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Ketone Bodies
 type: metabolite
-updated: '2026-03-28T19:47:18.527892Z'
+updated: '2026-03-28T19:56:10.719083Z'
 ---
 
 {% raw %}

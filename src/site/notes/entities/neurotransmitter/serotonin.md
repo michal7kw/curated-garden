@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.582543Z'
+created: '2026-03-28T19:56:10.773248Z'
 description: Monoamine neurotransmitter regulating mood, sleep, appetite, and gut
   function. Approximately 95% is produced in the gut. Commonly known as the "feel-good"
   neurotransmitter, it is central to emotional well-being and is the target of most
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Serotonin
 type: neurotransmitter
-updated: '2026-03-28T19:47:18.582543Z'
+updated: '2026-03-28T19:56:10.773248Z'
 ---
 
 {% raw %}

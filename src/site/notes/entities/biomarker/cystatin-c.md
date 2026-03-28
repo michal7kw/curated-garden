@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:16.959060Z'
+created: '2026-03-28T19:56:09.237860Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/cystatin-c/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Cystatin C
 type: biomarker
-updated: '2026-03-28T19:47:16.959060Z'
+updated: '2026-03-28T19:56:09.237860Z'
 ---
 
 {% raw %}

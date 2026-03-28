@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.259252Z'
+created: '2026-03-28T19:56:09.522078Z'
 description: A group of disorders affecting the bone marrow's ability to produce healthy
   blood cells (red cells, white cells, or platelets).
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Bone Marrow Disorder
 type: condition
-updated: '2026-03-28T19:47:17.259252Z'
+updated: '2026-03-28T19:56:09.522078Z'
 ---
 
 {% raw %}

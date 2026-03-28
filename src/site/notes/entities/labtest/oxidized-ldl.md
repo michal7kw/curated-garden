@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.288416Z'
+created: '2026-03-28T19:56:10.487303Z'
 description: Oxidized LDL (ox-LDL) test measures LDL cholesterol particles that have
   been modified by oxidation. Oxidized LDL is a key driver of atherosclerosis, promoting
   foam cell formation, endothelial dysfunction, and plaque instability. More specific
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: oxidized_ldl
 type: labtest
-updated: '2026-03-28T19:47:18.288416Z'
+updated: '2026-03-28T19:56:10.487303Z'
 ---
 
 {% raw %}

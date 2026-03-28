@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.985499Z'
+created: '2026-03-28T19:56:11.163526Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: protein binding
 type: protein
-updated: '2026-03-28T19:47:18.985499Z'
+updated: '2026-03-28T19:56:11.163526Z'
 ---
 
 {% raw %}

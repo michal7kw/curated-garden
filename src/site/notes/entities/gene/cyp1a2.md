@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.703199Z'
+created: '2026-03-28T19:56:09.991758Z'
 description: Cytochrome P450 1A2, responsible for caffeine metabolism and clearance
   of theophylline, melatonin, and certain medications. Activity strongly influenced
   by diet, smoking, and genetic variants.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: CYP1A2
 type: gene
-updated: '2026-03-28T19:47:17.703199Z'
+updated: '2026-03-28T19:56:09.991758Z'
 ---
 
 {% raw %}

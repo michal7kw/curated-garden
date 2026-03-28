@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.120153Z'
+created: '2026-03-28T19:56:10.343534Z'
 description: Iron binding capacity shows how well the blood can carry iron by measuring
   the maximum amount of iron that can attach to transferrin, the main iron-transport
   protein. High levels can mean the body needs more iron (like in iron deficiency
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: iron_binding_capacity
 type: labtest
-updated: '2026-03-28T19:47:18.120153Z'
+updated: '2026-03-28T19:56:10.343534Z'
 ---
 
 {% raw %}

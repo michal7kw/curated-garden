@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.453533Z'
+created: '2026-03-28T19:56:09.705995Z'
 description: A life-threatening condition where blood flow to the heart muscle is
   abruptly cut off, causing tissue death, usually due to a blood clot in a coronary
   artery.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Myocardial Infarction
 type: condition
-updated: '2026-03-28T19:47:17.453533Z'
+updated: '2026-03-28T19:56:09.705995Z'
 ---
 
 {% raw %}

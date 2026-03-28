@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.667702Z'
+created: '2026-03-28T19:56:09.953222Z'
 description: Cardioselective beta-1 blocker for hypertension, angina, heart failure,
   and arrhythmias. Reduces heart rate and myocardial oxygen demand. One of the most
   prescribed cardiovascular medications.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Metoprolol
 type: drug
-updated: '2026-03-28T19:47:17.667702Z'
+updated: '2026-03-28T19:56:09.953222Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.816544Z'
+created: '2026-03-28T19:56:10.100925Z'
 description: Resistance exercise using progressive overload to increase muscular strength,
   mass, and endurance. Foundational for metabolic health, bone density, functional
   independence, and longevity. Stimulates muscle protein synthesis, growth hormone
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Strength Training
 type: intervention
-updated: '2026-03-28T19:47:17.816544Z'
+updated: '2026-03-28T19:56:10.100925Z'
 ---
 
 {% raw %}

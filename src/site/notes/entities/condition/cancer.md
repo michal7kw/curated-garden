@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.265597Z'
+created: '2026-03-28T19:56:09.528784Z'
 description: A large group of diseases characterized by the uncontrolled growth and
   spread of abnormal cells, which can invade nearby tissues and metastasize to distant
   organs.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Cancer
 type: condition
-updated: '2026-03-28T19:47:17.265597Z'
+updated: '2026-03-28T19:56:09.528784Z'
 ---
 
 {% raw %}

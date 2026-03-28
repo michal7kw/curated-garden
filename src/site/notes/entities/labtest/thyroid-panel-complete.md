@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.360869Z'
+created: '2026-03-28T19:56:10.551388Z'
 description: 'Comprehensive thyroid assessment: TSH, Free T4, Free T3, Total T4, Total
   T3, Reverse T3, TPO antibodies, thyroglobulin antibodies.'
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: thyroid_panel_complete
 type: labtest
-updated: '2026-03-28T19:47:18.360869Z'
+updated: '2026-03-28T19:56:10.551388Z'
 ---
 
 {% raw %}

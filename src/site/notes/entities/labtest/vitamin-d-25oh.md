@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.419458Z'
+created: '2026-03-28T19:56:10.611152Z'
 description: Primary vitamin D status marker. Important for bone health, immune function,
   and overall wellness.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: vitamin_d_25oh
 type: labtest
-updated: '2026-03-28T19:47:18.419458Z'
+updated: '2026-03-28T19:56:10.611152Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:19.031913Z'
+created: '2026-03-28T19:56:11.217305Z'
 description: Non-essential amino acid that increases intramuscular carnosine concentrations,
   buffering hydrogen ions during high-intensity exercise to delay the onset of acidosis
   and extend time to fatigue.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Beta-Alanine
 type: supplement
-updated: '2026-03-28T19:47:19.031913Z'
+updated: '2026-03-28T19:56:11.217305Z'
 ---
 
 {% raw %}

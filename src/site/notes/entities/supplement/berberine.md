@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:19.028779Z'
+created: '2026-03-28T19:56:11.214445Z'
 description: Powerful plant alkaloid with profound effects on blood sugar and metabolism.
   Activates AMPK similar to metformin. One of the most effective natural compounds
   for metabolic health.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Berberine
 type: supplement
-updated: '2026-03-28T19:47:19.028779Z'
+updated: '2026-03-28T19:56:11.214445Z'
 ---
 
 {% raw %}

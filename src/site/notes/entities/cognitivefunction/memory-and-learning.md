@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.199929Z'
+created: '2026-03-28T19:56:09.471905Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/cognitivefunction/memory-and-learning/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Memory and Learning
 type: cognitivefunction
-updated: '2026-03-28T19:47:17.199929Z'
+updated: '2026-03-28T19:56:09.471905Z'
 ---
 
 {% raw %}

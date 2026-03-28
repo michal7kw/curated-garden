@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.304288Z'
+created: '2026-03-28T19:56:09.557570Z'
 description: A group of inherited genetic disorders that impair the adrenal glands'
   ability to produce cortisol and aldosterone, often leading to overproduction of
   androgens.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Congenital Adrenal Hyperplasia
 type: condition
-updated: '2026-03-28T19:47:17.304288Z'
+updated: '2026-03-28T19:56:09.557570Z'
 ---
 
 {% raw %}

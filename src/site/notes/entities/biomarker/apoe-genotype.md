@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:16.903340Z'
+created: '2026-03-28T19:56:09.193945Z'
 description: The APOE genotype refers to the specific combination of alleles (ε2,
   ε3, ε4) of the Apolipoprotein E gene, which determines the structure of the ApoE
   protein and significantly influences lipid metabolism, cardiovascular risk, and
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: APOE Genotype
 type: biomarker
-updated: '2026-03-28T19:47:16.903340Z'
+updated: '2026-03-28T19:56:09.193945Z'
 ---
 
 {% raw %}

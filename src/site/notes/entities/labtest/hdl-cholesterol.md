@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.054302Z'
+created: '2026-03-28T19:56:10.303589Z'
 description: Tested twice a year Think of the H in HDL as healthy, helpful, heart-supporting
   cholesterol. HDL's primary job is to remove excess cholesterol from the blood and
   transport it to the liver to be eliminated, reducing the risk of cardiovascular
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: hdl_cholesterol
 type: labtest
-updated: '2026-03-28T19:47:18.054302Z'
+updated: '2026-03-28T19:56:10.303589Z'
 ---
 
 {% raw %}

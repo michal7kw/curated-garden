@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.220727Z'
+created: '2026-03-28T19:56:09.490952Z'
 description: An exaggerated immune response to Ordinarily harmless substances (allergens),
   characterized by the production of IgE antibodies and release of inflammatory mediators
   like histamine.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Allergy
 type: condition
-updated: '2026-03-28T19:47:17.220727Z'
+updated: '2026-03-28T19:56:09.490952Z'
 ---
 
 {% raw %}

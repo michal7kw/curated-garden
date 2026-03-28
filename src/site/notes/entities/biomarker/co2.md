@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:16.949794Z'
+created: '2026-03-28T19:56:09.230602Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/co2/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Co2
 type: biomarker
-updated: '2026-03-28T19:47:16.949794Z'
+updated: '2026-03-28T19:56:09.230602Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.155959Z'
+created: '2026-03-28T19:56:10.363608Z'
 description: LDL particles come in different sizes—small, medium, and large. Medium
   particles tend to stay in circulation longer than large ones, which may increase
   the chance of cholesterol building up in artery walls and raising the risk of atherosclerosis
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: ldl_medium
 type: labtest
-updated: '2026-03-28T19:47:18.155959Z'
+updated: '2026-03-28T19:56:10.363608Z'
 ---
 
 {% raw %}

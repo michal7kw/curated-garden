@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.705362Z'
+created: '2026-03-28T19:56:10.900658Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/pathway/noradrenergic-locus-coeruleus-pathways/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Noradrenergic Locus Coeruleus Pathways
 type: pathway
-updated: '2026-03-28T19:47:18.705362Z'
+updated: '2026-03-28T19:56:10.900658Z'
 ---
 
 {% raw %}

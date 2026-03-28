@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.650323Z'
+created: '2026-03-28T19:56:09.935207Z'
 description: The first tricyclic antidepressant (TCA) developed. Used for depression
   and nocturnal enuresis (bedwetting) in children.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Imipramine
 type: drug
-updated: '2026-03-28T19:47:17.650323Z'
+updated: '2026-03-28T19:56:09.935207Z'
 ---
 
 {% raw %}

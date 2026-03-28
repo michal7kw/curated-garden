@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.320094Z'
+created: '2026-03-28T19:56:09.570576Z'
 description: Diabetes mellitus is a group of metabolic diseases characterized by high
   blood sugar levels over a prolonged period. This high blood sugar can cause symptoms
   such as frequent urination, increased thirst, and increased hunger. If left untreated,
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Diabetes
 type: condition
-updated: '2026-03-28T19:47:17.320094Z'
+updated: '2026-03-28T19:56:09.570576Z'
 ---
 
 {% raw %}

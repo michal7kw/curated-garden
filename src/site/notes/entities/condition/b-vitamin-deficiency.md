@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.242402Z'
+created: '2026-03-28T19:56:09.510400Z'
 description: A deficiency in one or more of the B-complex vitamins (e.g., Folate,
   B6, B12), which are essential for energy metabolism, red blood cell production,
   and neurological function.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: B Vitamin Deficiency
 type: condition
-updated: '2026-03-28T19:47:17.242402Z'
+updated: '2026-03-28T19:56:09.510400Z'
 ---
 
 {% raw %}

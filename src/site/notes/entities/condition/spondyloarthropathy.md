@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.563734Z'
+created: '2026-03-28T19:56:09.837066Z'
 description: A family of inflammatory rheumatic diseases that cause arthritis, primarily
   affecting the spine and sacroiliac joints.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Spondyloarthropathy
 type: condition
-updated: '2026-03-28T19:47:17.563734Z'
+updated: '2026-03-28T19:56:09.837066Z'
 ---
 
 {% raw %}

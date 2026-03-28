@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.048072Z'
+created: '2026-03-28T19:56:09.328349Z'
 description: Nicotinamide adenine dinucleotide, an essential coenzyme present in all
   living cells. Critical for energy metabolism, DNA repair, sirtuin activation, and
   cellular signaling. NAD+ levels decline significantly with age, making it a key
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: NAD+
 type: biomarker
-updated: '2026-03-28T19:47:17.048072Z'
+updated: '2026-03-28T19:56:09.328349Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.354386Z'
+created: '2026-03-28T19:56:09.608052Z'
 description: A group of eye conditions that damage the optic nerve, often caused by
   abnormally high pressure in the eye, leading to progressive vision loss.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Glaucoma
 type: condition
-updated: '2026-03-28T19:47:17.354386Z'
+updated: '2026-03-28T19:56:09.608052Z'
 ---
 
 {% raw %}

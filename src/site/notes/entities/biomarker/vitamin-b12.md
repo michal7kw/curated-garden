@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.124296Z'
+created: '2026-03-28T19:56:09.399101Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/vitamin-b12/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Vitamin B12
 type: biomarker
-updated: '2026-03-28T19:47:17.124296Z'
+updated: '2026-03-28T19:56:09.399101Z'
 ---
 
 {% raw %}

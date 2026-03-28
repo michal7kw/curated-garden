@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:16.900627Z'
+created: '2026-03-28T19:56:09.189860Z'
 description: The AA/EPA ratio measures the balance between arachidonic acid (AA),
   a pro-inflammatory omega-6 fatty acid, and eicosapentaenoic acid (EPA), an anti-inflammatory
   omega-3 fatty acid. It is a critical marker of cellular inflammation and cardiovascular
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: AA/EPA Ratio
 type: biomarker
-updated: '2026-03-28T19:47:16.900627Z'
+updated: '2026-03-28T19:56:09.189860Z'
 ---
 
 {% raw %}

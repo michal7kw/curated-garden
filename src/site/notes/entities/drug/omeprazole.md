@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.676887Z'
+created: '2026-03-28T19:56:09.963824Z'
 description: Proton pump inhibitor (PPI) for acid-related disorders. Irreversibly
   inhibits gastric H+/K+ ATPase, reducing stomach acid production. One of the most
   prescribed medications globally.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Omeprazole
 type: drug
-updated: '2026-03-28T19:47:17.676887Z'
+updated: '2026-03-28T19:56:09.963824Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.107122Z'
+created: '2026-03-28T19:56:09.384316Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/total-cholesterol/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Total Cholesterol
 type: biomarker
-updated: '2026-03-28T19:47:17.107122Z'
+updated: '2026-03-28T19:56:09.384316Z'
 ---
 
 {% raw %}

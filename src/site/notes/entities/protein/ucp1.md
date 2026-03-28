@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.980748Z'
+created: '2026-03-28T19:56:11.157089Z'
 description: Uncoupling Protein 1 (Thermogenin), a mitochondrial transporter found
   in brown adipose tissue that uncouples respiration from ATP synthesis to generate
   heat.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: UCP1
 type: protein
-updated: '2026-03-28T19:47:18.980748Z'
+updated: '2026-03-28T19:56:11.157089Z'
 ---
 
 {% raw %}

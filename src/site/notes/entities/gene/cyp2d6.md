@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.706229Z'
+created: '2026-03-28T19:56:09.995813Z'
 description: Cytochrome P450 2D6, a key Phase I drug-metabolizing enzyme responsible
   for ~25% of clinical drug metabolism. Highly polymorphic — over 100 allelic variants
   result in poor, intermediate, extensive, or ultra-rapid metabolizer phenotypes.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: CYP2D6
 type: gene
-updated: '2026-03-28T19:47:17.706229Z'
+updated: '2026-03-28T19:56:09.995813Z'
 ---
 
 {% raw %}

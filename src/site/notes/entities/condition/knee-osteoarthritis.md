@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.410080Z'
+created: '2026-03-28T19:56:09.661219Z'
 description: A degenerative joint disease affecting the knee, characterized by the
   breakdown of cartilage and underlying bone, leading to pain and stiffness.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Knee Osteoarthritis
 type: condition
-updated: '2026-03-28T19:47:17.410080Z'
+updated: '2026-03-28T19:56:09.661219Z'
 ---
 
 {% raw %}

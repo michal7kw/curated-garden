@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.628551Z'
+created: '2026-03-28T19:56:10.810632Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/nucleus-accumbens/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Nucleus Accumbens
 type: organ
-updated: '2026-03-28T19:47:18.628551Z'
+updated: '2026-03-28T19:56:10.810632Z'
 ---
 
 {% raw %}

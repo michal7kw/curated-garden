@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:19.188722Z'
+created: '2026-03-28T19:56:11.377490Z'
 description: Essential B-vitamin (B1) that serves as a cofactor for pyruvate dehydrogenase
   and alpha-ketoglutarate dehydrogenase, two critical enzymes linking glycolysis to
   the TCA cycle and maintaining TCA cycle flux.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Thiamine
 type: supplement
-updated: '2026-03-28T19:47:19.188722Z'
+updated: '2026-03-28T19:56:11.377490Z'
 ---
 
 {% raw %}

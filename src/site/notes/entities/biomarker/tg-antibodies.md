@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.104995Z'
+created: '2026-03-28T19:56:09.382196Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/tg-antibodies/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Tg Antibodies
 type: biomarker
-updated: '2026-03-28T19:47:17.104995Z'
+updated: '2026-03-28T19:56:09.382196Z'
 ---
 
 {% raw %}

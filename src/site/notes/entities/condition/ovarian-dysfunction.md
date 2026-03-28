@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.475542Z'
+created: '2026-03-28T19:56:09.729519Z'
 description: A range of disorders where the ovaries fail to produce eggs or the correct
   balance of hormones, affecting fertility and systemic health.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Ovarian Dysfunction
 type: condition
-updated: '2026-03-28T19:47:17.475542Z'
+updated: '2026-03-28T19:56:09.729519Z'
 ---
 
 {% raw %}

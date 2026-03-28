@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.537530Z'
+created: '2026-03-28T19:56:10.726129Z'
 description: The active, methylated form of folate (5-MTHF) essential for methylation
   reactions, DNA synthesis, neurotransmitter production, and homocysteine metabolism.
   Critical for those with MTHFR gene variants.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Methylfolate
 type: metabolite
-updated: '2026-03-28T19:47:18.537530Z'
+updated: '2026-03-28T19:56:10.726129Z'
 ---
 
 {% raw %}

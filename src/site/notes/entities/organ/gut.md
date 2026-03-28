@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.605500Z'
+created: '2026-03-28T19:56:10.788710Z'
 description: The gastrointestinal tract, particularly the intestines. Home to the
   gut microbiome and critical for nutrient absorption and immune function.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: Gut
 type: organ
-updated: '2026-03-28T19:47:18.605500Z'
+updated: '2026-03-28T19:56:10.788710Z'
 ---
 
 {% raw %}

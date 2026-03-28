@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.828549Z'
+created: '2026-03-28T19:56:10.108918Z'
 description: Mind-body practice combining physical postures (asana), breathwork (pranayama),
   and meditation. Evidence supports benefits for stress reduction, flexibility, balance,
   chronic pain, anxiety, and cardiovascular risk factors. Multiple styles range from
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Yoga
 type: intervention
-updated: '2026-03-28T19:47:17.828549Z'
+updated: '2026-03-28T19:56:10.108918Z'
 ---
 
 {% raw %}

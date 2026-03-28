@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:16.944156Z'
+created: '2026-03-28T19:56:09.225072Z'
 description: Calcium is the most abundant mineral in the human body, essential for
   bone structure, muscle contraction, nerve transmission, and blood coagulation. Serum
   calcium levels are tightly regulated by parathyroid hormone (PTH) and Vitamin D.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Calcium
 type: biomarker
-updated: '2026-03-28T19:47:16.944156Z'
+updated: '2026-03-28T19:56:09.225072Z'
 ---
 
 {% raw %}

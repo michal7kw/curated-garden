@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.597893Z'
+created: '2026-03-28T19:56:10.781880Z'
 description: Rigid organs forming the skeleton, providing structure, protection, movement,
   blood cell production, and mineral storage. Dynamic tissue constantly remodeling.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: Bones
 type: organ
-updated: '2026-03-28T19:47:18.597893Z'
+updated: '2026-03-28T19:56:10.781880Z'
 ---
 
 {% raw %}

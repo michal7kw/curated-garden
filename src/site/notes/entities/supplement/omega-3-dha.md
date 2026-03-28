@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:19.130351Z'
+created: '2026-03-28T19:56:11.309785Z'
 description: Docosahexaenoic acid, a long-chain omega-3 fatty acid that is the primary
   structural component of brain cell membranes. Essential for brain development, cognitive
   function, and neuroprotection throughout life.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Omega-3 DHA
 type: supplement
-updated: '2026-03-28T19:47:19.130351Z'
+updated: '2026-03-28T19:56:11.309785Z'
 ---
 
 {% raw %}

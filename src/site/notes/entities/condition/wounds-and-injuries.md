@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.596326Z'
+created: '2026-03-28T19:56:09.872213Z'
 description: Damage to any part of the body caused by external force, ranging from
   minor skin breaks to life-threatening internal trauma.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Wounds and Injuries
 type: condition
-updated: '2026-03-28T19:47:17.596326Z'
+updated: '2026-03-28T19:56:09.872213Z'
 ---
 
 {% raw %}

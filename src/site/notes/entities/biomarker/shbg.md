@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.095442Z'
+created: '2026-03-28T19:56:09.373225Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/shbg/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Shbg
 type: biomarker
-updated: '2026-03-28T19:47:17.095442Z'
+updated: '2026-03-28T19:56:09.373225Z'
 ---
 
 {% raw %}

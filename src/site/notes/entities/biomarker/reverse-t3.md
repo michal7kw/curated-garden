@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.085443Z'
+created: '2026-03-28T19:56:09.362805Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/reverse-t3/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Reverse T3
 type: biomarker
-updated: '2026-03-28T19:47:17.085443Z'
+updated: '2026-03-28T19:56:09.362805Z'
 ---
 
 {% raw %}

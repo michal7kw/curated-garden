@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.764944Z'
+created: '2026-03-28T19:56:10.047434Z'
 description: Hormone produced by the pineal gland that regulates circadian rhythm
   and sleep-wake cycles. Also functions as a powerful antioxidant with neuroprotective
   and immunomodulatory effects.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Melatonin
 type: hormone
-updated: '2026-03-28T19:47:17.764944Z'
+updated: '2026-03-28T19:56:10.047434Z'
 ---
 
 {% raw %}

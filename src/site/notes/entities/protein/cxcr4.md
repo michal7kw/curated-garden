@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.894768Z'
+created: '2026-03-28T19:56:11.067940Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/protein/cxcr4/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: CXCR4
 type: protein
-updated: '2026-03-28T19:47:18.894768Z'
+updated: '2026-03-28T19:56:11.067940Z'
 ---
 
 {% raw %}

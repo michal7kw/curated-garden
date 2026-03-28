@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.092276Z'
+created: '2026-03-28T19:56:09.369731Z'
 description: Serum serotonin (5-hydroxytryptamine) level, measured via ELISA or HPLC.
   Reflects peripheral serotonin status; used to evaluate carcinoid syndrome, depression
   screening (research), and serotonin-related disorders.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Serotonin
 type: biomarker
-updated: '2026-03-28T19:47:17.092276Z'
+updated: '2026-03-28T19:56:09.369731Z'
 ---
 
 {% raw %}

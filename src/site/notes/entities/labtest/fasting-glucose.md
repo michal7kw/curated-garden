@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.996431Z'
+created: '2026-03-28T19:56:10.261743Z'
 description: Blood sugar after fasting. Used for diabetes screening and metabolic
   health assessment.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: fasting_glucose
 type: labtest
-updated: '2026-03-28T19:47:17.996431Z'
+updated: '2026-03-28T19:56:10.261743Z'
 ---
 
 {% raw %}

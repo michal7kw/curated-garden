@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.557993Z'
+created: '2026-03-28T19:56:10.746430Z'
 description: Essential pterin cofactor for three classes of enzymes — tyrosine hydroxylase
   (dopamine synthesis), tryptophan hydroxylase (serotonin synthesis), and all three
   nitric oxide synthase isoforms. Uniquely links catecholamine, serotonin, and nitric
@@ -21,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: Tetrahydrobiopterin
 type: metabolite
-updated: '2026-03-28T19:47:18.557993Z'
+updated: '2026-03-28T19:56:10.746430Z'
 ---
 
 {% raw %}

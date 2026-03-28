@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.464789Z'
+created: '2026-03-28T19:56:10.660670Z'
 description: This comprehensive set of tests provides a deeper understanding of cardiovascular
   and metabolic health by evaluating how effectively cholesterol is working, how the
   body manages blood sugar (including insulin resistance), levels of harmful oxidative
@@ -24,7 +24,7 @@ tags:
 templateEngineOverride: njk
 title: extended_heart_metabolic
 type: labtestpanel
-updated: '2026-03-28T19:47:18.464789Z'
+updated: '2026-03-28T19:56:10.660670Z'
 ---
 
 {% raw %}

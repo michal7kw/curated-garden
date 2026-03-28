@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.673978Z'
+created: '2026-03-28T19:56:10.866628Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/pathway/gabaergic-pathways/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: GABAergic Pathways
 type: pathway
-updated: '2026-03-28T19:47:18.673978Z'
+updated: '2026-03-28T19:56:10.866628Z'
 ---
 
 {% raw %}

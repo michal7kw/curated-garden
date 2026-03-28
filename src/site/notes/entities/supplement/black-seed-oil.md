@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:19.043337Z'
+created: '2026-03-28T19:56:11.224832Z'
 description: Cold-pressed oil from Nigella sativa seeds, used in traditional medicine
   for over 2,000 years. Primary bioactive compound thymoquinone (TQ) has demonstrated
   anti-inflammatory, antioxidant, immunomodulatory, and hepatoprotective properties.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Black Seed Oil
 type: supplement
-updated: '2026-03-28T19:47:19.043337Z'
+updated: '2026-03-28T19:56:11.224832Z'
 ---
 
 {% raw %}

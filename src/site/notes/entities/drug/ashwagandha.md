@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.606479Z'
+created: '2026-03-28T19:56:09.885439Z'
 description: Ashwagandha (Withania somnifera) is an adaptogenic herb widely used in
   Ayurvedic medicine for its ability to help the body manage stress, improve energy
   levels, and promote overall well-being.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Ashwagandha
 type: drug
-updated: '2026-03-28T19:47:17.606479Z'
+updated: '2026-03-28T19:56:09.885439Z'
 ---
 
 {% raw %}

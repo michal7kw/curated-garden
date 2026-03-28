@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.115879Z'
+created: '2026-03-28T19:56:09.392108Z'
 description: A type of fat stored in the body. Elevated levels increase cardiovascular
   disease risk and are associated with metabolic syndrome.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: Triglycerides
 type: biomarker
-updated: '2026-03-28T19:47:17.115879Z'
+updated: '2026-03-28T19:56:09.392108Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.689700Z'
+created: '2026-03-28T19:56:10.882160Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/pathway/mesocortical-dopamine-pathway/
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Mesocortical Dopamine Pathway
 type: pathway
-updated: '2026-03-28T19:47:18.689700Z'
+updated: '2026-03-28T19:56:10.882160Z'
 ---
 
 {% raw %}

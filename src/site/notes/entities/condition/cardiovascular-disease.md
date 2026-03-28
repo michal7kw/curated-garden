@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.272820Z'
+created: '2026-03-28T19:56:09.533366Z'
 description: A broad group of disorders of the heart and blood vessels, often caused
   by atherosclerosis and leading to events such as heart attacks and strokes.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Cardiovascular Disease
 type: condition
-updated: '2026-03-28T19:47:17.272820Z'
+updated: '2026-03-28T19:56:09.533366Z'
 ---
 
 {% raw %}

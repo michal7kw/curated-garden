@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:19.019877Z'
+created: '2026-03-28T19:56:11.203419Z'
 description: Comprehensive formula containing all eight B vitamins, which serve as
   essential cofactors across glycolysis, TCA cycle, electron transport chain, and
   numerous other metabolic pathways critical for cellular energy production.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: B-Complex Vitamins
 type: supplement
-updated: '2026-03-28T19:47:19.019877Z'
+updated: '2026-03-28T19:56:11.203419Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:19.053511Z'
+created: '2026-03-28T19:56:11.235785Z'
 description: Medicinal mushroom traditionally used for energy and endurance. Supports
   ATP production, oxygen utilization, and exercise performance. Contains cordycepin
   with anti-inflammatory and adaptogenic properties.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Cordyceps
 type: supplement
-updated: '2026-03-28T19:47:19.053511Z'
+updated: '2026-03-28T19:56:11.235785Z'
 ---
 
 {% raw %}

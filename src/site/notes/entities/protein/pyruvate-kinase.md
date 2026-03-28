@@ -3,7 +3,7 @@ aliases:
 - PK
 - PKM1
 - PKM2
-created: '2026-03-28T19:47:18.954399Z'
+created: '2026-03-28T19:56:11.127317Z'
 description: Final enzyme of glycolysis, catalyzing the irreversible transfer of a
   phosphate group from phosphoenolpyruvate (PEP) to ADP, producing pyruvate and ATP
   via substrate-level phosphorylation. The PKM2 isoform plays a key role in cancer
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Pyruvate Kinase
 type: protein
-updated: '2026-03-28T19:47:18.954399Z'
+updated: '2026-03-28T19:56:11.127317Z'
 ---
 
 {% raw %}

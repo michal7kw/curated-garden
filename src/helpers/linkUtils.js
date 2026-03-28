@@ -73,6 +73,8 @@ function getGraph(data) {
       noteIcon: v.data.noteIcon || process.env.NOTE_ICON_DEFAULT,
       hide: v.data.hideInGraph || false,
       isDiagram,
+      updated: v.data.updated || v.data.created || null,
+      description: v.data.description || null,
     };
     stemURLs[fpath] = v.url;
     if (v.data['dg-home'] || (v.data.tags && v.data.tags.indexOf('gardenEntry') > -1)) {

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.646327Z'
+created: '2026-03-28T19:56:10.833015Z'
 description: The pathological process by which alpha-synuclein protein misfolds and
   aggregates into oligomers, fibrils, and Lewy bodies. Central to Parkinson's disease
   and other synucleinopathies.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Alpha-Synuclein Aggregation
 type: pathway
-updated: '2026-03-28T19:47:18.646327Z'
+updated: '2026-03-28T19:56:10.833015Z'
 ---
 
 {% raw %}

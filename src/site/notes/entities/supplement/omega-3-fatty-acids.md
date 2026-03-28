@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:19.133030Z'
+created: '2026-03-28T19:56:11.314606Z'
 description: Essential polyunsaturated fatty acids (EPA and DHA) critical for cardiovascular
   health, brain function, and inflammation reduction. Found naturally in fatty fish
   and available as concentrated supplements.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Omega-3 Fatty Acids
 type: supplement
-updated: '2026-03-28T19:47:19.133030Z'
+updated: '2026-03-28T19:56:11.314606Z'
 ---
 
 {% raw %}

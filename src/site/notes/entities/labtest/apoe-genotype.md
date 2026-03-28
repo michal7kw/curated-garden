@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.879397Z'
+created: '2026-03-28T19:56:10.160269Z'
 description: Tests APOE gene variants (E2, E3, E4). E4 associated with increased Alzheimer's
   and cardiovascular risk.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: apoe_genotype
 type: labtest
-updated: '2026-03-28T19:47:17.879397Z'
+updated: '2026-03-28T19:56:10.160269Z'
 ---
 
 {% raw %}

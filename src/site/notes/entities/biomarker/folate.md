@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:16.979558Z'
+created: '2026-03-28T19:56:09.259744Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/folate/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Folate
 type: biomarker
-updated: '2026-03-28T19:47:16.979558Z'
+updated: '2026-03-28T19:56:09.259744Z'
 ---
 
 {% raw %}

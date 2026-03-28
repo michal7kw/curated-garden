@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.642308Z'
+created: '2026-03-28T19:56:10.826847Z'
 description: Butterfly-shaped endocrine gland that produces thyroid hormones (T3,
   T4) regulating metabolism, energy, growth, and development. Highly sensitive to
   nutrient status.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Thyroid
 type: organ
-updated: '2026-03-28T19:47:18.642308Z'
+updated: '2026-03-28T19:56:10.826847Z'
 ---
 
 {% raw %}

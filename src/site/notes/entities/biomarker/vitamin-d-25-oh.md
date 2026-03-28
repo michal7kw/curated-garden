@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.125474Z'
+created: '2026-03-28T19:56:09.401114Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/vitamin-d-25-oh/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Vitamin D (25-OH)
 type: biomarker
-updated: '2026-03-28T19:47:17.125474Z'
+updated: '2026-03-28T19:56:09.401114Z'
 ---
 
 {% raw %}

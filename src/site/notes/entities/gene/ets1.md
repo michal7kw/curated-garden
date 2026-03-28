@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.930606Z'
+created: '2026-03-28T19:56:11.105141Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: ETS1
 type: gene
-updated: '2026-03-28T19:47:18.930606Z'
+updated: '2026-03-28T19:56:11.105141Z'
 ---
 
 {% raw %}

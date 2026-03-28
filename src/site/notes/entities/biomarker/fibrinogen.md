@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:16.978705Z'
+created: '2026-03-28T19:56:09.258935Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/fibrinogen/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Fibrinogen
 type: biomarker
-updated: '2026-03-28T19:47:16.978705Z'
+updated: '2026-03-28T19:56:09.258935Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:16.991432Z'
+created: '2026-03-28T19:56:09.273675Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/glucose/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Glucose
 type: biomarker
-updated: '2026-03-28T19:47:16.991432Z'
+updated: '2026-03-28T19:56:09.273675Z'
 ---
 
 {% raw %}

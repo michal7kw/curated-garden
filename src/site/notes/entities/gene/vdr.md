@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.718244Z'
+created: '2026-03-28T19:56:10.008296Z'
 description: Vitamin D receptor, a nuclear receptor transcription factor that mediates
   the biological effects of vitamin D on calcium metabolism, immune function, and
   cell differentiation. Polymorphisms (FokI, BsmI, TaqI, ApaI) influence vitamin D
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: VDR
 type: gene
-updated: '2026-03-28T19:47:17.718244Z'
+updated: '2026-03-28T19:56:10.008296Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:19.099020Z'
+created: '2026-03-28T19:56:11.283090Z'
 description: Medicinal mushroom (Hericium erinaceus) renowned for neuroprotective
   and neurogenerative properties. Stimulates NGF and BDNF production, supporting cognitive
   function and nerve regeneration.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Lions Mane
 type: supplement
-updated: '2026-03-28T19:47:19.099020Z'
+updated: '2026-03-28T19:56:11.283090Z'
 ---
 
 {% raw %}

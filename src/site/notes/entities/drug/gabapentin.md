@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.643319Z'
+created: '2026-03-28T19:56:09.924142Z'
 description: Anticonvulsant and analgesic used for neuropathic pain, epilepsy, and
   restless leg syndrome. Binds to alpha-2-delta calcium channel subunit. Not actually
   a GABA analog despite the name.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Gabapentin
 type: drug
-updated: '2026-03-28T19:47:17.643319Z'
+updated: '2026-03-28T19:56:09.924142Z'
 ---
 
 {% raw %}

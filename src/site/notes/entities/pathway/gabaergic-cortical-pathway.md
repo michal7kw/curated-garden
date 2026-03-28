@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.671874Z'
+created: '2026-03-28T19:56:10.863543Z'
 description: Distributed network of GABAergic interneurons throughout the cortex and
   subcortical structures. Provides inhibitory balance to excitatory glutamate signaling,
   essential for neural oscillations, information filtering, and seizure prevention.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: GABAergic Cortical Pathway
 type: pathway
-updated: '2026-03-28T19:47:18.671874Z'
+updated: '2026-03-28T19:56:10.863543Z'
 ---
 
 {% raw %}

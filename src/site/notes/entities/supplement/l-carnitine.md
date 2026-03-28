@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:19.082867Z'
+created: '2026-03-28T19:56:11.268105Z'
 description: Amino acid derivative essential for fatty acid transport into mitochondria
   for energy production. Supports heart health, exercise performance, and cognitive
   function. Multiple forms for different applications.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: L-Carnitine
 type: supplement
-updated: '2026-03-28T19:47:19.082867Z'
+updated: '2026-03-28T19:56:11.268105Z'
 ---
 
 {% raw %}

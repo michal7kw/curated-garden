@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.675400Z'
+created: '2026-03-28T19:56:10.868056Z'
 description: Gluconeogenesis is the metabolic pathway that synthesizes glucose from
   non-carbohydrate precursors, essential for maintaining blood glucose during fasting
   and providing glucose to glucose-dependent tissues.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Gluconeogenesis
 type: pathway
-updated: '2026-03-28T19:47:18.675400Z'
+updated: '2026-03-28T19:56:10.868056Z'
 ---
 
 {% raw %}

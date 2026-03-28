@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:18.703809Z'
+created: '2026-03-28T19:56:10.897804Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/pathway/nigrostriatal-dopamine-pathway/
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Nigrostriatal Dopamine Pathway
 type: pathway
-updated: '2026-03-28T19:47:18.703809Z'
+updated: '2026-03-28T19:56:10.897804Z'
 ---
 
 {% raw %}

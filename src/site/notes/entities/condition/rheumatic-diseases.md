@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.541506Z'
+created: '2026-03-28T19:56:09.804895Z'
 description: A broad group of conditions characterized by inflammation and pain in
   the joints, muscles, and connective tissues.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Rheumatic Diseases
 type: condition
-updated: '2026-03-28T19:47:17.541506Z'
+updated: '2026-03-28T19:56:09.804895Z'
 ---
 
 {% raw %}

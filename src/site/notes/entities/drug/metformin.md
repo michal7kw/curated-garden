@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.658879Z'
+created: '2026-03-28T19:56:09.943344Z'
 description: First-line biguanide antidiabetic drug that activates AMPK, inhibits
   mitochondrial complex I, and reduces hepatic glucose production. Under investigation
   as a longevity agent in the landmark TAME trial. Not metabolized by CYP enzymes;
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: METFORMIN
 type: drug
-updated: '2026-03-28T19:47:17.658879Z'
+updated: '2026-03-28T19:56:09.943344Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.452282Z'
+created: '2026-03-28T19:56:09.704426Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/condition/myalgia/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Myalgia
 type: condition
-updated: '2026-03-28T19:47:17.452282Z'
+updated: '2026-03-28T19:56:09.704426Z'
 ---
 
 {% raw %}

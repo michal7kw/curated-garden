@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.450962Z'
+created: '2026-03-28T19:56:09.702786Z'
 description: An injury to a muscle or its attaching tendons, often caused by overstretching
   or overexertion during physical activity.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Muscle Strain
 type: condition
-updated: '2026-03-28T19:47:17.450962Z'
+updated: '2026-03-28T19:56:09.702786Z'
 ---
 
 {% raw %}

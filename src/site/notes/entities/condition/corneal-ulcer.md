@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.306912Z'
+created: '2026-03-28T19:56:09.560588Z'
 description: An open sore on the cornea, usually caused by an eye infection, severe
   dry eye, or other eye disorders.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Corneal Ulcer
 type: condition
-updated: '2026-03-28T19:47:17.306912Z'
+updated: '2026-03-28T19:56:09.560588Z'
 ---
 
 {% raw %}

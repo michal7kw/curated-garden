@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.040377Z'
+created: '2026-03-28T19:56:09.322142Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/magnesium-rbc/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Magnesium Rbc
 type: biomarker
-updated: '2026-03-28T19:47:17.040377Z'
+updated: '2026-03-28T19:56:09.322142Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.043053Z'
+created: '2026-03-28T19:56:09.324225Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/mchc/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Mchc
 type: biomarker
-updated: '2026-03-28T19:47:17.043053Z'
+updated: '2026-03-28T19:56:09.324225Z'
 ---
 
 {% raw %}

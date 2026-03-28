@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.723002Z'
+created: '2026-03-28T19:56:10.013551Z'
 description: Optimize exercise performance, recovery, and adaptation. Creatine is
   the most studied ergogenic supplement, beta-alanine buffers muscle acidosis, citrulline
   enhances blood flow, electrolytes prevent exercise-induced depletion, and magnesium
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Athletic Performance
 type: healthstack
-updated: '2026-03-28T19:47:17.723002Z'
+updated: '2026-03-28T19:56:10.013551Z'
 ---
 
 {% raw %}

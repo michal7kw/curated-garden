@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:19.102855Z'
+created: '2026-03-28T19:56:11.286016Z'
 description: Essential trace mineral that serves as a cofactor for manganese superoxide
   dismutase (MnSOD), the primary antioxidant enzyme within the mitochondrial matrix,
   and several TCA cycle-related enzymes.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Manganese
 type: supplement
-updated: '2026-03-28T19:47:19.102855Z'
+updated: '2026-03-28T19:56:11.286016Z'
 ---
 
 {% raw %}

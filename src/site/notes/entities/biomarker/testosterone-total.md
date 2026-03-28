@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.102485Z'
+created: '2026-03-28T19:56:09.379131Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/testosterone-total/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Testosterone Total
 type: biomarker
-updated: '2026-03-28T19:47:17.102485Z'
+updated: '2026-03-28T19:56:09.379131Z'
 ---
 
 {% raw %}

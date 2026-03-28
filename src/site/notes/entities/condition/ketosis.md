@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:47:17.406200Z'
+created: '2026-03-28T19:56:09.658027Z'
 description: A metabolic state in which the body uses ketones, produced from the breakdown
   of fats, as its primary energy source instead of glucose.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Ketosis
 type: condition
-updated: '2026-03-28T19:47:17.406200Z'
+updated: '2026-03-28T19:56:09.658027Z'
 ---
 
 {% raw %}
