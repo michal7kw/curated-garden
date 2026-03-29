@@ -1,11 +1,12 @@
 ---
-created: '2026-03-28T19:56:11.243118Z'
+created: '2026-03-29T06:30:15.088256Z'
 description: Natural pentose sugar that serves as the structural backbone of ATP,
   supporting rapid ATP regeneration particularly in cardiac and skeletal muscle tissue
   under conditions of energy depletion.
 dg-home: false
 dg-publish: true
-permalink: /entities/supplement/d-ribose/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/supplement/d-ribose/
 slug: d-ribose
 tags:
 - supplement
@@ -16,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: D-Ribose
 type: supplement
-updated: '2026-03-28T19:56:11.243118Z'
+updated: '2026-03-29T06:30:15.088256Z'
 ---
 
 {% raw %}
@@ -63,18 +64,18 @@ updated: '2026-03-28T19:56:11.243118Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/metabolite/atp/" class="internal-link">ATP</a><br />
-RELATED::<a href="/entities/metabolite/adp/" class="internal-link">ADP</a><br />
-RELATED::<a href="/entities/metabolite/phosphocreatine/" class="internal-link">Phosphocreatine</a><br />
-RELATED::<a href="/entities/pathway/pentose-phosphate-pathway/" class="internal-link">Pentose Phosphate Pathway</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/atp/" class="internal-link">ATP</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/adp/" class="internal-link">ADP</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/phosphocreatine/" class="internal-link">Phosphocreatine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/pentose-phosphate-pathway/" class="internal-link">Pentose Phosphate Pathway</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/entities/metabolite/atp/" class="internal-link">ATP</a></p>
+<p>AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/metabolite/atp/" class="internal-link">ATP</a></p>
 <h3>Supports</h3>
-<p>SUPPORTS::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
+<p>SUPPORTS::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a></p>
 <h3>Synergistic With</h3>
-<p>SYNERGISTIC_WITH::<a href="/entities/supplement/creatine/" class="internal-link">Creatine</a><br />
+<p>SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/creatine/" class="internal-link">Creatine</a><br />
 SYNERGISTIC_WITH::<a class="internal-link is-unresolved" href="/404">Coenzyme Q10</a></p>
 <h2>References</h2>
 <ul>

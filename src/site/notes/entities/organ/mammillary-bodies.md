@@ -1,15 +1,16 @@
 ---
-created: '2026-03-28T19:56:10.806127Z'
+created: '2026-03-29T06:30:14.774019Z'
 dg-home: false
 dg-publish: true
-permalink: /entities/organ/mammillary-bodies/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/organ/mammillary-bodies/
 slug: mammillary-bodies
 tags:
 - organ
 templateEngineOverride: njk
 title: Mammillary Bodies
 type: organ
-updated: '2026-03-28T19:56:10.806127Z'
+updated: '2026-03-29T06:30:14.774019Z'
 ---
 
 {% raw %}

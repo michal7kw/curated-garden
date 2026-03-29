@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:56:10.565219Z'
+created: '2026-03-29T06:30:14.554234Z'
 description: Tested twice a year Total bilirubin measures all forms of bilirubin,
   a yellow substance made when the body breaks down old red blood cells. Normally,
   the liver processes bilirubin so it can be removed from the body. Measuring total
@@ -7,14 +7,15 @@ description: Tested twice a year Total bilirubin measures all forms of bilirubin
   bile duct problems, or other metabolic concerns.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/total-bilirubin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/total-bilirubin/
 slug: total-bilirubin
 tags:
 - labtest
 templateEngineOverride: njk
 title: total_bilirubin
 type: labtest
-updated: '2026-03-28T19:56:10.565219Z'
+updated: '2026-03-29T06:30:14.554234Z'
 ---
 
 {% raw %}
@@ -62,11 +63,11 @@ updated: '2026-03-28T19:56:10.565219Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/condition/gilberts-syndrome/" class="internal-link">GilbertS_Syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Liver_Inflammation_Hepatitis_Cirrhosis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Medication-Induced_Liver_Injury</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Hemolytic_Anemia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Bile_Duct_Blockage_Gallstones_Tumors</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/gilberts-syndrome/" class="internal-link">GilbertS Syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Liver Inflammation Hepatitis Cirrhosis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Medication-Induced Liver Injury</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hemolytic Anemia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Bile Duct Blockage Gallstones Tumors</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

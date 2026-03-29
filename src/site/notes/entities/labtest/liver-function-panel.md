@@ -1,17 +1,18 @@
 ---
-created: '2026-03-28T19:56:10.394844Z'
+created: '2026-03-29T06:30:14.399355Z'
 description: 'Comprehensive liver assessment: ALT, AST, ALP, GGT, bilirubin, albumin,
   and total protein.'
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/liver-function-panel/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/liver-function-panel/
 slug: liver-function-panel
 tags:
 - labtest
 templateEngineOverride: njk
 title: liver_function_panel
 type: labtest
-updated: '2026-03-28T19:56:10.394844Z'
+updated: '2026-03-29T06:30:14.399355Z'
 ---
 
 {% raw %}
@@ -56,11 +57,11 @@ updated: '2026-03-28T19:56:10.394844Z'
 <li><a class="internal-link is-unresolved" href="/404">alt</a></li>
 <li><a class="internal-link is-unresolved" href="/404">ast</a></li>
 <li><a class="internal-link is-unresolved" href="/404">alp</a></li>
-<li><a href="/entities/biomarker/ggt/" class="internal-link">ggt</a></li>
-<li><a href="/entities/biomarker/bilirubin-total/" class="internal-link">bilirubin_total</a></li>
-<li><a href="/entities/biomarker/bilirubin-direct/" class="internal-link">bilirubin_direct</a></li>
-<li><a href="/entities/labtest/albumin/" class="internal-link">albumin</a></li>
-<li><a href="/entities/labtest/total-protein/" class="internal-link">total_protein</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/biomarker/ggt/" class="internal-link">ggt</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/biomarker/bilirubin-total/" class="internal-link">bilirubin total</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/biomarker/bilirubin-direct/" class="internal-link">bilirubin direct</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/albumin/" class="internal-link">albumin</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/total-protein/" class="internal-link">total protein</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -71,15 +72,15 @@ updated: '2026-03-28T19:56:10.394844Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/biomarker/bilirubin-total/" class="internal-link">bilirubin_total</a><br />
-RELATED::<a href="/entities/biomarker/bilirubin-direct/" class="internal-link">bilirubin_direct</a><br />
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/bilirubin-total/" class="internal-link">bilirubin total</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/bilirubin-direct/" class="internal-link">bilirubin direct</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">alt</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">alp</a><br />
-RELATED::<a href="/entities/labtest/albumin/" class="internal-link">Albumin</a><br />
-RELATED::<a href="/entities/labtest/total-protein/" class="internal-link">total_protein</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/albumin/" class="internal-link">Albumin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/total-protein/" class="internal-link">total protein</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">ast</a><br />
-RELATED::<a href="/entities/labtest/albumin/" class="internal-link">albumin</a><br />
-RELATED::<a href="/entities/biomarker/ggt/" class="internal-link">ggt</a></p>
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/albumin/" class="internal-link">albumin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/ggt/" class="internal-link">ggt</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

@@ -1,18 +1,19 @@
 ---
-created: '2026-03-28T19:56:09.220643Z'
+created: '2026-03-29T06:30:13.513337Z'
 description: C-Peptide is a 31-amino acid polypeptide cleaved from proinsulin during
   insulin biosynthesis, serving as a direct measure of endogenous insulin production
   by pancreatic beta cells.
 dg-home: false
 dg-publish: true
-permalink: /entities/biomarker/c-peptide/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/c-peptide/
 slug: c-peptide
 tags:
 - biomarker
 templateEngineOverride: njk
 title: C-Peptide
 type: biomarker
-updated: '2026-03-28T19:56:09.220643Z'
+updated: '2026-03-29T06:30:13.513337Z'
 ---
 
 {% raw %}
@@ -21,12 +22,12 @@ updated: '2026-03-28T19:56:09.220643Z'
 <p>C-Peptide is a 31-amino acid polypeptide cleaved from proinsulin during insulin biosynthesis, serving as a direct measure of endogenous insulin production by pancreatic beta cells.</p>
 <h2>Relationships</h2>
 <h3>Correlated With</h3>
-<p>CORRELATED_WITH::<a href="/entities/biomarker/insulin-fasting/" class="internal-link">Insulin_Fasting</a><br />
-CORRELATED_WITH::<a href="/entities/biomarker/glucose-fasting/" class="internal-link">Glucose_Fasting</a><br />
-CORRELATED_WITH::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a><br />
-CORRELATED_WITH::<a href="/entities/labtest/hba1c/" class="internal-link">HbA1c</a></p>
+<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/insulin-fasting/" class="internal-link">Insulin Fasting</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/glucose-fasting/" class="internal-link">Glucose Fasting</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/insulin/" class="internal-link">Insulin</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/hba1c/" class="internal-link">HbA1c</a></p>
 <h3>Activates</h3>
-<p>ACTIVATES::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a><br />
-ACTIVATES::<a href="/entities/biomarker/insulin-fasting/" class="internal-link">Insulin_Fasting</a></p>
+<p>ACTIVATES::<a href="/garden/michal.k7w@gmail.com/labtest/insulin/" class="internal-link">Insulin</a><br />
+ACTIVATES::<a href="/garden/michal.k7w@gmail.com/biomarker/insulin-fasting/" class="internal-link">Insulin Fasting</a></p>
 
 {% endraw %}

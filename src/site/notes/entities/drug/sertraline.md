@@ -1,11 +1,12 @@
 ---
-created: '2026-03-28T19:56:09.984675Z'
+created: '2026-03-29T06:30:14.069573Z'
 description: Selective serotonin reuptake inhibitor (SSRI) antidepressant. First-line
   treatment for depression, anxiety disorders, OCD, and PTSD. Well-studied with favorable
   safety profile.
 dg-home: false
 dg-publish: true
-permalink: /entities/drug/sertraline/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/drug/sertraline/
 slug: sertraline
 tags:
 - drug
@@ -17,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Sertraline
 type: drug
-updated: '2026-03-28T19:56:09.984675Z'
+updated: '2026-03-29T06:30:14.069573Z'
 ---
 
 {% raw %}
@@ -25,6 +26,19 @@ updated: '2026-03-28T19:56:09.984675Z'
 <h2>Overview</h2>
 <p>Selective serotonin reuptake inhibitor (SSRI) antidepressant. First-line treatment for depression, anxiety disorders, OCD, and PTSD. Well-studied with favorable safety profile.</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
+<h3>Treats</h3>
+<p>TREATS::<a href="/garden/michal.k7w@gmail.com/condition/depression/" class="internal-link">Depression</a><br />
+TREATS::<a href="/garden/michal.k7w@gmail.com/phenotype/anxiety/" class="internal-link">Anxiety</a><br />
+TREATS::<a class="internal-link is-unresolved" href="/404">PTSD</a></p>
+<h3>Modulates Neurotransmitter</h3>
+<p>MODULATES_NEUROTRANSMITTER::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
+MODULATES_NEUROTRANSMITTER::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
+<h3>Affects Brain Region</h3>
+<p>AFFECTS_BRAIN_REGION::<a href="/garden/michal.k7w@gmail.com/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a><br />
+AFFECTS_BRAIN_REGION::<a href="/garden/michal.k7w@gmail.com/anatomy/raphe-nuclei/" class="internal-link">Raphe Nuclei</a><br />
+AFFECTS_BRAIN_REGION::<a href="/garden/michal.k7w@gmail.com/anatomy/amygdala/" class="internal-link">Amygdala</a></p>
+<h3>Related</h3>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/drug/fluoxetine/" class="internal-link">Fluoxetine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/5-htp/" class="internal-link">5-HTP</a></p>
 
 {% endraw %}

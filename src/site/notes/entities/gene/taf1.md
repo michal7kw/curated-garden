@@ -1,9 +1,10 @@
 ---
-created: '2026-03-28T19:56:10.007592Z'
+created: '2026-03-29T06:30:14.084072Z'
 description: '...'
 dg-home: false
 dg-publish: true
-permalink: /entities/gene/taf1/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/gene/taf1/
 slug: taf1
 tags:
 - gene
@@ -12,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: TAF1
 type: gene
-updated: '2026-03-28T19:56:10.007592Z'
+updated: '2026-03-29T06:30:14.084072Z'
 ---
 
 {% raw %}

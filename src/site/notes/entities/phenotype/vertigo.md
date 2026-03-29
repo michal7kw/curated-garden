@@ -1,9 +1,10 @@
 ---
-created: '2026-03-28T19:56:11.028549Z'
+created: '2026-03-29T06:30:14.920908Z'
 description: '...'
 dg-home: false
 dg-publish: true
-permalink: /entities/phenotype/vertigo/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/phenotype/vertigo/
 slug: vertigo
 tags:
 - phenotype
@@ -12,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Vertigo
 type: phenotype
-updated: '2026-03-28T19:56:11.028549Z'
+updated: '2026-03-29T06:30:14.920908Z'
 ---
 
 {% raw %}
@@ -21,51 +22,51 @@ updated: '2026-03-28T19:56:11.028549Z'
 <p>...</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">mal_de_Debarquement</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Sneddon_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">catecholaminergic_polymorphic_ventricular_tachycardia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">opsoclonus-myoclonus_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">alpha-N-acetylgalactosaminidase_deficiency</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">central_nervous_system_vasculitis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">von_Hippel-Lindau_disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">autosomal_dominant_nonsyndromic_deafness</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">progressive_familial_heart_block</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">hypertrophic_cardiomyopathy</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Rift_valley_fever</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Paroxysmal_vertigo</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">hyperimmunoglobulinemia_D_with_periodic_fever</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">acute_promyelocytic_leukemia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">TSH-secreting_pituitary_adenoma</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Addison_disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Marchiafava-Bignami_disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">superficial_siderosis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">non-functioning_pituitary_adenoma</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Pendred_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">prolactin_producing_pituitary_gland_tumor</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">episodic_ataxia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">pseudotumor_cerebri</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">familial_temporal_lobe_epilepsy</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">optic_pathway_glioma</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">renal_hypomagnesemia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">primary_familial_polycythemia_due_to_EPO_receptor_mutation</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">acquired_polycythemia_vera</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">relapsing_polychondritis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">progressive_multifocal_leukoencephalopathy</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">familial_or_sporadic_hemiplegic_migraine</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">childhood_encephalopathy_due_to_thiamine_pyrophosphokinase_deficiency</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Naxos_disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Sheehan_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Meniere_disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Susac_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">benign_paroxysmal_torticollis_of_infancy</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">familial_hemiplegic_migraine</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">glycogen_storage_disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">malignant_atrophic_papulosis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">autosomal_dominant_familial_periodic_fever</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Vestibular_dysfunction</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">late-onset_isolated_ACTH_deficiency</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">mal de Debarquement</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Sneddon syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">catecholaminergic polymorphic ventricular tachycardia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">opsoclonus-myoclonus syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">alpha-N-acetylgalactosaminidase deficiency</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">central nervous system vasculitis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">von Hippel-Lindau disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">autosomal dominant nonsyndromic deafness</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">progressive familial heart block</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">hypertrophic cardiomyopathy</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Rift valley fever</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Paroxysmal vertigo</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">hyperimmunoglobulinemia D with periodic fever</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">acute promyelocytic leukemia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">TSH-secreting pituitary adenoma</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Addison disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Marchiafava-Bignami disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">superficial siderosis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">non-functioning pituitary adenoma</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Pendred syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">prolactin producing pituitary gland tumor</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">episodic ataxia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">pseudotumor cerebri</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">familial temporal lobe epilepsy</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">optic pathway glioma</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">renal hypomagnesemia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">primary familial polycythemia due to EPO receptor mutation</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">acquired polycythemia vera</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">relapsing polychondritis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">progressive multifocal leukoencephalopathy</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">familial or sporadic hemiplegic migraine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">childhood encephalopathy due to thiamine pyrophosphokinase deficiency</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Naxos disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Sheehan syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Meniere disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Susac syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">benign paroxysmal torticollis of infancy</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">familial hemiplegic migraine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">glycogen storage disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">malignant atrophic papulosis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">autosomal dominant familial periodic fever</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Vestibular dysfunction</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">late-onset isolated ACTH deficiency</a></p>
 <h3>Related To Phenotype</h3>
-<p>RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Paroxysmal_vertigo</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Vestibular_dysfunction</a></p>
+<p>RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Paroxysmal vertigo</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Vestibular dysfunction</a></p>
 
 {% endraw %}

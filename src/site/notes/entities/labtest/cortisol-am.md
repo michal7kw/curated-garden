@@ -1,17 +1,18 @@
 ---
-created: '2026-03-28T19:56:10.234504Z'
+created: '2026-03-29T06:30:14.274997Z'
 description: Morning cortisol measurement. Important for adrenal function assessment
   and Cushing's/Addison's disease screening.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/cortisol-am/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/cortisol-am/
 slug: cortisol-am
 tags:
 - labtest
 templateEngineOverride: njk
 title: cortisol_am
 type: labtest
-updated: '2026-03-28T19:56:10.234504Z'
+updated: '2026-03-29T06:30:14.274997Z'
 ---
 
 {% raw %}
@@ -58,7 +59,7 @@ updated: '2026-03-28T19:56:10.234504Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">cortisol</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -69,8 +70,8 @@ updated: '2026-03-28T19:56:10.234504Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
-RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">cortisol</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">Cortisol</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

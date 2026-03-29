@@ -1,15 +1,16 @@
 ---
-created: '2026-03-28T19:56:09.322142Z'
+created: '2026-03-29T06:30:13.582434Z'
 dg-home: false
 dg-publish: true
-permalink: /entities/biomarker/magnesium-rbc/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/magnesium-rbc/
 slug: magnesium-rbc
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Magnesium Rbc
 type: biomarker
-updated: '2026-03-28T19:56:09.322142Z'
+updated: '2026-03-29T06:30:13.582434Z'
 ---
 
 {% raw %}
@@ -18,12 +19,12 @@ updated: '2026-03-28T19:56:09.322142Z'
 <h2>Relationships</h2>
 <h3>Affected By Supplement</h3>
 <ul>
-<li>-&gt; <a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
 </ul>
 <h3>Measured By Test</h3>
 <ul>
-<li>-&gt; <a href="/entities/labtest/magnesium-rbc/" class="internal-link">magnesium_rbc</a> (labtest)</li>
-<li>-&gt; <a href="/entities/labtest/magnesium/" class="internal-link">magnesium</a> (labtest)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/magnesium-rbc/" class="internal-link">magnesium rbc</a> (labtest)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/magnesium/" class="internal-link">magnesium</a> (labtest)</li>
 </ul>
 
 {% endraw %}

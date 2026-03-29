@@ -1,17 +1,18 @@
 ---
-created: '2026-03-28T19:56:10.222009Z'
+created: '2026-03-29T06:30:14.263675Z'
 description: 14-test panel measuring glucose, electrolytes, kidney function (BUN,
   creatinine), liver enzymes (ALT, AST, ALP), and proteins.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/comprehensive-metabolic-panel/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/comprehensive-metabolic-panel/
 slug: comprehensive-metabolic-panel
 tags:
 - labtest
 templateEngineOverride: njk
 title: comprehensive_metabolic_panel
 type: labtest
-updated: '2026-03-28T19:56:10.222009Z'
+updated: '2026-03-29T06:30:14.263675Z'
 ---
 
 {% raw %}
@@ -66,17 +67,17 @@ updated: '2026-03-28T19:56:10.222009Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/entities/metabolite/glucose/" class="internal-link">glucose</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/metabolite/glucose/" class="internal-link">glucose</a></li>
 <li><a class="internal-link is-unresolved" href="/404">bun</a></li>
-<li><a href="/entities/labtest/creatinine/" class="internal-link">creatinine</a></li>
-<li><a href="/entities/labtest/sodium/" class="internal-link">sodium</a></li>
-<li><a href="/entities/labtest/potassium/" class="internal-link">potassium</a></li>
-<li><a href="/entities/labtest/chloride/" class="internal-link">chloride</a></li>
-<li><a href="/entities/biomarker/co2/" class="internal-link">co2</a></li>
-<li><a href="/entities/labtest/calcium/" class="internal-link">calcium</a></li>
-<li><a href="/entities/labtest/total-protein/" class="internal-link">total_protein</a></li>
-<li><a href="/entities/labtest/albumin/" class="internal-link">albumin</a></li>
-<li><a href="/entities/biomarker/bilirubin/" class="internal-link">bilirubin</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/creatinine/" class="internal-link">creatinine</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/sodium/" class="internal-link">sodium</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/potassium/" class="internal-link">potassium</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/chloride/" class="internal-link">chloride</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/biomarker/co2/" class="internal-link">co2</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/calcium/" class="internal-link">calcium</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/total-protein/" class="internal-link">total protein</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/albumin/" class="internal-link">albumin</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/biomarker/bilirubin/" class="internal-link">bilirubin</a></li>
 <li><a class="internal-link is-unresolved" href="/404">alp</a></li>
 <li><a class="internal-link is-unresolved" href="/404">alt</a></li>
 <li><a class="internal-link is-unresolved" href="/404">ast</a></li>
@@ -90,23 +91,23 @@ updated: '2026-03-28T19:56:10.222009Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/labtest/albumin/" class="internal-link">Albumin</a><br />
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/albumin/" class="internal-link">Albumin</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">ast</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">alp</a><br />
-RELATED::<a href="/entities/metabolite/glucose/" class="internal-link">glucose</a><br />
-RELATED::<a href="/entities/labtest/potassium/" class="internal-link">potassium</a><br />
-RELATED::<a href="/entities/labtest/chloride/" class="internal-link">chloride</a><br />
-RELATED::<a href="/entities/biomarker/bilirubin/" class="internal-link">bilirubin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/glucose/" class="internal-link">glucose</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/potassium/" class="internal-link">potassium</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/chloride/" class="internal-link">chloride</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/bilirubin/" class="internal-link">bilirubin</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">alt</a><br />
-RELATED::<a href="/entities/labtest/creatinine/" class="internal-link">creatinine</a><br />
-RELATED::<a href="/entities/labtest/creatinine/" class="internal-link">Creatinine</a><br />
-RELATED::<a href="/entities/labtest/sodium/" class="internal-link">sodium</a><br />
-RELATED::<a href="/entities/labtest/calcium/" class="internal-link">calcium</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/creatinine/" class="internal-link">creatinine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/sodium/" class="internal-link">sodium</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/calcium/" class="internal-link">calcium</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">bun</a><br />
-RELATED::<a href="/entities/biomarker/glucose-fasting/" class="internal-link">Glucose_Fasting</a><br />
-RELATED::<a href="/entities/labtest/total-protein/" class="internal-link">total_protein</a><br />
-RELATED::<a href="/entities/labtest/albumin/" class="internal-link">albumin</a><br />
-RELATED::<a href="/entities/biomarker/co2/" class="internal-link">co2</a></p>
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/glucose-fasting/" class="internal-link">Glucose Fasting</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/total-protein/" class="internal-link">total protein</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/albumin/" class="internal-link">albumin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/co2/" class="internal-link">co2</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

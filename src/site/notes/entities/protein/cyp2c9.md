@@ -1,12 +1,13 @@
 ---
-created: '2026-03-28T19:56:11.077841Z'
+created: '2026-03-29T06:30:14.971279Z'
 description: Cytochrome P450 2C9, a major drug-metabolizing enzyme responsible for
   the metabolism of warfarin, phenytoin, and most NSAIDs. Genetic polymorphisms significantly
   affect warfarin dosing requirements, with poor metabolizers requiring substantially
   lower doses to avoid bleeding complications.
 dg-home: false
 dg-publish: true
-permalink: /entities/protein/cyp2c9/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/protein/cyp2c9/
 slug: cyp2c9
 tags:
 - protein
@@ -17,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: CYP2C9
 type: protein
-updated: '2026-03-28T19:56:11.077841Z'
+updated: '2026-03-29T06:30:14.971279Z'
 ---
 
 {% raw %}
@@ -48,10 +49,10 @@ updated: '2026-03-28T19:56:11.077841Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/gene/cyp3a4/" class="internal-link">CYP3A4</a><br />
-RELATED::<a href="/entities/drug/aspirin/" class="internal-link">Aspirin</a><br />
-RELATED::<a href="/entities/drug/ibuprofen/" class="internal-link">Ibuprofen</a><br />
-RELATED::<a href="/entities/organ/liver/" class="internal-link">Liver</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/gene/cyp3a4/" class="internal-link">CYP3A4</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/drug/aspirin/" class="internal-link">Aspirin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/drug/ibuprofen/" class="internal-link">Ibuprofen</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/organ/liver/" class="internal-link">Liver</a></p>
 <h2>References</h2>
 <ul>
 <li>Johnson JA, Cavallari LH. Warfarin pharmacogenetics. Trends Cardiovasc Med. 2015;25(1):33-41. PMID:25282447</li>

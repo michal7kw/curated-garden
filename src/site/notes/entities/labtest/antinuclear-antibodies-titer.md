@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:56:10.156299Z'
+created: '2026-03-29T06:30:14.219797Z'
 description: an-tee-noo-klee-ur an-tih-bod-eez tie-ter An antinuclear antibodies (ANA)
   titer measures the concentration of autoantibodies present linked to an autoimmune
   condition. Higher titers can signal more autoimmune activity, but does not confirm
@@ -7,14 +7,15 @@ description: an-tee-noo-klee-ur an-tih-bod-eez tie-ter An antinuclear antibodies
   positive.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/antinuclear-antibodies-titer/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/antinuclear-antibodies-titer/
 slug: antinuclear-antibodies-titer
 tags:
 - labtest
 templateEngineOverride: njk
 title: antinuclear_antibodies_titer
 type: labtest
-updated: '2026-03-28T19:56:10.156299Z'
+updated: '2026-03-29T06:30:14.219797Z'
 ---
 
 {% raw %}
@@ -62,11 +63,11 @@ updated: '2026-03-28T19:56:10.156299Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/labtestpanel/extended-autoimmunity/" class="internal-link">extended_autoimmunity</a><br />
-RELATED::<a href="/entities/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac_gluten_intolerance</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-autoimmunity/" class="internal-link">extended autoimmunity</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac gluten intolerance</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/entities/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac_gluten_intolerance</a><br />
-INCLUDED_IN::<a href="/entities/labtestpanel/extended-autoimmunity/" class="internal-link">extended_autoimmunity</a></p>
+<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac gluten intolerance</a><br />
+INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-autoimmunity/" class="internal-link">extended autoimmunity</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:56:10.675199Z'
+created: '2026-03-29T06:30:14.641752Z'
 description: Food-specific IgE testing identifies immunoglobulin E (IgE) responses
   associated with true food allergies, meaning allergies that cause immediate and
   potentially severe reactions, such as hives, swelling, difficulty breathing, or
@@ -12,14 +12,15 @@ description: Food-specific IgE testing identifies immunoglobulin E (IgE) respons
   Allergy Cow's Milk Allergy Cashew Nut Allergy
 dg-home: false
 dg-publish: true
-permalink: /entities/labtestpanel/food-allergies-ige/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtestpanel/food-allergies-ige/
 slug: food-allergies-ige
 tags:
 - labtestpanel
 templateEngineOverride: njk
 title: food_allergies_ige
 type: labtestpanel
-updated: '2026-03-28T19:56:10.675199Z'
+updated: '2026-03-29T06:30:14.641752Z'
 ---
 
 {% raw %}

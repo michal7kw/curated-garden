@@ -1,19 +1,20 @@
 ---
-created: '2026-03-28T19:56:10.353681Z'
+created: '2026-03-29T06:30:14.366174Z'
 description: Tested twice a year Ketones are energy molecules the body makes when
   it burns fat for fuel — for example, during fasting, ketogenic diets, or prolonged
   exercise. This can be a normal response, but high levels of ketones in urine (ketonuria)
   may also be linked to conditions such as diabetes or kidney disease.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/ketones-urine/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/ketones-urine/
 slug: ketones-urine
 tags:
 - labtest
 templateEngineOverride: njk
 title: ketones_urine
 type: labtest
-updated: '2026-03-28T19:56:10.353681Z'
+updated: '2026-03-29T06:30:14.366174Z'
 ---
 
 {% raw %}
@@ -61,11 +62,11 @@ updated: '2026-03-28T19:56:10.353681Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Low-Carbohydrate_Diet_State_Ketosis</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Low-Carbohydrate Diet State Ketosis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Type_1_Or_Type_2_Diabetes</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Type 1 Or Type 2 Diabetes</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Prediabetes</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Prolonged_Fasting</a></p>
+RELATED::<a class="internal-link is-unresolved" href="/404">Prolonged Fasting</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

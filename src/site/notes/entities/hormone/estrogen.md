@@ -1,11 +1,12 @@
 ---
-created: '2026-03-28T19:56:10.042608Z'
+created: '2026-03-29T06:30:14.121778Z'
 description: The primary female sex hormone group, essential for reproductive health,
   bone density, cardiovascular health, and cognitive function. Also present and vital
   in males.
 dg-home: false
 dg-publish: true
-permalink: /entities/hormone/estrogen/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/hormone/estrogen/
 slug: estrogen
 tags:
 - hormone
@@ -15,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Estrogen
 type: hormone
-updated: '2026-03-28T19:56:10.042608Z'
+updated: '2026-03-29T06:30:14.121778Z'
 ---
 
 {% raw %}

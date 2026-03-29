@@ -1,9 +1,10 @@
 ---
-created: '2026-03-28T19:56:11.090938Z'
+created: '2026-03-29T06:30:14.978756Z'
 description: '...'
 dg-home: false
 dg-publish: true
-permalink: /entities/protein/dna-binding/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/protein/dna-binding/
 slug: dna-binding
 tags:
 - protein
@@ -12,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: DNA binding
 type: protein
-updated: '2026-03-28T19:56:11.090938Z'
+updated: '2026-03-29T06:30:14.978756Z'
 ---
 
 {% raw %}
@@ -21,40 +22,40 @@ updated: '2026-03-28T19:56:11.090938Z'
 <p>...</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">bent_DNA_binding</a><br />
-RELATED::<a href="/entities/gene/ets1/" class="internal-link">ETS1</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">G-quadruplex_DNA_binding</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">damaged_DNA_binding</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">DNA_binding_bending</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">recombination_hotspot_binding</a><br />
-RELATED::<a href="/entities/gene/myc/" class="internal-link">MYC</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">DNA_end_binding</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">nucleic_acid_binding</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">flap-structured_DNA_binding</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">triplex_DNA_binding</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">sequence-specific_DNA_binding</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">single-stranded_DNA_binding</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">histone-dependent_DNA_binding</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">double-stranded_DNA_binding</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">DNA_secondary_structure_binding</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">chromatin_DNA_binding</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">DNA_template_activity</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">bent DNA binding</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/gene/ets1/" class="internal-link">ETS1</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">G-quadruplex DNA binding</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">damaged DNA binding</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">DNA binding bending</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">recombination hotspot binding</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/gene/myc/" class="internal-link">MYC</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">DNA end binding</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">nucleic acid binding</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">flap-structured DNA binding</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">triplex DNA binding</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">sequence-specific DNA binding</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">single-stranded DNA binding</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">histone-dependent DNA binding</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">double-stranded DNA binding</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">DNA secondary structure binding</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">chromatin DNA binding</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">DNA template activity</a></p>
 <h3>Related To Function</h3>
-<p>RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">DNA_template_activity</a><br />
-RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">damaged_DNA_binding</a><br />
-RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">bent_DNA_binding</a><br />
-RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">triplex_DNA_binding</a><br />
-RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">DNA_binding_bending</a><br />
-RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">DNA_end_binding</a><br />
-RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">chromatin_DNA_binding</a><br />
-RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">double-stranded_DNA_binding</a><br />
-RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">nucleic_acid_binding</a><br />
-RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">DNA_secondary_structure_binding</a><br />
-RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">histone-dependent_DNA_binding</a><br />
-RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">sequence-specific_DNA_binding</a><br />
-RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">single-stranded_DNA_binding</a><br />
-RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">flap-structured_DNA_binding</a><br />
-RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">G-quadruplex_DNA_binding</a><br />
-RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">recombination_hotspot_binding</a></p>
+<p>RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">DNA template activity</a><br />
+RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">damaged DNA binding</a><br />
+RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">bent DNA binding</a><br />
+RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">triplex DNA binding</a><br />
+RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">DNA binding bending</a><br />
+RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">DNA end binding</a><br />
+RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">chromatin DNA binding</a><br />
+RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">double-stranded DNA binding</a><br />
+RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">nucleic acid binding</a><br />
+RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">DNA secondary structure binding</a><br />
+RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">histone-dependent DNA binding</a><br />
+RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">sequence-specific DNA binding</a><br />
+RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">single-stranded DNA binding</a><br />
+RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">flap-structured DNA binding</a><br />
+RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">G-quadruplex DNA binding</a><br />
+RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">recombination hotspot binding</a></p>
 
 {% endraw %}

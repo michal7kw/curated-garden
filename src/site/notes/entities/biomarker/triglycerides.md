@@ -1,17 +1,18 @@
 ---
-created: '2026-03-28T19:56:09.392108Z'
+created: '2026-03-29T06:30:13.639491Z'
 description: A type of fat stored in the body. Elevated levels increase cardiovascular
   disease risk and are associated with metabolic syndrome.
 dg-home: false
 dg-publish: true
-permalink: /entities/biomarker/triglycerides/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/triglycerides/
 slug: triglycerides
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Triglycerides
 type: biomarker
-updated: '2026-03-28T19:56:09.392108Z'
+updated: '2026-03-29T06:30:13.639491Z'
 ---
 
 {% raw %}
@@ -20,12 +21,12 @@ updated: '2026-03-28T19:56:09.392108Z'
 <p>A type of fat stored in the body. Elevated levels increase cardiovascular disease risk and are associated with metabolic syndrome.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/labtest/lipid-panel-standard/" class="internal-link">lipid_panel_standard</a><br />
-RELATED::<a href="/entities/labtest/advanced-lipid-panel/" class="internal-link">advanced_lipid_panel</a><br />
-RELATED::<a href="/entities/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a><br />
-RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
-RELATED::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a><br />
-RELATED::<a href="/entities/supplement/berberine/" class="internal-link">Berberine</a><br />
-RELATED::<a href="/entities/clinicalpattern/cardiovascular-risk-pattern/" class="internal-link">Cardiovascular_Risk_Pattern</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/lipid-panel-standard/" class="internal-link">lipid panel standard</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/advanced-lipid-panel/" class="internal-link">advanced lipid panel</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/berberine/" class="internal-link">Berberine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/clinicalpattern/cardiovascular-risk-pattern/" class="internal-link">Cardiovascular Risk Pattern</a></p>
 
 {% endraw %}

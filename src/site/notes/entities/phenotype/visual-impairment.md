@@ -1,9 +1,10 @@
 ---
-created: '2026-03-28T19:56:11.033800Z'
+created: '2026-03-29T06:30:14.924478Z'
 description: '...'
 dg-home: false
 dg-publish: true
-permalink: /entities/phenotype/visual-impairment/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/phenotype/visual-impairment/
 slug: visual-impairment
 tags:
 - phenotype
@@ -12,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Visual impairment
 type: phenotype
-updated: '2026-03-28T19:56:11.033800Z'
+updated: '2026-03-29T06:30:14.924478Z'
 ---
 
 {% raw %}
@@ -21,43 +22,43 @@ updated: '2026-03-28T19:56:11.033800Z'
 <p>...</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">45X46XY_mixed_gonadal_dysgenesis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Vogt-Koyanagi-Harada_disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Abnormality_of_vision</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">deafness_autosomal_recessive</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Visual_loss</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Marshall_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Visual_field_defect</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Kallmann_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">spondyloepiphyseal_dysplasia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Erdheim-Chester_disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">fish_eye_disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">DYRK1A-related_intellectual_disability_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Cerebral_visual_impairment</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Mobius_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">cerebellar_hypoplasia-tapetoretinal_degeneration_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">autoimmune_polyendocrine</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Reduced_visual_acuity</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">congenital_nystagmus</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">neurodevelopmental_disorder_with_dysmorphic_facies_and_distal_limb_anomalies</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">X-linked_intellectual_disability-hypotonia-movement_disorder_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Hallermann-Streiff_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">autosomal_recessive_nonsyndromic_deafness</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">progressive_external_ophthalmoplegia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">cone-rod_dystrophy</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">incontinentia_pigmenti</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">familial_benign_flecked_retina</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">45X46XY mixed gonadal dysgenesis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Vogt-Koyanagi-Harada disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Abnormality of vision</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">deafness autosomal recessive</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Visual loss</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Marshall syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Visual field defect</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Kallmann syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">spondyloepiphyseal dysplasia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Erdheim-Chester disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">fish eye disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">DYRK1A-related intellectual disability syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Cerebral visual impairment</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Mobius syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">cerebellar hypoplasia-tapetoretinal degeneration syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">autoimmune polyendocrine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Reduced visual acuity</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">congenital nystagmus</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">neurodevelopmental disorder with dysmorphic facies and distal limb anomalies</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">X-linked intellectual disability-hypotonia-movement disorder syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hallermann-Streiff syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">autosomal recessive nonsyndromic deafness</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">progressive external ophthalmoplegia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">cone-rod dystrophy</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">incontinentia pigmenti</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">familial benign flecked retina</a></p>
 <h3>Related To Phenotype</h3>
-<p>RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Cerebral_visual_impairment</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Visual_loss</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Visual_field_defect</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Abnormality_of_vision</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Reduced_visual_acuity</a></p>
+<p>RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Cerebral visual impairment</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Visual loss</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Visual field defect</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Abnormality of vision</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Reduced visual acuity</a></p>
 <h3>Excludes Phenotype</h3>
-<p>EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">congenital_nystagmus</a><br />
-EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">spondyloepiphyseal_dysplasia</a><br />
-EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">familial_benign_flecked_retina</a><br />
-EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">autosomal_recessive_nonsyndromic_deafness</a><br />
-EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">deafness_autosomal_recessive</a></p>
+<p>EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">congenital nystagmus</a><br />
+EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">spondyloepiphyseal dysplasia</a><br />
+EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">familial benign flecked retina</a><br />
+EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">autosomal recessive nonsyndromic deafness</a><br />
+EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">deafness autosomal recessive</a></p>
 
 {% endraw %}

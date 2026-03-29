@@ -1,11 +1,12 @@
 ---
-created: '2026-03-28T19:56:09.181222Z'
+created: '2026-03-29T06:30:13.477532Z'
 description: Superior cortical lobe between frontal and occipital lobes. Integrates
   sensory information for spatial awareness, attention, and body schema. Contains
   the somatosensory cortex.
 dg-home: false
 dg-publish: true
-permalink: /entities/Anatomy/parietal-lobe/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/Anatomy/parietal-lobe/
 slug: parietal-lobe
 tags:
 - Anatomy
@@ -16,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Parietal Lobe
 type: Anatomy
-updated: '2026-03-28T19:56:09.181222Z'
+updated: '2026-03-29T06:30:13.477532Z'
 ---
 
 {% raw %}
@@ -24,7 +25,7 @@ updated: '2026-03-28T19:56:09.181222Z'
 <h2>Description</h2>
 <p>Superior cortical lobe between frontal and occipital lobes. Integrates sensory information for spatial awareness, attention, and body schema. Contains the somatosensory cortex.</p>
 <h2>Relationships</h2>
-<p>SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/attention-and-focus/" class="internal-link">Attention and Focus</a><br />
-SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/executive-function/" class="internal-link">Executive Function</a></p>
+<p>SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/attention-and-focus/" class="internal-link">Attention and Focus</a><br />
+SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/executive-function/" class="internal-link">Executive Function</a></p>
 
 {% endraw %}

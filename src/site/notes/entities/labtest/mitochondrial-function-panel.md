@@ -1,11 +1,12 @@
 ---
-created: '2026-03-28T19:56:10.433281Z'
+created: '2026-03-29T06:30:14.425938Z'
 description: Comprehensive panel measuring key biomarkers of mitochondrial energy
   production capacity, including CoQ10, carnitine profile, lactate/pyruvate ratio,
   and organic acid intermediates from the TCA cycle and fatty acid oxidation.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/mitochondrial-function-panel/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/mitochondrial-function-panel/
 slug: mitochondrial-function-panel
 tags:
 - labtest
@@ -15,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Mitochondrial Function Panel
 type: labtest
-updated: '2026-03-28T19:56:10.433281Z'
+updated: '2026-03-29T06:30:14.425938Z'
 ---
 
 {% raw %}
@@ -82,10 +83,10 @@ updated: '2026-03-28T19:56:10.433281Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Coenzyme Q10</a><br />
-RELATED::<a href="/entities/supplement/l-carnitine/" class="internal-link">L-Carnitine</a><br />
-RELATED::<a href="/entities/metabolite/lactate/" class="internal-link">Lactate</a><br />
-RELATED::<a href="/entities/labtest/organic-acids-test/" class="internal-link">Organic Acids Test</a><br />
-RELATED::<a href="/entities/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a></p>
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/l-carnitine/" class="internal-link">L-Carnitine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/lactate/" class="internal-link">Lactate</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/organic-acids-test/" class="internal-link">Organic Acids Test</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a></p>
 <h2>References</h2>
 <ul>
 <li>Parikh S et al. Diagnosis and management of mitochondrial disease: a consensus statement. Genet Med. 2015;17(9):689-701. PMID:25503498</li>

@@ -1,10 +1,11 @@
 ---
-created: '2026-03-28T19:56:11.065078Z'
+created: '2026-03-29T06:30:14.962311Z'
 description: Encodes CCCTC-binding factor, a master regulator of chromatin architecture
   and gene expression.
 dg-home: false
 dg-publish: true
-permalink: /entities/gene/ctcf/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/gene/ctcf/
 slug: ctcf
 tags:
 - gene
@@ -16,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: CTCF
 type: gene
-updated: '2026-03-28T19:56:11.065078Z'
+updated: '2026-03-29T06:30:14.962311Z'
 ---
 
 {% raw %}

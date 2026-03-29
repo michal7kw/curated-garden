@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:56:10.676635Z'
+created: '2026-03-29T06:30:14.643866Z'
 description: Food-specific IgG testing identifies immunoglobulin G (IgG) responses
   associated with potential food sensitivities or intolerances. Unlike IgE-mediated
   allergies, which cause immediate reactions, IgG responses are linked to delayed
@@ -11,14 +11,15 @@ description: Food-specific IgG testing identifies immunoglobulin G (IgG) respons
   Cacao Sensitivity
 dg-home: false
 dg-publish: true
-permalink: /entities/labtestpanel/food-sensitivities-igg/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtestpanel/food-sensitivities-igg/
 slug: food-sensitivities-igg
 tags:
 - labtestpanel
 templateEngineOverride: njk
 title: food_sensitivities_igg
 type: labtestpanel
-updated: '2026-03-28T19:56:10.676635Z'
+updated: '2026-03-29T06:30:14.643866Z'
 ---
 
 {% raw %}

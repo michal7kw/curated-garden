@@ -1,12 +1,13 @@
 ---
-created: '2026-03-28T19:56:10.142560Z'
+created: '2026-03-29T06:30:14.214652Z'
 description: Amylase is a digestive enzyme made by the salivary glands and pancreas
   that helps break down complex carbohydrates from food into usable energy. Abnormal
   levels can be an early sign of problems in the salivary glands, strain on the digestive
   system due to celiac disease or IBD, and pancreatic stress.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/amylase/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/amylase/
 slug: amylase
 tags:
 - labtest
@@ -15,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: amylase
 type: labtest
-updated: '2026-03-28T19:56:10.142560Z'
+updated: '2026-03-29T06:30:14.214652Z'
 ---
 
 {% raw %}
@@ -63,15 +64,15 @@ updated: '2026-03-28T19:56:10.142560Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Salivary_Gland_Inflammation_Like_In_Mumps</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Stomach_Flu_Gastroenteritis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Bowel_Blockage_Or_Perforation</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Pancreatitis_Acute_Or_Chronic</a><br />
-RELATED::<a href="/entities/condition/gallbladder-disease/" class="internal-link">Gallbladder_Disease</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Salivary Gland Inflammation Like In Mumps</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Stomach Flu Gastroenteritis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Bowel Blockage Or Perforation</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Pancreatitis Acute Or Chronic</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/gallbladder-disease/" class="internal-link">Gallbladder Disease</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/entities/condition/gallbladder-disease/" class="internal-link">Gallbladder_Disease</a></p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/gallbladder-disease/" class="internal-link">Gallbladder Disease</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/gallbladder-disease/" class="internal-link">Gallbladder_Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/gallbladder-disease/" class="internal-link">Gallbladder Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

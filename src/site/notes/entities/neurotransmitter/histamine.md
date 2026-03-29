@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:56:10.768023Z'
+created: '2026-03-29T06:30:14.747389Z'
 description: Biogenic amine neurotransmitter and immune mediator synthesized from
   histidine by histidine decarboxylase. Functions as neurotransmitter (wakefulness,
   cognition), immune modulator (allergic response, inflammation), and gastric acid
@@ -7,7 +7,8 @@ description: Biogenic amine neurotransmitter and immune mediator synthesized fro
   distribution.
 dg-home: false
 dg-publish: true
-permalink: /entities/neurotransmitter/histamine/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/neurotransmitter/histamine/
 slug: histamine
 tags:
 - neurotransmitter
@@ -18,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Histamine
 type: neurotransmitter
-updated: '2026-03-28T19:56:10.768023Z'
+updated: '2026-03-29T06:30:14.747389Z'
 ---
 
 {% raw %}
@@ -38,8 +39,8 @@ updated: '2026-03-28T19:56:10.768023Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
-RELATED::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
-RELATED::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/gaba/" class="internal-link">GABA</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/serotonin/" class="internal-link">Serotonin</a></p>
 
 {% endraw %}

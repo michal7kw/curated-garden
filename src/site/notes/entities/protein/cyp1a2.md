@@ -1,12 +1,13 @@
 ---
-created: '2026-03-28T19:56:11.068972Z'
+created: '2026-03-29T06:30:14.965975Z'
 description: Cytochrome P450 1A2, a major drug-metabolizing enzyme responsible for
   the metabolism of caffeine, theophylline, clozapine, and olanzapine. Uniquely inducible
   by smoking and dietary components (cruciferous vegetables, chargrilled meat) and
   inhibited by fluvoxamine and ciprofloxacin.
 dg-home: false
 dg-publish: true
-permalink: /entities/protein/cyp1a2/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/protein/cyp1a2/
 slug: cyp1a2
 tags:
 - protein
@@ -16,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: CYP1A2
 type: protein
-updated: '2026-03-28T19:56:11.068972Z'
+updated: '2026-03-29T06:30:14.965975Z'
 ---
 
 {% raw %}
@@ -39,12 +40,12 @@ updated: '2026-03-28T19:56:11.068972Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/gene/cyp3a4/" class="internal-link">CYP3A4</a><br />
-RELATED::<a href="/entities/drug/caffeine/" class="internal-link">Caffeine</a><br />
-RELATED::<a href="/entities/organ/liver/" class="internal-link">Liver</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/gene/cyp3a4/" class="internal-link">CYP3A4</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/drug/caffeine/" class="internal-link">Caffeine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/organ/liver/" class="internal-link">Liver</a></p>
 <h3>Metabolizes</h3>
-<p>RELATED::<a href="/entities/drug/clozapine/" class="internal-link">Clozapine</a><br />
-RELATED::<a href="/entities/drug/omeprazole/" class="internal-link">Omeprazole</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/drug/clozapine/" class="internal-link">Clozapine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/drug/omeprazole/" class="internal-link">Omeprazole</a></p>
 <h2>References</h2>
 <ul>
 <li>Zhou SF et al. Polymorphism of human cytochrome P450 enzymes and its clinical impact. Drug Metab Rev. 2009;41(2):89-295. PMID:19514967</li>

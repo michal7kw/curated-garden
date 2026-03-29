@@ -1,19 +1,20 @@
 ---
-created: '2026-03-28T19:56:10.383383Z'
+created: '2026-03-29T06:30:14.386992Z'
 description: Leukocyte esterase in urine is an enzyme released by white blood cells
   (WBCs), and its presence in urine often signals the body is responding to infection
   or inflammation in the urinary tract. A positive result suggests a possible urinary
   tract infection (UTI) or another inflammatory process in the urinary tract.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/leukocyte-esterase-urine/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/leukocyte-esterase-urine/
 slug: leukocyte-esterase-urine
 tags:
 - labtest
 templateEngineOverride: njk
 title: leukocyte_esterase_urine
 type: labtest
-updated: '2026-03-28T19:56:10.383383Z'
+updated: '2026-03-29T06:30:14.386992Z'
 ---
 
 {% raw %}
@@ -61,15 +62,15 @@ updated: '2026-03-28T19:56:10.383383Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/condition/interstitial-cystitis/" class="internal-link">Interstitial_Cystitis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Infection</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Urinary_Tract_Inflammation</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Bladder_Inflammation</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Urinary_Tract_Infection_Uti</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/interstitial-cystitis/" class="internal-link">Interstitial Cystitis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Infection</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Urinary Tract Inflammation</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Bladder Inflammation</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Urinary Tract Infection Uti</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/entities/condition/interstitial-cystitis/" class="internal-link">Interstitial_Cystitis</a></p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/interstitial-cystitis/" class="internal-link">Interstitial Cystitis</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/interstitial-cystitis/" class="internal-link">Interstitial_Cystitis</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/interstitial-cystitis/" class="internal-link">Interstitial Cystitis</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

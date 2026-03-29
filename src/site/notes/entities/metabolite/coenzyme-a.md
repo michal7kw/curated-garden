@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:56:10.709876Z'
+created: '2026-03-29T06:30:14.686747Z'
 description: Essential cofactor derived from pantothenic acid (vitamin B5) and cysteine.
   Carries acyl groups via its terminal thiol, enabling fatty acid oxidation, TCA cycle
   function, and numerous biosynthetic reactions. Acetyl-CoA (its acetylated form)
@@ -7,7 +7,8 @@ description: Essential cofactor derived from pantothenic acid (vitamin B5) and c
   and the TCA cycle.
 dg-home: false
 dg-publish: true
-permalink: /entities/metabolite/coenzyme-a/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/metabolite/coenzyme-a/
 slug: coenzyme-a
 tags:
 - metabolite
@@ -18,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Coenzyme A
 type: metabolite
-updated: '2026-03-28T19:56:10.709876Z'
+updated: '2026-03-29T06:30:14.686747Z'
 ---
 
 {% raw %}
@@ -27,8 +28,8 @@ updated: '2026-03-28T19:56:10.709876Z'
 <p>Essential cofactor derived from pantothenic acid (vitamin B5) and cysteine. Carries acyl groups via its terminal thiol, enabling fatty acid oxidation, TCA cycle function, and numerous biosynthetic reactions. Acetyl-CoA (its acetylated form) is the central metabolic intermediate connecting glycolysis, fatty acid metabolism, and the TCA cycle.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
-RELATED::<a href="/entities/metabolite/acetyl-coa/" class="internal-link">Acetyl-CoA</a><br />
-RELATED::<a href="/entities/metabolite/citrate/" class="internal-link">Citrate</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/acetyl-coa/" class="internal-link">Acetyl-CoA</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/citrate/" class="internal-link">Citrate</a></p>
 
 {% endraw %}

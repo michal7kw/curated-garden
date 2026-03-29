@@ -1,11 +1,12 @@
 ---
-created: '2026-03-28T19:56:09.182242Z'
+created: '2026-03-29T06:30:13.478538Z'
 description: Anterior portion of the frontal lobe, the most evolved region of the
   human brain. Mediates executive function, decision-making, personality expression,
   and social behavior.
 dg-home: false
 dg-publish: true
-permalink: /entities/Anatomy/prefrontal-cortex/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/Anatomy/prefrontal-cortex/
 slug: prefrontal-cortex
 tags:
 - Anatomy
@@ -16,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Prefrontal Cortex
 type: Anatomy
-updated: '2026-03-28T19:56:09.182242Z'
+updated: '2026-03-29T06:30:13.478538Z'
 ---
 
 {% raw %}
@@ -32,10 +33,10 @@ updated: '2026-03-28T19:56:09.182242Z'
 <li><strong>Frontopolar cortex</strong> — Multitasking, future planning</li>
 </ul>
 <h2>Relationships</h2>
-<p>SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/executive-function/" class="internal-link">Executive Function</a><br />
-SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a><br />
-SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/attention-and-focus/" class="internal-link">Attention and Focus</a><br />
-SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/emotional-regulation/" class="internal-link">Emotional Regulation</a><br />
+<p>SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/executive-function/" class="internal-link">Executive Function</a><br />
+SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a><br />
+SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/attention-and-focus/" class="internal-link">Attention and Focus</a><br />
+SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/emotional-regulation/" class="internal-link">Emotional Regulation</a><br />
 SUPPORTS_FUNCTION::<a class="internal-link is-unresolved" href="/404">Reward and Motivation</a><br />
 SUPPORTS_FUNCTION::<a class="internal-link is-unresolved" href="/404">Motor Control</a></p>
 

@@ -1,10 +1,11 @@
 ---
-created: '2026-03-28T19:56:09.968327Z'
+created: '2026-03-29T06:30:14.058535Z'
 description: A potassium salt form of Penicillin G, used for rapid treatment of severe
   bacterial infections through intravenous or intramuscular routes.
 dg-home: false
 dg-publish: true
-permalink: /entities/drug/penicillin-g-potassium/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/drug/penicillin-g-potassium/
 slug: penicillin-g-potassium
 tags:
 - drug
@@ -14,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Penicillin G Potassium
 type: drug
-updated: '2026-03-28T19:56:09.968327Z'
+updated: '2026-03-29T06:30:14.058535Z'
 ---
 
 {% raw %}

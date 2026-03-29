@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:56:10.759723Z'
+created: '2026-03-29T06:30:14.741732Z'
 description: Family of endogenous opioid neuropeptides (beta-endorphin, enkephalins,
   dynorphins) produced primarily in the hypothalamus and pituitary gland. Bind to
   mu, delta, and kappa opioid receptors to modulate pain perception, reward, stress
@@ -7,7 +7,8 @@ description: Family of endogenous opioid neuropeptides (beta-endorphin, enkephal
   potency ~18-33x morphine.
 dg-home: false
 dg-publish: true
-permalink: /entities/neurotransmitter/endorphins/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/neurotransmitter/endorphins/
 slug: endorphins
 tags:
 - neurotransmitter
@@ -19,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Endorphins
 type: neurotransmitter
-updated: '2026-03-28T19:56:10.759723Z'
+updated: '2026-03-29T06:30:14.741732Z'
 ---
 
 {% raw %}
@@ -32,9 +33,9 @@ updated: '2026-03-28T19:56:10.759723Z'
 <p>Enkephalinase and aminopeptidase cleavage</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
-RELATED::<a href="/entities/intervention/exercise/" class="internal-link">Exercise</a><br />
-RELATED::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
-RELATED::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/exercise/" class="internal-link">Exercise</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
 
 {% endraw %}

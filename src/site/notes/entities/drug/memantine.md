@@ -1,10 +1,11 @@
 ---
-created: '2026-03-28T19:56:09.946107Z'
+created: '2026-03-29T06:30:14.045642Z'
 description: Uncompetitive NMDA receptor antagonist. Protects neurons from excitotoxicity.
   Used for moderate to severe Alzheimer's disease.
 dg-home: false
 dg-publish: true
-permalink: /entities/drug/memantine/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/drug/memantine/
 slug: memantine
 tags:
 - drug
@@ -14,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Memantine
 type: drug
-updated: '2026-03-28T19:56:09.946107Z'
+updated: '2026-03-29T06:30:14.045642Z'
 ---
 
 {% raw %}
@@ -23,13 +24,13 @@ updated: '2026-03-28T19:56:09.946107Z'
 <p>Uncompetitive NMDA receptor antagonist. Protects neurons from excitotoxicity. Used for moderate to severe Alzheimer's disease.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/drug/quetiapine/" class="internal-link">Quetiapine</a><br />
-RELATED::<a href="/entities/drug/imipramine/" class="internal-link">Imipramine</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">NMDA_Receptor</a><br />
-RELATED::<a href="/entities/neurotransmitter/glutamate/" class="internal-link">Glutamate</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/drug/quetiapine/" class="internal-link">Quetiapine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/drug/imipramine/" class="internal-link">Imipramine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers Disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">NMDA Receptor</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/glutamate/" class="internal-link">Glutamate</a></p>
 <h3>Interacts With</h3>
-<p>INTERACTS_WITH::<a href="/entities/drug/quetiapine/" class="internal-link">Quetiapine</a><br />
-INTERACTS_WITH::<a href="/entities/drug/imipramine/" class="internal-link">Imipramine</a></p>
+<p>INTERACTS_WITH::<a href="/garden/michal.k7w@gmail.com/drug/quetiapine/" class="internal-link">Quetiapine</a><br />
+INTERACTS_WITH::<a href="/garden/michal.k7w@gmail.com/drug/imipramine/" class="internal-link">Imipramine</a></p>
 
 {% endraw %}

@@ -1,18 +1,19 @@
 ---
-created: '2026-03-28T19:56:10.500810Z'
+created: '2026-03-29T06:30:14.489405Z'
 description: Procalcitonin (PCT) test. Serum biomarker that rises specifically in
   response to bacterial infections. Used to guide initiation and discontinuation of
   antibiotic therapy, particularly in sepsis and lower respiratory tract infections.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/procalcitonin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/procalcitonin/
 slug: procalcitonin
 tags:
 - labtest
 templateEngineOverride: njk
 title: procalcitonin
 type: labtest
-updated: '2026-03-28T19:56:10.500810Z'
+updated: '2026-03-29T06:30:14.489405Z'
 ---
 
 {% raw %}
@@ -54,7 +55,7 @@ updated: '2026-03-28T19:56:10.500810Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/entities/labtest/procalcitonin/" class="internal-link">procalcitonin</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/procalcitonin/" class="internal-link">procalcitonin</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -65,9 +66,9 @@ updated: '2026-03-28T19:56:10.500810Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/urinary-tract-infection/" class="internal-link">Urinary_Tract_Infection</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/meningitis/" class="internal-link">Meningitis</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/pneumonia/" class="internal-link">Pneumonia</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/urinary-tract-infection/" class="internal-link">Urinary Tract Infection</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/meningitis/" class="internal-link">Meningitis</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/pneumonia/" class="internal-link">Pneumonia</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

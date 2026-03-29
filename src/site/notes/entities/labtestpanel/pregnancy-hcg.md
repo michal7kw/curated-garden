@@ -1,16 +1,17 @@
 ---
-created: '2026-03-28T19:56:10.697899Z'
+created: '2026-03-29T06:30:14.666234Z'
 description: This test will help determine if you are pregnant.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtestpanel/pregnancy-hcg/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtestpanel/pregnancy-hcg/
 slug: pregnancy-hcg
 tags:
 - labtestpanel
 templateEngineOverride: njk
 title: pregnancy_hcg
 type: labtestpanel
-updated: '2026-03-28T19:56:10.697899Z'
+updated: '2026-03-29T06:30:14.666234Z'
 ---
 
 {% raw %}
@@ -19,11 +20,11 @@ updated: '2026-03-28T19:56:10.697899Z'
 <p>This test will help determine if you are pregnant.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/labtest/follicle-stimulating-hormone/" class="internal-link">follicle_stimulating_hormone</a><br />
-RELATED::<a href="/entities/labtest/luteinizing-hormone/" class="internal-link">luteinizing_hormone</a><br />
-RELATED::<a href="/entities/labtest/dhea-sulfate/" class="internal-link">dhea_sulfate</a><br />
-RELATED::<a href="/entities/labtest/sex-hormone-binding-globulin-shbg/" class="internal-link">sex_hormone_binding_globulin_shbg</a><br />
-RELATED::<a href="/entities/labtest/prolactin/" class="internal-link">prolactin</a><br />
-RELATED::<a href="/entities/labtest/anti-mullerian-hormone/" class="internal-link">anti_mullerian_hormone</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/follicle-stimulating-hormone/" class="internal-link">follicle stimulating hormone</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/luteinizing-hormone/" class="internal-link">luteinizing hormone</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/dhea-sulfate/" class="internal-link">dhea sulfate</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/sex-hormone-binding-globulin-shbg/" class="internal-link">sex hormone binding globulin shbg</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/prolactin/" class="internal-link">prolactin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/anti-mullerian-hormone/" class="internal-link">anti mullerian hormone</a></p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:56:10.700448Z'
+created: '2026-03-29T06:30:14.669777Z'
 description: Tests for latent viruses like Epstein-Barr virus (EBV), herpesviruses,
   cytomegalovirus (CMV), and hepatitis B and C, which helps identify infections that
   can remain dormant in the body and reactivate under certain conditions, particularly
@@ -17,14 +17,15 @@ description: Tests for latent viruses like Epstein-Barr virus (EBV), herpesvirus
   (IgG) Hepatitis C Antibody Epstein-Barr Virus Early Antigen D Antibody (IgG)
 dg-home: false
 dg-publish: true
-permalink: /entities/labtestpanel/viral-antibodies/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtestpanel/viral-antibodies/
 slug: viral-antibodies
 tags:
 - labtestpanel
 templateEngineOverride: njk
 title: viral_antibodies
 type: labtestpanel
-updated: '2026-03-28T19:56:10.700448Z'
+updated: '2026-03-29T06:30:14.669777Z'
 ---
 
 {% raw %}

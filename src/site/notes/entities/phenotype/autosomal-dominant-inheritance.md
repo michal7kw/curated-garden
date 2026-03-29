@@ -1,9 +1,10 @@
 ---
-created: '2026-03-28T19:56:10.936930Z'
+created: '2026-03-29T06:30:14.862137Z'
 description: '...'
 dg-home: false
 dg-publish: true
-permalink: /entities/phenotype/autosomal-dominant-inheritance/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/phenotype/autosomal-dominant-inheritance/
 slug: autosomal-dominant-inheritance
 tags:
 - phenotype
@@ -12,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Autosomal dominant inheritance
 type: phenotype
-updated: '2026-03-28T19:56:10.936930Z'
+updated: '2026-03-29T06:30:14.862137Z'
 ---
 
 {% raw %}
@@ -21,55 +22,55 @@ updated: '2026-03-28T19:56:10.936930Z'
 <p>...</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">neurofibromatosis_type_IV_of_Riccardi</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Mode_of_inheritance</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">cleft_palate-lateral_synechia_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">jaw-winking_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">fleck_corneal_dystrophy</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">chromosome_1q211_duplication_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">nasal_hyperpigmentation_familial_transverse</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">ainhum_disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">distal_myopathy_with_posterior_leg_and_anterior_hand_involvement</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">familial_multiple_nevi_flammei</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">interventricular_septum_aneurysm</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">esophageal_ring_lower</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">snijders_blok-fisher_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">global_developmental_delay_absent_or_hypoplastic_corpus_callosum_and_dysmorphic_facies</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Wolf-Hirschhorn_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">delayed_speech-facial_asymmetry-strabismus-ear_lobe_creases_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">goiter_multinodular_1_with_or_without_Sertoli-Leydig_cell_tumors</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">annular_epidermolytic_ichthyosis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">brachydactyly-arterial_hypertension_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">congenital_laryngeal_web</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Undritz_anomaly</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Autosomal_dominant_contiguous_gene_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">glaucoma_3_primary_congenital</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Autosomal_dominant_somatic_cell_mutation</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">IMAGe_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Kyrle_disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Sex-limited_autosomal_dominant</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Autosomal_dominant_germline_de_novo_mutation</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">familial_amyloid_neuropathy</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">familial_encephalopathy_with_neuroserpin_inclusion_bodies</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">insomnia_disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">parkinson_disease_autosomal_dominant</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Autosomal_dominant_inheritance_with_paternal_imprinting</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">genitourinary_andor_brain_malformation_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">cleft_palate-large_ears-small_head_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">chromosome_15q25_deletion_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">branchiogenic_deafness_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">hereditary_coproporphyria</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Autosomal_dominant_inheritance_with_maternal_imprinting</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">abdominal_obesity-metabolic_syndrome_quantitative_trait_locus_2</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">parotid_salivary_glands_polycystic_dysgenetic_disease_of</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">congenital_alveolar_capillary_dysplasia</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">neurofibromatosis type IV of Riccardi</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Mode of inheritance</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">cleft palate-lateral synechia syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">jaw-winking syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">fleck corneal dystrophy</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">chromosome 1q211 duplication syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">nasal hyperpigmentation familial transverse</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">ainhum disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">distal myopathy with posterior leg and anterior hand involvement</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">familial multiple nevi flammei</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">interventricular septum aneurysm</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">esophageal ring lower</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">snijders blok-fisher syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">global developmental delay absent or hypoplastic corpus callosum and dysmorphic facies</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Wolf-Hirschhorn syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">delayed speech-facial asymmetry-strabismus-ear lobe creases syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">goiter multinodular 1 with or without Sertoli-Leydig cell tumors</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">annular epidermolytic ichthyosis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">brachydactyly-arterial hypertension syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">congenital laryngeal web</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Undritz anomaly</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Autosomal dominant contiguous gene syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">glaucoma 3 primary congenital</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Autosomal dominant somatic cell mutation</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">IMAGe syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Kyrle disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Sex-limited autosomal dominant</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Autosomal dominant germline de novo mutation</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">familial amyloid neuropathy</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">familial encephalopathy with neuroserpin inclusion bodies</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">insomnia disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">parkinson disease autosomal dominant</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Autosomal dominant inheritance with paternal imprinting</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">genitourinary andor brain malformation syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">cleft palate-large ears-small head syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">chromosome 15q25 deletion syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">branchiogenic deafness syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">hereditary coproporphyria</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Autosomal dominant inheritance with maternal imprinting</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">abdominal obesity-metabolic syndrome quantitative trait locus 2</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">parotid salivary glands polycystic dysgenetic disease of</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">congenital alveolar capillary dysplasia</a></p>
 <h3>Related To Phenotype</h3>
-<p>RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Sex-limited_autosomal_dominant</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Mode_of_inheritance</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Autosomal_dominant_somatic_cell_mutation</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Autosomal_dominant_contiguous_gene_syndrome</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Autosomal_dominant_inheritance_with_maternal_imprinting</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Autosomal_dominant_inheritance_with_paternal_imprinting</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Autosomal_dominant_germline_de_novo_mutation</a></p>
+<p>RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Sex-limited autosomal dominant</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Mode of inheritance</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Autosomal dominant somatic cell mutation</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Autosomal dominant contiguous gene syndrome</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Autosomal dominant inheritance with maternal imprinting</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Autosomal dominant inheritance with paternal imprinting</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Autosomal dominant germline de novo mutation</a></p>
 
 {% endraw %}

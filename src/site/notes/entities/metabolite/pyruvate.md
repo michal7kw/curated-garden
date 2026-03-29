@@ -1,11 +1,12 @@
 ---
-created: '2026-03-28T19:56:10.737858Z'
+created: '2026-03-29T06:30:14.723263Z'
 description: Pyruvic acid, the three-carbon end product of glycolysis. Represents
   a critical metabolic branch point that can enter the mitochondria for complete oxidation,
   be reduced to lactate for anaerobic energy, or converted to glucose via gluconeogenesis.
 dg-home: false
 dg-publish: true
-permalink: /entities/metabolite/pyruvate/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/metabolite/pyruvate/
 slug: pyruvate
 tags:
 - metabolite
@@ -16,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Pyruvate
 type: metabolite
-updated: '2026-03-28T19:56:10.737858Z'
+updated: '2026-03-29T06:30:14.723263Z'
 ---
 
 {% raw %}
@@ -25,6 +26,6 @@ updated: '2026-03-28T19:56:10.737858Z'
 <p>Pyruvic acid, the three-carbon end product of glycolysis. Represents a critical metabolic branch point that can enter the mitochondria for complete oxidation, be reduced to lactate for anaerobic energy, or converted to glucose via gluconeogenesis.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 
 {% endraw %}

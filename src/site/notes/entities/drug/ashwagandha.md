@@ -1,11 +1,12 @@
 ---
-created: '2026-03-28T19:56:09.885439Z'
+created: '2026-03-29T06:30:14.010552Z'
 description: Ashwagandha (Withania somnifera) is an adaptogenic herb widely used in
   Ayurvedic medicine for its ability to help the body manage stress, improve energy
   levels, and promote overall well-being.
 dg-home: false
 dg-publish: true
-permalink: /entities/drug/ashwagandha/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/drug/ashwagandha/
 slug: ashwagandha
 tags:
 - drug
@@ -16,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Ashwagandha
 type: drug
-updated: '2026-03-28T19:56:09.885439Z'
+updated: '2026-03-29T06:30:14.010552Z'
 ---
 
 {% raw %}
@@ -25,17 +26,17 @@ updated: '2026-03-28T19:56:09.885439Z'
 <p>Ashwagandha (Withania somnifera) is an adaptogenic herb widely used in Ayurvedic medicine for its ability to help the body manage stress, improve energy levels, and promote overall well-being.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
-RELATED::<a href="/entities/organ/thyroid/" class="internal-link">Thyroid</a><br />
-RELATED::<a href="/entities/supplement/rhodiola-rosea/" class="internal-link">Rhodiola_Rosea</a><br />
-RELATED::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
-RELATED::<a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a><br />
-RELATED::<a href="/entities/hormone/thyroid-hormones/" class="internal-link">Thyroid_Hormones</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">supplement_regimen</a><br />
-RELATED::<a href="/entities/organ/adrenal-glands/" class="internal-link">Adrenal_Glands</a><br />
-RELATED::<a href="/entities/supplement/bacopa-monnieri/" class="internal-link">Bacopa_Monnieri</a><br />
-RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
-RELATED::<a href="/entities/phenotype/anxiety/" class="internal-link">Anxiety</a><br />
-RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/organ/thyroid/" class="internal-link">Thyroid</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/rhodiola-rosea/" class="internal-link">Rhodiola Rosea</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/gaba/" class="internal-link">GABA</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/magnesium/" class="internal-link">Magnesium</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/hormone/thyroid-hormones/" class="internal-link">Thyroid Hormones</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">supplement regimen</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/organ/adrenal-glands/" class="internal-link">Adrenal Glands</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/bacopa-monnieri/" class="internal-link">Bacopa Monnieri</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/phenotype/anxiety/" class="internal-link">Anxiety</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
 
 {% endraw %}

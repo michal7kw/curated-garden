@@ -1,19 +1,20 @@
 ---
-created: '2026-03-28T19:56:10.375310Z'
+created: '2026-03-29T06:30:14.379739Z'
 description: LDL particles can be small, medium, or large. Smaller, denser particles
   are considered more harmful because they more easily enter artery walls, promote
   inflammation, and raise the risk of plaque buildup and cardiovascular disease. Larger
   particles are less likely to do this and are generally considered less harmful.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/ldl-small/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/ldl-small/
 slug: ldl-small
 tags:
 - labtest
 templateEngineOverride: njk
 title: ldl_small
 type: labtest
-updated: '2026-03-28T19:56:10.375310Z'
+updated: '2026-03-29T06:30:14.379739Z'
 ---
 
 {% raw %}
@@ -61,18 +62,18 @@ updated: '2026-03-28T19:56:10.375310Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a><br />
-RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
-RELATED::<a href="/entities/labtestpanel/genetic-heart-risks/" class="internal-link">genetic_heart_risks</a><br />
-RELATED::<a href="/entities/labtestpanel/extended-heart-metabolic/" class="internal-link">extended_heart_metabolic</a><br />
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/genetic-heart-risks/" class="internal-link">genetic heart risks</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-heart-metabolic/" class="internal-link">extended heart metabolic</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hyperlipidemia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Atherosclerosis</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
-MAY_DETECT::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a></p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/entities/labtestpanel/extended-heart-metabolic/" class="internal-link">extended_heart_metabolic</a><br />
-INCLUDED_IN::<a href="/entities/labtestpanel/genetic-heart-risks/" class="internal-link">genetic_heart_risks</a></p>
+<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-heart-metabolic/" class="internal-link">extended heart metabolic</a><br />
+INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/genetic-heart-risks/" class="internal-link">genetic heart risks</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

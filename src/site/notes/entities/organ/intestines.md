@@ -1,11 +1,12 @@
 ---
-created: '2026-03-28T19:56:10.798321Z'
+created: '2026-03-29T06:30:14.768780Z'
 description: The long, continuous tube running from the stomach to the anus, comprising
   the small and large intestines. Critical for nutrient absorption, immune function,
   and housing the gut microbiome.
 dg-home: false
 dg-publish: true
-permalink: /entities/organ/intestines/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/organ/intestines/
 slug: intestines
 tags:
 - organ
@@ -15,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Intestines
 type: organ
-updated: '2026-03-28T19:56:10.798321Z'
+updated: '2026-03-29T06:30:14.768780Z'
 ---
 
 {% raw %}
@@ -24,6 +25,6 @@ updated: '2026-03-28T19:56:10.798321Z'
 <p>The long, continuous tube running from the stomach to the anus, comprising the small and large intestines. Critical for nutrient absorption, immune function, and housing the gut microbiome.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/organ/gut/" class="internal-link">Gut</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/organ/gut/" class="internal-link">Gut</a></p>
 
 {% endraw %}

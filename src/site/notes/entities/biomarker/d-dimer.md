@@ -1,18 +1,19 @@
 ---
-created: '2026-03-28T19:56:09.238603Z'
+created: '2026-03-29T06:30:13.530812Z'
 description: D-Dimer is a fibrin degradation product released when cross-linked fibrin
   is broken down by plasmin, serving as a sensitive marker for the presence of intravascular
   clot formation and fibrinolysis.
 dg-home: false
 dg-publish: true
-permalink: /entities/biomarker/d-dimer/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/d-dimer/
 slug: d-dimer
 tags:
 - biomarker
 templateEngineOverride: njk
 title: D-Dimer
 type: biomarker
-updated: '2026-03-28T19:56:09.238603Z'
+updated: '2026-03-29T06:30:13.530812Z'
 ---
 
 {% raw %}
@@ -21,9 +22,9 @@ updated: '2026-03-28T19:56:09.238603Z'
 <p>D-Dimer is a fibrin degradation product released when cross-linked fibrin is broken down by plasmin, serving as a sensitive marker for the presence of intravascular clot formation and fibrinolysis.</p>
 <h2>Relationships</h2>
 <h3>Correlated With</h3>
-<p>CORRELATED_WITH::<a href="/entities/labtest/fibrinogen/" class="internal-link">Fibrinogen</a><br />
-CORRELATED_WITH::<a href="/entities/biomarker/platelets/" class="internal-link">Platelets</a></p>
+<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/fibrinogen/" class="internal-link">Fibrinogen</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/platelets/" class="internal-link">Platelets</a></p>
 <h3>Activates</h3>
-<p>ACTIVATES::<a href="/entities/labtest/fibrinogen/" class="internal-link">Fibrinogen</a></p>
+<p>ACTIVATES::<a href="/garden/michal.k7w@gmail.com/labtest/fibrinogen/" class="internal-link">Fibrinogen</a></p>
 
 {% endraw %}

@@ -1,11 +1,12 @@
 ---
-created: '2026-03-28T19:56:09.171706Z'
+created: '2026-03-29T06:30:13.466083Z'
 description: C-shaped basal ganglia structure involved in motor planning, procedural
   learning, and reward processing. Part of the dorsal striatum, receives cortical
   input and projects to globus pallidus.
 dg-home: false
 dg-publish: true
-permalink: /entities/Anatomy/caudate-nucleus/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/Anatomy/caudate-nucleus/
 slug: caudate-nucleus
 tags:
 - Anatomy
@@ -16,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Caudate Nucleus
 type: Anatomy
-updated: '2026-03-28T19:56:09.171706Z'
+updated: '2026-03-29T06:30:13.466083Z'
 ---
 
 {% raw %}
@@ -25,7 +26,7 @@ updated: '2026-03-28T19:56:09.171706Z'
 <p>C-shaped basal ganglia structure involved in motor planning, procedural learning, and reward processing. Part of the dorsal striatum, receives cortical input and projects to globus pallidus.</p>
 <h2>Relationships</h2>
 <p>SUPPORTS_FUNCTION::<a class="internal-link is-unresolved" href="/404">Motor Control</a><br />
-SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/executive-function/" class="internal-link">Executive Function</a><br />
+SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/executive-function/" class="internal-link">Executive Function</a><br />
 SUPPORTS_FUNCTION::<a class="internal-link is-unresolved" href="/404">Reward and Motivation</a></p>
 
 {% endraw %}

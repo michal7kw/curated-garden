@@ -1,11 +1,12 @@
 ---
-created: '2026-03-28T19:56:11.273492Z'
+created: '2026-03-29T06:30:15.115686Z'
 description: Essential amino acid and precursor to serotonin and melatonin. The rate-limiting
   substrate for serotonin synthesis, commonly used to support mood, sleep, and stress
   resilience.
 dg-home: false
 dg-publish: true
-permalink: /entities/supplement/l-tryptophan/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/supplement/l-tryptophan/
 slug: l-tryptophan
 tags:
 - supplement
@@ -17,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: L-Tryptophan
 type: supplement
-updated: '2026-03-28T19:56:11.273492Z'
+updated: '2026-03-29T06:30:15.115686Z'
 ---
 
 {% raw %}
@@ -27,11 +28,11 @@ updated: '2026-03-28T19:56:11.273492Z'
 <p><strong>Research Summary:</strong> Tryptophan depletion studies demonstrate its critical role in serotonin synthesis and mood regulation. More gradual serotonin increase compared to 5-HTP. Less risk of serotonin syndrome.</p>
 <h2>Relationships</h2>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a></p>
+<p>AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">Cortisol</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/sleep-disorder/" class="internal-link">Sleep Disorder</a><br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/chronic-stress/" class="internal-link">Chronic Stress</a><br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/burnout-syndrome/" class="internal-link">Burnout Syndrome</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/depression/" class="internal-link">Depression</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/sleep-disorder/" class="internal-link">Sleep Disorder</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-stress/" class="internal-link">Chronic Stress</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/burnout-syndrome/" class="internal-link">Burnout Syndrome</a></p>
 
 {% endraw %}

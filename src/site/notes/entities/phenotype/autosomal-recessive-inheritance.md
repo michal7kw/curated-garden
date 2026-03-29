@@ -1,9 +1,10 @@
 ---
-created: '2026-03-28T19:56:10.942216Z'
+created: '2026-03-29T06:30:14.865279Z'
 description: '...'
 dg-home: false
 dg-publish: true
-permalink: /entities/phenotype/autosomal-recessive-inheritance/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/phenotype/autosomal-recessive-inheritance/
 slug: autosomal-recessive-inheritance
 tags:
 - phenotype
@@ -12,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Autosomal recessive inheritance
 type: phenotype
-updated: '2026-03-28T19:56:10.942216Z'
+updated: '2026-03-29T06:30:14.865279Z'
 ---
 
 {% raw %}
@@ -21,52 +22,52 @@ updated: '2026-03-28T19:56:10.942216Z'
 <p>...</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">imperforate_anus</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">severe_intellectual_disability-corpus_callosum_agenesis-facial_dysmorphism-cerebellar_ataxia_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">myoglobinuria_acute_recurrent_autosomal_recessive</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Yunis-Varon_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">multiple_epiphyseal_dysplasia_with_miniepiphyses</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">rhizomelic_limb_shortening_with_dysmorphic_features</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">immunodeficiency_73c_with_defective_neutrophil_chemotaxis_and_hypogammaglobulinemia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">methemoglobin_reductase_deficiency</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">oculoosteocutaneous_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">retinal_degeneration-nanophthalmos-glaucoma_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Miyoshi_muscular_dystrophy</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">BNAR_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">protein-losing_enteropathy_disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">epilepsy_early-onset_vitamin_B6-dependent</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">radioulnar_synostosis-developmental_delay-hypotonia_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Dahlberg-Borer-Newcomer_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">encephalopathy_due_to_hydroxykynureninuria</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">premature_centromere_division</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">spastic_tetraplegia_and_axial_hypotonia_progressive</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">ghosal_hematodiaphyseal_dysplasia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">ciliary_dyskinesia_with_excessively_long_cilia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">asthma_nasal_polyps_and_aspirin_intolerance</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">agenesis_of_the_corpus_callosum_with_peripheral_neuropathy</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">ectopia_lentis_1_isolated</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Woodhouse-Sakati_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Dyggve-Melchior-Clausen_disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">craniometaphyseal_dysplasia_autosomal_recessive</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Mode_of_inheritance</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">neurodevelopmental_disorder_with_microcephaly_seizures_and_brain_atrophy</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">short_stature_with_microcephaly_and_distinctive_facies</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">hyper-IgE_recurrent_infection_syndrome_5_autosomal_recessive</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">cardioauditory_syndrome_of_Sanchez_Cascos</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">alar_cartilages_hypoplasia-coloboma-telecanthus_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">muscular_hypertonia_lethal</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">myopathy_with_giant_abnormal_mitochondria</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">distal_myopathy_with_anterior_tibial_onset</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">atresia_of_small_intestine</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Sex-limited_autosomal_recessive_inheritance</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">lung_agenesis-heart_defect-thumb_anomalies_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Ellis-van_Creveld_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">psychomotor_retardation_epilepsy_and_craniofacial_dysmorphism</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">congenital_deficiency_in_alpha-fetoprotein</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">congenital_prothrombin_deficiency</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Greenberg_dysplasia</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">imperforate anus</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">severe intellectual disability-corpus callosum agenesis-facial dysmorphism-cerebellar ataxia syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">myoglobinuria acute recurrent autosomal recessive</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Yunis-Varon syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">multiple epiphyseal dysplasia with miniepiphyses</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">rhizomelic limb shortening with dysmorphic features</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">immunodeficiency 73c with defective neutrophil chemotaxis and hypogammaglobulinemia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">methemoglobin reductase deficiency</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">oculoosteocutaneous syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">retinal degeneration-nanophthalmos-glaucoma syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Miyoshi muscular dystrophy</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">BNAR syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">protein-losing enteropathy disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">epilepsy early-onset vitamin B6-dependent</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">radioulnar synostosis-developmental delay-hypotonia syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Dahlberg-Borer-Newcomer syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">encephalopathy due to hydroxykynureninuria</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">premature centromere division</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">spastic tetraplegia and axial hypotonia progressive</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">ghosal hematodiaphyseal dysplasia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">ciliary dyskinesia with excessively long cilia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">asthma nasal polyps and aspirin intolerance</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">agenesis of the corpus callosum with peripheral neuropathy</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">ectopia lentis 1 isolated</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Woodhouse-Sakati syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Dyggve-Melchior-Clausen disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">craniometaphyseal dysplasia autosomal recessive</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Mode of inheritance</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">neurodevelopmental disorder with microcephaly seizures and brain atrophy</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">short stature with microcephaly and distinctive facies</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">hyper-IgE recurrent infection syndrome 5 autosomal recessive</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">cardioauditory syndrome of Sanchez Cascos</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">alar cartilages hypoplasia-coloboma-telecanthus syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">muscular hypertonia lethal</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">myopathy with giant abnormal mitochondria</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">distal myopathy with anterior tibial onset</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">atresia of small intestine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Sex-limited autosomal recessive inheritance</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">lung agenesis-heart defect-thumb anomalies syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Ellis-van Creveld syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">psychomotor retardation epilepsy and craniofacial dysmorphism</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">congenital deficiency in alpha-fetoprotein</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">congenital prothrombin deficiency</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Greenberg dysplasia</a></p>
 <h3>Related To Phenotype</h3>
-<p>RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Mode_of_inheritance</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Sex-limited_autosomal_recessive_inheritance</a></p>
+<p>RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Mode of inheritance</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Sex-limited autosomal recessive inheritance</a></p>
 
 {% endraw %}

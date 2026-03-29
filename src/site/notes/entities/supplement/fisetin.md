@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:56:11.247774Z'
+created: '2026-03-29T06:30:15.091873Z'
 description: A plant flavonol with potent senolytic activity — selectively kills senescent
   cells by inhibiting pro-survival PI3K/AKT/mTOR and BCL-2/BCL-xL pathways. Found
   in strawberries, apples, persimmons. Also neuroprotective (BDNF induction, anti-inflammatory)
@@ -7,7 +7,8 @@ description: A plant flavonol with potent senolytic activity — selectively kil
   (Yousefzadeh 2018).
 dg-home: false
 dg-publish: true
-permalink: /entities/supplement/fisetin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/supplement/fisetin/
 slug: fisetin
 tags:
 - supplement
@@ -19,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Fisetin
 type: supplement
-updated: '2026-03-28T19:56:11.247774Z'
+updated: '2026-03-29T06:30:15.091873Z'
 ---
 
 {% raw %}
@@ -35,21 +36,21 @@ updated: '2026-03-28T19:56:11.247774Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">p16INK4a</a><br />
-RELATED::<a href="/entities/supplement/quercetin/" class="internal-link">Quercetin</a><br />
-RELATED::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/quercetin/" class="internal-link">Quercetin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/bdnf/" class="internal-link">BDNF</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Navitoclax</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">mTOR</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Dasatinib</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Cellular_Senescence_Pathway</a></p>
+RELATED::<a class="internal-link is-unresolved" href="/404">Cellular Senescence Pathway</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
-AFFECTS_BIOMARKER::<a href="/entities/labtest/uric-acid/" class="internal-link">Uric Acid</a></p>
+<p>AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
+AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/uric-acid/" class="internal-link">Uric Acid</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/inflammation/" class="internal-link">Inflammation</a><br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a><br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/cancer/" class="internal-link">Cancer</a><br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/inflammation/" class="internal-link">Inflammation</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cancer/" class="internal-link">Cancer</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a></p>
 
 {% endraw %}

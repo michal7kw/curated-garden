@@ -1,17 +1,18 @@
 ---
-created: '2026-03-28T19:56:10.392881Z'
+created: '2026-03-29T06:30:14.397287Z'
 description: Measures Lp(a), a genetically determined cardiovascular risk factor.
   Testing once in lifetime recommended.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/lipoprotein-a/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/lipoprotein-a/
 slug: lipoprotein-a
 tags:
 - labtest
 templateEngineOverride: njk
 title: lipoprotein_a
 type: labtest
-updated: '2026-03-28T19:56:10.392881Z'
+updated: '2026-03-29T06:30:14.397287Z'
 ---
 
 {% raw %}
@@ -53,7 +54,7 @@ updated: '2026-03-28T19:56:10.392881Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a class="internal-link is-unresolved" href="/404">lp_a</a></li>
+<li><a class="internal-link is-unresolved" href="/404">lp a</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -64,7 +65,7 @@ updated: '2026-03-28T19:56:10.392881Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">lp_a</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">lp a</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

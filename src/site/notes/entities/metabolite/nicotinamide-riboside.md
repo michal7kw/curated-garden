@@ -1,12 +1,13 @@
 ---
-created: '2026-03-28T19:56:10.728523Z'
+created: '2026-03-29T06:30:14.716627Z'
 description: An NAD+ precursor that efficiently raises cellular NAD+ levels via the
   NRK pathway. Also known as NR, it bypasses some limitations of other NAD+ precursors
   and has demonstrated safety and efficacy in human clinical trials for boosting NAD+
   metabolism.
 dg-home: false
 dg-publish: true
-permalink: /entities/metabolite/nicotinamide-riboside/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/metabolite/nicotinamide-riboside/
 slug: nicotinamide-riboside
 tags:
 - metabolite
@@ -17,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Nicotinamide Riboside
 type: metabolite
-updated: '2026-03-28T19:56:10.728523Z'
+updated: '2026-03-29T06:30:14.716627Z'
 ---
 
 {% raw %}
@@ -26,12 +27,12 @@ updated: '2026-03-28T19:56:10.728523Z'
 <p>An NAD+ precursor that efficiently raises cellular NAD+ levels via the NRK pathway. Also known as NR, it bypasses some limitations of other NAD+ precursors and has demonstrated safety and efficacy in human clinical trials for boosting NAD+ metabolism.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/protein/tfam/" class="internal-link">TFAM</a><br />
-RELATED::<a href="/entities/protein/atp-synthase/" class="internal-link">ATP_Synthase</a><br />
-RELATED::<a href="/entities/protein/pgc-1alpha/" class="internal-link">PGC-1alpha</a><br />
-RELATED::<a href="/entities/supplement/apigenin/" class="internal-link">Apigenin</a><br />
-RELATED::<a href="/entities/metabolite/atp/" class="internal-link">ATP</a><br />
-RELATED::<a href="/entities/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative_Phosphorylation</a><br />
-RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/protein/tfam/" class="internal-link">TFAM</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/protein/atp-synthase/" class="internal-link">ATP Synthase</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/protein/pgc-1alpha/" class="internal-link">PGC-1alpha</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/apigenin/" class="internal-link">Apigenin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/atp/" class="internal-link">ATP</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative Phosphorylation</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 
 {% endraw %}

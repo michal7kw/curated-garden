@@ -1,9 +1,10 @@
 ---
-created: '2026-03-28T19:56:11.106701Z'
+created: '2026-03-29T06:30:14.993698Z'
 description: '...'
 dg-home: false
 dg-publish: true
-permalink: /entities/gene/gata2/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/gene/gata2/
 slug: gata2
 tags:
 - gene
@@ -12,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: GATA2
 type: gene
-updated: '2026-03-28T19:56:11.106701Z'
+updated: '2026-03-29T06:30:14.993698Z'
 ---
 
 {% raw %}

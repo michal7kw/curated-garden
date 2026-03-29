@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:56:10.100925Z'
+created: '2026-03-29T06:30:14.176531Z'
 description: Resistance exercise using progressive overload to increase muscular strength,
   mass, and endurance. Foundational for metabolic health, bone density, functional
   independence, and longevity. Stimulates muscle protein synthesis, growth hormone
@@ -7,7 +7,8 @@ description: Resistance exercise using progressive overload to increase muscular
   per week for all adults.
 dg-home: false
 dg-publish: true
-permalink: /entities/intervention/strength-training/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/intervention/strength-training/
 slug: strength-training
 tags:
 - intervention
@@ -19,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Strength Training
 type: intervention
-updated: '2026-03-28T19:56:10.100925Z'
+updated: '2026-03-29T06:30:14.176531Z'
 ---
 
 {% raw %}
@@ -42,11 +43,11 @@ updated: '2026-03-28T19:56:10.100925Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/intervention/exercise/" class="internal-link">Exercise</a><br />
-RELATED::<a href="/entities/organ/muscles/" class="internal-link">Muscles</a><br />
-RELATED::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a><br />
-RELATED::<a href="/entities/organ/bones/" class="internal-link">Bones</a><br />
-RELATED::<a href="/entities/hormone/growth-hormone/" class="internal-link">Growth_Hormone</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/exercise/" class="internal-link">Exercise</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/organ/muscles/" class="internal-link">Muscles</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/insulin/" class="internal-link">Insulin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/organ/bones/" class="internal-link">Bones</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/hormone/growth-hormone/" class="internal-link">Growth Hormone</a></p>
 <h2>Research Support</h2>
 <p>No research studies documented yet.</p>
 <h2>References</h2>

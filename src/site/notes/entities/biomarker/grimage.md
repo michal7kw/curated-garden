@@ -1,10 +1,11 @@
 ---
-created: '2026-03-28T19:56:09.282527Z'
+created: '2026-03-29T06:30:13.555924Z'
 description: An advanced epigenetic clock that uses DNA methylation patterns to predict
   mortality and biological age.
 dg-home: false
 dg-publish: true
-permalink: /entities/biomarker/grimage/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/grimage/
 slug: grimage
 tags:
 - biomarker
@@ -14,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: GrimAge
 type: biomarker
-updated: '2026-03-28T19:56:09.282527Z'
+updated: '2026-03-29T06:30:13.555924Z'
 ---
 
 {% raw %}
@@ -24,16 +25,16 @@ updated: '2026-03-28T19:56:09.282527Z'
 <h2>Relationships</h2>
 <h3>Affected By Supplement</h3>
 <ul>
-<li>-&gt; <a href="/entities/supplement/nmn/" class="internal-link">NMN</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/resveratrol/" class="internal-link">Resveratrol</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/spermidine/" class="internal-link">Spermidine</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> (supplement)</li>
-<li>-&gt; <a href="/entities/labtest/vitamin-d/" class="internal-link">Vitamin D</a> (supplement)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/nmn/" class="internal-link">NMN</a> (supplement)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/resveratrol/" class="internal-link">Resveratrol</a> (supplement)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/spermidine/" class="internal-link">Spermidine</a> (supplement)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> (supplement)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/vitamin-d/" class="internal-link">Vitamin D</a> (supplement)</li>
 </ul>
 <h3>Measured By Test</h3>
 <ul>
-<li>-&gt; <a href="/entities/labtest/truage-complete/" class="internal-link">truage_complete</a> (labtest)</li>
-<li>-&gt; <a href="/entities/labtest/truage-pace/" class="internal-link">truage_pace</a> (labtest)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/truage-complete/" class="internal-link">truage complete</a> (labtest)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/truage-pace/" class="internal-link">truage pace</a> (labtest)</li>
 </ul>
 
 {% endraw %}

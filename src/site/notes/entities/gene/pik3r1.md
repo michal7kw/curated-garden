@@ -1,11 +1,12 @@
 ---
-created: '2026-03-28T19:56:10.003036Z'
+created: '2026-03-29T06:30:14.081527Z'
 description: Encodes the p85alpha regulatory subunit of PI3K. Essential for insulin
   signaling and glucose metabolism. Mutations cause SHORT syndrome and contribute
   to cancer.
 dg-home: false
 dg-publish: true
-permalink: /entities/gene/pik3r1/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/gene/pik3r1/
 slug: pik3r1
 tags:
 - gene
@@ -17,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: PIK3R1
 type: gene
-updated: '2026-03-28T19:56:10.003036Z'
+updated: '2026-03-29T06:30:14.081527Z'
 ---
 
 {% raw %}

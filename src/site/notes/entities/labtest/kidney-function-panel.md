@@ -1,17 +1,18 @@
 ---
-created: '2026-03-28T19:56:10.355773Z'
+created: '2026-03-29T06:30:14.367696Z'
 description: Measures BUN, creatinine, eGFR, cystatin C, and electrolytes to assess
   kidney health.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/kidney-function-panel/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/kidney-function-panel/
 slug: kidney-function-panel
 tags:
 - labtest
 templateEngineOverride: njk
 title: kidney_function_panel
 type: labtest
-updated: '2026-03-28T19:56:10.355773Z'
+updated: '2026-03-29T06:30:14.367696Z'
 ---
 
 {% raw %}
@@ -54,9 +55,9 @@ updated: '2026-03-28T19:56:10.355773Z'
 <p>This test measures the following biomarkers:</p>
 <ul>
 <li><a class="internal-link is-unresolved" href="/404">bun</a></li>
-<li><a href="/entities/labtest/creatinine/" class="internal-link">creatinine</a></li>
-<li><a href="/entities/biomarker/egfr/" class="internal-link">egfr</a></li>
-<li><a href="/entities/biomarker/cystatin-c/" class="internal-link">cystatin_c</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/creatinine/" class="internal-link">creatinine</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/biomarker/egfr/" class="internal-link">egfr</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/biomarker/cystatin-c/" class="internal-link">cystatin c</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -67,11 +68,11 @@ updated: '2026-03-28T19:56:10.355773Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/labtest/creatinine/" class="internal-link">creatinine</a><br />
-RELATED::<a href="/entities/biomarker/cystatin-c/" class="internal-link">cystatin_c</a><br />
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/creatinine/" class="internal-link">creatinine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/cystatin-c/" class="internal-link">cystatin c</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">bun</a><br />
-RELATED::<a href="/entities/biomarker/egfr/" class="internal-link">egfr</a><br />
-RELATED::<a href="/entities/labtest/creatinine/" class="internal-link">Creatinine</a></p>
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/egfr/" class="internal-link">egfr</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/creatinine/" class="internal-link">Creatinine</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

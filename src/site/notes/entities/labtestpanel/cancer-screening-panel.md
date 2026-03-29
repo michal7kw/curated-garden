@@ -1,18 +1,19 @@
 ---
-created: '2026-03-28T19:56:10.650724Z'
+created: '2026-03-29T06:30:14.622601Z'
 description: Panel of tumor markers used for cancer screening and monitoring. Includes
   PSA for prostate, CEA for colorectal, CA-125 for ovarian, and AFP for liver/testicular
   cancers. Best used in conjunction with imaging and clinical evaluation.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtestpanel/cancer-screening-panel/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtestpanel/cancer-screening-panel/
 slug: cancer-screening-panel
 tags:
 - labtestpanel
 templateEngineOverride: njk
 title: cancer_screening_panel
 type: labtestpanel
-updated: '2026-03-28T19:56:10.650724Z'
+updated: '2026-03-29T06:30:14.622601Z'
 ---
 
 {% raw %}
@@ -21,9 +22,9 @@ updated: '2026-03-28T19:56:10.650724Z'
 <p>Panel of tumor markers used for cancer screening and monitoring. Includes PSA for prostate, CEA for colorectal, CA-125 for ovarian, and AFP for liver/testicular cancers. Best used in conjunction with imaging and clinical evaluation.</p>
 <h2>Relationships</h2>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/entities/labtest/afp/" class="internal-link">afp</a><br />
-INCLUDED_IN::<a href="/entities/labtest/cea/" class="internal-link">cea</a><br />
-INCLUDED_IN::<a href="/entities/labtest/prostate-specific-antigen-psa-total/" class="internal-link">prostate_specific_antigen_psa_total</a><br />
+<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtest/afp/" class="internal-link">afp</a><br />
+INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtest/cea/" class="internal-link">cea</a><br />
+INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtest/prostate-specific-antigen-psa-total/" class="internal-link">prostate specific antigen psa total</a><br />
 INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">ca-125</a></p>
 
 {% endraw %}

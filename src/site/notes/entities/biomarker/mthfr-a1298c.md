@@ -1,15 +1,16 @@
 ---
-created: '2026-03-28T19:56:09.326804Z'
+created: '2026-03-29T06:30:13.588050Z'
 dg-home: false
 dg-publish: true
-permalink: /entities/biomarker/mthfr-a1298c/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/mthfr-a1298c/
 slug: mthfr-a1298c
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Mthfr A1298C
 type: biomarker
-updated: '2026-03-28T19:56:09.326804Z'
+updated: '2026-03-29T06:30:13.588050Z'
 ---
 
 {% raw %}
@@ -18,7 +19,7 @@ updated: '2026-03-28T19:56:09.326804Z'
 <h2>Relationships</h2>
 <h3>Measured By Test</h3>
 <ul>
-<li>-&gt; <a href="/entities/labtest/mthfr-genotype/" class="internal-link">mthfr_genotype</a> (labtest)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/mthfr-genotype/" class="internal-link">mthfr genotype</a> (labtest)</li>
 </ul>
 
 {% endraw %}

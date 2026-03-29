@@ -1,15 +1,16 @@
 ---
-created: '2026-03-28T19:56:09.383344Z'
+created: '2026-03-29T06:30:13.628228Z'
 dg-home: false
 dg-publish: true
-permalink: /entities/biomarker/tibc/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/tibc/
 slug: tibc
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Tibc
 type: biomarker
-updated: '2026-03-28T19:56:09.383344Z'
+updated: '2026-03-29T06:30:13.628228Z'
 ---
 
 {% raw %}
@@ -18,12 +19,12 @@ updated: '2026-03-28T19:56:09.383344Z'
 <h2>Relationships</h2>
 <h3>Affected By Supplement</h3>
 <ul>
-<li>-&gt; <a href="/entities/supplement/iron/" class="internal-link">Iron</a> (supplement)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/iron/" class="internal-link">Iron</a> (supplement)</li>
 </ul>
 <h3>Measured By Test</h3>
 <ul>
-<li>-&gt; <a href="/entities/labtest/iron-panel/" class="internal-link">iron_panel</a> (labtest)</li>
-<li>-&gt; <a href="/entities/labtest/iron-binding-capacity/" class="internal-link">iron_binding_capacity</a> (labtest)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/iron-panel/" class="internal-link">iron panel</a> (labtest)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/iron-binding-capacity/" class="internal-link">iron binding capacity</a> (labtest)</li>
 </ul>
 
 {% endraw %}

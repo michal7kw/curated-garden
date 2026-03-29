@@ -1,17 +1,18 @@
 ---
-created: '2026-03-28T19:56:10.209099Z'
+created: '2026-03-29T06:30:14.256476Z'
 description: CBC plus detailed white blood cell breakdown including neutrophils, lymphocytes,
   monocytes, eosinophils, and basophils.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/cbc-with-differential/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/cbc-with-differential/
 slug: cbc-with-differential
 tags:
 - labtest
 templateEngineOverride: njk
 title: cbc_with_differential
 type: labtest
-updated: '2026-03-28T19:56:10.209099Z'
+updated: '2026-03-29T06:30:14.256476Z'
 ---
 
 {% raw %}

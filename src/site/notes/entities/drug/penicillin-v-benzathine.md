@@ -1,10 +1,11 @@
 ---
-created: '2026-03-28T19:56:09.972570Z'
+created: '2026-03-29T06:30:14.062797Z'
 description: A long-acting oral salt form of Penicillin V used for the treatment and
   prophylaxis of bacterial infections.
 dg-home: false
 dg-publish: true
-permalink: /entities/drug/penicillin-v-benzathine/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/drug/penicillin-v-benzathine/
 slug: penicillin-v-benzathine
 tags:
 - drug
@@ -13,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Penicillin V Benzathine
 type: drug
-updated: '2026-03-28T19:56:09.972570Z'
+updated: '2026-03-29T06:30:14.062797Z'
 ---
 
 {% raw %}

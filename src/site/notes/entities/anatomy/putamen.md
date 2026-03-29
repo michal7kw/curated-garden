@@ -1,11 +1,12 @@
 ---
-created: '2026-03-28T19:56:09.183849Z'
+created: '2026-03-29T06:30:13.479711Z'
 description: Largest component of the basal ganglia, forming the outer part of the
   lenticular nucleus. Primary role in motor regulation, motor learning, and habit
   formation.
 dg-home: false
 dg-publish: true
-permalink: /entities/Anatomy/putamen/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/Anatomy/putamen/
 slug: putamen
 tags:
 - Anatomy
@@ -16,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Putamen
 type: Anatomy
-updated: '2026-03-28T19:56:09.183849Z'
+updated: '2026-03-29T06:30:13.479711Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:56:10.532121Z'
+created: '2026-03-29T06:30:14.523015Z'
 description: Tested twice a year Sodium, an essential electrolyte commonly consumed
   as part of table salt (sodium chloride), plays a vital role in maintaining the body’s
   fluid balance, supporting nerve signaling, and enabling muscle contractions, including
@@ -7,7 +7,8 @@ description: Tested twice a year Sodium, an essential electrolyte commonly consu
   use, and physical activity can influence sodium balance.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/sodium/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/sodium/
 slug: sodium
 tags:
 - labtest
@@ -16,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: sodium
 type: labtest
-updated: '2026-03-28T19:56:10.532121Z'
+updated: '2026-03-29T06:30:14.523015Z'
 ---
 
 {% raw %}
@@ -65,11 +66,11 @@ updated: '2026-03-28T19:56:10.532121Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Medication_Effect</a><br />
-RELATED::<a href="/entities/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Fluid_Imbalance_Low_Or_High_Sodium</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Hormonal_Imbalance_Adrenal_Or_Thyroid</a></p>
+RELATED::<a class="internal-link is-unresolved" href="/404">Medication Effect</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive metabolic panel</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Dysfunction</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Fluid Imbalance Low Or High Sodium</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hormonal Imbalance Adrenal Or Thyroid</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

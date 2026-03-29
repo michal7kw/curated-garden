@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:56:10.370237Z'
+created: '2026-03-29T06:30:14.375954Z'
 description: LDL particle pattern measures whether LDL particles are mostly small
   and dense (Pattern B) or larger and lighter (Pattern A). Standard LDL tests measure
   cholesterol by weight, but this test shows particle type. Pattern B is linked to
@@ -7,14 +7,15 @@ description: LDL particle pattern measures whether LDL particles are mostly smal
   less harmful and more protective.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/ldl-pattern/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/ldl-pattern/
 slug: ldl-pattern
 tags:
 - labtest
 templateEngineOverride: njk
 title: ldl_pattern
 type: labtest
-updated: '2026-03-28T19:56:10.370237Z'
+updated: '2026-03-29T06:30:14.375954Z'
 ---
 
 {% raw %}
@@ -62,18 +63,18 @@ updated: '2026-03-28T19:56:10.370237Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hyperlipidemia</a><br />
-RELATED::<a href="/entities/labtestpanel/extended-heart-metabolic/" class="internal-link">extended_heart_metabolic</a><br />
-RELATED::<a href="/entities/labtestpanel/genetic-heart-risks/" class="internal-link">genetic_heart_risks</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-heart-metabolic/" class="internal-link">extended heart metabolic</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/genetic-heart-risks/" class="internal-link">genetic heart risks</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Atherosclerosis</a><br />
-RELATED::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a></p>
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a><br />
-MAY_DETECT::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a></p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/entities/labtestpanel/genetic-heart-risks/" class="internal-link">genetic_heart_risks</a><br />
-INCLUDED_IN::<a href="/entities/labtestpanel/extended-heart-metabolic/" class="internal-link">extended_heart_metabolic</a></p>
+<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/genetic-heart-risks/" class="internal-link">genetic heart risks</a><br />
+INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-heart-metabolic/" class="internal-link">extended heart metabolic</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

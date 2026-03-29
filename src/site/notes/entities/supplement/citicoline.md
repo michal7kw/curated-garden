@@ -1,11 +1,12 @@
 ---
-created: '2026-03-28T19:56:11.233025Z'
+created: '2026-03-29T06:30:15.083183Z'
 description: CDP-choline, a naturally occurring compound that provides both choline
   and cytidine. Superior nootropic supporting phosphatidylcholine synthesis, dopamine
   signaling, and neuroprotection.
 dg-home: false
 dg-publish: true
-permalink: /entities/supplement/citicoline/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/supplement/citicoline/
 slug: citicoline
 tags:
 - supplement
@@ -17,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Citicoline
 type: supplement
-updated: '2026-03-28T19:56:11.233025Z'
+updated: '2026-03-29T06:30:15.083183Z'
 ---
 
 {% raw %}
@@ -27,10 +28,10 @@ updated: '2026-03-28T19:56:11.233025Z'
 <p><strong>Research Summary:</strong> Extensive research in stroke recovery, cognitive enhancement, and neuroprotection. Improves attention, memory, and focus. Well-tolerated with excellent safety profile. Cognizin is the most studied branded form.</p>
 <h2>Relationships</h2>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/memory-disorders/" class="internal-link">Memory Disorders</a><br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a><br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a><br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/memory-disorders/" class="internal-link">Memory Disorders</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a></p>
 
 {% endraw %}

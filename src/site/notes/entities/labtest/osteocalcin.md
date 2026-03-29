@@ -1,18 +1,19 @@
 ---
-created: '2026-03-28T19:56:10.485237Z'
+created: '2026-03-29T06:30:14.472767Z'
 description: Osteocalcin test. Bone-specific protein produced by osteoblasts during
   bone formation. Serves as a marker of bone turnover and osteoblast activity. Used
   in monitoring osteoporosis treatment and assessing bone metabolic disorders.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/osteocalcin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/osteocalcin/
 slug: osteocalcin
 tags:
 - labtest
 templateEngineOverride: njk
 title: osteocalcin
 type: labtest
-updated: '2026-03-28T19:56:10.485237Z'
+updated: '2026-03-29T06:30:14.472767Z'
 ---
 
 {% raw %}
@@ -61,7 +62,7 @@ updated: '2026-03-28T19:56:10.485237Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/entities/labtest/osteocalcin/" class="internal-link">osteocalcin</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/osteocalcin/" class="internal-link">osteocalcin</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -72,7 +73,7 @@ updated: '2026-03-28T19:56:10.485237Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/entities/labtestpanel/bone-health-panel/" class="internal-link">bone_health_panel</a></p>
+<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/bone-health-panel/" class="internal-link">bone health panel</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

@@ -1,9 +1,10 @@
 ---
-created: '2026-03-28T19:56:10.971530Z'
+created: '2026-03-29T06:30:14.883932Z'
 description: '...'
 dg-home: false
 dg-publish: true
-permalink: /entities/phenotype/global-developmental-delay/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/phenotype/global-developmental-delay/
 slug: global-developmental-delay
 tags:
 - phenotype
@@ -12,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Global developmental delay
 type: phenotype
-updated: '2026-03-28T19:56:10.971530Z'
+updated: '2026-03-29T06:30:14.883932Z'
 ---
 
 {% raw %}
@@ -21,54 +22,54 @@ updated: '2026-03-28T19:56:10.971530Z'
 <p>...</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">conotruncal_heart_malformations</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">benign_familial_neonatal-infantile_seizures</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">infantile-onset_axonal_motor_and_sensory_neuropathy-optic_atrophy-neurodegenerative_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Moderate_global_developmental_delay</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Heimler_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">tremor-ataxia-central_hypomyelination_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Neurodevelopmental_delay</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">ichthyosis-alopecia-eclabion-ectropion-intellectual_disability_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">hypertrichosis_cubiti-short_stature_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">intellectual_disability-hyperkinetic_movement-truncal_ataxia_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">six2-related_frontonasal_dysplasia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Mild_global_developmental_delay</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">hypotonia-speech_impairment-severe_cognitive_delay_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">ulna_hypoplasia-intellectual_disability_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">orofaciodigital_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">ectodermal_dysplasia_with_facial_dysmorphism_and_acral_ocular_and_brain_anomalies</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">deafness_autosomal_dominant</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Usher_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Severe_global_developmental_delay</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">ataxia_-<em>intellectual_disability</em>-<em>oculomotor_apraxia</em>-<em>cerebellar_cysts_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">glycogen_storage_disease_due_to_glucose-6-phosphatase_deficiency</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">retinitis_pigmentosa</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">autosomal_recessive_ataxia_due_to_PEX10_deficiency</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">hypoxanthine_guanine_phosphoribosyltransferase_partial_deficiency</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">spondylodysplastic_Ehlers-Danlos_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Profound_global_developmental_delay</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">heart_defect</em>-<em>tongue_hamartoma</em>-_polysyndactyly_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Cole-Carpenter_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">deafness_autosomal_recessive</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">tetragametic_chimerism</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">conotruncal heart malformations</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">benign familial neonatal-infantile seizures</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">infantile-onset axonal motor and sensory neuropathy-optic atrophy-neurodegenerative syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Moderate global developmental delay</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Heimler syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">tremor-ataxia-central hypomyelination syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Neurodevelopmental delay</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">ichthyosis-alopecia-eclabion-ectropion-intellectual disability syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">hypertrichosis cubiti-short stature syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">intellectual disability-hyperkinetic movement-truncal ataxia syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">six2-related frontonasal dysplasia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Mild global developmental delay</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">hypotonia-speech impairment-severe cognitive delay syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">ulna hypoplasia-intellectual disability syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">orofaciodigital syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">ectodermal dysplasia with facial dysmorphism and acral ocular and brain anomalies</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">deafness autosomal dominant</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Usher syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Severe global developmental delay</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">ataxia - intellectual disability - oculomotor apraxia - cerebellar cysts syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">glycogen storage disease due to glucose-6-phosphatase deficiency</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">retinitis pigmentosa</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">autosomal recessive ataxia due to PEX10 deficiency</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">hypoxanthine guanine phosphoribosyltransferase partial deficiency</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">spondylodysplastic Ehlers-Danlos syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Profound global developmental delay</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">heart defect - tongue hamartoma - polysyndactyly syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Cole-Carpenter syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">deafness autosomal recessive</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">tetragametic chimerism</a></p>
 <h3>Related To Phenotype</h3>
-<p>RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Moderate_global_developmental_delay</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Mild_global_developmental_delay</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Neurodevelopmental_delay</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Profound_global_developmental_delay</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Severe_global_developmental_delay</a></p>
+<p>RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Moderate global developmental delay</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Mild global developmental delay</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Neurodevelopmental delay</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Profound global developmental delay</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Severe global developmental delay</a></p>
 <h3>Excludes Phenotype</h3>
-<p>EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">tetragametic_chimerism</a><br />
-EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">heart_defect_-<em>tongue_hamartoma</em>-_polysyndactyly_syndrome</a><br />
-EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">conotruncal_heart_malformations</a><br />
-EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">deafness_autosomal_dominant</a><br />
-EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">six2-related_frontonasal_dysplasia</a><br />
-EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">deafness_autosomal_recessive</a><br />
-EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">ectodermal_dysplasia_with_facial_dysmorphism_and_acral_ocular_and_brain_anomalies</a><br />
-EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">retinitis_pigmentosa</a><br />
-EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Cole-Carpenter_syndrome</a><br />
-EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">autosomal_recessive_ataxia_due_to_PEX10_deficiency</a><br />
-EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">benign_familial_neonatal-infantile_seizures</a><br />
-EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Heimler_syndrome</a></p>
+<p>EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">tetragametic chimerism</a><br />
+EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">heart defect - tongue hamartoma - polysyndactyly syndrome</a><br />
+EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">conotruncal heart malformations</a><br />
+EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">deafness autosomal dominant</a><br />
+EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">six2-related frontonasal dysplasia</a><br />
+EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">deafness autosomal recessive</a><br />
+EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">ectodermal dysplasia with facial dysmorphism and acral ocular and brain anomalies</a><br />
+EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">retinitis pigmentosa</a><br />
+EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Cole-Carpenter syndrome</a><br />
+EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">autosomal recessive ataxia due to PEX10 deficiency</a><br />
+EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">benign familial neonatal-infantile seizures</a><br />
+EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Heimler syndrome</a></p>
 
 {% endraw %}

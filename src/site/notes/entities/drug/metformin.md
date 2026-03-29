@@ -1,12 +1,13 @@
 ---
-created: '2026-03-28T19:56:09.943344Z'
+created: '2026-03-29T06:30:14.046264Z'
 description: First-line biguanide antidiabetic drug that activates AMPK, inhibits
   mitochondrial complex I, and reduces hepatic glucose production. Under investigation
   as a longevity agent in the landmark TAME trial. Not metabolized by CYP enzymes;
   eliminated renally via OCT2/MATE transporters.
 dg-home: false
 dg-publish: true
-permalink: /entities/drug/metformin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/drug/metformin/
 slug: metformin
 tags:
 - drug
@@ -18,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: METFORMIN
 type: drug
-updated: '2026-03-28T19:56:09.943344Z'
+updated: '2026-03-29T06:30:14.046264Z'
 ---
 
 {% raw %}
@@ -27,25 +28,25 @@ updated: '2026-03-28T19:56:09.943344Z'
 <p>First-line biguanide antidiabetic drug that activates AMPK, inhibits mitochondrial complex I, and reduces hepatic glucose production. Under investigation as a longevity agent in the landmark TAME trial. Not metabolized by CYP enzymes; eliminated renally via OCT2/MATE transporters.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Diabetes_Gestational</a><br />
-RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Leukemia_Lymphocytic_Chronic_B-Cell</a><br />
-RELATED::<a href="/entities/condition/adenomatous-polyposis-coli/" class="internal-link">Adenomatous_Polyposis_Coli</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Polycystic_Ovary_Syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Diabetes_Mellitus</a><br />
-RELATED::<a href="/entities/condition/peripheral-arterial-disease/" class="internal-link">Peripheral_Arterial_Disease</a><br />
-RELATED::<a href="/entities/condition/weight-gain/" class="internal-link">Weight_Gain</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Carcinoma_Squamous_Cell</a><br />
-RELATED::<a href="/entities/organ/liver/" class="internal-link">Liver</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Diabetes Gestational</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Leukemia Lymphocytic Chronic B-Cell</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/adenomatous-polyposis-coli/" class="internal-link">Adenomatous Polyposis Coli</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Polycystic Ovary Syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Diabetes Mellitus</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/peripheral-arterial-disease/" class="internal-link">Peripheral Arterial Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/weight-gain/" class="internal-link">Weight Gain</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Carcinoma Squamous Cell</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/organ/liver/" class="internal-link">Liver</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Periodontitis</a><br />
-RELATED::<a href="/entities/condition/prostatic-neoplasms/" class="internal-link">Prostatic_Neoplasms</a><br />
-RELATED::<a href="/entities/protein/ampk/" class="internal-link">AMPK</a><br />
-RELATED::<a href="/entities/condition/breast-neoplasms/" class="internal-link">Breast_Neoplasms</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Carcinoma_Non-Small-Cell_Lung</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/prostatic-neoplasms/" class="internal-link">Prostatic Neoplasms</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/protein/ampk/" class="internal-link">AMPK</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/breast-neoplasms/" class="internal-link">Breast Neoplasms</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Carcinoma Non-Small-Cell Lung</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Neoplasms</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Tirzepatide</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Non-alcoholic_Fatty_Liver_Disease</a><br />
-RELATED::<a href="/entities/condition/cognitive-dysfunction/" class="internal-link">Cognitive_Dysfunction</a><br />
-RELATED::<a href="/entities/condition/colorectal-neoplasms/" class="internal-link">Colorectal_Neoplasms</a></p>
+RELATED::<a class="internal-link is-unresolved" href="/404">Non-alcoholic Fatty Liver Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/colorectal-neoplasms/" class="internal-link">Colorectal Neoplasms</a></p>
 
 {% endraw %}

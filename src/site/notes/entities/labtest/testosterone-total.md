@@ -1,17 +1,18 @@
 ---
-created: '2026-03-28T19:56:10.543557Z'
+created: '2026-03-29T06:30:14.534275Z'
 description: Measures total testosterone levels. Important for assessing hypogonadism,
   PCOS, and hormonal balance.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/testosterone-total/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/testosterone-total/
 slug: testosterone-total
 tags:
 - labtest
 templateEngineOverride: njk
 title: testosterone_total
 type: labtest
-updated: '2026-03-28T19:56:10.543557Z'
+updated: '2026-03-29T06:30:14.534275Z'
 ---
 
 {% raw %}
@@ -58,7 +59,7 @@ updated: '2026-03-28T19:56:10.543557Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/entities/labtest/testosterone-total/" class="internal-link">testosterone_total</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/testosterone-total/" class="internal-link">testosterone total</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>

@@ -1,12 +1,13 @@
 ---
-created: '2026-03-28T19:56:09.413969Z'
+created: '2026-03-29T06:30:13.659130Z'
 description: Membrane-bound organelle responsible for modifying, sorting, and packaging
   proteins and lipids for secretion or delivery to other organelles. Consists of stacked
   cisternae (cis, medial, trans) with distinct enzymatic activities. Central hub of
   the endomembrane secretory pathway.
 dg-home: false
 dg-publish: true
-permalink: /entities/cellularcomponent/golgi-apparatus/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/cellularcomponent/golgi-apparatus/
 slug: golgi-apparatus
 tags:
 - cellularcomponent
@@ -16,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Golgi Apparatus
 type: cellularcomponent
-updated: '2026-03-28T19:56:09.413969Z'
+updated: '2026-03-29T06:30:13.659130Z'
 ---
 
 {% raw %}
@@ -25,7 +26,7 @@ updated: '2026-03-28T19:56:09.413969Z'
 <p>Membrane-bound organelle responsible for modifying, sorting, and packaging proteins and lipids for secretion or delivery to other organelles. Consists of stacked cisternae (cis, medial, trans) with distinct enzymatic activities. Central hub of the endomembrane secretory pathway.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/cellularcomponent/lysosome/" class="internal-link">Lysosome</a><br />
-RELATED::<a href="/entities/cellularcomponent/endoplasmic-reticulum/" class="internal-link">Endoplasmic_Reticulum</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/lysosome/" class="internal-link">Lysosome</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/endoplasmic-reticulum/" class="internal-link">Endoplasmic Reticulum</a></p>
 
 {% endraw %}

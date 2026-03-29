@@ -1,9 +1,10 @@
 ---
-created: '2026-03-28T19:56:11.105141Z'
+created: '2026-03-29T06:30:14.991682Z'
 description: '...'
 dg-home: false
 dg-publish: true
-permalink: /entities/gene/ets1/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/gene/ets1/
 slug: ets1
 tags:
 - gene
@@ -12,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: ETS1
 type: gene
-updated: '2026-03-28T19:56:11.105141Z'
+updated: '2026-03-29T06:30:14.991682Z'
 ---
 
 {% raw %}

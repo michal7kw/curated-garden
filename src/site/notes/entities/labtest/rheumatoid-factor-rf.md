@@ -1,19 +1,20 @@
 ---
-created: '2026-03-28T19:56:10.523073Z'
+created: '2026-03-29T06:30:14.514258Z'
 description: Rheumatoid factor (RF) is an antibody commonly associated with autoimmune
   conditions like rheumatoid arthritis, rheumatoid vasculitis, or Sjögren’s syndrome.
   Higher levels of RF typically point to more severe complications of the autoimmune
   condition like joint damage.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/rheumatoid-factor-rf/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/rheumatoid-factor-rf/
 slug: rheumatoid-factor-rf
 tags:
 - labtest
 templateEngineOverride: njk
 title: rheumatoid_factor_rf
 type: labtest
-updated: '2026-03-28T19:56:10.523073Z'
+updated: '2026-03-29T06:30:14.514258Z'
 ---
 
 {% raw %}
@@ -61,16 +62,16 @@ updated: '2026-03-28T19:56:10.523073Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac_gluten_intolerance</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Systemic_Lupus_Erythematosus_Sle</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Chronic_Infections_Hepatitis_C_Endocarditis_Tuberculosis</a><br />
-RELATED::<a href="/entities/labtestpanel/extended-autoimmunity/" class="internal-link">extended_autoimmunity</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Vasculitis_Cryoglobulinemic_Vasculitis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">SjgrenS_Syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Rheumatoid_Arthritis</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac gluten intolerance</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Systemic Lupus Erythematosus Sle</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Infections Hepatitis C Endocarditis Tuberculosis</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-autoimmunity/" class="internal-link">extended autoimmunity</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Vasculitis Cryoglobulinemic Vasculitis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">SjgrenS Syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Rheumatoid Arthritis</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/entities/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac_gluten_intolerance</a><br />
-INCLUDED_IN::<a href="/entities/labtestpanel/extended-autoimmunity/" class="internal-link">extended_autoimmunity</a></p>
+<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac gluten intolerance</a><br />
+INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-autoimmunity/" class="internal-link">extended autoimmunity</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

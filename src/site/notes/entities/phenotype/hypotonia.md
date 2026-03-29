@@ -1,9 +1,10 @@
 ---
-created: '2026-03-28T19:56:10.984529Z'
+created: '2026-03-29T06:30:14.891049Z'
 description: '...'
 dg-home: false
 dg-publish: true
-permalink: /entities/phenotype/hypotonia/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/phenotype/hypotonia/
 slug: hypotonia
 tags:
 - phenotype
@@ -12,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Hypotonia
 type: phenotype
-updated: '2026-03-28T19:56:10.984529Z'
+updated: '2026-03-29T06:30:14.891049Z'
 ---
 
 {% raw %}
@@ -21,26 +22,26 @@ updated: '2026-03-28T19:56:10.984529Z'
 <p>...</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Frog-leg_posture</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Facial_hypotonia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Oral_motor_hypotonia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Muscular_hypotonia_of_the_trunk</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Abnormal_muscle_tone</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Infantile_muscular_hypotonia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Appendicular_hypotonia</a><br />
-RELATED::<a href="/entities/phenotype/generalized-hypotonia/" class="internal-link">Generalized_hypotonia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Severe_muscular_hypotonia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Neonatal_hypotonia</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Frog-leg posture</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Facial hypotonia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Oral motor hypotonia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Muscular hypotonia of the trunk</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Abnormal muscle tone</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Infantile muscular hypotonia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Appendicular hypotonia</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/phenotype/generalized-hypotonia/" class="internal-link">Generalized hypotonia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Severe muscular hypotonia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Neonatal hypotonia</a></p>
 <h3>Related To Phenotype</h3>
-<p>RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Severe_muscular_hypotonia</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Frog-leg_posture</a><br />
-RELATED_TO_PHENOTYPE::<a href="/entities/phenotype/generalized-hypotonia/" class="internal-link">Generalized_hypotonia</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Muscular_hypotonia_of_the_trunk</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Neonatal_hypotonia</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Infantile_muscular_hypotonia</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Abnormal_muscle_tone</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Oral_motor_hypotonia</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Facial_hypotonia</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Appendicular_hypotonia</a></p>
+<p>RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Severe muscular hypotonia</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Frog-leg posture</a><br />
+RELATED_TO_PHENOTYPE::<a href="/garden/michal.k7w@gmail.com/phenotype/generalized-hypotonia/" class="internal-link">Generalized hypotonia</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Muscular hypotonia of the trunk</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Neonatal hypotonia</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Infantile muscular hypotonia</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Abnormal muscle tone</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Oral motor hypotonia</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Facial hypotonia</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Appendicular hypotonia</a></p>
 
 {% endraw %}

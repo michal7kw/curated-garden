@@ -1,10 +1,11 @@
 ---
-created: '2026-03-28T19:56:11.182886Z'
+created: '2026-03-29T06:30:15.044185Z'
 description: A breakthrough study identifying mitochondrial electrical stress as a
   direct trigger for sleep pressure in fruit flies.
 dg-home: false
 dg-publish: true
-permalink: /entities/research/nature-2025-sleep-and-mitochondrial-electrical-stress/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/research/nature-2025-sleep-and-mitochondrial-electrical-stress/
 slug: nature-2025-sleep-and-mitochondrial-electrical-stress
 tags:
 - research
@@ -15,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: 'Nature 2025: Sleep and Mitochondrial Electrical Stress'
 type: research
-updated: '2026-03-28T19:56:11.182886Z'
+updated: '2026-03-29T06:30:15.044185Z'
 ---
 
 {% raw %}
@@ -24,10 +25,10 @@ updated: '2026-03-28T19:56:11.182886Z'
 <p>A breakthrough study identifying mitochondrial electrical stress as a direct trigger for sleep pressure in fruit flies.</p>
 <h2>Relationships</h2>
 <h3>Studied Topic</h3>
-<p>STUDIED_TOPIC::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
-STUDIED_TOPIC::<a href="/entities/metabolite/reactive-oxygen-species/" class="internal-link">Reactive_Oxygen_Species</a><br />
-STUDIED_TOPIC::<a href="/entities/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a></p>
+<p>STUDIED_TOPIC::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
+STUDIED_TOPIC::<a href="/garden/michal.k7w@gmail.com/metabolite/reactive-oxygen-species/" class="internal-link">Reactive Oxygen Species</a><br />
+STUDIED_TOPIC::<a href="/garden/michal.k7w@gmail.com/intervention/sleep-optimization/" class="internal-link">Sleep Optimization</a></p>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Mitochondrial_Theory_of_Aging</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Mitochondrial Theory of Aging</a></p>
 
 {% endraw %}

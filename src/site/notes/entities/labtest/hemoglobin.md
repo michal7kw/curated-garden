@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:56:10.312725Z'
+created: '2026-03-29T06:30:14.331374Z'
 description: Tested twice a year Hemoglobin is the protein in red blood cells that
   carries oxygen from the lungs to the rest of the body, supporting energy and healthy
   organ function. Low hemoglobin may indicate anemia due to vitamin deficiencies,
@@ -7,7 +7,8 @@ description: Tested twice a year Hemoglobin is the protein in red blood cells th
   Higher hemoglobin levels can be seen with dehydration or certain blood disorders.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/hemoglobin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/hemoglobin/
 slug: hemoglobin
 tags:
 - labtest
@@ -16,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: hemoglobin
 type: labtest
-updated: '2026-03-28T19:56:10.312725Z'
+updated: '2026-03-29T06:30:14.331374Z'
 ---
 
 {% raw %}
@@ -58,7 +59,7 @@ updated: '2026-03-28T19:56:10.312725Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/entities/labtest/hemoglobin/" class="internal-link">hemoglobin</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/hemoglobin/" class="internal-link">hemoglobin</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -69,19 +70,19 @@ updated: '2026-03-28T19:56:10.312725Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Anemia_Of_Chronic_Disease</a><br />
-RELATED::<a href="/entities/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Chronic_Hypoxia_Lung_Or_Heart_Disease</a><br />
-RELATED::<a href="/entities/condition/high-altitude-adaptation/" class="internal-link">High_Altitude_Adaptation</a><br />
-RELATED::<a href="/entities/condition/polycythemia-vera/" class="internal-link">Polycythemia_Vera</a><br />
-RELATED::<a href="/entities/labtest/complete-blood-count/" class="internal-link">complete_blood_count</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Anemia Of Chronic Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Hypoxia Lung Or Heart Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/high-altitude-adaptation/" class="internal-link">High Altitude Adaptation</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/polycythemia-vera/" class="internal-link">Polycythemia Vera</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/complete-blood-count/" class="internal-link">complete blood count</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/high-altitude-adaptation/" class="internal-link">High_Altitude_Adaptation</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/polycythemia-vera/" class="internal-link">Polycythemia_Vera</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/high-altitude-adaptation/" class="internal-link">High Altitude Adaptation</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/polycythemia-vera/" class="internal-link">Polycythemia Vera</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/entities/condition/iron-deficiency-anemia/" class="internal-link">Iron_Deficiency_Anemia</a><br />
-MAY_DETECT::<a href="/entities/condition/polycythemia-vera/" class="internal-link">Polycythemia_Vera</a><br />
-MAY_DETECT::<a href="/entities/condition/high-altitude-adaptation/" class="internal-link">High_Altitude_Adaptation</a></p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/polycythemia-vera/" class="internal-link">Polycythemia Vera</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/high-altitude-adaptation/" class="internal-link">High Altitude Adaptation</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

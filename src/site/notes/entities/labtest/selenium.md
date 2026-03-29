@@ -1,19 +1,20 @@
 ---
-created: '2026-03-28T19:56:10.525507Z'
+created: '2026-03-29T06:30:14.516342Z'
 description: Selenium test measures this essential trace mineral in blood. Selenium
   is a critical component of selenoproteins including glutathione peroxidases, thioredoxin
   reductases, and iodothyronine deiodinases. It plays vital roles in antioxidant defense,
   thyroid hormone metabolism, and immune function.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/selenium/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/selenium/
 slug: selenium
 tags:
 - labtest
 templateEngineOverride: njk
 title: selenium
 type: labtest
-updated: '2026-03-28T19:56:10.525507Z'
+updated: '2026-03-29T06:30:14.516342Z'
 ---
 
 {% raw %}
@@ -55,7 +56,7 @@ updated: '2026-03-28T19:56:10.525507Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/entities/supplement/selenium/" class="internal-link">selenium</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/supplement/selenium/" class="internal-link">selenium</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -66,9 +67,9 @@ updated: '2026-03-28T19:56:10.525507Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related Tests</h3>
-<p>RELATED_TESTS::<a href="/entities/labtest/thyroid-stimulating-hormone-tsh/" class="internal-link">thyroid_stimulating_hormone_tsh</a><br />
-RELATED_TESTS::<a href="/entities/labtest/thyroid-peroxidase-antibodies-tpo/" class="internal-link">thyroid_peroxidase_antibodies_tpo</a><br />
-RELATED_TESTS::<a href="/entities/labtest/zinc-serum/" class="internal-link">zinc_serum</a></p>
+<p>RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/thyroid-stimulating-hormone-tsh/" class="internal-link">thyroid stimulating hormone tsh</a><br />
+RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/thyroid-peroxidase-antibodies-tpo/" class="internal-link">thyroid peroxidase antibodies tpo</a><br />
+RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/zinc-serum/" class="internal-link">zinc serum</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

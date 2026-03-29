@@ -1,11 +1,12 @@
 ---
-created: '2026-03-28T19:56:09.176672Z'
+created: '2026-03-29T06:30:13.472182Z'
 description: Master regulator of homeostasis, controlling body temperature, hunger,
   thirst, circadian rhythms, and the endocrine system via the pituitary gland. Small
   but critical diencephalic structure.
 dg-home: false
 dg-publish: true
-permalink: /entities/Anatomy/hypothalamus/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/Anatomy/hypothalamus/
 slug: hypothalamus
 tags:
 - Anatomy
@@ -16,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Hypothalamus
 type: Anatomy
-updated: '2026-03-28T19:56:09.176672Z'
+updated: '2026-03-29T06:30:13.472182Z'
 ---
 
 {% raw %}
@@ -32,6 +33,6 @@ updated: '2026-03-28T19:56:09.176672Z'
 <li><strong>Ventromedial</strong> — Satiety center</li>
 </ul>
 <h2>Relationships</h2>
-<p>SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/emotional-regulation/" class="internal-link">Emotional Regulation</a></p>
+<p>SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/emotional-regulation/" class="internal-link">Emotional Regulation</a></p>
 
 {% endraw %}

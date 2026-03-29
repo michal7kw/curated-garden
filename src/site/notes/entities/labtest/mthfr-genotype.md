@@ -1,17 +1,18 @@
 ---
-created: '2026-03-28T19:56:10.441760Z'
+created: '2026-03-29T06:30:14.431439Z'
 description: Tests C677T and A1298C variants affecting folate metabolism and homocysteine
   levels.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/mthfr-genotype/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/mthfr-genotype/
 slug: mthfr-genotype
 tags:
 - labtest
 templateEngineOverride: njk
 title: mthfr_genotype
 type: labtest
-updated: '2026-03-28T19:56:10.441760Z'
+updated: '2026-03-29T06:30:14.431439Z'
 ---
 
 {% raw %}
@@ -53,8 +54,8 @@ updated: '2026-03-28T19:56:10.441760Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/entities/biomarker/mthfr-c677t/" class="internal-link">mthfr_c677t</a></li>
-<li><a href="/entities/biomarker/mthfr-a1298c/" class="internal-link">mthfr_a1298c</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/biomarker/mthfr-c677t/" class="internal-link">mthfr c677t</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/biomarker/mthfr-a1298c/" class="internal-link">mthfr a1298c</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -65,8 +66,8 @@ updated: '2026-03-28T19:56:10.441760Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/biomarker/mthfr-a1298c/" class="internal-link">mthfr_a1298c</a><br />
-RELATED::<a href="/entities/biomarker/mthfr-c677t/" class="internal-link">mthfr_c677t</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/mthfr-a1298c/" class="internal-link">mthfr a1298c</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/mthfr-c677t/" class="internal-link">mthfr c677t</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

@@ -1,12 +1,13 @@
 ---
-created: '2026-03-28T19:56:10.437185Z'
+created: '2026-03-29T06:30:14.428518Z'
 description: Tested twice a year Monocytes are immune cells important for defense,
   inflammation regulation, and tissue repair. These white blood cells can transform
   into macrophages or dendritic cells to fight infections, clear debris, and promote
   healing. The test includes both percentage and absolute levels.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/monocytes/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/monocytes/
 slug: monocytes
 tags:
 - labtest
@@ -15,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: monocytes
 type: labtest
-updated: '2026-03-28T19:56:10.437185Z'
+updated: '2026-03-29T06:30:14.428518Z'
 ---
 
 {% raw %}
@@ -63,23 +64,23 @@ updated: '2026-03-28T19:56:10.437185Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-infection/" class="internal-link">Chronic_Infection</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-infection/" class="internal-link">Chronic Infection</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/autoimmune-disease/" class="internal-link">Autoimmune Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/condition/chronic-infection/" class="internal-link">Chronic_Infection</a><br />
-RELATED::<a href="/entities/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic_inflammatory_response_mold_response</a><br />
-RELATED::<a href="/entities/labtestpanel/extended-immune-regulation/" class="internal-link">extended_immune_regulation</a><br />
-RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
-RELATED::<a href="/entities/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Impaired_Immune_Function</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-infection/" class="internal-link">Chronic Infection</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic inflammatory response mold response</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-immune-regulation/" class="internal-link">extended immune regulation</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/autoimmune-disease/" class="internal-link">Autoimmune Disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Impaired Immune Function</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/entities/condition/autoimmune-disease/" class="internal-link">Autoimmune_Disease</a><br />
-MAY_DETECT::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic_Inflammation</a><br />
-MAY_DETECT::<a href="/entities/condition/chronic-infection/" class="internal-link">Chronic_Infection</a></p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/autoimmune-disease/" class="internal-link">Autoimmune Disease</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/chronic-infection/" class="internal-link">Chronic Infection</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/entities/labtestpanel/extended-immune-regulation/" class="internal-link">extended_immune_regulation</a><br />
-INCLUDED_IN::<a href="/entities/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic_inflammatory_response_mold_response</a></p>
+<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-immune-regulation/" class="internal-link">extended immune regulation</a><br />
+INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic inflammatory response mold response</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

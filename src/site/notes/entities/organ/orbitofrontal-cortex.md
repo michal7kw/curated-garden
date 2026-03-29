@@ -1,15 +1,16 @@
 ---
-created: '2026-03-28T19:56:10.811312Z'
+created: '2026-03-29T06:30:14.778158Z'
 dg-home: false
 dg-publish: true
-permalink: /entities/organ/orbitofrontal-cortex/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/organ/orbitofrontal-cortex/
 slug: orbitofrontal-cortex
 tags:
 - organ
 templateEngineOverride: njk
 title: Orbitofrontal Cortex
 type: organ
-updated: '2026-03-28T19:56:10.811312Z'
+updated: '2026-03-29T06:30:14.778158Z'
 ---
 
 {% raw %}

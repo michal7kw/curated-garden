@@ -1,12 +1,13 @@
 ---
-created: '2026-03-28T19:56:10.108918Z'
+created: '2026-03-29T06:30:14.183288Z'
 description: Mind-body practice combining physical postures (asana), breathwork (pranayama),
   and meditation. Evidence supports benefits for stress reduction, flexibility, balance,
   chronic pain, anxiety, and cardiovascular risk factors. Multiple styles range from
   gentle (Yin, Restorative) to vigorous (Ashtanga, Power Yoga).
 dg-home: false
 dg-publish: true
-permalink: /entities/intervention/yoga/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/intervention/yoga/
 slug: yoga
 tags:
 - intervention
@@ -18,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Yoga
 type: intervention
-updated: '2026-03-28T19:56:10.108918Z'
+updated: '2026-03-29T06:30:14.183288Z'
 ---
 
 {% raw %}
@@ -41,10 +42,10 @@ updated: '2026-03-28T19:56:10.108918Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
-RELATED::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
-RELATED::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
-RELATED::<a href="/entities/intervention/breathwork/" class="internal-link">Breathwork</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/gaba/" class="internal-link">GABA</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/breathwork/" class="internal-link">Breathwork</a></p>
 <h2>Research Support</h2>
 <p>No research studies documented yet.</p>
 <h2>References</h2>

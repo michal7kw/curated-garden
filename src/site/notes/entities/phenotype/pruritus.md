@@ -1,9 +1,10 @@
 ---
-created: '2026-03-28T19:56:11.006423Z'
+created: '2026-03-29T06:30:14.904672Z'
 description: '...'
 dg-home: false
 dg-publish: true
-permalink: /entities/phenotype/pruritus/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/phenotype/pruritus/
 slug: pruritus
 tags:
 - phenotype
@@ -12,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Pruritus
 type: phenotype
-updated: '2026-03-28T19:56:11.006423Z'
+updated: '2026-03-29T06:30:14.904672Z'
 ---
 
 {% raw %}
@@ -21,42 +22,42 @@ updated: '2026-03-28T19:56:11.006423Z'
 <p>...</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">disseminated_superficial_actinic_porokeratosis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">pudendal_neuralgia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">dystrophic_epidermolysis_bullosa</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">linear_atrophoderma_of_Moulin</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">dermatitis_herpetiformis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">microvillus_inclusion_disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">hereditary_leiomyomatosis_and_renal_cell_cancer</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Rotor_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Pruritus_vulvae</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">congenital_panfollicular_nevus_disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Pruritis_on_abdomen</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">lichen_planopilaris</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">autosomal_erythropoietic_protoporphyria</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">acquired_ichthyosis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">hereditary_progressive_mucinous_histiocytosis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">hyperkeratosis_lenticularis_perstans_disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Abnormality_of_skin_physiology</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Pruritis_on_breast</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Pruritis_on_hand</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">peeling_skin_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Pruritus_on_foot</a><br />
-RELATED::<a href="/entities/drug/doxepin/" class="internal-link">Doxepin</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Vaginal_pruritus</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">disseminated superficial actinic porokeratosis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">pudendal neuralgia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">dystrophic epidermolysis bullosa</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">linear atrophoderma of Moulin</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">dermatitis herpetiformis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">microvillus inclusion disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">hereditary leiomyomatosis and renal cell cancer</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Rotor syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Pruritus vulvae</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">congenital panfollicular nevus disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Pruritis on abdomen</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">lichen planopilaris</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">autosomal erythropoietic protoporphyria</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">acquired ichthyosis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">hereditary progressive mucinous histiocytosis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">hyperkeratosis lenticularis perstans disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Abnormality of skin physiology</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Pruritis on breast</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Pruritis on hand</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">peeling skin syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Pruritus on foot</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/drug/doxepin/" class="internal-link">Doxepin</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Vaginal pruritus</a></p>
 <h3>Related To Phenotype</h3>
-<p>RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Pruritis_on_abdomen</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Pruritus_vulvae</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Abnormality_of_skin_physiology</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Pruritus_on_foot</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Pruritis_on_hand</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Pruritis_on_breast</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Vaginal_pruritus</a></p>
+<p>RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Pruritis on abdomen</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Pruritus vulvae</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Abnormality of skin physiology</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Pruritus on foot</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Pruritis on hand</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Pruritis on breast</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Vaginal pruritus</a></p>
 <h3>Excludes Phenotype</h3>
-<p>EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">congenital_panfollicular_nevus_disease</a><br />
-EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">linear_atrophoderma_of_Moulin</a><br />
-EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">peeling_skin_syndrome</a><br />
-EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Rotor_syndrome</a><br />
-EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">pudendal_neuralgia</a></p>
+<p>EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">congenital panfollicular nevus disease</a><br />
+EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">linear atrophoderma of Moulin</a><br />
+EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">peeling skin syndrome</a><br />
+EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Rotor syndrome</a><br />
+EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">pudendal neuralgia</a></p>
 
 {% endraw %}

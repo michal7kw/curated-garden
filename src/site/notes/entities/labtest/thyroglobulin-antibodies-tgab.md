@@ -1,19 +1,20 @@
 ---
-created: '2026-03-28T19:56:10.546990Z'
+created: '2026-03-29T06:30:14.538317Z'
 description: Thyroglobulin antibodies are proteins made by the immune system that
   mistakenly target thyroglobulin, a protein the thyroid uses to make hormones. Their
   presence can signal autoimmune activity affecting the thyroid, which may interfere
   with hormone production and metabolism.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/thyroglobulin-antibodies-tgab/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/thyroglobulin-antibodies-tgab/
 slug: thyroglobulin-antibodies-tgab
 tags:
 - labtest
 templateEngineOverride: njk
 title: thyroglobulin_antibodies_tgab
 type: labtest
-updated: '2026-03-28T19:56:10.546990Z'
+updated: '2026-03-29T06:30:14.538317Z'
 ---
 
 {% raw %}
@@ -61,18 +62,18 @@ updated: '2026-03-28T19:56:10.546990Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Other_Autoimmune_Diseases_EG_Type_1_Diabetes_Rheumatoid_Arthritis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Papillary_Thyroid_Cancer</a><br />
-RELATED::<a href="/entities/condition/hashimotos-thyroiditis/" class="internal-link">HashimotoS_Thyroiditis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Autoimmune_Hypothyroidism</a><br />
-RELATED::<a href="/entities/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a><br />
-RELATED::<a href="/entities/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Other Autoimmune Diseases EG Type 1 Diabetes Rheumatoid Arthritis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Papillary Thyroid Cancer</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/hashimotos-thyroiditis/" class="internal-link">HashimotoS Thyroiditis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Autoimmune Hypothyroidism</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-thyroid-health/" class="internal-link">extended thyroid health</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical Hypothyroidism</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/entities/labtestpanel/extended-thyroid-health/" class="internal-link">extended_thyroid_health</a></p>
+<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-thyroid-health/" class="internal-link">extended thyroid health</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical Hypothyroidism</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/entities/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical_Hypothyroidism</a></p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical Hypothyroidism</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

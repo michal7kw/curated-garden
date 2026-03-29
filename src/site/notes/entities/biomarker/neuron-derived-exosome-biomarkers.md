@@ -1,11 +1,12 @@
 ---
-created: '2026-03-28T19:56:09.336061Z'
+created: '2026-03-29T06:30:13.592621Z'
 description: Blood-based biomarkers isolated from brain-derived extracellular vesicles
   (exosomes) that cross the blood-brain barrier. Provide a non-invasive window into
   CNS pathology including Aβ, tau, and α-synuclein.
 dg-home: false
 dg-publish: true
-permalink: /entities/biomarker/neuron-derived-exosome-biomarkers/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/neuron-derived-exosome-biomarkers/
 slug: neuron-derived-exosome-biomarkers
 tags:
 - biomarker
@@ -17,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Neuron-Derived Exosome Biomarkers
 type: biomarker
-updated: '2026-03-28T19:56:09.336061Z'
+updated: '2026-03-29T06:30:13.592621Z'
 ---
 
 {% raw %}
@@ -26,17 +27,17 @@ updated: '2026-03-28T19:56:09.336061Z'
 <p>Blood-based biomarkers isolated from brain-derived extracellular vesicles (exosomes) that cross the blood-brain barrier. Provide a non-invasive window into CNS pathology including Aβ, tau, and α-synuclein.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/biomarker/blood-nfl/" class="internal-link">Blood_NfL</a><br />
-RELATED::<a href="/entities/pathway/amyloid-cascade/" class="internal-link">Amyloid_Cascade</a><br />
-RELATED::<a href="/entities/biomarker/plasma-p-tau217/" class="internal-link">Plasma_p-tau217</a><br />
-RELATED::<a href="/entities/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a><br />
-RELATED::<a href="/entities/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein_Aggregation</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Parkinsons_Disease</a><br />
-RELATED::<a href="/entities/biomarker/neuron-derived-exosome-biomarkers/" class="internal-link">Neuron-Derived_Exosome_Biomarkers</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a><br />
-RELATED::<a href="/entities/biomarker/plasma-amyloid-beta-ratio/" class="internal-link">Plasma_Amyloid-Beta_Ratio</a><br />
-RELATED::<a href="/entities/pathway/tau-phosphorylation/" class="internal-link">Tau_Phosphorylation</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Alpha-Synuclein_SAA</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Type_2_Diabetes</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/blood-nfl/" class="internal-link">Blood NfL</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/amyloid-cascade/" class="internal-link">Amyloid Cascade</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/plasma-p-tau217/" class="internal-link">Plasma p-tau217</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal Dementia</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein Aggregation</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Parkinsons Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/neuron-derived-exosome-biomarkers/" class="internal-link">Neuron-Derived Exosome Biomarkers</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/plasma-amyloid-beta-ratio/" class="internal-link">Plasma Amyloid-Beta Ratio</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/tau-phosphorylation/" class="internal-link">Tau Phosphorylation</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Alpha-Synuclein SAA</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a></p>
 
 {% endraw %}

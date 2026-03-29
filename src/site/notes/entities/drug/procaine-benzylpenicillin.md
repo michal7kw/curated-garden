@@ -1,10 +1,11 @@
 ---
-created: '2026-03-28T19:56:09.977501Z'
+created: '2026-03-29T06:30:14.065892Z'
 description: A long-acting form of Penicillin G combined with procaine to slow absorption
   and reduce injection site pain.
 dg-home: false
 dg-publish: true
-permalink: /entities/drug/procaine-benzylpenicillin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/drug/procaine-benzylpenicillin/
 slug: procaine-benzylpenicillin
 tags:
 - drug
@@ -14,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Procaine Benzylpenicillin
 type: drug
-updated: '2026-03-28T19:56:09.977501Z'
+updated: '2026-03-29T06:30:14.065892Z'
 ---
 
 {% raw %}

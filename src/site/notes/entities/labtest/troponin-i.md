@@ -1,18 +1,19 @@
 ---
-created: '2026-03-28T19:56:10.584563Z'
+created: '2026-03-29T06:30:14.572384Z'
 description: High-sensitivity cardiac troponin I (hs-cTnI) test. Detects myocardial
   injury by measuring cardiac-specific troponin I protein released from damaged cardiomyocytes.
   Essential for acute coronary syndrome diagnosis and risk stratification.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/troponin-i/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/troponin-i/
 slug: troponin-i
 tags:
 - labtest
 templateEngineOverride: njk
 title: troponin_i
 type: labtest
-updated: '2026-03-28T19:56:10.584563Z'
+updated: '2026-03-29T06:30:14.572384Z'
 ---
 
 {% raw %}
@@ -54,7 +55,7 @@ updated: '2026-03-28T19:56:10.584563Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/entities/biomarker/troponin/" class="internal-link">troponin</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/biomarker/troponin/" class="internal-link">troponin</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -65,12 +66,12 @@ updated: '2026-03-28T19:56:10.584563Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/myocardial-infarction/" class="internal-link">Myocardial_Infarction</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/heart-failure/" class="internal-link">Heart_Failure</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/myocardial-infarction/" class="internal-link">Myocardial Infarction</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/heart-failure/" class="internal-link">Heart Failure</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/entities/labtestpanel/cardiac-biomarker-panel/" class="internal-link">cardiac_biomarker_panel</a></p>
+<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/cardiac-biomarker-panel/" class="internal-link">cardiac biomarker panel</a></p>
 <h3>Measures</h3>
-<p>MEASURES::<a href="/entities/biomarker/troponin/" class="internal-link">Troponin</a></p>
+<p>MEASURES::<a href="/garden/michal.k7w@gmail.com/biomarker/troponin/" class="internal-link">Troponin</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

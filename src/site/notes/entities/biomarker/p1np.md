@@ -1,19 +1,20 @@
 ---
-created: '2026-03-28T19:56:09.345063Z'
+created: '2026-03-29T06:30:13.600951Z'
 description: Procollagen type I N-terminal propeptide is the most sensitive marker
   of bone formation. It is cleaved from type I collagen during bone synthesis and
   reflects osteoblast activity. Used to monitor osteoporosis treatment response and
   assess bone turnover.
 dg-home: false
 dg-publish: true
-permalink: /entities/biomarker/p1np/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/p1np/
 slug: p1np
 tags:
 - biomarker
 templateEngineOverride: njk
 title: P1NP
 type: biomarker
-updated: '2026-03-28T19:56:09.345063Z'
+updated: '2026-03-29T06:30:13.600951Z'
 ---
 
 {% raw %}
@@ -22,14 +23,14 @@ updated: '2026-03-28T19:56:09.345063Z'
 <p>Procollagen type I N-terminal propeptide is the most sensitive marker of bone formation. It is cleaved from type I collagen during bone synthesis and reflects osteoblast activity. Used to monitor osteoporosis treatment response and assess bone turnover.</p>
 <h2>Relationships</h2>
 <h3>Correlated With</h3>
-<p>CORRELATED_WITH::<a href="/entities/labtest/osteocalcin/" class="internal-link">Osteocalcin</a><br />
-CORRELATED_WITH::<a href="/entities/labtest/vitamin-d/" class="internal-link">Vitamin_D</a><br />
-CORRELATED_WITH::<a href="/entities/labtest/ctx/" class="internal-link">CTX</a><br />
-CORRELATED_WITH::<a href="/entities/biomarker/alkaline-phosphatase/" class="internal-link">Alkaline_Phosphatase</a><br />
-CORRELATED_WITH::<a href="/entities/labtest/calcium/" class="internal-link">Calcium</a></p>
+<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/osteocalcin/" class="internal-link">Osteocalcin</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-d/" class="internal-link">Vitamin D</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/ctx/" class="internal-link">CTX</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/alkaline-phosphatase/" class="internal-link">Alkaline Phosphatase</a><br />
+CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/calcium/" class="internal-link">Calcium</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Pagets_Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/osteoporosis/" class="internal-link">Osteoporosis</a><br />
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Pagets Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/osteoporosis/" class="internal-link">Osteoporosis</a><br />
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Osteopenia</a></p>
 
 {% endraw %}

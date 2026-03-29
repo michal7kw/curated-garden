@@ -1,11 +1,12 @@
 ---
-created: '2026-03-28T19:56:11.389419Z'
+created: '2026-03-29T06:30:15.191039Z'
 description: Essential water-soluble vitamin and powerful antioxidant. Supports immune
   function, collagen synthesis, iron absorption, and stress response. Humans cannot
   synthesize it and must obtain it from diet or supplements.
 dg-home: false
 dg-publish: true
-permalink: /entities/supplement/vitamin-c/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/supplement/vitamin-c/
 slug: vitamin-c
 tags:
 - supplement
@@ -17,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Vitamin C
 type: supplement
-updated: '2026-03-28T19:56:11.389419Z'
+updated: '2026-03-29T06:30:15.191039Z'
 ---
 
 {% raw %}
@@ -31,38 +32,38 @@ updated: '2026-03-28T19:56:11.389419Z'
 <p>500-2000 mg daily; higher during illness</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Iron_Deficiency_Pattern</a><br />
-RELATED::<a href="/entities/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a><br />
-RELATED::<a href="/entities/organ/skin/" class="internal-link">Skin</a><br />
-RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
-RELATED::<a href="/entities/supplement/vitamin-e/" class="internal-link">Vitamin_E</a><br />
-RELATED::<a href="/entities/organ/adrenal-glands/" class="internal-link">Adrenal_Glands</a><br />
-RELATED::<a href="/entities/supplement/iron/" class="internal-link">Iron</a><br />
-RELATED::<a href="/entities/organ/immune-system/" class="internal-link">Immune_System</a><br />
-RELATED::<a href="/entities/condition/iron-deficiency/" class="internal-link">Iron_Deficiency</a><br />
-RELATED::<a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a><br />
-RELATED::<a href="/entities/supplement/nac/" class="internal-link">NAC</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Iron Deficiency Pattern</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/organ/skin/" class="internal-link">Skin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-e/" class="internal-link">Vitamin E</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/organ/adrenal-glands/" class="internal-link">Adrenal Glands</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/iron/" class="internal-link">Iron</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/organ/immune-system/" class="internal-link">Immune System</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency/" class="internal-link">Iron Deficiency</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/glutathione/" class="internal-link">Glutathione</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/nac/" class="internal-link">NAC</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs_Crp</a><br />
-AFFECTS_BIOMARKER::<a href="/entities/labtest/ferritin/" class="internal-link">Ferritin</a></p>
+<p>AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
+AFFECTS_BIOMARKER::<a href="/garden/michal.k7w@gmail.com/labtest/ferritin/" class="internal-link">Ferritin</a></p>
 <h3>Synergistic With</h3>
-<p>SYNERGISTIC_WITH::<a href="/entities/supplement/iron/" class="internal-link">Iron</a><br />
-SYNERGISTIC_WITH::<a href="/entities/supplement/nac/" class="internal-link">NAC</a><br />
-SYNERGISTIC_WITH::<a href="/entities/supplement/vitamin-e/" class="internal-link">Vitamin_E</a></p>
+<p>SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/iron/" class="internal-link">Iron</a><br />
+SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/nac/" class="internal-link">NAC</a><br />
+SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-e/" class="internal-link">Vitamin E</a></p>
 <h3>Regenerates</h3>
-<p>REGENERATES::<a href="/entities/supplement/vitamin-e/" class="internal-link">Vitamin_E</a><br />
-REGENERATES::<a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a></p>
+<p>REGENERATES::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-e/" class="internal-link">Vitamin E</a><br />
+REGENERATES::<a href="/garden/michal.k7w@gmail.com/supplement/glutathione/" class="internal-link">Glutathione</a></p>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/entities/organ/adrenal-glands/" class="internal-link">Adrenal_Glands</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/skin/" class="internal-link">Skin</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/immune-system/" class="internal-link">Immune_System</a></p>
+<p>AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/adrenal-glands/" class="internal-link">Adrenal Glands</a><br />
+AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/skin/" class="internal-link">Skin</a><br />
+AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/immune-system/" class="internal-link">Immune System</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/immune-system-disorder/" class="internal-link">Immune System Disorder</a><br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a><br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a><br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/inflammation/" class="internal-link">Inflammation</a><br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/chronic-stress/" class="internal-link">Chronic Stress</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/immune-system-disorder/" class="internal-link">Immune System Disorder</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/inflammation/" class="internal-link">Inflammation</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-stress/" class="internal-link">Chronic Stress</a></p>
 
 {% endraw %}

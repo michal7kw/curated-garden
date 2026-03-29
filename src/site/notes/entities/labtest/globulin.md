@@ -1,11 +1,12 @@
 ---
-created: '2026-03-28T19:56:10.289079Z'
+created: '2026-03-29T06:30:14.313263Z'
 description: Tested twice a year Globulin is a protein essential for liver function,
   blood clotting, and immune system operations. Abnormal globulin levels may indicate
   changes affecting the liver, immune system, or overall health.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/globulin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/globulin/
 slug: globulin
 tags:
 - labtest
@@ -14,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: globulin
 type: labtest
-updated: '2026-03-28T19:56:10.289079Z'
+updated: '2026-03-29T06:30:14.313263Z'
 ---
 
 {% raw %}
@@ -62,11 +63,11 @@ updated: '2026-03-28T19:56:10.289079Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Malnutrition_Or_Poor_Absorption</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Monoclonal_Gammopathies_EG_Multiple_Myeloma_Mgus</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Chronic_Inflammation_EG_Autoimmune_Disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Malnutrition Or Poor Absorption</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Monoclonal Gammopathies EG Multiple Myeloma Mgus</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation EG Autoimmune Disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Liver Dysfunction</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

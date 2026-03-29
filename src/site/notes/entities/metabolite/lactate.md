@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:56:10.724021Z'
+created: '2026-03-29T06:30:14.711997Z'
 description: End product of anaerobic glycolysis, now recognized as a key metabolic
   signaling molecule rather than simply a waste product. Serves as fuel for heart,
   brain, and oxidative muscle fibers via the lactate shuttle. Important signaling
@@ -7,7 +7,8 @@ description: End product of anaerobic glycolysis, now recognized as a key metabo
   and immune modulation.
 dg-home: false
 dg-publish: true
-permalink: /entities/metabolite/lactate/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/metabolite/lactate/
 slug: lactate
 tags:
 - metabolite
@@ -18,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Lactate
 type: metabolite
-updated: '2026-03-28T19:56:10.724021Z'
+updated: '2026-03-29T06:30:14.711997Z'
 ---
 
 {% raw %}
@@ -27,9 +28,9 @@ updated: '2026-03-28T19:56:10.724021Z'
 <p>End product of anaerobic glycolysis, now recognized as a key metabolic signaling molecule rather than simply a waste product. Serves as fuel for heart, brain, and oxidative muscle fibers via the lactate shuttle. Important signaling molecule (lactylation, HCAR1 receptor) involved in angiogenesis, neuroplasticity, and immune modulation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/metabolite/pyruvate/" class="internal-link">Pyruvate</a><br />
-RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
-RELATED::<a href="/entities/intervention/exercise/" class="internal-link">Exercise</a><br />
-RELATED::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/pyruvate/" class="internal-link">Pyruvate</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/exercise/" class="internal-link">Exercise</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/bdnf/" class="internal-link">BDNF</a></p>
 
 {% endraw %}

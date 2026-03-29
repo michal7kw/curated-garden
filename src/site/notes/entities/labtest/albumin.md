@@ -1,11 +1,12 @@
 ---
-created: '2026-03-28T19:56:10.126809Z'
+created: '2026-03-29T06:30:14.200202Z'
 description: Tested twice a year Albumin is the most abundant protein in the blood
   and plays a vital role in maintaining fluid balance and transporting nutrients.
   Healthy albumin levels are a good indicator of liver function and overall health.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/albumin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/albumin/
 slug: albumin
 tags:
 - labtest
@@ -14,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: albumin
 type: labtest
-updated: '2026-03-28T19:56:10.126809Z'
+updated: '2026-03-29T06:30:14.200202Z'
 ---
 
 {% raw %}
@@ -56,7 +57,7 @@ updated: '2026-03-28T19:56:10.126809Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/entities/labtest/albumin/" class="internal-link">albumin</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/albumin/" class="internal-link">albumin</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -67,19 +68,19 @@ updated: '2026-03-28T19:56:10.126809Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/entities/condition/heart-failure/" class="internal-link">Heart_Failure</a><br />
-MAY_DETECT::<a href="/entities/condition/nephrotic-syndrome/" class="internal-link">Nephrotic_Syndrome</a></p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/heart-failure/" class="internal-link">Heart Failure</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/nephrotic-syndrome/" class="internal-link">Nephrotic Syndrome</a></p>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Chronic_Liver_Disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Chronic_Inflammation_EG_Autoimmune_Disease</a><br />
-RELATED::<a href="/entities/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a><br />
-RELATED::<a href="/entities/condition/nephrotic-syndrome/" class="internal-link">Nephrotic_Syndrome</a><br />
-RELATED::<a href="/entities/labtest/liver-function-panel/" class="internal-link">liver_function_panel</a><br />
-RELATED::<a href="/entities/condition/heart-failure/" class="internal-link">Heart_Failure</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Liver Disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation EG Autoimmune Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive metabolic panel</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/nephrotic-syndrome/" class="internal-link">Nephrotic Syndrome</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/liver-function-panel/" class="internal-link">liver function panel</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/heart-failure/" class="internal-link">Heart Failure</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Malnutrition</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/nephrotic-syndrome/" class="internal-link">Nephrotic_Syndrome</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/heart-failure/" class="internal-link">Heart_Failure</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/nephrotic-syndrome/" class="internal-link">Nephrotic Syndrome</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/heart-failure/" class="internal-link">Heart Failure</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

@@ -1,11 +1,12 @@
 ---
-created: '2026-03-28T19:56:11.144292Z'
+created: '2026-03-29T06:30:15.028492Z'
 description: Mitochondrial transcription factor A, essential for mitochondrial DNA
   replication, transcription, and maintenance. A nuclear-encoded protein that packages
   mtDNA into nucleoids and is required for mitochondrial biogenesis.
 dg-home: false
 dg-publish: true
-permalink: /entities/protein/tfam/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/protein/tfam/
 slug: tfam
 tags:
 - protein
@@ -16,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: TFAM
 type: protein
-updated: '2026-03-28T19:56:11.144292Z'
+updated: '2026-03-29T06:30:15.028492Z'
 ---
 
 {% raw %}
@@ -25,12 +26,12 @@ updated: '2026-03-28T19:56:11.144292Z'
 <p>Mitochondrial transcription factor A, essential for mitochondrial DNA replication, transcription, and maintenance. A nuclear-encoded protein that packages mtDNA into nucleoids and is required for mitochondrial biogenesis.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a><br />
-RELATED::<a href="/entities/supplement/nmn/" class="internal-link">NMN</a><br />
-RELATED::<a href="/entities/supplement/berberine/" class="internal-link">Berberine</a><br />
-RELATED::<a href="/entities/supplement/pqq/" class="internal-link">PQQ</a><br />
-RELATED::<a href="/entities/supplement/resveratrol/" class="internal-link">Resveratrol</a><br />
-RELATED::<a href="/entities/metabolite/nicotinamide-riboside/" class="internal-link">Nicotinamide_Riboside</a><br />
-RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/nmn/" class="internal-link">NMN</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/berberine/" class="internal-link">Berberine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/pqq/" class="internal-link">PQQ</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/resveratrol/" class="internal-link">Resveratrol</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/nicotinamide-riboside/" class="internal-link">Nicotinamide Riboside</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 
 {% endraw %}

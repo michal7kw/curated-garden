@@ -1,9 +1,10 @@
 ---
-created: '2026-03-28T19:56:11.159731Z'
+created: '2026-03-29T06:30:14.996744Z'
 description: '...'
 dg-home: false
 dg-publish: true
-permalink: /entities/protein/identical-protein-binding/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/protein/identical-protein-binding/
 slug: identical-protein-binding
 tags:
 - protein
@@ -12,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: identical protein binding
 type: protein
-updated: '2026-03-28T19:56:11.159731Z'
+updated: '2026-03-29T06:30:14.996744Z'
 ---
 
 {% raw %}
@@ -21,10 +22,10 @@ updated: '2026-03-28T19:56:11.159731Z'
 <p>...</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/protein/protein-binding/" class="internal-link">protein_binding</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">protein_homodimerization_activity</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/protein/protein-binding/" class="internal-link">protein binding</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">protein homodimerization activity</a></p>
 <h3>Related To Function</h3>
-<p>RELATED_TO_FUNCTION::<a href="/entities/protein/protein-binding/" class="internal-link">protein_binding</a><br />
-RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">protein_homodimerization_activity</a></p>
+<p>RELATED_TO_FUNCTION::<a href="/garden/michal.k7w@gmail.com/protein/protein-binding/" class="internal-link">protein binding</a><br />
+RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">protein homodimerization activity</a></p>
 
 {% endraw %}

@@ -1,10 +1,11 @@
 ---
-created: '2026-03-28T19:56:10.963342Z'
+created: '2026-03-29T06:30:14.878735Z'
 description: A subjective feeling of tiredness or lack of energy that is not proportional
   to recent activity level.
 dg-home: false
 dg-publish: true
-permalink: /entities/phenotype/fatigue/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/phenotype/fatigue/
 slug: fatigue
 tags:
 - phenotype
@@ -13,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Fatigue
 type: phenotype
-updated: '2026-03-28T19:56:10.963342Z'
+updated: '2026-03-29T06:30:14.878735Z'
 ---
 
 {% raw %}
@@ -22,46 +23,46 @@ updated: '2026-03-28T19:56:10.963342Z'
 <p>A subjective feeling of tiredness or lack of energy that is not proportional to recent activity level.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Pontiac_fever</a><br />
-RELATED::<a href="/entities/labtest/tsh/" class="internal-link">Tsh</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">cystic_echinococcosis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">hereditary_pheochromocytoma-paraganglioma</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">insulin-resistance_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">peripartum_cardiomyopathy</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">spontaneous_periodic_hypothermia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">hyperinsulinism_due_to_glucokinase_deficiency</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">POEMS_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">follicular_lymphoma</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">renal_nutcracker_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Cognitive_fatigue</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Postexertional_malaise</a><br />
-RELATED::<a href="/entities/supplement/rhodiola-rosea/" class="internal-link">Rhodiola_Rosea</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Sjogren_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Chronic_fatigue</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">acute_interstitial_pneumonia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">typhoid_fever</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">non-secreting_paraganglioma</a><br />
-RELATED::<a href="/entities/labtest/ferritin/" class="internal-link">Ferritin</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Ehlers-Danlos_syndrome_due_to_tenascin-X_deficiency</a><br />
-RELATED::<a href="/entities/labtest/vitamin-b12/" class="internal-link">Vitamin_B12</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">methylmalonic_aciduriaacidemia_and_homocystinuria</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Constitutional_symptom</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">genetic_hyperferritinemia_without_iron_overload</a><br />
-RELATED::<a href="/entities/labtest/vitamin-d/" class="internal-link">Vitamin_D</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">monocytic_leukemia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">myotonia_fluctuans</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Hennekam-Beemer_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">mal_de_Debarquement</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">postorgasmic_illness_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Erdheim-Chester_disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">idiopathic_andor_familial_pulmonary_arterial_hypertension</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Episodic_fatigue</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Pontiac fever</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/tsh/" class="internal-link">Tsh</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">cystic echinococcosis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">hereditary pheochromocytoma-paraganglioma</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">insulin-resistance syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">peripartum cardiomyopathy</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">spontaneous periodic hypothermia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">hyperinsulinism due to glucokinase deficiency</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">POEMS syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">follicular lymphoma</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">renal nutcracker syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Cognitive fatigue</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Postexertional malaise</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/rhodiola-rosea/" class="internal-link">Rhodiola Rosea</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Sjogren syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Chronic fatigue</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">acute interstitial pneumonia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">typhoid fever</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">non-secreting paraganglioma</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/ferritin/" class="internal-link">Ferritin</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Ehlers-Danlos syndrome due to tenascin-X deficiency</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/vitamin-b12/" class="internal-link">Vitamin B12</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">methylmalonic aciduriaacidemia and homocystinuria</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Constitutional symptom</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">genetic hyperferritinemia without iron overload</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-d/" class="internal-link">Vitamin D</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">monocytic leukemia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">myotonia fluctuans</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hennekam-Beemer syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">mal de Debarquement</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">postorgasmic illness syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Erdheim-Chester disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">idiopathic andor familial pulmonary arterial hypertension</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Episodic fatigue</a></p>
 <h3>Related To Phenotype</h3>
-<p>RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Chronic_fatigue</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Episodic_fatigue</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Cognitive_fatigue</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Constitutional_symptom</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Postexertional_malaise</a></p>
+<p>RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Chronic fatigue</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Episodic fatigue</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Cognitive fatigue</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Constitutional symptom</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Postexertional malaise</a></p>
 
 {% endraw %}

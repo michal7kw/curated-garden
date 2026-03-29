@@ -1,10 +1,11 @@
 ---
-created: '2026-03-28T19:56:09.663741Z'
+created: '2026-03-29T06:30:13.878454Z'
 description: A rare disorder involving the clonal proliferation of Langerhans cells,
   abnormal immune cells that form tumors and damage tissue.
 dg-home: false
 dg-publish: true
-permalink: /entities/condition/langerhans-cell-histiocytosis/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/langerhans-cell-histiocytosis/
 slug: langerhans-cell-histiocytosis
 tags:
 - condition
@@ -15,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Langerhans Cell Histiocytosis
 type: condition
-updated: '2026-03-28T19:56:09.663741Z'
+updated: '2026-03-29T06:30:13.878454Z'
 ---
 
 {% raw %}
@@ -24,10 +25,10 @@ updated: '2026-03-28T19:56:09.663741Z'
 <p>A rare disorder involving the clonal proliferation of Langerhans cells, abnormal immune cells that form tumors and damage tissue.</p>
 <h2>Relationships</h2>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/esr/" class="internal-link">Esr</a><br />
-ASSOCIATED_WITH::<a href="/entities/biomarker/lactate-dehydrogenase/" class="internal-link">Lactate Dehydrogenase</a><br />
-ASSOCIATED_WITH::<a href="/entities/biomarker/wbc/" class="internal-link">Wbc</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
-ASSOCIATED_WITH::<a href="/entities/biomarker/alkaline-phosphatase/" class="internal-link">Alkaline Phosphatase</a></p>
+<p>ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/esr/" class="internal-link">Esr</a><br />
+ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/lactate-dehydrogenase/" class="internal-link">Lactate Dehydrogenase</a><br />
+ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/wbc/" class="internal-link">Wbc</a><br />
+ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
+ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/alkaline-phosphatase/" class="internal-link">Alkaline Phosphatase</a></p>
 
 {% endraw %}

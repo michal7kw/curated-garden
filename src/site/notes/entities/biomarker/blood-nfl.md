@@ -1,11 +1,12 @@
 ---
-created: '2026-03-28T19:56:09.217541Z'
+created: '2026-03-29T06:30:13.509167Z'
 description: Serum or plasma neurofilament light chain measurement using ultrasensitive
   immunoassays. A universal blood biomarker for neurodegeneration with applications
   across multiple neurological diseases.
 dg-home: false
 dg-publish: true
-permalink: /entities/biomarker/blood-nfl/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/blood-nfl/
 slug: blood-nfl
 tags:
 - biomarker
@@ -16,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Blood NfL
 type: biomarker
-updated: '2026-03-28T19:56:09.217541Z'
+updated: '2026-03-29T06:30:13.509167Z'
 ---
 
 {% raw %}
@@ -25,23 +26,23 @@ updated: '2026-03-28T19:56:09.217541Z'
 <p>Serum or plasma neurofilament light chain measurement using ultrasensitive immunoassays. A universal blood biomarker for neurodegeneration with applications across multiple neurological diseases.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/biomarker/gfap/" class="internal-link">GFAP</a><br />
-RELATED::<a href="/entities/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal_Dementia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Huntingtons_Disease</a><br />
-RELATED::<a href="/entities/pathway/tau-phosphorylation/" class="internal-link">Tau_Phosphorylation</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Alpha-Synuclein_SAA</a><br />
-RELATED::<a href="/entities/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein_Aggregation</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Retinal_Imaging_for_Neurodegeneration</a><br />
-RELATED::<a href="/entities/biomarker/digital-biomarkers-for-neurodegeneration/" class="internal-link">Digital_Biomarkers_for_Neurodegeneration</a><br />
-RELATED::<a href="/entities/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament_Light_Chain</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Traumatic_Brain_Injury</a><br />
-RELATED::<a href="/entities/biomarker/neuron-derived-exosome-biomarkers/" class="internal-link">Neuron-Derived_Exosome_Biomarkers</a><br />
-RELATED::<a href="/entities/condition/amyotrophic-lateral-sclerosis/" class="internal-link">Amyotrophic_Lateral_Sclerosis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Parkinsons_Disease</a><br />
-RELATED::<a href="/entities/biomarker/uch-l1/" class="internal-link">UCH-L1</a><br />
-RELATED::<a href="/entities/biomarker/plasma-p-tau217/" class="internal-link">Plasma_p-tau217</a><br />
-RELATED::<a href="/entities/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Multiple_Sclerosis</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/gfap/" class="internal-link">GFAP</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal Dementia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Huntingtons Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/tau-phosphorylation/" class="internal-link">Tau Phosphorylation</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Alpha-Synuclein SAA</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein Aggregation</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Retinal Imaging for Neurodegeneration</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/digital-biomarkers-for-neurodegeneration/" class="internal-link">Digital Biomarkers for Neurodegeneration</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Traumatic Brain Injury</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/neuron-derived-exosome-biomarkers/" class="internal-link">Neuron-Derived Exosome Biomarkers</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/amyotrophic-lateral-sclerosis/" class="internal-link">Amyotrophic Lateral Sclerosis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Parkinsons Disease</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/uch-l1/" class="internal-link">UCH-L1</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/plasma-p-tau217/" class="internal-link">Plasma p-tau217</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers Disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Multiple Sclerosis</a></p>
 
 {% endraw %}

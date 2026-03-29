@@ -1,18 +1,19 @@
 ---
-created: '2026-03-28T19:56:10.056497Z'
+created: '2026-03-29T06:30:14.134393Z'
 description: Thyroid hormones (T4/thyroxine and T3/triiodothyronine) regulate metabolism,
   energy production, growth, and development in virtually every tissue. Essential
   for normal brain development, body temperature regulation, and metabolic rate.
 dg-home: false
 dg-publish: true
-permalink: /entities/hormone/thyroid-hormones/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/hormone/thyroid-hormones/
 slug: thyroid-hormones
 tags:
 - hormone
 templateEngineOverride: njk
 title: Thyroid Hormones
 type: hormone
-updated: '2026-03-28T19:56:10.056497Z'
+updated: '2026-03-29T06:30:14.134393Z'
 ---
 
 {% raw %}
@@ -21,10 +22,10 @@ updated: '2026-03-28T19:56:10.056497Z'
 <p>Thyroid hormones (T4/thyroxine and T3/triiodothyronine) regulate metabolism, energy production, growth, and development in virtually every tissue. Essential for normal brain development, body temperature regulation, and metabolic rate.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/labtest/zinc/" class="internal-link">Zinc</a><br />
-RELATED::<a href="/entities/labtest/vitamin-d/" class="internal-link">Vitamin_D</a><br />
-RELATED::<a href="/entities/supplement/selenium/" class="internal-link">Selenium</a><br />
-RELATED::<a href="/entities/supplement/ashwagandha/" class="internal-link">Ashwagandha</a><br />
-RELATED::<a href="/entities/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/zinc/" class="internal-link">Zinc</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-d/" class="internal-link">Vitamin D</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/selenium/" class="internal-link">Selenium</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/ashwagandha/" class="internal-link">Ashwagandha</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a></p>
 
 {% endraw %}

@@ -1,17 +1,18 @@
 ---
-created: '2026-03-28T19:56:10.258695Z'
+created: '2026-03-29T06:30:14.294186Z'
 description: Non-specific marker of inflammation. Used in monitoring inflammatory
   conditions.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/esr/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/esr/
 slug: esr
 tags:
 - labtest
 templateEngineOverride: njk
 title: esr
 type: labtest
-updated: '2026-03-28T19:56:10.258695Z'
+updated: '2026-03-29T06:30:14.294186Z'
 ---
 
 {% raw %}

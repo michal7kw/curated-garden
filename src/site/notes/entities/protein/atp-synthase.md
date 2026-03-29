@@ -1,12 +1,13 @@
 ---
-created: '2026-03-28T19:56:11.051972Z'
+created: '2026-03-29T06:30:14.941004Z'
 description: The molecular turbine that synthesizes ATP from ADP and phosphate using
   the proton gradient across the inner mitochondrial membrane. Also known as Complex
   V of the electron transport chain, it is one of nature's most remarkable molecular
   machines.
 dg-home: false
 dg-publish: true
-permalink: /entities/protein/atp-synthase/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/protein/atp-synthase/
 slug: atp-synthase
 tags:
 - protein
@@ -18,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: ATP Synthase
 type: protein
-updated: '2026-03-28T19:56:11.051972Z'
+updated: '2026-03-29T06:30:14.941004Z'
 ---
 
 {% raw %}
@@ -27,11 +28,11 @@ updated: '2026-03-28T19:56:11.051972Z'
 <p>The molecular turbine that synthesizes ATP from ADP and phosphate using the proton gradient across the inner mitochondrial membrane. Also known as Complex V of the electron transport chain, it is one of nature's most remarkable molecular machines.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/supplement/creatine/" class="internal-link">Creatine</a><br />
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/creatine/" class="internal-link">Creatine</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">CoQ10</a><br />
-RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
-RELATED::<a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a><br />
-RELATED::<a href="/entities/supplement/nmn/" class="internal-link">NMN</a><br />
-RELATED::<a href="/entities/metabolite/nicotinamide-riboside/" class="internal-link">Nicotinamide_Riboside</a></p>
+RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/magnesium/" class="internal-link">Magnesium</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/nmn/" class="internal-link">NMN</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/nicotinamide-riboside/" class="internal-link">Nicotinamide Riboside</a></p>
 
 {% endraw %}

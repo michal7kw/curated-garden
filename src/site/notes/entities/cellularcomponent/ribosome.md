@@ -1,12 +1,13 @@
 ---
-created: '2026-03-28T19:56:09.426743Z'
+created: '2026-03-29T06:30:13.666254Z'
 description: Macromolecular machine composed of ribosomal RNA and proteins that catalyzes
   protein synthesis (translation). Eukaryotic ribosomes (80S) consist of a large 60S
   and small 40S subunit. Found free in the cytoplasm or bound to the endoplasmic reticulum.
   One of the most abundant cellular structures.
 dg-home: false
 dg-publish: true
-permalink: /entities/cellularcomponent/ribosome/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/cellularcomponent/ribosome/
 slug: ribosome
 tags:
 - cellularcomponent
@@ -16,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Ribosome
 type: cellularcomponent
-updated: '2026-03-28T19:56:09.426743Z'
+updated: '2026-03-29T06:30:13.666254Z'
 ---
 
 {% raw %}
@@ -25,7 +26,7 @@ updated: '2026-03-28T19:56:09.426743Z'
 <p>Macromolecular machine composed of ribosomal RNA and proteins that catalyzes protein synthesis (translation). Eukaryotic ribosomes (80S) consist of a large 60S and small 40S subunit. Found free in the cytoplasm or bound to the endoplasmic reticulum. One of the most abundant cellular structures.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/cellularcomponent/nucleus/" class="internal-link">Nucleus</a><br />
-RELATED::<a href="/entities/cellularcomponent/endoplasmic-reticulum/" class="internal-link">Endoplasmic_Reticulum</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/nucleus/" class="internal-link">Nucleus</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/cellularcomponent/endoplasmic-reticulum/" class="internal-link">Endoplasmic Reticulum</a></p>
 
 {% endraw %}

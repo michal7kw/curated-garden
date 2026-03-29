@@ -1,18 +1,19 @@
 ---
-created: '2026-03-28T19:56:10.780714Z'
+created: '2026-03-29T06:30:14.756100Z'
 description: Fluid connective tissue transporting oxygen, nutrients, hormones, and
   waste products throughout the body. Contains red cells, white cells, platelets,
   and plasma.
 dg-home: false
 dg-publish: true
-permalink: /entities/organ/blood/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/organ/blood/
 slug: blood
 tags:
 - organ
 templateEngineOverride: njk
 title: Blood
 type: organ
-updated: '2026-03-28T19:56:10.780714Z'
+updated: '2026-03-29T06:30:14.756100Z'
 ---
 
 {% raw %}
@@ -21,8 +22,8 @@ updated: '2026-03-28T19:56:10.780714Z'
 <p>Fluid connective tissue transporting oxygen, nutrients, hormones, and waste products throughout the body. Contains red cells, white cells, platelets, and plasma.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/supplement/folate/" class="internal-link">Folate</a><br />
-RELATED::<a href="/entities/labtest/vitamin-b12/" class="internal-link">Vitamin_B12</a><br />
-RELATED::<a href="/entities/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/folate/" class="internal-link">Folate</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/vitamin-b12/" class="internal-link">Vitamin B12</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a></p>
 
 {% endraw %}

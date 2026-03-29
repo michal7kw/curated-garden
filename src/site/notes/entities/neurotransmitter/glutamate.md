@@ -1,11 +1,12 @@
 ---
-created: '2026-03-28T19:56:10.764150Z'
+created: '2026-03-29T06:30:14.744319Z'
 description: The brain's primary excitatory neurotransmitter, essential for learning,
   memory, and synaptic plasticity. Present in over 90% of brain synapses. Excess glutamate
   can cause excitotoxicity and neuronal damage.
 dg-home: false
 dg-publish: true
-permalink: /entities/neurotransmitter/glutamate/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/neurotransmitter/glutamate/
 slug: glutamate
 tags:
 - neurotransmitter
@@ -14,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Glutamate
 type: neurotransmitter
-updated: '2026-03-28T19:56:10.764150Z'
+updated: '2026-03-29T06:30:14.744319Z'
 ---
 
 {% raw %}
@@ -50,8 +51,8 @@ updated: '2026-03-28T19:56:10.764150Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/supplement/nac/" class="internal-link">NAC</a><br />
-RELATED::<a href="/entities/drug/memantine/" class="internal-link">Memantine</a><br />
-RELATED::<a href="/entities/supplement/l-theanine/" class="internal-link">L-Theanine</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/nac/" class="internal-link">NAC</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/drug/memantine/" class="internal-link">Memantine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/l-theanine/" class="internal-link">L-Theanine</a></p>
 
 {% endraw %}

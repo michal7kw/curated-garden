@@ -1,15 +1,16 @@
 ---
-created: '2026-03-28T19:56:10.921830Z'
+created: '2026-03-29T06:30:14.854488Z'
 dg-home: false
 dg-publish: true
-permalink: /entities/pathway/tuberoinfundibular-dopamine-pathway/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/pathway/tuberoinfundibular-dopamine-pathway/
 slug: tuberoinfundibular-dopamine-pathway
 tags:
 - pathway
 templateEngineOverride: njk
 title: Tuberoinfundibular Dopamine Pathway
 type: pathway
-updated: '2026-03-28T19:56:10.921830Z'
+updated: '2026-03-29T06:30:14.854488Z'
 ---
 
 {% raw %}
@@ -17,13 +18,13 @@ updated: '2026-03-28T19:56:10.921830Z'
 <h2>Description</h2>
 <h2>Relationships</h2>
 <h3>Modulated By Supplement</h3>
-<p>MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/entities/labtest/vitamin-d/" class="internal-link">Vitamin D</a></p>
+<p>MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-d/" class="internal-link">Vitamin D</a></p>
 <h3>Associated Biomarker</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
+<p>ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/depression/" class="internal-link">Depression</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a></p>
 
 {% endraw %}

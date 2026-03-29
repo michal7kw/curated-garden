@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:56:10.238955Z'
+created: '2026-03-29T06:30:14.278706Z'
 description: ess-tih-may-tid gloh-mer-yoo-lur fil-tray-shun rayt Tested twice a year
   Estimated glomerular filtration rate (eGFR) is a calculation that shows how well
   the kidneys are filtering waste from the blood. Low eGFR can signal reduced kidney
@@ -9,14 +9,15 @@ description: ess-tih-may-tid gloh-mer-yoo-lur fil-tray-shun rayt Tested twice a 
   picture of kidney health.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/creatinine-based-estimated-glomerular-filtration-rate-egfr/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/creatinine-based-estimated-glomerular-filtration-rate-egfr/
 slug: creatinine-based-estimated-glomerular-filtration-rate-egfr
 tags:
 - labtest
 templateEngineOverride: njk
 title: creatinine_based_estimated_glomerular_filtration_rate_egfr
 type: labtest
-updated: '2026-03-28T19:56:10.238955Z'
+updated: '2026-03-29T06:30:14.278706Z'
 ---
 
 {% raw %}
@@ -64,13 +65,13 @@ updated: '2026-03-28T19:56:10.238955Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Diabetes-Related_Kidney_Disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Acute_Kidney_Dysfunction</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Diabetes-Related Kidney Disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Acute Kidney Dysfunction</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a></p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

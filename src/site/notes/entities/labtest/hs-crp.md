@@ -1,17 +1,18 @@
 ---
-created: '2026-03-28T19:56:10.326192Z'
+created: '2026-03-29T06:30:14.346500Z'
 description: Sensitive marker of systemic inflammation. Important for cardiovascular
   risk stratification.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/hs-crp/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/hs-crp/
 slug: hs-crp
 tags:
 - labtest
 templateEngineOverride: njk
 title: hs_crp
 type: labtest
-updated: '2026-03-28T19:56:10.326192Z'
+updated: '2026-03-29T06:30:14.346500Z'
 ---
 
 {% raw %}
@@ -53,7 +54,7 @@ updated: '2026-03-28T19:56:10.326192Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/entities/labtest/hs-crp/" class="internal-link">hs_crp</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">hs crp</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -64,7 +65,7 @@ updated: '2026-03-28T19:56:10.326192Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs_Crp</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

@@ -1,11 +1,12 @@
 ---
-created: '2026-03-28T19:56:11.396191Z'
+created: '2026-03-29T06:30:15.195760Z'
 description: Fat-soluble vitamin essential for calcium metabolism, directing calcium
   to bones and away from arteries. Critical for cardiovascular and bone health, often
   paired with vitamin D.
 dg-home: false
 dg-publish: true
-permalink: /entities/supplement/vitamin-k2/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/supplement/vitamin-k2/
 slug: vitamin-k2
 tags:
 - supplement
@@ -16,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Vitamin K2
 type: supplement
-updated: '2026-03-28T19:56:11.396191Z'
+updated: '2026-03-29T06:30:15.195760Z'
 ---
 
 {% raw %}
@@ -30,16 +31,16 @@ updated: '2026-03-28T19:56:11.396191Z'
 <p>100-200 mcg MK-7 daily or 1000-5000 mcg MK-4</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a><br />
-RELATED::<a href="/entities/labtest/vitamin-d/" class="internal-link">Vitamin_D</a><br />
-RELATED::<a href="/entities/organ/heart/" class="internal-link">Heart</a><br />
-RELATED::<a href="/entities/labtest/calcium/" class="internal-link">Calcium</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/vitamin-d-deficiency/" class="internal-link">Vitamin D Deficiency</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-d/" class="internal-link">Vitamin D</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/organ/heart/" class="internal-link">Heart</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/calcium/" class="internal-link">Calcium</a></p>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a></p>
+<p>AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/heart/" class="internal-link">Heart</a></p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/osteoporosis/" class="internal-link">Osteoporosis</a><br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/coronary-artery-disease/" class="internal-link">Coronary Artery Disease</a><br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/bone-fractures/" class="internal-link">Bone Fractures</a></p>
+<p>MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/osteoporosis/" class="internal-link">Osteoporosis</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/coronary-artery-disease/" class="internal-link">Coronary Artery Disease</a><br />
+MAY_IMPROVE_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/bone-fractures/" class="internal-link">Bone Fractures</a></p>
 
 {% endraw %}

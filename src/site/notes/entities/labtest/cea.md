@@ -1,18 +1,19 @@
 ---
-created: '2026-03-28T19:56:10.210882Z'
+created: '2026-03-29T06:30:14.257481Z'
 description: Carcinoembryonic Antigen (CEA) test. Tumor marker primarily used for
   monitoring colorectal cancer treatment response and detecting recurrence. Also elevated
   in pancreatic, lung, breast, and other adenocarcinomas.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/cea/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/cea/
 slug: cea
 tags:
 - labtest
 templateEngineOverride: njk
 title: cea
 type: labtest
-updated: '2026-03-28T19:56:10.210882Z'
+updated: '2026-03-29T06:30:14.257481Z'
 ---
 
 {% raw %}
@@ -54,7 +55,7 @@ updated: '2026-03-28T19:56:10.210882Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/entities/labtest/cea/" class="internal-link">cea</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/cea/" class="internal-link">cea</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -65,7 +66,7 @@ updated: '2026-03-28T19:56:10.210882Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/entities/labtestpanel/cancer-screening-panel/" class="internal-link">cancer_screening_panel</a></p>
+<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/cancer-screening-panel/" class="internal-link">cancer screening panel</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

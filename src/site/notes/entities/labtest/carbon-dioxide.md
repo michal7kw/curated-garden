@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:56:10.206334Z'
+created: '2026-03-29T06:30:14.255456Z'
 description: Tested twice a year Carbon dioxide levels monitor pH and are an indirect
   measure of bicarbonate, a key buffer involved in maintaining the body’s acid-base
   balance. When the body’s acid–base balance is thrown off—called acidosis or alkalosis—carbon
@@ -7,14 +7,15 @@ description: Tested twice a year Carbon dioxide levels monitor pH and are an ind
   balance.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/carbon-dioxide/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/carbon-dioxide/
 slug: carbon-dioxide
 tags:
 - labtest
 templateEngineOverride: njk
 title: carbon_dioxide
 type: labtest
-updated: '2026-03-28T19:56:10.206334Z'
+updated: '2026-03-29T06:30:14.255456Z'
 ---
 
 {% raw %}
@@ -62,17 +63,17 @@ updated: '2026-03-28T19:56:10.206334Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic_Alkalosis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic_Acidosis</a><br />
-RELATED::<a href="/entities/condition/electrolyte-imbalance/" class="internal-link">Electrolyte_Imbalance</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Dysfunction</a><br />
-RELATED::<a href="/entities/condition/chronic-lung-disease/" class="internal-link">Chronic_Lung_Disease</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic Alkalosis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic Acidosis</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/electrolyte-imbalance/" class="internal-link">Electrolyte Imbalance</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Dysfunction</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-lung-disease/" class="internal-link">Chronic Lung Disease</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-lung-disease/" class="internal-link">Chronic_Lung_Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/electrolyte-imbalance/" class="internal-link">Electrolyte_Imbalance</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-lung-disease/" class="internal-link">Chronic Lung Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/electrolyte-imbalance/" class="internal-link">Electrolyte Imbalance</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/entities/condition/chronic-lung-disease/" class="internal-link">Chronic_Lung_Disease</a><br />
-MAY_DETECT::<a href="/entities/condition/electrolyte-imbalance/" class="internal-link">Electrolyte_Imbalance</a></p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/chronic-lung-disease/" class="internal-link">Chronic Lung Disease</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/electrolyte-imbalance/" class="internal-link">Electrolyte Imbalance</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

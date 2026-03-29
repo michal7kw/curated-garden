@@ -1,15 +1,16 @@
 ---
-created: '2026-03-28T19:56:09.965054Z'
+created: '2026-03-29T06:30:14.064860Z'
 dg-home: false
 dg-publish: true
-permalink: /entities/drug/prazosin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/drug/prazosin/
 slug: prazosin
 tags:
 - drug
 templateEngineOverride: njk
 title: PRAZOSIN
 type: drug
-updated: '2026-03-28T19:56:09.965054Z'
+updated: '2026-03-29T06:30:14.064860Z'
 ---
 
 {% raw %}
@@ -17,14 +18,14 @@ updated: '2026-03-28T19:56:09.965054Z'
 <h2>Overview</h2>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/condition/amphetamine-related-disorders/" class="internal-link">Amphetamine-Related_Disorders</a><br />
-RELATED::<a href="/entities/condition/hypertension/" class="internal-link">Hypertension</a><br />
-RELATED::<a href="/entities/condition/tobacco-use-disorder/" class="internal-link">Tobacco_Use_Disorder</a><br />
-RELATED::<a href="/entities/condition/substance-withdrawal-syndrome/" class="internal-link">Substance_Withdrawal_Syndrome</a><br />
-RELATED::<a href="/entities/condition/alcoholism/" class="internal-link">Alcoholism</a><br />
-RELATED::<a href="/entities/condition/severe-acute-respiratory-syndrome/" class="internal-link">Severe_Acute_Respiratory_Syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Stress_Disorders_Post-Traumatic</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Calculi</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Urinary_Bladder_Neurogenic</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/amphetamine-related-disorders/" class="internal-link">Amphetamine-Related Disorders</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/hypertension/" class="internal-link">Hypertension</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/tobacco-use-disorder/" class="internal-link">Tobacco Use Disorder</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/substance-withdrawal-syndrome/" class="internal-link">Substance Withdrawal Syndrome</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/alcoholism/" class="internal-link">Alcoholism</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/severe-acute-respiratory-syndrome/" class="internal-link">Severe Acute Respiratory Syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Stress Disorders Post-Traumatic</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Calculi</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Urinary Bladder Neurogenic</a></p>
 
 {% endraw %}

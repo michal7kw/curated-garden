@@ -1,15 +1,16 @@
 ---
-created: '2026-03-28T19:56:09.401114Z'
+created: '2026-03-29T06:30:13.646192Z'
 dg-home: false
 dg-publish: true
-permalink: /entities/biomarker/vitamin-d-25-oh/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/vitamin-d-25-oh/
 slug: vitamin-d-25-oh
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Vitamin D (25-OH)
 type: biomarker
-updated: '2026-03-28T19:56:09.401114Z'
+updated: '2026-03-29T06:30:13.646192Z'
 ---
 
 {% raw %}
@@ -18,11 +19,11 @@ updated: '2026-03-28T19:56:09.401114Z'
 <h2>Relationships</h2>
 <h3>Affected By Supplement</h3>
 <ul>
-<li>-&gt; <a href="/entities/labtest/vitamin-d/" class="internal-link">Vitamin D</a> (supplement)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/vitamin-d/" class="internal-link">Vitamin D</a> (supplement)</li>
 </ul>
 <h3>Measured By Test</h3>
 <ul>
-<li>-&gt; <a href="/entities/labtest/vitamin-d/" class="internal-link">vitamin_d</a> (labtest)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/vitamin-d/" class="internal-link">vitamin d</a> (labtest)</li>
 </ul>
 
 {% endraw %}

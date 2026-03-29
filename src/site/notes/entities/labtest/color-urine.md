@@ -1,18 +1,19 @@
 ---
-created: '2026-03-28T19:56:10.215221Z'
+created: '2026-03-29T06:30:14.260137Z'
 description: Tested twice a year Evaluates the pigmentation of urine, which can range
   from pale yellow to dark amber. Variations in color may be influenced by hydration
   status, dietary intake, medication use, or various underlying medical conditions.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/color-urine/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/color-urine/
 slug: color-urine
 tags:
 - labtest
 templateEngineOverride: njk
 title: color_urine
 type: labtest
-updated: '2026-03-28T19:56:10.215221Z'
+updated: '2026-03-29T06:30:14.260137Z'
 ---
 
 {% raw %}
@@ -60,10 +61,10 @@ updated: '2026-03-28T19:56:10.215221Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Hematuria_Blood_In_Urine</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Urinary_Tract_Infection_Uti</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Liver_Dysfunction</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Kidney_Disease</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Hematuria Blood In Urine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Urinary Tract Infection Uti</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Liver Dysfunction</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a></p>
 <h2>Notes</h2>
 <ul>

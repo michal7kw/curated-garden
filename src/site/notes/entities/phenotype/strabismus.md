@@ -1,9 +1,10 @@
 ---
-created: '2026-03-28T19:56:11.022658Z'
+created: '2026-03-29T06:30:14.916106Z'
 description: '...'
 dg-home: false
 dg-publish: true
-permalink: /entities/phenotype/strabismus/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/phenotype/strabismus/
 slug: strabismus
 tags:
 - phenotype
@@ -12,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Strabismus
 type: phenotype
-updated: '2026-03-28T19:56:11.022658Z'
+updated: '2026-03-29T06:30:14.916106Z'
 ---
 
 {% raw %}
@@ -21,42 +22,42 @@ updated: '2026-03-28T19:56:11.022658Z'
 <p>...</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Incomitant_strabismus</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">intellectual_disability-obesity-prognathism-eye_and_skin_anomalies_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Mobius_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">intellectual_disability-hyperkinetic_movement-truncal_ataxia_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">foveal_hypoplasia-presenile_cataract_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">ataxia_-<em>intellectual_disability</em>-<em>oculomotor_apraxia</em>-_cerebellar_cysts_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">pyruvate_dehydrogenase_E2_deficiency</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">1q44_microdeletion_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">congenital_sialidosis_type_2</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">autosomal_recessive_cutis_laxa_type_2_classic_type</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">macrothrombocytopenia-lymphedema-developmental_delay-facial_dysmorphism-camptodactyly_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">spondylodysplastic_Ehlers-Danlos_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">microcephalic_primordial_dwarfism</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">German_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">hydrocephalus-costovertebral_dysplasia-Sprengel_anomaly_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">chromosome_4q21_deletion_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">22q112_deletion_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Abnormal_conjugate_eye_movement</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">encephalopathy_due_to_GLUT1_deficiency</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">X-linked_hydrocephalus_with_stenosis_of_the_aqueduct_of_Sylvius</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">myotonia_fluctuans</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">DYRK1A-related_intellectual_disability_syndrome_due_to_21q2213q222_microdeletion</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">spastic_ataxia_8_autosomal_recessive_with_hypomyelinating_leukodystrophy</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">hypotonia-speech_impairment-severe_cognitive_delay_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">congenital_hydrocephalus</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Concomitant_strabismus</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">optic_pathway_glioma</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">holoprosencephaly-craniosynostosis_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Brown_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Monocular_strabismus</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Incomitant strabismus</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">intellectual disability-obesity-prognathism-eye and skin anomalies syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Mobius syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">intellectual disability-hyperkinetic movement-truncal ataxia syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">foveal hypoplasia-presenile cataract syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">ataxia - intellectual disability - oculomotor apraxia - cerebellar cysts syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">pyruvate dehydrogenase E2 deficiency</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">1q44 microdeletion syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">congenital sialidosis type 2</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">autosomal recessive cutis laxa type 2 classic type</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">macrothrombocytopenia-lymphedema-developmental delay-facial dysmorphism-camptodactyly syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">spondylodysplastic Ehlers-Danlos syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">microcephalic primordial dwarfism</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">German syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">hydrocephalus-costovertebral dysplasia-Sprengel anomaly syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">chromosome 4q21 deletion syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">22q112 deletion syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Abnormal conjugate eye movement</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">encephalopathy due to GLUT1 deficiency</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">X-linked hydrocephalus with stenosis of the aqueduct of Sylvius</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">myotonia fluctuans</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">DYRK1A-related intellectual disability syndrome due to 21q2213q222 microdeletion</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">spastic ataxia 8 autosomal recessive with hypomyelinating leukodystrophy</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">hypotonia-speech impairment-severe cognitive delay syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">congenital hydrocephalus</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Concomitant strabismus</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">optic pathway glioma</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">holoprosencephaly-craniosynostosis syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Brown syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Monocular strabismus</a></p>
 <h3>Related To Phenotype</h3>
-<p>RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Abnormal_conjugate_eye_movement</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Concomitant_strabismus</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Incomitant_strabismus</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Monocular_strabismus</a></p>
+<p>RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Abnormal conjugate eye movement</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Concomitant strabismus</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Incomitant strabismus</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Monocular strabismus</a></p>
 <h3>Excludes Phenotype</h3>
-<p>EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Brown_syndrome</a></p>
+<p>EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Brown syndrome</a></p>
 
 {% endraw %}

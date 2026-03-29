@@ -1,8 +1,9 @@
 ---
-created: '2026-03-28T19:56:11.398219Z'
+created: '2026-03-29T06:30:15.200488Z'
 dg-home: false
 dg-publish: true
-permalink: /entities/UserAnnotation/untitled/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/UserAnnotation/untitled/
 slug: untitled
 tags:
 - UserAnnotation
@@ -12,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Untitled
 type: UserAnnotation
-updated: '2026-03-28T19:56:11.398219Z'
+updated: '2026-03-29T06:30:15.200488Z'
 ---
 
 {% raw %}

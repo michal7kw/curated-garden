@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:56:10.043519Z'
+created: '2026-03-29T06:30:14.122808Z'
 description: 28-amino acid peptide hormone primarily produced by X/A-like cells in
   the gastric fundus. Known as the "hunger hormone" — stimulates appetite, growth
   hormone release, and gastric motility. Unique post-translational acylation (n-octanoyl
@@ -7,7 +7,8 @@ description: 28-amino acid peptide hormone primarily produced by X/A-like cells 
   regulation.
 dg-home: false
 dg-publish: true
-permalink: /entities/hormone/ghrelin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/hormone/ghrelin/
 slug: ghrelin
 tags:
 - hormone
@@ -20,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: Ghrelin
 type: hormone
-updated: '2026-03-28T19:56:10.043519Z'
+updated: '2026-03-29T06:30:14.122808Z'
 ---
 
 {% raw %}
@@ -29,9 +30,9 @@ updated: '2026-03-28T19:56:10.043519Z'
 <p>28-amino acid peptide hormone primarily produced by X/A-like cells in the gastric fundus. Known as the &quot;hunger hormone&quot; — stimulates appetite, growth hormone release, and gastric motility. Unique post-translational acylation (n-octanoyl at Ser3) required for receptor activation. Antagonistic to leptin in energy balance regulation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/organ/hypothalamus/" class="internal-link">Hypothalamus</a><br />
-RELATED::<a href="/entities/hormone/growth-hormone/" class="internal-link">Growth_Hormone</a><br />
-RELATED::<a href="/entities/labtest/leptin/" class="internal-link">Leptin</a><br />
-RELATED::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/anatomy/hypothalamus/" class="internal-link">Hypothalamus</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/hormone/growth-hormone/" class="internal-link">Growth Hormone</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/leptin/" class="internal-link">Leptin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/insulin/" class="internal-link">Insulin</a></p>
 
 {% endraw %}

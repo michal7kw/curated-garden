@@ -1,15 +1,16 @@
 ---
-created: '2026-03-28T19:56:10.967801Z'
+created: '2026-03-29T06:30:14.881396Z'
 dg-home: false
 dg-publish: true
-permalink: /entities/condition/fever/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/fever/
 slug: fever
 tags:
 - condition
 templateEngineOverride: njk
 title: Fever
 type: condition
-updated: '2026-03-28T19:56:10.967801Z'
+updated: '2026-03-29T06:30:14.881396Z'
 ---
 
 {% raw %}

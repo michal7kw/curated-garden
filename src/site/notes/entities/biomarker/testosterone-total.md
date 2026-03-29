@@ -1,15 +1,16 @@
 ---
-created: '2026-03-28T19:56:09.379131Z'
+created: '2026-03-29T06:30:13.625529Z'
 dg-home: false
 dg-publish: true
-permalink: /entities/biomarker/testosterone-total/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/testosterone-total/
 slug: testosterone-total
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Testosterone Total
 type: biomarker
-updated: '2026-03-28T19:56:09.379131Z'
+updated: '2026-03-29T06:30:13.625529Z'
 ---
 
 {% raw %}
@@ -18,15 +19,15 @@ updated: '2026-03-28T19:56:09.379131Z'
 <h2>Relationships</h2>
 <h3>Affected By Supplement</h3>
 <ul>
-<li>-&gt; <a href="/entities/supplement/tongkat-ali/" class="internal-link">Tongkat Ali</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/ashwagandha/" class="internal-link">Ashwagandha</a> (supplement)</li>
-<li>-&gt; <a href="/entities/labtest/vitamin-d/" class="internal-link">Vitamin D</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/boron/" class="internal-link">Boron</a> (supplement)</li>
-<li>-&gt; <a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/tongkat-ali/" class="internal-link">Tongkat Ali</a> (supplement)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/ashwagandha/" class="internal-link">Ashwagandha</a> (supplement)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/vitamin-d/" class="internal-link">Vitamin D</a> (supplement)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/boron/" class="internal-link">Boron</a> (supplement)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
 </ul>
 <h3>Measured By Test</h3>
 <ul>
-<li>-&gt; <a href="/entities/labtest/testosterone-total/" class="internal-link">testosterone_total</a> (labtest)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/testosterone-total/" class="internal-link">testosterone total</a> (labtest)</li>
 </ul>
 
 {% endraw %}

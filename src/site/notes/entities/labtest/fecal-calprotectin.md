@@ -1,18 +1,19 @@
 ---
-created: '2026-03-28T19:56:10.268726Z'
+created: '2026-03-29T06:30:14.302935Z'
 description: Fecal Calprotectin test. Non-invasive stool biomarker for intestinal
   inflammation. Differentiates inflammatory bowel disease from irritable bowel syndrome.
   Used for monitoring IBD disease activity and predicting relapse.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/fecal-calprotectin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/fecal-calprotectin/
 slug: fecal-calprotectin
 tags:
 - labtest
 templateEngineOverride: njk
 title: fecal_calprotectin
 type: labtest
-updated: '2026-03-28T19:56:10.268726Z'
+updated: '2026-03-29T06:30:14.302935Z'
 ---
 
 {% raw %}
@@ -54,7 +55,7 @@ updated: '2026-03-28T19:56:10.268726Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/entities/biomarker/calprotectin/" class="internal-link">calprotectin</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/biomarker/calprotectin/" class="internal-link">calprotectin</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -65,9 +66,9 @@ updated: '2026-03-28T19:56:10.268726Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Measures</h3>
-<p>MEASURES::<a href="/entities/biomarker/calprotectin/" class="internal-link">Calprotectin</a></p>
+<p>MEASURES::<a href="/garden/michal.k7w@gmail.com/biomarker/calprotectin/" class="internal-link">Calprotectin</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/entities/labtestpanel/gut-health-comprehensive-panel/" class="internal-link">gut_health_comprehensive_panel</a></p>
+<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/gut-health-comprehensive-panel/" class="internal-link">gut health comprehensive panel</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

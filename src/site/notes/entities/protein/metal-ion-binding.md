@@ -1,9 +1,10 @@
 ---
-created: '2026-03-28T19:56:11.161340Z'
+created: '2026-03-29T06:30:15.002394Z'
 description: '...'
 dg-home: false
 dg-publish: true
-permalink: /entities/protein/metal-ion-binding/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/protein/metal-ion-binding/
 slug: metal-ion-binding
 tags:
 - protein
@@ -12,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: metal ion binding
 type: protein
-updated: '2026-03-28T19:56:11.161340Z'
+updated: '2026-03-29T06:30:15.002394Z'
 ---
 
 {% raw %}
@@ -21,20 +22,20 @@ updated: '2026-03-28T19:56:11.161340Z'
 <p>...</p>
 <h2>Relationships</h2>
 <h3>Related To Function</h3>
-<p>RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">cation_binding</a><br />
-RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">transition_metal_ion_binding</a><br />
-RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">lead_ion_binding</a><br />
-RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">alkali_metal_ion_binding</a><br />
-RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">magnesium_ion_binding</a><br />
-RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">metal_chelating_activity</a><br />
-RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">calcium_ion_binding</a></p>
+<p>RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">cation binding</a><br />
+RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">transition metal ion binding</a><br />
+RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">lead ion binding</a><br />
+RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">alkali metal ion binding</a><br />
+RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">magnesium ion binding</a><br />
+RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">metal chelating activity</a><br />
+RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">calcium ion binding</a></p>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">transition_metal_ion_binding</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">lead_ion_binding</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">metal_chelating_activity</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">alkali_metal_ion_binding</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">cation_binding</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">magnesium_ion_binding</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">calcium_ion_binding</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">transition metal ion binding</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">lead ion binding</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">metal chelating activity</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">alkali metal ion binding</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">cation binding</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">magnesium ion binding</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">calcium ion binding</a></p>
 
 {% endraw %}

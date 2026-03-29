@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:56:10.746430Z'
+created: '2026-03-29T06:30:14.729565Z'
 description: Essential pterin cofactor for three classes of enzymes — tyrosine hydroxylase
   (dopamine synthesis), tryptophan hydroxylase (serotonin synthesis), and all three
   nitric oxide synthase isoforms. Uniquely links catecholamine, serotonin, and nitric
@@ -8,7 +8,8 @@ description: Essential pterin cofactor for three classes of enzymes — tyrosine
   GTP by GTP cyclohydrolase I or recycled from BH2 by dihydropteridine reductase.
 dg-home: false
 dg-publish: true
-permalink: /entities/metabolite/tetrahydrobiopterin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/metabolite/tetrahydrobiopterin/
 slug: tetrahydrobiopterin
 tags:
 - metabolite
@@ -21,7 +22,7 @@ tags:
 templateEngineOverride: njk
 title: Tetrahydrobiopterin
 type: metabolite
-updated: '2026-03-28T19:56:10.746430Z'
+updated: '2026-03-29T06:30:14.729565Z'
 ---
 
 {% raw %}
@@ -76,23 +77,23 @@ updated: '2026-03-28T19:56:10.746430Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Cofactor For</h3>
-<p>COFACTOR_FOR::<a href="/entities/protein/tyrosine-hydroxylase/" class="internal-link">Tyrosine Hydroxylase</a></p>
+<p>COFACTOR_FOR::<a href="/garden/michal.k7w@gmail.com/protein/tyrosine-hydroxylase/" class="internal-link">Tyrosine Hydroxylase</a></p>
 <h3>Participates In Pathway</h3>
-<p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/dopamine-synthesis/" class="internal-link">Dopamine Synthesis</a><br />
-PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/serotonin-synthesis/" class="internal-link">Serotonin Synthesis</a></p>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/dopamine-synthesis/" class="internal-link">Dopamine Synthesis</a><br />
+PARTICIPATES_IN_PATHWAY::<a href="/garden/michal.k7w@gmail.com/pathway/serotonin-synthesis/" class="internal-link">Serotonin Synthesis</a></p>
 <h3>Affects</h3>
-<p>AFFECTS::<a href="/entities/metabolite/nitric-oxide/" class="internal-link">Nitric Oxide</a><br />
-AFFECTS::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
-AFFECTS::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a></p>
+<p>AFFECTS::<a href="/garden/michal.k7w@gmail.com/metabolite/nitric-oxide/" class="internal-link">Nitric Oxide</a><br />
+AFFECTS::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
+AFFECTS::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/serotonin/" class="internal-link">Serotonin</a></p>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a></p>
+<p>AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a><br />
+AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/heart/" class="internal-link">Heart</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a><br />
-RELATED::<a href="/entities/metabolite/l-dopa/" class="internal-link">L-DOPA</a><br />
-RELATED::<a href="/entities/supplement/iron/" class="internal-link">Iron</a><br />
-RELATED::<a href="/entities/metabolite/nadh/" class="internal-link">NADH</a><br />
-RELATED::<a href="/entities/metabolite/reactive-oxygen-species/" class="internal-link">Reactive Oxygen Species</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/l-dopa/" class="internal-link">L-DOPA</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/iron/" class="internal-link">Iron</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/nadh/" class="internal-link">NADH</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/metabolite/reactive-oxygen-species/" class="internal-link">Reactive Oxygen Species</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:17884111 - BH4 in aromatic amino acid hydroxylase function</li>

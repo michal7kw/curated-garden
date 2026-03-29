@@ -1,17 +1,18 @@
 ---
-created: '2026-03-28T19:56:10.460402Z'
+created: '2026-03-29T06:30:14.448827Z'
 description: EPA+DHA as percentage of red blood cell membranes. Target >8% for cardiovascular
   protection.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/omega3-index/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/omega3-index/
 slug: omega3-index
 tags:
 - labtest
 templateEngineOverride: njk
 title: omega3_index
 type: labtest
-updated: '2026-03-28T19:56:10.460402Z'
+updated: '2026-03-29T06:30:14.448827Z'
 ---
 
 {% raw %}
@@ -53,10 +54,10 @@ updated: '2026-03-28T19:56:10.460402Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/entities/labtest/omega3-index/" class="internal-link">omega3_index</a></li>
-<li><a href="/entities/biomarker/epa/" class="internal-link">epa</a></li>
-<li><a href="/entities/biomarker/dha/" class="internal-link">dha</a></li>
-<li><a class="internal-link is-unresolved" href="/404">aa_epa_ratio</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/omega3-index/" class="internal-link">omega3 index</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/biomarker/epa/" class="internal-link">epa</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/biomarker/dha/" class="internal-link">dha</a></li>
+<li><a class="internal-link is-unresolved" href="/404">aa epa ratio</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -67,9 +68,9 @@ updated: '2026-03-28T19:56:10.460402Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/biomarker/dha/" class="internal-link">dha</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">aa_epa_ratio</a><br />
-RELATED::<a href="/entities/biomarker/epa/" class="internal-link">epa</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/dha/" class="internal-link">dha</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">aa epa ratio</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/epa/" class="internal-link">epa</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:56:10.421881Z'
+created: '2026-03-29T06:30:14.418713Z'
 description: Mercury is a heavy metal that can be toxic in high amounts. Exposure
   most often happens from eating seafood high in methylmercury (tuna, swordfish, and
   shark), from breathing in mercury vapor from broken thermometers or fluorescent
@@ -9,7 +9,8 @@ description: Mercury is a heavy metal that can be toxic in high amounts. Exposur
   can be taken to lower risk or prevent further harm.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/mercury/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/mercury/
 slug: mercury
 tags:
 - labtest
@@ -18,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: mercury
 type: labtest
-updated: '2026-03-28T19:56:10.421881Z'
+updated: '2026-03-29T06:30:14.418713Z'
 ---
 
 {% raw %}
@@ -66,22 +67,22 @@ updated: '2026-03-28T19:56:10.421881Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Hypertension_And_Cardiovascular_Dysfunction</a><br />
-RELATED::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Cognitive_Impairment</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Immune_Dysfunction</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Peripheral_Neuropathy_And_Neurotoxicity</a><br />
-RELATED::<a href="/entities/labtestpanel/forever-chemicals-pfas-exposure/" class="internal-link">forever_chemicals_pfas_exposure</a><br />
-RELATED::<a href="/entities/labtestpanel/extended-heavy-metals/" class="internal-link">extended_heavy_metals</a><br />
-RELATED::<a href="/entities/labtestpanel/bisphenol-a-bpa-exposure/" class="internal-link">bisphenol_a_bpa_exposure</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Hypertension And Cardiovascular Dysfunction</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Cognitive Impairment</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Immune Dysfunction</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Peripheral Neuropathy And Neurotoxicity</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/forever-chemicals-pfas-exposure/" class="internal-link">forever chemicals pfas exposure</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-heavy-metals/" class="internal-link">extended heavy metals</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/bisphenol-a-bpa-exposure/" class="internal-link">bisphenol a bpa exposure</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a></p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/entities/labtestpanel/extended-heavy-metals/" class="internal-link">extended_heavy_metals</a><br />
-INCLUDED_IN::<a href="/entities/labtestpanel/forever-chemicals-pfas-exposure/" class="internal-link">forever_chemicals_pfas_exposure</a><br />
-INCLUDED_IN::<a href="/entities/labtestpanel/bisphenol-a-bpa-exposure/" class="internal-link">bisphenol_a_bpa_exposure</a></p>
+<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-heavy-metals/" class="internal-link">extended heavy metals</a><br />
+INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/forever-chemicals-pfas-exposure/" class="internal-link">forever chemicals pfas exposure</a><br />
+INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/bisphenol-a-bpa-exposure/" class="internal-link">bisphenol a bpa exposure</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

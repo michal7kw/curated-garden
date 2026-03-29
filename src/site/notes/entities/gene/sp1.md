@@ -1,9 +1,10 @@
 ---
-created: '2026-03-28T19:56:10.006878Z'
+created: '2026-03-29T06:30:14.084072Z'
 description: '...'
 dg-home: false
 dg-publish: true
-permalink: /entities/gene/sp1/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/gene/sp1/
 slug: sp1
 tags:
 - gene
@@ -12,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: SP1
 type: gene
-updated: '2026-03-28T19:56:10.006878Z'
+updated: '2026-03-29T06:30:14.084072Z'
 ---
 
 {% raw %}

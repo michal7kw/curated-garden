@@ -1,10 +1,11 @@
 ---
-created: '2026-03-28T19:56:09.385178Z'
+created: '2026-03-29T06:30:13.632292Z'
 description: A measurement of the total amount of albumin and globulin in the serum,
   reflecting nutritional status and organ function.
 dg-home: false
 dg-publish: true
-permalink: /entities/biomarker/total-protein/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/total-protein/
 slug: total-protein
 tags:
 - biomarker
@@ -15,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Total Protein
 type: biomarker
-updated: '2026-03-28T19:56:09.385178Z'
+updated: '2026-03-29T06:30:13.632292Z'
 ---
 
 {% raw %}
@@ -25,8 +26,8 @@ updated: '2026-03-28T19:56:09.385178Z'
 <h2>Relationships</h2>
 <h3>Measured By Test</h3>
 <ul>
-<li>-&gt; <a href="/entities/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a> (labtest)</li>
-<li>-&gt; <a href="/entities/labtest/total-protein/" class="internal-link">total_protein</a> (labtest)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive metabolic panel</a> (labtest)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/total-protein/" class="internal-link">total protein</a> (labtest)</li>
 </ul>
 
 {% endraw %}

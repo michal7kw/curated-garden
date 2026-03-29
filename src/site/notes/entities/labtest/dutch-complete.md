@@ -1,17 +1,18 @@
 ---
-created: '2026-03-28T19:56:10.252463Z'
+created: '2026-03-29T06:30:14.286873Z'
 description: Dried urine test for comprehensive hormone analysis including cortisol
   patterns, sex hormones, and metabolites.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/dutch-complete/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/dutch-complete/
 slug: dutch-complete
 tags:
 - labtest
 templateEngineOverride: njk
 title: dutch_complete
 type: labtest
-updated: '2026-03-28T19:56:10.252463Z'
+updated: '2026-03-29T06:30:14.286873Z'
 ---
 
 {% raw %}
@@ -65,7 +66,7 @@ updated: '2026-03-28T19:56:10.252463Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">Cortisol</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

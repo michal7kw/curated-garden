@@ -1,9 +1,10 @@
 ---
-created: '2026-03-28T19:56:10.968663Z'
+created: '2026-03-29T06:30:14.882906Z'
 description: '...'
 dg-home: false
 dg-publish: true
-permalink: /entities/phenotype/generalized-hypotonia/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/phenotype/generalized-hypotonia/
 slug: generalized-hypotonia
 tags:
 - phenotype
@@ -12,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Generalized hypotonia
 type: phenotype
-updated: '2026-03-28T19:56:10.968663Z'
+updated: '2026-03-29T06:30:14.882906Z'
 ---
 
 {% raw %}
@@ -21,26 +22,26 @@ updated: '2026-03-28T19:56:10.968663Z'
 <p>...</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">long_chain_3-hydroxyacyl-CoA_dehydrogenase_deficiency</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">cap_myopathy</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">spinocerebellar_ataxia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">spastic_ataxia_8_autosomal_recessive_with_hypomyelinating_leukodystrophy</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Generalized_hypotonia_due_to_defect_at_the_neuromuscular_junction</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">early-onset_progressive_encephalopathy-spastic_ataxia-distal_spinal_muscular_atrophy_syndrome</a><br />
-RELATED::<a href="/entities/phenotype/hypotonia/" class="internal-link">Hypotonia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">partial_deletion_of_the_short_arm_of_chromosome_7</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">TH-deficient_dopa-responsive_dystonia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">X-linked_intellectual_disability-hypotonia-movement_disorder_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">progressive_external_ophthalmoplegia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">infantile_neuronal_ceroid_lipofuscinosis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Episodic_generalized_hypotonia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">trisomy_10p</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">8q243_microdeletion_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">giant_axonal_neuropathy</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">dysmorphism-short_stature-deafness-disorder_of_sex_development_syndrome</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">long chain 3-hydroxyacyl-CoA dehydrogenase deficiency</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">cap myopathy</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">spinocerebellar ataxia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">spastic ataxia 8 autosomal recessive with hypomyelinating leukodystrophy</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Generalized hypotonia due to defect at the neuromuscular junction</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">early-onset progressive encephalopathy-spastic ataxia-distal spinal muscular atrophy syndrome</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/phenotype/hypotonia/" class="internal-link">Hypotonia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">partial deletion of the short arm of chromosome 7</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">TH-deficient dopa-responsive dystonia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">X-linked intellectual disability-hypotonia-movement disorder syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">progressive external ophthalmoplegia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">infantile neuronal ceroid lipofuscinosis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Episodic generalized hypotonia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">trisomy 10p</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">8q243 microdeletion syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">giant axonal neuropathy</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">dysmorphism-short stature-deafness-disorder of sex development syndrome</a></p>
 <h3>Related To Phenotype</h3>
-<p>RELATED_TO_PHENOTYPE::<a href="/entities/phenotype/hypotonia/" class="internal-link">Hypotonia</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Episodic_generalized_hypotonia</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Generalized_hypotonia_due_to_defect_at_the_neuromuscular_junction</a></p>
+<p>RELATED_TO_PHENOTYPE::<a href="/garden/michal.k7w@gmail.com/phenotype/hypotonia/" class="internal-link">Hypotonia</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Episodic generalized hypotonia</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Generalized hypotonia due to defect at the neuromuscular junction</a></p>
 
 {% endraw %}

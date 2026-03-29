@@ -1,12 +1,13 @@
 ---
-created: '2026-03-28T19:56:10.773248Z'
+created: '2026-03-29T06:30:14.750463Z'
 description: Monoamine neurotransmitter regulating mood, sleep, appetite, and gut
   function. Approximately 95% is produced in the gut. Commonly known as the "feel-good"
   neurotransmitter, it is central to emotional well-being and is the target of most
   antidepressant medications.
 dg-home: false
 dg-publish: true
-permalink: /entities/neurotransmitter/serotonin/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/neurotransmitter/serotonin/
 slug: serotonin
 tags:
 - neurotransmitter
@@ -15,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Serotonin
 type: neurotransmitter
-updated: '2026-03-28T19:56:10.773248Z'
+updated: '2026-03-29T06:30:14.750463Z'
 ---
 
 {% raw %}
@@ -57,19 +58,19 @@ updated: '2026-03-28T19:56:10.773248Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/supplement/rhodiola-rosea/" class="internal-link">Rhodiola_Rosea</a><br />
-RELATED::<a href="/entities/supplement/l-theanine/" class="internal-link">L-Theanine</a><br />
-RELATED::<a href="/entities/drug/clozapine/" class="internal-link">Clozapine</a><br />
-RELATED::<a href="/entities/drug/quetiapine/" class="internal-link">Quetiapine</a><br />
-RELATED::<a href="/entities/drug/clomipramine/" class="internal-link">Clomipramine</a><br />
-RELATED::<a href="/entities/drug/imipramine/" class="internal-link">Imipramine</a><br />
-RELATED::<a href="/entities/supplement/vitamin-b6/" class="internal-link">Vitamin_B6</a><br />
-RELATED::<a href="/entities/labtest/vitamin-b12/" class="internal-link">Vitamin_B12</a><br />
-RELATED::<a href="/entities/drug/amitriptyline/" class="internal-link">Amitriptyline</a><br />
-RELATED::<a href="/entities/drug/doxepin/" class="internal-link">Doxepin</a><br />
-RELATED::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a><br />
-RELATED::<a href="/entities/supplement/folate/" class="internal-link">Folate</a><br />
-RELATED::<a href="/entities/supplement/5-htp/" class="internal-link">5-HTP</a><br />
-RELATED::<a href="/entities/supplement/probiotics/" class="internal-link">Probiotics</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/rhodiola-rosea/" class="internal-link">Rhodiola Rosea</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/l-theanine/" class="internal-link">L-Theanine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/drug/clozapine/" class="internal-link">Clozapine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/drug/quetiapine/" class="internal-link">Quetiapine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/drug/clomipramine/" class="internal-link">Clomipramine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/drug/imipramine/" class="internal-link">Imipramine</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/vitamin-b12/" class="internal-link">Vitamin B12</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/drug/amitriptyline/" class="internal-link">Amitriptyline</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/drug/doxepin/" class="internal-link">Doxepin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/folate/" class="internal-link">Folate</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/5-htp/" class="internal-link">5-HTP</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/probiotics/" class="internal-link">Probiotics</a></p>
 
 {% endraw %}

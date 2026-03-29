@@ -1,9 +1,10 @@
 ---
-created: '2026-03-28T19:56:10.977246Z'
+created: '2026-03-29T06:30:14.886962Z'
 description: '...'
 dg-home: false
 dg-publish: true
-permalink: /entities/phenotype/headache/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/phenotype/headache/
 slug: headache
 tags:
 - phenotype
@@ -12,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Headache
 type: phenotype
-updated: '2026-03-28T19:56:10.977246Z'
+updated: '2026-03-29T06:30:14.886962Z'
 ---
 
 {% raw %}
@@ -21,42 +22,42 @@ updated: '2026-03-28T19:56:10.977246Z'
 <p>...</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Tension-type_headache</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">alternating_hemiplegia_of_childhood</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Pontiac_fever</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">myxopapillary_ependymoma</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">glucocorticoid-remediable_aldosteronism</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">episodic_ataxia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">optic_pathway_glioma</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">boutonneuse_fever</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Abnormal_nervous_system_physiology</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">typhoid_fever</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">rhabdoid_tumor</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Rosai-Dorfman_disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">idiopathic_panuveitis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">scrub_typhus</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Recurrent_paroxysmal_headache</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">pediatric_systemic_lupus_erythematosus</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Thunderclap_headache</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">aldosterone-producing_adenoma_with_seizures_and_neurological_abnormalities</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">thrombocytopenic_purpura</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">famililal_cerebral_cavernous_malformations</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">postorgasmic_illness_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">L1_syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Occipital_neuralgia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Cluster_headache</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">mal_de_Debarquement</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">arteritis_familial_granulomatous_with_juvenile_polyarthritis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">pseudotumor_cerebri</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Tension-type headache</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">alternating hemiplegia of childhood</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Pontiac fever</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">myxopapillary ependymoma</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">glucocorticoid-remediable aldosteronism</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">episodic ataxia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">optic pathway glioma</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">boutonneuse fever</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Abnormal nervous system physiology</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">typhoid fever</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">rhabdoid tumor</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Rosai-Dorfman disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">idiopathic panuveitis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">scrub typhus</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Recurrent paroxysmal headache</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">pediatric systemic lupus erythematosus</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Thunderclap headache</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">aldosterone-producing adenoma with seizures and neurological abnormalities</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">thrombocytopenic purpura</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">famililal cerebral cavernous malformations</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">postorgasmic illness syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">L1 syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Occipital neuralgia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Cluster headache</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">mal de Debarquement</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">arteritis familial granulomatous with juvenile polyarthritis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">pseudotumor cerebri</a></p>
 <h3>Related To Phenotype</h3>
-<p>RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Occipital_neuralgia</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Thunderclap_headache</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Tension-type_headache</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Abnormal_nervous_system_physiology</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Recurrent_paroxysmal_headache</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Cluster_headache</a></p>
+<p>RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Occipital neuralgia</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Thunderclap headache</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Tension-type headache</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Abnormal nervous system physiology</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Recurrent paroxysmal headache</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Cluster headache</a></p>
 <h3>Excludes Phenotype</h3>
-<p>EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">alternating_hemiplegia_of_childhood</a><br />
-EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">episodic_ataxia</a></p>
+<p>EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">alternating hemiplegia of childhood</a><br />
+EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">episodic ataxia</a></p>
 
 {% endraw %}

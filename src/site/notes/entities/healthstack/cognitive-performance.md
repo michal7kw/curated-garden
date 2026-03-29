@@ -1,12 +1,13 @@
 ---
-created: '2026-03-28T19:56:10.016059Z'
+created: '2026-03-29T06:30:14.088192Z'
 description: Optimize brain function, memory, and mental clarity. Omega-3 DHA is the
   primary structural fat in neuronal membranes, Lion's Mane stimulates nerve growth
   factor, creatine enhances brain energy metabolism, and B-complex supports methylation
   pathways critical for neurotransmitter synthesis.
 dg-home: false
 dg-publish: true
-permalink: /entities/healthstack/cognitive-performance/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/healthstack/cognitive-performance/
 slug: cognitive-performance
 tags:
 - healthstack
@@ -15,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Cognitive Performance
 type: healthstack
-updated: '2026-03-28T19:56:10.016059Z'
+updated: '2026-03-29T06:30:14.088192Z'
 ---
 
 {% raw %}
@@ -78,7 +79,7 @@ updated: '2026-03-28T19:56:10.016059Z'
 </thead>
 <tbody>
 <tr>
-<td><a href="/entities/labtest/vitamin-b12/" class="internal-link">Vitamin B12</a></td>
+<td><a href="/garden/michal.k7w@gmail.com/labtest/vitamin-b12/" class="internal-link">Vitamin B12</a></td>
 <td>200-900</td>
 <td>500-900</td>
 <td>pg/mL</td>
@@ -92,7 +93,7 @@ updated: '2026-03-28T19:56:10.016059Z'
 <td>Predicts brain DHA levels and cognitive outcomes</td>
 </tr>
 <tr>
-<td><a href="/entities/labtest/homocysteine/" class="internal-link">Homocysteine</a></td>
+<td><a href="/garden/michal.k7w@gmail.com/labtest/homocysteine/" class="internal-link">Homocysteine</a></td>
 <td>0-15</td>
 <td>0-8</td>
 <td>umol/L</td>

@@ -1,12 +1,13 @@
 ---
-created: '2026-03-28T19:56:10.232199Z'
+created: '2026-03-29T06:30:14.272366Z'
 description: Cortisol is often called “the stress hormone” because it rises during
   times of pressure or emotional distress, helping the body respond and adapt. Either
   high or low levels can signal chronic stress, sleep problems, or disorders of the
   adrenal glands.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/cortisol/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/cortisol/
 slug: cortisol
 tags:
 - labtest
@@ -15,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: cortisol
 type: labtest
-updated: '2026-03-28T19:56:10.232199Z'
+updated: '2026-03-29T06:30:14.272366Z'
 ---
 
 {% raw %}
@@ -57,7 +58,7 @@ updated: '2026-03-28T19:56:10.232199Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a></li>
+<li><a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">cortisol</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -68,12 +69,12 @@ updated: '2026-03-28T19:56:10.232199Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Pituitary_Disorders</a><br />
-RELATED::<a href="/entities/labtest/cortisol-am/" class="internal-link">cortisol_am</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Adrenal_Insufficiency</a><br />
-RELATED::<a href="/entities/condition/cushings-syndrome/" class="internal-link">CushingS_Syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Adrenal_Hyperplasia</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Chronic_Stress_Elevated_Cortisol</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Pituitary Disorders</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol-am/" class="internal-link">cortisol am</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Adrenal Insufficiency</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/cushings-syndrome/" class="internal-link">CushingS Syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Adrenal Hyperplasia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Stress Elevated Cortisol</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

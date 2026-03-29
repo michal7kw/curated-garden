@@ -1,17 +1,18 @@
 ---
-created: '2026-03-28T19:56:10.454411Z'
+created: '2026-03-29T06:30:14.441836Z'
 description: Genova's comprehensive nutritional assessment covering vitamins, minerals,
   amino acids, fatty acids, and metabolic markers.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/nutreval-fmv/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/nutreval-fmv/
 slug: nutreval-fmv
 tags:
 - labtest
 templateEngineOverride: njk
 title: nutreval_fmv
 type: labtest
-updated: '2026-03-28T19:56:10.454411Z'
+updated: '2026-03-29T06:30:14.441836Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:56:10.316377Z'
+created: '2026-03-29T06:30:14.334478Z'
 description: Tested twice a year Hemoglobin A1c (HbA1c) measures average blood sugar
   over 2-3 months and is used to assess diabetes risk and management. Higher levels
   mean blood sugar has been above normal, raising risks for heart, kidney, and nerve
@@ -8,14 +8,15 @@ description: Tested twice a year Hemoglobin A1c (HbA1c) measures average blood s
   tests are useful, with HbA1c especially important for overall management.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/hemoglobin-a1c-hba1c/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/hemoglobin-a1c-hba1c/
 slug: hemoglobin-a1c-hba1c
 tags:
 - labtest
 templateEngineOverride: njk
 title: hemoglobin_a1c_hba1c
 type: labtest
-updated: '2026-03-28T19:56:10.316377Z'
+updated: '2026-03-29T06:30:14.334478Z'
 ---
 
 {% raw %}
@@ -64,16 +65,16 @@ updated: '2026-03-28T19:56:10.316377Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Hyperglycemia</a><br />
-RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
-RELATED::<a href="/entities/labtest/hba1c/" class="internal-link">Hba1C</a><br />
-RELATED::<a href="/entities/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Type_1__Type_2_Diabetes</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/hba1c/" class="internal-link">Hba1C</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Type 1  Type 2 Diabetes</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Prediabetes</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/entities/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a><br />
-MAY_DETECT::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a></p>
+<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a><br />
+MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

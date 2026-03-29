@@ -1,4 +1,4 @@
-const wikiLinkRegex = /\[\[(.*?\|.*?)\]\]/g;
+const wikiLinkRegex = /\[\[([^\]]+?)\]\]/g;
 const internalLinkRegex = /href="\/(.*?)"/g;
 
 function caselessCompare(a, b) {
@@ -81,16 +81,45 @@ function getGraph(data) {
       homeAlias = v.url;
     }
   });
+  // Build fallback lookup maps for wikilink resolution
+  let titleToURL = {};
+  let slugToURL = {};
+  Object.values(nodes).forEach((node) => {
+    if (node.title) {
+      let lower = node.title.toLowerCase().trim();
+      if (!titleToURL[lower]) titleToURL[lower] = node.url;
+      // Underscore variant (Obsidian sometimes uses underscores for spaces)
+      let underscored = lower.replace(/ /g, '_');
+      if (underscored !== lower && !titleToURL[underscored]) titleToURL[underscored] = node.url;
+    }
+    let urlParts = node.url.split('/').filter(Boolean);
+    if (urlParts.length > 0) {
+      let slug = urlParts[urlParts.length - 1];
+      if (!slugToURL[slug]) slugToURL[slug] = node.url;
+    }
+  });
+
   Object.values(nodes).forEach((node) => {
     let outBound = new Set();
     node.outBound.forEach((olink) => {
-      // Normalize: strip trailing slash for stemURLs lookup
-      let normalized = olink.replace(/\/+$/, '');
-      let link = (stemURLs[normalized] || stemURLs[olink] || olink).split('#')[0];
-      // Ensure leading slash for nodes lookup
-      if (link && !link.startsWith('/')) link = '/' + link;
-      // Ensure trailing slash for URL matching
-      if (link && !link.endsWith('/')) link = link + '/';
+      let link = stemURLs[olink];
+      // Fallback 1: direct node URL match (entity HTML hrefs)
+      if (!link && nodes[olink]) link = olink;
+      // Fallback 2: title-based lookup (plain [[Note Name]] wikilinks)
+      if (!link) {
+        let normalized = olink.toLowerCase().trim().replace(/_/g, ' ');
+        link = titleToURL[normalized] || titleToURL[olink.toLowerCase().trim()];
+      }
+      // Fallback 3: slug-based lookup (path-like wikilinks)
+      if (!link) {
+        let parts = olink.split('/');
+        let lastPart = parts[parts.length - 1]
+          .toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+        if (lastPart) link = slugToURL[lastPart];
+      }
+      // Final fallback: use olink as-is
+      if (!link) link = olink;
+      link = link.split('#')[0];
       outBound.add(link);
     });
     node.outBound = Array.from(outBound);

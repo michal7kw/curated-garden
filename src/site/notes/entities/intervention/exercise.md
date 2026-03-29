@@ -1,12 +1,13 @@
 ---
-created: '2026-03-28T19:56:10.068791Z'
+created: '2026-03-29T06:30:14.144312Z'
 description: Physical activity performed to improve or maintain physical fitness,
   health, and overall wellness. Encompasses aerobic (cardio), anaerobic (resistance),
   flexibility, and balance training. One of the most effective interventions for preventing
   chronic disease and extending healthspan.
 dg-home: false
 dg-publish: true
-permalink: /entities/intervention/exercise/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/intervention/exercise/
 slug: exercise
 tags:
 - intervention
@@ -19,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Exercise
 type: intervention
-updated: '2026-03-28T19:56:10.068791Z'
+updated: '2026-03-29T06:30:14.144312Z'
 ---
 
 {% raw %}
@@ -57,15 +58,15 @@ updated: '2026-03-28T19:56:10.068791Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a><br />
-RELATED::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br />
-RELATED::<a href="/entities/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a><br />
-RELATED::<a href="/entities/intervention/cognitive-training/" class="internal-link">Cognitive_Training</a><br />
-RELATED::<a href="/entities/condition/mild-cognitive-impairment/" class="internal-link">Mild_Cognitive_Impairment</a><br />
-RELATED::<a href="/entities/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein_Aggregation</a><br />
-RELATED::<a href="/entities/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal_Pathway</a><br />
-RELATED::<a href="/entities/intervention/mediterranean-diet/" class="internal-link">Mediterranean_Diet</a><br />
-RELATED::<a href="/entities/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/bdnf/" class="internal-link">BDNF</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/sleep-optimization/" class="internal-link">Sleep Optimization</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/cognitive-training/" class="internal-link">Cognitive Training</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein Aggregation</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal Pathway</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/mediterranean-diet/" class="internal-link">Mediterranean Diet</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a></p>
 <h2>Research Support</h2>
 <p>No research studies documented yet.</p>
 <h2>References</h2>

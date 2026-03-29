@@ -1,5 +1,5 @@
 ---
-created: '2026-03-28T19:56:10.037200Z'
+created: '2026-03-29T06:30:14.115697Z'
 description: Most abundant circulating steroid hormone, primarily produced by the
   adrenal cortex. Serves as a precursor to both testosterone and estrogen. Levels
   peak in early adulthood and decline ~2-3% per year, reaching 20% of peak by age
@@ -7,7 +7,8 @@ description: Most abundant circulating steroid hormone, primarily produced by th
   health, and neuroprotection.
 dg-home: false
 dg-publish: true
-permalink: /entities/hormone/dhea/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/hormone/dhea/
 slug: dhea
 tags:
 - hormone
@@ -19,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: DHEA
 type: hormone
-updated: '2026-03-28T19:56:10.037200Z'
+updated: '2026-03-29T06:30:14.115697Z'
 ---
 
 {% raw %}
@@ -28,10 +29,10 @@ updated: '2026-03-28T19:56:10.037200Z'
 <p>Most abundant circulating steroid hormone, primarily produced by the adrenal cortex. Serves as a precursor to both testosterone and estrogen. Levels peak in early adulthood and decline ~2-3% per year, reaching 20% of peak by age 70. Counterbalances cortisol's catabolic effects and supports immune function, bone health, and neuroprotection.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
-RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
-RELATED::<a href="/entities/hormone/estrogen/" class="internal-link">Estrogen</a><br />
-RELATED::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a><br />
-RELATED::<a href="/entities/organ/bones/" class="internal-link">Bones</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/organ/brain/" class="internal-link">Brain</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/hormone/estrogen/" class="internal-link">Estrogen</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/insulin/" class="internal-link">Insulin</a><br />
+RELATED::<a href="/garden/michal.k7w@gmail.com/organ/bones/" class="internal-link">Bones</a></p>
 
 {% endraw %}

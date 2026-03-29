@@ -1,15 +1,16 @@
 ---
-created: '2026-03-28T19:56:11.400268Z'
+created: '2026-03-29T06:30:15.201004Z'
 dg-home: false
 dg-publish: true
-permalink: /entities/UserSupplementLog/untitled/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/UserSupplementLog/untitled/
 slug: untitled
 tags:
 - UserSupplementLog
 templateEngineOverride: njk
 title: Untitled
 type: UserSupplementLog
-updated: '2026-03-28T19:56:11.400268Z'
+updated: '2026-03-29T06:30:15.201004Z'
 ---
 
 {% raw %}

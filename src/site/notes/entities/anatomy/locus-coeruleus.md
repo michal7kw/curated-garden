@@ -1,11 +1,12 @@
 ---
-created: '2026-03-28T19:56:09.177948Z'
+created: '2026-03-29T06:30:13.475418Z'
 description: Small brainstem nucleus that is the primary source of norepinephrine
   in the brain. Projects to virtually all cortical and subcortical regions, regulating
   arousal, attention, and stress response.
 dg-home: false
 dg-publish: true
-permalink: /entities/Anatomy/locus-coeruleus/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/Anatomy/locus-coeruleus/
 slug: locus-coeruleus
 tags:
 - Anatomy
@@ -16,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Locus Coeruleus
 type: Anatomy
-updated: '2026-03-28T19:56:09.177948Z'
+updated: '2026-03-29T06:30:13.475418Z'
 ---
 
 {% raw %}
@@ -31,7 +32,7 @@ updated: '2026-03-28T19:56:09.177948Z'
 <li>Among the first regions affected in Alzheimer's disease</li>
 </ul>
 <h2>Relationships</h2>
-<p>SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/attention-and-focus/" class="internal-link">Attention and Focus</a><br />
-SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a></p>
+<p>SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/attention-and-focus/" class="internal-link">Attention and Focus</a><br />
+SUPPORTS_FUNCTION::<a href="/garden/michal.k7w@gmail.com/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a></p>
 
 {% endraw %}

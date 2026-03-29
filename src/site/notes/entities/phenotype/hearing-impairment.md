@@ -1,9 +1,10 @@
 ---
-created: '2026-03-28T19:56:10.981719Z'
+created: '2026-03-29T06:30:14.888467Z'
 description: '...'
 dg-home: false
 dg-publish: true
-permalink: /entities/phenotype/hearing-impairment/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/phenotype/hearing-impairment/
 slug: hearing-impairment
 tags:
 - phenotype
@@ -12,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Hearing impairment
 type: phenotype
-updated: '2026-03-28T19:56:10.981719Z'
+updated: '2026-03-29T06:30:14.888467Z'
 ---
 
 {% raw %}
@@ -21,32 +22,32 @@ updated: '2026-03-28T19:56:10.981719Z'
 <p>...</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Progressive_hearing_impairment</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">High-frequency_hearing_impairment</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Mid-frequency_hearing_loss</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Transient_hearing_impairment</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Low-frequency_hearing_loss</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Unilateral_deafness</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Moderate_hearing_impairment</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Hearing_abnormality</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Mild_hearing_impairment</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Aminoglycoside-induced_hearing_loss</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Conductive_hearing_impairment</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Severe_hearing_impairment</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Profound_hearing_impairment</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Progressive hearing impairment</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">High-frequency hearing impairment</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Mid-frequency hearing loss</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Transient hearing impairment</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Low-frequency hearing loss</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Unilateral deafness</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Moderate hearing impairment</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hearing abnormality</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Mild hearing impairment</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Aminoglycoside-induced hearing loss</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Conductive hearing impairment</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Severe hearing impairment</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Profound hearing impairment</a></p>
 <h3>Related To Phenotype</h3>
-<p>RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Transient_hearing_impairment</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Severe_hearing_impairment</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Profound_hearing_impairment</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Hearing_abnormality</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Unilateral_deafness</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Mild_hearing_impairment</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Mid-frequency_hearing_loss</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Aminoglycoside-induced_hearing_loss</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Moderate_hearing_impairment</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">High-frequency_hearing_impairment</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Progressive_hearing_impairment</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Low-frequency_hearing_loss</a><br />
-RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Conductive_hearing_impairment</a></p>
+<p>RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Transient hearing impairment</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Severe hearing impairment</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Profound hearing impairment</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Hearing abnormality</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Unilateral deafness</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Mild hearing impairment</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Mid-frequency hearing loss</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Aminoglycoside-induced hearing loss</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Moderate hearing impairment</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">High-frequency hearing impairment</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Progressive hearing impairment</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Low-frequency hearing loss</a><br />
+RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Conductive hearing impairment</a></p>
 
 {% endraw %}

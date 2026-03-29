@@ -1,17 +1,18 @@
 ---
-created: '2026-03-28T19:56:10.243757Z'
+created: '2026-03-29T06:30:14.281773Z'
 description: 'Measures inflammatory cytokines: IL-1, IL-6, IL-10, TNF-alpha, IFN-gamma,
   and others.'
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/cytokine-panel/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/cytokine-panel/
 slug: cytokine-panel
 tags:
 - labtest
 templateEngineOverride: njk
 title: cytokine_panel
 type: labtest
-updated: '2026-03-28T19:56:10.243757Z'
+updated: '2026-03-29T06:30:14.281773Z'
 ---
 
 {% raw %}

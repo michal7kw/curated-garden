@@ -1,11 +1,12 @@
 ---
-created: '2026-03-28T19:56:10.715129Z'
+created: '2026-03-29T06:30:14.697691Z'
 description: First committed step of glycolysis, formed by hexokinase phosphorylation
   of glucose. Key branch point metabolite directing carbon flux toward glycolysis,
   pentose phosphate pathway, or glycogen synthesis.
 dg-home: false
 dg-publish: true
-permalink: /entities/metabolite/glucose-6-phosphate/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/metabolite/glucose-6-phosphate/
 slug: glucose-6-phosphate
 tags:
 - metabolite
@@ -13,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Glucose-6-Phosphate
 type: metabolite
-updated: '2026-03-28T19:56:10.715129Z'
+updated: '2026-03-29T06:30:14.697691Z'
 ---
 
 {% raw %}
@@ -22,13 +23,13 @@ updated: '2026-03-28T19:56:10.715129Z'
 <p>First committed step of glycolysis, formed by hexokinase phosphorylation of glucose. Key branch point metabolite directing carbon flux toward glycolysis, pentose phosphate pathway, or glycogen synthesis.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/protein/hexokinase/" class="internal-link">Hexokinase</a></p>
+<p>RELATED::<a href="/garden/michal.k7w@gmail.com/protein/hexokinase/" class="internal-link">Hexokinase</a></p>
 <h3>Regulates</h3>
-<p>REGULATES::<a href="/entities/protein/hexokinase/" class="internal-link">Hexokinase</a><br />
-REGULATES::<a href="/entities/protein/ampk/" class="internal-link">AMPK</a></p>
+<p>REGULATES::<a href="/garden/michal.k7w@gmail.com/protein/hexokinase/" class="internal-link">Hexokinase</a><br />
+REGULATES::<a href="/garden/michal.k7w@gmail.com/protein/ampk/" class="internal-link">AMPK</a></p>
 <h3>Produced By</h3>
-<p>PRODUCED_BY::<a href="/entities/protein/hexokinase/" class="internal-link">Hexokinase</a></p>
+<p>PRODUCED_BY::<a href="/garden/michal.k7w@gmail.com/protein/hexokinase/" class="internal-link">Hexokinase</a></p>
 <h3>Produced From</h3>
-<p>PRODUCED_FROM::<a href="/entities/protein/hexokinase/" class="internal-link">Hexokinase</a></p>
+<p>PRODUCED_FROM::<a href="/garden/michal.k7w@gmail.com/protein/hexokinase/" class="internal-link">Hexokinase</a></p>
 
 {% endraw %}

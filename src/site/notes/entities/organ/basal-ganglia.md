@@ -1,15 +1,16 @@
 ---
-created: '2026-03-28T19:56:10.778769Z'
+created: '2026-03-29T06:30:14.754034Z'
 dg-home: false
 dg-publish: true
-permalink: /entities/organ/basal-ganglia/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/organ/basal-ganglia/
 slug: basal-ganglia
 tags:
 - organ
 templateEngineOverride: njk
 title: Basal Ganglia
 type: organ
-updated: '2026-03-28T19:56:10.778769Z'
+updated: '2026-03-29T06:30:14.754034Z'
 ---
 
 {% raw %}

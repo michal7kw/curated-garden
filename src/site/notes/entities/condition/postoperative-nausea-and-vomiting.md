@@ -1,10 +1,11 @@
 ---
-created: '2026-03-28T19:56:09.772933Z'
+created: '2026-03-29T06:30:13.954401Z'
 description: Nausea and vomiting that occurs after surgery, typically within the first
   24 hours, often a side effect of anesthesia.
 dg-home: false
 dg-publish: true
-permalink: /entities/condition/postoperative-nausea-and-vomiting/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/condition/postoperative-nausea-and-vomiting/
 slug: postoperative-nausea-and-vomiting
 tags:
 - condition
@@ -15,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Postoperative Nausea and Vomiting
 type: condition
-updated: '2026-03-28T19:56:09.772933Z'
+updated: '2026-03-29T06:30:13.954401Z'
 ---
 
 {% raw %}
@@ -24,12 +25,12 @@ updated: '2026-03-28T19:56:09.772933Z'
 <p>Nausea and vomiting that occurs after surgery, typically within the first 24 hours, often a side effect of anesthesia.</p>
 <h2>Relationships</h2>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/metabolite/glucose/" class="internal-link">Glucose</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/sodium/" class="internal-link">Sodium</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/potassium/" class="internal-link">Potassium</a></p>
+<p>ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/metabolite/glucose/" class="internal-link">Glucose</a><br />
+ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/sodium/" class="internal-link">Sodium</a><br />
+ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/potassium/" class="internal-link">Potassium</a></p>
 <h3>Improved By Supplement</h3>
-<p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a><br />
-IMPROVED_BY_SUPPLEMENT::<a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a></p>
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/labtest/magnesium/" class="internal-link">Magnesium</a></p>
 
 {% endraw %}

@@ -1,11 +1,12 @@
 ---
-created: '2026-03-28T19:56:09.179111Z'
+created: '2026-03-29T06:30:13.476454Z'
 description: Key structure in the ventral striatum and the central node of the brain's
   reward circuit. Receives dopaminergic input from the VTA and is critical for motivation,
   pleasure, and addiction.
 dg-home: false
 dg-publish: true
-permalink: /entities/Anatomy/nucleus-accumbens/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/Anatomy/nucleus-accumbens/
 slug: nucleus-accumbens
 tags:
 - Anatomy
@@ -16,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Nucleus Accumbens
 type: Anatomy
-updated: '2026-03-28T19:56:09.179111Z'
+updated: '2026-03-29T06:30:13.476454Z'
 ---
 
 {% raw %}

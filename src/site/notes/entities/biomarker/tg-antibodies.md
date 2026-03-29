@@ -1,15 +1,16 @@
 ---
-created: '2026-03-28T19:56:09.382196Z'
+created: '2026-03-29T06:30:13.628228Z'
 dg-home: false
 dg-publish: true
-permalink: /entities/biomarker/tg-antibodies/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/biomarker/tg-antibodies/
 slug: tg-antibodies
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Tg Antibodies
 type: biomarker
-updated: '2026-03-28T19:56:09.382196Z'
+updated: '2026-03-29T06:30:13.628228Z'
 ---
 
 {% raw %}
@@ -18,13 +19,13 @@ updated: '2026-03-28T19:56:09.382196Z'
 <h2>Relationships</h2>
 <h3>Affected By Supplement</h3>
 <ul>
-<li>-&gt; <a href="/entities/supplement/selenium/" class="internal-link">Selenium</a> (supplement)</li>
-<li>-&gt; <a href="/entities/labtest/vitamin-d/" class="internal-link">Vitamin D</a> (supplement)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/selenium/" class="internal-link">Selenium</a> (supplement)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/vitamin-d/" class="internal-link">Vitamin D</a> (supplement)</li>
 </ul>
 <h3>Measured By Test</h3>
 <ul>
-<li>-&gt; <a href="/entities/labtest/thyroglobulin-antibodies-tgab/" class="internal-link">thyroglobulin_antibodies_tgab</a> (labtest)</li>
-<li>-&gt; <a href="/entities/labtest/thyroid-panel-complete/" class="internal-link">thyroid_panel_complete</a> (labtest)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/thyroglobulin-antibodies-tgab/" class="internal-link">thyroglobulin antibodies tgab</a> (labtest)</li>
+<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/thyroid-panel-complete/" class="internal-link">thyroid panel complete</a> (labtest)</li>
 </ul>
 
 {% endraw %}

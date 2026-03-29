@@ -1,18 +1,19 @@
 ---
-created: '2026-03-28T19:56:10.625543Z'
+created: '2026-03-29T06:30:14.604335Z'
 description: Tested twice a year Yeast in the urine, most often Candida species, may
   sometimes reflect contamination from the skin or genital area, but persistent presence
   often signals a fungal urinary tract infection (UTI) known as candiduria.
 dg-home: false
 dg-publish: true
-permalink: /entities/labtest/yeast-urine/
+gardenUsername: michal.k7w@gmail.com
+permalink: /garden/michal.k7w@gmail.com/labtest/yeast-urine/
 slug: yeast-urine
 tags:
 - labtest
 templateEngineOverride: njk
 title: yeast_urine
 type: labtest
-updated: '2026-03-28T19:56:10.625543Z'
+updated: '2026-03-29T06:30:14.604335Z'
 ---
 
 {% raw %}
@@ -60,11 +61,11 @@ updated: '2026-03-28T19:56:10.625543Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Yeast_Infection_Candidiasis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Immune_Deficiency</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Poor_Glucose_Control</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Medication_Effect_EG_Antibiotics_Or_Steroids</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Urinary_Tract_Infection_Secondary_Yeast_Involvement</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Yeast Infection Candidiasis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Immune Deficiency</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Poor Glucose Control</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Medication Effect EG Antibiotics Or Steroids</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Urinary Tract Infection Secondary Yeast Involvement</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
