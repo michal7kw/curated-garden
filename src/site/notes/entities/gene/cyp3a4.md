@@ -1,41 +1,40 @@
 ---
-created: '2026-03-29T06:30:14.078399Z'
-description: Cytochrome P450 3A4, the most abundant hepatic CYP enzyme, responsible
-  for metabolizing approximately 50% of all prescription drugs. Key target for drug-drug
-  and drug-supplement interactions.
+created: '2026-04-14T12:09:05.509060Z'
+description: Encodes Cytochrome P450 3A4, the most important drug-metabolizing enzyme
+  in the body.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/gene/cyp3a4/
+permalink: /entities/gene/cyp3a4/
 slug: cyp3a4
 tags:
 - gene
-- pharmacogenomics
 - drug_metabolism
-- cyp450
+- liver
+- imported
+- primekg
 templateEngineOverride: njk
 title: CYP3A4
 type: gene
-updated: '2026-03-29T06:30:14.078399Z'
+updated: '2026-04-14T12:09:05.509060Z'
 ---
 
 {% raw %}
 <h1>CYP3A4</h1>
 <h2>Overview</h2>
-<p>CYP3A4 is the most abundant cytochrome P450 enzyme in the liver and intestine, responsible for the oxidative metabolism of approximately 50% of marketed drugs. Substrates include statins, calcium channel blockers, immunosuppressants, HIV protease inhibitors, and many supplements. CYP3A4 activity varies 10-40 fold between individuals due to genetic polymorphisms, epigenetic regulation, and environmental inducers/inhibitors. Key supplement interactions: St. John's Wort (potent inducer), grapefruit (inhibitor), curcumin (inhibitor).</p>
+<p>Encodes Cytochrome P450 3A4, the most important drug-metabolizing enzyme in the body.</p>
 <h2>Relationships</h2>
-<h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/liver-disease/" class="internal-link">Liver Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/nafld/" class="internal-link">NAFLD</a></p>
-<h3>Modulated By Supplement</h3>
-<p>MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/curcumin/" class="internal-link">Curcumin</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/resveratrol/" class="internal-link">Resveratrol</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/quercetin/" class="internal-link">Quercetin</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/sulforaphane/" class="internal-link">Sulforaphane</a></p>
-<h2>References</h2>
-<ul>
-<li>PMID:15100179 — CYP3A4 genetic polymorphisms and drug interactions</li>
-<li>PMID:27356439 — Dietary supplement-CYP3A4 interactions</li>
-</ul>
+<h3>Related</h3>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Intestine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Liver</a></p>
+<h3>Metabolizes</h3>
+<p>METABOLIZES::<a class="internal-link is-unresolved" href="/404">Vilazodone</a><br />
+METABOLIZES::<a class="internal-link is-unresolved" href="/404">Citalopram</a></p>
+<h3>Merged From gene</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Liver Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">NAFLD</a><br />
+MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Curcumin</a><br />
+MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Quercetin</a><br />
+MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Resveratrol</a><br />
+MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Sulforaphane</a></p>
 
 {% endraw %}

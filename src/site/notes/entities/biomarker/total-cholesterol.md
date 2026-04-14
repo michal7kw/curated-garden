@@ -1,16 +1,15 @@
 ---
-created: '2026-03-29T06:30:13.631251Z'
+created: '2026-04-14T12:09:04.695639Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/total-cholesterol/
+permalink: /entities/biomarker/total-cholesterol/
 slug: total-cholesterol
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Total Cholesterol
 type: biomarker
-updated: '2026-03-29T06:30:13.631251Z'
+updated: '2026-04-14T12:09:04.695639Z'
 ---
 
 {% raw %}
@@ -18,7 +17,12 @@ updated: '2026-03-29T06:30:13.631251Z'
 <h2>Overview</h2>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/advanced-lipid-panel/" class="internal-link">advanced lipid panel</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/lipid-panel-standard/" class="internal-link">lipid panel standard</a></p>
+<p>RELATED::<a href="/entities/labtest/advanced-lipid-panel/" class="internal-link">advanced lipid panel</a><br />
+RELATED::<a href="/entities/labtest/lipid-panel-standard/" class="internal-link">lipid panel standard</a></p>
+<h3>Enriched</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a><br />
+CORRELATED_WITH::<a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a><br />
+CORRELATED_WITH::<a class="internal-link is-unresolved" href="/404">Apolipoprotein B</a></p>
 
 {% endraw %}

@@ -1,10 +1,9 @@
 ---
-created: '2026-03-29T06:30:15.019954Z'
+created: '2026-04-14T12:09:05.514467Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/protein/rna-binding/
+permalink: /entities/protein/rna-binding/
 slug: rna-binding
 tags:
 - protein
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: RNA binding
 type: protein
-updated: '2026-03-29T06:30:15.019954Z'
+updated: '2026-04-14T12:09:05.514467Z'
 ---
 
 {% raw %}
@@ -73,5 +72,8 @@ RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">single-s
 RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">nucleic acid binding</a><br />
 RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">primary miRNA binding</a><br />
 RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">pre-miRNA binding</a></p>
+<h3>Enriched</h3>
+<p>LOCATED_IN::<a class="internal-link is-unresolved" href="/404">Nucleus</a><br />
+ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Ribosome</a></p>
 
 {% endraw %}

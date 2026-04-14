@@ -1,20 +1,19 @@
 ---
-created: '2026-03-29T06:30:14.552476Z'
+created: '2026-04-14T12:09:05.281845Z'
 description: Tumor Necrosis Factor Alpha (TNF-alpha) test measures this key pro-inflammatory
   cytokine in blood. TNF-alpha is produced primarily by activated macrophages and
   plays a central role in systemic inflammation. It is a therapeutic target in rheumatoid
   arthritis, inflammatory bowel disease, and psoriasis.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/tnf-alpha/
+permalink: /entities/labtest/tnf-alpha/
 slug: tnf-alpha
 tags:
 - labtest
 templateEngineOverride: njk
 title: tnf_alpha
 type: labtest
-updated: '2026-03-29T06:30:14.552476Z'
+updated: '2026-04-14T12:09:05.281845Z'
 ---
 
 {% raw %}
@@ -56,7 +55,7 @@ updated: '2026-03-29T06:30:14.552476Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/tnf-alpha/" class="internal-link">tnf alpha</a></li>
+<li><a href="/entities/labtest/tnf-alpha/" class="internal-link">tnf alpha</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -67,13 +66,13 @@ updated: '2026-03-29T06:30:14.552476Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/advanced-inflammation-panel/" class="internal-link">advanced inflammation panel</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtest/cytokine-panel/" class="internal-link">cytokine panel</a></p>
+<p>INCLUDED_IN::<a href="/entities/labtestpanel/advanced-inflammation-panel/" class="internal-link">advanced inflammation panel</a><br />
+INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">cytokine panel</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/ankylosing-spondylitis/" class="internal-link">Ankylosing Spondylitis</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/psoriasis/" class="internal-link">Psoriasis</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/ankylosing-spondylitis/" class="internal-link">Ankylosing Spondylitis</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/psoriasis/" class="internal-link">Psoriasis</a></p>
 <h3>Measures</h3>
-<p>MEASURES::<a href="/garden/michal.k7w@gmail.com/labtest/tnf-alpha/" class="internal-link">TNF Alpha</a></p>
+<p>MEASURES::<a href="/entities/labtest/tnf-alpha/" class="internal-link">TNF Alpha</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

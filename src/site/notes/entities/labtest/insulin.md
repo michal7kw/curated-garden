@@ -1,5 +1,5 @@
 ---
-created: '2026-03-29T06:30:14.353803Z'
+created: '2026-04-14T12:09:05.061316Z'
 description: Tested twice a year Insulin is a hormone that acts like a key, helping
   sugar in the blood move into cells for energy. Unlike glucose, insulin isn’t routinely
   tested in standard checkups, but measuring it can sometimes detect signs of diabetes
@@ -9,8 +9,7 @@ description: Tested twice a year Insulin is a hormone that acts like a key, help
   glucose gives a fuller picture of metabolic health.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/insulin/
+permalink: /entities/labtest/insulin/
 slug: insulin
 tags:
 - labtest
@@ -19,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: insulin
 type: labtest
-updated: '2026-03-29T06:30:14.353803Z'
+updated: '2026-04-14T12:09:05.061316Z'
 ---
 
 {% raw %}
@@ -61,7 +60,7 @@ updated: '2026-03-29T06:30:14.353803Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/insulin/" class="internal-link">insulin</a></li>
+<li><a href="/entities/labtest/insulin/" class="internal-link">insulin</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -72,16 +71,16 @@ updated: '2026-03-29T06:30:14.353803Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a><br />
-MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></p>
+<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Insulin Resistance</a><br />
+MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Pcos Polycystic Ovary Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Insulin Resistance</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Mafld Metabolic Dysfunction-Associated Fatty Liver Disease</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Insulin Resistance</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

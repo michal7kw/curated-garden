@@ -1,5 +1,5 @@
 ---
-created: '2026-03-29T06:30:14.276044Z'
+created: '2026-04-14T12:09:04.975829Z'
 description: Tested twice a year Creatinine is a waste product made as muscles use
   energy, both during everyday activity and exercise. Because muscles are always active
   to some degree, creatinine is produced at a steady rate. Healthy kidneys filter
@@ -9,8 +9,7 @@ description: Tested twice a year Creatinine is a waste product made as muscles u
   symptoms CHANGES IN URINATION SWELLING IN LEGS OR ANKLES
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/creatinine/
+permalink: /entities/labtest/creatinine/
 slug: creatinine
 tags:
 - labtest
@@ -19,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: creatinine
 type: labtest
-updated: '2026-03-29T06:30:14.276044Z'
+updated: '2026-04-14T12:09:04.975829Z'
 ---
 
 {% raw %}
@@ -61,7 +60,7 @@ updated: '2026-03-29T06:30:14.276044Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/creatinine/" class="internal-link">creatinine</a></li>
+<li><a href="/entities/labtest/creatinine/" class="internal-link">creatinine</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -72,16 +71,16 @@ updated: '2026-03-29T06:30:14.276044Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/urinary-tract-obstruction/" class="internal-link">Urinary Tract Obstruction</a></p>
+<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Urinary Tract Obstruction</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive metabolic panel</a><br />
+<p>RELATED::<a href="/entities/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive metabolic panel</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Muscle Loss</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Dysfunction</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/urinary-tract-obstruction/" class="internal-link">Urinary Tract Obstruction</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/kidney-function-panel/" class="internal-link">kidney function panel</a></p>
+RELATED::<a class="internal-link is-unresolved" href="/404">Urinary Tract Obstruction</a><br />
+RELATED::<a href="/entities/labtest/kidney-function-panel/" class="internal-link">kidney function panel</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/urinary-tract-obstruction/" class="internal-link">Urinary Tract Obstruction</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Urinary Tract Obstruction</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

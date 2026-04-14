@@ -1,5 +1,5 @@
 ---
-created: '2026-03-29T06:30:14.284828Z'
+created: '2026-04-14T12:09:04.990054Z'
 description: DHEA-Sulfate (DHEA-S) is one of the most abundant hormones in women and
   serves as a building block for other hormones, including estrogen and testosterone.
   Measuring DHEA-S can provide insight into reproductive function, adrenal gland health,
@@ -9,15 +9,14 @@ description: DHEA-Sulfate (DHEA-S) is one of the most abundant hormones in women
   HAIR LOSS MOOD CHANGES
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/dhea-sulfate/
+permalink: /entities/labtest/dhea-sulfate/
 slug: dhea-sulfate
 tags:
 - labtest
 templateEngineOverride: njk
 title: dhea_sulfate
 type: labtest
-updated: '2026-03-29T06:30:14.284828Z'
+updated: '2026-04-14T12:09:04.990054Z'
 ---
 
 {% raw %}
@@ -66,17 +65,17 @@ updated: '2026-03-29T06:30:14.284828Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Polycystic Ovary Syndrome Pcos</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-hormone-health/" class="internal-link">extended hormone health</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy hcg</a><br />
+RELATED::<a href="/entities/labtestpanel/extended-hormone-health/" class="internal-link">extended hormone health</a><br />
+RELATED::<a href="/entities/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy hcg</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Aging-Related Decline</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hormonal Imbalance Androgen Excess Or Deficiency</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Adrenal Dysfunction</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy hcg</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-hormone-health/" class="internal-link">extended hormone health</a></p>
+<p>INCLUDED_IN::<a href="/entities/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy hcg</a><br />
+INCLUDED_IN::<a href="/entities/labtestpanel/extended-hormone-health/" class="internal-link">extended hormone health</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></p>
+<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

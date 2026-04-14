@@ -1,18 +1,17 @@
 ---
-created: '2026-03-29T06:30:14.294186Z'
+created: '2026-04-14T12:09:05.001201Z'
 description: Non-specific marker of inflammation. Used in monitoring inflammatory
   conditions.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/esr/
+permalink: /entities/labtest/esr/
 slug: esr
 tags:
 - labtest
 templateEngineOverride: njk
 title: esr
 type: labtest
-updated: '2026-03-29T06:30:14.294186Z'
+updated: '2026-04-14T12:09:05.001201Z'
 ---
 
 {% raw %}
@@ -58,7 +57,8 @@ updated: '2026-03-29T06:30:14.294186Z'
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>MEASURES::<a href="/entities/labtest/esr/" class="internal-link">ESR</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Inflammation</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

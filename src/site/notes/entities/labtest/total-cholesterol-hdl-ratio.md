@@ -1,5 +1,5 @@
 ---
-created: '2026-03-29T06:30:14.560930Z'
+created: '2026-04-14T12:09:05.289957Z'
 description: toh-tul koh-les-ter-ol / h-d-l ray-shee-oh Tested twice a year The ratio
   shows the balance between harmful cholesterol particles that cause plaque buildup
   in arteries, and protective cholesterol particles that help remove excess cholesterol
@@ -7,15 +7,14 @@ description: toh-tul koh-les-ter-ol / h-d-l ray-shee-oh Tested twice a year The 
   cardiovascular events like heart attack and stroke.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/total-cholesterol-hdl-ratio/
+permalink: /entities/labtest/total-cholesterol-hdl-ratio/
 slug: total-cholesterol-hdl-ratio
 tags:
 - labtest
 templateEngineOverride: njk
 title: total_cholesterol_hdl_ratio
 type: labtest
-updated: '2026-03-29T06:30:14.560930Z'
+updated: '2026-04-14T12:09:05.289957Z'
 ---
 
 {% raw %}
@@ -70,18 +69,18 @@ updated: '2026-03-29T06:30:14.560930Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hyperlipidemia</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-heart-metabolic/" class="internal-link">extended heart metabolic</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/genetic-heart-risks/" class="internal-link">genetic heart risks</a><br />
+RELATED::<a href="/entities/labtestpanel/extended-heart-metabolic/" class="internal-link">extended heart metabolic</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a><br />
+RELATED::<a href="/entities/labtestpanel/genetic-heart-risks/" class="internal-link">genetic heart risks</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Atherosclerosis</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
-MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></p>
+<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a><br />
+MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-heart-metabolic/" class="internal-link">extended heart metabolic</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/genetic-heart-risks/" class="internal-link">genetic heart risks</a></p>
+<p>INCLUDED_IN::<a href="/entities/labtestpanel/extended-heart-metabolic/" class="internal-link">extended heart metabolic</a><br />
+INCLUDED_IN::<a href="/entities/labtestpanel/genetic-heart-risks/" class="internal-link">genetic heart risks</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

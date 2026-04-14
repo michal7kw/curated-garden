@@ -1,18 +1,17 @@
 ---
-created: '2026-03-29T06:30:14.221820Z'
+created: '2026-04-14T12:09:04.908084Z'
 description: Tests APOE gene variants (E2, E3, E4). E4 associated with increased Alzheimer's
   and cardiovascular risk.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/apoe-genotype/
+permalink: /entities/labtest/apoe-genotype/
 slug: apoe-genotype
 tags:
 - labtest
 templateEngineOverride: njk
 title: apoe_genotype
 type: labtest
-updated: '2026-03-29T06:30:14.221820Z'
+updated: '2026-04-14T12:09:04.908084Z'
 ---
 
 {% raw %}
@@ -54,7 +53,7 @@ updated: '2026-03-29T06:30:14.221820Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/apoe-genotype/" class="internal-link">apoe genotype</a></li>
+<li><a href="/entities/labtest/apoe-genotype/" class="internal-link">apoe genotype</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -64,7 +63,8 @@ updated: '2026-03-29T06:30:14.221820Z'
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Alzheimer's Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

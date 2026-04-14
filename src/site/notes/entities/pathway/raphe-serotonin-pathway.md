@@ -1,12 +1,11 @@
 ---
-created: '2026-03-29T06:30:14.849354Z'
+created: '2026-04-14T12:09:05.430192Z'
 description: Serotonergic projections from the dorsal and median raphe nuclei to widespread
   cortical and subcortical targets. Modulates mood, sleep, appetite, pain, and cognition.
   Primary target of SSRI antidepressants.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/pathway/raphe-serotonin-pathway/
+permalink: /entities/pathway/raphe-serotonin-pathway/
 slug: raphe-serotonin-pathway
 tags:
 - pathway
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Raphe Serotonin Pathway
 type: pathway
-updated: '2026-03-29T06:30:14.849354Z'
+updated: '2026-04-14T12:09:05.430192Z'
 ---
 
 {% raw %}
@@ -31,23 +30,27 @@ updated: '2026-03-29T06:30:14.849354Z'
 <li><strong>Migraine</strong> — Serotonin vasoconstriction and trigeminal modulation</li>
 </ul>
 <h2>Relationships</h2>
-<p>RELATED_TO::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
-RELATED_TO::<a href="/garden/michal.k7w@gmail.com/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a><br />
-RELATED_TO::<a href="/garden/michal.k7w@gmail.com/anatomy/amygdala/" class="internal-link">Amygdala</a><br />
-RELATED_TO::<a href="/garden/michal.k7w@gmail.com/anatomy/hippocampus/" class="internal-link">Hippocampus</a><br />
-RELATED_TO::<a href="/garden/michal.k7w@gmail.com/anatomy/hypothalamus/" class="internal-link">Hypothalamus</a></p>
-<h3>Modulated By Supplement</h3>
-<p>MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/l-tryptophan/" class="internal-link">L-Tryptophan</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/garden/michal.k7w@gmail.com/labtest/magnesium/" class="internal-link">Magnesium</a></p>
-<h3>Associated Biomarker</h3>
-<p>ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/bdnf/" class="internal-link">BDNF</a><br />
-ASSOCIATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">Cortisol</a></p>
+<h3>Related To</h3>
+<p>RELATED_TO::<a class="internal-link is-unresolved" href="/404">Prefrontal_Cortex</a><br />
+RELATED_TO::<a class="internal-link is-unresolved" href="/404">Hypothalamus</a><br />
+RELATED_TO::<a class="internal-link is-unresolved" href="/404">Hippocampus</a><br />
+RELATED_TO::<a class="internal-link is-unresolved" href="/404">Amygdala</a><br />
+RELATED_TO::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/depression/" class="internal-link">Depression</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/sleep-disorder/" class="internal-link">Sleep Disorder</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Cognitive Dysfunction</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Sleep Disorder</a></p>
+<h3>Associated With</h3>
+<p>ASSOCIATED_WITH::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+ASSOCIATED_WITH::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a></p>
+<h3>Involves</h3>
+<p>INVOLVES::<a class="internal-link is-unresolved" href="/404">SERT</a><br />
+INVOLVES::<a class="internal-link is-unresolved" href="/404">5-HT1A Receptor</a></p>
+<h3>Modulated By Supplement</h3>
+<p>MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Omega-3 Fatty Acids</a><br />
+MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Vitamin B6</a><br />
+MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">L-Tryptophan</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a></p>
 
 {% endraw %}

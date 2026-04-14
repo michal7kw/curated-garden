@@ -1,5 +1,5 @@
 ---
-created: '2026-03-29T06:30:14.667744Z'
+created: '2026-04-14T12:09:05.389931Z'
 description: These tests screen for the most common sexually transmitted infections
   (STIs) in the United States. STIs often go undiagnosed and untreated, potentially
   leading to serious complications such as pelvic inflammatory disease, genital tract
@@ -11,15 +11,14 @@ description: These tests screen for the most common sexually transmitted infecti
   Virus 1 HIV 1 & 2 Antigen-Antibody
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtestpanel/sexual-health-panel/
+permalink: /entities/labtestpanel/sexual-health-panel/
 slug: sexual-health-panel
 tags:
 - labtestpanel
 templateEngineOverride: njk
 title: sexual_health_panel
 type: labtestpanel
-updated: '2026-03-29T06:30:14.667744Z'
+updated: '2026-04-14T12:09:05.389931Z'
 ---
 
 {% raw %}
@@ -27,6 +26,7 @@ updated: '2026-03-29T06:30:14.667744Z'
 <h2>Overview</h2>
 <p>These tests screen for the most common sexually transmitted infections (STIs) in the United States. STIs often go undiagnosed and untreated, potentially leading to serious complications such as pelvic inflammatory disease, genital tract infections, infertility, and, in severe cases, conditions like AIDS, mother-to-child transmission during birth, or certain cancers. Included biomarkers (13) Herpes Simplex Virus 2 IgG Inhibition, Immunoassay Treponema Pallidum AB Syphilis – Rapid Plasma Reagin (RPR) Titer HIV 1 RNA, QL Real Time PCR Trichomoniasis - Male Herpes Simplex Virus 2 Syphilis – Rapid Plasma Reagin (RPR) Trichomoniasis - Female Herpes Simplex Virus 1 HIV 1 &amp; 2 Antigen-Antibody</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Testosterone</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Estrogen</a></p>
 
 {% endraw %}

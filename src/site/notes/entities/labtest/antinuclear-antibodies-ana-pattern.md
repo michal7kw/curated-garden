@@ -1,5 +1,5 @@
 ---
-created: '2026-03-29T06:30:14.217729Z'
+created: '2026-04-14T12:09:04.898838Z'
 description: an-tee-noo-klee-ur an-tih-bod-eez pat-urn The antinuclear antibodies
   (ANA) pattern analyzes the specific patterns of antibody staining on cells, providing
   detailed information that can help differentiate between various autoimmune diseases.
@@ -9,15 +9,14 @@ description: an-tee-noo-klee-ur an-tih-bod-eez pat-urn The antinuclear antibodie
   is positive.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/antinuclear-antibodies-ana-pattern/
+permalink: /entities/labtest/antinuclear-antibodies-ana-pattern/
 slug: antinuclear-antibodies-ana-pattern
 tags:
 - labtest
 templateEngineOverride: njk
 title: antinuclear_antibodies_ana_pattern
 type: labtest
-updated: '2026-03-29T06:30:14.217729Z'
+updated: '2026-04-14T12:09:04.898838Z'
 ---
 
 {% raw %}
@@ -65,11 +64,15 @@ updated: '2026-03-29T06:30:14.217729Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac gluten intolerance</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-autoimmunity/" class="internal-link">extended autoimmunity</a></p>
+<p>INCLUDED_IN::<a href="/entities/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac gluten intolerance</a><br />
+INCLUDED_IN::<a href="/entities/labtestpanel/extended-autoimmunity/" class="internal-link">extended autoimmunity</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-autoimmunity/" class="internal-link">extended autoimmunity</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac gluten intolerance</a></p>
+<p>RELATED::<a href="/entities/labtestpanel/extended-autoimmunity/" class="internal-link">extended autoimmunity</a><br />
+RELATED::<a href="/entities/labtestpanel/celiac-gluten-intolerance/" class="internal-link">celiac gluten intolerance</a></p>
+<h3>Enriched</h3>
+<p>INDICATES::<a class="internal-link is-unresolved" href="/404">Autoimmune Disease</a><br />
+INDICATES::<a href="/entities/condition/systemic-lupus-erythematosus/" class="internal-link">Systemic Lupus Erythematosus</a><br />
+ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Immune System</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

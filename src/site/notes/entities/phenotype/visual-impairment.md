@@ -1,10 +1,9 @@
 ---
-created: '2026-03-29T06:30:14.924478Z'
+created: '2026-04-14T12:09:05.484637Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/phenotype/visual-impairment/
+permalink: /entities/phenotype/visual-impairment/
 slug: visual-impairment
 tags:
 - phenotype
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Visual impairment
 type: phenotype
-updated: '2026-03-29T06:30:14.924478Z'
+updated: '2026-04-14T12:09:05.484637Z'
 ---
 
 {% raw %}
@@ -60,5 +59,8 @@ EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">spondyloe
 EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">familial benign flecked retina</a><br />
 EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">autosomal recessive nonsyndromic deafness</a><br />
 EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">deafness autosomal recessive</a></p>
+<h3>Enriched</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Macular Degeneration</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Eyes</a></p>
 
 {% endraw %}

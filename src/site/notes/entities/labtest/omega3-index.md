@@ -1,18 +1,17 @@
 ---
-created: '2026-03-29T06:30:14.448827Z'
+created: '2026-04-14T12:09:05.167956Z'
 description: EPA+DHA as percentage of red blood cell membranes. Target >8% for cardiovascular
   protection.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/omega3-index/
+permalink: /entities/labtest/omega3-index/
 slug: omega3-index
 tags:
 - labtest
 templateEngineOverride: njk
 title: omega3_index
 type: labtest
-updated: '2026-03-29T06:30:14.448827Z'
+updated: '2026-04-14T12:09:05.167956Z'
 ---
 
 {% raw %}
@@ -54,9 +53,9 @@ updated: '2026-03-29T06:30:14.448827Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/omega3-index/" class="internal-link">omega3 index</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/epa/" class="internal-link">epa</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/dha/" class="internal-link">dha</a></li>
+<li><a href="/entities/labtest/omega3-index/" class="internal-link">omega3 index</a></li>
+<li><a href="/entities/biomarker/epa/" class="internal-link">epa</a></li>
+<li><a href="/entities/biomarker/dha/" class="internal-link">dha</a></li>
 <li><a class="internal-link is-unresolved" href="/404">aa epa ratio</a></li>
 </ul>
 <h2>Recommended For</h2>
@@ -68,9 +67,13 @@ updated: '2026-03-29T06:30:14.448827Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/dha/" class="internal-link">dha</a><br />
+<p>RELATED::<a href="/entities/biomarker/dha/" class="internal-link">dha</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">aa epa ratio</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/epa/" class="internal-link">epa</a></p>
+RELATED::<a href="/entities/biomarker/epa/" class="internal-link">epa</a></p>
+<h3>Enriched</h3>
+<p>ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Omega-3 Fatty Acids</a><br />
+INDICATES::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a><br />
+INDICATES::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

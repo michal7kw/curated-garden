@@ -1,13 +1,12 @@
 ---
-created: '2026-03-29T06:30:14.087115Z'
+created: '2026-04-14T12:09:04.802456Z'
 description: Optimize exercise performance, recovery, and adaptation. Creatine is
   the most studied ergogenic supplement, beta-alanine buffers muscle acidosis, citrulline
   enhances blood flow, electrolytes prevent exercise-induced depletion, and magnesium
   supports muscle function.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/healthstack/athletic-performance/
+permalink: /entities/healthstack/athletic-performance/
 slug: athletic-performance
 tags:
 - healthstack
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Athletic Performance
 type: healthstack
-updated: '2026-03-29T06:30:14.087115Z'
+updated: '2026-04-14T12:09:04.802456Z'
 ---
 
 {% raw %}
@@ -44,7 +43,7 @@ updated: '2026-03-29T06:30:14.087115Z'
 <td>Increases phosphocreatine stores for high-intensity efforts</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/supplement/beta-alanine/" class="internal-link">Beta-Alanine</a></td>
+<td><a class="internal-link is-unresolved" href="/404">Beta-Alanine</a></td>
 <td>3.2g</td>
 <td>once daily</td>
 <td>morning</td>
@@ -86,7 +85,7 @@ updated: '2026-03-29T06:30:14.087115Z'
 </thead>
 <tbody>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/labtest/ferritin/" class="internal-link">Ferritin</a></td>
+<td><a href="/entities/labtest/ferritin/" class="internal-link">Ferritin</a></td>
 <td>30-300</td>
 <td>50-150</td>
 <td>ng/mL</td>
@@ -107,7 +106,7 @@ updated: '2026-03-29T06:30:14.087115Z'
 <td>Anabolic hormone — low levels impair recovery and adaptation</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a></td>
+<td><a href="/entities/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a></td>
 <td>30-100</td>
 <td>50-80</td>
 <td>ng/mL</td>
@@ -120,6 +119,19 @@ updated: '2026-03-29T06:30:14.087115Z'
 <li>Athletic performance</li>
 <li>Energy</li>
 </ul>
+<h3>Contains Supplement</h3>
+<p>CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Creatine Monohydrate</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Beta-Alanine</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Citrulline Malate</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Electrolyte Complex</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Magnesium Glycinate</a></p>
+<h2>Relationships</h2>
+<h3>Enriched</h3>
+<p>INCLUDES_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Creatine</a><br />
+INCLUDES_SUPPLEMENT::<a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a><br />
+INCLUDES_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Coenzyme Q10</a><br />
+AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Creatine Kinase</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Muscles</a></p>
 <hr />
 <p><strong>Difficulty:</strong> Advanced | <strong>Evidence Level:</strong> ⭐⭐⭐⭐⭐ (5/5)</p>
 

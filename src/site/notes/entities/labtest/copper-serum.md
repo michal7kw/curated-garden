@@ -1,20 +1,19 @@
 ---
-created: '2026-03-29T06:30:14.267786Z'
+created: '2026-04-14T12:09:04.970529Z'
 description: Serum copper test measures the total copper concentration in blood. Copper
   is an essential trace mineral required as a cofactor for over 30 enzymes. The test
   helps diagnose copper deficiency, Wilson's disease, and monitor copper supplementation.
   Should be interpreted alongside ceruloplasmin and zinc levels.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/copper-serum/
+permalink: /entities/labtest/copper-serum/
 slug: copper-serum
 tags:
 - labtest
 templateEngineOverride: njk
 title: copper_serum
 type: labtest
-updated: '2026-03-29T06:30:14.267786Z'
+updated: '2026-04-14T12:09:04.970529Z'
 ---
 
 {% raw %}
@@ -56,7 +55,7 @@ updated: '2026-03-29T06:30:14.267786Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/copper/" class="internal-link">copper</a></li>
+<li><a class="internal-link is-unresolved" href="/404">copper</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -67,11 +66,11 @@ updated: '2026-03-29T06:30:14.267786Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related Tests</h3>
-<p>RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/ferritin/" class="internal-link">ferritin</a><br />
-RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/supplement/iron/" class="internal-link">iron</a><br />
-RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/zinc-serum/" class="internal-link">zinc serum</a></p>
+<p>RELATED_TESTS::<a href="/entities/labtest/ferritin/" class="internal-link">ferritin</a><br />
+RELATED_TESTS::<a href="/entities/labtest/iron/" class="internal-link">iron</a><br />
+RELATED_TESTS::<a href="/entities/labtest/zinc-serum/" class="internal-link">zinc serum</a></p>
 <h3>Measures</h3>
-<p>MEASURES::<a href="/garden/michal.k7w@gmail.com/biomarker/copper/" class="internal-link">Copper</a></p>
+<p>MEASURES::<a class="internal-link is-unresolved" href="/404">Copper</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

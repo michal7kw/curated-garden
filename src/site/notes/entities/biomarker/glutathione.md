@@ -1,45 +1,32 @@
 ---
-created: '2026-03-29T06:30:13.554413Z'
-description: The body's master antioxidant and primary detoxification molecule. A
-  tripeptide (glutamate-cysteine-glycine) present in every cell, essential for neutralizing
-  free radicals, supporting immune function, and Phase II liver detoxification.
+created: '2026-04-14T12:09:04.611101Z'
+description: Glutathione test measures the body's master antioxidant in blood. Glutathione
+  (GSH) is a tripeptide (glutamate-cysteine-glycine) critical for detoxification,
+  immune function, and protection against oxidative damage. Both total glutathione
+  and the GSH/GSSG ratio are clinically informative.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/glutathione/
+permalink: /entities/biomarker/glutathione/
 slug: glutathione
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Glutathione
 type: biomarker
-updated: '2026-03-29T06:30:13.554413Z'
+updated: '2026-04-14T12:09:04.611101Z'
 ---
 
 {% raw %}
 <h1>Glutathione</h1>
 <h2>Overview</h2>
-<p>The body's master antioxidant and primary detoxification molecule. A tripeptide (glutamate-cysteine-glycine) present in every cell, essential for neutralizing free radicals, supporting immune function, and Phase II liver detoxification.</p>
+<p>Glutathione test measures the body's master antioxidant in blood. Glutathione (GSH) is a tripeptide (glutamate-cysteine-glycine) critical for detoxification, immune function, and protection against oxidative damage. Both total glutathione and the GSH/GSSG ratio are clinically informative.</p>
 <h2>Relationships</h2>
-<h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/selenium/" class="internal-link">Selenium</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/nac/" class="internal-link">NAC</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/pathway/pentose-phosphate-pathway/" class="internal-link">Pentose Phosphate Pathway</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/protein/nrf2/" class="internal-link">NRF2</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/gene/cyp3a4/" class="internal-link">CYP3A4</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-c/" class="internal-link">Vitamin C</a></p>
-<h3>Affected By Supplement</h3>
-<ul>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/nac/" class="internal-link">NAC</a> (supplement)</li>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a> (supplement)</li>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/vitamin-c/" class="internal-link">Vitamin C</a> (supplement)</li>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/selenium/" class="internal-link">Selenium</a> (supplement)</li>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/glycine/" class="internal-link">Glycine</a> (supplement)</li>
-</ul>
-<h3>Measured By Test</h3>
-<ul>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/glutathione/" class="internal-link">glutathione</a> (labtest)</li>
-</ul>
+<h3>Related Tests</h3>
+<p>RELATED_TESTS::<a class="internal-link is-unresolved" href="/404">nutreval_fmv</a><br />
+RELATED_TESTS::<a class="internal-link is-unresolved" href="/404">organic_acids_test</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Liver_Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Autoimmune_Disease</a></p>
+<h2>References</h2>
 
 {% endraw %}

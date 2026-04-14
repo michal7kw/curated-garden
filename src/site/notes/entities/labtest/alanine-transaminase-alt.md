@@ -1,19 +1,18 @@
 ---
-created: '2026-03-29T06:30:14.197016Z'
+created: '2026-04-14T12:09:04.876668Z'
 description: Tested twice a year Alanine aminotransferase (ALT) is an enzyme found
   in the liver that helps process nutrients and toxins. Elevated ALT levels in the
   blood can signal liver cell damage, making it a useful marker of liver health.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/alanine-transaminase-alt/
+permalink: /entities/labtest/alanine-transaminase-alt/
 slug: alanine-transaminase-alt
 tags:
 - labtest
 templateEngineOverride: njk
 title: alanine_transaminase_alt
 type: labtest
-updated: '2026-03-29T06:30:14.197016Z'
+updated: '2026-04-14T12:09:04.876668Z'
 ---
 
 {% raw %}
@@ -61,19 +60,19 @@ updated: '2026-03-29T06:30:14.197016Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related Liver Injury</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced Liver Injury</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/autoimmune-hepatitis/" class="internal-link">Autoimmune Hepatitis</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Alcohol-Related Liver Injury</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Drug-Induced Liver Injury</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Autoimmune Hepatitis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Viral Hepatitis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic Dysfunction-Associated Steatotic Liver Dysfunction Masld</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related Liver Injury</a><br />
-MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced Liver Injury</a><br />
-MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/autoimmune-hepatitis/" class="internal-link">Autoimmune Hepatitis</a></p>
+<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Alcohol-Related Liver Injury</a><br />
+MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Drug-Induced Liver Injury</a><br />
+MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Autoimmune Hepatitis</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related Liver Injury</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/autoimmune-hepatitis/" class="internal-link">Autoimmune Hepatitis</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced Liver Injury</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Alcohol-Related Liver Injury</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Autoimmune Hepatitis</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Drug-Induced Liver Injury</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

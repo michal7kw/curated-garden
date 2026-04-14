@@ -1,10 +1,9 @@
 ---
-created: '2026-03-29T06:30:14.892590Z'
+created: '2026-04-14T12:09:05.462914Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/phenotype/inflammatory-abnormality-of-the-skin/
+permalink: /entities/phenotype/inflammatory-abnormality-of-the-skin/
 slug: inflammatory-abnormality-of-the-skin
 tags:
 - phenotype
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Inflammatory abnormality of the skin
 type: phenotype
-updated: '2026-03-29T06:30:14.892590Z'
+updated: '2026-04-14T12:09:05.462914Z'
 ---
 
 {% raw %}
@@ -59,5 +58,9 @@ RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Superfi
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Increased inflammatory response</a></p>
 <h3>Excludes Phenotype</h3>
 <p>EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">linear atrophoderma of Moulin</a></p>
+<h3>Enriched</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Allergy</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Skin</a></p>
 
 {% endraw %}

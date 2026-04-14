@@ -1,5 +1,5 @@
 ---
-created: '2026-03-29T06:30:14.665213Z'
+created: '2026-04-14T12:09:05.387339Z'
 description: Assess bone health and screen for conditions like osteoporosis, hyperparathyroidism,
   and multiple myeloma. These advanced markers measure ionized calcium levels, proteins
   involved in bone turnover, and signs of abnormal immune activity, which may indicate
@@ -10,15 +10,14 @@ description: Assess bone health and screen for conditions like osteoporosis, hyp
   Intact
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtestpanel/osteoporosis-hyperparathyroidism-and-myeloma/
+permalink: /entities/labtestpanel/osteoporosis-hyperparathyroidism-and-myeloma/
 slug: osteoporosis-hyperparathyroidism-and-myeloma
 tags:
 - labtestpanel
 templateEngineOverride: njk
 title: osteoporosis_hyperparathyroidism_and_myeloma
 type: labtestpanel
-updated: '2026-03-29T06:30:14.665213Z'
+updated: '2026-04-14T12:09:05.387339Z'
 ---
 
 {% raw %}
@@ -26,6 +25,6 @@ updated: '2026-03-29T06:30:14.665213Z'
 <h2>Overview</h2>
 <p>Assess bone health and screen for conditions like osteoporosis, hyperparathyroidism, and multiple myeloma. These advanced markers measure ionized calcium levels, proteins involved in bone turnover, and signs of abnormal immune activity, which may indicate underlying bone or metabolic issues. Osteoporosis affects 12.6% of adults aged 50 and older, including 19.6% of women and 4.4% of men. Included biomarkers (13) Abnormal Protein Band 3 Abnormal Protein Band 2 Abnormal Protein Band 1 Ionized Calcium Beta-2 Globulin Beta-1 Globulin Alpha-1 Globulin Alpha-2 Globulin Parathyroid Hormone, Intact</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Osteoporosis</a></p>
 
 {% endraw %}

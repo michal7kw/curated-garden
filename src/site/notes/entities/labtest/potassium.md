@@ -1,13 +1,12 @@
 ---
-created: '2026-03-29T06:30:14.487300Z'
+created: '2026-04-14T12:09:05.211690Z'
 description: Tested twice a year Potassium is an essential electrolyte that helps
   regulate muscle contractions, nerve signals, and fluid balance. Balanced potassium
   levels are especially important for heart function, kidney health, and overall metabolic
   health.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/potassium/
+permalink: /entities/labtest/potassium/
 slug: potassium
 tags:
 - labtest
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: potassium
 type: labtest
-updated: '2026-03-29T06:30:14.487300Z'
+updated: '2026-04-14T12:09:05.211690Z'
 ---
 
 {% raw %}
@@ -64,12 +63,16 @@ updated: '2026-03-29T06:30:14.487300Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive metabolic panel</a><br />
+<p>RELATED::<a href="/entities/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive metabolic panel</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hormonal Imbalance EG Adrenal Or Thyroid</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Medication Effect</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Dysfunction</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic Dysfunction</a></p>
+<h3>Enriched</h3>
+<p>MEASURES::<a href="/entities/labtest/potassium/" class="internal-link">Potassium</a><br />
+INDICATES::<a class="internal-link is-unresolved" href="/404">Chronic Kidney Disease</a><br />
+INDICATES::<a class="internal-link is-unresolved" href="/404">Heart Failure</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

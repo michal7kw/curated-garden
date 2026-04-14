@@ -1,20 +1,19 @@
 ---
-created: '2026-03-29T06:30:14.652124Z'
+created: '2026-04-14T12:09:05.371507Z'
 description: Evaluates intestinal inflammation, permeability, and microbiome health.
   Fecal calprotectin distinguishes IBD from IBS, while GI-MAP provides comprehensive
   stool analysis including pathogen detection and microbiome composition. Recommended
   as a starting point for unexplained GI symptoms.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtestpanel/gut-health-comprehensive-panel/
+permalink: /entities/labtestpanel/gut-health-comprehensive-panel/
 slug: gut-health-comprehensive-panel
 tags:
 - labtestpanel
 templateEngineOverride: njk
 title: gut_health_comprehensive_panel
 type: labtestpanel
-updated: '2026-03-29T06:30:14.652124Z'
+updated: '2026-04-14T12:09:05.371507Z'
 ---
 
 {% raw %}
@@ -23,9 +22,9 @@ updated: '2026-03-29T06:30:14.652124Z'
 <p>Evaluates intestinal inflammation, permeability, and microbiome health. Fecal calprotectin distinguishes IBD from IBS, while GI-MAP provides comprehensive stool analysis including pathogen detection and microbiome composition. Recommended as a starting point for unexplained GI symptoms.</p>
 <h2>Relationships</h2>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtest/gi-map/" class="internal-link">gi map</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/biomarker/calprotectin/" class="internal-link">Calprotectin</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtest/zonulin/" class="internal-link">Zonulin</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtest/fecal-calprotectin/" class="internal-link">fecal calprotectin</a></p>
+<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">gi map</a><br />
+INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">Calprotectin</a><br />
+INCLUDED_IN::<a href="/entities/labtest/zonulin/" class="internal-link">Zonulin</a><br />
+INCLUDED_IN::<a href="/entities/labtest/fecal-calprotectin/" class="internal-link">fecal calprotectin</a></p>
 
 {% endraw %}

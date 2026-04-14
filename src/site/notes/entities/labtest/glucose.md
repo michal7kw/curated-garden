@@ -1,5 +1,5 @@
 ---
-created: '2026-03-29T06:30:14.315450Z'
+created: '2026-04-14T12:09:05.025738Z'
 description: Tested twice a year Glucose is the body’s main source of energy, fueling
   cells throughout the day. Testing glucose levels can reveal early signs of imbalances
   like prediabetes or diabetes, allowing action to be taken sooner. High levels may
@@ -8,8 +8,7 @@ description: Tested twice a year Glucose is the body’s main source of energy, 
   an important marker for overall metabolic health.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/glucose/
+permalink: /entities/labtest/glucose/
 slug: glucose
 tags:
 - labtest
@@ -18,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: glucose
 type: labtest
-updated: '2026-03-29T06:30:14.315450Z'
+updated: '2026-04-14T12:09:05.025738Z'
 ---
 
 {% raw %}
@@ -68,12 +67,12 @@ updated: '2026-03-29T06:30:14.315450Z'
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Prediabetes</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Type 1  Type 2 Diabetes</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hyperglycemia  Hypoglycemia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Pancreatic Dysfunction</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive metabolic panel</a></p>
+RELATED::<a href="/entities/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive metabolic panel</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></p>
+<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

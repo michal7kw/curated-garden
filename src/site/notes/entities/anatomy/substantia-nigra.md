@@ -1,12 +1,11 @@
 ---
-created: '2026-03-29T06:30:13.481758Z'
+created: '2026-04-14T12:09:04.540053Z'
 description: Midbrain structure containing the brain's densest dopamine-producing
   neurons. The pars compacta provides dopaminergic input to the striatum; its degeneration
   causes Parkinson's disease.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/Anatomy/substantia-nigra/
+permalink: /entities/Anatomy/substantia-nigra/
 slug: substantia-nigra
 tags:
 - Anatomy
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Substantia Nigra
 type: Anatomy
-updated: '2026-03-29T06:30:13.481758Z'
+updated: '2026-04-14T12:09:04.540053Z'
 ---
 
 {% raw %}
@@ -32,5 +31,10 @@ updated: '2026-03-29T06:30:13.481758Z'
 <h2>Relationships</h2>
 <p>SUPPORTS_FUNCTION::<a class="internal-link is-unresolved" href="/404">Motor Control</a><br />
 SUPPORTS_FUNCTION::<a class="internal-link is-unresolved" href="/404">Reward and Motivation</a></p>
+<h3>Enriched</h3>
+<p>CONNECTED_TO::<a href="/entities/anatomy/putamen/" class="internal-link">Putamen</a><br />
+CONNECTED_TO::<a class="internal-link is-unresolved" href="/404">Caudate Nucleus</a><br />
+SUPPORTS_FUNCTION::<a class="internal-link is-unresolved" href="/404">Motor Planning</a><br />
+PROJECTS_TO::<a class="internal-link is-unresolved" href="/404">Caudate Nucleus</a></p>
 
 {% endraw %}

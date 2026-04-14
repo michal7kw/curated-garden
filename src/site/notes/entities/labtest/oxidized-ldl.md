@@ -1,20 +1,19 @@
 ---
-created: '2026-03-29T06:30:14.474855Z'
+created: '2026-04-14T12:09:05.197941Z'
 description: Oxidized LDL (ox-LDL) test measures LDL cholesterol particles that have
   been modified by oxidation. Oxidized LDL is a key driver of atherosclerosis, promoting
   foam cell formation, endothelial dysfunction, and plaque instability. More specific
   for cardiovascular risk than standard LDL cholesterol.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/oxidized-ldl/
+permalink: /entities/labtest/oxidized-ldl/
 slug: oxidized-ldl
 tags:
 - labtest
 templateEngineOverride: njk
 title: oxidized_ldl
 type: labtest
-updated: '2026-03-29T06:30:14.474855Z'
+updated: '2026-04-14T12:09:05.197941Z'
 ---
 
 {% raw %}
@@ -67,7 +66,7 @@ updated: '2026-03-29T06:30:14.474855Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/oxidized-ldl/" class="internal-link">oxidized ldl</a></li>
+<li><a href="/entities/labtest/oxidized-ldl/" class="internal-link">oxidized ldl</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -78,11 +77,11 @@ updated: '2026-03-29T06:30:14.474855Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related Tests</h3>
-<p>RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/ldl-particle-number/" class="internal-link">ldl particle number</a><br />
-RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/ldl-small/" class="internal-link">ldl small</a><br />
-RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/ldl-cholesterol/" class="internal-link">ldl cholesterol</a></p>
+<p>RELATED_TESTS::<a href="/entities/labtest/ldl-particle-number/" class="internal-link">ldl particle number</a><br />
+RELATED_TESTS::<a href="/entities/labtest/ldl-small/" class="internal-link">ldl small</a><br />
+RELATED_TESTS::<a href="/entities/labtest/ldl-cholesterol/" class="internal-link">ldl cholesterol</a></p>
 <h3>Measures</h3>
-<p>MEASURES::<a href="/garden/michal.k7w@gmail.com/labtest/oxidized-ldl/" class="internal-link">Oxidized LDL</a></p>
+<p>MEASURES::<a href="/entities/labtest/oxidized-ldl/" class="internal-link">Oxidized LDL</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-29T06:30:14.968032Z'
+created: '2026-04-14T12:09:05.501703Z'
 description: Cytochrome P450 2C19, a polymorphic drug-metabolizing enzyme critical
   for the metabolism of proton pump inhibitors (omeprazole, pantoprazole) and the
   bioactivation of clopidogrel. Poor metabolizers have increased PPI exposure and
@@ -7,8 +7,7 @@ description: Cytochrome P450 2C19, a polymorphic drug-metabolizing enzyme critic
   outcomes.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/protein/cyp2c19/
+permalink: /entities/protein/cyp2c19/
 slug: cyp2c19
 tags:
 - protein
@@ -19,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: CYP2C19
 type: protein
-updated: '2026-03-29T06:30:14.968032Z'
+updated: '2026-04-14T12:09:05.501703Z'
 ---
 
 {% raw %}
@@ -80,13 +79,24 @@ updated: '2026-03-29T06:30:14.968032Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/gene/cyp3a4/" class="internal-link">CYP3A4</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/drug/omeprazole/" class="internal-link">Omeprazole</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/organ/liver/" class="internal-link">Liver</a></p>
+<p>INTERACTS_WITH::<a href="/entities/gene/cyp3a4/" class="internal-link">CYP3A4</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Omeprazole</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Liver</a></p>
+<h3>Metabolizes</h3>
+<p>METABOLIZES::<a class="internal-link is-unresolved" href="/404">Citalopram</a><br />
+METABOLIZES::<a class="internal-link is-unresolved" href="/404">Escitalopram</a></p>
+<h3>Inhibited By</h3>
+<p>INHIBITED_BY::<a class="internal-link is-unresolved" href="/404">Fluvoxamine</a></p>
 <h2>References</h2>
 <ul>
 <li>Scott SA et al. Clinical Pharmacogenetics Implementation Consortium guidelines for CYP2C19 genotype and clopidogrel therapy. Clin Pharmacol Ther. 2013;94(3):317-323. PMID:23698643</li>
 <li>Desta Z et al. Clinical significance of the cytochrome P450 2C19 genetic polymorphism. Clin Pharmacokinet. 2002;41(12):913-958. PMID:12222994</li>
 </ul>
+<h3>Merged From gene</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Coronary Artery Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
+MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Curcumin</a><br />
+MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Omega-3 Fatty Acids</a></p>
 
 {% endraw %}

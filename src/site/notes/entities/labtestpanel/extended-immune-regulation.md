@@ -1,5 +1,5 @@
 ---
-created: '2026-03-29T06:30:14.637088Z'
+created: '2026-04-14T12:09:05.356736Z'
 description: These tests help evaluate susceptibility to infections, detect potential
   immunodeficiency disorders, and identify autoimmune conditions, providing essential
   insights for maintaining immune system balance and overall health. Immunoglobulins
@@ -8,15 +8,14 @@ description: These tests help evaluate susceptibility to infections, detect pote
   A (IgA) Immunoglobulin M (IgM)
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtestpanel/extended-immune-regulation/
+permalink: /entities/labtestpanel/extended-immune-regulation/
 slug: extended-immune-regulation
 tags:
 - labtestpanel
 templateEngineOverride: njk
 title: extended_immune_regulation
 type: labtestpanel
-updated: '2026-03-29T06:30:14.637088Z'
+updated: '2026-04-14T12:09:05.356736Z'
 ---
 
 {% raw %}
@@ -25,12 +24,12 @@ updated: '2026-03-29T06:30:14.637088Z'
 <p>These tests help evaluate susceptibility to infections, detect potential immunodeficiency disorders, and identify autoimmune conditions, providing essential insights for maintaining immune system balance and overall health. Immunoglobulins are antibodies that play a vital role in the immune system, defending against bacterial, viral, and other infections. Included biomarkers (7) Immunoglobulin G (IgG) Immunoglobulin A (IgA) Immunoglobulin M (IgM)</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/white-blood-cell-count/" class="internal-link">white blood cell count</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/eosinophils/" class="internal-link">eosinophils</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/high-sensitivity-c-reactive-protein-hs-crp/" class="internal-link">high sensitivity c reactive protein hs crp</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/lymphocytes/" class="internal-link">lymphocytes</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/neutrophils/" class="internal-link">neutrophils</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/monocytes/" class="internal-link">monocytes</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/basophils/" class="internal-link">basophils</a></p>
+<p>RELATED::<a href="/entities/labtest/white-blood-cell-count/" class="internal-link">white blood cell count</a><br />
+RELATED::<a href="/entities/labtest/eosinophils/" class="internal-link">eosinophils</a><br />
+RELATED::<a href="/entities/labtest/high-sensitivity-c-reactive-protein-hs-crp/" class="internal-link">high sensitivity c reactive protein hs crp</a><br />
+RELATED::<a href="/entities/labtest/lymphocytes/" class="internal-link">lymphocytes</a><br />
+RELATED::<a href="/entities/labtest/neutrophils/" class="internal-link">neutrophils</a><br />
+RELATED::<a href="/entities/labtest/monocytes/" class="internal-link">monocytes</a><br />
+RELATED::<a href="/entities/labtest/basophils/" class="internal-link">basophils</a></p>
 
 {% endraw %}

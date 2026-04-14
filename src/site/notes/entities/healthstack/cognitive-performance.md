@@ -1,13 +1,12 @@
 ---
-created: '2026-03-29T06:30:14.088192Z'
+created: '2026-04-14T12:09:04.806099Z'
 description: Optimize brain function, memory, and mental clarity. Omega-3 DHA is the
   primary structural fat in neuronal membranes, Lion's Mane stimulates nerve growth
   factor, creatine enhances brain energy metabolism, and B-complex supports methylation
   pathways critical for neurotransmitter synthesis.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/healthstack/cognitive-performance/
+permalink: /entities/healthstack/cognitive-performance/
 slug: cognitive-performance
 tags:
 - healthstack
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Cognitive Performance
 type: healthstack
-updated: '2026-03-29T06:30:14.088192Z'
+updated: '2026-04-14T12:09:04.806099Z'
 ---
 
 {% raw %}
@@ -79,7 +78,7 @@ updated: '2026-03-29T06:30:14.088192Z'
 </thead>
 <tbody>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/labtest/vitamin-b12/" class="internal-link">Vitamin B12</a></td>
+<td><a href="/entities/labtest/vitamin-b12/" class="internal-link">Vitamin B12</a></td>
 <td>200-900</td>
 <td>500-900</td>
 <td>pg/mL</td>
@@ -93,7 +92,7 @@ updated: '2026-03-29T06:30:14.088192Z'
 <td>Predicts brain DHA levels and cognitive outcomes</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/labtest/homocysteine/" class="internal-link">Homocysteine</a></td>
+<td><a href="/entities/labtest/homocysteine/" class="internal-link">Homocysteine</a></td>
 <td>0-15</td>
 <td>0-8</td>
 <td>umol/L</td>
@@ -106,6 +105,18 @@ updated: '2026-03-29T06:30:14.088192Z'
 <li>Cognitive</li>
 <li>Energy</li>
 </ul>
+<h3>Contains Supplement</h3>
+<p>CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Omega-3 (High DHA)</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Lion's Mane Extract</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Creatine Monohydrate</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">B-Complex</a></p>
+<h2>Relationships</h2>
+<h3>Enriched</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Cognitive Dysfunction</a><br />
+INCLUDES_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Omega-3 Fatty Acids</a><br />
+INCLUDES_SUPPLEMENT::<a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a><br />
+INCLUDES_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Citicoline</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a></p>
 <hr />
 <p><strong>Difficulty:</strong> Intermediate | <strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
 

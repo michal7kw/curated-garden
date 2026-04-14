@@ -1,20 +1,19 @@
 ---
-created: '2026-03-29T06:30:14.349074Z'
+created: '2026-04-14T12:09:05.059019Z'
 description: Tested twice a year Hyaline casts are the most common type of urinary
   casts and can appear in small numbers in healthy people. When found in larger amounts,
   hyaline casts may point to underlying kidney strain or indicate an underlying kidney
   problem.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/hyaline-casts-urine/
+permalink: /entities/labtest/hyaline-casts-urine/
 slug: hyaline-casts-urine
 tags:
 - labtest
 templateEngineOverride: njk
 title: hyaline_casts_urine
 type: labtest
-updated: '2026-03-29T06:30:14.349074Z'
+updated: '2026-04-14T12:09:05.059019Z'
 ---
 
 {% raw %}
@@ -62,19 +61,19 @@ updated: '2026-03-29T06:30:14.349074Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/exercise-induced-proteinuria/" class="internal-link">Exercise-Induced Proteinuria</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/heart-failure/" class="internal-link">Heart Failure</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Exercise-Induced Proteinuria</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Heart Failure</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Kidney Disease</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Kidney Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Dysfunction</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/heart-failure/" class="internal-link">Heart Failure</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/exercise-induced-proteinuria/" class="internal-link">Exercise-Induced Proteinuria</a></p>
+RELATED::<a class="internal-link is-unresolved" href="/404">Heart Failure</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Exercise-Induced Proteinuria</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/heart-failure/" class="internal-link">Heart Failure</a><br />
-MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/exercise-induced-proteinuria/" class="internal-link">Exercise-Induced Proteinuria</a><br />
-MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></p>
+<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Heart Failure</a><br />
+MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Exercise-Induced Proteinuria</a><br />
+MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Chronic Kidney Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

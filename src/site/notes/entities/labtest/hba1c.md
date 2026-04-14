@@ -1,18 +1,17 @@
 ---
-created: '2026-03-29T06:30:14.322992Z'
+created: '2026-04-14T12:09:05.032623Z'
 description: 3-month average blood glucose. Gold standard for diabetes diagnosis and
   monitoring.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/hba1c/
+permalink: /entities/labtest/hba1c/
 slug: hba1c
 tags:
 - labtest
 templateEngineOverride: njk
 title: hba1c
 type: labtest
-updated: '2026-03-29T06:30:14.322992Z'
+updated: '2026-04-14T12:09:05.032623Z'
 ---
 
 {% raw %}
@@ -53,7 +52,7 @@ updated: '2026-03-29T06:30:14.322992Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/hba1c/" class="internal-link">hba1c</a></li>
+<li><a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -63,7 +62,11 @@ updated: '2026-03-29T06:30:14.322992Z'
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>MEASURES::<a href="/entities/labtest/hba1c/" class="internal-link">HbA1c</a></p>
+<h3>Enriched</h3>
+<p>MEASURES::<a href="/entities/labtest/hba1c/" class="internal-link">Hba1C</a><br />
+INDICATES::<a class="internal-link is-unresolved" href="/404">Diabetes</a><br />
+INDICATES::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

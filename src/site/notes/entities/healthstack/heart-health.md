@@ -1,13 +1,12 @@
 ---
-created: '2026-03-29T06:30:14.093040Z'
+created: '2026-04-14T12:09:04.816181Z'
 description: A foundational cardiovascular stack targeting key lipid markers and inflammation.
   Omega-3 fatty acids reduce triglycerides and inflammation, CoQ10 supports mitochondrial
   energy in cardiac cells, magnesium helps regulate heart rhythm, and garlic extract
   supports healthy blood pressure.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/healthstack/heart-health/
+permalink: /entities/healthstack/heart-health/
 slug: heart-health
 tags:
 - healthstack
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Heart Health
 type: healthstack
-updated: '2026-03-29T06:30:14.093040Z'
+updated: '2026-04-14T12:09:04.816181Z'
 ---
 
 {% raw %}
@@ -79,21 +78,21 @@ updated: '2026-03-29T06:30:14.093040Z'
 </thead>
 <tbody>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/biomarker/ldl/" class="internal-link">Ldl</a></td>
+<td><a class="internal-link is-unresolved" href="/404">Ldl</a></td>
 <td>0-100</td>
 <td>0-70</td>
 <td>mg/dL</td>
 <td>Primary atherogenic lipoprotein</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/biomarker/hdl/" class="internal-link">Hdl</a></td>
+<td><a class="internal-link is-unresolved" href="/404">Hdl</a></td>
 <td>40-100</td>
 <td>60-100</td>
 <td>mg/dL</td>
 <td>Reverse cholesterol transport</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/labtest/triglycerides/" class="internal-link">Triglycerides</a></td>
+<td><a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a></td>
 <td>0-150</td>
 <td>0-100</td>
 <td>mg/dL</td>
@@ -113,6 +112,20 @@ updated: '2026-03-29T06:30:14.093040Z'
 <li>Cardiovascular</li>
 <li>Longevity</li>
 </ul>
+<h3>Contains Supplement</h3>
+<p>CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Omega-3 Fish Oil</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">CoQ10 (Ubiquinol)</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Magnesium Glycinate</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Aged Garlic Extract</a></p>
+<h2>Relationships</h2>
+<h3>Enriched</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Hypertension</a><br />
+INCLUDES_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Omega-3 Fatty Acids</a><br />
+INCLUDES_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Coenzyme Q10</a><br />
+INCLUDES_SUPPLEMENT::<a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/total-cholesterol/" class="internal-link">Total Cholesterol</a></p>
 <hr />
 <p><strong>Difficulty:</strong> Beginner | <strong>Evidence Level:</strong> ⭐⭐⭐⭐ (4/5)</p>
 

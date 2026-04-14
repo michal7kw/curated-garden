@@ -1,16 +1,15 @@
 ---
-created: '2026-03-29T06:30:13.539581Z'
+created: '2026-04-14T12:09:04.595775Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/esr/
+permalink: /entities/biomarker/esr/
 slug: esr
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Esr
 type: biomarker
-updated: '2026-03-29T06:30:13.539581Z'
+updated: '2026-04-14T12:09:04.595775Z'
 ---
 
 {% raw %}
@@ -18,6 +17,6 @@ updated: '2026-03-29T06:30:13.539581Z'
 <h2>Overview</h2>
 <h2>Relationships</h2>
 <h3>Indicates Organ Health</h3>
-<p>INDICATES_ORGAN_HEALTH::<a href="/garden/michal.k7w@gmail.com/organ/immune-system/" class="internal-link">Immune System</a></p>
+<p>INDICATES_ORGAN_HEALTH::<a class="internal-link is-unresolved" href="/404">Immune System</a></p>
 
 {% endraw %}

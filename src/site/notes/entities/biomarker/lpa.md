@@ -1,19 +1,18 @@
 ---
-created: '2026-03-29T06:30:13.579227Z'
+created: '2026-04-14T12:09:04.654025Z'
 description: A genetically determined, highly atherogenic lipoprotein consisting of
   an LDL-like particle bound to apolipoprotein(a). Independent risk factor for cardiovascular
   disease.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/lpa/
+permalink: /entities/biomarker/lpa/
 slug: lpa
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Lp(a)
 type: biomarker
-updated: '2026-03-29T06:30:13.579227Z'
+updated: '2026-04-14T12:09:04.654025Z'
 ---
 
 {% raw %}
@@ -21,16 +20,17 @@ updated: '2026-03-29T06:30:13.579227Z'
 <h2>Overview</h2>
 <p>A genetically determined, highly atherogenic lipoprotein consisting of an LDL-like particle bound to apolipoprotein(a). Independent risk factor for cardiovascular disease.</p>
 <h2>Relationships</h2>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a></p>
 <h3>Affected By Supplement</h3>
 <ul>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/niacin/" class="internal-link">Niacin</a> (supplement)</li>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a> (supplement)</li>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/l-carnitine/" class="internal-link">L-Carnitine</a> (supplement)</li>
+<li>-&gt; <a href="/entities/supplement/niacin/" class="internal-link">Niacin</a> (supplement)</li>
+<li>-&gt; <a href="/entities/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a> (supplement)</li>
+<li>-&gt; <a href="/entities/supplement/l-carnitine/" class="internal-link">L-Carnitine</a> (supplement)</li>
 </ul>
 <h3>Measured By Test</h3>
 <ul>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/lipoprotein-a/" class="internal-link">lipoprotein a</a> (labtest)</li>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/advanced-lipid-panel/" class="internal-link">advanced lipid panel</a> (labtest)</li>
+<li>-&gt; <a href="/entities/labtest/lipoprotein-a/" class="internal-link">lipoprotein a</a> (labtest)</li>
+<li>-&gt; <a href="/entities/labtest/advanced-lipid-panel/" class="internal-link">advanced lipid panel</a> (labtest)</li>
 </ul>
 
 {% endraw %}

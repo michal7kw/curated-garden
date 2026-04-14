@@ -1,19 +1,18 @@
 ---
-created: '2026-03-29T06:30:14.501839Z'
+created: '2026-04-14T12:09:05.228069Z'
 description: Prothrombin Time (PT) with International Normalized Ratio (INR) test.
   Evaluates the extrinsic and common coagulation pathways (Factors I, II, V, VII,
   X). Essential for monitoring warfarin therapy and assessing liver synthetic function.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/prothrombin-time-pt-inr/
+permalink: /entities/labtest/prothrombin-time-pt-inr/
 slug: prothrombin-time-pt-inr
 tags:
 - labtest
 templateEngineOverride: njk
 title: prothrombin_time_pt_inr
 type: labtest
-updated: '2026-03-29T06:30:14.501839Z'
+updated: '2026-04-14T12:09:05.228069Z'
 ---
 
 {% raw %}
@@ -67,9 +66,9 @@ updated: '2026-03-29T06:30:14.501839Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/coagulation-panel/" class="internal-link">coagulation panel</a></p>
+<p>INCLUDED_IN::<a href="/entities/labtestpanel/coagulation-panel/" class="internal-link">coagulation panel</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/liver-disease/" class="internal-link">Liver Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Liver Disease</a></p>
 <h3>Measures</h3>
 <p>MEASURES::<a class="internal-link is-unresolved" href="/404">Prothrombin Time</a></p>
 <h2>Notes</h2>

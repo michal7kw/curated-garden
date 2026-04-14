@@ -1,10 +1,9 @@
 ---
-created: '2026-03-29T06:30:15.023020Z'
+created: '2026-04-14T12:09:05.518630Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/protein/rna-polymerase-ii-cis-regulatory-region-sequence-specific-dna-binding/
+permalink: /entities/protein/rna-polymerase-ii-cis-regulatory-region-sequence-specific-dna-binding/
 slug: rna-polymerase-ii-cis-regulatory-region-sequence-specific-dna-binding
 tags:
 - protein
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: RNA polymerase II cis-regulatory region sequence-specific DNA binding
 type: protein
-updated: '2026-03-29T06:30:15.023020Z'
+updated: '2026-04-14T12:09:05.518630Z'
 ---
 
 {% raw %}
@@ -49,5 +48,8 @@ RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">carbohyd
 RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">retinoic acid-responsive element binding</a><br />
 RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">N-box binding</a><br />
 RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">sterol response element binding</a></p>
+<h3>Enriched</h3>
+<p>LOCATED_IN::<a class="internal-link is-unresolved" href="/404">Nucleus</a><br />
+ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">CREB</a></p>
 
 {% endraw %}

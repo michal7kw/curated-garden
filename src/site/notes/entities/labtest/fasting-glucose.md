@@ -1,18 +1,17 @@
 ---
-created: '2026-03-29T06:30:14.297840Z'
+created: '2026-04-14T12:09:05.005060Z'
 description: Blood sugar after fasting. Used for diabetes screening and metabolic
   health assessment.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/fasting-glucose/
+permalink: /entities/labtest/fasting-glucose/
 slug: fasting-glucose
 tags:
 - labtest
 templateEngineOverride: njk
 title: fasting_glucose
 type: labtest
-updated: '2026-03-29T06:30:14.297840Z'
+updated: '2026-04-14T12:09:05.005060Z'
 ---
 
 {% raw %}
@@ -61,7 +60,7 @@ updated: '2026-03-29T06:30:14.297840Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/glucose-fasting/" class="internal-link">glucose fasting</a></li>
+<li><a class="internal-link is-unresolved" href="/404">glucose fasting</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -72,8 +71,8 @@ updated: '2026-03-29T06:30:14.297840Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/glucose-fasting/" class="internal-link">glucose fasting</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/glucose-fasting/" class="internal-link">Glucose Fasting</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">glucose fasting</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Glucose Fasting</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

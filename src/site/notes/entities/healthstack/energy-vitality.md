@@ -1,12 +1,11 @@
 ---
-created: '2026-03-29T06:30:14.090236Z'
+created: '2026-04-14T12:09:04.808851Z'
 description: Combat fatigue and support sustained energy levels. B-complex vitamins
   are essential cofactors in energy metabolism, CoQ10 powers mitochondrial ATP production,
   iron supports oxygen transport, and vitamin D3 regulates hundreds of metabolic processes.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/healthstack/energy-vitality/
+permalink: /entities/healthstack/energy-vitality/
 slug: energy-vitality
 tags:
 - healthstack
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Energy & Vitality
 type: healthstack
-updated: '2026-03-29T06:30:14.090236Z'
+updated: '2026-04-14T12:09:04.808851Z'
 ---
 
 {% raw %}
@@ -78,21 +77,21 @@ updated: '2026-03-29T06:30:14.090236Z'
 </thead>
 <tbody>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/labtest/ferritin/" class="internal-link">Ferritin</a></td>
+<td><a href="/entities/labtest/ferritin/" class="internal-link">Ferritin</a></td>
 <td>30-300</td>
 <td>50-150</td>
 <td>ng/mL</td>
 <td>Iron stores — low levels cause fatigue before anemia develops</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/labtest/vitamin-b12/" class="internal-link">Vitamin B12</a></td>
+<td><a href="/entities/labtest/vitamin-b12/" class="internal-link">Vitamin B12</a></td>
 <td>200-900</td>
 <td>500-900</td>
 <td>pg/mL</td>
 <td>Essential for red blood cell formation and neurological function</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a></td>
+<td><a href="/entities/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a></td>
 <td>30-100</td>
 <td>50-80</td>
 <td>ng/mL</td>
@@ -105,6 +104,18 @@ updated: '2026-03-29T06:30:14.090236Z'
 <li>Energy</li>
 <li>General wellness</li>
 </ul>
+<h3>Contains Supplement</h3>
+<p>CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">B-Complex</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">CoQ10 (Ubiquinol)</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Iron Bisglycinate</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Vitamin D3</a></p>
+<h2>Relationships</h2>
+<h3>Enriched</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a><br />
+INCLUDES_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Coenzyme Q10</a><br />
+INCLUDES_SUPPLEMENT::<a href="/entities/labtest/iron/" class="internal-link">Iron</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/ferritin/" class="internal-link">Ferritin</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/hemoglobin/" class="internal-link">Hemoglobin</a></p>
 <hr />
 <p><strong>Difficulty:</strong> Beginner | <strong>Evidence Level:</strong> ⭐⭐⭐⭐ (4/5)</p>
 

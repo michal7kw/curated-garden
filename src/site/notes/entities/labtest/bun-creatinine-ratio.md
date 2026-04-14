@@ -1,20 +1,19 @@
 ---
-created: '2026-03-29T06:30:14.247323Z'
+created: '2026-04-14T12:09:04.940003Z'
 description: Tested twice a year The BUN/creatinine ratio compares two waste products
   in the blood—urea and creatinine—to provide a view of kidney health. An abnormal
   ratio can help distinguish between kidney problems and other conditions affecting
   metabolism or hydration.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/bun-creatinine-ratio/
+permalink: /entities/labtest/bun-creatinine-ratio/
 slug: bun-creatinine-ratio
 tags:
 - labtest
 templateEngineOverride: njk
 title: bun_creatinine_ratio
 type: labtest
-updated: '2026-03-29T06:30:14.247323Z'
+updated: '2026-04-14T12:09:04.940003Z'
 ---
 
 {% raw %}
@@ -64,15 +63,15 @@ updated: '2026-03-29T06:30:14.247323Z'
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Malnutrition</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Dysfunction</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/high-protein-intake/" class="internal-link">High Protein Intake</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal Bleeding</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">High Protein Intake</a><br />
+RELATED::<a href="/entities/sideeffect/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal Bleeding</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal Bleeding</a><br />
-MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/high-protein-intake/" class="internal-link">High Protein Intake</a></p>
+<p>MAY_DETECT::<a href="/entities/sideeffect/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal Bleeding</a><br />
+MAY_DETECT::<a class="internal-link is-unresolved" href="/404">High Protein Intake</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal Bleeding</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/high-protein-intake/" class="internal-link">High Protein Intake</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/sideeffect/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal Bleeding</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">High Protein Intake</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

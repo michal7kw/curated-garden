@@ -1,20 +1,19 @@
 ---
-created: '2026-03-29T06:30:14.226988Z'
+created: '2026-04-14T12:09:04.912472Z'
 description: Tested twice a year The appearance of urine—its color, clarity, and presence
   of foam—can provide simple but valuable clues about hydration, diet, and overall
   metabolic balance. Possible symptoms CLOUDY URINE FOAMY URINE DARK URINE PINK OR
   RED URINE FREQUENT URINATION
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/appearance-urine/
+permalink: /entities/labtest/appearance-urine/
 slug: appearance-urine
 tags:
 - labtest
 templateEngineOverride: njk
 title: appearance_urine
 type: labtest
-updated: '2026-03-29T06:30:14.226988Z'
+updated: '2026-04-14T12:09:04.912472Z'
 ---
 
 {% raw %}
@@ -65,12 +64,12 @@ updated: '2026-03-29T06:30:14.226988Z'
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Stone Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Liver Dysfunction</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Disease</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/bladder-disease/" class="internal-link">Bladder Disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Bladder Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Urinary Tract Infection Uti</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/bladder-disease/" class="internal-link">Bladder Disease</a></p>
+<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Bladder Disease</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/bladder-disease/" class="internal-link">Bladder Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Bladder Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

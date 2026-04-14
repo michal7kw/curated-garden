@@ -1,13 +1,12 @@
 ---
-created: '2026-03-29T06:30:14.214652Z'
+created: '2026-04-14T12:09:04.892860Z'
 description: Amylase is a digestive enzyme made by the salivary glands and pancreas
   that helps break down complex carbohydrates from food into usable energy. Abnormal
   levels can be an early sign of problems in the salivary glands, strain on the digestive
   system due to celiac disease or IBD, and pancreatic stress.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/amylase/
+permalink: /entities/labtest/amylase/
 slug: amylase
 tags:
 - labtest
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: amylase
 type: labtest
-updated: '2026-03-29T06:30:14.214652Z'
+updated: '2026-04-14T12:09:04.892860Z'
 ---
 
 {% raw %}
@@ -68,11 +67,11 @@ updated: '2026-03-29T06:30:14.214652Z'
 RELATED::<a class="internal-link is-unresolved" href="/404">Stomach Flu Gastroenteritis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Bowel Blockage Or Perforation</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Pancreatitis Acute Or Chronic</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/gallbladder-disease/" class="internal-link">Gallbladder Disease</a></p>
+RELATED::<a class="internal-link is-unresolved" href="/404">Gallbladder Disease</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/gallbladder-disease/" class="internal-link">Gallbladder Disease</a></p>
+<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Gallbladder Disease</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/gallbladder-disease/" class="internal-link">Gallbladder Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Gallbladder Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

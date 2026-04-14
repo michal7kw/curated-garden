@@ -1,5 +1,5 @@
 ---
-created: '2026-03-29T06:30:14.506442Z'
+created: '2026-04-14T12:09:05.234316Z'
 description: Tested twice a year Finding red blood cells (RBCs) in urine, a condition
   called hematuria, is not normal and can be a sign that the kidneys, bladder, or
   urinary tract are irritated or damaged. While sometimes it may result from temporary
@@ -7,15 +7,14 @@ description: Tested twice a year Finding red blood cells (RBCs) in urine, a cond
   underlying health concerns.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/red-blood-cell-urine/
+permalink: /entities/labtest/red-blood-cell-urine/
 slug: red-blood-cell-urine
 tags:
 - labtest
 templateEngineOverride: njk
 title: red_blood_cell_urine
 type: labtest
-updated: '2026-03-29T06:30:14.506442Z'
+updated: '2026-04-14T12:09:05.234316Z'
 ---
 
 {% raw %}
@@ -63,15 +62,15 @@ updated: '2026-03-29T06:30:14.506442Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/kidney-stones/" class="internal-link">Kidney Stones</a></p>
+<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Kidney Stones</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/kidney-stones/" class="internal-link">Kidney Stones</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Stones</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Strenuous Exercise</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Inflammation Glomerulonephritis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Urinary Tract Infection Uti</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Bladder Inflammation Cystitis</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/kidney-stones/" class="internal-link">Kidney Stones</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Kidney Stones</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

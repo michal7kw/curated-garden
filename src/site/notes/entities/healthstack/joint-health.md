@@ -1,13 +1,12 @@
 ---
-created: '2026-03-29T06:30:14.097723Z'
+created: '2026-04-14T12:09:04.825423Z'
 description: Protect and rebuild joint cartilage, reduce joint inflammation, and maintain
   mobility with targeted collagen, anti-inflammatory, and cartilage-supporting supplements.
   Essential for active individuals, aging populations, and anyone with joint wear
   or osteoarthritis risk.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/healthstack/joint-health/
+permalink: /entities/healthstack/joint-health/
 slug: joint-health
 tags:
 - healthstack
@@ -18,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Joint Health
 type: healthstack
-updated: '2026-03-29T06:30:14.097723Z'
+updated: '2026-04-14T12:09:04.825423Z'
 ---
 
 {% raw %}
@@ -67,7 +66,7 @@ updated: '2026-03-29T06:30:14.097723Z'
 <td>Potent NF-κB and COX-2 inhibitor — reduces joint swelling and pain without GI side effects</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/supplement/vitamin-c/" class="internal-link">Vitamin C</a></td>
+<td><a class="internal-link is-unresolved" href="/404">Vitamin C</a></td>
 <td>500mg</td>
 <td>once daily</td>
 <td>with meals</td>
@@ -109,6 +108,19 @@ updated: '2026-03-29T06:30:14.097723Z'
 <li>Mobility</li>
 <li>Anti-Inflammatory</li>
 </ul>
+<h3>Contains Supplement</h3>
+<p>CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Collagen Peptides (Type II)</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Glucosamine Sulfate</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Omega-3 Fish Oil</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Curcumin (with Piperine)</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Vitamin C</a></p>
+<h2>Relationships</h2>
+<h3>Enriched</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Knee Osteoarthritis</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a><br />
+INCLUDES_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Curcumin</a><br />
+INCLUDES_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Omega-3 Fatty Acids</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>
 <hr />
 <p><strong>Difficulty:</strong> Beginner | <strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
 

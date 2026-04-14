@@ -1,13 +1,12 @@
 ---
-created: '2026-03-29T06:30:14.086109Z'
+created: '2026-04-14T12:09:04.797113Z'
 description: Target chronic low-grade inflammation, a root driver of cardiovascular
   disease, neurodegeneration, and accelerated aging. This stack combines omega-3 for
   resolvin production, curcumin for NF-kB inhibition, vitamin D for immune regulation,
   and quercetin for mast cell stabilization.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/healthstack/anti-inflammation/
+permalink: /entities/healthstack/anti-inflammation/
 slug: anti-inflammation
 tags:
 - healthstack
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Anti-Inflammation
 type: healthstack
-updated: '2026-03-29T06:30:14.086109Z'
+updated: '2026-04-14T12:09:04.797113Z'
 ---
 
 {% raw %}
@@ -59,7 +58,7 @@ updated: '2026-03-29T06:30:14.086109Z'
 <td>Immune modulator — regulates both innate and adaptive immunity</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/supplement/quercetin/" class="internal-link">Quercetin</a></td>
+<td><a class="internal-link is-unresolved" href="/404">Quercetin</a></td>
 <td>500mg</td>
 <td>twice daily</td>
 <td>empty stomach</td>
@@ -87,14 +86,14 @@ updated: '2026-03-29T06:30:14.086109Z'
 <td>Gold standard inflammatory biomarker</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/labtest/esr/" class="internal-link">ESR</a></td>
+<td><a href="/entities/labtest/esr/" class="internal-link">ESR</a></td>
 <td>0-20</td>
 <td>0-10</td>
 <td>mm/hr</td>
 <td>Non-specific inflammation marker, complements CRP</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/labtest/ferritin/" class="internal-link">Ferritin</a></td>
+<td><a href="/entities/labtest/ferritin/" class="internal-link">Ferritin</a></td>
 <td>20-200</td>
 <td>40-100</td>
 <td>ng/mL</td>
@@ -108,6 +107,18 @@ updated: '2026-03-29T06:30:14.086109Z'
 <li>Immune</li>
 <li>Longevity</li>
 </ul>
+<h3>Contains Supplement</h3>
+<p>CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Omega-3 Fish Oil</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Curcumin (with Piperine)</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Vitamin D3</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Quercetin</a></p>
+<h2>Relationships</h2>
+<h3>Enriched</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Autoimmune Disease</a><br />
+INCLUDES_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Curcumin</a><br />
+INCLUDES_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Omega-3 Fatty Acids</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>
 <hr />
 <p><strong>Difficulty:</strong> Intermediate | <strong>Evidence Level:</strong> ⭐⭐⭐⭐ (4/5)</p>
 

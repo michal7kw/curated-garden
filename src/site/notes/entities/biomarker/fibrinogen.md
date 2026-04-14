@@ -1,16 +1,15 @@
 ---
-created: '2026-03-29T06:30:13.542713Z'
+created: '2026-04-14T12:09:04.603740Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/fibrinogen/
+permalink: /entities/biomarker/fibrinogen/
 slug: fibrinogen
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Fibrinogen
 type: biomarker
-updated: '2026-03-29T06:30:13.542713Z'
+updated: '2026-04-14T12:09:04.603740Z'
 ---
 
 {% raw %}
@@ -18,7 +17,7 @@ updated: '2026-03-29T06:30:13.542713Z'
 <h2>Overview</h2>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Vascular Dementia</a></p>
 
 {% endraw %}

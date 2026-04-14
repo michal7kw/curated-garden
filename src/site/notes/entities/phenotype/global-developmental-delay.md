@@ -1,10 +1,9 @@
 ---
-created: '2026-03-29T06:30:14.883932Z'
+created: '2026-04-14T12:09:05.452844Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/phenotype/global-developmental-delay/
+permalink: /entities/phenotype/global-developmental-delay/
 slug: global-developmental-delay
 tags:
 - phenotype
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Global developmental delay
 type: phenotype
-updated: '2026-03-29T06:30:14.883932Z'
+updated: '2026-04-14T12:09:05.452844Z'
 ---
 
 {% raw %}
@@ -71,5 +70,8 @@ EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Cole-Carp
 EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">autosomal recessive ataxia due to PEX10 deficiency</a><br />
 EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">benign familial neonatal-infantile seizures</a><br />
 EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Heimler syndrome</a></p>
+<h3>Enriched</h3>
+<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
+ASSOCIATED_WITH::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a></p>
 
 {% endraw %}

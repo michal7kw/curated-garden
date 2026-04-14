@@ -1,12 +1,11 @@
 ---
-created: '2026-03-29T06:30:14.313263Z'
+created: '2026-04-14T12:09:05.022243Z'
 description: Tested twice a year Globulin is a protein essential for liver function,
   blood clotting, and immune system operations. Abnormal globulin levels may indicate
   changes affecting the liver, immune system, or overall health.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/globulin/
+permalink: /entities/labtest/globulin/
 slug: globulin
 tags:
 - labtest
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: globulin
 type: labtest
-updated: '2026-03-29T06:30:14.313263Z'
+updated: '2026-04-14T12:09:05.022243Z'
 ---
 
 {% raw %}
@@ -68,6 +67,10 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Malnutrition Or Poor
 RELATED::<a class="internal-link is-unresolved" href="/404">Monoclonal Gammopathies EG Multiple Myeloma Mgus</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation EG Autoimmune Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Liver Dysfunction</a></p>
+<h3>Enriched</h3>
+<p>ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Immune System</a><br />
+INDICATES::<a class="internal-link is-unresolved" href="/404">Autoimmune Disease</a><br />
+INDICATES::<a class="internal-link is-unresolved" href="/404">Liver Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

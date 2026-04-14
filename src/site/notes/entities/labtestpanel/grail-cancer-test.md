@@ -1,5 +1,5 @@
 ---
-created: '2026-03-29T06:30:14.650596Z'
+created: '2026-04-14T12:09:05.369261Z'
 description: The GRAIL Cancer Test screens for signals associated with more than 50
   types of cancer using just one blood draw. The test may identify cancer signals
   before clinical symptoms appear, offering an opportunity to find cancer earlier
@@ -14,15 +14,14 @@ description: The GRAIL Cancer Test screens for signals associated with more than
   your healthcare provider.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtestpanel/grail-cancer-test/
+permalink: /entities/labtestpanel/grail-cancer-test/
 slug: grail-cancer-test
 tags:
 - labtestpanel
 templateEngineOverride: njk
 title: grail_cancer_test
 type: labtestpanel
-updated: '2026-03-29T06:30:14.650596Z'
+updated: '2026-04-14T12:09:05.369261Z'
 ---
 
 {% raw %}
@@ -30,6 +29,6 @@ updated: '2026-03-29T06:30:14.650596Z'
 <h2>Overview</h2>
 <p>The GRAIL Cancer Test screens for signals associated with more than 50 types of cancer using just one blood draw. The test may identify cancer signals before clinical symptoms appear, offering an opportunity to find cancer earlier as part of a broader, proactive screening approach. Using state-of-the-art technology, the GRAIL Cancer Test analyzes a blood sample to look for cancer-associated signals. It can screen for cancers that already have recommended screening options—such as breast, lung, colorectal, cervical, and prostate—as well as many others that do not, including pancreatic, liver, ovarian, esophageal, head and neck, melanoma, testicular, and dozens more. Research for the GRAIL Cancer Test was conducted in adults with elevated cancer risk (including those aged 50+). This test does not detect all cancers and should be used alongside routine screening recommended by your healthcare provider.</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Cancer</a></p>
 
 {% endraw %}

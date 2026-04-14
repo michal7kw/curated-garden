@@ -1,40 +1,34 @@
 ---
-created: '2026-03-29T06:30:13.525660Z'
-description: Primary glucocorticoid hormone produced by the adrenal cortex that regulates
-  stress response, metabolism, immune function, and circadian rhythm. Essential for
-  life but chronically elevated levels contribute to numerous health problems.
+created: '2026-04-14T12:09:04.580626Z'
+description: Cortisol is often called “the stress hormone” because it rises during
+  times of pressure or emotional distress, helping the body respond and adapt. Either
+  high or low levels can signal chronic stress, sleep problems, or disorders of the
+  adrenal glands.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/cortisol/
+permalink: /entities/biomarker/cortisol/
 slug: cortisol
 tags:
 - biomarker
+- hormones
 templateEngineOverride: njk
 title: Cortisol
 type: biomarker
-updated: '2026-03-29T06:30:13.525660Z'
+updated: '2026-04-14T12:09:04.580626Z'
 ---
 
 {% raw %}
 <h1>Cortisol</h1>
 <h2>Overview</h2>
-<p>Primary glucocorticoid hormone produced by the adrenal cortex that regulates stress response, metabolism, immune function, and circadian rhythm. Essential for life but chronically elevated levels contribute to numerous health problems.</p>
+<p>Cortisol is often called “the stress hormone” because it rises during times of pressure or emotional distress, helping the body respond and adapt. Either high or low levels can signal chronic stress, sleep problems, or disorders of the adrenal glands.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol-am/" class="internal-link">cortisol am</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-c/" class="internal-link">Vitamin C</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/sleep-optimization/" class="internal-link">Sleep Optimization</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/apigenin/" class="internal-link">Apigenin</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/magnesium/" class="internal-link">Magnesium</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/phenotype/anxiety/" class="internal-link">Anxiety</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/ashwagandha/" class="internal-link">Ashwagandha</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/bacopa-monnieri/" class="internal-link">Bacopa Monnieri</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/dutch-complete/" class="internal-link">dutch complete</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/bdnf/" class="internal-link">BDNF</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/rhodiola-rosea/" class="internal-link">Rhodiola Rosea</a></p>
-<h3>Indicates Organ Health</h3>
-<p>INDICATES_ORGAN_HEALTH::<a href="/garden/michal.k7w@gmail.com/organ/adrenal-glands/" class="internal-link">Adrenal Glands</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">cortisol_am</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Chronic_Stress_Elevated_Cortisol</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Adrenal_Hyperplasia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Adrenal_Insufficiency</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">CushingS_Syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Pituitary_Disorders</a></p>
+<h2>References</h2>
 
 {% endraw %}

@@ -1,20 +1,19 @@
 ---
-created: '2026-03-29T06:30:14.414120Z'
+created: '2026-04-14T12:09:05.131527Z'
 description: meen kor-pus-kyoo-lur hee-muh-gloh-bin (m-c-h) Tested twice a year Mean
   corpuscular hemoglobin (MCH) measures the average amount of hemoglobin, the oxygen-carrying
   protein, in each red blood cell. Low MCH often points to iron deficiency anemia,
   while high MCH can signal a vitamin B12 or folate deficiency.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/mean-corpuscular-hemoglobin-mch/
+permalink: /entities/labtest/mean-corpuscular-hemoglobin-mch/
 slug: mean-corpuscular-hemoglobin-mch
 tags:
 - labtest
 templateEngineOverride: njk
 title: mean_corpuscular_hemoglobin_mch
 type: labtest
-updated: '2026-03-29T06:30:14.414120Z'
+updated: '2026-04-14T12:09:05.131527Z'
 ---
 
 {% raw %}
@@ -62,13 +61,13 @@ updated: '2026-03-29T06:30:14.414120Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Iron Deficiency Anemia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Vitamin B12 Or Folate Deficiency</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Thalassemia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Liver Dysfunction</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Anemia Of Chronic Disease</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a></p>
+<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Iron Deficiency Anemia</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

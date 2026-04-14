@@ -1,10 +1,9 @@
 ---
-created: '2026-03-29T06:30:14.895464Z'
+created: '2026-04-14T12:09:05.466687Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/phenotype/intellectual-disability/
+permalink: /entities/phenotype/intellectual-disability/
 slug: intellectual-disability
 tags:
 - phenotype
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Intellectual disability
 type: phenotype
-updated: '2026-03-29T06:30:14.895464Z'
+updated: '2026-04-14T12:09:05.466687Z'
 ---
 
 {% raw %}
@@ -71,5 +70,8 @@ RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Neurode
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Intellectual disability mild</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Intellectual disability moderate</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Intellectual disability profound</a></p>
+<h3>Enriched</h3>
+<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
+ASSOCIATED_WITH::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a></p>
 
 {% endraw %}

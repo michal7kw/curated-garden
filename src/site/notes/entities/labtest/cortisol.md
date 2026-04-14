@@ -1,13 +1,12 @@
 ---
-created: '2026-03-29T06:30:14.272366Z'
+created: '2026-04-14T12:09:04.973238Z'
 description: Cortisol is often called “the stress hormone” because it rises during
   times of pressure or emotional distress, helping the body respond and adapt. Either
   high or low levels can signal chronic stress, sleep problems, or disorders of the
   adrenal glands.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/cortisol/
+permalink: /entities/labtest/cortisol/
 slug: cortisol
 tags:
 - labtest
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: cortisol
 type: labtest
-updated: '2026-03-29T06:30:14.272366Z'
+updated: '2026-04-14T12:09:04.973238Z'
 ---
 
 {% raw %}
@@ -58,7 +57,7 @@ updated: '2026-03-29T06:30:14.272366Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/cortisol/" class="internal-link">cortisol</a></li>
+<li><a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -70,11 +69,15 @@ updated: '2026-03-29T06:30:14.272366Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Pituitary Disorders</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/cortisol-am/" class="internal-link">cortisol am</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">cortisol am</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Adrenal Insufficiency</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/cushings-syndrome/" class="internal-link">CushingS Syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">CushingS Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Adrenal Hyperplasia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Stress Elevated Cortisol</a></p>
+<h3>Enriched</h3>
+<p>MEASURES::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+INDICATES::<a class="internal-link is-unresolved" href="/404">Chronic Stress</a><br />
+ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Adrenal Glands</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

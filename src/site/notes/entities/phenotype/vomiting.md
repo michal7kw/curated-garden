@@ -1,10 +1,9 @@
 ---
-created: '2026-03-29T06:30:14.926705Z'
+created: '2026-04-14T12:09:05.487407Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/phenotype/vomiting/
+permalink: /entities/phenotype/vomiting/
 slug: vomiting
 tags:
 - phenotype
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Vomiting
 type: phenotype
-updated: '2026-03-29T06:30:14.926705Z'
+updated: '2026-04-14T12:09:05.487407Z'
 ---
 
 {% raw %}
@@ -54,5 +53,9 @@ RELATED::<a class="internal-link is-unresolved" href="/404">myxopapillary ependy
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Nausea and vomiting</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Episodic vomiting</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Projectile vomiting</a></p>
+<h3>Enriched</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">GERD</a><br />
+ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Nausea</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Gut</a></p>
 
 {% endraw %}

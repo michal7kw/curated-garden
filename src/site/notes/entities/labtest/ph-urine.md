@@ -1,20 +1,19 @@
 ---
-created: '2026-03-29T06:30:14.479917Z'
+created: '2026-04-14T12:09:05.203161Z'
 description: Tested twice a year Urine pH reflects how acidic or alkaline the urine
   is, and it plays a key role in helping the body maintain overall acid–base balance.
   Abnormal urine pH can increase the risk of kidney stones, or indicate metabolic
   or dietary imbalances that may warrant medical attention.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/ph-urine/
+permalink: /entities/labtest/ph-urine/
 slug: ph-urine
 tags:
 - labtest
 templateEngineOverride: njk
 title: ph_urine
 type: labtest
-updated: '2026-03-29T06:30:14.479917Z'
+updated: '2026-04-14T12:09:05.203161Z'
 ---
 
 {% raw %}
@@ -65,12 +64,12 @@ updated: '2026-03-29T06:30:14.479917Z'
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Urinary Tract Infection Uti</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Dietary Or Medication Effect</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/kidney-stones/" class="internal-link">Kidney Stones</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Stones</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic Dysfunction</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/kidney-stones/" class="internal-link">Kidney Stones</a></p>
+<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Kidney Stones</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/kidney-stones/" class="internal-link">Kidney Stones</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Kidney Stones</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

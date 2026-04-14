@@ -1,5 +1,5 @@
 ---
-created: '2026-03-29T06:30:14.974494Z'
+created: '2026-04-14T12:09:05.505141Z'
 description: Cytochrome P450 2D6, a highly polymorphic drug-metabolizing enzyme responsible
   for the metabolism of approximately 25% of clinically used drugs including SSRIs,
   beta-blockers, opioids, and antipsychotics. Genetic polymorphisms create poor, intermediate,
@@ -7,8 +7,7 @@ description: Cytochrome P450 2D6, a highly polymorphic drug-metabolizing enzyme 
   for drug dosing and interactions.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/protein/cyp2d6/
+permalink: /entities/protein/cyp2d6/
 slug: cyp2d6
 tags:
 - protein
@@ -19,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: CYP2D6
 type: protein
-updated: '2026-03-29T06:30:14.974494Z'
+updated: '2026-04-14T12:09:05.505141Z'
 ---
 
 {% raw %}
@@ -74,18 +73,37 @@ updated: '2026-03-29T06:30:14.974494Z'
 <li><strong>Prodrug risk</strong>: Ultra-rapid metabolizers convert codeine to morphine too quickly → respiratory depression</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Modulated By Supplement</h3>
+<p>MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Black_Seed_Oil</a><br />
+MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Quercetin</a><br />
+MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Curcumin</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/gene/cyp3a4/" class="internal-link">CYP3A4</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/organ/liver/" class="internal-link">Liver</a></p>
-<h3>Metabolizes</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/drug/fluoxetine/" class="internal-link">Fluoxetine</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/drug/metoprolol/" class="internal-link">Metoprolol</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/drug/haloperidol/" class="internal-link">Haloperidol</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/drug/sertraline/" class="internal-link">Sertraline</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Liver</a><br />
+RELATED::<a href="/entities/drug/fluoxetine/" class="internal-link">Fluoxetine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Haloperidol</a><br />
+RELATED::<a href="/entities/drug/sertraline/" class="internal-link">Sertraline</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Metoprolol</a><br />
+METABOLIZES::<a class="internal-link is-unresolved" href="/404">Paroxetine</a><br />
+METABOLIZES::<a class="internal-link is-unresolved" href="/404">Vortioxetine</a><br />
+METABOLIZES::<a class="internal-link is-unresolved" href="/404">Fluvoxamine</a></p>
+<h3>Inhibited By</h3>
+<p>INHIBITED_BY::<a class="internal-link is-unresolved" href="/404">Paroxetine</a><br />
+INHIBITED_BY::<a href="/entities/drug/fluoxetine/" class="internal-link">Fluoxetine</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Peripheral_Neuropathy</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a></p>
+<h3>Interacts With</h3>
+<p>INTERACTS_WITH::<a href="/entities/gene/cyp3a4/" class="internal-link">CYP3A4</a></p>
 <h2>References</h2>
 <ul>
 <li>Gaedigk A et al. The Pharmacogene Variation Consortium: CYP2D6. Clin Pharmacol Ther. 2018;103(3):399-401. PMID:29134625</li>
 <li>Zhou SF. Polymorphism of human cytochrome P450 2D6 and its clinical significance. Clin Pharmacokinet. 2009;48(11):689-723. PMID:19817501</li>
 </ul>
+<h3>Merged From gene</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Peripheral Neuropathy</a><br />
+MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Black Seed Oil</a><br />
+MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Curcumin</a><br />
+MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Quercetin</a></p>
 
 {% endraw %}

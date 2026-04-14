@@ -1,11 +1,10 @@
 ---
-created: '2026-03-29T06:30:13.537070Z'
+created: '2026-04-14T12:09:04.587799Z'
 description: Dried Urine Test for Comprehensive Hormones, providing a detailed look
   at sex hormones, adrenal function (cortisol), and their metabolites.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/dutch-test/
+permalink: /entities/biomarker/dutch-test/
 slug: dutch-test
 tags:
 - biomarker
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: DUTCH Test
 type: biomarker
-updated: '2026-03-29T06:30:13.537070Z'
+updated: '2026-04-14T12:09:04.587799Z'
 ---
 
 {% raw %}
@@ -23,10 +22,13 @@ updated: '2026-03-29T06:30:13.537070Z'
 <h2>Overview</h2>
 <p>Dried Urine Test for Comprehensive Hormones, providing a detailed look at sex hormones, adrenal function (cortisol), and their metabolites.</p>
 <h2>Relationships</h2>
+<p>RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Estrogen</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Testosterone</a></p>
 <h3>Measured By Test</h3>
 <ul>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/dutch-complete/" class="internal-link">dutch complete</a> (labtest)</li>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/dutch-plus/" class="internal-link">dutch plus</a> (labtest)</li>
+<li>-&gt; <a href="/entities/labtest/dutch-complete/" class="internal-link">dutch complete</a> (labtest)</li>
+<li>-&gt; <a href="/entities/labtest/dutch-plus/" class="internal-link">dutch plus</a> (labtest)</li>
 </ul>
 
 {% endraw %}

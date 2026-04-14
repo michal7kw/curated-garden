@@ -1,10 +1,9 @@
 ---
-created: '2026-03-29T06:30:14.888467Z'
+created: '2026-04-14T12:09:05.459328Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/phenotype/hearing-impairment/
+permalink: /entities/phenotype/hearing-impairment/
 slug: hearing-impairment
 tags:
 - phenotype
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Hearing impairment
 type: phenotype
-updated: '2026-03-29T06:30:14.888467Z'
+updated: '2026-04-14T12:09:05.459328Z'
 ---
 
 {% raw %}
@@ -49,5 +48,8 @@ RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">High-fr
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Progressive hearing impairment</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Low-frequency hearing loss</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Conductive hearing impairment</a></p>
+<h3>Enriched</h3>
+<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Nerves</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a></p>
 
 {% endraw %}

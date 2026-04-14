@@ -1,18 +1,17 @@
 ---
-created: '2026-03-29T06:30:14.532737Z'
+created: '2026-04-14T12:09:05.261034Z'
 description: Measures bioavailable testosterone. More accurate than total testosterone
   for assessing androgen status.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/testosterone-free/
+permalink: /entities/labtest/testosterone-free/
 slug: testosterone-free
 tags:
 - labtest
 templateEngineOverride: njk
 title: testosterone_free
 type: labtest
-updated: '2026-03-29T06:30:14.532737Z'
+updated: '2026-04-14T12:09:05.261034Z'
 ---
 
 {% raw %}
@@ -54,7 +53,7 @@ updated: '2026-03-29T06:30:14.532737Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/testosterone-free/" class="internal-link">testosterone free</a></li>
+<li><a href="/entities/labtest/testosterone-free/" class="internal-link">testosterone free</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -64,7 +63,7 @@ updated: '2026-03-29T06:30:14.532737Z'
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>MEASURES::<a href="/entities/labtest/testosterone-free/" class="internal-link">Testosterone Free</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

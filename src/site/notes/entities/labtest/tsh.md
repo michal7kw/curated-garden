@@ -1,18 +1,17 @@
 ---
-created: '2026-03-29T06:30:14.579642Z'
+created: '2026-04-14T12:09:05.305315Z'
 description: Primary screening test for thyroid function. Elevated in hypothyroidism,
   low in hyperthyroidism.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/tsh/
+permalink: /entities/labtest/tsh/
 slug: tsh
 tags:
 - labtest
 templateEngineOverride: njk
 title: tsh
 type: labtest
-updated: '2026-03-29T06:30:14.579642Z'
+updated: '2026-04-14T12:09:05.305315Z'
 ---
 
 {% raw %}
@@ -59,8 +58,12 @@ updated: '2026-03-29T06:30:14.579642Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/thyroid-panel-complete/" class="internal-link">thyroid panel complete</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/thyroid-panel-basic/" class="internal-link">thyroid panel basic</a></p>
+<p>RELATED::<a href="/entities/labtest/thyroid-panel-complete/" class="internal-link">thyroid panel complete</a><br />
+RELATED::<a href="/entities/labtest/thyroid-panel-basic/" class="internal-link">thyroid panel basic</a></p>
+<h3>Enriched</h3>
+<p>MEASURES::<a href="/entities/labtest/tsh/" class="internal-link">Tsh</a><br />
+INDICATES::<a class="internal-link is-unresolved" href="/404">Subclinical Hypothyroidism</a><br />
+ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Thyroid</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

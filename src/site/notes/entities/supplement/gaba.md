@@ -1,12 +1,11 @@
 ---
-created: '2026-03-29T06:30:14.742746Z'
+created: '2026-04-14T12:09:05.404785Z'
 description: Gamma-aminobutyric acid, the brain's primary inhibitory neurotransmitter.
   GABA reduces neuronal excitability, promotes relaxation, reduces anxiety, and facilitates
   sleep. It provides the "brake" to glutamate's "accelerator."
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/supplement/gaba/
+permalink: /entities/supplement/gaba/
 slug: gaba
 tags:
 - supplement
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: GABA
 type: supplement
-updated: '2026-03-29T06:30:14.742746Z'
+updated: '2026-04-14T12:09:05.404785Z'
 ---
 
 {% raw %}
@@ -51,12 +50,18 @@ updated: '2026-03-29T06:30:14.742746Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/l-theanine/" class="internal-link">L-Theanine</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/ashwagandha/" class="internal-link">Ashwagandha</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/melatonin-supplement/" class="internal-link">Melatonin Supplement</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/apigenin/" class="internal-link">Apigenin</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/magnesium/" class="internal-link">Magnesium</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/zinc/" class="internal-link">Zinc</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Vitamin B6</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">L-Theanine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Ashwagandha</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Melatonin Supplement</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Apigenin</a><br />
+RELATED::<a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a><br />
+RELATED::<a href="/entities/labtest/zinc/" class="internal-link">Zinc</a><br />
+RELATED::<a href="/entities/supplement/reishi/" class="internal-link">Reishi</a></p>
+<h3>Merged From biomarker</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Stress</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Sleep Disorder</a><br />
+INDICATES_ORGAN_HEALTH::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
+RELATED::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a></p>
 
 {% endraw %}

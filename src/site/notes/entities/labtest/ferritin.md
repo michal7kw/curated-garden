@@ -1,18 +1,17 @@
 ---
-created: '2026-03-29T06:30:14.305466Z'
+created: '2026-04-14T12:09:05.011114Z'
 description: Measures iron stores. Key marker for iron deficiency and overload, also
   an acute phase reactant.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/ferritin/
+permalink: /entities/labtest/ferritin/
 slug: ferritin
 tags:
 - labtest
 templateEngineOverride: njk
 title: ferritin
 type: labtest
-updated: '2026-03-29T06:30:14.305466Z'
+updated: '2026-04-14T12:09:05.011114Z'
 ---
 
 {% raw %}
@@ -53,7 +52,7 @@ updated: '2026-03-29T06:30:14.305466Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/ferritin/" class="internal-link">ferritin</a></li>
+<li><a href="/entities/labtest/ferritin/" class="internal-link">ferritin</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -64,7 +63,11 @@ updated: '2026-03-29T06:30:14.305466Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/iron-panel/" class="internal-link">iron panel</a></p>
+<p>RELATED::<a href="/entities/labtest/iron-panel/" class="internal-link">iron panel</a></p>
+<h3>Enriched</h3>
+<p>MEASURES::<a href="/entities/labtest/ferritin/" class="internal-link">Ferritin</a><br />
+INDICATES::<a class="internal-link is-unresolved" href="/404">Iron Deficiency Anemia</a><br />
+INDICATES::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

@@ -1,19 +1,18 @@
 ---
-created: '2026-03-29T06:30:13.652973Z'
+created: '2026-04-14T12:09:04.710630Z'
 description: Zonulin is a protein that reversibly modulates intestinal tight junction
   permeability. Elevated serum zonulin indicates increased intestinal permeability
   and is associated with autoimmune and inflammatory conditions.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/zonulin/
+permalink: /entities/biomarker/zonulin/
 slug: zonulin
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Zonulin
 type: biomarker
-updated: '2026-03-29T06:30:13.652973Z'
+updated: '2026-04-14T12:09:04.710630Z'
 ---
 
 {% raw %}
@@ -22,7 +21,13 @@ updated: '2026-03-29T06:30:13.652973Z'
 <p>Zonulin is a protein that reversibly modulates intestinal tight junction permeability. Elevated serum zonulin indicates increased intestinal permeability and is associated with autoimmune and inflammatory conditions.</p>
 <h2>Relationships</h2>
 <h3>Correlated With</h3>
-<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
-CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/calprotectin/" class="internal-link">Calprotectin</a></p>
+<p>CORRELATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
+CORRELATED_WITH::<a class="internal-link is-unresolved" href="/404">Calprotectin</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Autoimmune_Disease</a></p>
+<h3>Related Tests</h3>
+<p>RELATED_TESTS::<a href="/entities/labtest/fecal-calprotectin/" class="internal-link">fecal_calprotectin</a><br />
+RELATED_TESTS::<a class="internal-link is-unresolved" href="/404">food_sensitivity_igg</a><br />
+RELATED_TESTS::<a class="internal-link is-unresolved" href="/404">gi_map</a></p>
 
 {% endraw %}

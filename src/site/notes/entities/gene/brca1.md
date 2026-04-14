@@ -1,11 +1,10 @@
 ---
-created: '2026-03-29T06:30:14.943035Z'
+created: '2026-04-14T12:09:05.493048Z'
 description: Encodes a tumor suppressor protein involved in DNA repair. Mutations
   significantly increase the risk of breast and ovarian cancer.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/gene/brca1/
+permalink: /entities/gene/brca1/
 slug: brca1
 tags:
 - gene
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: BRCA1
 type: gene
-updated: '2026-03-29T06:30:14.943035Z'
+updated: '2026-04-14T12:09:05.493048Z'
 ---
 
 {% raw %}
@@ -28,5 +27,9 @@ updated: '2026-03-29T06:30:14.943035Z'
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Ovarian Cancer</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Breast Cancer</a></p>
+<h3>Enriched</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Cancer</a><br />
+PARTICIPATES_IN_PATHWAY::<a class="internal-link is-unresolved" href="/404">Apoptosis</a><br />
+LOCATED_IN::<a class="internal-link is-unresolved" href="/404">Nucleus</a></p>
 
 {% endraw %}

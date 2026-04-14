@@ -1,30 +1,29 @@
 ---
-created: '2026-03-29T06:30:13.490490Z'
-description: Adiponectin is an anti-inflammatory adipokine hormone produced by adipose
-  tissue that enhances insulin sensitivity and has cardioprotective effects. Low levels
-  are associated with obesity, metabolic syndrome, and increased cardiovascular risk.
+created: '2026-04-14T12:09:04.545564Z'
+description: Adiponectin test measures this anti-inflammatory adipokine hormone produced
+  by adipose tissue. Higher levels indicate better insulin sensitivity and lower cardiovascular
+  risk. Inversely correlated with obesity, metabolic syndrome, and type 2 diabetes.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/adiponectin/
+permalink: /entities/biomarker/adiponectin/
 slug: adiponectin
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Adiponectin
 type: biomarker
-updated: '2026-03-29T06:30:13.490490Z'
+updated: '2026-04-14T12:09:04.545564Z'
 ---
 
 {% raw %}
 <h1>Adiponectin</h1>
 <h2>Overview</h2>
-<p>Adiponectin is an anti-inflammatory adipokine hormone produced by adipose tissue that enhances insulin sensitivity and has cardioprotective effects. Low levels are associated with obesity, metabolic syndrome, and increased cardiovascular risk.</p>
+<p>Adiponectin test measures this anti-inflammatory adipokine hormone produced by adipose tissue. Higher levels indicate better insulin sensitivity and lower cardiovascular risk. Inversely correlated with obesity, metabolic syndrome, and type 2 diabetes.</p>
 <h2>Relationships</h2>
-<h3>Correlated With</h3>
-<p>CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/insulin/" class="internal-link">Insulin</a><br />
-CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/triglycerides/" class="internal-link">Triglycerides</a><br />
-CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/homa-ir/" class="internal-link">Homa Ir</a><br />
-CORRELATED_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/hdl/" class="internal-link">Hdl</a></p>
+<h3>Related Tests</h3>
+<p>RELATED_TESTS::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a><br />
+RELATED_TESTS::<a href="/entities/labtest/homa-ir/" class="internal-link">homa_ir</a><br />
+RELATED_TESTS::<a href="/entities/labtest/fasting-insulin/" class="internal-link">fasting_insulin</a></p>
+<h2>References</h2>
 
 {% endraw %}

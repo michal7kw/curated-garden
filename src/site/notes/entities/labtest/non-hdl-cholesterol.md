@@ -1,20 +1,19 @@
 ---
-created: '2026-03-29T06:30:14.436213Z'
+created: '2026-04-14T12:09:05.158587Z'
 description: Tested twice a year Non-HDL cholesterol is the total amount of harmful
   cholesterol in the blood, contributing to overall cardiovascular risk. Elevated
   levels are commonly seen in individuals with high triglycerides, low HDL, and underlying
   insulin resistance or diabetes.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/non-hdl-cholesterol/
+permalink: /entities/labtest/non-hdl-cholesterol/
 slug: non-hdl-cholesterol
 tags:
 - labtest
 templateEngineOverride: njk
 title: non_hdl_cholesterol
 type: labtest
-updated: '2026-03-29T06:30:14.436213Z'
+updated: '2026-04-14T12:09:05.158587Z'
 ---
 
 {% raw %}
@@ -70,17 +69,17 @@ updated: '2026-03-29T06:30:14.436213Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Atherosclerosis</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/genetic-heart-risks/" class="internal-link">genetic heart risks</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-heart-metabolic/" class="internal-link">extended heart metabolic</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a><br />
+RELATED::<a href="/entities/labtestpanel/genetic-heart-risks/" class="internal-link">genetic heart risks</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a><br />
+RELATED::<a href="/entities/labtestpanel/extended-heart-metabolic/" class="internal-link">extended heart metabolic</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hyperlipidemia</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
-MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></p>
+<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a><br />
+MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/genetic-heart-risks/" class="internal-link">genetic heart risks</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-heart-metabolic/" class="internal-link">extended heart metabolic</a></p>
+<p>INCLUDED_IN::<a href="/entities/labtestpanel/genetic-heart-risks/" class="internal-link">genetic heart risks</a><br />
+INCLUDED_IN::<a href="/entities/labtestpanel/extended-heart-metabolic/" class="internal-link">extended heart metabolic</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

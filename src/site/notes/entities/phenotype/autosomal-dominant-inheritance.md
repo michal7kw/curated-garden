@@ -1,10 +1,9 @@
 ---
-created: '2026-03-29T06:30:14.862137Z'
+created: '2026-04-14T12:09:05.435571Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/phenotype/autosomal-dominant-inheritance/
+permalink: /entities/phenotype/autosomal-dominant-inheritance/
 slug: autosomal-dominant-inheritance
 tags:
 - phenotype
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Autosomal dominant inheritance
 type: phenotype
-updated: '2026-03-29T06:30:14.862137Z'
+updated: '2026-04-14T12:09:05.435571Z'
 ---
 
 {% raw %}
@@ -72,5 +71,8 @@ RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Autosom
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Autosomal dominant inheritance with maternal imprinting</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Autosomal dominant inheritance with paternal imprinting</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Autosomal dominant germline de novo mutation</a></p>
+<h3>Enriched</h3>
+<p>ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">BDNF Gene</a><br />
+ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">COMT</a></p>
 
 {% endraw %}

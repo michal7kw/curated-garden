@@ -1,19 +1,18 @@
 ---
-created: '2026-03-29T06:30:14.246802Z'
+created: '2026-04-14T12:09:04.937226Z'
 description: B-type Natriuretic Peptide (BNP) test. Neurohormonal biomarker released
   by ventricular cardiomyocytes in response to myocardial wall stress. Used for heart
   failure screening, diagnosis, and monitoring of treatment response.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/bnp/
+permalink: /entities/labtest/bnp/
 slug: bnp
 tags:
 - labtest
 templateEngineOverride: njk
 title: bnp
 type: labtest
-updated: '2026-03-29T06:30:14.246802Z'
+updated: '2026-04-14T12:09:04.937226Z'
 ---
 
 {% raw %}
@@ -55,7 +54,7 @@ updated: '2026-03-29T06:30:14.246802Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/bnp/" class="internal-link">bnp</a></li>
+<li><a href="/entities/labtest/bnp/" class="internal-link">bnp</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -66,11 +65,11 @@ updated: '2026-03-29T06:30:14.246802Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/cardiac-biomarker-panel/" class="internal-link">cardiac biomarker panel</a></p>
+<p>INCLUDED_IN::<a href="/entities/labtestpanel/cardiac-biomarker-panel/" class="internal-link">cardiac biomarker panel</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/phenotype/dyspnea/" class="internal-link">Dyspnea</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/heart-failure/" class="internal-link">Heart Failure</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/pulmonary-hypertension/" class="internal-link">Pulmonary Hypertension</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/phenotype/dyspnea/" class="internal-link">Dyspnea</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Heart Failure</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Pulmonary Hypertension</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

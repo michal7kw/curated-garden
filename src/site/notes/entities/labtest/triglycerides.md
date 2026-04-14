@@ -1,5 +1,5 @@
 ---
-created: '2026-03-29T06:30:14.566108Z'
+created: '2026-04-14T12:09:05.294768Z'
 description: Tested twice a year When we eat, the body converts any extra calories,
   particularly from carbohydrates and sugar, into triglycerides and stores them in
   the liver and fat cells for energy. High triglycerides often show up with diets
@@ -7,8 +7,7 @@ description: Tested twice a year When we eat, the body converts any extra calori
   which can raise the risk of heart disease.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/triglycerides/
+permalink: /entities/labtest/triglycerides/
 slug: triglycerides
 tags:
 - labtest
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: triglycerides
 type: labtest
-updated: '2026-03-29T06:30:14.566108Z'
+updated: '2026-04-14T12:09:05.294768Z'
 ---
 
 {% raw %}
@@ -65,20 +64,20 @@ updated: '2026-03-29T06:30:14.566108Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-heart-metabolic/" class="internal-link">extended heart metabolic</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/genetic-heart-risks/" class="internal-link">genetic heart risks</a></p>
+<p>INCLUDED_IN::<a href="/entities/labtestpanel/extended-heart-metabolic/" class="internal-link">extended heart metabolic</a><br />
+INCLUDED_IN::<a href="/entities/labtestpanel/genetic-heart-risks/" class="internal-link">genetic heart risks</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-heart-metabolic/" class="internal-link">extended heart metabolic</a><br />
+<p>RELATED::<a href="/entities/labtestpanel/extended-heart-metabolic/" class="internal-link">extended heart metabolic</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Obesity</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hyperlipidemia</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/lipid-panel-standard/" class="internal-link">lipid panel standard</a><br />
+RELATED::<a href="/entities/labtest/lipid-panel-standard/" class="internal-link">lipid panel standard</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Atherosclerosis</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/genetic-heart-risks/" class="internal-link">genetic heart risks</a></p>
+RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a><br />
+RELATED::<a href="/entities/labtestpanel/genetic-heart-risks/" class="internal-link">genetic heart risks</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
-MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></p>
+<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a><br />
+MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

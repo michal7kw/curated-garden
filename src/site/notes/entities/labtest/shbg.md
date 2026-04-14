@@ -1,18 +1,17 @@
 ---
-created: '2026-03-29T06:30:14.521909Z'
+created: '2026-04-14T12:09:05.252619Z'
 description: Binds testosterone and estrogen. Important for calculating free hormone
   levels and assessing metabolic health.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/shbg/
+permalink: /entities/labtest/shbg/
 slug: shbg
 tags:
 - labtest
 templateEngineOverride: njk
 title: shbg
 type: labtest
-updated: '2026-03-29T06:30:14.521909Z'
+updated: '2026-04-14T12:09:05.252619Z'
 ---
 
 {% raw %}
@@ -58,7 +57,8 @@ updated: '2026-03-29T06:30:14.521909Z'
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>MEASURES::<a href="/entities/labtest/shbg/" class="internal-link">Shbg</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Testosterone</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

@@ -1,13 +1,12 @@
 ---
-created: '2026-03-29T06:30:14.105957Z'
+created: '2026-04-14T12:09:04.845488Z'
 description: Support healthy metabolism and weight management. Green tea EGCG enhances
   thermogenesis and fat oxidation, chromium improves insulin sensitivity, omega-3
   reduces metabolic inflammation, and psyllium fiber promotes satiety and healthy
   glucose response.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/healthstack/weight-management/
+permalink: /entities/healthstack/weight-management/
 slug: weight-management
 tags:
 - healthstack
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Weight Management
 type: healthstack
-updated: '2026-03-29T06:30:14.105957Z'
+updated: '2026-04-14T12:09:04.845488Z'
 ---
 
 {% raw %}
@@ -79,28 +78,28 @@ updated: '2026-03-29T06:30:14.105957Z'
 </thead>
 <tbody>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/labtest/fasting-glucose/" class="internal-link">Fasting Glucose</a></td>
+<td><a href="/entities/labtest/fasting-glucose/" class="internal-link">Fasting Glucose</a></td>
 <td>70-100</td>
 <td>75-90</td>
 <td>mg/dL</td>
 <td>Primary marker of glucose regulation</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/labtest/hba1c/" class="internal-link">HbA1c</a></td>
+<td><a href="/entities/labtest/hba1c/" class="internal-link">HbA1c</a></td>
 <td>4.0-5.7</td>
 <td>4.5-5.2</td>
 <td>%</td>
 <td>3-month average blood sugar — gold standard metabolic marker</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/labtest/fasting-insulin/" class="internal-link">Fasting Insulin</a></td>
+<td><a href="/entities/labtest/fasting-insulin/" class="internal-link">Fasting Insulin</a></td>
 <td>2-25</td>
 <td>3-8</td>
 <td>uIU/mL</td>
 <td>Early insulin resistance indicator</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/labtest/triglycerides/" class="internal-link">Triglycerides</a></td>
+<td><a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a></td>
 <td>0-150</td>
 <td>0-100</td>
 <td>mg/dL</td>
@@ -113,6 +112,19 @@ updated: '2026-03-29T06:30:14.105957Z'
 <li>Weight management</li>
 <li>Metabolic</li>
 </ul>
+<h3>Contains Supplement</h3>
+<p>CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Green Tea Extract (EGCG)</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Chromium Picolinate</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Omega-3 Fish Oil</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Psyllium Husk</a></p>
+<h2>Relationships</h2>
+<h3>Enriched</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Metabolic Syndrome</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Diabetes</a><br />
+INCLUDES_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Berberine</a><br />
+INCLUDES_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Chromium</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/glucose/" class="internal-link">Glucose</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">Hba1C</a></p>
 <hr />
 <p><strong>Difficulty:</strong> Intermediate | <strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
 

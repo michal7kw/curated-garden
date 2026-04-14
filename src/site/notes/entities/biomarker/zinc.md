@@ -1,51 +1,46 @@
 ---
-created: '2026-03-29T06:30:13.650948Z'
-description: Essential trace mineral involved in over 300 enzymatic reactions. Critical
-  for immune function, wound healing, testosterone production, and thyroid function.
+created: '2026-04-14T12:09:04.708088Z'
+description: Zinc is an essential mineral that plays a key role in immune strength,
+  wound healing, metabolism, and hormone balance. Testing zinc levels shows whether
+  the body has enough to support these functions. Low levels can be linked to issues
+  such as reduced immune response, slower healing, fatigue, or hormonal changes, while
+  adequate levels help keep many biological processes running smoothly.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/zinc/
+permalink: /entities/biomarker/zinc/
 slug: zinc
 tags:
 - biomarker
+- functional-medicine
 templateEngineOverride: njk
 title: Zinc
 type: biomarker
-updated: '2026-03-29T06:30:13.650948Z'
+updated: '2026-04-14T12:09:04.708088Z'
 ---
 
 {% raw %}
 <h1>Zinc</h1>
 <h2>Overview</h2>
-<p>Essential trace mineral involved in over 300 enzymatic reactions. Critical for immune function, wound healing, testosterone production, and thyroid function.</p>
+<p>Zinc is an essential mineral that plays a key role in immune strength, wound healing, metabolism, and hormone balance. Testing zinc levels shows whether the body has enough to support these functions. Low levels can be linked to issues such as reduced immune response, slower healing, fatigue, or hormonal changes, while adequate levels help keep many biological processes running smoothly.</p>
 <h2>Relationships</h2>
-<h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/thyroid/" class="internal-link">Thyroid</a><br />
-AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/immune-system/" class="internal-link">Immune System</a><br />
-AFFECTS_ORGAN::<a href="/garden/michal.k7w@gmail.com/organ/skin/" class="internal-link">Skin</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/thyroid-dysfunction/" class="internal-link">thyroid dysfunction</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/selenium/" class="internal-link">Selenium</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/gaba/" class="internal-link">GABA</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/iron/" class="internal-link">Iron</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/organ/thyroid/" class="internal-link">Thyroid</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/organ/immune-system/" class="internal-link">Immune System</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/magnesium/" class="internal-link">Magnesium</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/thyroid-dysfunction/" class="internal-link">Thyroid Dysfunction</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/copper/" class="internal-link">Copper</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/organ/skin/" class="internal-link">Skin</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/hormone/thyroid-hormones/" class="internal-link">Thyroid Hormones</a></p>
-<h3>Modulates Hormone</h3>
-<p>MODULATES_HORMONE::<a href="/garden/michal.k7w@gmail.com/hormone/thyroid-hormones/" class="internal-link">Thyroid Hormones</a></p>
-<h3>Synergistic With</h3>
-<p>SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/labtest/magnesium/" class="internal-link">Magnesium</a><br />
-SYNERGISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a></p>
-<h3>Modulates Neurotransmitter</h3>
-<p>MODULATES_NEUROTRANSMITTER::<a href="/garden/michal.k7w@gmail.com/supplement/gaba/" class="internal-link">GABA</a></p>
-<h3>Competes With</h3>
-<p>COMPETES_WITH::<a href="/garden/michal.k7w@gmail.com/supplement/iron/" class="internal-link">Iron</a><br />
-COMPETES_WITH::<a href="/garden/michal.k7w@gmail.com/biomarker/copper/" class="internal-link">Copper</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Malnutrition</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Impaired_Immune_Function</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Poor_Nutrient_Absorption</a><br />
+RELATED::<a href="/entities/labtest/zinc-serum/" class="internal-link">zinc_serum</a><br />
+RELATED::<a href="/entities/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Copper_Imbalance</a><br />
+RELATED::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Zinc_Deficiency</a></p>
+<h3>May Detect</h3>
+<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Copper_Imbalance</a><br />
+MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Zinc_Deficiency</a></p>
+<h3>Included In</h3>
+<p>INCLUDED_IN::<a href="/entities/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a><br />
+INCLUDED_IN::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Copper_Imbalance</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Zinc_Deficiency</a></p>
+<h2>References</h2>
 
 {% endraw %}

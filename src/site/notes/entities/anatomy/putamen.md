@@ -1,12 +1,11 @@
 ---
-created: '2026-03-29T06:30:13.479711Z'
+created: '2026-04-14T12:09:04.538643Z'
 description: Largest component of the basal ganglia, forming the outer part of the
   lenticular nucleus. Primary role in motor regulation, motor learning, and habit
   formation.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/Anatomy/putamen/
+permalink: /entities/Anatomy/putamen/
 slug: putamen
 tags:
 - Anatomy
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Putamen
 type: Anatomy
-updated: '2026-03-29T06:30:13.479711Z'
+updated: '2026-04-14T12:09:04.538643Z'
 ---
 
 {% raw %}
@@ -25,6 +24,11 @@ updated: '2026-03-29T06:30:13.479711Z'
 <h2>Description</h2>
 <p>Largest component of the basal ganglia, forming the outer part of the lenticular nucleus. Primary role in motor regulation, motor learning, and habit formation.</p>
 <h2>Relationships</h2>
-<p>SUPPORTS_FUNCTION::<a class="internal-link is-unresolved" href="/404">Motor Control</a></p>
+<h3>Supports Function</h3>
+<p>SUPPORTS_FUNCTION::<a class="internal-link is-unresolved" href="/404">Motor Control</a><br />
+SUPPORTS_FUNCTION::<a class="internal-link is-unresolved" href="/404">Motor Planning</a></p>
+<h3>Connected To</h3>
+<p>CONNECTED_TO::<a class="internal-link is-unresolved" href="/404">Caudate Nucleus</a><br />
+CONNECTED_TO::<a href="/entities/anatomy/substantia-nigra/" class="internal-link">Substantia Nigra</a></p>
 
 {% endraw %}

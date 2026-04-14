@@ -1,13 +1,12 @@
 ---
-created: '2026-03-29T06:30:14.100803Z'
+created: '2026-04-14T12:09:04.833308Z'
 description: Support emotional resilience and stress adaptation. Magnesium calms the
   nervous system, omega-3 EPA supports neurotransmitter function, vitamin D3 modulates
   mood-regulating pathways, and ashwagandha is a well-studied adaptogen for cortisol
   regulation.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/healthstack/mood-stress/
+permalink: /entities/healthstack/mood-stress/
 slug: mood-stress
 tags:
 - healthstack
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Mood & Stress
 type: healthstack
-updated: '2026-03-29T06:30:14.100803Z'
+updated: '2026-04-14T12:09:04.833308Z'
 ---
 
 {% raw %}
@@ -79,14 +78,14 @@ updated: '2026-03-29T06:30:14.100803Z'
 </thead>
 <tbody>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a></td>
+<td><a href="/entities/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a></td>
 <td>30-100</td>
 <td>50-80</td>
 <td>ng/mL</td>
 <td>Low levels strongly associated with depression</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/labtest/cortisol-am/" class="internal-link">Cortisol AM</a></td>
+<td><a class="internal-link is-unresolved" href="/404">Cortisol AM</a></td>
 <td>6-18.4</td>
 <td>10-15</td>
 <td>mcg/dL</td>
@@ -106,6 +105,19 @@ updated: '2026-03-29T06:30:14.100803Z'
 <li>Mood</li>
 <li>Cognitive</li>
 </ul>
+<h3>Contains Supplement</h3>
+<p>CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Magnesium Glycinate</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Omega-3 (High EPA)</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Vitamin D3</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Ashwagandha (KSM-66)</a></p>
+<h2>Relationships</h2>
+<h3>Enriched</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Stress</a><br />
+INCLUDES_SUPPLEMENT::<a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a><br />
+INCLUDES_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Ashwagandha</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a></p>
 <hr />
 <p><strong>Difficulty:</strong> Intermediate | <strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
 

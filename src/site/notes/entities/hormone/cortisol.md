@@ -1,13 +1,12 @@
 ---
-created: '2026-03-29T06:30:14.111664Z'
+created: '2026-04-14T12:09:04.851822Z'
 description: Primary glucocorticoid stress hormone produced by the adrenal cortex
   via the HPA axis. Essential for glucose metabolism, immune modulation, and stress
   response. Chronic elevation drives visceral obesity, immunosuppression, hippocampal
   atrophy, and accelerated aging.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/hormone/cortisol/
+permalink: /entities/hormone/cortisol/
 slug: cortisol
 tags:
 - hormone
@@ -18,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Cortisol
 type: hormone
-updated: '2026-03-29T06:30:14.111664Z'
+updated: '2026-04-14T12:09:04.851822Z'
 ---
 
 {% raw %}
@@ -53,31 +52,45 @@ updated: '2026-03-29T06:30:14.111664Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/hormone/dhea/" class="internal-link">DHEA</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/hormone/epinephrine/" class="internal-link">Epinephrine</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/hormone/melatonin/" class="internal-link">Melatonin</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/anatomy/hypothalamus/" class="internal-link">Hypothalamus</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/anatomy/hippocampus/" class="internal-link">Hippocampus</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">DHEA</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Epinephrine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Melatonin</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hypothalamus</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hippocampus</a></p>
 <h3>Antagonistic With</h3>
-<p>ANTAGONISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/hormone/dhea/" class="internal-link">DHEA</a><br />
-ANTAGONISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/hormone/melatonin/" class="internal-link">Melatonin</a><br />
-ANTAGONISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/hormone/testosterone/" class="internal-link">Testosterone</a><br />
-ANTAGONISTIC_WITH::<a href="/garden/michal.k7w@gmail.com/hormone/growth-hormone/" class="internal-link">Growth Hormone</a></p>
+<p>ANTAGONISTIC_WITH::<a class="internal-link is-unresolved" href="/404">DHEA</a><br />
+ANTAGONISTIC_WITH::<a class="internal-link is-unresolved" href="/404">Melatonin</a><br />
+ANTAGONISTIC_WITH::<a class="internal-link is-unresolved" href="/404">Testosterone</a><br />
+ANTAGONISTIC_WITH::<a class="internal-link is-unresolved" href="/404">Growth Hormone</a></p>
 <h3>Affected By Intervention</h3>
-<p>AFFECTED_BY_INTERVENTION::<a href="/garden/michal.k7w@gmail.com/intervention/meditation/" class="internal-link">Meditation</a><br />
-AFFECTED_BY_INTERVENTION::<a href="/garden/michal.k7w@gmail.com/intervention/exercise/" class="internal-link">Exercise</a><br />
-AFFECTED_BY_INTERVENTION::<a href="/garden/michal.k7w@gmail.com/intervention/cold-exposure/" class="internal-link">Cold Exposure</a><br />
-AFFECTED_BY_INTERVENTION::<a href="/garden/michal.k7w@gmail.com/intervention/yoga/" class="internal-link">Yoga</a><br />
-AFFECTED_BY_INTERVENTION::<a href="/garden/michal.k7w@gmail.com/intervention/sleep-optimization/" class="internal-link">Sleep Optimization</a></p>
+<p>AFFECTED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Meditation</a><br />
+AFFECTED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Exercise</a><br />
+AFFECTED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Cold Exposure</a><br />
+AFFECTED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Yoga</a><br />
+AFFECTED_BY_INTERVENTION::<a class="internal-link is-unresolved" href="/404">Sleep Optimization</a></p>
 <h3>Affects Brain Region</h3>
-<p>AFFECTS_BRAIN_REGION::<a href="/garden/michal.k7w@gmail.com/anatomy/hippocampus/" class="internal-link">Hippocampus</a><br />
-AFFECTS_BRAIN_REGION::<a href="/garden/michal.k7w@gmail.com/anatomy/amygdala/" class="internal-link">Amygdala</a><br />
-AFFECTS_BRAIN_REGION::<a href="/garden/michal.k7w@gmail.com/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a></p>
+<p>AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Hippocampus</a><br />
+AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Amygdala</a><br />
+AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:15261529</li>
 <li>PMID:23063021</li>
 <li>PMID:28222450</li>
 </ul>
+<h3>Merged From biomarker</h3>
+<p>INDICATES_ORGAN_HEALTH::<a class="internal-link is-unresolved" href="/404">Adrenal Glands</a><br />
+RELATED::<a href="/entities/condition/anxiety/" class="internal-link">Anxiety</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Apigenin</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Ashwagandha</a><br />
+RELATED::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Bacopa Monnieri</a><br />
+RELATED::<a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Omega-3 Fatty Acids</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Rhodiola Rosea</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Sleep Optimization</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Vitamin C</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">cortisol am</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">dutch complete</a></p>
 
 {% endraw %}

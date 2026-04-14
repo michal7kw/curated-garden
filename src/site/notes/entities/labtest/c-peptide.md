@@ -1,19 +1,18 @@
 ---
-created: '2026-03-29T06:30:14.249874Z'
+created: '2026-04-14T12:09:04.943211Z'
 description: C-Peptide test. Measures endogenous insulin production by quantifying
   the connecting peptide released during proinsulin cleavage. Used to differentiate
   Type 1 from Type 2 diabetes and evaluate beta-cell function.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/c-peptide/
+permalink: /entities/labtest/c-peptide/
 slug: c-peptide
 tags:
 - labtest
 templateEngineOverride: njk
 title: c_peptide
 type: labtest
-updated: '2026-03-29T06:30:14.249874Z'
+updated: '2026-04-14T12:09:04.943211Z'
 ---
 
 {% raw %}
@@ -62,7 +61,7 @@ updated: '2026-03-29T06:30:14.249874Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/c-peptide/" class="internal-link">c peptide</a></li>
+<li><a href="/entities/labtest/c-peptide/" class="internal-link">c peptide</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -72,7 +71,8 @@ updated: '2026-03-29T06:30:14.249874Z'
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Diabetes</a><br />
+RELATED::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

@@ -1,18 +1,17 @@
 ---
-created: '2026-03-29T06:30:14.585412Z'
+created: '2026-04-14T12:09:05.309822Z'
 description: Essential for nerve function and red blood cell production. Deficiency
   common in vegans and elderly.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/vitamin-b12/
+permalink: /entities/labtest/vitamin-b12/
 slug: vitamin-b12
 tags:
 - labtest
 templateEngineOverride: njk
 title: vitamin_b12
 type: labtest
-updated: '2026-03-29T06:30:14.585412Z'
+updated: '2026-04-14T12:09:05.309822Z'
 ---
 
 {% raw %}
@@ -54,7 +53,7 @@ updated: '2026-03-29T06:30:14.585412Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/vitamin-b12/" class="internal-link">vitamin b12</a></li>
+<li><a href="/entities/labtest/vitamin-b12/" class="internal-link">vitamin b12</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -65,7 +64,7 @@ updated: '2026-03-29T06:30:14.585412Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/vitamin-b12/" class="internal-link">Vitamin B12</a></p>
+<p>RELATED::<a href="/entities/labtest/vitamin-b12/" class="internal-link">Vitamin B12</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

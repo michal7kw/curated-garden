@@ -1,13 +1,12 @@
 ---
-created: '2026-03-29T06:30:14.094562Z'
+created: '2026-04-14T12:09:04.819544Z'
 description: Support healthy endocrine function across the HPA, HPG, and HPT axes
   with adaptogenic herbs, key micronutrients, and hormone-supporting compounds. Targets
   cortisol regulation, thyroid function, and sex hormone optimization through foundational
   nutrient support rather than direct hormone manipulation.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/healthstack/hormonal-balance/
+permalink: /entities/healthstack/hormonal-balance/
 slug: hormonal-balance
 tags:
 - healthstack
@@ -18,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Hormonal Balance
 type: healthstack
-updated: '2026-03-29T06:30:14.094562Z'
+updated: '2026-04-14T12:09:04.819544Z'
 ---
 
 {% raw %}
@@ -39,7 +38,7 @@ updated: '2026-03-29T06:30:14.094562Z'
 </thead>
 <tbody>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/supplement/ashwagandha/" class="internal-link">Ashwagandha</a> (KSM-66)</td>
+<td><a class="internal-link is-unresolved" href="/404">Ashwagandha</a> (KSM-66)</td>
 <td>600mg</td>
 <td>once daily</td>
 <td>evening</td>
@@ -53,21 +52,21 @@ updated: '2026-03-29T06:30:14.094562Z'
 <td>Functions as a secosteroid hormone — deficiency linked to low testosterone, thyroid dysfunction, and HPA axis dysregulation</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/supplement/zinc/" class="internal-link">Zinc</a></td>
+<td><a href="/entities/labtest/zinc/" class="internal-link">Zinc</a></td>
 <td>30mg</td>
 <td>once daily</td>
 <td>with meals</td>
 <td>Essential for testosterone synthesis, thyroid hormone conversion (T4→T3), and over 300 enzymatic reactions</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/labtest/magnesium/" class="internal-link">Magnesium</a> Glycinate</td>
+<td><a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a> Glycinate</td>
 <td>400mg</td>
 <td>once daily</td>
 <td>evening</td>
 <td>Calms HPA axis, improves sleep quality, supports thyroid function, and enhances testosterone bioavailability</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/supplement/selenium/" class="internal-link">Selenium</a></td>
+<td><a href="/entities/labtest/selenium/" class="internal-link">Selenium</a></td>
 <td>200mcg</td>
 <td>once daily</td>
 <td>with meals</td>
@@ -109,7 +108,7 @@ updated: '2026-03-29T06:30:14.094562Z'
 <td>Thyroid-stimulating hormone — optimal range narrower than lab reference for functional well-being</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a></td>
+<td><a href="/entities/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a></td>
 <td>30-100</td>
 <td>50-80</td>
 <td>ng/mL</td>
@@ -123,6 +122,20 @@ updated: '2026-03-29T06:30:14.094562Z'
 <li>Stress Management</li>
 <li>Vitality</li>
 </ul>
+<h3>Contains Supplement</h3>
+<p>CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Ashwagandha (KSM-66)</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Vitamin D3</a><br />
+CONTAINS_SUPPLEMENT::<a href="/entities/labtest/zinc/" class="internal-link">Zinc</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Magnesium Glycinate</a><br />
+CONTAINS_SUPPLEMENT::<a href="/entities/labtest/selenium/" class="internal-link">Selenium</a></p>
+<h2>Relationships</h2>
+<h3>Enriched</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">PCOS</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Hormonal Imbalance</a><br />
+INCLUDES_SUPPLEMENT::<a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a><br />
+INCLUDES_SUPPLEMENT::<a href="/entities/labtest/zinc/" class="internal-link">Zinc</a><br />
+ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Testosterone</a><br />
+ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Estrogen</a></p>
 <hr />
 <p><strong>Difficulty:</strong> Intermediate | <strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
 

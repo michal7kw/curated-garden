@@ -1,20 +1,19 @@
 ---
-created: '2026-03-29T06:30:14.612073Z'
+created: '2026-04-14T12:09:05.330588Z'
 description: Zonulin test measures the serum or stool level of this protein that regulates
   intestinal permeability by modulating tight junctions between enterocytes. Elevated
   zonulin indicates increased intestinal permeability (leaky gut) and is associated
   with autoimmune conditions, celiac disease, and type 1 diabetes.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/zonulin/
+permalink: /entities/labtest/zonulin/
 slug: zonulin
 tags:
 - labtest
 templateEngineOverride: njk
 title: zonulin
 type: labtest
-updated: '2026-03-29T06:30:14.612073Z'
+updated: '2026-04-14T12:09:05.330588Z'
 ---
 
 {% raw %}
@@ -56,7 +55,7 @@ updated: '2026-03-29T06:30:14.612073Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/zonulin/" class="internal-link">zonulin</a></li>
+<li><a href="/entities/labtest/zonulin/" class="internal-link">zonulin</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -67,11 +66,11 @@ updated: '2026-03-29T06:30:14.612073Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related Tests</h3>
-<p>RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/gi-map/" class="internal-link">gi map</a><br />
-RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/food-sensitivity-igg/" class="internal-link">food sensitivity igg</a><br />
-RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/fecal-calprotectin/" class="internal-link">fecal calprotectin</a></p>
+<p>RELATED_TESTS::<a class="internal-link is-unresolved" href="/404">gi map</a><br />
+RELATED_TESTS::<a class="internal-link is-unresolved" href="/404">food sensitivity igg</a><br />
+RELATED_TESTS::<a href="/entities/labtest/fecal-calprotectin/" class="internal-link">fecal calprotectin</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/autoimmune-disease/" class="internal-link">Autoimmune Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Autoimmune Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

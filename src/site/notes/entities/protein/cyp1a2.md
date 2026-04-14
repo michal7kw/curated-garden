@@ -1,13 +1,12 @@
 ---
-created: '2026-03-29T06:30:14.965975Z'
+created: '2026-04-14T12:09:05.498312Z'
 description: Cytochrome P450 1A2, a major drug-metabolizing enzyme responsible for
   the metabolism of caffeine, theophylline, clozapine, and olanzapine. Uniquely inducible
   by smoking and dietary components (cruciferous vegetables, chargrilled meat) and
   inhibited by fluvoxamine and ciprofloxacin.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/protein/cyp1a2/
+permalink: /entities/protein/cyp1a2/
 slug: cyp1a2
 tags:
 - protein
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: CYP1A2
 type: protein
-updated: '2026-03-29T06:30:14.965975Z'
+updated: '2026-04-14T12:09:05.498312Z'
 ---
 
 {% raw %}
@@ -40,16 +39,33 @@ updated: '2026-03-29T06:30:14.965975Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/gene/cyp3a4/" class="internal-link">CYP3A4</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/drug/caffeine/" class="internal-link">Caffeine</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/organ/liver/" class="internal-link">Liver</a></p>
-<h3>Metabolizes</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/drug/clozapine/" class="internal-link">Clozapine</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/drug/omeprazole/" class="internal-link">Omeprazole</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Liver</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Omeprazole</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Clozapine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Caffeine</a></p>
+<h3>Interacts With</h3>
+<p>INTERACTS_WITH::<a href="/entities/gene/cyp3a4/" class="internal-link">CYP3A4</a></p>
+<h3>Inhibited By</h3>
+<p>INHIBITED_BY::<a class="internal-link is-unresolved" href="/404">Fluvoxamine</a></p>
+<h3>Modulated By Supplement</h3>
+<p>MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Melatonin Supplement</a><br />
+MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Sulforaphane</a><br />
+MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Quercetin</a><br />
+MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Curcumin</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Sleep Disorder</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a></p>
 <h2>References</h2>
 <ul>
 <li>Zhou SF et al. Polymorphism of human cytochrome P450 enzymes and its clinical impact. Drug Metab Rev. 2009;41(2):89-295. PMID:19514967</li>
 <li>Faber MS et al. Assessment of CYP1A2 activity in clinical practice. Clin Pharmacokinet. 2005;44(12):1247-1266. PMID:16372823</li>
 </ul>
+<h3>Merged From gene</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Sleep Disorder</a><br />
+MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Curcumin</a><br />
+MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Melatonin Supplement</a><br />
+MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Quercetin</a><br />
+MODULATED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Sulforaphane</a></p>
 
 {% endraw %}

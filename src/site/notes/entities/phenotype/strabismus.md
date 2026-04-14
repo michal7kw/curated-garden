@@ -1,10 +1,9 @@
 ---
-created: '2026-03-29T06:30:14.916106Z'
+created: '2026-04-14T12:09:05.479929Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/phenotype/strabismus/
+permalink: /entities/phenotype/strabismus/
 slug: strabismus
 tags:
 - phenotype
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Strabismus
 type: phenotype
-updated: '2026-03-29T06:30:14.916106Z'
+updated: '2026-04-14T12:09:05.479929Z'
 ---
 
 {% raw %}
@@ -59,5 +58,8 @@ RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Incomit
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Monocular strabismus</a></p>
 <h3>Excludes Phenotype</h3>
 <p>EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Brown syndrome</a></p>
+<h3>Enriched</h3>
+<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Eyes</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a></p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-03-29T06:30:14.660455Z'
+created: '2026-04-14T12:09:05.381693Z'
 description: Everything in the MRI Scan with Spine, plus scans for signs of neurodegeneration
   in the brain and narrowing in the arteries of the head and neck, and provides a
   brain age analysis. Also includes body composition assessment (fat and muscle volume),
@@ -7,15 +7,14 @@ description: Everything in the MRI Scan with Spine, plus scans for signs of neur
   ACL, and MCL injuries).
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtestpanel/mri-scan-with-skeletal-neurological-assessment/
+permalink: /entities/labtestpanel/mri-scan-with-skeletal-neurological-assessment/
 slug: mri-scan-with-skeletal-neurological-assessment
 tags:
 - labtestpanel
 templateEngineOverride: njk
 title: mri_scan_with_skeletal_neurological_assessment
 type: labtestpanel
-updated: '2026-03-29T06:30:14.660455Z'
+updated: '2026-04-14T12:09:05.381693Z'
 ---
 
 {% raw %}
@@ -23,6 +22,7 @@ updated: '2026-03-29T06:30:14.660455Z'
 <h2>Overview</h2>
 <p>Everything in the MRI Scan with Spine, plus scans for signs of neurodegeneration in the brain and narrowing in the arteries of the head and neck, and provides a brain age analysis. Also includes body composition assessment (fat and muscle volume), hip evaluation (labrum, cartilage, and joint health), and knee scans (for meniscus, ACL, and MCL injuries).</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Spine</a></p>
 
 {% endraw %}

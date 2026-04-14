@@ -1,11 +1,10 @@
 ---
-created: '2026-03-29T06:30:13.555418Z'
+created: '2026-04-14T12:09:04.614201Z'
 description: A biomarker test that measures biological age through the analysis of
   IgG glycosylation patterns, indicating levels of chronic inflammation.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/glycanage/
+permalink: /entities/biomarker/glycanage/
 slug: glycanage
 tags:
 - biomarker
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: GlycanAge
 type: biomarker
-updated: '2026-03-29T06:30:13.555418Z'
+updated: '2026-04-14T12:09:04.614201Z'
 ---
 
 {% raw %}
@@ -23,17 +22,19 @@ updated: '2026-03-29T06:30:13.555418Z'
 <h2>Overview</h2>
 <p>A biomarker test that measures biological age through the analysis of IgG glycosylation patterns, indicating levels of chronic inflammation.</p>
 <h2>Relationships</h2>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Aging</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Inflammation</a></p>
 <h3>Affected By Supplement</h3>
 <ul>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> (supplement)</li>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/vitamin-d/" class="internal-link">Vitamin D</a> (supplement)</li>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/curcumin/" class="internal-link">Curcumin</a> (supplement)</li>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/probiotics/" class="internal-link">Probiotics</a> (supplement)</li>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/resveratrol/" class="internal-link">Resveratrol</a> (supplement)</li>
+<li>-&gt; <a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> (supplement)</li>
+<li>-&gt; <a href="/entities/labtest/vitamin-d/" class="internal-link">Vitamin D</a> (supplement)</li>
+<li>-&gt; <a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a> (supplement)</li>
+<li>-&gt; <a href="/entities/supplement/probiotics/" class="internal-link">Probiotics</a> (supplement)</li>
+<li>-&gt; <a href="/entities/supplement/resveratrol/" class="internal-link">Resveratrol</a> (supplement)</li>
 </ul>
 <h3>Measured By Test</h3>
 <ul>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/biological-age/" class="internal-link">biological age</a> (labtest)</li>
+<li>-&gt; <a href="/entities/labtest/biological-age/" class="internal-link">biological age</a> (labtest)</li>
 </ul>
 
 {% endraw %}

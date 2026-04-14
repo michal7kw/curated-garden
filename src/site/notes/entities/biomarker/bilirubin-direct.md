@@ -1,25 +1,25 @@
 ---
-created: '2026-03-29T06:30:13.506097Z'
+created: '2026-04-14T12:09:04.558656Z'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/bilirubin-direct/
+permalink: /entities/biomarker/bilirubin-direct/
 slug: bilirubin-direct
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Bilirubin Direct
 type: biomarker
-updated: '2026-03-29T06:30:13.506097Z'
+updated: '2026-04-14T12:09:04.558656Z'
 ---
 
 {% raw %}
 <h1>Bilirubin Direct</h1>
 <h2>Overview</h2>
 <h2>Relationships</h2>
+<p>INDICATES_ORGAN_HEALTH::<a class="internal-link is-unresolved" href="/404">Liver</a></p>
 <h3>Measured By Test</h3>
 <ul>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/biomarker/bilirubin/" class="internal-link">bilirubin</a> (labtest)</li>
+<li>-&gt; <a href="/entities/labtest/bilirubin/" class="internal-link">bilirubin</a> (labtest)</li>
 </ul>
 
 {% endraw %}

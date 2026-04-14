@@ -1,12 +1,11 @@
 ---
-created: '2026-03-29T06:30:14.097144Z'
+created: '2026-04-14T12:09:04.822884Z'
 description: Fortify immune defenses with well-researched nutrients. Vitamin D3 modulates
   innate and adaptive immunity, vitamin C supports neutrophil function, zinc is essential
   for T-cell development, and elderberry has antiviral properties.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/healthstack/immune-support/
+permalink: /entities/healthstack/immune-support/
 slug: immune-support
 tags:
 - healthstack
@@ -15,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Immune Support
 type: healthstack
-updated: '2026-03-29T06:30:14.097144Z'
+updated: '2026-04-14T12:09:04.822884Z'
 ---
 
 {% raw %}
@@ -43,7 +42,7 @@ updated: '2026-03-29T06:30:14.097144Z'
 <td>Activates antimicrobial peptides and modulates immune cell function</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/supplement/vitamin-c/" class="internal-link">Vitamin C</a></td>
+<td><a class="internal-link is-unresolved" href="/404">Vitamin C</a></td>
 <td>1000mg</td>
 <td>once daily</td>
 <td>morning</td>
@@ -78,7 +77,7 @@ updated: '2026-03-29T06:30:14.097144Z'
 </thead>
 <tbody>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a></td>
+<td><a href="/entities/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a></td>
 <td>30-100</td>
 <td>50-80</td>
 <td>ng/mL</td>
@@ -92,7 +91,7 @@ updated: '2026-03-29T06:30:14.097144Z'
 <td>Zinc deficiency impairs T-cell and NK cell function</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/biomarker/wbc/" class="internal-link">WBC</a></td>
+<td><a class="internal-link is-unresolved" href="/404">WBC</a></td>
 <td>4.5-11.0</td>
 <td>5.0-8.0</td>
 <td>K/uL</td>
@@ -105,6 +104,18 @@ updated: '2026-03-29T06:30:14.097144Z'
 <li>Immune</li>
 <li>General wellness</li>
 </ul>
+<h3>Contains Supplement</h3>
+<p>CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Vitamin D3</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Vitamin C</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Zinc Picolinate</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Elderberry Extract</a></p>
+<h2>Relationships</h2>
+<h3>Enriched</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Autoimmune Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a><br />
+INCLUDES_SUPPLEMENT::<a href="/entities/labtest/zinc/" class="internal-link">Zinc</a><br />
+INCLUDES_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Vitamin C</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>
 <hr />
 <p><strong>Difficulty:</strong> Beginner | <strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
 

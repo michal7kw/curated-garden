@@ -1,10 +1,9 @@
 ---
-created: '2026-03-29T06:30:15.002394Z'
+created: '2026-04-14T12:09:05.521707Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/protein/metal-ion-binding/
+permalink: /entities/protein/metal-ion-binding/
 slug: metal-ion-binding
 tags:
 - protein
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: metal ion binding
 type: protein
-updated: '2026-03-29T06:30:15.002394Z'
+updated: '2026-04-14T12:09:05.521707Z'
 ---
 
 {% raw %}
@@ -37,5 +36,9 @@ RELATED::<a class="internal-link is-unresolved" href="/404">alkali metal ion bin
 RELATED::<a class="internal-link is-unresolved" href="/404">cation binding</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">magnesium ion binding</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">calcium ion binding</a></p>
+<h3>Enriched</h3>
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/zinc/" class="internal-link">Zinc</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/magnesium/" class="internal-link">Magnesium</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/iron/" class="internal-link">Iron</a></p>
 
 {% endraw %}

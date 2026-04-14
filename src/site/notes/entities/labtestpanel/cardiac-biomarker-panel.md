@@ -1,19 +1,18 @@
 ---
-created: '2026-03-29T06:30:14.623118Z'
+created: '2026-04-14T12:09:05.342265Z'
 description: Evaluates cardiac injury and heart failure through key biomarkers including
   troponins for myocardial damage and natriuretic peptides for ventricular stress.
   Essential for emergency chest pain evaluation and heart failure monitoring.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtestpanel/cardiac-biomarker-panel/
+permalink: /entities/labtestpanel/cardiac-biomarker-panel/
 slug: cardiac-biomarker-panel
 tags:
 - labtestpanel
 templateEngineOverride: njk
 title: cardiac_biomarker_panel
 type: labtestpanel
-updated: '2026-03-29T06:30:14.623118Z'
+updated: '2026-04-14T12:09:05.342265Z'
 ---
 
 {% raw %}
@@ -22,10 +21,10 @@ updated: '2026-03-29T06:30:14.623118Z'
 <p>Evaluates cardiac injury and heart failure through key biomarkers including troponins for myocardial damage and natriuretic peptides for ventricular stress. Essential for emergency chest pain evaluation and heart failure monitoring.</p>
 <h2>Relationships</h2>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtest/nt-probnp/" class="internal-link">nt probnp</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtest/bnp/" class="internal-link">bnp</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/biomarker/creatine-kinase/" class="internal-link">Creatine Kinase</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtest/troponin-t-high-sensitivity/" class="internal-link">troponin t high sensitivity</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtest/troponin-i/" class="internal-link">troponin i</a></p>
+<p>INCLUDED_IN::<a href="/entities/labtest/nt-probnp/" class="internal-link">nt probnp</a><br />
+INCLUDED_IN::<a href="/entities/labtest/bnp/" class="internal-link">bnp</a><br />
+INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">Creatine Kinase</a><br />
+INCLUDED_IN::<a href="/entities/labtest/troponin-t-high-sensitivity/" class="internal-link">troponin t high sensitivity</a><br />
+INCLUDED_IN::<a href="/entities/labtest/troponin-i/" class="internal-link">troponin i</a></p>
 
 {% endraw %}

@@ -1,19 +1,18 @@
 ---
-created: '2026-03-29T06:30:14.260137Z'
+created: '2026-04-14T12:09:04.961019Z'
 description: Tested twice a year Evaluates the pigmentation of urine, which can range
   from pale yellow to dark amber. Variations in color may be influenced by hydration
   status, dietary intake, medication use, or various underlying medical conditions.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/color-urine/
+permalink: /entities/labtest/color-urine/
 slug: color-urine
 tags:
 - labtest
 templateEngineOverride: njk
 title: color_urine
 type: labtest
-updated: '2026-03-29T06:30:14.260137Z'
+updated: '2026-04-14T12:09:04.961019Z'
 ---
 
 {% raw %}
@@ -66,6 +65,9 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Urinary Tract Infect
 RELATED::<a class="internal-link is-unresolved" href="/404">Liver Dysfunction</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a></p>
+<h3>Enriched</h3>
+<p>ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Kidneys</a><br />
+INDICATES::<a class="internal-link is-unresolved" href="/404">Chronic Kidney Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

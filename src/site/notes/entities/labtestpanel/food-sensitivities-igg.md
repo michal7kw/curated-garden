@@ -1,5 +1,5 @@
 ---
-created: '2026-03-29T06:30:14.643866Z'
+created: '2026-04-14T12:09:05.363722Z'
 description: Food-specific IgG testing identifies immunoglobulin G (IgG) responses
   associated with potential food sensitivities or intolerances. Unlike IgE-mediated
   allergies, which cause immediate reactions, IgG responses are linked to delayed
@@ -11,15 +11,14 @@ description: Food-specific IgG testing identifies immunoglobulin G (IgG) respons
   Cacao Sensitivity
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtestpanel/food-sensitivities-igg/
+permalink: /entities/labtestpanel/food-sensitivities-igg/
 slug: food-sensitivities-igg
 tags:
 - labtestpanel
 templateEngineOverride: njk
 title: food_sensitivities_igg
 type: labtestpanel
-updated: '2026-03-29T06:30:14.643866Z'
+updated: '2026-04-14T12:09:05.363722Z'
 ---
 
 {% raw %}
@@ -27,6 +26,7 @@ updated: '2026-03-29T06:30:14.643866Z'
 <h2>Overview</h2>
 <p>Food-specific IgG testing identifies immunoglobulin G (IgG) responses associated with potential food sensitivities or intolerances. Unlike IgE-mediated allergies, which cause immediate reactions, IgG responses are linked to delayed reactions. These responses may help identify foods that contribute to chronic inflammation, digestive issues, and conditions such as irritable bowel syndrome (IBS), migraines, and certain autoimmune diseases Included biomarkers (11) Codfish Sensitivity Wheat Sensitivity Soybean Sensitivity Peanut Sensitivity Egg White Sensitivity Yeast Sensitivity Maize / Corn Sensitivity Coffee Sensitivity Casein Sensitivity Tomato Sensitivity Cacao Sensitivity</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Allergy</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Leaky Gut</a></p>
 
 {% endraw %}

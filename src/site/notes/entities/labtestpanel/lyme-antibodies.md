@@ -1,5 +1,5 @@
 ---
-created: '2026-03-29T06:30:14.657857Z'
+created: '2026-04-14T12:09:05.377866Z'
 description: These tests identify antibodies associated with tick-borne infections
   like Lyme disease, babesiosis (caused by Babesia), ehrlichiosis (caused by Ehrlichia),
   anaplasmosis (caused by Anaplasma), and Bartonella-related diseases, detecting both
@@ -21,15 +21,14 @@ description: These tests identify antibodies associated with tick-borne infectio
   Phagocytophilum Antibodies (IgG) Lyme Antibody Screen
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtestpanel/lyme-antibodies/
+permalink: /entities/labtestpanel/lyme-antibodies/
 slug: lyme-antibodies
 tags:
 - labtestpanel
 templateEngineOverride: njk
 title: lyme_antibodies
 type: labtestpanel
-updated: '2026-03-29T06:30:14.657857Z'
+updated: '2026-04-14T12:09:05.377866Z'
 ---
 
 {% raw %}
@@ -37,6 +36,6 @@ updated: '2026-03-29T06:30:14.657857Z'
 <h2>Overview</h2>
 <p>These tests identify antibodies associated with tick-borne infections like Lyme disease, babesiosis (caused by Babesia), ehrlichiosis (caused by Ehrlichia), anaplasmosis (caused by Anaplasma), and Bartonella-related diseases, detecting both recent exposure and active infections. These tests measure IgM antibodies, which indicate a recent or active infection, and IgG antibodies, which show past exposure and may remain detectable even after the infection resolves. Tick-borne diseases are often hard to diagnose because their symptoms can mimic other conditions, such as the flu, lupus, rheumatoid arthritis, or multiple sclerosis. Early detection through testing is important to ensure timely treatment and prevent complications like chronic Lyme disease or lasting neurological damage. Included biomarkers (20) Bartonella Quintana Antibodies (IgM), Titer Bartonella Quintana Antibodies (IgG), Titer Bartonella Henselae Antibodies (IgM), Titer Bartonella Henselae Antibodies (IgG), Titer Lyme Disease AB (IgM), Blot Lyme Disease AB (IgG), Blot Anaplasma Phagocytophilum Antibodies (IgM) Babesia Microti Antibodies (IgM) Bartonella Henselae Antibodies (IgM) Bartonella Quintana Antibodies (IgM) Borrelia Miyamotoi Antibodies (IgG) Ehrlichia Chaffeensis Antibodies (IgM) Ehrlichia Chaffeensis Antibodies (IgG) Borrelia Miyamotoi Antibodies (IgM) Bartonella Quintana Antibodies (IgG) Bartonella Henselae Antibodies (IgG) Babesia Microti Antibodies (IgG) Babesia Duncani (WA1) Antibody (IgG) Anaplasma Phagocytophilum Antibodies (IgG) Lyme Antibody Screen</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Inflammation</a></p>
 
 {% endraw %}

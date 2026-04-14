@@ -1,18 +1,17 @@
 ---
-created: '2026-03-29T06:30:14.431439Z'
+created: '2026-04-14T12:09:05.151572Z'
 description: Tests C677T and A1298C variants affecting folate metabolism and homocysteine
   levels.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/mthfr-genotype/
+permalink: /entities/labtest/mthfr-genotype/
 slug: mthfr-genotype
 tags:
 - labtest
 templateEngineOverride: njk
 title: mthfr_genotype
 type: labtest
-updated: '2026-03-29T06:30:14.431439Z'
+updated: '2026-04-14T12:09:05.151572Z'
 ---
 
 {% raw %}
@@ -54,8 +53,8 @@ updated: '2026-03-29T06:30:14.431439Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/mthfr-c677t/" class="internal-link">mthfr c677t</a></li>
-<li><a href="/garden/michal.k7w@gmail.com/biomarker/mthfr-a1298c/" class="internal-link">mthfr a1298c</a></li>
+<li><a href="/entities/biomarker/mthfr-c677t/" class="internal-link">mthfr c677t</a></li>
+<li><a href="/entities/biomarker/mthfr-a1298c/" class="internal-link">mthfr a1298c</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -66,8 +65,12 @@ updated: '2026-03-29T06:30:14.431439Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/mthfr-a1298c/" class="internal-link">mthfr a1298c</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/biomarker/mthfr-c677t/" class="internal-link">mthfr c677t</a></p>
+<p>RELATED::<a href="/entities/biomarker/mthfr-a1298c/" class="internal-link">mthfr a1298c</a><br />
+RELATED::<a href="/entities/biomarker/mthfr-c677t/" class="internal-link">mthfr c677t</a></p>
+<h3>Enriched</h3>
+<p>ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">COMT</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/folate/" class="internal-link">Folate</a><br />
+INDICATES::<a class="internal-link is-unresolved" href="/404">B Vitamin Deficiency</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

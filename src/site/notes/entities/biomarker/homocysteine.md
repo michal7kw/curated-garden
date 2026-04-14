@@ -1,19 +1,18 @@
 ---
-created: '2026-03-29T06:30:13.562076Z'
+created: '2026-04-14T12:09:04.638790Z'
 description: A sulfur-containing amino acid produced during methionine metabolism.
   Elevated levels are a risk factor for cardiovascular disease, cognitive decline,
   and neural tube defects.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/homocysteine/
+permalink: /entities/biomarker/homocysteine/
 slug: homocysteine
 tags:
 - biomarker
 templateEngineOverride: njk
 title: Homocysteine
 type: biomarker
-updated: '2026-03-29T06:30:13.562076Z'
+updated: '2026-04-14T12:09:04.638790Z'
 ---
 
 {% raw %}
@@ -22,38 +21,38 @@ updated: '2026-03-29T06:30:13.562076Z'
 <p>A sulfur-containing amino acid produced during methionine metabolism. Elevated levels are a risk factor for cardiovascular disease, cognitive decline, and neural tube defects.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/intervention/mediterranean-diet/" class="internal-link">Mediterranean Diet</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/folate/" class="internal-link">Folate</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/vitamin-b12/" class="internal-link">Vitamin B12</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Vitamin B6</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Vascular Dementia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Mediterranean Diet</a><br />
+RELATED::<a href="/entities/labtest/folate/" class="internal-link">Folate</a><br />
+RELATED::<a href="/entities/labtest/vitamin-b12/" class="internal-link">Vitamin B12</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a></p>
 <h3>Converted To</h3>
 <p>CONVERTED_TO::<a class="internal-link is-unresolved" href="/404">Methionine</a><br />
-CONVERTED_TO::<a href="/garden/michal.k7w@gmail.com/supplement/glutathione/" class="internal-link">Glutathione</a></p>
+CONVERTED_TO::<a href="/entities/labtest/glutathione/" class="internal-link">Glutathione</a></p>
 <h3>Increased By</h3>
 <p>INCREASED_BY::<a class="internal-link is-unresolved" href="/404">Folate Deficiency</a><br />
 INCREASED_BY::<a class="internal-link is-unresolved" href="/404">Vitamin B12 Deficiency</a><br />
-INCREASED_BY::<a href="/garden/michal.k7w@gmail.com/labtestpanel/mthfr-gene/" class="internal-link">MTHFR Gene</a></p>
+INCREASED_BY::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">MTHFR Gene</a></p>
 <h3>Indicates Organ Health</h3>
-<p>INDICATES_ORGAN_HEALTH::<a href="/garden/michal.k7w@gmail.com/organ/blood/" class="internal-link">Blood</a></p>
+<p>INDICATES_ORGAN_HEALTH::<a class="internal-link is-unresolved" href="/404">Blood</a></p>
 <h3>Associated With Condition</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Alzheimers Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/osteoporosis/" class="internal-link">Osteoporosis</a></p>
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Osteoporosis</a></p>
 <h3>Produced From</h3>
 <p>PRODUCED_FROM::<a class="internal-link is-unresolved" href="/404">Methionine</a></p>
 <h3>Affected By Supplement</h3>
 <ul>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/vitamin-b12/" class="internal-link">Vitamin B12</a> (supplement)</li>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/folate/" class="internal-link">Folate</a> (supplement)</li>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a> (supplement)</li>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/b-complex-vitamins/" class="internal-link">B-Complex Vitamins</a> (supplement)</li>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/nac/" class="internal-link">NAC</a> (supplement)</li>
+<li>-&gt; <a href="/entities/labtest/vitamin-b12/" class="internal-link">Vitamin B12</a> (supplement)</li>
+<li>-&gt; <a href="/entities/labtest/folate/" class="internal-link">Folate</a> (supplement)</li>
+<li>-&gt; <a href="/entities/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a> (supplement)</li>
+<li>-&gt; <a href="/entities/supplement/b-complex-vitamins/" class="internal-link">B-Complex Vitamins</a> (supplement)</li>
+<li>-&gt; <a href="/entities/supplement/nac/" class="internal-link">NAC</a> (supplement)</li>
 </ul>
 <h3>Measured By Test</h3>
 <ul>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/homocysteine/" class="internal-link">homocysteine</a> (labtest)</li>
+<li>-&gt; <a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a> (labtest)</li>
 </ul>
 
 {% endraw %}

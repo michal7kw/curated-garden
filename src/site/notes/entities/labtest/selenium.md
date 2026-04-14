@@ -1,20 +1,19 @@
 ---
-created: '2026-03-29T06:30:14.516342Z'
+created: '2026-04-14T12:09:05.244993Z'
 description: Selenium test measures this essential trace mineral in blood. Selenium
   is a critical component of selenoproteins including glutathione peroxidases, thioredoxin
   reductases, and iodothyronine deiodinases. It plays vital roles in antioxidant defense,
   thyroid hormone metabolism, and immune function.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/selenium/
+permalink: /entities/labtest/selenium/
 slug: selenium
 tags:
 - labtest
 templateEngineOverride: njk
 title: selenium
 type: labtest
-updated: '2026-03-29T06:30:14.516342Z'
+updated: '2026-04-14T12:09:05.244993Z'
 ---
 
 {% raw %}
@@ -56,7 +55,7 @@ updated: '2026-03-29T06:30:14.516342Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/supplement/selenium/" class="internal-link">selenium</a></li>
+<li><a href="/entities/labtest/selenium/" class="internal-link">selenium</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -67,9 +66,13 @@ updated: '2026-03-29T06:30:14.516342Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related Tests</h3>
-<p>RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/thyroid-stimulating-hormone-tsh/" class="internal-link">thyroid stimulating hormone tsh</a><br />
-RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/thyroid-peroxidase-antibodies-tpo/" class="internal-link">thyroid peroxidase antibodies tpo</a><br />
-RELATED_TESTS::<a href="/garden/michal.k7w@gmail.com/labtest/zinc-serum/" class="internal-link">zinc serum</a></p>
+<p>RELATED_TESTS::<a href="/entities/labtest/thyroid-stimulating-hormone-tsh/" class="internal-link">thyroid stimulating hormone tsh</a><br />
+RELATED_TESTS::<a href="/entities/labtest/thyroid-peroxidase-antibodies-tpo/" class="internal-link">thyroid peroxidase antibodies tpo</a><br />
+RELATED_TESTS::<a href="/entities/labtest/zinc-serum/" class="internal-link">zinc serum</a></p>
+<h3>Enriched</h3>
+<p>MEASURES::<a href="/entities/labtest/selenium/" class="internal-link">Selenium</a><br />
+ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Thyroid</a><br />
+INDICATES::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

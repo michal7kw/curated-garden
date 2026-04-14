@@ -1,5 +1,5 @@
 ---
-created: '2026-03-29T06:30:14.451309Z'
+created: '2026-04-14T12:09:05.171068Z'
 description: 'oh-MAY-guh three: D-H-A Docosahexaenoic acid (DHA) is a long-chain omega-3
   fatty acid essential for brain, eye, and nervous system function. It supports cognitive
   and visual health and helps maintain the structure and flexibility of cell membranes.
@@ -7,15 +7,14 @@ description: 'oh-MAY-guh three: D-H-A Docosahexaenoic acid (DHA) is a long-chain
   role in long-term brain and metabolic health.'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/omega-3-dha/
+permalink: /entities/labtest/omega-3-dha/
 slug: omega-3-dha
 tags:
 - labtest
 templateEngineOverride: njk
 title: omega_3_dha
 type: labtest
-updated: '2026-03-29T06:30:14.451309Z'
+updated: '2026-04-14T12:09:05.171068Z'
 ---
 
 {% raw %}
@@ -63,11 +62,15 @@ updated: '2026-03-29T06:30:14.451309Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/mthfr-gene/" class="internal-link">mthfr gene</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended vitamins minerals nutrients</a></p>
+<p>INCLUDED_IN::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">mthfr gene</a><br />
+INCLUDED_IN::<a href="/entities/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended vitamins minerals nutrients</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended vitamins minerals nutrients</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/mthfr-gene/" class="internal-link">mthfr gene</a></p>
+<p>RELATED::<a href="/entities/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended vitamins minerals nutrients</a><br />
+RELATED::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">mthfr gene</a></p>
+<h3>Enriched</h3>
+<p>ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Omega-3 Fatty Acids</a><br />
+INDICATES::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation</a><br />
+INDICATES::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

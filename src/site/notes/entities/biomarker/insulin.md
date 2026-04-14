@@ -1,58 +1,40 @@
 ---
-created: '2026-03-29T06:30:13.567776Z'
-description: Peptide hormone produced by pancreatic beta cells that regulates glucose
-  metabolism, enabling cells to absorb glucose from the bloodstream for energy production
-  or storage.
+created: '2026-04-14T12:09:04.642819Z'
+description: Tested twice a year Insulin is a hormone that acts like a key, helping
+  sugar in the blood move into cells for energy. Unlike glucose, insulin isn’t routinely
+  tested in standard checkups, but measuring it can sometimes detect signs of diabetes
+  risk even earlier. High insulin levels may mean the body is becoming resistant to
+  insulin, raising the risk for type 2 diabetes, while very low levels may suggest
+  the pancreas isn't making enough, as in type 1 diabetes. Tracking both insulin and
+  glucose gives a fuller picture of metabolic health.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/biomarker/insulin/
+permalink: /entities/biomarker/insulin/
 slug: insulin
 tags:
 - biomarker
-- hormone
-- peptide
-- metabolic
-- glucose_regulation
-- pancreas
 templateEngineOverride: njk
 title: Insulin
 type: biomarker
-updated: '2026-03-29T06:30:13.567776Z'
+updated: '2026-04-14T12:09:04.642819Z'
 ---
 
 {% raw %}
 <h1>Insulin</h1>
 <h2>Overview</h2>
-<p>Peptide hormone produced by pancreatic beta cells that regulates glucose metabolism, enabling cells to absorb glucose from the bloodstream for energy production or storage.</p>
+<p>Tested twice a year Insulin is a hormone that acts like a key, helping sugar in the blood move into cells for energy. Unlike glucose, insulin isn’t routinely tested in standard checkups, but measuring it can sometimes detect signs of diabetes risk even earlier. High insulin levels may mean the body is becoming resistant to insulin, raising the risk for type 2 diabetes, while very low levels may suggest the pancreas isn't making enough, as in type 1 diabetes. Tracking both insulin and glucose gives a fuller picture of metabolic health.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/berberine/" class="internal-link">Berberine</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/homa-ir/" class="internal-link">homa ir</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/magnesium/" class="internal-link">Magnesium</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/fasting-insulin/" class="internal-link">fasting insulin</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/organ/pancreas/" class="internal-link">Pancreas</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/gene/akt1/" class="internal-link">AKT1</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/vitamin-d/" class="internal-link">Vitamin D</a></p>
-<h3>Indicates Organ Health</h3>
-<p>INDICATES_ORGAN_HEALTH::<a href="/garden/michal.k7w@gmail.com/organ/pancreas/" class="internal-link">Pancreas</a></p>
-<h3>Indicates Function Of</h3>
-<p>INDICATES_FUNCTION_OF::<a href="/garden/michal.k7w@gmail.com/organ/pancreas/" class="internal-link">Pancreas</a></p>
-<h3>Affected By Supplement</h3>
-<ul>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/berberine/" class="internal-link">Berberine</a> (supplement)</li>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/chromium/" class="internal-link">Chromium</a> (supplement)</li>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a> (supplement)</li>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/supplement/vitamin-d/" class="internal-link">Vitamin D</a> (supplement)</li>
-</ul>
-<h3>Measured By Test</h3>
-<ul>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/insulin/" class="internal-link">insulin</a> (labtest)</li>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/fasting-insulin/" class="internal-link">fasting insulin</a> (labtest)</li>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/homa-ir/" class="internal-link">homa ir</a> (labtest)</li>
-<li>-&gt; <a href="/garden/michal.k7w@gmail.com/labtest/c-peptide/" class="internal-link">c peptide</a> (labtest)</li>
-</ul>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Mafld_Metabolic_Dysfunction-Associated_Fatty_Liver_Disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Insulin_Resistance</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic_Syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Type_2_Diabetes</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Pcos_Polycystic_Ovary_Syndrome</a></p>
+<h3>May Detect</h3>
+<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Metabolic_Syndrome</a><br />
+MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Insulin_Resistance</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Insulin_Resistance</a></p>
+<h2>References</h2>
 
 {% endraw %}

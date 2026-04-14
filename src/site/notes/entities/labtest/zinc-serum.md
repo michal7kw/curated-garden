@@ -1,17 +1,16 @@
 ---
-created: '2026-03-29T06:30:14.609512Z'
+created: '2026-04-14T12:09:05.328449Z'
 description: Essential mineral for immune function, wound healing, and enzyme activity.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/zinc-serum/
+permalink: /entities/labtest/zinc-serum/
 slug: zinc-serum
 tags:
 - labtest
 templateEngineOverride: njk
 title: zinc_serum
 type: labtest
-updated: '2026-03-29T06:30:14.609512Z'
+updated: '2026-04-14T12:09:05.328449Z'
 ---
 
 {% raw %}
@@ -60,7 +59,7 @@ updated: '2026-03-29T06:30:14.609512Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/supplement/zinc/" class="internal-link">zinc</a></li>
+<li><a href="/entities/labtest/zinc/" class="internal-link">zinc</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -71,7 +70,7 @@ updated: '2026-03-29T06:30:14.609512Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/supplement/zinc/" class="internal-link">zinc</a></p>
+<p>RELATED::<a href="/entities/labtest/zinc/" class="internal-link">zinc</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

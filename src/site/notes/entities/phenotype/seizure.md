@@ -1,10 +1,9 @@
 ---
-created: '2026-03-29T06:30:14.911387Z'
+created: '2026-04-14T12:09:05.473561Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/phenotype/seizure/
+permalink: /entities/phenotype/seizure/
 slug: seizure
 tags:
 - phenotype
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Seizure
 type: phenotype
-updated: '2026-03-29T06:30:14.911387Z'
+updated: '2026-04-14T12:09:05.473561Z'
 ---
 
 {% raw %}
@@ -51,5 +50,9 @@ RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Focal-o
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Maternal seizure</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Symptomatic seizures</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Abnormal nervous system physiology</a></p>
+<h3>Enriched</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Epilepsy</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a><br />
+ASSOCIATED_WITH::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a></p>
 
 {% endraw %}

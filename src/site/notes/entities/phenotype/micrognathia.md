@@ -1,10 +1,9 @@
 ---
-created: '2026-03-29T06:30:14.897540Z'
+created: '2026-04-14T12:09:05.470425Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/phenotype/micrognathia/
+permalink: /entities/phenotype/micrognathia/
 slug: micrognathia
 tags:
 - phenotype
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Micrognathia
 type: phenotype
-updated: '2026-03-29T06:30:14.897540Z'
+updated: '2026-04-14T12:09:05.470425Z'
 ---
 
 {% raw %}
@@ -69,5 +68,7 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Baraitser-Winter cer
 <p>RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Hypoplasia of mandible relative to maxilla</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">AplasiaHypoplasia of the mandible</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Short mandibular rami</a></p>
+<h3>Enriched</h3>
+<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Bones</a></p>
 
 {% endraw %}

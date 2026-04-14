@@ -1,10 +1,9 @@
 ---
-created: '2026-03-29T06:30:14.865279Z'
+created: '2026-04-14T12:09:05.440404Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/phenotype/autosomal-recessive-inheritance/
+permalink: /entities/phenotype/autosomal-recessive-inheritance/
 slug: autosomal-recessive-inheritance
 tags:
 - phenotype
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Autosomal recessive inheritance
 type: phenotype
-updated: '2026-03-29T06:30:14.865279Z'
+updated: '2026-04-14T12:09:05.440404Z'
 ---
 
 {% raw %}
@@ -69,5 +68,8 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Greenberg dysplasia<
 <h3>Related To Phenotype</h3>
 <p>RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Mode of inheritance</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Sex-limited autosomal recessive inheritance</a></p>
+<h3>Enriched</h3>
+<p>ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">COMT</a><br />
+ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">VDR</a></p>
 
 {% endraw %}

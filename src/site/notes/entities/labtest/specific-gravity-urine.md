@@ -1,20 +1,19 @@
 ---
-created: '2026-03-29T06:30:14.527620Z'
+created: '2026-04-14T12:09:05.256688Z'
 description: Tested twice a year Urine specific gravity measures how concentrated
   or diluted urine is compared to water, providing insight into hydration status and
   kidney function. Abnormal readings—either too low or too high—can be associated
   with conditions such as dehydration, kidney stones, or impaired kidney function.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/specific-gravity-urine/
+permalink: /entities/labtest/specific-gravity-urine/
 slug: specific-gravity-urine
 tags:
 - labtest
 templateEngineOverride: njk
 title: specific_gravity_urine
 type: labtest
-updated: '2026-03-29T06:30:14.527620Z'
+updated: '2026-04-14T12:09:05.256688Z'
 ---
 
 {% raw %}
@@ -62,15 +61,15 @@ updated: '2026-03-29T06:30:14.527620Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/urinary-concentration-imbalance/" class="internal-link">Urinary Concentration Imbalance</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Urinary Concentration Imbalance</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Overhydration</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic Dysfunction</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Dysfunction</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/urinary-concentration-imbalance/" class="internal-link">Urinary Concentration Imbalance</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Urinary Concentration Imbalance</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/urinary-concentration-imbalance/" class="internal-link">Urinary Concentration Imbalance</a></p>
+<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Urinary Concentration Imbalance</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

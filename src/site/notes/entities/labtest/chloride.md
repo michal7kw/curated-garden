@@ -1,13 +1,12 @@
 ---
-created: '2026-03-29T06:30:14.259014Z'
+created: '2026-04-14T12:09:04.958745Z'
 description: Tested twice a year Chloride is an electrolyte that partners with sodium
   to maintain fluid balance, blood pressure, and pH stability in the body. It plays
   a role in digestion by forming hydrochloric acid in the stomach and helps nerves
   and muscles function smoothly.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/chloride/
+permalink: /entities/labtest/chloride/
 slug: chloride
 tags:
 - labtest
@@ -16,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: chloride
 type: labtest
-updated: '2026-03-29T06:30:14.259014Z'
+updated: '2026-04-14T12:09:04.958745Z'
 ---
 
 {% raw %}
@@ -64,18 +63,18 @@ updated: '2026-03-29T06:30:14.259014Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/adrenal-disease/" class="internal-link">Adrenal Disease</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Adrenal Disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Kidney Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic Acidosis Or Alkalosis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Gastroenteritis</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive metabolic panel</a></p>
+RELATED::<a href="/entities/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive metabolic panel</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/adrenal-disease/" class="internal-link">Adrenal Disease</a><br />
-MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></p>
+<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Adrenal Disease</a><br />
+MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Chronic Kidney Disease</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/adrenal-disease/" class="internal-link">Adrenal Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Adrenal Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Kidney Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

@@ -1,13 +1,12 @@
 ---
-created: '2026-03-29T06:30:14.091772Z'
+created: '2026-04-14T12:09:04.811738Z'
 description: Optimize the gut microbiome and intestinal barrier integrity with targeted
   probiotics, prebiotics, and gut-healing compounds. A healthy gut is foundational
   to immune function, mental health (gut-brain axis), nutrient absorption, and systemic
   inflammation control.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/healthstack/gut-health/
+permalink: /entities/healthstack/gut-health/
 slug: gut-health
 tags:
 - healthstack
@@ -18,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Gut Health
 type: healthstack
-updated: '2026-03-29T06:30:14.091772Z'
+updated: '2026-04-14T12:09:04.811738Z'
 ---
 
 {% raw %}
@@ -109,6 +108,19 @@ updated: '2026-03-29T06:30:14.091772Z'
 <li>Immune</li>
 <li>Inflammation</li>
 </ul>
+<h3>Contains Supplement</h3>
+<p>CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Probiotic (Multi-Strain)</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">L-Glutamine</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Psyllium Husk</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Zinc Carnosine</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Omega-3 Fish Oil</a></p>
+<h2>Relationships</h2>
+<h3>Enriched</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Irritable Bowel Syndrome</a><br />
+INCLUDES_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Probiotics</a><br />
+INCLUDES_SUPPLEMENT::<a href="/entities/labtest/zinc/" class="internal-link">Zinc</a><br />
+AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Calprotectin</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Gut</a></p>
 <hr />
 <p><strong>Difficulty:</strong> Intermediate | <strong>Evidence Level:</strong> ⭐⭐⭐⭐ (4/5)</p>
 

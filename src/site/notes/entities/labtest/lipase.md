@@ -1,5 +1,5 @@
 ---
-created: '2026-03-29T06:30:14.392596Z'
+created: '2026-04-14T12:09:05.107896Z'
 description: Lipase is a digestive enzyme made by the pancreas that helps break down
   dietary fats. Elevated levels can indicate pancreatic stress or inflammation (pancreatitis)
   and may also be associated with conditions affecting the pancreas, gallbladder,
@@ -7,8 +7,7 @@ description: Lipase is a digestive enzyme made by the pancreas that helps break 
   picture of pancreatic health.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/lipase/
+permalink: /entities/labtest/lipase/
 slug: lipase
 tags:
 - labtest
@@ -17,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: lipase
 type: labtest
-updated: '2026-03-29T06:30:14.392596Z'
+updated: '2026-04-14T12:09:05.107896Z'
 ---
 
 {% raw %}
@@ -66,14 +65,14 @@ updated: '2026-03-29T06:30:14.392596Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Stomach Flu Gastroenteritis</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/gallbladder-disease/" class="internal-link">Gallbladder Disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Gallbladder Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Pancreatitis Acute Or Chronic</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Bowel Blockage Or Perforation</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/gallbladder-disease/" class="internal-link">Gallbladder Disease</a></p>
+<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Gallbladder Disease</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/gallbladder-disease/" class="internal-link">Gallbladder Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Gallbladder Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

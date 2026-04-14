@@ -1,5 +1,5 @@
 ---
-created: '2026-03-29T06:30:14.615621Z'
+created: '2026-04-14T12:09:05.335062Z'
 description: Assess risk of Alzheimer’s disease with advanced biomarkers for early
   detection and prevention. Tests, such as the beta-amyloid 42/40 (Aβ42/40) ratio
   and phosphorylated tau217 (p-tau217), provide key insights into the risk of developing
@@ -9,15 +9,14 @@ description: Assess risk of Alzheimer’s disease with advanced biomarkers for e
   Beta 40 Beta-Amyloid 42/40 Ratio
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtestpanel/alzheimer-s-detection/
+permalink: /entities/labtestpanel/alzheimer-s-detection/
 slug: alzheimer-s-detection
 tags:
 - labtestpanel
 templateEngineOverride: njk
 title: alzheimer_s_detection
 type: labtestpanel
-updated: '2026-03-29T06:30:14.615621Z'
+updated: '2026-04-14T12:09:05.335062Z'
 ---
 
 {% raw %}
@@ -25,6 +24,6 @@ updated: '2026-03-29T06:30:14.615621Z'
 <h2>Overview</h2>
 <p>Assess risk of Alzheimer’s disease with advanced biomarkers for early detection and prevention. Tests, such as the beta-amyloid 42/40 (Aβ42/40) ratio and phosphorylated tau217 (p-tau217), provide key insights into the risk of developing Alzheimer’s disease (AD), enabling early detection before significant symptoms arise, differentiation from other neurodegenerative conditions like Parkinson's disease, and monitoring of disease progression. Included biomarkers (4) Amyloid Beta 42 Amyloid Beta 40 Beta-Amyloid 42/40 Ratio</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Alzheimer's Disease</a></p>
 
 {% endraw %}

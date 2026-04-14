@@ -1,5 +1,5 @@
 ---
-created: '2026-03-29T06:30:14.400910Z'
+created: '2026-04-14T12:09:05.118842Z'
 description: Luteinizing hormone (LH) is produced by the pituitary gland in the brain.
   In females, it helps regulate the menstrual cycle, triggers ovulation (the release
   of a mature egg), and supports early pregnancy by stimulating the ovaries to produce
@@ -9,15 +9,14 @@ description: Luteinizing hormone (LH) is produced by the pituitary gland in the 
   since these medications alter natural LH levels and make the results less meaningful.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/luteinizing-hormone/
+permalink: /entities/labtest/luteinizing-hormone/
 slug: luteinizing-hormone
 tags:
 - labtest
 templateEngineOverride: njk
 title: luteinizing_hormone
 type: labtest
-updated: '2026-03-29T06:30:14.400910Z'
+updated: '2026-04-14T12:09:05.118842Z'
 ---
 
 {% raw %}
@@ -65,22 +64,22 @@ updated: '2026-03-29T06:30:14.400910Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/hormonal-imbalance/" class="internal-link">Hormonal Imbalance</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Hormonal Imbalance</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Perimenopause Or Menopause</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-hormone-health/" class="internal-link">extended hormone health</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/ovarian-dysfunction/" class="internal-link">Ovarian Dysfunction</a><br />
+RELATED::<a href="/entities/labtestpanel/extended-hormone-health/" class="internal-link">extended hormone health</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Ovarian Dysfunction</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Polycystic Ovary Syndrome Pcos</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy hcg</a><br />
+RELATED::<a href="/entities/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy hcg</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Pituitary Dysfunction</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy hcg</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-hormone-health/" class="internal-link">extended hormone health</a></p>
+<p>INCLUDED_IN::<a href="/entities/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy hcg</a><br />
+INCLUDED_IN::<a href="/entities/labtestpanel/extended-hormone-health/" class="internal-link">extended hormone health</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/ovarian-dysfunction/" class="internal-link">Ovarian Dysfunction</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/hormonal-imbalance/" class="internal-link">Hormonal Imbalance</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Ovarian Dysfunction</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Hormonal Imbalance</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/ovarian-dysfunction/" class="internal-link">Ovarian Dysfunction</a><br />
-MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/hormonal-imbalance/" class="internal-link">Hormonal Imbalance</a></p>
+<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Ovarian Dysfunction</a><br />
+MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Hormonal Imbalance</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

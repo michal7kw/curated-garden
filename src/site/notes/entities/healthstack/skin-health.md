@@ -1,13 +1,12 @@
 ---
-created: '2026-03-29T06:30:14.102842Z'
+created: '2026-04-14T12:09:04.838150Z'
 description: Support skin integrity, collagen production, and protection against UV
   damage and aging with targeted antioxidants, collagen precursors, and photoprotective
   compounds. Skin is the body's largest organ and a visible indicator of internal
   health — nutritional support works synergistically with topical care.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/healthstack/skin-health/
+permalink: /entities/healthstack/skin-health/
 slug: skin-health
 tags:
 - healthstack
@@ -18,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Skin Health
 type: healthstack
-updated: '2026-03-29T06:30:14.102842Z'
+updated: '2026-04-14T12:09:04.838150Z'
 ---
 
 {% raw %}
@@ -46,7 +45,7 @@ updated: '2026-03-29T06:30:14.102842Z'
 <td>Hydrolyzed collagen stimulates fibroblast collagen and elastin production — improves skin elasticity and hydration</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/supplement/vitamin-c/" class="internal-link">Vitamin C</a></td>
+<td><a class="internal-link is-unresolved" href="/404">Vitamin C</a></td>
 <td>1000mg</td>
 <td>once daily</td>
 <td>with meals</td>
@@ -67,7 +66,7 @@ updated: '2026-03-29T06:30:14.102842Z'
 <td>EPA reduces UV-induced prostaglandin E2 production (photoprotection) and supports skin barrier lipids</td>
 </tr>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/supplement/zinc/" class="internal-link">Zinc</a></td>
+<td><a href="/entities/labtest/zinc/" class="internal-link">Zinc</a></td>
 <td>15mg</td>
 <td>once daily</td>
 <td>with meals</td>
@@ -88,7 +87,7 @@ updated: '2026-03-29T06:30:14.102842Z'
 </thead>
 <tbody>
 <tr>
-<td><a href="/garden/michal.k7w@gmail.com/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a></td>
+<td><a href="/entities/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a></td>
 <td>30-100</td>
 <td>50-80</td>
 <td>ng/mL</td>
@@ -109,6 +108,19 @@ updated: '2026-03-29T06:30:14.102842Z'
 <li>Anti-Aging</li>
 <li>Antioxidant</li>
 </ul>
+<h3>Contains Supplement</h3>
+<p>CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Collagen Peptides (Type I/III)</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Vitamin C</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Astaxanthin</a><br />
+CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Omega-3 Fish Oil</a><br />
+CONTAINS_SUPPLEMENT::<a href="/entities/labtest/zinc/" class="internal-link">Zinc</a></p>
+<h2>Relationships</h2>
+<h3>Enriched</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Acne Vulgaris</a><br />
+INCLUDES_SUPPLEMENT::<a href="/entities/labtest/zinc/" class="internal-link">Zinc</a><br />
+INCLUDES_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Omega-3 Fatty Acids</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/vitamin-d/" class="internal-link">Vitamin D</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Skin</a></p>
 <hr />
 <p><strong>Difficulty:</strong> Beginner | <strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
 

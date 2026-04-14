@@ -1,10 +1,9 @@
 ---
-created: '2026-03-29T06:30:14.886962Z'
+created: '2026-04-14T12:09:05.456505Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/phenotype/headache/
+permalink: /entities/phenotype/headache/
 slug: headache
 tags:
 - phenotype
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Headache
 type: phenotype
-updated: '2026-03-29T06:30:14.886962Z'
+updated: '2026-04-14T12:09:05.456505Z'
 ---
 
 {% raw %}
@@ -59,5 +58,9 @@ RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Cluster
 <h3>Excludes Phenotype</h3>
 <p>EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">alternating hemiplegia of childhood</a><br />
 EXCLUDES_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">episodic ataxia</a></p>
+<h3>Enriched</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Migraine</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Pain</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Brain</a></p>
 
 {% endraw %}

@@ -1,18 +1,17 @@
 ---
-created: '2026-03-29T06:30:14.306649Z'
+created: '2026-04-14T12:09:05.013191Z'
 description: Clotting factor and acute phase reactant. Elevated in inflammation and
   cardiovascular disease.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/fibrinogen/
+permalink: /entities/labtest/fibrinogen/
 slug: fibrinogen
 tags:
 - labtest
 templateEngineOverride: njk
 title: fibrinogen
 type: labtest
-updated: '2026-03-29T06:30:14.306649Z'
+updated: '2026-04-14T12:09:05.013191Z'
 ---
 
 {% raw %}
@@ -58,7 +57,8 @@ updated: '2026-03-29T06:30:14.306649Z'
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<p>No relationships found.</p>
+<p>MEASURES::<a href="/entities/labtest/fibrinogen/" class="internal-link">Fibrinogen</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Cardiovascular Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

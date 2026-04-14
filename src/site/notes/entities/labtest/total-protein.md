@@ -1,5 +1,5 @@
 ---
-created: '2026-03-29T06:30:14.563476Z'
+created: '2026-04-14T12:09:05.292513Z'
 description: Tested twice a year Total protein measures the combined levels of albumin
   and globulin in the blood. Maintaining adequate protein levels is important for
   overall health, as proteins support tissue repair, immune function, and general
@@ -7,15 +7,14 @@ description: Tested twice a year Total protein measures the combined levels of a
   WEAKNESS RECURRENT INFECTIONS SLOW WOUND HEALING
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/total-protein/
+permalink: /entities/labtest/total-protein/
 slug: total-protein
 tags:
 - labtest
 templateEngineOverride: njk
 title: total_protein
 type: labtest
-updated: '2026-03-29T06:30:14.563476Z'
+updated: '2026-04-14T12:09:05.292513Z'
 ---
 
 {% raw %}
@@ -63,17 +62,17 @@ updated: '2026-03-29T06:30:14.563476Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/condition/liver-disease/" class="internal-link">Liver Disease</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Liver Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Blood Cancers EG Multiple Myeloma</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation EG Autoimmune Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Malnutrition Or Poor Absorption</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/liver-function-panel/" class="internal-link">liver function panel</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive metabolic panel</a></p>
+RELATED::<a href="/entities/labtest/liver-function-panel/" class="internal-link">liver function panel</a><br />
+RELATED::<a href="/entities/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive metabolic panel</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/liver-disease/" class="internal-link">Liver Disease</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Liver Disease</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/liver-disease/" class="internal-link">Liver Disease</a></p>
+<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Liver Disease</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

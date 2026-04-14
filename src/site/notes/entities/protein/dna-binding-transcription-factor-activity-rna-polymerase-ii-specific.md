@@ -1,17 +1,16 @@
 ---
-created: '2026-03-29T06:30:14.981317Z'
+created: '2026-04-14T12:09:05.511161Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/protein/dna-binding-transcription-factor-activity-rna-polymerase-ii-specific/
+permalink: /entities/protein/dna-binding-transcription-factor-activity-rna-polymerase-ii-specific/
 slug: dna-binding-transcription-factor-activity-rna-polymerase-ii-specific
 tags:
 - protein
 templateEngineOverride: njk
 title: DNA-binding transcription factor activity, RNA polymerase II-specific
 type: protein
-updated: '2026-03-29T06:30:14.981317Z'
+updated: '2026-04-14T12:09:05.511161Z'
 ---
 
 {% raw %}
@@ -29,5 +28,8 @@ RELATED::<a class="internal-link is-unresolved" href="/404">DNA-binding transcri
 RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">nuclear receptor activity</a><br />
 RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">DNA-binding transcription activator activity RNA polymerase II-specific</a><br />
 RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">DNA-binding transcription factor activity</a></p>
+<h3>Enriched</h3>
+<p>LOCATED_IN::<a class="internal-link is-unresolved" href="/404">Nucleus</a><br />
+ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">CREB</a></p>
 
 {% endraw %}

@@ -1,10 +1,9 @@
 ---
-created: '2026-03-29T06:30:14.866316Z'
+created: '2026-04-14T12:09:05.444347Z'
 description: Difficulty breathing or shortness of breath.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/phenotype/dyspnea/
+permalink: /entities/phenotype/dyspnea/
 slug: dyspnea
 tags:
 - phenotype
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Dyspnea
 type: phenotype
-updated: '2026-03-29T06:30:14.866316Z'
+updated: '2026-04-14T12:09:05.444347Z'
 ---
 
 {% raw %}
@@ -36,7 +35,7 @@ RELATED::<a class="internal-link is-unresolved" href="/404">thrombocytopenic pur
 RELATED::<a class="internal-link is-unresolved" href="/404">myelomonocytic leukemia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">multiple pterygium-malignant hyperthermia syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Erdheim-Chester disease</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/phenotype/respiratory-distress/" class="internal-link">Respiratory distress</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Respiratory distress</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">liver neuroendocrine carcinoma</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">alpha-thalassemia-myelodysplastic syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">homozygous familial hypercholesterolemia</a><br />
@@ -44,12 +43,12 @@ RELATED::<a class="internal-link is-unresolved" href="/404">relapsing polychondr
 RELATED::<a class="internal-link is-unresolved" href="/404">Exertional dyspnea</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">scrub typhus</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">pediatric systemic lupus erythematosus</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/severe-acute-respiratory-syndrome/" class="internal-link">severe acute respiratory syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">severe acute respiratory syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Paroxysmal dyspnea</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">acute interstitial pneumonia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">chromosome 17q231-q232 deletion syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">yellow nail syndrome</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
+RELATED::<a href="/entities/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">myasthenia gravis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">pulmonary non-tuberculous mycobacterial infection</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">peripartum cardiomyopathy</a><br />
@@ -61,10 +60,16 @@ RELATED::<a class="internal-link is-unresolved" href="/404">kaposiform lymphangi
 RELATED::<a class="internal-link is-unresolved" href="/404">malignant mesothelioma disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">maternally-inherited Leigh syndrome</a></p>
 <h3>Related To Phenotype</h3>
-<p>RELATED_TO_PHENOTYPE::<a href="/garden/michal.k7w@gmail.com/phenotype/respiratory-distress/" class="internal-link">Respiratory distress</a><br />
+<p>RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Respiratory distress</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Rest dyspnea</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Paroxysmal dyspnea</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Exertional dyspnea</a><br />
 RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Abnormal respiratory system physiology</a></p>
+<h3>Enriched</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Asthma</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Heart Failure</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Obstructive Pulmonary Disease</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Lungs</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Heart</a></p>
 
 {% endraw %}

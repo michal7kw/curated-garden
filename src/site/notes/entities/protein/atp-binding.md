@@ -1,10 +1,9 @@
 ---
-created: '2026-03-29T06:30:14.939493Z'
+created: '2026-04-14T12:09:05.491937Z'
 description: '...'
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/protein/atp-binding/
+permalink: /entities/protein/atp-binding/
 slug: atp-binding
 tags:
 - protein
@@ -13,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: ATP binding
 type: protein
-updated: '2026-03-29T06:30:14.939493Z'
+updated: '2026-04-14T12:09:05.491937Z'
 ---
 
 {% raw %}
@@ -27,5 +26,8 @@ RELATED::<a class="internal-link is-unresolved" href="/404">adenyl ribonucleotid
 <h3>Related To Function</h3>
 <p>RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">adenyl ribonucleotide binding</a><br />
 RELATED_TO_FUNCTION::<a class="internal-link is-unresolved" href="/404">purine ribonucleoside triphosphate binding</a></p>
+<h3>Enriched</h3>
+<p>ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">ATP</a><br />
+LOCATED_IN::<a class="internal-link is-unresolved" href="/404">Mitochondria</a></p>
 
 {% endraw %}

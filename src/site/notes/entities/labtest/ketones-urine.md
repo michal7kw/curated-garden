@@ -1,20 +1,19 @@
 ---
-created: '2026-03-29T06:30:14.366174Z'
+created: '2026-04-14T12:09:05.077280Z'
 description: Tested twice a year Ketones are energy molecules the body makes when
   it burns fat for fuel — for example, during fasting, ketogenic diets, or prolonged
   exercise. This can be a normal response, but high levels of ketones in urine (ketonuria)
   may also be linked to conditions such as diabetes or kidney disease.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/ketones-urine/
+permalink: /entities/labtest/ketones-urine/
 slug: ketones-urine
 tags:
 - labtest
 templateEngineOverride: njk
 title: ketones_urine
 type: labtest
-updated: '2026-03-29T06:30:14.366174Z'
+updated: '2026-04-14T12:09:05.077280Z'
 ---
 
 {% raw %}
@@ -67,6 +66,10 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br /
 RELATED::<a class="internal-link is-unresolved" href="/404">Type 1 Or Type 2 Diabetes</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Prediabetes</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Prolonged Fasting</a></p>
+<h3>Enriched</h3>
+<p>INDICATES::<a class="internal-link is-unresolved" href="/404">Diabetes</a><br />
+ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Kidneys</a><br />
+ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Ketone Bodies</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

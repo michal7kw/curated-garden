@@ -1,5 +1,5 @@
 ---
-created: '2026-03-29T06:30:14.215694Z'
+created: '2026-04-14T12:09:04.895092Z'
 description: AMH reflects ovarian reserve (egg count) and fertility potential, at
   the time of the test. This test sheds light on the body’s ability to produce eggs
   for fertilization, particularly if one is nearing menopause or experiencing a hormonal
@@ -7,15 +7,14 @@ description: AMH reflects ovarian reserve (egg count) and fertility potential, a
   (POI).
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/anti-mullerian-hormone/
+permalink: /entities/labtest/anti-mullerian-hormone/
 slug: anti-mullerian-hormone
 tags:
 - labtest
 templateEngineOverride: njk
 title: anti_mullerian_hormone
 type: labtest
-updated: '2026-03-29T06:30:14.215694Z'
+updated: '2026-04-14T12:09:04.895092Z'
 ---
 
 {% raw %}
@@ -63,20 +62,20 @@ updated: '2026-03-29T06:30:14.215694Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/garden/michal.k7w@gmail.com/condition/low-ovarian-reserve/" class="internal-link">Low Ovarian Reserve</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Low Ovarian Reserve</a></p>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Premature Ovarian Insufficiency</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Polycystic Ovary Syndrome Pcos</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/condition/low-ovarian-reserve/" class="internal-link">Low Ovarian Reserve</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Low Ovarian Reserve</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Perimenopause</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-hormone-health/" class="internal-link">extended hormone health</a><br />
+RELATED::<a href="/entities/labtestpanel/extended-hormone-health/" class="internal-link">extended hormone health</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Infertility</a><br />
-RELATED::<a href="/garden/michal.k7w@gmail.com/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy hcg</a></p>
+RELATED::<a href="/entities/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy hcg</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy hcg</a><br />
-INCLUDED_IN::<a href="/garden/michal.k7w@gmail.com/labtestpanel/extended-hormone-health/" class="internal-link">extended hormone health</a></p>
+<p>INCLUDED_IN::<a href="/entities/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy hcg</a><br />
+INCLUDED_IN::<a href="/entities/labtestpanel/extended-hormone-health/" class="internal-link">extended hormone health</a></p>
 <h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/garden/michal.k7w@gmail.com/condition/low-ovarian-reserve/" class="internal-link">Low Ovarian Reserve</a></p>
+<p>MAY_DETECT::<a class="internal-link is-unresolved" href="/404">Low Ovarian Reserve</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

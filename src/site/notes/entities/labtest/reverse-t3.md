@@ -1,18 +1,17 @@
 ---
-created: '2026-03-29T06:30:14.511730Z'
+created: '2026-04-14T12:09:05.240238Z'
 description: Inactive thyroid hormone metabolite. Elevated in chronic illness, stress,
   and low-calorie diets.
 dg-home: false
 dg-publish: true
-gardenUsername: michal.k7w@gmail.com
-permalink: /garden/michal.k7w@gmail.com/labtest/reverse-t3/
+permalink: /entities/labtest/reverse-t3/
 slug: reverse-t3
 tags:
 - labtest
 templateEngineOverride: njk
 title: reverse_t3
 type: labtest
-updated: '2026-03-29T06:30:14.511730Z'
+updated: '2026-04-14T12:09:05.240238Z'
 ---
 
 {% raw %}
@@ -54,7 +53,7 @@ updated: '2026-03-29T06:30:14.511730Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/garden/michal.k7w@gmail.com/labtest/reverse-t3/" class="internal-link">reverse t3</a></li>
+<li><a href="/entities/labtest/reverse-t3/" class="internal-link">reverse t3</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -65,7 +64,10 @@ updated: '2026-03-29T06:30:14.511730Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/garden/michal.k7w@gmail.com/labtest/thyroid-panel-complete/" class="internal-link">thyroid panel complete</a></p>
+<p>RELATED::<a href="/entities/labtest/thyroid-panel-complete/" class="internal-link">thyroid panel complete</a></p>
+<h3>Enriched</h3>
+<p>INDICATES::<a class="internal-link is-unresolved" href="/404">Subclinical Hypothyroidism</a><br />
+ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Thyroid</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>
