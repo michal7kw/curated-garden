@@ -1,6 +1,7 @@
 ---
-created: '2026-04-14T12:22:48.419147Z'
-description: User guide for the MKG platform
+created: '2026-04-14T12:36:40.180181Z'
+description: How to create knowledge graph entries using the wizard, templates, or
+  manual creation with YAML frontmatter
 dg-home: false
 dg-publish: true
 permalink: /entities/users_guide/creating-entities/
@@ -11,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Creating Entities
 type: users_guide
-updated: '2026-04-14T12:22:48.419147Z'
+updated: '2026-04-14T12:36:40.180181Z'
 ---
 
 {% raw %}
@@ -157,7 +158,7 @@ synonyms:
   - Magnesium Glycinate
 purchaseLink: &quot;https://example.com/magnesium&quot;
 </code></pre>
-<p>The <code>evidence_level</code> uses a 0-5 scale (see <a class="internal-link is-unresolved" href="/404">13_Tips_and_Best_Practices</a> for details).</p>
+<p>The <code>evidence_level</code> uses a 0-5 scale (see <a href="/entities/users_guide/tips-and-best-practices/" class="internal-link">Tips and Best Practices</a> for details).</p>
 <h3>Drug Fields</h3>
 <pre><code class="language-yaml">drugbank_id: DB00331
 drug_class: &quot;Biguanide&quot;
@@ -230,7 +231,7 @@ Key findings from clinical studies.
 Contraindications, side effects, drug interactions.
 
 ## Relationships
-(See [[04_Relationships_and_Links]] for syntax)
+(See [[Relationships and Links]] for syntax)
 
 ## References
 - Author et al. Journal Year — Key finding
@@ -380,9 +381,9 @@ INTERACTS_WITH::[[Copper]]
 <p>The entity now appears in the web dashboard's knowledge graph, search results, and entity browser.</p>
 <h2>Next Steps</h2>
 <ul>
-<li><a class="internal-link is-unresolved" href="/404">04_Relationships_and_Links</a> — Learn how to connect entities with typed relationships</li>
-<li><a class="internal-link is-unresolved" href="/404">05_Syncing_with_Neo4j</a> — Understand the full sync workflow</li>
-<li><a class="internal-link is-unresolved" href="/404">13_Tips_and_Best_Practices</a> — Quality standards for great entity notes</li>
+<li><a href="/entities/users_guide/relationships-and-links/" class="internal-link">Relationships and Links</a> — Learn how to connect entities with typed relationships</li>
+<li><a href="/entities/users_guide/syncing-with-neo4j/" class="internal-link">Syncing with Neo4j</a> — Understand the full sync workflow</li>
+<li><a href="/entities/users_guide/tips-and-best-practices/" class="internal-link">Tips and Best Practices</a> — Quality standards for great entity notes</li>
 </ul>
 
 {% endraw %}

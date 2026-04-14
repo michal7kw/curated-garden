@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:22:47.433007Z'
+created: '2026-04-14T12:36:39.265113Z'
 description: A serious mood disorder characterized by persistent feelings of sadness,
   hopelessness, and a loss of interest in activities once enjoyed. Lifetime prevalence
   of 15-20%. Involves dysregulation of serotonin, norepinephrine, dopamine, HPA axis,
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Depression
 type: condition
-updated: '2026-04-14T12:22:47.433007Z'
+updated: '2026-04-14T12:36:39.265113Z'
 ---
 
 {% raw %}

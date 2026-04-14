@@ -1,6 +1,7 @@
 ---
-created: '2026-04-14T12:22:48.394560Z'
-description: User guide for the MKG platform
+created: '2026-04-14T12:36:40.163734Z'
+description: 'Step-by-step setup guide: download the vault, install the plugin, configure
+  settings, and first login'
 dg-home: false
 dg-publish: true
 permalink: /entities/users_guide/getting-started/
@@ -11,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Getting Started
 type: users_guide
-updated: '2026-04-14T12:22:48.394560Z'
+updated: '2026-04-14T12:36:40.163734Z'
 ---
 
 {% raw %}
@@ -150,7 +151,7 @@ updated: '2026-04-14T12:22:48.394560Z'
 <li>Search for <strong>&quot;Open Cloud Backup Manager&quot;</strong></li>
 <li>Click <strong>&quot;Sync to Neo4j&quot;</strong></li>
 </ol>
-<p>This sends all your entity notes to the Neo4j database, where they become nodes in the knowledge graph. See <a class="internal-link is-unresolved" href="/404">05_Syncing_with_Neo4j</a> for details on how sync works.</p>
+<p>This sends all your entity notes to the Neo4j database, where they become nodes in the knowledge graph. See <a href="/entities/users_guide/syncing-with-neo4j/" class="internal-link">Syncing with Neo4j</a> for details on how sync works.</p>
 <h2>What's Next?</h2>
 <p>You're set up and ready to go. Here's what to explore next based on what you want to do:</p>
 <table>
@@ -163,34 +164,34 @@ updated: '2026-04-14T12:22:48.394560Z'
 <tbody>
 <tr>
 <td>Understand how the vault is organized</td>
-<td><a class="internal-link is-unresolved" href="/404">02_Understanding_the_Vault</a></td>
+<td><a href="/entities/users_guide/understanding-the-vault/" class="internal-link">Understanding the Vault</a></td>
 </tr>
 <tr>
 <td>Create my first entity note</td>
-<td><a class="internal-link is-unresolved" href="/404">03_Creating_Entities</a></td>
+<td><a href="/entities/users_guide/creating-entities/" class="internal-link">Creating Entities</a></td>
 </tr>
 <tr>
 <td>Track my lab results</td>
-<td><a class="internal-link is-unresolved" href="/404">07_Tracking_Biomarkers</a></td>
+<td><a href="/entities/users_guide/tracking-biomarkers/" class="internal-link">Tracking Biomarkers</a></td>
 </tr>
 <tr>
 <td>Explore the knowledge graph visually</td>
-<td><a class="internal-link is-unresolved" href="/404">06_Exploring_the_Knowledge_Graph</a></td>
+<td><a href="/entities/users_guide/exploring-the-knowledge-graph/" class="internal-link">Exploring the Knowledge Graph</a></td>
 </tr>
 <tr>
 <td>Set up supplement stacks</td>
-<td><a class="internal-link is-unresolved" href="/404">08_Supplements_and_Stacks</a></td>
+<td><a href="/entities/users_guide/supplements-and-health-stacks/" class="internal-link">Supplements and Health Stacks</a></td>
 </tr>
 <tr>
 <td>Try AI research features</td>
-<td><a class="internal-link is-unresolved" href="/404">09_AI_Research_Tools</a></td>
+<td><a href="/entities/users_guide/ai-research-tools/" class="internal-link">AI Research Tools</a></td>
 </tr>
 <tr>
 <td>Run a self-experiment</td>
-<td><a class="internal-link is-unresolved" href="/404">10_Experiments</a></td>
+<td><a href="/entities/users_guide/experiments/" class="internal-link">Experiments</a></td>
 </tr>
 </tbody>
 </table>
-<p>If something isn't working, see <a class="internal-link is-unresolved" href="/404">14_Troubleshooting</a> for common setup issues.</p>
+<p>If something isn't working, see <a href="/entities/users_guide/troubleshooting/" class="internal-link">Troubleshooting</a> for common setup issues.</p>
 
 {% endraw %}

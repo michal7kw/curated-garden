@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:22:47.297701Z'
+created: '2026-04-14T12:36:39.172097Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/esr/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Esr
 type: biomarker
-updated: '2026-04-14T12:22:47.297701Z'
+updated: '2026-04-14T12:36:39.172097Z'
 ---
 
 {% raw %}

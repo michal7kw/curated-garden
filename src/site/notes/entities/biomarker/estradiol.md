@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:22:47.299106Z'
+created: '2026-04-14T12:36:39.173591Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/estradiol/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Estradiol
 type: biomarker
-updated: '2026-04-14T12:22:47.299106Z'
+updated: '2026-04-14T12:36:39.173591Z'
 ---
 
 {% raw %}

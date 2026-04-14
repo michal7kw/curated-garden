@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:22:48.006874Z'
+created: '2026-04-14T12:36:39.733924Z'
 description: Tested twice a year Non-HDL cholesterol is the total amount of harmful
   cholesterol in the blood, contributing to overall cardiovascular risk. Elevated
   levels are commonly seen in individuals with high triglycerides, low HDL, and underlying
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: non_hdl_cholesterol
 type: labtest
-updated: '2026-04-14T12:22:48.006874Z'
+updated: '2026-04-14T12:36:39.733924Z'
 ---
 
 {% raw %}

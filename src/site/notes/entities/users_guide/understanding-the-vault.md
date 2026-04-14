@@ -1,6 +1,7 @@
 ---
-created: '2026-04-14T12:22:48.407758Z'
-description: User guide for the MKG platform
+created: '2026-04-14T12:36:40.171895Z'
+description: Vault folder structure, all 26 entity types explained, naming conventions,
+  and what gets synced
 dg-home: false
 dg-publish: true
 permalink: /entities/users_guide/understanding-the-vault/
@@ -11,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Understanding the Vault
 type: users_guide
-updated: '2026-04-14T12:22:48.407758Z'
+updated: '2026-04-14T12:36:40.171895Z'
 ---
 
 {% raw %}
@@ -46,7 +47,7 @@ updated: '2026-04-14T12:22:48.407758Z'
 <li>Each file = one entity (one node in the graph)</li>
 <li>The filename = the entity name (e.g., <code>Magnesium.md</code> creates an entity named &quot;Magnesium&quot;)</li>
 <li>The subfolder determines the entity type (e.g., <code>entities/supplement/Magnesium.md</code> is a Supplement)</li>
-<li>Files must have proper YAML frontmatter to sync (see <a class="internal-link is-unresolved" href="/404">03_Creating_Entities</a>)</li>
+<li>Files must have proper YAML frontmatter to sync (see <a href="/entities/users_guide/creating-entities/" class="internal-link">Creating Entities</a>)</li>
 </ul>
 <h2>All 26 Entity Types</h2>
 <h3>Core Health Types</h3>
@@ -286,7 +287,7 @@ updated: '2026-04-14T12:22:48.407758Z'
 <ul>
 <li>All files in <code>entities/</code> subfolders with valid frontmatter</li>
 <li>Properties from YAML frontmatter (name, type, description, tags, etc.)</li>
-<li>Relationships defined in the note body (see <a class="internal-link is-unresolved" href="/404">04_Relationships_and_Links</a>)</li>
+<li>Relationships defined in the note body (see <a href="/entities/users_guide/relationships-and-links/" class="internal-link">Relationships and Links</a>)</li>
 </ul>
 <p><strong>Not synced:</strong></p>
 <ul>
@@ -305,7 +306,7 @@ updated: '2026-04-14T12:22:48.407758Z'
 </ol>
 <p>You can browse and manage the review queue from the Obsidian plugin or the web dashboard.</p>
 <h2>The <code>templates/</code> Folder</h2>
-<p>Contains markdown templates for each entity type. When you create a new entity using the wizard (see <a class="internal-link is-unresolved" href="/404">03_Creating_Entities</a>), the appropriate template is applied automatically. Templates include:</p>
+<p>Contains markdown templates for each entity type. When you create a new entity using the wizard (see <a href="/entities/users_guide/creating-entities/" class="internal-link">Creating Entities</a>), the appropriate template is applied automatically. Templates include:</p>
 <ul>
 <li>Pre-filled YAML frontmatter with all recommended fields</li>
 <li>Standard section headings for the entity type</li>
@@ -321,9 +322,9 @@ updated: '2026-04-14T12:22:48.407758Z'
 <p>Most entities you create will be curated knowledge. Your personal biomarker readings, supplement logs, and health targets are stored separately through the web dashboard, not as entity files.</p>
 <h2>Next Steps</h2>
 <ul>
-<li><a class="internal-link is-unresolved" href="/404">03_Creating_Entities</a> — Learn how to create new entity notes</li>
-<li><a class="internal-link is-unresolved" href="/404">04_Relationships_and_Links</a> — Connect entities with typed relationships</li>
-<li><a class="internal-link is-unresolved" href="/404">05_Syncing_with_Neo4j</a> — Sync your vault with the knowledge graph database</li>
+<li><a href="/entities/users_guide/creating-entities/" class="internal-link">Creating Entities</a> — Learn how to create new entity notes</li>
+<li><a href="/entities/users_guide/relationships-and-links/" class="internal-link">Relationships and Links</a> — Connect entities with typed relationships</li>
+<li><a href="/entities/users_guide/syncing-with-neo4j/" class="internal-link">Syncing with Neo4j</a> — Sync your vault with the knowledge graph database</li>
 </ul>
 
 {% endraw %}

@@ -1,6 +1,6 @@
 ---
-created: '2026-04-14T12:22:48.513826Z'
-description: User guide for the MKG platform
+created: '2026-04-14T12:36:40.241233Z'
+description: Complete page-by-page walkthrough of all web dashboard features and pages
 dg-home: false
 dg-publish: true
 permalink: /entities/users_guide/web-dashboard-tour/
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: Web Dashboard Tour
 type: users_guide
-updated: '2026-04-14T12:22:48.513826Z'
+updated: '2026-04-14T12:36:40.241233Z'
 ---
 
 {% raw %}
@@ -45,14 +45,14 @@ updated: '2026-04-14T12:22:48.513826Z'
 <li><strong>Risk cards</strong> — Aggregate risk scores based on biomarker combinations</li>
 <li><strong>Unit converter</strong> — Convert between measurement units (mg/dL ↔ mmol/L)</li>
 </ul>
-<p>See <a class="internal-link is-unresolved" href="/404">07_Tracking_Biomarkers</a> for detailed instructions.</p>
+<p>See <a href="/entities/users_guide/tracking-biomarkers/" class="internal-link">Tracking Biomarkers</a> for detailed instructions.</p>
 <h3>Knowledge Graph</h3>
 <p>Explore your health knowledge visually.</p>
 <ul>
 <li><strong>Graph Explore tab</strong> — Interactive force-directed graph with colored nodes, type filters, and depth controls</li>
 <li><strong>Graph Search tab</strong> — Text search across all entities with type filtering</li>
 </ul>
-<p>See <a class="internal-link is-unresolved" href="/404">06_Exploring_the_Knowledge_Graph</a> for detailed instructions.</p>
+<p>See <a href="/entities/users_guide/exploring-the-knowledge-graph/" class="internal-link">Exploring the Knowledge Graph</a> for detailed instructions.</p>
 <h3>Lab Tests</h3>
 <p>Browse and manage laboratory tests.</p>
 <ul>
@@ -70,7 +70,7 @@ updated: '2026-04-14T12:22:48.513826Z'
 <li><strong>Adopt/Unadopt</strong> — One-click stack adoption adds supplements to your regimen</li>
 <li><strong>Personal stacks</strong> — Create custom stacks with your own selections</li>
 </ul>
-<p>See <a class="internal-link is-unresolved" href="/404">08_Supplements_and_Stacks</a> for detailed instructions.</p>
+<p>See <a href="/entities/users_guide/supplements-and-health-stacks/" class="internal-link">Supplements and Health Stacks</a> for detailed instructions.</p>
 <h3>Experiments</h3>
 <p>Design and run N-of-1 self-experiments.</p>
 <ul>
@@ -79,7 +79,7 @@ updated: '2026-04-14T12:22:48.513826Z'
 <li><strong>Active experiment view</strong> — Add readings, advance phases, view analysis</li>
 <li><strong>Results</strong> — Effect sizes, statistical significance, per-biomarker comparison tables</li>
 </ul>
-<p>See <a class="internal-link is-unresolved" href="/404">10_Experiments</a> for detailed instructions.</p>
+<p>See <a href="/entities/users_guide/experiments/" class="internal-link">Experiments</a> for detailed instructions.</p>
 <h3>Recommendations</h3>
 <p>Personalized health suggestions.</p>
 <ul>
@@ -112,7 +112,7 @@ updated: '2026-04-14T12:22:48.513826Z'
 <li><strong>Session history</strong> — All past conversations accessible in the sidebar</li>
 <li><strong>Suggested prompts</strong> — Quick-start questions for common topics</li>
 </ul>
-<p>See <a class="internal-link is-unresolved" href="/404">09_AI_Research_Tools</a> for details.</p>
+<p>See <a href="/entities/users_guide/ai-research-tools/" class="internal-link">AI Research Tools</a> for details.</p>
 <h3>Nutrition</h3>
 <p>Track dietary patterns and nutrient intake.</p>
 <ul>
@@ -154,7 +154,7 @@ updated: '2026-04-14T12:22:48.513826Z'
 <li><strong>Publishing controls</strong> — Manage which entities are published</li>
 <li><strong>Garden URL</strong> — View and copy your public garden link</li>
 </ul>
-<p>See <a class="internal-link is-unresolved" href="/404">11_Digital_Garden</a> for details.</p>
+<p>See <a href="/entities/users_guide/digital-garden/" class="internal-link">Digital Garden</a> for details.</p>
 <h3>Import/Export</h3>
 <p>Data management tools.</p>
 <ul>
@@ -228,9 +228,9 @@ updated: '2026-04-14T12:22:48.513826Z'
 </ul>
 <h2>Next Steps</h2>
 <ul>
-<li><a class="internal-link is-unresolved" href="/404">01_Getting_Started</a> — Set up your account and connect Obsidian</li>
-<li><a class="internal-link is-unresolved" href="/404">06_Exploring_the_Knowledge_Graph</a> — Deep dive into the graph visualization</li>
-<li><a class="internal-link is-unresolved" href="/404">07_Tracking_Biomarkers</a> — Start logging your health data</li>
+<li><a href="/entities/users_guide/getting-started/" class="internal-link">Getting Started</a> — Set up your account and connect Obsidian</li>
+<li><a href="/entities/users_guide/exploring-the-knowledge-graph/" class="internal-link">Exploring the Knowledge Graph</a> — Deep dive into the graph visualization</li>
+<li><a href="/entities/users_guide/tracking-biomarkers/" class="internal-link">Tracking Biomarkers</a> — Start logging your health data</li>
 </ul>
 
 {% endraw %}

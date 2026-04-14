@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:22:47.296499Z'
+created: '2026-04-14T12:36:39.170881Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/epa/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Epa
 type: biomarker
-updated: '2026-04-14T12:22:47.296499Z'
+updated: '2026-04-14T12:36:39.170881Z'
 ---
 
 {% raw %}

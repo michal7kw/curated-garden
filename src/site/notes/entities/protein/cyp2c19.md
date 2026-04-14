@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:22:48.342204Z'
+created: '2026-04-14T12:36:40.122963Z'
 description: Cytochrome P450 2C19, a polymorphic drug-metabolizing enzyme critical
   for the metabolism of proton pump inhibitors (omeprazole, pantoprazole) and the
   bioactivation of clopidogrel. Poor metabolizers have increased PPI exposure and
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: CYP2C19
 type: protein
-updated: '2026-04-14T12:22:48.342204Z'
+updated: '2026-04-14T12:36:40.122963Z'
 ---
 
 {% raw %}

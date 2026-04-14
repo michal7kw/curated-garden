@@ -1,6 +1,7 @@
 ---
-created: '2026-04-14T12:22:48.439383Z'
-description: User guide for the MKG platform
+created: '2026-04-14T12:36:40.194112Z'
+description: Bidirectional synchronization between Obsidian notes and the Neo4j knowledge
+  graph database
 dg-home: false
 dg-publish: true
 permalink: /entities/users_guide/syncing-with-neo4j/
@@ -11,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Syncing with Neo4j
 type: users_guide
-updated: '2026-04-14T12:22:48.439383Z'
+updated: '2026-04-14T12:36:40.194112Z'
 ---
 
 {% raw %}
@@ -176,7 +177,7 @@ last_sync_hash: &quot;a1b2c3d4...&quot; # Hash at last sync
 </tr>
 </tbody>
 </table>
-<p>For more detailed troubleshooting, see <a class="internal-link is-unresolved" href="/404">14_Troubleshooting</a>.</p>
+<p>For more detailed troubleshooting, see <a href="/entities/users_guide/troubleshooting/" class="internal-link">Troubleshooting</a>.</p>
 <h2>Sync Best Practices</h2>
 <ul>
 <li><strong>Sync after meaningful edits</strong>, not after every keystroke (auto-sync handles this with its 2-second delay)</li>
@@ -186,9 +187,9 @@ last_sync_hash: &quot;a1b2c3d4...&quot; # Hash at last sync
 </ul>
 <h2>Next Steps</h2>
 <ul>
-<li><a class="internal-link is-unresolved" href="/404">06_Exploring_the_Knowledge_Graph</a> — See your synced entities in the web dashboard</li>
-<li><a class="internal-link is-unresolved" href="/404">03_Creating_Entities</a> — Create more entities to sync</li>
-<li><a class="internal-link is-unresolved" href="/404">04_Relationships_and_Links</a> — Add relationships before syncing</li>
+<li><a href="/entities/users_guide/exploring-the-knowledge-graph/" class="internal-link">Exploring the Knowledge Graph</a> — See your synced entities in the web dashboard</li>
+<li><a href="/entities/users_guide/creating-entities/" class="internal-link">Creating Entities</a> — Create more entities to sync</li>
+<li><a href="/entities/users_guide/relationships-and-links/" class="internal-link">Relationships and Links</a> — Add relationships before syncing</li>
 </ul>
 
 {% endraw %}

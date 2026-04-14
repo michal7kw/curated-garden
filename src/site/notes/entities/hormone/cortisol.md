@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:22:47.609179Z'
+created: '2026-04-14T12:36:39.392756Z'
 description: Primary glucocorticoid stress hormone produced by the adrenal cortex
   via the HPA axis. Essential for glucose metabolism, immune modulation, and stress
   response. Chronic elevation drives visceral obesity, immunosuppression, hippocampal
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Cortisol
 type: hormone
-updated: '2026-04-14T12:22:47.609179Z'
+updated: '2026-04-14T12:36:39.392756Z'
 ---
 
 {% raw %}

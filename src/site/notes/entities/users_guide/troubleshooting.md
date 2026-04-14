@@ -1,6 +1,7 @@
 ---
-created: '2026-04-14T12:22:48.554375Z'
-description: User guide for the MKG platform
+created: '2026-04-14T12:36:40.259855Z'
+description: Common issues with connections, sync, plugin, and the web dashboard —
+  plus FAQ
 dg-home: false
 dg-publish: true
 permalink: /entities/users_guide/troubleshooting/
@@ -11,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Troubleshooting
 type: users_guide
-updated: '2026-04-14T12:22:48.554375Z'
+updated: '2026-04-14T12:36:40.259855Z'
 ---
 
 {% raw %}
@@ -131,7 +132,7 @@ updated: '2026-04-14T12:22:48.554375Z'
 <p><strong>Symptoms:</strong> The graph page shows no nodes.</p>
 <p><strong>Solutions:</strong></p>
 <ul>
-<li>Have you synced your vault? See <a class="internal-link is-unresolved" href="/404">05_Syncing_with_Neo4j</a></li>
+<li>Have you synced your vault? See <a href="/entities/users_guide/syncing-with-neo4j/" class="internal-link">Syncing with Neo4j</a></li>
 <li>If you just set up, load the curated KG first: open the sync manager and click &quot;Load Curated KG to Neo4j&quot;</li>
 <li>Check that Neo4j databases are running (ask your administrator)</li>
 </ul>
@@ -169,7 +170,7 @@ updated: '2026-04-14T12:22:48.554375Z'
 <p><strong>Solutions:</strong></p>
 <ul>
 <li>Check YAML syntax carefully</li>
-<li>Compare your field names with the examples in <a class="internal-link is-unresolved" href="/404">03_Creating_Entities</a></li>
+<li>Compare your field names with the examples in <a href="/entities/users_guide/creating-entities/" class="internal-link">Creating Entities</a></li>
 <li>System fields (<code>element_id</code>, <code>content_hash</code>, etc.) are overwritten by the sync engine — don't rely on manual values for these</li>
 </ul>
 <h2>Frequently Asked Questions</h2>
@@ -203,7 +204,7 @@ Yes. Multiple users can connect to the same Neo4j database and share the curated
 <h2>Getting Help</h2>
 <p>If you're stuck:</p>
 <ol>
-<li><strong>Check this guide</strong> — Search for your issue in <a class="internal-link is-unresolved" href="/404">14_Troubleshooting</a> (you're here)</li>
+<li><strong>Check this guide</strong> — Search for your issue in <a href="/entities/users_guide/troubleshooting/" class="internal-link">Troubleshooting</a> (you're here)</li>
 <li><strong>Check the developer console</strong> — Ctrl+Shift+I in Obsidian or the browser for error messages</li>
 <li><strong>Check backend logs</strong> — Ask your administrator to check the server logs for error details</li>
 <li><strong>Report a bug</strong> — Include:
@@ -218,9 +219,9 @@ Yes. Multiple users can connect to the same Neo4j database and share the curated
 </ol>
 <h2>Next Steps</h2>
 <ul>
-<li><a class="internal-link is-unresolved" href="/404">01_Getting_Started</a> — Revisit setup if you're having configuration issues</li>
-<li><a class="internal-link is-unresolved" href="/404">05_Syncing_with_Neo4j</a> — Detailed sync troubleshooting</li>
-<li><a class="internal-link is-unresolved" href="/404">13_Tips_and_Best_Practices</a> — Prevent common issues by following best practices</li>
+<li><a href="/entities/users_guide/getting-started/" class="internal-link">Getting Started</a> — Revisit setup if you're having configuration issues</li>
+<li><a href="/entities/users_guide/syncing-with-neo4j/" class="internal-link">Syncing with Neo4j</a> — Detailed sync troubleshooting</li>
+<li><a href="/entities/users_guide/tips-and-best-practices/" class="internal-link">Tips and Best Practices</a> — Prevent common issues by following best practices</li>
 </ul>
 
 {% endraw %}

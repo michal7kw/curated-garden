@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:22:48.003708Z'
+created: '2026-04-14T12:36:39.731256Z'
 description: Tested twice a year Nitrites in urine can form when bacteria in the urinary
   tract convert naturally occurring nitrates into nitrites. Because nitrites in urine
   are not normally present in healthy individuals, their presence can serve as a marker
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: nitrite_urine
 type: labtest
-updated: '2026-04-14T12:22:48.003708Z'
+updated: '2026-04-14T12:36:39.731256Z'
 ---
 
 {% raw %}

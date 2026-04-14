@@ -1,6 +1,7 @@
 ---
-created: '2026-04-14T12:22:48.466893Z'
-description: User guide for the MKG platform
+created: '2026-04-14T12:36:40.211755Z'
+description: Managing supplements, adopting curated health stacks, personalized recommendations,
+  and drug interaction checking
 dg-home: false
 dg-publish: true
 permalink: /entities/users_guide/supplements-and-health-stacks/
@@ -11,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Supplements and Health Stacks
 type: users_guide
-updated: '2026-04-14T12:22:48.466893Z'
+updated: '2026-04-14T12:36:40.211755Z'
 ---
 
 {% raw %}
@@ -22,7 +23,7 @@ updated: '2026-04-14T12:22:48.466893Z'
 <ul>
 <li><strong>Mechanism of action</strong> — How the supplement works at a biological level</li>
 <li><strong>Dosage information</strong> — Recommended doses, forms, and timing</li>
-<li><strong>Evidence level</strong> — A 0-5 rating of the scientific evidence (see <a class="internal-link is-unresolved" href="/404">13_Tips_and_Best_Practices</a>)</li>
+<li><strong>Evidence level</strong> — A 0-5 rating of the scientific evidence (see <a href="/entities/users_guide/tips-and-best-practices/" class="internal-link">Tips and Best Practices</a>)</li>
 <li><strong>Biomarker effects</strong> — Which biomarkers the supplement affects, in what direction, and how strongly</li>
 <li><strong>Drug interactions</strong> — Known interactions with pharmaceutical drugs</li>
 <li><strong>Contraindications</strong> — When not to take the supplement</li>
@@ -246,9 +247,9 @@ updated: '2026-04-14T12:22:48.466893Z'
 <p>This is especially important if you take prescription medications.</p>
 <h2>Next Steps</h2>
 <ul>
-<li><a class="internal-link is-unresolved" href="/404">07_Tracking_Biomarkers</a> — Track biomarker changes after adopting stacks</li>
-<li><a class="internal-link is-unresolved" href="/404">10_Experiments</a> — Run experiments to measure supplement effects</li>
-<li><a class="internal-link is-unresolved" href="/404">06_Exploring_the_Knowledge_Graph</a> — Explore supplement-biomarker connections in the graph</li>
+<li><a href="/entities/users_guide/tracking-biomarkers/" class="internal-link">Tracking Biomarkers</a> — Track biomarker changes after adopting stacks</li>
+<li><a href="/entities/users_guide/experiments/" class="internal-link">Experiments</a> — Run experiments to measure supplement effects</li>
+<li><a href="/entities/users_guide/exploring-the-knowledge-graph/" class="internal-link">Exploring the Knowledge Graph</a> — Explore supplement-biomarker connections in the graph</li>
 </ul>
 
 {% endraw %}

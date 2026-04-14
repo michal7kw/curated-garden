@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:22:47.270018Z'
+created: '2026-04-14T12:36:39.155337Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/bilirubin-direct/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Bilirubin Direct
 type: biomarker
-updated: '2026-04-14T12:22:47.270018Z'
+updated: '2026-04-14T12:36:39.155337Z'
 ---
 
 {% raw %}

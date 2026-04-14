@@ -1,6 +1,7 @@
 ---
-created: '2026-04-14T12:22:48.428226Z'
-description: User guide for the MKG platform
+created: '2026-04-14T12:36:40.187609Z'
+description: Connecting entities with typed relationships — syntax, 160+ relationship
+  types, and the visual editor
 dg-home: false
 dg-publish: true
 permalink: /entities/users_guide/relationships-and-links/
@@ -11,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Relationships and Links
 type: users_guide
-updated: '2026-04-14T12:22:48.428226Z'
+updated: '2026-04-14T12:36:40.187609Z'
 ---
 
 {% raw %}
@@ -376,9 +377,9 @@ INTERACTS_WITH::[[Calcium Channel Blockers]]
 <p><strong>Document the evidence.</strong> Add a brief note when helpful: <code>TREATS_CONDITION::[[Diabetes]] - meta-analysis of 12 RCTs, NNT=10</code></p>
 <h2>Next Steps</h2>
 <ul>
-<li><a class="internal-link is-unresolved" href="/404">05_Syncing_with_Neo4j</a> — How your relationships get synced to the graph database</li>
-<li><a class="internal-link is-unresolved" href="/404">06_Exploring_the_Knowledge_Graph</a> — See your relationships visualized in the web dashboard</li>
-<li><a class="internal-link is-unresolved" href="/404">13_Tips_and_Best_Practices</a> — Quality standards for relationship building</li>
+<li><a href="/entities/users_guide/syncing-with-neo4j/" class="internal-link">Syncing with Neo4j</a> — How your relationships get synced to the graph database</li>
+<li><a href="/entities/users_guide/exploring-the-knowledge-graph/" class="internal-link">Exploring the Knowledge Graph</a> — See your relationships visualized in the web dashboard</li>
+<li><a href="/entities/users_guide/tips-and-best-practices/" class="internal-link">Tips and Best Practices</a> — Quality standards for relationship building</li>
 </ul>
 
 {% endraw %}

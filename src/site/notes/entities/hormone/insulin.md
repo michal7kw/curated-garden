@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:22:47.625169Z'
+created: '2026-04-14T12:36:39.405617Z'
 description: Peptide hormone produced by pancreatic beta cells, essential for glucose
   uptake and metabolism. The master regulator of energy storage and anabolism. Insulin
   resistance is the central pathology of type 2 diabetes and metabolic syndrome, linking
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Insulin
 type: hormone
-updated: '2026-04-14T12:22:47.625169Z'
+updated: '2026-04-14T12:36:39.405617Z'
 ---
 
 {% raw %}

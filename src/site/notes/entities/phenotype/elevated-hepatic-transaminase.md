@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:22:48.286567Z'
+created: '2026-04-14T12:36:40.059263Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Elevated hepatic transaminase
 type: phenotype
-updated: '2026-04-14T12:22:48.286567Z'
+updated: '2026-04-14T12:36:40.059263Z'
 ---
 
 {% raw %}

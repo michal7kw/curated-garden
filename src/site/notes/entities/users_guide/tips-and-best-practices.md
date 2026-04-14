@@ -1,6 +1,7 @@
 ---
-created: '2026-04-14T12:22:48.534963Z'
-description: User guide for the MKG platform
+created: '2026-04-14T12:36:40.251142Z'
+description: Quality standards, evidence level scale, naming conventions, tagging,
+  and relationship best practices
 dg-home: false
 dg-publish: true
 permalink: /entities/users_guide/tips-and-best-practices/
@@ -11,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Tips and Best Practices
 type: users_guide
-updated: '2026-04-14T12:22:48.534963Z'
+updated: '2026-04-14T12:36:40.251142Z'
 ---
 
 {% raw %}
@@ -355,9 +356,9 @@ last_modified: 2026-04-14T12:00:00+0000
 </table>
 <h2>Next Steps</h2>
 <ul>
-<li><a class="internal-link is-unresolved" href="/404">03_Creating_Entities</a> — Apply these standards to new entities</li>
-<li><a class="internal-link is-unresolved" href="/404">04_Relationships_and_Links</a> — Build high-quality relationships</li>
-<li><a class="internal-link is-unresolved" href="/404">11_Digital_Garden</a> — Publish your best work</li>
+<li><a href="/entities/users_guide/creating-entities/" class="internal-link">Creating Entities</a> — Apply these standards to new entities</li>
+<li><a href="/entities/users_guide/relationships-and-links/" class="internal-link">Relationships and Links</a> — Build high-quality relationships</li>
+<li><a href="/entities/users_guide/digital-garden/" class="internal-link">Digital Garden</a> — Publish your best work</li>
 </ul>
 
 {% endraw %}

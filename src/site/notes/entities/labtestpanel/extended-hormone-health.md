@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:22:48.190969Z'
+created: '2026-04-14T12:36:39.961898Z'
 description: 'Beyond standard hormone tests, these offer deeper insights into metabolic
   health, growth factors, and the hormones that influence physical performance and
   recovery. These hormones influence reproductive health, aging, and metabolism, regulating
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: extended_hormone_health
 type: labtestpanel
-updated: '2026-04-14T12:22:48.190969Z'
+updated: '2026-04-14T12:36:39.961898Z'
 ---
 
 {% raw %}

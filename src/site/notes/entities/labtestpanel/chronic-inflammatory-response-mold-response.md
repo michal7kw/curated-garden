@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:22:48.180732Z'
+created: '2026-04-14T12:36:39.951530Z'
 description: Testing for Chronic Inflammatory Response Syndrome (CIRS), often associated
   with mold illness, offers insights into the body’s inflammatory response to mold
   and other environmental toxins. However, it does not directly detect mold exposure
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: chronic_inflammatory_response_mold_response
 type: labtestpanel
-updated: '2026-04-14T12:22:48.180732Z'
+updated: '2026-04-14T12:36:39.951530Z'
 ---
 
 {% raw %}

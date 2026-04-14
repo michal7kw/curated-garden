@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:22:47.253093Z'
+created: '2026-04-14T12:36:39.144622Z'
 description: Generation of new neurons from neural stem and progenitor cells, occurring
   primarily in the hippocampal dentate gyrus and subventricular zone in the adult
   brain, with implications for memory, mood, and neurodegenerative disease.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Neurogenesis
 type: biologicalprocess
-updated: '2026-04-14T12:22:47.253093Z'
+updated: '2026-04-14T12:36:39.144622Z'
 ---
 
 {% raw %}

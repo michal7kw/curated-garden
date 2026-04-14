@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:22:47.331944Z'
+created: '2026-04-14T12:36:39.197826Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/insulin-fasting/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Insulin Fasting
 type: biomarker
-updated: '2026-04-14T12:22:47.331944Z'
+updated: '2026-04-14T12:36:39.197826Z'
 ---
 
 {% raw %}

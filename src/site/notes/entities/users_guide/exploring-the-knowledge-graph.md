@@ -1,6 +1,7 @@
 ---
-created: '2026-04-14T12:22:48.446528Z'
-description: User guide for the MKG platform
+created: '2026-04-14T12:36:40.199174Z'
+description: Visual graph exploration, search, BodyMap anatomy view, entity detail
+  pages, and PathFinder
 dg-home: false
 dg-publish: true
 permalink: /entities/users_guide/exploring-the-knowledge-graph/
@@ -11,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Exploring the Knowledge Graph
 type: users_guide
-updated: '2026-04-14T12:22:48.446528Z'
+updated: '2026-04-14T12:36:40.199174Z'
 ---
 
 {% raw %}
@@ -144,9 +145,9 @@ updated: '2026-04-14T12:22:48.446528Z'
 </ul>
 <h2>Next Steps</h2>
 <ul>
-<li><a class="internal-link is-unresolved" href="/404">07_Tracking_Biomarkers</a> — Track health measurements alongside your knowledge graph</li>
-<li><a class="internal-link is-unresolved" href="/404">08_Supplements_and_Stacks</a> — Manage supplements informed by graph insights</li>
-<li><a class="internal-link is-unresolved" href="/404">09_AI_Research_Tools</a> — Use AI to discover new connections and research topics</li>
+<li><a href="/entities/users_guide/tracking-biomarkers/" class="internal-link">Tracking Biomarkers</a> — Track health measurements alongside your knowledge graph</li>
+<li><a href="/entities/users_guide/supplements-and-health-stacks/" class="internal-link">Supplements and Health Stacks</a> — Manage supplements informed by graph insights</li>
+<li><a href="/entities/users_guide/ai-research-tools/" class="internal-link">AI Research Tools</a> — Use AI to discover new connections and research topics</li>
 </ul>
 
 {% endraw %}

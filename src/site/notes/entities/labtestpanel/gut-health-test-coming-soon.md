@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:22:48.215541Z'
+created: '2026-04-14T12:36:39.981798Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/labtestpanel/gut-health-test-coming-soon/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: gut_health_test_coming_soon
 type: labtestpanel
-updated: '2026-04-14T12:22:48.215541Z'
+updated: '2026-04-14T12:36:39.981798Z'
 ---
 
 {% raw %}

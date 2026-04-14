@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:22:48.228193Z'
+created: '2026-04-14T12:36:39.992017Z'
 description: Everything in the MRI Scan, plus targeted spine coverage to screen for
   spinal lesions and tumors, herniated discs, cervical spinal stenosis, spondylosis,
   fractures, scoliosis, arthritis, and other degenerative changes.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: mri_scan_with_spine
 type: labtestpanel
-updated: '2026-04-14T12:22:48.228193Z'
+updated: '2026-04-14T12:36:39.992017Z'
 ---
 
 {% raw %}

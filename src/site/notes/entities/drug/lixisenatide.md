@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:22:47.499083Z'
+created: '2026-04-14T12:36:39.309173Z'
 description: GLP-1 receptor agonist for type 2 diabetes. Once-daily injection providing
   predominantly postprandial glucose control. Available as Adlyxin (US) and Lyxumia
   (EU). Short-acting GLP-1 agonist with strong gastric emptying delay effect.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Lixisenatide
 type: drug
-updated: '2026-04-14T12:22:47.499083Z'
+updated: '2026-04-14T12:36:39.309173Z'
 ---
 
 {% raw %}

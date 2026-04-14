@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:22:47.820416Z'
+created: '2026-04-14T12:36:39.558168Z'
 description: Measures insulin levels after fasting. Key marker for insulin resistance
   and metabolic health.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: fasting_insulin
 type: labtest
-updated: '2026-04-14T12:22:47.820416Z'
+updated: '2026-04-14T12:36:39.558168Z'
 ---
 
 {% raw %}

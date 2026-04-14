@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:22:47.323226Z'
+created: '2026-04-14T12:36:39.191912Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/hemoglobin/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Hemoglobin
 type: biomarker
-updated: '2026-04-14T12:22:47.323226Z'
+updated: '2026-04-14T12:36:39.191912Z'
 ---
 
 {% raw %}

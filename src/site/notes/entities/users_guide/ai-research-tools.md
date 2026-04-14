@@ -1,6 +1,7 @@
 ---
-created: '2026-04-14T12:22:48.479962Z'
-description: User guide for the MKG platform
+created: '2026-04-14T12:36:40.218253Z'
+description: AI chat, deep research, PubMed search, entity extraction, note analysis,
+  and citation suggestions
 dg-home: false
 dg-publish: true
 permalink: /entities/users_guide/ai-research-tools/
@@ -11,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: AI Research Tools
 type: users_guide
-updated: '2026-04-14T12:22:48.479962Z'
+updated: '2026-04-14T12:36:40.218253Z'
 ---
 
 {% raw %}
@@ -300,7 +301,7 @@ updated: '2026-04-14T12:22:48.479962Z'
 </ul>
 </li>
 <li>The system fetches data and creates entity notes</li>
-<li>New entities go to the review queue (see <a class="internal-link is-unresolved" href="/404">02_Understanding_the_Vault</a>)</li>
+<li>New entities go to the review queue (see <a href="/entities/users_guide/understanding-the-vault/" class="internal-link">Understanding the Vault</a>)</li>
 </ol>
 <h2>Research Feed</h2>
 <p>Stay updated on topics you care about:</p>
@@ -332,9 +333,9 @@ updated: '2026-04-14T12:22:48.479962Z'
 <p>Other AI features can have custom hotkeys assigned in the plugin settings under &quot;Hotkey Configuration.&quot;</p>
 <h2>Next Steps</h2>
 <ul>
-<li><a class="internal-link is-unresolved" href="/404">03_Creating_Entities</a> — Create entities to build the knowledge graph AI draws from</li>
-<li><a class="internal-link is-unresolved" href="/404">04_Relationships_and_Links</a> — Add relationships that AI chat and research use for context</li>
-<li><a class="internal-link is-unresolved" href="/404">10_Experiments</a> — Design experiments informed by your research findings</li>
+<li><a href="/entities/users_guide/creating-entities/" class="internal-link">Creating Entities</a> — Create entities to build the knowledge graph AI draws from</li>
+<li><a href="/entities/users_guide/relationships-and-links/" class="internal-link">Relationships and Links</a> — Add relationships that AI chat and research use for context</li>
+<li><a href="/entities/users_guide/experiments/" class="internal-link">Experiments</a> — Design experiments informed by your research findings</li>
 </ul>
 
 {% endraw %}

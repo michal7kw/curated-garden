@@ -1,6 +1,7 @@
 ---
-created: '2026-04-14T12:22:48.492250Z'
-description: User guide for the MKG platform
+created: '2026-04-14T12:36:40.227460Z'
+description: Designing and running N-of-1 self-experiments with phases, biomarker
+  tracking, and statistical analysis
 dg-home: false
 dg-publish: true
 permalink: /entities/users_guide/experiments/
@@ -11,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Experiments
 type: users_guide
-updated: '2026-04-14T12:22:48.492250Z'
+updated: '2026-04-14T12:36:40.227460Z'
 ---
 
 {% raw %}
@@ -330,9 +331,9 @@ updated: '2026-04-14T12:22:48.492250Z'
 </table>
 <h2>Next Steps</h2>
 <ul>
-<li><a class="internal-link is-unresolved" href="/404">07_Tracking_Biomarkers</a> — Track the biomarkers you'll use in experiments</li>
-<li><a class="internal-link is-unresolved" href="/404">08_Supplements_and_Stacks</a> — Find supplements to experiment with</li>
-<li><a class="internal-link is-unresolved" href="/404">09_AI_Research_Tools</a> — Research the science behind your experiment design</li>
+<li><a href="/entities/users_guide/tracking-biomarkers/" class="internal-link">Tracking Biomarkers</a> — Track the biomarkers you'll use in experiments</li>
+<li><a href="/entities/users_guide/supplements-and-health-stacks/" class="internal-link">Supplements and Health Stacks</a> — Find supplements to experiment with</li>
+<li><a href="/entities/users_guide/ai-research-tools/" class="internal-link">AI Research Tools</a> — Research the science behind your experiment design</li>
 </ul>
 
 {% endraw %}

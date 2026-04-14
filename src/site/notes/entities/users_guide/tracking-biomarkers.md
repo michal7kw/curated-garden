@@ -1,6 +1,7 @@
 ---
-created: '2026-04-14T12:22:48.455198Z'
-description: User guide for the MKG platform
+created: '2026-04-14T12:36:40.205557Z'
+description: Adding biomarker readings, uploading lab reports, reference ranges, trends,
+  and anomaly alerts
 dg-home: false
 dg-publish: true
 permalink: /entities/users_guide/tracking-biomarkers/
@@ -11,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Tracking Biomarkers
 type: users_guide
-updated: '2026-04-14T12:22:48.455198Z'
+updated: '2026-04-14T12:36:40.205557Z'
 ---
 
 {% raw %}
@@ -184,7 +185,7 @@ updated: '2026-04-14T12:22:48.455198Z'
 <li>Associated conditions</li>
 <li>Testing requirements (fasting, sample type)</li>
 </ul>
-<p>To explore a biomarker's knowledge graph entry, click its name anywhere in the dashboard to open the entity detail page. See <a class="internal-link is-unresolved" href="/404">06_Exploring_the_Knowledge_Graph</a> for more on entity exploration.</p>
+<p>To explore a biomarker's knowledge graph entry, click its name anywhere in the dashboard to open the entity detail page. See <a href="/entities/users_guide/exploring-the-knowledge-graph/" class="internal-link">Exploring the Knowledge Graph</a> for more on entity exploration.</p>
 <h2>Connecting Biomarkers to Supplements</h2>
 <p>One of MKG's most powerful features is understanding how supplements affect biomarkers:</p>
 <ul>
@@ -203,9 +204,9 @@ updated: '2026-04-14T12:22:48.455198Z'
 <p>Access it from the Biomarkers page toolbar.</p>
 <h2>Next Steps</h2>
 <ul>
-<li><a class="internal-link is-unresolved" href="/404">08_Supplements_and_Stacks</a> — Manage supplements based on your biomarker insights</li>
-<li><a class="internal-link is-unresolved" href="/404">10_Experiments</a> — Run experiments tracking how interventions affect your biomarkers</li>
-<li><a class="internal-link is-unresolved" href="/404">03_Creating_Entities</a> — Create biomarker entity notes in your vault</li>
+<li><a href="/entities/users_guide/supplements-and-health-stacks/" class="internal-link">Supplements and Health Stacks</a> — Manage supplements based on your biomarker insights</li>
+<li><a href="/entities/users_guide/experiments/" class="internal-link">Experiments</a> — Run experiments tracking how interventions affect your biomarkers</li>
+<li><a href="/entities/users_guide/creating-entities/" class="internal-link">Creating Entities</a> — Create biomarker entity notes in your vault</li>
 </ul>
 
 {% endraw %}

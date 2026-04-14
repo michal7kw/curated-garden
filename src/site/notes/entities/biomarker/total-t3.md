@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:22:47.392884Z'
+created: '2026-04-14T12:36:39.238499Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/total-t3/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Total T3
 type: biomarker
-updated: '2026-04-14T12:22:47.392884Z'
+updated: '2026-04-14T12:36:39.238499Z'
 ---
 
 {% raw %}

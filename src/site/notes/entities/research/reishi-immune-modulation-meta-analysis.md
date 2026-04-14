@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:22:48.364859Z'
+created: '2026-04-14T12:36:40.143342Z'
 description: Meta-analysis and systematic review of randomized controlled trials examining
   the immunomodulatory effects of Ganoderma lucidum (Reishi) supplementation, focusing
   on NK cell activity, cytokine profiles, and immune cell counts.
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Reishi Immune Modulation Meta-Analysis
 type: research
-updated: '2026-04-14T12:22:48.364859Z'
+updated: '2026-04-14T12:36:40.143342Z'
 ---
 
 {% raw %}

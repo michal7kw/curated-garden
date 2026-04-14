@@ -1,6 +1,7 @@
 ---
-created: '2026-04-14T12:22:48.387766Z'
-description: User guide for the MKG platform
+created: '2026-04-14T12:36:40.160347Z'
+description: Overview of the MKG platform — what it does, who it's for, and what's
+  possible
 dg-home: false
 dg-publish: true
 permalink: /entities/users_guide/welcome-to-mkg/
@@ -11,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Welcome to MKG
 type: users_guide
-updated: '2026-04-14T12:22:48.387766Z'
+updated: '2026-04-14T12:36:40.160347Z'
 ---
 
 {% raw %}
@@ -120,8 +121,8 @@ updated: '2026-04-14T12:22:48.387766Z'
 <h2>Important Disclaimer</h2>
 <p>MKG is an educational and organizational tool for health knowledge. It is <strong>not</strong> a substitute for professional medical advice, diagnosis, or treatment. Always consult qualified healthcare providers for medical decisions. The information in this platform is for research and informational purposes only.</p>
 <h2>Next Steps</h2>
-<p>Ready to get started? Head to <a class="internal-link is-unresolved" href="/404">01_Getting_Started</a> to set up your vault and plugin.</p>
-<p>Want to understand the vault structure first? See <a class="internal-link is-unresolved" href="/404">02_Understanding_the_Vault</a>.</p>
-<p>Prefer to explore the web dashboard? See <a class="internal-link is-unresolved" href="/404">12_Web_Dashboard_Tour</a>.</p>
+<p>Ready to get started? Head to <a href="/entities/users_guide/getting-started/" class="internal-link">Getting Started</a> to set up your vault and plugin.</p>
+<p>Want to understand the vault structure first? See <a href="/entities/users_guide/understanding-the-vault/" class="internal-link">Understanding the Vault</a>.</p>
+<p>Prefer to explore the web dashboard? See <a href="/entities/users_guide/web-dashboard-tour/" class="internal-link">Web Dashboard Tour</a>.</p>
 
 {% endraw %}

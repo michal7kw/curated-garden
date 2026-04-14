@@ -1,6 +1,6 @@
 ---
-created: '2026-04-14T12:22:48.503410Z'
-description: User guide for the MKG platform
+created: '2026-04-14T12:36:40.235171Z'
+description: Publishing your curated health knowledge as a public digital garden website
 dg-home: false
 dg-publish: true
 permalink: /entities/users_guide/digital-garden/
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: Digital Garden
 type: users_guide
-updated: '2026-04-14T12:22:48.503410Z'
+updated: '2026-04-14T12:36:40.235171Z'
 ---
 
 {% raw %}
@@ -134,9 +134,9 @@ dg-publish: true    # Add this line
 </ul>
 <h2>Next Steps</h2>
 <ul>
-<li><a class="internal-link is-unresolved" href="/404">03_Creating_Entities</a> — Create high-quality entities worth publishing</li>
-<li><a class="internal-link is-unresolved" href="/404">13_Tips_and_Best_Practices</a> — Quality standards for public-facing content</li>
-<li><a class="internal-link is-unresolved" href="/404">04_Relationships_and_Links</a> — Rich relationships make your garden more valuable</li>
+<li><a href="/entities/users_guide/creating-entities/" class="internal-link">Creating Entities</a> — Create high-quality entities worth publishing</li>
+<li><a href="/entities/users_guide/tips-and-best-practices/" class="internal-link">Tips and Best Practices</a> — Quality standards for public-facing content</li>
+<li><a href="/entities/users_guide/relationships-and-links/" class="internal-link">Relationships and Links</a> — Rich relationships make your garden more valuable</li>
 </ul>
 
 {% endraw %}
