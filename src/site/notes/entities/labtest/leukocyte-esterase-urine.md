@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:09:05.103111Z'
+created: '2026-04-14T12:22:47.945043Z'
 description: Leukocyte esterase in urine is an enzyme released by white blood cells
   (WBCs), and its presence in urine often signals the body is responding to infection
   or inflammation in the urinary tract. A positive result suggests a possible urinary
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: leukocyte_esterase_urine
 type: labtest
-updated: '2026-04-14T12:09:05.103111Z'
+updated: '2026-04-14T12:22:47.945043Z'
 ---
 
 {% raw %}

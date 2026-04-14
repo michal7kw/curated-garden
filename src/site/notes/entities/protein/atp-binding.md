@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:09:05.491937Z'
+created: '2026-04-14T12:22:48.329337Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: ATP binding
 type: protein
-updated: '2026-04-14T12:09:05.491937Z'
+updated: '2026-04-14T12:22:48.329337Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:09:05.154242Z'
+created: '2026-04-14T12:22:48.001183Z'
 description: Tested twice a year Neutrophils are the most abundant type of white blood
   cell (WBC) and act as frontline defenders against infection by engulfing and digesting
   pathogens. They are produced in the bone marrow and rapidly mobilize to sites of
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: neutrophils
 type: labtest
-updated: '2026-04-14T12:09:05.154242Z'
+updated: '2026-04-14T12:22:48.001183Z'
 ---
 
 {% raw %}

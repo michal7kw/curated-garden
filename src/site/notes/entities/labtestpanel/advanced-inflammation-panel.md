@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:09:05.333572Z'
+created: '2026-04-14T12:22:48.167533Z'
 description: Multi-marker panel assessing systemic inflammation through complementary
   pathways. hs-CRP for vascular inflammation, ESR for chronic inflammation, fibrinogen
   for acute phase and clotting risk, and ferritin as both iron store and acute phase
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: advanced_inflammation_panel
 type: labtestpanel
-updated: '2026-04-14T12:09:05.333572Z'
+updated: '2026-04-14T12:22:48.167533Z'
 ---
 
 {% raw %}

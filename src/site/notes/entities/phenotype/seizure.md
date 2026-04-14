@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:09:05.473561Z'
+created: '2026-04-14T12:22:48.312062Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Seizure
 type: phenotype
-updated: '2026-04-14T12:09:05.473561Z'
+updated: '2026-04-14T12:22:48.312062Z'
 ---
 
 {% raw %}

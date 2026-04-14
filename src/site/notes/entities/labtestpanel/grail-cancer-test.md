@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:09:05.369261Z'
+created: '2026-04-14T12:22:48.210382Z'
 description: The GRAIL Cancer Test screens for signals associated with more than 50
   types of cancer using just one blood draw. The test may identify cancer signals
   before clinical symptoms appear, offering an opportunity to find cancer earlier
@@ -21,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: grail_cancer_test
 type: labtestpanel
-updated: '2026-04-14T12:09:05.369261Z'
+updated: '2026-04-14T12:22:48.210382Z'
 ---
 
 {% raw %}

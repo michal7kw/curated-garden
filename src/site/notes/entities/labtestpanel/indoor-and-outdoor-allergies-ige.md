@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:09:05.375290Z'
+created: '2026-04-14T12:22:48.218178Z'
 description: These tests help identify specific indoor and outdoor allergens that
   trigger allergic reactions or exacerbate underlying respiratory conditions like
   asthma. Identifying environmental allergens can help guide interventions to minimize
@@ -34,7 +34,7 @@ tags:
 templateEngineOverride: njk
 title: indoor_and_outdoor_allergies_ige
 type: labtestpanel
-updated: '2026-04-14T12:09:05.375290Z'
+updated: '2026-04-14T12:22:48.218178Z'
 ---
 
 {% raw %}

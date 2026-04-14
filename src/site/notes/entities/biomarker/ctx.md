@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:09:04.563208Z'
+created: '2026-04-14T12:22:47.272254Z'
 description: C-terminal telopeptide of type I collagen is a degradation product released
   during bone resorption. It is the preferred marker for monitoring anti-resorptive
   therapy efficacy in osteoporosis treatment.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: CTX
 type: biomarker
-updated: '2026-04-14T12:09:04.563208Z'
+updated: '2026-04-14T12:22:47.272254Z'
 ---
 
 {% raw %}

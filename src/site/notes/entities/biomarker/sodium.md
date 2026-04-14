@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:09:04.686532Z'
+created: '2026-04-14T12:22:47.371392Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/sodium/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Sodium
 type: biomarker
-updated: '2026-04-14T12:09:04.686532Z'
+updated: '2026-04-14T12:22:47.371392Z'
 ---
 
 {% raw %}

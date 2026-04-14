@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:09:04.757689Z'
+created: '2026-04-14T12:22:47.474969Z'
 description: GLP-1 receptor agonist for type 2 diabetes. Once-weekly injection providing
   convenient glycemic control with cardiovascular benefit. Available as Trulicity.
   Demonstrated cardiovascular safety in REWIND trial.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Dulaglutide
 type: drug
-updated: '2026-04-14T12:09:04.757689Z'
+updated: '2026-04-14T12:22:47.474969Z'
 ---
 
 {% raw %}

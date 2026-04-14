@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:09:05.384584Z'
+created: '2026-04-14T12:22:48.229358Z'
 description: This test identifies DNA mutations in the MTHFR (methylenetetrahydrofolate
   reductase) gene, which influence homocysteine regulation and the metabolism of folate
   (vitamin B9) and other B vitamins. Both are integral for metabolic and cellular
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: mthfr_gene
 type: labtestpanel
-updated: '2026-04-14T12:09:05.384584Z'
+updated: '2026-04-14T12:22:48.229358Z'
 ---
 
 {% raw %}

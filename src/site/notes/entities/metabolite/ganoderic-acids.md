@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:09:05.395657Z'
+created: '2026-04-14T12:22:48.240642Z'
 description: Triterpenoid compounds found in Ganoderma lucidum (Reishi mushroom) with
   anti-inflammatory, hepatoprotective, anti-tumor, and anti-histamine properties.
   Over 130 ganoderic acids have been identified, with ganoderic acids A, B, C, and
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Ganoderic Acids
 type: metabolite
-updated: '2026-04-14T12:09:05.395657Z'
+updated: '2026-04-14T12:22:48.240642Z'
 ---
 
 {% raw %}

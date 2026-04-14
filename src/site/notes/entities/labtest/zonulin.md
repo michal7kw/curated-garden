@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:09:05.330588Z'
+created: '2026-04-14T12:22:48.165234Z'
 description: Zonulin test measures the serum or stool level of this protein that regulates
   intestinal permeability by modulating tight junctions between enterocytes. Elevated
   zonulin indicates increased intestinal permeability (leaky gut) and is associated
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: zonulin
 type: labtest
-updated: '2026-04-14T12:09:05.330588Z'
+updated: '2026-04-14T12:22:48.165234Z'
 ---
 
 {% raw %}

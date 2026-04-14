@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:09:04.666171Z'
+created: '2026-04-14T12:22:47.349981Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/mcv/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Mcv
 type: biomarker
-updated: '2026-04-14T12:09:04.666171Z'
+updated: '2026-04-14T12:22:47.349981Z'
 ---
 
 {% raw %}

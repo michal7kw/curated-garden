@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:09:05.083974Z'
+created: '2026-04-14T12:22:47.916412Z'
 description: Tested twice a year LDL cholesterol is responsible for carrying cholesterol
   from the liver to cells throughout the body. Despite its good intentions, LDL is
   often called “bad” cholesterol, because when it's in excess, it can deposit in artery
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: ldl_cholesterol
 type: labtest
-updated: '2026-04-14T12:09:05.083974Z'
+updated: '2026-04-14T12:22:47.916412Z'
 ---
 
 {% raw %}

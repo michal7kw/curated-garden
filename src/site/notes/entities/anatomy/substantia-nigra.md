@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:09:04.540053Z'
+created: '2026-04-14T12:22:47.250173Z'
 description: Midbrain structure containing the brain's densest dopamine-producing
   neurons. The pars compacta provides dopaminergic input to the striatum; its degeneration
   causes Parkinson's disease.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Substantia Nigra
 type: Anatomy
-updated: '2026-04-14T12:09:04.540053Z'
+updated: '2026-04-14T12:22:47.250173Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:09:05.410062Z'
+created: '2026-04-14T12:22:48.253994Z'
 description: The GLP-1 receptor signaling cascade activated by GLP-1 hormone and GLP-1
   receptor agonists. Involves Gs-cAMP-PKA signaling, Epac pathway, PI3K-Akt, and MAPK/ERK
   activation, leading to enhanced insulin secretion, beta-cell preservation, cardioprotection,
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: GLP-1 Signaling Pathway
 type: pathway
-updated: '2026-04-14T12:09:05.410062Z'
+updated: '2026-04-14T12:22:48.253994Z'
 ---
 
 {% raw %}

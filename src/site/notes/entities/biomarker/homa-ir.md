@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:09:04.637064Z'
+created: '2026-04-14T12:22:47.327398Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/homa-ir/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Homa Ir
 type: biomarker
-updated: '2026-04-14T12:09:04.637064Z'
+updated: '2026-04-14T12:22:47.327398Z'
 ---
 
 {% raw %}

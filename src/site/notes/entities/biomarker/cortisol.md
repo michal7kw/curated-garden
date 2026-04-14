@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:09:04.580626Z'
+created: '2026-04-14T12:22:47.286234Z'
 description: Cortisol is often called “the stress hormone” because it rises during
   times of pressure or emotional distress, helping the body respond and adapt. Either
   high or low levels can signal chronic stress, sleep problems, or disorders of the
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Cortisol
 type: biomarker
-updated: '2026-04-14T12:09:04.580626Z'
+updated: '2026-04-14T12:22:47.286234Z'
 ---
 
 {% raw %}

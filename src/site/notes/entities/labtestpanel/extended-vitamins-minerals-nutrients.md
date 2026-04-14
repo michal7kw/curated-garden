@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:09:05.359859Z'
+created: '2026-04-14T12:22:48.200881Z'
 description: Evaluates key nutrient levels to ensure your body has the resources to
   support vital functions like energy production, antioxidant defense, immune health,
   thyroid function, and DNA synthesis. With 90% of Americans experiencing one or more
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: extended_vitamins_minerals_nutrients
 type: labtestpanel
-updated: '2026-04-14T12:09:05.359859Z'
+updated: '2026-04-14T12:22:48.200881Z'
 ---
 
 {% raw %}

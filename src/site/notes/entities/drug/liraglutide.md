@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:09:04.768109Z'
+created: '2026-04-14T12:22:47.486410Z'
 description: GLP-1 receptor agonist for type 2 diabetes and obesity. Once-daily injection
   providing glycemic control and weight loss. Available as Victoza (T2DM) and Saxenda
   (obesity). Pioneer GLP-1 agonist with extensive long-term safety data.
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Liraglutide
 type: drug
-updated: '2026-04-14T12:09:04.768109Z'
+updated: '2026-04-14T12:22:47.486410Z'
 ---
 
 {% raw %}

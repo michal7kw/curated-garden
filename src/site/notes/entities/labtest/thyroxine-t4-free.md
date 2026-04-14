@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:09:05.277913Z'
+created: '2026-04-14T12:22:48.115901Z'
 description: Thyroxine (T4) Freeis one of the main hormones made by the thyroid. It
   acts largely as a precursor, since most of it is later converted into T3, the more
   active form. Measuring free T4 shows how much thyroid hormone is being produced
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: thyroxine_t4_free
 type: labtest
-updated: '2026-04-14T12:09:05.277913Z'
+updated: '2026-04-14T12:22:48.115901Z'
 ---
 
 {% raw %}

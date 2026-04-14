@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:09:05.393104Z'
+created: '2026-04-14T12:22:48.237395Z'
 description: Naturally occurring polysaccharides found in the cell walls of mushrooms,
   yeast, oats, and barley. Beta-glucans from medicinal mushrooms activate innate immunity
   via Dectin-1 and complement receptor 3, enhancing macrophage, NK cell, and dendritic
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Beta-Glucans
 type: metabolite
-updated: '2026-04-14T12:09:05.393104Z'
+updated: '2026-04-14T12:22:48.237395Z'
 ---
 
 {% raw %}

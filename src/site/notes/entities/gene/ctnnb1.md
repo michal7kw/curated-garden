@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:09:05.496628Z'
+created: '2026-04-14T12:22:48.336535Z'
 description: Encodes Beta-Catenin, a dual-function protein involved in cell adhesion
   and Wnt signaling.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: CTNNB1
 type: gene
-updated: '2026-04-14T12:09:05.496628Z'
+updated: '2026-04-14T12:22:48.336535Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:09:05.285149Z'
+created: '2026-04-14T12:22:48.120434Z'
 description: Tested twice a year Total bilirubin measures all forms of bilirubin,
   a yellow substance made when the body breaks down old red blood cells. Normally,
   the liver processes bilirubin so it can be removed from the body. Measuring total
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: total_bilirubin
 type: labtest
-updated: '2026-04-14T12:09:05.285149Z'
+updated: '2026-04-14T12:22:48.120434Z'
 ---
 
 {% raw %}

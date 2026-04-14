@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:09:05.534238Z'
+created: '2026-04-14T12:22:48.375990Z'
 description: Potentially life-threatening condition caused by excess serotonergic
   activity in the central and peripheral nervous system, typically from drug combinations
   that increase serotonin synthesis, decrease reuptake, or directly stimulate serotonin
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Serotonin Syndrome
 type: sideeffect
-updated: '2026-04-14T12:09:05.534238Z'
+updated: '2026-04-14T12:22:48.375990Z'
 ---
 
 {% raw %}

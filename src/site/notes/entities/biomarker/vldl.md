@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:09:04.706862Z'
+created: '2026-04-14T12:22:47.406538Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/vldl/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Vldl
 type: biomarker
-updated: '2026-04-14T12:09:04.706862Z'
+updated: '2026-04-14T12:22:47.406538Z'
 ---
 
 {% raw %}

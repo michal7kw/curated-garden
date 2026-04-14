@@ -1,5 +1,5 @@
 ---
-created: '2026-04-14T12:09:04.555135Z'
+created: '2026-04-14T12:22:47.268459Z'
 description: B-type Natriuretic Peptide is a hormone released by ventricular cardiomyocytes
   in response to increased wall stress from volume overload or pressure overload,
   serving as the primary biomarker for heart failure diagnosis and monitoring.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: BNP
 type: biomarker
-updated: '2026-04-14T12:09:04.555135Z'
+updated: '2026-04-14T12:22:47.268459Z'
 ---
 
 {% raw %}
