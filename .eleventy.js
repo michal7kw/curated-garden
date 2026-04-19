@@ -812,6 +812,18 @@ module.exports = function (eleventyConfig) {
   });
 
   /**
+   * URL builder for entity pages.
+   * Admin curated content lives under the pseudo-garden "entities/" folder and is
+   * served at flat /entities/{type}/{slug}/ paths (see notes.11tydata.js:117).
+   * Real user gardens use the multi-user /garden/{username}/{type}/{slug}/ pattern.
+   * Use as a Nunjucks filter: {{ garden.username | gardenEntryUrl(type, slug) }}
+   */
+  eleventyConfig.addFilter('gardenEntryUrl', function (username, type, slug) {
+    if (username === 'entities') return `/entities/${type}/${slug}/`;
+    return `/garden/${username}/${type}/${slug}/`;
+  });
+
+  /**
    * Filter to group notes by entity type for a garden index.
    */
   eleventyConfig.addFilter('groupByType', function (notes) {

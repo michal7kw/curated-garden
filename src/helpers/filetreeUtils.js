@@ -109,13 +109,18 @@ function assignNested(obj, keyPath, value) {
   obj[keyPath[lastKeyIndex]] = value;
 }
 
+let _fileTreeCache = null;
 function getFileTree(data) {
+  if (_fileTreeCache && _fileTreeCache.collection === data.collections.note) {
+    return _fileTreeCache.result;
+  }
   const tree = {};
   (data.collections.note || []).forEach((note) => {
     const [meta, folders] = getPermalinkMeta(note);
     assignNested(tree, folders, { isNote: true, ...meta });
   });
   const fileTree = sortTree(tree);
+  _fileTreeCache = { collection: data.collections.note, result: fileTree };
   return fileTree;
 }
 

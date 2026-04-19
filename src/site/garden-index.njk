@@ -217,7 +217,7 @@ permalink: /garden/{{ garden.username }}/
             <div class="entity-grid">
               {% for note in notes %}
                 {% set noteSlug = note.data.slug or (note.data.title | slugify) or note.fileSlug %}
-                <a href="/garden/{{ garden.username }}/{{ type }}/{{ noteSlug }}/" class="entity-card">
+                <a href="{{ garden.username | gardenEntryUrl(type, noteSlug) }}" class="entity-card">
                   <span class="entity-type">{{ note.data.entityType or type }}</span>
                   <h3>{{ note.data.title or note.fileSlug }}</h3>
                   {% if note.data.description %}

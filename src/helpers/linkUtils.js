@@ -43,7 +43,11 @@ function extractLinks(content) {
   ];
 }
 
+let _graphCache = null;
 function getGraph(data) {
+  if (_graphCache && _graphCache.collection === data.collections.note) {
+    return _graphCache.result;
+  }
   let nodes = {};
   let links = [];
   let stemURLs = {};
@@ -138,11 +142,13 @@ function getGraph(data) {
     nodes[k].backLinks = Array.from(nodes[k].backLinks);
     nodes[k].size = nodes[k].neighbors.length;
   });
-  return {
+  const result = {
     homeAlias,
     nodes,
     links,
   };
+  _graphCache = { collection: data.collections.note, result };
+  return result;
 }
 
 exports.wikiLinkRegex = wikiLinkRegex;

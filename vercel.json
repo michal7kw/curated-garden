@@ -3,17 +3,18 @@
   "installCommand": "npm install",
   "buildCommand": "npm run build",
   "devCommand": "npm run start",
-  "redirects": [
+  "routes": [
+    { "handle": "filesystem" },
     {
-      "source": "/personal-health-dashboard",
-      "destination": "/garden/dev_admin/dashboard/",
-      "permanent": true
+      "src": "^/personal-health-dashboard/?$",
+      "status": 308,
+      "headers": { "Location": "/garden/entities/dashboard/" }
     },
     {
-      "source": "/personal-health-dashboard/",
-      "destination": "/garden/dev_admin/dashboard/",
-      "permanent": true
-    }
-  ],
-  "routes": [{ "handle": "filesystem" }, { "src": "/(.*)", "status": 404, "dest": "/404" }]
+      "src": "^/garden/entities/([^/]+)/([^/]+)/?$",
+      "status": 308,
+      "headers": { "Location": "/entities/$1/$2/" }
+    },
+    { "src": "/(.*)", "status": 404, "dest": "/404" }
+  ]
 }

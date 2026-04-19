@@ -22,11 +22,6 @@ This directory contains a customized digital garden template for publishing medi
 - **Daily Metrics** - Health metrics tracking and visualization
 - **Search Functionality** - Full-text search across published content
 
-### API Integration (`api/`)
-- **Note Submission** (`submit-note.js`) - API endpoint for dynamic note publishing
-- **Serverless Functions** - Vercel-compatible API functions
-- **Real-time Updates** - Live content updates from Obsidian
-
 ### Custom Helpers (`src/helpers/`)
 - **File Tree Utils** - Navigation structure generation
 - **Link Utils** - Cross-reference and backlink processing  

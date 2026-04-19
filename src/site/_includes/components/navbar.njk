@@ -1,13 +1,9 @@
 {%if settings.dgHomeLink === true%}
     <nav class="navbar">
         <div class="navbar-inner">
-            <a href="/" style="text-decoration: none;">
-                <h1 style="margin: 15px !important;">{{meta.siteName}}</h1>
+            <a href="/" style="text-decoration: none; margin: 15px; font-size: 1.5rem; display: inline-flex; align-items: center;" aria-label="Home">
+                <i icon-name="home"></i>
             </a>
-        </div>
-        <div class="navbar-links">
-            <a href="/lab-tests/">Log Lab Test</a>
-            <a href="/daily-metrics/">Log Daily Metrics</a>
         </div>
         {% if settings.dgEnableSearch === true%}
             {% include "components/searchButton.njk" %}
