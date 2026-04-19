@@ -112,18 +112,18 @@ eleventyExcludeFromCollections: true
 
   // Entity type colors matching graphScript.njk and _entity-types.scss
   var homeEntityTypeColors = {
-    biomarker: '#4CAF50',
-    drug: '#2196F3',
-    supplement: '#9C27B0',
-    condition: '#FF9800',
-    intervention: '#00BCD4',
-    hormone: '#E91E63',
-    organ: '#795548',
-    protein: '#3F51B5',
-    metabolite: '#607D8B',
-    gene: '#8BC34A',
-    neurotransmitter: '#FF5722',
-    cellularcomponent: '#009688',
+    biomarker: '#22C55E',
+    drug: '#3B82F6',
+    supplement: '#A855F7',
+    condition: '#F97316',
+    intervention: '#06B6D4',
+    hormone: '#EC4899',
+    organ: '#78350F',
+    protein: '#6366F1',
+    metabolite: '#64748B',
+    gene: '#84CC16',
+    neurotransmitter: '#F43F5E',
+    cellularcomponent: '#14B8A6',
     'default': '#888888'
   };
 
@@ -257,37 +257,37 @@ eleventyExcludeFromCollections: true
       <span class="stat-count" x-text="nodeCount">...</span>
       <span class="stat-label">Total</span>
     </div>
-    <a href="/entities/biomarker/" class="stat-chip" style="--chip-color: #4CAF50;">
+    <a href="/entities/biomarker/" class="stat-chip" style="--chip-color: #22C55E;">
       <span class="stat-icon">📊</span>
       <span class="stat-count" x-text="typeCounts.biomarker || 0">0</span>
       <span class="stat-label">Biomarkers</span>
     </a>
-    <a href="/entities/drug/" class="stat-chip" style="--chip-color: #2196F3;">
+    <a href="/entities/drug/" class="stat-chip" style="--chip-color: #3B82F6;">
       <span class="stat-icon">💊</span>
       <span class="stat-count" x-text="typeCounts.drug || 0">0</span>
       <span class="stat-label">Drugs</span>
     </a>
-    <a href="/entities/supplement/" class="stat-chip" style="--chip-color: #9C27B0;">
+    <a href="/entities/supplement/" class="stat-chip" style="--chip-color: #A855F7;">
       <span class="stat-icon">🌿</span>
       <span class="stat-count" x-text="typeCounts.supplement || 0">0</span>
       <span class="stat-label">Supplements</span>
     </a>
-    <a href="/entities/condition/" class="stat-chip" style="--chip-color: #FF9800;">
+    <a href="/entities/condition/" class="stat-chip" style="--chip-color: #F97316;">
       <span class="stat-icon">🏥</span>
       <span class="stat-count" x-text="typeCounts.condition || 0">0</span>
       <span class="stat-label">Conditions</span>
     </a>
-    <a href="/entities/intervention/" class="stat-chip" style="--chip-color: #00BCD4;">
+    <a href="/entities/intervention/" class="stat-chip" style="--chip-color: #06B6D4;">
       <span class="stat-icon">⚡</span>
       <span class="stat-count" x-text="typeCounts.intervention || 0">0</span>
       <span class="stat-label">Interventions</span>
     </a>
-    <a href="/entities/protein/" class="stat-chip" style="--chip-color: #3F51B5;">
+    <a href="/entities/protein/" class="stat-chip" style="--chip-color: #6366F1;">
       <span class="stat-icon">🧬</span>
       <span class="stat-count" x-text="typeCounts.protein || 0">0</span>
       <span class="stat-label">Proteins</span>
     </a>
-    <a href="/entities/hormone/" class="stat-chip" style="--chip-color: #E91E63;">
+    <a href="/entities/hormone/" class="stat-chip" style="--chip-color: #EC4899;">
       <span class="stat-icon">🧬</span>
       <span class="stat-count" x-text="typeCounts.hormone || 0">0</span>
       <span class="stat-label">Hormones</span>
@@ -313,13 +313,13 @@ eleventyExcludeFromCollections: true
           <button class="home-legend-close" x-on:click="showLegend = false">&times;</button>
         </div>
         <div class="home-legend-items">
-          <div class="home-legend-item"><span class="legend-dot" style="background: #4CAF50;"></span> Biomarker</div>
-          <div class="home-legend-item"><span class="legend-dot" style="background: #2196F3;"></span> Drug</div>
-          <div class="home-legend-item"><span class="legend-dot" style="background: #9C27B0;"></span> Supplement</div>
-          <div class="home-legend-item"><span class="legend-dot" style="background: #FF9800;"></span> Condition</div>
-          <div class="home-legend-item"><span class="legend-dot" style="background: #00BCD4;"></span> Intervention</div>
-          <div class="home-legend-item"><span class="legend-dot" style="background: #E91E63;"></span> Hormone</div>
-          <div class="home-legend-item"><span class="legend-dot" style="background: #3F51B5;"></span> Protein</div>
+          <div class="home-legend-item"><span class="legend-dot" style="background: #22C55E;"></span> Biomarker</div>
+          <div class="home-legend-item"><span class="legend-dot" style="background: #3B82F6;"></span> Drug</div>
+          <div class="home-legend-item"><span class="legend-dot" style="background: #A855F7;"></span> Supplement</div>
+          <div class="home-legend-item"><span class="legend-dot" style="background: #F97316;"></span> Condition</div>
+          <div class="home-legend-item"><span class="legend-dot" style="background: #06B6D4;"></span> Intervention</div>
+          <div class="home-legend-item"><span class="legend-dot" style="background: #EC4899;"></span> Hormone</div>
+          <div class="home-legend-item"><span class="legend-dot" style="background: #6366F1;"></span> Protein</div>
           <div class="home-legend-item"><span class="legend-dot" style="background: #888888;"></span> Other</div>
         </div>
       </div>
@@ -388,7 +388,7 @@ eleventyExcludeFromCollections: true
           <span class="cat-desc">Enzymes, receptors, and signaling molecules</span>
         </div>
       </a>
-      <a href="/entities/users_guide/mkg-platform-user-guide/" class="home-cat-card" style="--cat-color: #78909C;">
+      <a href="/entities/users_guide/mkg-platform-user-guide/" class="home-cat-card" style="--cat-color: #475569;">
         <span class="cat-icon">📖</span>
         <div class="cat-content">
           <span class="cat-label">User Guide</span>

@@ -7,27 +7,27 @@
 // =============================================================================
 
 $entity-colors: (
-  biomarker: #4CAF50,      // Green
-  drug: #2196F3,           // Blue
-  supplement: #9C27B0,     // Purple
-  condition: #FF9800,      // Orange
-  intervention: #00BCD4,   // Cyan
-  hormone: #E91E63,        // Pink
-  organ: #795548,          // Brown
-  metabolite: #607D8B,     // Blue-gray
-  gene: #8BC34A,           // Light green
-  protein: #3F51B5,        // Indigo
-  neurotransmitter: #FF5722, // Deep orange
-  cellularcomponent: #009688, // Teal
+  biomarker: #22C55E,      // Green
+  drug: #3B82F6,           // Blue
+  supplement: #A855F7,     // Purple
+  condition: #F97316,      // Orange
+  intervention: #06B6D4,   // Cyan
+  hormone: #EC4899,        // Pink
+  organ: #78350F,          // Brown
+  metabolite: #64748B,     // Blue-gray
+  gene: #84CC16,           // Light green
+  protein: #6366F1,        // Indigo
+  neurotransmitter: #F43F5E, // Deep orange
+  cellularcomponent: #14B8A6, // Teal
   // Additional entity types from curated_kg
-  clinicalpattern: #FF7043, // Deep orange (lighter)
-  cognitivefunction: #7E57C2, // Deep purple
-  examination: #26A69A,    // Teal (lighter)
-  labtest: #42A5F5,        // Blue (lighter)
-  labtestpanel: #5C6BC0,   // Indigo (lighter)
-  pathway: #66BB6A,        // Green (lighter)
-  phenotype: #AB47BC,      // Purple
-  research: #78909C        // Blue-gray (lighter)
+  clinicalpattern: #FB7185, // Deep orange (lighter)
+  cognitivefunction: #8B5CF6, // Deep purple
+  examination: #0D9488,    // Teal (lighter)
+  labtest: #0EA5E9,        // Blue (lighter)
+  labtestpanel: #4F46E5,   // Indigo (lighter)
+  pathway: #10B981,        // Green (lighter)
+  phenotype: #D946EF,      // Purple
+  research: #475569        // Blue-gray (lighter)
 );
 
 // Entity icons using emoji
@@ -250,7 +250,7 @@ $entity-icons: (
 
       &.high {
         background: rgba(76, 175, 80, 0.2);
-        color: #4caf50;
+        color: #22C55E;
       }
 
       &.moderate {
@@ -260,7 +260,7 @@ $entity-icons: (
 
       &.low {
         background: rgba(255, 152, 0, 0.2);
-        color: #ff9800;
+        color: #F97316;
       }
     }
   }
@@ -297,23 +297,23 @@ $entity-icons: (
 
     // Specific database colors
     &.pubchem:hover {
-      border-color: #5c6bc0;
-      color: #5c6bc0;
+      border-color: #4F46E5;
+      color: #4F46E5;
     }
 
     &.drugbank:hover {
-      border-color: #26a69a;
-      color: #26a69a;
+      border-color: #0D9488;
+      color: #0D9488;
     }
 
     &.pubmed:hover {
-      border-color: #e91e63;
-      color: #e91e63;
+      border-color: #EC4899;
+      color: #EC4899;
     }
 
     &.doi:hover {
-      border-color: #ff9800;
-      color: #ff9800;
+      border-color: #F97316;
+      color: #F97316;
     }
   }
 
@@ -359,11 +359,11 @@ $entity-icons: (
       }
 
       &.optimal {
-        color: #4caf50;
+        color: #22C55E;
       }
 
       &.high {
-        color: #ff9800;
+        color: #F97316;
       }
     }
   }
@@ -382,9 +382,9 @@ $entity-icons: (
     background: linear-gradient(
       to right,
       #f44336 0%,
-      #ff9800 25%,
-      #4caf50 50%,
-      #ff9800 75%,
+      #F97316 25%,
+      #22C55E 50%,
+      #F97316 75%,
       #f44336 100%
     );
   }
@@ -430,11 +430,11 @@ $entity-icons: (
 
   &.high {
     background: rgba(76, 175, 80, 0.15);
-    color: #4caf50;
+    color: #22C55E;
 
     .evidence-dots {
       .dot {
-        background: #4caf50;
+        background: #22C55E;
       }
     }
   }
@@ -452,11 +452,11 @@ $entity-icons: (
 
   &.low {
     background: rgba(255, 152, 0, 0.15);
-    color: #ff9800;
+    color: #F97316;
 
     .evidence-dots {
       .dot:first-child {
-        background: #ff9800;
+        background: #F97316;
       }
     }
   }
@@ -900,22 +900,22 @@ $entity-icons: (
 // Dark theme adjustments
 .theme-dark {
   .entity-badge {
-    &.biomarker { background-color: darken(#4CAF50, 10%); }
-    &.drug { background-color: darken(#2196F3, 10%); }
-    &.supplement { background-color: darken(#9C27B0, 10%); }
-    &.condition { background-color: darken(#FF9800, 10%); }
-    &.intervention { background-color: darken(#00BCD4, 10%); }
-    &.hormone { background-color: darken(#E91E63, 10%); }
-    &.organ { background-color: darken(#795548, 10%); }
+    &.biomarker { background-color: darken(#22C55E, 10%); }
+    &.drug { background-color: darken(#3B82F6, 10%); }
+    &.supplement { background-color: darken(#A855F7, 10%); }
+    &.condition { background-color: darken(#F97316, 10%); }
+    &.intervention { background-color: darken(#06B6D4, 10%); }
+    &.hormone { background-color: darken(#EC4899, 10%); }
+    &.organ { background-color: darken(#78350F, 10%); }
     // Additional entity types from curated_kg
-    &.clinicalpattern { background-color: darken(#FF7043, 10%); }
-    &.cognitivefunction { background-color: darken(#7E57C2, 10%); }
-    &.examination { background-color: darken(#26A69A, 10%); }
-    &.labtest { background-color: darken(#42A5F5, 10%); }
-    &.labtestpanel { background-color: darken(#5C6BC0, 10%); }
-    &.pathway { background-color: darken(#66BB6A, 10%); }
-    &.phenotype { background-color: darken(#AB47BC, 10%); }
-    &.research { background-color: darken(#78909C, 10%); }
+    &.clinicalpattern { background-color: darken(#FB7185, 10%); }
+    &.cognitivefunction { background-color: darken(#8B5CF6, 10%); }
+    &.examination { background-color: darken(#0D9488, 10%); }
+    &.labtest { background-color: darken(#0EA5E9, 10%); }
+    &.labtestpanel { background-color: darken(#4F46E5, 10%); }
+    &.pathway { background-color: darken(#10B981, 10%); }
+    &.phenotype { background-color: darken(#D946EF, 10%); }
+    &.research { background-color: darken(#475569, 10%); }
   }
 }
 

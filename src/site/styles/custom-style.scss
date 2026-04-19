@@ -131,14 +131,14 @@ main.content {
     }
 
     // Entity type colors
-    &.biomarker { border-left-color: #4CAF50; }
-    &.drug { border-left-color: #2196F3; }
-    &.supplement { border-left-color: #9C27B0; }
-    &.condition { border-left-color: #FF9800; }
-    &.intervention { border-left-color: #00BCD4; }
-    &.protein { border-left-color: #3F51B5; }
-    &.hormone { border-left-color: #E91E63; }
-    &.organ { border-left-color: #795548; }
+    &.biomarker { border-left-color: #22C55E; }
+    &.drug { border-left-color: #3B82F6; }
+    &.supplement { border-left-color: #A855F7; }
+    &.condition { border-left-color: #F97316; }
+    &.intervention { border-left-color: #06B6D4; }
+    &.protein { border-left-color: #6366F1; }
+    &.hormone { border-left-color: #EC4899; }
+    &.organ { border-left-color: #78350F; }
 }
 
 .entity-list {
@@ -164,12 +164,12 @@ main.content {
     }
 
     // Entity type colors
-    &.biomarker { border-left-color: #4CAF50; }
-    &.drug { border-left-color: #2196F3; }
-    &.supplement { border-left-color: #9C27B0; }
-    &.condition { border-left-color: #FF9800; }
-    &.intervention { border-left-color: #00BCD4; }
-    &.protein { border-left-color: #3F51B5; }
+    &.biomarker { border-left-color: #22C55E; }
+    &.drug { border-left-color: #3B82F6; }
+    &.supplement { border-left-color: #A855F7; }
+    &.condition { border-left-color: #F97316; }
+    &.intervention { border-left-color: #06B6D4; }
+    &.protein { border-left-color: #6366F1; }
 }
 
 // =============================================================================
@@ -511,14 +511,14 @@ main.content {
     }
 
     // Medical entity type border colors
-    &.biomarker { border-left-color: #4CAF50; }
-    &.drug { border-left-color: #2196F3; }
-    &.supplement { border-left-color: #9C27B0; }
-    &.condition { border-left-color: #FF9800; }
-    &.intervention { border-left-color: #00BCD4; }
-    &.protein { border-left-color: #3F51B5; }
-    &.hormone { border-left-color: #E91E63; }
-    &.organ { border-left-color: #795548; }
+    &.biomarker { border-left-color: #22C55E; }
+    &.drug { border-left-color: #3B82F6; }
+    &.supplement { border-left-color: #A855F7; }
+    &.condition { border-left-color: #F97316; }
+    &.intervention { border-left-color: #06B6D4; }
+    &.protein { border-left-color: #6366F1; }
+    &.hormone { border-left-color: #EC4899; }
+    &.organ { border-left-color: #78350F; }
 }
 
 // ── Minimal Footer ──
