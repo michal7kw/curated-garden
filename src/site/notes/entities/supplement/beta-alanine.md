@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.062821Z'
+created: '2026-04-19T18:22:22.189509Z'
 description: Non-essential amino acid that increases intramuscular carnosine concentrations,
   buffering hydrogen ions during high-intensity exercise to delay the onset of acidosis
   and extend time to fatigue.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Beta-Alanine
 type: supplement
-updated: '2026-04-17T18:59:21.062821Z'
+updated: '2026-04-19T18:22:22.189509Z'
 ---
 
 {% raw %}
@@ -50,12 +50,12 @@ updated: '2026-04-17T18:59:21.062821Z'
 <li><strong>Timing</strong>: Consistent daily intake; not timing-dependent relative to exercise</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Synergistic With</h3>
-<p>SYNERGISTIC_WITH::<a href="/entities/supplement/creatine/" class="internal-link">Creatine</a><br />
-SYNERGISTIC_WITH::<a href="/entities/supplement/sodium-bicarbonate/" class="internal-link">Sodium_Bicarbonate</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/intervention/hiit-training/" class="internal-link">HIIT_Training</a><br />
 RELATED::<a href="/entities/metabolite/lactate/" class="internal-link">Lactate</a></p>
+<h3>Synergistic With</h3>
+<p>SYNERGISTIC_WITH::<a href="/entities/supplement/creatine/" class="internal-link">Creatine</a><br />
+SYNERGISTIC_WITH::<a href="/entities/supplement/sodium-bicarbonate/" class="internal-link">Sodium_Bicarbonate</a></p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/sarcopenia/" class="internal-link">Sarcopenia</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/acid-base-imbalance/" class="internal-link">Acid-Base_Imbalance</a></p>

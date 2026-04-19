@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.409041Z'
+created: '2026-04-19T18:22:21.382768Z'
 description: Scans for a broad spectrum of conditions, including cancers of the brain,
   thyroid, liver, gallbladder, pancreas, spleen, kidneys, adrenal glands, bladder,
   ovaries, uterus, and prostate. Also scans for signs of stroke, sinus inflammation,
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: mri_scan
 type: labtestpanel
-updated: '2026-04-17T18:59:20.409041Z'
+updated: '2026-04-19T18:22:21.382768Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.632348Z'
+created: '2026-04-19T18:22:21.653984Z'
 description: The metabolic pathway that converts glucose into pyruvate, generating
   2 ATP and 2 NADH per glucose molecule. Occurs in the cytoplasm and is the first
   stage of both aerobic and anaerobic cellular respiration. Rate-limiting enzymes
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Glycolysis
 type: pathway
-updated: '2026-04-17T18:59:20.632348Z'
+updated: '2026-04-19T18:22:21.653984Z'
 ---
 
 {% raw %}

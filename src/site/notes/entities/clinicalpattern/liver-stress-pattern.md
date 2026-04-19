@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.081589Z'
+created: '2026-04-19T18:22:19.334102Z'
 description: Elevated liver enzymes indicating hepatocyte damage or stress. May suggest
   fatty liver disease, medication toxicity, or other hepatic conditions.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Liver Stress Pattern
 type: clinicalpattern
-updated: '2026-04-17T18:59:18.081589Z'
+updated: '2026-04-19T18:22:19.334102Z'
 ---
 
 {% raw %}
@@ -73,13 +73,10 @@ updated: '2026-04-17T18:59:18.081589Z'
 <li><strong>Monitoring</strong>: Repeat liver panel at 3-6 month intervals; FIB-4 or FibroScan annually to track fibrosis; lipid panel and HbA1c (metabolic comorbidities); hepatitis screening if not yet done; refer to hepatology if ALT &gt;5x ULN, progressively rising enzymes, suspected cirrhosis, or diagnostic uncertainty</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Increases Risk For</h3>
-<p>INCREASES_RISK_FOR::<a href="/entities/condition/non-alcoholic-fatty-liver-disease/" class="internal-link">Non-Alcoholic Fatty Liver Disease</a><br />
-INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Cirrhosis</a></p>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">N-Acetyl Cysteine</a><br />
-RELATED::<a href="/entities/biomarker/ggt/" class="internal-link">GGT</a><br />
-RELATED::<a href="/entities/condition/non-alcoholic-fatty-liver-disease/" class="internal-link">Non-Alcoholic Fatty Liver Disease</a><br />
+RELATED::<a href="/entities/biomarker/ggt/" class="internal-link">Ggt</a><br />
+RELATED::<a href="/entities/condition/non-alcoholic-fatty-liver-disease/" class="internal-link">Non-alcoholic Fatty Liver Disease</a><br />
 RELATED::<a href="/entities/organ/liver/" class="internal-link">Liver</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">AST</a><br />
 RELATED::<a href="/entities/supplement/vitamin-e/" class="internal-link">Vitamin E</a><br />
@@ -88,8 +85,11 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Gallbladder</a><br /
 RELATED::<a class="internal-link is-unresolved" href="/404">Milk Thistle</a><br />
 RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">ALT</a></p>
+<h3>Increases Risk For</h3>
+<p>INCREASES_RISK_FOR::<a href="/entities/condition/non-alcoholic-fatty-liver-disease/" class="internal-link">Non-alcoholic Fatty Liver Disease</a><br />
+INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Cirrhosis</a></p>
 <h3>Requires Biomarker</h3>
-<p>REQUIRES_BIOMARKER::<a href="/entities/biomarker/ggt/" class="internal-link">GGT</a><br />
+<p>REQUIRES_BIOMARKER::<a href="/entities/biomarker/ggt/" class="internal-link">Ggt</a><br />
 REQUIRES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">ALT</a><br />
 REQUIRES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">AST</a></p>
 <h3>Improved By Supplement</h3>

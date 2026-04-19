@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.153554Z'
+created: '2026-04-19T18:22:22.297350Z'
 description: Amino acid derivative essential for fatty acid transport into mitochondria
   for energy production. Supports heart health, exercise performance, and cognitive
   function. Multiple forms for different applications.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: L-Carnitine
 type: supplement
-updated: '2026-04-17T18:59:21.153554Z'
+updated: '2026-04-19T18:22:22.297350Z'
 ---
 
 {% raw %}
@@ -38,8 +38,11 @@ updated: '2026-04-17T18:59:21.153554Z'
 <li><strong>Note</strong>: Oral bioavailability is 15-25%; gut bacteria convert excess to TMAO</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Lysine</a> (precursor amino acid for carnitine biosynthesis)<br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Methionine</a> (precursor amino acid for carnitine biosynthesis)</p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a><br />
+<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
@@ -57,8 +60,5 @@ AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Skeletal Muscl
 <h3>Synergistic With</h3>
 <p>SYNERGISTIC_WITH::<a class="internal-link is-unresolved" href="/404">CoQ10</a> (both support mitochondrial energy production via complementary mechanisms, Evidence Level 2b)<br />
 SYNERGISTIC_WITH::<a href="/entities/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a> (combined use supports mitochondrial function and reduces oxidative stress in aging, Evidence Level 2a)</p>
-<h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Lysine</a> (precursor amino acid for carnitine biosynthesis)<br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Methionine</a> (precursor amino acid for carnitine biosynthesis)</p>
 
 {% endraw %}

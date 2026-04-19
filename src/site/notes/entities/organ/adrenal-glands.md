@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.500750Z'
+created: '2026-04-19T18:22:21.484277Z'
 description: Endocrine glands producing stress hormones (cortisol, adrenaline), aldosterone,
   and small amounts of sex hormones. Critical for stress response and homeostasis.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: Adrenal Glands
 type: organ
-updated: '2026-04-17T18:59:20.500750Z'
+updated: '2026-04-19T18:22:21.484277Z'
 ---
 
 {% raw %}
@@ -41,15 +41,15 @@ updated: '2026-04-17T18:59:20.500750Z'
 <h2>Clinical Significance</h2>
 <p>Adrenal function is evaluated through morning cortisol levels, ACTH stimulation testing (Synacthen test for adrenal insufficiency), 24-hour urinary free cortisol, late-night salivary cortisol, and low-dose dexamethasone suppression test (Cushing's screening). Aldosterone-to-renin ratio (ARR) screens for primary hyperaldosteronism. Plasma and 24-hour urinary metanephrines and normetanephrines screen for pheochromocytoma. CT and MRI of the adrenals evaluate masses (adrenal incidentalomas are found in approximately 4% of abdominal CT scans). Adaptogenic supplements such as ashwagandha, rhodiola rosea, and eleuthero are commonly used to support HPA axis function, while vitamin C is concentrated in the adrenal cortex at levels 50-100 times higher than plasma, supporting steroidogenesis.</p>
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Addison's Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Cushing's Syndrome</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Pheochromocytoma</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/congenital-adrenal-hyperplasia/" class="internal-link">Congenital Adrenal Hyperplasia</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Primary Hyperaldosteronism</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/supplement/ashwagandha/" class="internal-link">Ashwagandha</a><br />
 RELATED::<a href="/entities/supplement/rhodiola-rosea/" class="internal-link">Rhodiola Rosea</a><br />
 RELATED::<a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin C</a><br />
-RELATED::<a href="/entities/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a></p>
+RELATED::<a href="/entities/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Addison's Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Cushing's Syndrome</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Pheochromocytoma</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/congenital-adrenal-hyperplasia/" class="internal-link">Congenital Adrenal Hyperplasia</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Primary Hyperaldosteronism</a></p>
 
 {% endraw %}

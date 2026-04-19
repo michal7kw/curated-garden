@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.262807Z'
+created: '2026-04-19T18:22:21.234015Z'
 description: Thyroxine (T4) Freeis one of the main hormones made by the thyroid. It
   acts largely as a precursor, since most of it is later converted into T3, the more
   active form. Measuring free T4 shows how much thyroid hormone is being produced
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: thyroxine_t4_free
 type: labtest
-updated: '2026-04-17T18:59:20.262807Z'
+updated: '2026-04-19T18:22:21.234015Z'
 ---
 
 {% raw %}
@@ -63,8 +63,8 @@ updated: '2026-04-17T18:59:20.262807Z'
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Illness Or Secondary Thyroid Dysfunction</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hypothyroidism</a><br />
-RELATED::<a href="/entities/condition/graves-disease/" class="internal-link">GraveS Disease</a><br />
-RELATED::<a href="/entities/condition/hashimotos-thyroiditis/" class="internal-link">HashimotoS Thyroiditis</a><br />
+RELATED::<a href="/entities/condition/graves-disease/" class="internal-link">Graves Disease</a><br />
+RELATED::<a href="/entities/condition/hashimotos-thyroiditis/" class="internal-link">Hashimotos Thyroiditis</a><br />
 RELATED::<a href="/entities/condition/thyroid-storm/" class="internal-link">Thyroid Storm</a><br />
 RELATED::<a href="/entities/labtestpanel/extended-thyroid-health/" class="internal-link">extended thyroid health</a></p>
 <h3>Included In</h3>

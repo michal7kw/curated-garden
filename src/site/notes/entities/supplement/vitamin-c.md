@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.308551Z'
+created: '2026-04-19T18:22:22.507094Z'
 description: Essential water-soluble vitamin and powerful antioxidant. Supports immune
   function, collagen synthesis, iron absorption, and stress response. Humans cannot
   synthesize it and must obtain it from diet or supplements.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Vitamin C
 type: supplement
-updated: '2026-04-17T18:59:21.308551Z'
+updated: '2026-04-19T18:22:22.507094Z'
 ---
 
 {% raw %}
@@ -35,7 +35,7 @@ updated: '2026-04-17T18:59:21.308551Z'
 RELATED::<a class="internal-link is-unresolved" href="/404">Iron Deficiency Pattern</a><br />
 RELATED::<a href="/entities/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a><br />
 AFFECTS_ORGAN::<a href="/entities/organ/skin/" class="internal-link">Skin</a><br />
-MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 RELATED::<a href="/entities/supplement/vitamin-e/" class="internal-link">Vitamin E</a><br />
 AFFECTS_ORGAN::<a href="/entities/organ/adrenal-glands/" class="internal-link">Adrenal Glands</a><br />
 RELATED::<a href="/entities/supplement/iron/" class="internal-link">Iron</a><br />
@@ -45,7 +45,7 @@ RELATED::<a href="/entities/supplement/glutathione/" class="internal-link">Gluta
 RELATED::<a href="/entities/supplement/nac/" class="internal-link">NAC</a></p>
 <h3>Affects Biomarker</h3>
 <p>AFFECTS_BIOMARKER::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
-AFFECTS_BIOMARKER::<a href="/entities/labtest/ferritin/" class="internal-link">Ferritin</a></p>
+AFFECTS_BIOMARKER::<a href="/entities/labtest/ferritin/" class="internal-link">ferritin</a></p>
 <h3>Synergistic With</h3>
 <p>SYNERGISTIC_WITH::<a href="/entities/supplement/iron/" class="internal-link">Iron</a><br />
 SYNERGISTIC_WITH::<a href="/entities/supplement/nac/" class="internal-link">NAC</a><br />
@@ -54,9 +54,6 @@ SYNERGISTIC_WITH::<a href="/entities/supplement/vitamin-e/" class="internal-link
 <p>REGENERATES::<a href="/entities/supplement/vitamin-e/" class="internal-link">Vitamin E</a><br />
 REGENERATES::<a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a></p>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/entities/organ/adrenal-glands/" class="internal-link">Adrenal Glands</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/skin/" class="internal-link">Skin</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/immune-system/" class="internal-link">Immune System</a></p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/immune-system-disorder/" class="internal-link">Immune System Disorder</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a><br />
@@ -66,10 +63,10 @@ MAY_IMPROVE_CONDITION::<a href="/entities/condition/cardiovascular-disease/" cla
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/chronic-stress/" class="internal-link">Chronic Stress</a></p>
 <h3>Targets Biomarker</h3>
 <p>TARGETS_BIOMARKER::<a href="/entities/biomarker/8-ohdg/" class="internal-link">8-OHdG</a><br />
-TARGETS_BIOMARKER::<a href="/entities/labtest/albumin/" class="internal-link">Albumin</a><br />
+TARGETS_BIOMARKER::<a href="/entities/labtest/albumin/" class="internal-link">albumin</a><br />
 TARGETS_BIOMARKER::<a href="/entities/biomarker/copper/" class="internal-link">Copper</a><br />
 TARGETS_BIOMARKER::<a href="/entities/biomarker/f2-isoprostanes/" class="internal-link">F2 Isoprostanes</a><br />
-TARGETS_BIOMARKER::<a href="/entities/labtest/ferritin/" class="internal-link">Ferritin</a><br />
+TARGETS_BIOMARKER::<a href="/entities/labtest/ferritin/" class="internal-link">ferritin</a><br />
 TARGETS_BIOMARKER::<a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a><br />
 TARGETS_BIOMARKER::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
 TARGETS_BIOMARKER::<a href="/entities/biomarker/mpo/" class="internal-link">MPO</a><br />

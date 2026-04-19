@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.636081Z'
+created: '2026-04-19T18:22:20.471014Z'
 description: Anti-inflammatory adipokine hormone secreted by adipose tissue. Uniquely,
   levels are inversely correlated with body fat — higher in lean individuals. Enhances
   insulin sensitivity, promotes fatty acid oxidation, and has potent anti-inflammatory
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Adiponectin
 type: hormone
-updated: '2026-04-17T18:59:19.636081Z'
+updated: '2026-04-19T18:22:20.471014Z'
 ---
 
 {% raw %}
@@ -42,11 +42,11 @@ updated: '2026-04-17T18:59:19.636081Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a><br />
-RELATED::<a href="/entities/labtest/leptin/" class="internal-link">Leptin</a><br />
+<p>RELATED::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a><br />
+RELATED::<a href="/entities/labtest/leptin/" class="internal-link">leptin</a><br />
 RELATED::<a href="/entities/pathway/ampk-pathway/" class="internal-link">AMPK Pathway</a></p>
 <h3>Antagonistic With</h3>
-<p>ANTAGONISTIC_WITH::<a href="/entities/labtest/leptin/" class="internal-link">Leptin</a></p>
+<p>ANTAGONISTIC_WITH::<a href="/entities/labtest/leptin/" class="internal-link">leptin</a></p>
 <h3>Modulated By Intervention</h3>
 <p>MODULATED_BY_INTERVENTION::<a href="/entities/intervention/exercise/" class="internal-link">Exercise</a><br />
 MODULATED_BY_INTERVENTION::<a href="/entities/intervention/intermittent-fasting/" class="internal-link">Intermittent Fasting</a><br />
@@ -64,7 +64,7 @@ MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/berberine/" class="intern
 <h3>Merged From biomarker</h3>
 <p>CORRELATED_WITH::<a href="/entities/biomarker/hdl/" class="internal-link">Hdl</a><br />
 CORRELATED_WITH::<a href="/entities/labtest/homa-ir/" class="internal-link">Homa Ir</a><br />
-CORRELATED_WITH::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a><br />
-CORRELATED_WITH::<a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a></p>
+CORRELATED_WITH::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a><br />
+CORRELATED_WITH::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a></p>
 
 {% endraw %}

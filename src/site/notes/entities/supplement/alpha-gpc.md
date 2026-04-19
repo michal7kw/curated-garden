@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.044900Z'
+created: '2026-04-19T18:22:22.168989Z'
 description: Highly bioavailable choline compound that readily crosses the blood-brain
   barrier. Supports acetylcholine synthesis, cognitive function, and may enhance growth
   hormone release during exercise.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Alpha-GPC
 type: supplement
-updated: '2026-04-17T18:59:21.044900Z'
+updated: '2026-04-19T18:22:22.168989Z'
 ---
 
 {% raw %}

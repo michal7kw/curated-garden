@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.518236Z'
+created: '2026-04-19T18:22:21.507058Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/dorsal-raphe-nucleus/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Dorsal Raphe Nucleus
 type: organ
-updated: '2026-04-17T18:59:20.518236Z'
+updated: '2026-04-19T18:22:21.507058Z'
 ---
 
 {% raw %}

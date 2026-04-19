@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.690325Z'
+created: '2026-04-19T18:22:19.656406Z'
 description: Chronic difficulty initiating or maintaining sleep, or non-restorative
   sleep, despite adequate opportunity. The most common sleep disorder, affecting 30%
   of adults intermittently and 10% chronically. Strongly bidirectional with anxiety
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Insomnia
 type: condition
-updated: '2026-04-17T18:59:18.690325Z'
+updated: '2026-04-19T18:22:19.656406Z'
 ---
 
 {% raw %}
@@ -51,8 +51,13 @@ updated: '2026-04-17T18:59:18.690325Z'
 <li><strong>Avoid</strong>: Benzodiazepines for chronic insomnia (tolerance, dependence, cognitive impairment); diphenhydramine/Benadryl (anticholinergic burden)</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
+RELATED::<a href="/entities/condition/anxiety/" class="internal-link">Anxiety</a><br />
+RELATED::<a href="/entities/condition/chronic-stress/" class="internal-link">Chronic_Stress</a><br />
+RELATED::<a href="/entities/condition/sleep-disorder/" class="internal-link">Sleep_Disorder</a></p>
 <h3>Improved By Supplement</h3>
-<p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">magnesium</a><br />
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/melatonin-supplement/" class="internal-link">Melatonin_Supplement</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/l-theanine/" class="internal-link">L-Theanine</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/glycine/" class="internal-link">Glycine</a><br />
@@ -61,11 +66,6 @@ IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/ashwagandha/" class="inter
 <p>ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">hs-CRP</a><br />
 ASSOCIATED_WITH::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
-RELATED::<a href="/entities/condition/anxiety/" class="internal-link">Anxiety</a><br />
-RELATED::<a href="/entities/condition/chronic-stress/" class="internal-link">Chronic_Stress</a><br />
-RELATED::<a href="/entities/condition/sleep-disorder/" class="internal-link">Sleep_Disorder</a></p>
 <h3>Affected By Intervention</h3>
 <p>AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/mindfulness-meditation/" class="internal-link">Mindfulness_Meditation</a><br />
 AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/meditation/" class="internal-link">Meditation</a><br />

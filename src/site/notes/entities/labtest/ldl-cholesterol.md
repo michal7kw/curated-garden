@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.032981Z'
+created: '2026-04-19T18:22:21.001433Z'
 description: Tested twice a year LDL cholesterol is responsible for carrying cholesterol
   from the liver to cells throughout the body. Despite its good intentions, LDL is
   often called “bad” cholesterol, because when it's in excess, it can deposit in artery
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: ldl_cholesterol
 type: labtest
-updated: '2026-04-17T18:59:20.032981Z'
+updated: '2026-04-19T18:22:21.001433Z'
 ---
 
 {% raw %}
@@ -68,9 +68,6 @@ updated: '2026-04-17T18:59:20.032981Z'
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/entities/labtestpanel/genetic-heart-risks/" class="internal-link">genetic heart risks</a><br />
-INCLUDED_IN::<a href="/entities/labtestpanel/extended-heart-metabolic/" class="internal-link">extended heart metabolic</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
 RELATED::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
@@ -80,6 +77,9 @@ RELATED::<a href="/entities/labtestpanel/extended-heart-metabolic/" class="inter
 RELATED::<a class="internal-link is-unresolved" href="/404">Hyperlipidemia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Obesity</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Atherosclerosis</a></p>
+<h3>Included In</h3>
+<p>INCLUDED_IN::<a href="/entities/labtestpanel/genetic-heart-risks/" class="internal-link">genetic heart risks</a><br />
+INCLUDED_IN::<a href="/entities/labtestpanel/extended-heart-metabolic/" class="internal-link">extended heart metabolic</a></p>
 <h3>May Detect</h3>
 <p>MAY_DETECT::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
 MAY_DETECT::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></p>

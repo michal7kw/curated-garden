@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.570525Z'
+created: '2026-04-19T18:22:19.008015Z'
 description: Complement component C3 is a central protein in the complement cascade,
   participating in all three activation pathways (classical, lectin, alternative).
   Low C3 levels indicate complement consumption due to immune complex formation, as
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Complement C3
 type: biomarker
-updated: '2026-04-17T18:59:17.570525Z'
+updated: '2026-04-19T18:22:19.008015Z'
 ---
 
 {% raw %}
@@ -41,7 +41,7 @@ updated: '2026-04-17T18:59:17.570525Z'
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/vasculitis/" class="internal-link">Vasculitis</a></p>
 <h3>Correlated With</h3>
 <p>CORRELATED_WITH::<a class="internal-link is-unresolved" href="/404">hs-CRP</a><br />
-CORRELATED_WITH::<a href="/entities/labtest/esr/" class="internal-link">ESR</a></p>
+CORRELATED_WITH::<a href="/entities/labtest/esr/" class="internal-link">esr</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:22853638</li>

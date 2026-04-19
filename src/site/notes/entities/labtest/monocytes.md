@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.111452Z'
+created: '2026-04-19T18:22:21.086085Z'
 description: Tested twice a year Monocytes are immune cells important for defense,
   inflammation regulation, and tissue repair. These white blood cells can transform
   into macrophages or dendritic cells to fight infections, clear debris, and promote
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: monocytes
 type: labtest
-updated: '2026-04-17T18:59:20.111452Z'
+updated: '2026-04-19T18:22:21.086085Z'
 ---
 
 {% raw %}
@@ -62,10 +62,6 @@ updated: '2026-04-17T18:59:20.111452Z'
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-infection/" class="internal-link">Chronic Infection</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/autoimmune-disease/" class="internal-link">Autoimmune Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/condition/chronic-infection/" class="internal-link">Chronic Infection</a><br />
 RELATED::<a href="/entities/labtestpanel/chronic-inflammatory-response-mold-response/" class="internal-link">chronic inflammatory response mold response</a><br />
@@ -73,6 +69,10 @@ RELATED::<a href="/entities/labtestpanel/extended-immune-regulation/" class="int
 RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />
 RELATED::<a href="/entities/condition/autoimmune-disease/" class="internal-link">Autoimmune Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Impaired Immune Function</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-infection/" class="internal-link">Chronic Infection</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/autoimmune-disease/" class="internal-link">Autoimmune Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
 <h3>May Detect</h3>
 <p>MAY_DETECT::<a href="/entities/condition/autoimmune-disease/" class="internal-link">Autoimmune Disease</a><br />
 MAY_DETECT::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />

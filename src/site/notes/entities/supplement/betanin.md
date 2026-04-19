@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.066144Z'
+created: '2026-04-19T18:22:22.192531Z'
 description: Primary betalain pigment in beetroot (Beta vulgaris), a potent natural
   antioxidant and anti-inflammatory compound. Activates the Nrf2/ARE pathway for endogenous
   antioxidant defense, inhibits NF-kB-mediated inflammation, supports nitric oxide
@@ -21,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: Betanin
 type: supplement
-updated: '2026-04-17T18:59:21.066144Z'
+updated: '2026-04-19T18:22:22.192531Z'
 ---
 
 {% raw %}
@@ -98,6 +98,9 @@ updated: '2026-04-17T18:59:21.066144Z'
 <li><strong>Cardiovascular benefits</strong>: Beetroot juice supplementation reduced systolic blood pressure by 4-5 mmHg in hypertensive patients, mediated through the nitrate-nitrite-NO pathway (PMID:25421470)</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/metabolite/reactive-oxygen-species/" class="internal-link">Reactive_Oxygen_Species</a><br />
+RELATED::<a href="/entities/protein/nrf2/" class="internal-link">NRF2</a></p>
 <h3>Decreases Biomarker</h3>
 <p>DECREASES_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a></p>
 <h3>Affects Biomarker</h3>
@@ -120,9 +123,6 @@ SYNERGISTIC_WITH::<a href="/entities/supplement/vitamin-c/" class="internal-link
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/oxidative-stress/" class="internal-link">Oxidative_Stress</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/hypertension/" class="internal-link">Hypertension</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/inflammation/" class="internal-link">Inflammation</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/metabolite/reactive-oxygen-species/" class="internal-link">Reactive_Oxygen_Species</a><br />
-RELATED::<a href="/entities/protein/nrf2/" class="internal-link">NRF2</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:25459009 - Betanin antioxidant and anti-inflammatory properties review</li>

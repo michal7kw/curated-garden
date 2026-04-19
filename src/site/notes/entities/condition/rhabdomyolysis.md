@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.120475Z'
+created: '2026-04-19T18:22:19.882425Z'
 description: A serious medical condition involving the rapid breakdown of damaged
   skeletal muscle, releasing toxic cell contents into the bloodstream.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Rhabdomyolysis
 type: condition
-updated: '2026-04-17T18:59:19.120475Z'
+updated: '2026-04-19T18:22:19.882425Z'
 ---
 
 {% raw %}
@@ -25,7 +25,7 @@ updated: '2026-04-17T18:59:19.120475Z'
 <h2>Relationships</h2>
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/biomarker/creatine-kinase/" class="internal-link">Creatine Kinase</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/creatinine/" class="internal-link">creatinine</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/potassium/" class="internal-link">Potassium</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/lactate-dehydrogenase/" class="internal-link">Lactate Dehydrogenase</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/blood-urea-nitrogen/" class="internal-link">Blood Urea Nitrogen</a></p>

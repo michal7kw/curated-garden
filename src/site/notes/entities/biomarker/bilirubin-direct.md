@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.516553Z'
+created: '2026-04-19T18:22:18.972357Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/bilirubin-direct/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Bilirubin Direct
 type: biomarker
-updated: '2026-04-17T18:59:17.516553Z'
+updated: '2026-04-19T18:22:18.972357Z'
 ---
 
 {% raw %}
@@ -56,18 +56,16 @@ updated: '2026-04-17T18:59:17.516553Z'
 <li>Not clinically significant; direct bilirubin is normally near zero in healthy individuals</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Indicates Organ Health</h3>
-<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/liver/" class="internal-link">Liver</a><br />
-INDICATES_ORGAN_HEALTH::<a class="internal-link is-unresolved" href="/404">Gallbladder</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/biomarker/bilirubin-total/" class="internal-link">Bilirubin Total</a><br />
 RELATED::<a href="/entities/biomarker/alkaline-phosphatase/" class="internal-link">Alkaline Phosphatase</a></p>
+<h3>Indicates Organ Health</h3>
+<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/liver/" class="internal-link">Liver</a><br />
+INDICATES_ORGAN_HEALTH::<a class="internal-link is-unresolved" href="/404">Gallbladder</a></p>
 <h3>Associated With Condition</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/liver-disease/" class="internal-link">Liver Disease</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/biliary-obstruction/" class="internal-link">Biliary Obstruction</a></p>
 <h3>Measured By Test</h3>
-<ul>
-<li>-&gt; <a href="/entities/biomarker/bilirubin/" class="internal-link">bilirubin</a> (labtest)</li>
-</ul>
+<p>MEASURED_BY_TEST::<a href="/entities/biomarker/bilirubin/" class="internal-link">Bilirubin</a></p>
 
 {% endraw %}

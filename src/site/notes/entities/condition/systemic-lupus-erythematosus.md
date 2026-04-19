@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.206518Z'
+created: '2026-04-19T18:22:19.953430Z'
 description: A chronic autoimmune disease where the immune system attacks various
   tissues, causing widespread inflammation and tissue damage in multiple organs.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Systemic Lupus Erythematosus
 type: condition
-updated: '2026-04-17T18:59:19.206518Z'
+updated: '2026-04-19T18:22:19.953430Z'
 ---
 
 {% raw %}
@@ -50,9 +50,9 @@ AFFECTS_ORGAN::<a href="/entities/organ/skin/" class="internal-link">Skin</a><br
 AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a></p>
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/esr/" class="internal-link">Esr</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/esr/" class="internal-link">esr</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/creatinine/" class="internal-link">creatinine</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/wbc/" class="internal-link">Wbc</a></p>
 <h3>Improved By Supplement</h3>
 <p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a><br />

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.444155Z'
+created: '2026-04-19T18:22:20.244456Z'
 description: An oral natural penicillin used for mild to moderate bacterial infections,
   such as strep throat and skin infections.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Penicillin V
 type: drug
-updated: '2026-04-17T18:59:19.444155Z'
+updated: '2026-04-19T18:22:20.244456Z'
 ---
 
 {% raw %}
@@ -27,12 +27,12 @@ updated: '2026-04-17T18:59:19.444155Z'
 <h2>Clinical Significance</h2>
 <p>Penicillin V is the standard oral treatment for group A streptococcal (GAS) pharyngitis (strep throat), where it is preferred over broader-spectrum antibiotics to minimize resistance selection. A 10-day course achieves greater than 90% bacteriological eradication and effectively prevents acute rheumatic fever. It is also used for dental infections, mild skin and soft tissue infections caused by streptococci, and prophylaxis in patients with prior rheumatic fever or anatomic/functional asplenia. Penicillin V is generally well tolerated; the most common adverse effects are gastrointestinal (nausea, diarrhea) and hypersensitivity reactions. As with all penicillins, serious allergic reactions including anaphylaxis can occur, and cross-reactivity with other beta-lactams should be assessed before prescribing.</p>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>INTERACTS_WITH::<a href="/entities/drug/penicillin-g/" class="internal-link">Penicillin G</a></p>
 <h3>Treats</h3>
 <p>TREATS::<a class="internal-link is-unresolved" href="/404">Bacterial Infection</a><br />
 TREATS::<a class="internal-link is-unresolved" href="/404">Streptococcal Pharyngitis</a> (First-line oral treatment for strep throat, Evidence Level 1a)<br />
 TREATS::<a class="internal-link is-unresolved" href="/404">Dental Infection</a> (Mild to moderate odontogenic infections, Evidence Level 2a)</p>
-<h3>Related</h3>
-<p>INTERACTS_WITH::<a href="/entities/drug/penicillin-g/" class="internal-link">Penicillin G</a></p>
 <h3>Enriched</h3>
 <p>TARGETS::<a class="internal-link is-unresolved" href="/404">Penicillin-Binding Proteins</a> (Irreversible transpeptidase inhibition, Evidence Level 1a)<br />
 SAME_CLASS_AS::<a href="/entities/drug/penicillin-g/" class="internal-link">Penicillin G</a> (Acid-stable oral form of natural penicillin, Evidence Level 1a)<br />

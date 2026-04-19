@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.893286Z'
+created: '2026-04-19T18:22:19.187674Z'
 description: A measure of the amount of circulating iron that is bound to transferrin
   in the blood.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Serum Iron
 type: biomarker
-updated: '2026-04-17T18:59:17.893286Z'
+updated: '2026-04-19T18:22:19.187674Z'
 ---
 
 {% raw %}
@@ -25,14 +25,10 @@ updated: '2026-04-17T18:59:17.893286Z'
 <p>RELATED::<a href="/entities/supplement/iron/" class="internal-link">Iron</a><br />
 INDICATES_ORGAN_HEALTH::<a href="/entities/organ/liver/" class="internal-link">Liver</a></p>
 <h3>Affected By Supplement</h3>
-<ul>
-<li>-&gt; <a href="/entities/supplement/iron/" class="internal-link">Iron</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin C</a> (supplement)</li>
-</ul>
+<p>AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/iron/" class="internal-link">Iron</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin C</a></p>
 <h3>Measured By Test</h3>
-<ul>
-<li>-&gt; <a href="/entities/supplement/iron/" class="internal-link">iron</a> (labtest)</li>
-<li>-&gt; <a href="/entities/labtest/iron-panel/" class="internal-link">iron panel</a> (labtest)</li>
-</ul>
+<p>MEASURED_BY_TEST::<a href="/entities/supplement/iron/" class="internal-link">Iron</a><br />
+MEASURED_BY_TEST::<a href="/entities/labtest/iron-panel/" class="internal-link">iron panel</a></p>
 
 {% endraw %}

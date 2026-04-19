@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.412205Z'
+created: '2026-04-19T18:22:18.900900Z'
 description: Superior cortical lobe between frontal and occipital lobes. Integrates
   sensory information for spatial awareness, attention, and body schema. Contains
   the somatosensory cortex.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Parietal Lobe
 type: anatomy
-updated: '2026-04-17T18:59:17.412205Z'
+updated: '2026-04-19T18:22:18.900900Z'
 ---
 
 {% raw %}

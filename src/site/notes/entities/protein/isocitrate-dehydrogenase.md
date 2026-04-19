@@ -4,7 +4,7 @@ aliases:
 - IDH1
 - IDH2
 - IDH3
-created: '2026-04-17T18:59:20.912716Z'
+created: '2026-04-19T18:22:21.994179Z'
 description: Key regulatory enzyme of the TCA cycle that catalyzes the oxidative decarboxylation
   of isocitrate to alpha-ketoglutarate, producing NADH (IDH3) or NADPH (IDH1, IDH2)
   and CO2. Gain-of-function mutations in IDH1/IDH2 produce the oncometabolite 2-hydroxyglutarate
@@ -21,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: Isocitrate Dehydrogenase
 type: protein
-updated: '2026-04-17T18:59:20.912716Z'
+updated: '2026-04-19T18:22:21.994179Z'
 ---
 
 {% raw %}

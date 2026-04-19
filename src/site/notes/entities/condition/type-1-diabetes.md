@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.226228Z'
+created: '2026-04-19T18:22:19.989460Z'
 description: Autoimmune destruction of pancreatic beta cells causing absolute insulin
   deficiency. Requires lifelong exogenous insulin. Accounts for 5-10% of diabetes
   cases. Typically diagnosed in childhood/adolescence but can occur at any age (LADA).
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Type 1 Diabetes
 type: condition
-updated: '2026-04-17T18:59:19.226228Z'
+updated: '2026-04-19T18:22:19.989460Z'
 ---
 
 {% raw %}
@@ -50,13 +50,13 @@ updated: '2026-04-17T18:59:19.226228Z'
 <li><strong>Supplements</strong>: Vitamin D (immune modulation — may slow beta cell loss), omega-3, chromium (adjunctive glucose management)</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a><br />
+RELATED::<a href="/entities/condition/diabetes/" class="internal-link">Diabetes</a></p>
 <h3>Improved By Supplement</h3>
 <p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-d/" class="internal-link">vitamin_d</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/chromium/" class="internal-link">Chromium</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a><br />
-RELATED::<a href="/entities/condition/diabetes/" class="internal-link">Diabetes</a></p>
 <h3>Associated With</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/fasting-glucose/" class="internal-link">fasting_glucose</a><br />

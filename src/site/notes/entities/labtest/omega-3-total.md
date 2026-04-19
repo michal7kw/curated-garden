@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.150541Z'
+created: '2026-04-19T18:22:21.121999Z'
 description: Omega-3 Total reflects major omega-3 fatty acids (including EPA, DHA,
   ALA) that support anti-inflammatory and resolving pathways. Adequate omega-3s help
   modulate immune responses, support cell membrane fluidity, and counterbalance excessive
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: omega_3_total
 type: labtest
-updated: '2026-04-17T18:59:20.150541Z'
+updated: '2026-04-19T18:22:21.121999Z'
 ---
 
 {% raw %}

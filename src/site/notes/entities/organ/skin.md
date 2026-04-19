@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.562083Z'
+created: '2026-04-19T18:22:21.570149Z'
 description: Largest organ of the body providing barrier protection, temperature regulation,
   sensation, and vitamin D synthesis. Reflects internal health status.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: Skin
 type: organ
-updated: '2026-04-17T18:59:20.562083Z'
+updated: '2026-04-19T18:22:21.570149Z'
 ---
 
 {% raw %}
@@ -41,14 +41,14 @@ updated: '2026-04-17T18:59:20.562083Z'
 <h2>Clinical Significance</h2>
 <p>Dermatological assessment begins with visual inspection under good lighting, using dermoscopy (dermatoscope magnification) for pigmented lesion evaluation. Skin biopsy (punch, shave, or excisional) with histopathological examination is the gold standard for definitive diagnosis. Patch testing identifies contact allergens, and skin prick testing evaluates immediate hypersensitivity. Wood's lamp (UV) examination detects fungal infections and pigment disorders. Key nutritional factors for skin health include vitamin D (immune modulation and keratinocyte differentiation), vitamin C (essential cofactor for collagen synthesis by prolyl and lysyl hydroxylases), zinc (wound healing, immune function, and anti-inflammatory effects), vitamin A/retinoids (regulating keratinocyte proliferation and differentiation), and omega-3 fatty acids (anti-inflammatory and photoprotective properties).</p>
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/eczema/" class="internal-link">Eczema</a><br />
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a><br />
+RELATED::<a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin C</a><br />
+RELATED::<a href="/entities/supplement/zinc/" class="internal-link">Zinc</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/eczema/" class="internal-link">Eczema</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/psoriasis/" class="internal-link">Psoriasis</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/acne-vulgaris/" class="internal-link">Acne Vulgaris</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/melanoma/" class="internal-link">Melanoma</a><br />
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Non-Melanoma Skin Cancer</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a><br />
-RELATED::<a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin C</a><br />
-RELATED::<a href="/entities/supplement/zinc/" class="internal-link">Zinc</a></p>
 
 {% endraw %}

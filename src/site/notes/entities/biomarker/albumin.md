@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.483088Z'
+created: '2026-04-19T18:22:18.949013Z'
 description: Albumin is the most abundant circulating protein in the blood, synthesized
   exclusively by the liver. It maintains oncotic pressure, transports various substances,
   and serves as a marker of nutritional status and chronic disease severity.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Albumin
 type: biomarker
-updated: '2026-04-17T18:59:17.483088Z'
+updated: '2026-04-19T18:22:18.949013Z'
 ---
 
 {% raw %}
@@ -24,6 +24,14 @@ updated: '2026-04-17T18:59:17.483088Z'
 <h2>Overview</h2>
 <p>Albumin is the most abundant circulating protein in the blood, synthesized exclusively by the liver. It maintains oncotic pressure, transports various substances, and serves as a marker of nutritional status and chronic disease severity.</p>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Chronic_Inflammation_EG_Autoimmune_Disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Chronic_Liver_Disease</a><br />
+RELATED::<a href="/entities/condition/heart-failure/" class="internal-link">Heart_Failure</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Malnutrition</a><br />
+RELATED::<a href="/entities/condition/nephrotic-syndrome/" class="internal-link">Nephrotic_Syndrome</a><br />
+RELATED::<a href="/entities/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a><br />
+RELATED::<a href="/entities/labtest/liver-function-panel/" class="internal-link">liver_function_panel</a></p>
 <h3>Correlated With</h3>
 <p>CORRELATED_WITH::<a href="/entities/labtest/calcium/" class="internal-link">Calcium</a><br />
 CORRELATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
@@ -43,13 +51,5 @@ ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/nephrotic-syndrome/" cla
 <h3>May Detect</h3>
 <p>MAY_DETECT::<a href="/entities/condition/heart-failure/" class="internal-link">Heart_Failure</a><br />
 MAY_DETECT::<a href="/entities/condition/nephrotic-syndrome/" class="internal-link">Nephrotic_Syndrome</a></p>
-<h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Chronic_Inflammation_EG_Autoimmune_Disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Chronic_Liver_Disease</a><br />
-RELATED::<a href="/entities/condition/heart-failure/" class="internal-link">Heart_Failure</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Malnutrition</a><br />
-RELATED::<a href="/entities/condition/nephrotic-syndrome/" class="internal-link">Nephrotic_Syndrome</a><br />
-RELATED::<a href="/entities/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a><br />
-RELATED::<a href="/entities/labtest/liver-function-panel/" class="internal-link">liver_function_panel</a></p>
 
 {% endraw %}

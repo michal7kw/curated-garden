@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.524889Z'
+created: '2026-04-19T18:22:20.356707Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: HSP90AB1
 type: gene
-updated: '2026-04-17T18:59:19.524889Z'
+updated: '2026-04-19T18:22:20.356707Z'
 ---
 
 {% raw %}

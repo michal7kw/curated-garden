@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.891327Z'
+created: '2026-04-19T18:22:20.794587Z'
 description: Measures red blood cells, white blood cells, hemoglobin, hematocrit,
   and platelets. Essential for detecting anemia, infection, and blood disorders.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: complete_blood_count
 type: labtest
-updated: '2026-04-17T18:59:19.891327Z'
+updated: '2026-04-19T18:22:20.794587Z'
 ---
 
 {% raw %}
@@ -53,14 +53,14 @@ updated: '2026-04-17T18:59:19.891327Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/entities/biomarker/wbc/" class="internal-link">wbc</a></li>
-<li><a href="/entities/biomarker/rbc/" class="internal-link">rbc</a></li>
+<li><a href="/entities/biomarker/wbc/" class="internal-link">Wbc</a></li>
+<li><a href="/entities/biomarker/rbc/" class="internal-link">Rbc</a></li>
 <li><a href="/entities/labtest/hemoglobin/" class="internal-link">hemoglobin</a></li>
 <li><a href="/entities/labtest/hematocrit/" class="internal-link">hematocrit</a></li>
-<li><a href="/entities/biomarker/platelets/" class="internal-link">platelets</a></li>
-<li><a href="/entities/biomarker/mcv/" class="internal-link">mcv</a></li>
-<li><a href="/entities/biomarker/mch/" class="internal-link">mch</a></li>
-<li><a href="/entities/biomarker/mchc/" class="internal-link">mchc</a></li>
+<li><a href="/entities/biomarker/platelets/" class="internal-link">Platelets</a></li>
+<li><a href="/entities/biomarker/mcv/" class="internal-link">Mcv</a></li>
+<li><a href="/entities/biomarker/mch/" class="internal-link">Mch</a></li>
+<li><a href="/entities/biomarker/mchc/" class="internal-link">Mchc</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>

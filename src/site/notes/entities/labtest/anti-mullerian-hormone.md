@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.820225Z'
+created: '2026-04-19T18:22:20.712978Z'
 description: AMH reflects ovarian reserve (egg count) and fertility potential, at
   the time of the test. This test sheds light on the body’s ability to produce eggs
   for fertilization, particularly if one is nearing menopause or experiencing a hormonal
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: anti_mullerian_hormone
 type: labtest
-updated: '2026-04-17T18:59:19.820225Z'
+updated: '2026-04-19T18:22:20.712978Z'
 ---
 
 {% raw %}
@@ -61,8 +61,6 @@ updated: '2026-04-17T18:59:19.820225Z'
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/low-ovarian-reserve/" class="internal-link">Low Ovarian Reserve</a></p>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Premature Ovarian Insufficiency</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Polycystic Ovary Syndrome Pcos</a><br />
@@ -71,6 +69,8 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Perimenopause</a><br
 RELATED::<a href="/entities/labtestpanel/extended-hormone-health/" class="internal-link">extended hormone health</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Infertility</a><br />
 RELATED::<a href="/entities/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy hcg</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/low-ovarian-reserve/" class="internal-link">Low Ovarian Reserve</a></p>
 <h3>Included In</h3>
 <p>INCLUDED_IN::<a href="/entities/labtestpanel/pregnancy-hcg/" class="internal-link">pregnancy hcg</a><br />
 INCLUDED_IN::<a href="/entities/labtestpanel/extended-hormone-health/" class="internal-link">extended hormone health</a></p>

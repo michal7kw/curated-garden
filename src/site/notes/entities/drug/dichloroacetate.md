@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.322065Z'
+created: '2026-04-19T18:22:20.105886Z'
 description: Pyruvate dehydrogenase kinase (PDK) inhibitor that activates the pyruvate
   dehydrogenase complex, shifting metabolism from glycolysis toward mitochondrial
   oxidative phosphorylation. Used clinically for lactic acidosis and investigated
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Dichloroacetate
 type: drug
-updated: '2026-04-17T18:59:19.322065Z'
+updated: '2026-04-19T18:22:20.105886Z'
 ---
 
 {% raw %}
@@ -43,6 +43,10 @@ updated: '2026-04-17T18:59:19.322065Z'
 <li><strong>Variable response</strong>: Effectiveness depends on the specific PDK isoform expression</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/metabolite/acetyl-coa/" class="internal-link">Acetyl-CoA</a><br />
+RELATED::<a href="/entities/metabolite/pyruvate/" class="internal-link">Pyruvate</a><br />
+RELATED::<a href="/entities/metabolite/lactate/" class="internal-link">Lactate</a></p>
 <h3>Affects</h3>
 <p>AFFECTS::<a href="/entities/pathway/citric-acid-cycle/" class="internal-link">Citric_Acid_Cycle</a><br />
 AFFECTS::<a href="/entities/pathway/glycolysis/" class="internal-link">Glycolysis</a><br />
@@ -51,9 +55,5 @@ AFFECTS::<a href="/entities/pathway/oxidative-phosphorylation/" class="internal-
 <p>TARGETS::<a href="/entities/protein/pyruvate-dehydrogenase/" class="internal-link">Pyruvate_Dehydrogenase</a></p>
 <h3>Treats</h3>
 <p>TREATS::<a href="/entities/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial_Dysfunction</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/metabolite/acetyl-coa/" class="internal-link">Acetyl-CoA</a><br />
-RELATED::<a href="/entities/metabolite/pyruvate/" class="internal-link">Pyruvate</a><br />
-RELATED::<a href="/entities/metabolite/lactate/" class="internal-link">Lactate</a></p>
 
 {% endraw %}

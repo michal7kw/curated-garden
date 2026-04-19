@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.916143Z'
+created: '2026-04-19T18:22:21.999345Z'
 description: Monoamine oxidase A, a mitochondrial outer membrane-bound flavoenzyme
   that catalyzes the oxidative deamination of monoamine neurotransmitters including
   serotonin, norepinephrine, and dopamine. Key pharmacological target for antidepressant
@@ -21,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: MAO-A
 type: protein
-updated: '2026-04-17T18:59:20.916143Z'
+updated: '2026-04-19T18:22:21.999345Z'
 ---
 
 {% raw %}
@@ -77,13 +77,13 @@ updated: '2026-04-17T18:59:20.916143Z'
 <li><strong>MAOA gene and behavior</strong>: Meta-analysis of MAOA-uVNTR polymorphism interactions with adversity in predicting antisocial behavior (PMID:24326626)</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Participates In Pathway</h3>
-<p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/serotonin-synthesis/" class="internal-link">Serotonin_Synthesis</a><br />
-PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/dopamine-synthesis/" class="internal-link">Dopamine_Synthesis</a></p>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Epinephrine</a><br />
 RELATED::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
 RELATED::<a href="/entities/metabolite/reactive-oxygen-species/" class="internal-link">Reactive_Oxygen_Species</a></p>
+<h3>Participates In Pathway</h3>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/serotonin-synthesis/" class="internal-link">Serotonin_Synthesis</a><br />
+PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/dopamine-synthesis/" class="internal-link">Dopamine_Synthesis</a></p>
 <h3>Metabolizes</h3>
 <p>METABOLIZES::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
 METABOLIZES::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />

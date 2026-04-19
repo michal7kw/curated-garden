@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.512112Z'
+created: '2026-04-19T18:22:21.497943Z'
 description: Central organ of the nervous system responsible for cognition, emotion,
   motor control, and regulating bodily functions. Highly metabolically active and
   responsive to numerous supplements.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Brain
 type: organ
-updated: '2026-04-17T18:59:20.512112Z'
+updated: '2026-04-19T18:22:21.497943Z'
 ---
 
 {% raw %}
@@ -42,11 +42,6 @@ updated: '2026-04-17T18:59:20.512112Z'
 <h2>Clinical Significance</h2>
 <p>Neurological assessment includes mental status examination, cranial nerve testing, motor and sensory evaluation, and reflex testing. Key diagnostic tools include MRI (gold standard for structural imaging), CT (acute hemorrhage detection), EEG (seizure activity), PET scanning (metabolic activity, amyloid imaging), and lumbar puncture (CSF analysis for infections, autoimmune conditions, and neurodegenerative biomarkers). Blood biomarkers under investigation include neurofilament light chain (NfL) for neurodegeneration and S100B for brain injury. Nutritional support for brain health includes omega-3 fatty acids (DHA for neuronal membrane integrity), B vitamins (B6, B12, folate for homocysteine metabolism and myelination), magnesium (NMDA receptor modulation), creatine (cerebral energy metabolism), and curcumin (anti-neuroinflammatory properties).</p>
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/stroke/" class="internal-link">Stroke</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/epilepsy/" class="internal-link">Epilepsy</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/supplement/nac/" class="internal-link">NAC</a><br />
 RELATED::<a href="/entities/supplement/vitamin-b12/" class="internal-link">Vitamin B12</a><br />
@@ -69,6 +64,11 @@ RELATED::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin
 RELATED::<a href="/entities/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a><br />
 RELATED::<a href="/entities/supplement/rhodiola-rosea/" class="internal-link">Rhodiola Rosea</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">CoQ10</a><br />
-RELATED::<a href="/entities/drug/mct8-oil/" class="internal-link">MCT8 Oil</a></p>
+RELATED::<a href="/entities/drug/mct8-oil/" class="internal-link">MCT8 Oil</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/stroke/" class="internal-link">Stroke</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/epilepsy/" class="internal-link">Epilepsy</a></p>
 
 {% endraw %}

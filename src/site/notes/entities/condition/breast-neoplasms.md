@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.305351Z'
+created: '2026-04-19T18:22:19.463802Z'
 description: Cancer that forms in the cells of the breasts, most commonly in the ducts
   or lobules.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Breast Neoplasms
 type: condition
-updated: '2026-04-17T18:59:18.305351Z'
+updated: '2026-04-19T18:22:19.463802Z'
 ---
 
 {% raw %}
@@ -24,8 +24,8 @@ updated: '2026-04-17T18:59:18.305351Z'
 <h2>Relationships</h2>
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/labtest/ca-125/" class="internal-link">CA 125</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/cea/" class="internal-link">CEA</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/estradiol/" class="internal-link">Estradiol</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/cea/" class="internal-link">cea</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/estradiol/" class="internal-link">estradiol</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/insulin-fasting/" class="internal-link">Insulin Fasting</a></p>
 <h3>Improved By Supplement</h3>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.993164Z'
+created: '2026-04-19T18:22:22.091959Z'
 description: This comprehensive review examines alpha-lipoic acid's (ALA) dual role
   as a mitochondrial cofactor and potent antioxidant. The paper details ALA's mechanisms
   in enhancing mitochondrial bioenergetics, recycling endogenous antioxidants (glutathione,
@@ -22,7 +22,7 @@ templateEngineOverride: njk
 title: Alpha-lipoic acid as a biological antioxidant and its role in mitochondrial
   function
 type: research
-updated: '2026-04-17T18:59:20.993164Z'
+updated: '2026-04-19T18:22:22.091959Z'
 ---
 
 {% raw %}
@@ -47,6 +47,8 @@ updated: '2026-04-17T18:59:20.993164Z'
 <h2>Clinical Significance</h2>
 <p>ALA occupies a unique position in mitochondrial and antioxidant therapeutics because it addresses both bioenergetic function (as a Krebs cycle cofactor) and oxidative damage (as a recycler of the entire endogenous antioxidant network). The strongest clinical evidence supports its use in diabetic peripheral neuropathy at 600 mg/day, where it has been approved as a prescription treatment in Germany and several other European countries. For metabolic applications, its AMPK-activating properties make it a mechanistically rational adjunct for insulin resistance and metabolic syndrome. Key limitations include heterogeneous study designs, variable formulations (R vs. racemic, oral vs. IV), limited long-term safety data beyond 4 years, and potential publication bias toward positive results. Clinicians should be aware that oral bioavailability is only 20-30%, and that GI side effects (nausea, heartburn) are common at doses above 600 mg/day.</p>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/condition/diabetes/" class="internal-link">Diabetes</a></p>
 <h3>Synergistic With</h3>
 <p>SYNERGISTIC_WITH::<a href="/entities/supplement/vitamin-e/" class="internal-link">Vitamin E</a><br />
 SYNERGISTIC_WITH::<a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin C</a></p>
@@ -60,8 +62,6 @@ AFFECTS::<a href="/entities/metabolite/pyruvate/" class="internal-link">Pyruvate
 AFFECTS::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 <h3>Activates</h3>
 <p>ACTIVATES::<a href="/entities/protein/ampk/" class="internal-link">AMPK</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/condition/diabetes/" class="internal-link">Diabetes</a></p>
 <h3>Treats</h3>
 <p>TREATS::<a href="/entities/condition/peripheral-neuropathy/" class="internal-link">Peripheral Neuropathy</a></p>
 <h3>Studies</h3>

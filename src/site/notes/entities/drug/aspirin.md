@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.277957Z'
+created: '2026-04-19T18:22:20.061748Z'
 description: Nonsteroidal anti-inflammatory drug (NSAID) with irreversible antiplatelet
   effects. Used for pain, fever, inflammation, and cardiovascular protection. One
   of the most widely used medications worldwide.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Aspirin
 type: drug
-updated: '2026-04-17T18:59:19.277957Z'
+updated: '2026-04-19T18:22:20.061748Z'
 ---
 
 {% raw %}
@@ -32,6 +32,9 @@ updated: '2026-04-17T18:59:19.277957Z'
 <li><strong>Acute MI</strong>: 325 mg chewed immediately (fastest absorption)</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a><br />
+RELATED::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a></p>
 <h3>Treats</h3>
 <p>TREATS::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
 TREATS::<a href="/entities/condition/inflammation/" class="internal-link">Inflammation</a></p>
@@ -45,9 +48,6 @@ AFFECTS_ORGAN::<a href="/entities/organ/stomach/" class="internal-link">Stomach<
 INTERACTS_WITH::<a href="/entities/supplement/vitamin-e/" class="internal-link">Vitamin E</a><br />
 INTERACTS_WITH::<a href="/entities/drug/ibuprofen/" class="internal-link">Ibuprofen</a><br />
 INTERACTS_WITH::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a><br />
-RELATED::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:18757089</li>

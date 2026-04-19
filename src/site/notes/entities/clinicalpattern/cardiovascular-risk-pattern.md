@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.027573Z'
+created: '2026-04-19T18:22:19.306073Z'
 description: Elevated cardiovascular disease risk based on lipid abnormalities, inflammation,
   and other markers.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Cardiovascular Risk Pattern
 type: clinicalpattern
-updated: '2026-04-17T18:59:18.027573Z'
+updated: '2026-04-19T18:22:19.306073Z'
 ---
 
 {% raw %}
@@ -64,13 +64,14 @@ updated: '2026-04-17T18:59:18.027573Z'
 <li><strong>Monitoring</strong>: Repeat lipid panel 4-12 weeks after initiating therapy, then annually; hs-CRP to assess residual inflammatory risk; CAC score every 5 years if used for initial risk stratification</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
 <h3>Requires Biomarker</h3>
 <p>REQUIRES_BIOMARKER::<a href="/entities/labtest/ldl-cholesterol/" class="internal-link">LDL Cholesterol</a><br />
 REQUIRES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a><br />
 REQUIRES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">ApoB</a><br />
-REQUIRES_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a><br />
-REQUIRES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Lpa</a><br />
-REQUIRES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a></p>
+REQUIRES_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a><br />
+REQUIRES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Lpa</a></p>
 <h3>Increases Risk For</h3>
 <p>INCREASES_RISK_FOR::<a href="/entities/condition/coronary-artery-disease/" class="internal-link">Coronary Artery Disease</a><br />
 INCREASES_RISK_FOR::<a href="/entities/condition/stroke/" class="internal-link">Stroke</a><br />
@@ -82,7 +83,5 @@ AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Blood Vessels<
 <p>IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Red Yeast Rice</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
 IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">CoQ10</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
 
 {% endraw %}

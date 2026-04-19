@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.483628Z'
+created: '2026-04-19T18:22:20.304794Z'
 description: Humanized monoclonal antibody against the IL-6 receptor. Blocks both
   soluble and membrane-bound IL-6 receptor signaling. Unique among RA biologics in
   being effective as monotherapy without methotrexate. Also approved for giant cell
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Tocilizumab
 type: drug
-updated: '2026-04-17T18:59:19.483628Z'
+updated: '2026-04-19T18:22:20.304794Z'
 ---
 
 {% raw %}
@@ -38,7 +38,7 @@ updated: '2026-04-17T18:59:19.483628Z'
 <p>MODULATES_PATHWAY::<a href="/entities/pathway/jak-stat-signaling-pathway/" class="internal-link">JAK-STAT Signaling Pathway</a></p>
 <h3>Decreases Biomarker</h3>
 <p>DECREASES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a><br />
-DECREASES_BIOMARKER::<a href="/entities/labtest/esr/" class="internal-link">ESR</a></p>
+DECREASES_BIOMARKER::<a href="/entities/labtest/esr/" class="internal-link">esr</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:18383491</li>

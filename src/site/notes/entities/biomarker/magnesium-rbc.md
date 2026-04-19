@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.795281Z'
+created: '2026-04-19T18:22:19.132662Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/magnesium-rbc/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Magnesium Rbc
 type: biomarker
-updated: '2026-04-17T18:59:17.795281Z'
+updated: '2026-04-19T18:22:19.132662Z'
 ---
 
 {% raw %}
@@ -71,13 +71,8 @@ ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/osteoporosis/" class="in
 INDICATES_ORGAN_HEALTH::<a href="/entities/organ/heart/" class="internal-link">Heart</a> (magnesium is essential for cardiac rhythm stability, Evidence Level 1a)<br />
 INDICATES_ORGAN_HEALTH::<a href="/entities/organ/muscles/" class="internal-link">Muscles</a></p>
 <h3>Affected By Supplement</h3>
-<ul>
-<li>-&gt; <a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
-</ul>
+<p>AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a></p>
 <h3>Measured By Test</h3>
-<ul>
-<li>-&gt; <a href="/entities/labtest/magnesium-rbc/" class="internal-link">magnesium rbc</a> (labtest)</li>
-<li>-&gt; <a href="/entities/supplement/magnesium/" class="internal-link">magnesium</a> (labtest)</li>
-</ul>
+<p>MEASURED_BY_TEST::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a></p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.378628Z'
+created: '2026-04-19T18:22:21.353175Z'
 description: Evaluates key nutrient levels to ensure your body has the resources to
   support vital functions like energy production, antioxidant defense, immune health,
   thyroid function, and DNA synthesis. With 90% of Americans experiencing one or more
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: extended_vitamins_minerals_nutrients
 type: labtestpanel
-updated: '2026-04-17T18:59:20.378628Z'
+updated: '2026-04-19T18:22:21.353175Z'
 ---
 
 {% raw %}
@@ -43,11 +43,11 @@ updated: '2026-04-17T18:59:20.378628Z'
 <p>INCLUDES_TEST::<a class="internal-link is-unresolved" href="/404">Vitamin A (Retinol)</a><br />
 INCLUDES_TEST::<a class="internal-link is-unresolved" href="/404">Coenzyme Q10 (CoQ10)</a><br />
 USED_FOR::<a class="internal-link is-unresolved" href="/404">Nutrient Deficiency</a><br />
-RELATED::<a href="/entities/supplement/vitamin-d/" class="internal-link">vitamin d</a><br />
-RELATED::<a href="/entities/supplement/magnesium/" class="internal-link">magnesium</a><br />
-RELATED::<a href="/entities/supplement/zinc/" class="internal-link">zinc</a><br />
-RELATED::<a href="/entities/supplement/iron/" class="internal-link">iron</a><br />
-RELATED::<a href="/entities/labtest/calcium/" class="internal-link">calcium</a><br />
+RELATED::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a><br />
+RELATED::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
+RELATED::<a href="/entities/supplement/zinc/" class="internal-link">Zinc</a><br />
+RELATED::<a href="/entities/supplement/iron/" class="internal-link">Iron</a><br />
+RELATED::<a href="/entities/labtest/calcium/" class="internal-link">Calcium</a><br />
 RELATED::<a href="/entities/labtest/omega-3-total/" class="internal-link">omega 3 total</a><br />
 RELATED::<a href="/entities/labtest/omega-6-omega-3-ratio/" class="internal-link">omega 6 omega 3 ratio</a><br />
 ASSOCIATED_WITH::<a href="/entities/organ/immune-system/" class="internal-link">Immune System</a></p>

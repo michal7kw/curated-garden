@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.529046Z'
+created: '2026-04-19T18:22:18.978379Z'
 description: Bilirubin is a yellowish bile pigment formed during the normal breakdown
   of red blood cells (hemoglobin). It serves as a key indicator of liver function,
   biliary health, and hemolytic processes.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Bilirubin
 type: biomarker
-updated: '2026-04-17T18:59:17.529046Z'
+updated: '2026-04-19T18:22:18.978379Z'
 ---
 
 {% raw %}
@@ -28,7 +28,7 @@ updated: '2026-04-17T18:59:17.529046Z'
 INDICATES_ORGAN_HEALTH::<a href="/entities/organ/liver/" class="internal-link">Liver</a><br />
 INDICATES_ORGAN_HEALTH::<a href="/entities/organ/spleen/" class="internal-link">Spleen</a></p>
 <h3>Correlated With</h3>
-<p>CORRELATED_WITH::<a href="/entities/labtest/albumin/" class="internal-link">Albumin</a><br />
+<p>CORRELATED_WITH::<a href="/entities/labtest/albumin/" class="internal-link">albumin</a><br />
 CORRELATED_WITH::<a href="/entities/biomarker/alkaline-phosphatase/" class="internal-link">Alkaline Phosphatase</a><br />
 CORRELATED_WITH::<a href="/entities/biomarker/alanine-transaminase/" class="internal-link">Alanine Transaminase</a></p>
 <h3>Associated With Condition</h3>

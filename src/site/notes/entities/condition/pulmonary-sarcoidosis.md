@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.101483Z'
+created: '2026-04-19T18:22:19.869768Z'
 description: An inflammatory disease characterized by the growth of tiny clumps of
   inflammatory cells (granulomas) in the lungs.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Pulmonary Sarcoidosis
 type: condition
-updated: '2026-04-17T18:59:19.101483Z'
+updated: '2026-04-19T18:22:19.869768Z'
 ---
 
 {% raw %}
@@ -28,7 +28,7 @@ updated: '2026-04-17T18:59:19.101483Z'
 ASSOCIATED_WITH::<a href="/entities/labtest/calcium/" class="internal-link">Calcium</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/interleukin-6/" class="internal-link">Interleukin 6</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/esr/" class="internal-link">Esr</a></p>
+ASSOCIATED_WITH::<a href="/entities/labtest/esr/" class="internal-link">esr</a></p>
 <h3>Improved By Supplement</h3>
 <p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />

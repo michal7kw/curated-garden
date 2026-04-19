@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.633198Z'
+created: '2026-04-19T18:22:19.044289Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/estradiol/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Estradiol
 type: biomarker
-updated: '2026-04-17T18:59:17.633198Z'
+updated: '2026-04-19T18:22:19.044289Z'
 ---
 
 {% raw %}
@@ -118,14 +118,9 @@ ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">In
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Breast Cancer</a> (prolonged estradiol exposure increases risk, Evidence Level 1a)<br />
 RELATED::<a href="/entities/hormone/testosterone/" class="internal-link">Testosterone</a> (testosterone is aromatized to estradiol; the two are metabolically linked, Evidence Level 1a)</p>
 <h3>Affected By Supplement</h3>
-<ul>
-<li>-&gt; <a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/boron/" class="internal-link">Boron</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/dim/" class="internal-link">DIM</a> (supplement)</li>
-</ul>
+<p>AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/boron/" class="internal-link">Boron</a><br />
+AFFECTED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">DIM</a></p>
 <h3>Measured By Test</h3>
-<ul>
-<li>-&gt; <a href="/entities/labtest/estradiol/" class="internal-link">estradiol</a> (labtest)</li>
-</ul>
 
 {% endraw %}

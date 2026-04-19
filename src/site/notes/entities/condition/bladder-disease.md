@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.288487Z'
+created: '2026-04-19T18:22:19.452893Z'
 description: A broad category of disorders affecting the urinary bladder, including
   infections, functional issues, stones, and cancers.
 dg-home: false
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Bladder Disease
 type: condition
-updated: '2026-04-17T18:59:18.288487Z'
+updated: '2026-04-19T18:22:19.452893Z'
 ---
 
 {% raw %}
@@ -24,7 +24,7 @@ updated: '2026-04-17T18:59:18.288487Z'
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/labtest/appearance-urine/" class="internal-link">appearance urine</a></p>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/creatinine/" class="internal-link">creatinine</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/wbc/" class="internal-link">Wbc</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>
 <h3>Improved By Supplement</h3>

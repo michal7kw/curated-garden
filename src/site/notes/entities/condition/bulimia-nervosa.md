@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.308302Z'
+created: '2026-04-19T18:22:19.465198Z'
 description: Eating disorder characterized by recurrent episodes of binge eating followed
   by compensatory behaviors (self-induced vomiting, laxative misuse, excessive exercise,
   fasting). Prevalence 1-3% in young women. Serotonergic dysfunction is central to
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Bulimia Nervosa
 type: condition
-updated: '2026-04-17T18:59:18.308302Z'
+updated: '2026-04-19T18:22:19.465198Z'
 ---
 
 {% raw %}
@@ -77,7 +77,7 @@ updated: '2026-04-17T18:59:18.308302Z'
 <p>ASSOCIATED_WITH::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a></p>
 <h3>Associated Biomarker</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a></p>
+ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a></p>
 <h3>Associated Gene</h3>
 <p>ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">SLC6A4</a><br />
 ASSOCIATED_WITH::<a href="/entities/gene/htr2a/" class="internal-link">HTR2A</a></p>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.212561Z'
+created: '2026-04-19T18:22:22.400396Z'
 description: Endogenous fatty acid amide produced naturally in the body as part of
   the endocannabinoid system. Acts primarily through PPAR-alpha activation and indirect
   cannabinoid receptor modulation. Clinically studied for chronic pain, neuroinflammation,
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Palmitoylethanolamide
 type: supplement
-updated: '2026-04-17T18:59:21.212561Z'
+updated: '2026-04-19T18:22:22.400396Z'
 ---
 
 {% raw %}

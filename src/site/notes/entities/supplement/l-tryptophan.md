@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.159255Z'
+created: '2026-04-19T18:22:22.307832Z'
 description: Essential amino acid and precursor to serotonin and melatonin. The rate-limiting
   substrate for serotonin synthesis, commonly used to support mood, sleep, and stress
   resilience.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: L-Tryptophan
 type: supplement
-updated: '2026-04-17T18:59:21.159255Z'
+updated: '2026-04-19T18:22:22.307832Z'
 ---
 
 {% raw %}
@@ -38,13 +38,16 @@ updated: '2026-04-17T18:59:21.159255Z'
 <li><strong>Caution</strong>: Do not combine with SSRIs, SNRIs, or MAOIs (serotonin syndrome risk)</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/supplement/5-htp/" class="internal-link">5-HTP</a> (downstream metabolite and alternative supplement)<br />
+RELATED::<a href="/entities/supplement/melatonin-supplement/" class="internal-link">Melatonin Supplement</a> (end product of tryptophan metabolism in pineal gland)</p>
 <h3>Interacts With</h3>
 <p>INTERACTS_WITH::<a href="/entities/drug/sertraline/" class="internal-link">Sertraline</a><br />
 INTERACTS_WITH::<a href="/entities/drug/fluoxetine/" class="internal-link">Fluoxetine</a></p>
 <h3>Modulates Neurotransmitter</h3>
 <p>MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a></p>
+<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a></p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/sleep-disorder/" class="internal-link">Sleep Disorder</a><br />
@@ -61,8 +64,5 @@ AFFECTS_ORGAN::<a href="/entities/organ/gut/" class="internal-link">Gut</a> (ent
 <h3>Requires Cofactor</h3>
 <p>REQUIRES_COFACTOR::<a href="/entities/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a> (cofactor for aromatic L-amino acid decarboxylase, Evidence Level 1a)<br />
 REQUIRES_COFACTOR::<a href="/entities/supplement/iron/" class="internal-link">Iron</a> (cofactor for tryptophan hydroxylase, Evidence Level 1a)</p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/supplement/5-htp/" class="internal-link">5-HTP</a> (downstream metabolite and alternative supplement)<br />
-RELATED::<a href="/entities/supplement/melatonin-supplement/" class="internal-link">Melatonin Supplement</a> (end product of tryptophan metabolism in pineal gland)</p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.526722Z'
+created: '2026-04-19T18:22:21.517814Z'
 description: Muscular organ that pumps blood throughout the body via the circulatory
   system. Central to cardiovascular health and affected by numerous supplements.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: Heart
 type: organ
-updated: '2026-04-17T18:59:20.526722Z'
+updated: '2026-04-19T18:22:21.517814Z'
 ---
 
 {% raw %}
@@ -40,22 +40,21 @@ updated: '2026-04-17T18:59:20.526722Z'
 <h2>Clinical Significance</h2>
 <p>Cardiovascular disease remains the leading cause of morbidity and mortality worldwide. Key biomarkers for cardiac assessment include troponin I and T (myocardial injury), BNP and NT-proBNP (heart failure), CRP and homocysteine (cardiovascular risk), and lipid panels (atherosclerosis risk). Echocardiography, electrocardiography (ECG), coronary angiography, and cardiac MRI are essential diagnostic tools. Nutritional support through omega-3 fatty acids, CoQ10, and magnesium has demonstrated benefit in specific cardiac conditions, and lifestyle modifications (exercise, dietary changes, smoking cessation) remain foundational to cardiovascular health.</p>
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/coronary-artery-disease/" class="internal-link">Coronary Artery Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/heart-failure/" class="internal-link">Heart Failure</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/atrial-fibrillation/" class="internal-link">Atrial Fibrillation</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/hypertension/" class="internal-link">Hypertension</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Myocarditis</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">CoQ10</a><br />
 RELATED::<a href="/entities/supplement/creatine/" class="internal-link">Creatine</a><br />
 RELATED::<a href="/entities/clinicalpattern/cardiovascular-risk-pattern/" class="internal-link">Cardiovascular Risk Pattern</a><br />
 RELATED::<a href="/entities/supplement/vitamin-k2/" class="internal-link">Vitamin K2</a><br />
-RELATED::<a href="/entities/condition/thyroid-dysfunction/" class="internal-link">thyroid dysfunction</a><br />
-RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
 RELATED::<a href="/entities/condition/thyroid-dysfunction/" class="internal-link">Thyroid Dysfunction</a><br />
+RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
 RELATED::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
 RELATED::<a href="/entities/clinicalpattern/kidney-stress-pattern/" class="internal-link">Kidney Stress Pattern</a><br />
-RELATED::<a href="/entities/supplement/resveratrol/" class="internal-link">Resveratrol</a></p>
+RELATED::<a href="/entities/supplement/resveratrol/" class="internal-link">Resveratrol</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/coronary-artery-disease/" class="internal-link">Coronary Artery Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/heart-failure/" class="internal-link">Heart Failure</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/atrial-fibrillation/" class="internal-link">Atrial Fibrillation</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/hypertension/" class="internal-link">Hypertension</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Myocarditis</a></p>
 
 {% endraw %}

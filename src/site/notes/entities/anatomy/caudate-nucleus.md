@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.390912Z'
+created: '2026-04-19T18:22:18.882310Z'
 description: C-shaped basal ganglia structure involved in motor planning, procedural
   learning, and reward processing. Part of the dorsal striatum, receives cortical
   input and projects to globus pallidus.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Caudate Nucleus
 type: anatomy
-updated: '2026-04-17T18:59:17.390912Z'
+updated: '2026-04-19T18:22:18.882310Z'
 ---
 
 {% raw %}

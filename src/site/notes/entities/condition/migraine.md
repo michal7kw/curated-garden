@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.796564Z'
+created: '2026-04-19T18:22:19.719779Z'
 description: Recurrent neurovascular headache disorder characterized by moderate-to-severe
   pulsating pain, often unilateral, with nausea, photophobia, and phonophobia. Affects
   12% of the population (18% of women). Involves cortical spreading depression, trigeminovascular
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Migraine
 type: condition
-updated: '2026-04-17T18:59:18.796564Z'
+updated: '2026-04-19T18:22:19.719779Z'
 ---
 
 {% raw %}
@@ -50,18 +50,18 @@ updated: '2026-04-17T18:59:18.796564Z'
 <li><strong>Neuromodulation</strong>: Cefaly (supraorbital nerve stimulation), gammaCore (vagus nerve stimulation)</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
+RELATED::<a href="/entities/condition/anxiety/" class="internal-link">Anxiety</a><br />
+RELATED::<a href="/entities/condition/depression/" class="internal-link">Depression</a></p>
 <h3>Associated With</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/labtest/magnesium-rbc/" class="internal-link">magnesium_rbc</a><br />
 ASSOCIATED_WITH::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
 ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">hs-CRP</a></p>
 <h3>Improved By Supplement</h3>
-<p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">magnesium</a><br />
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/coenzyme-q10/" class="internal-link">Coenzyme_Q10</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/riboflavin/" class="internal-link">Riboflavin</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
-RELATED::<a href="/entities/condition/anxiety/" class="internal-link">Anxiety</a><br />
-RELATED::<a href="/entities/condition/depression/" class="internal-link">Depression</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:29131823</li>

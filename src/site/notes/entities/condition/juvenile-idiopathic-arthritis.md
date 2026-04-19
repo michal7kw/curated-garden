@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.709601Z'
+created: '2026-04-19T18:22:19.667212Z'
 description: Umbrella term for chronic arthritis in children under 16 with symptoms
   persisting over 6 weeks. Includes oligoarticular, polyarticular (RF+ or RF-), systemic
   (Still disease), enthesitis-related, and psoriatic subtypes. Leading cause of acquired
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Juvenile Idiopathic Arthritis
 type: condition
-updated: '2026-04-17T18:59:18.709601Z'
+updated: '2026-04-19T18:22:19.667212Z'
 ---
 
 {% raw %}
@@ -31,7 +31,7 @@ updated: '2026-04-17T18:59:18.709601Z'
 RELATED::<a href="/entities/condition/rheumatic-diseases/" class="internal-link">Rheumatic Diseases</a></p>
 <h3>Associated Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">hs-CRP</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/esr/" class="internal-link">ESR</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/esr/" class="internal-link">esr</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/tnf-alpha/" class="internal-link">TNF Alpha</a></p>
 <h3>Improved By Supplement</h3>
 <p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a><br />

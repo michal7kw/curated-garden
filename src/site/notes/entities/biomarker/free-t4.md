@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.659500Z'
+created: '2026-04-19T18:22:19.060650Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/free-t4/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Free T4
 type: biomarker
-updated: '2026-04-17T18:59:17.659500Z'
+updated: '2026-04-19T18:22:19.060650Z'
 ---
 
 {% raw %}
@@ -79,13 +79,12 @@ updated: '2026-04-17T18:59:17.659500Z'
 <li>Inadequate levothyroxine replacement dosing</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/condition/thyroid-dysfunction/" class="internal-link">Thyroid Dysfunction</a><br />
+RELATED::<a href="/entities/biomarker/free-t3/" class="internal-link">Free T3</a><br />
+RELATED::<a href="/entities/labtest/tsh/" class="internal-link">tsh</a></p>
 <h3>Indicates Organ Health</h3>
 <p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/thyroid/" class="internal-link">Thyroid</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/condition/thyroid-dysfunction/" class="internal-link">thyroid dysfunction</a><br />
-RELATED::<a href="/entities/condition/thyroid-dysfunction/" class="internal-link">Thyroid Dysfunction</a><br />
-RELATED::<a href="/entities/biomarker/free-t3/" class="internal-link">Free T3</a><br />
-RELATED::<a href="/entities/labtest/tsh/" class="internal-link">Tsh</a></p>
 <h3>Affected By Supplement</h3>
 <p>AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/iodine/" class="internal-link">Iodine</a><br />
 AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/selenium/" class="internal-link">Selenium</a></p>

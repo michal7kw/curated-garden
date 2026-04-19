@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.628651Z'
+created: '2026-04-19T18:22:19.041191Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/esr/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Esr
 type: biomarker
-updated: '2026-04-17T18:59:17.628651Z'
+updated: '2026-04-19T18:22:19.041191Z'
 ---
 
 {% raw %}
@@ -77,12 +77,12 @@ updated: '2026-04-17T18:59:17.628651Z'
 <li>Generally not clinically significant as an isolated finding</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Indicates Organ Health</h3>
-<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/immune-system/" class="internal-link">Immune System</a></p>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">C-Reactive Protein</a><br />
 RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />
-RELATED::<a href="/entities/labtest/fibrinogen/" class="internal-link">Fibrinogen</a></p>
+RELATED::<a href="/entities/labtest/fibrinogen/" class="internal-link">fibrinogen</a></p>
+<h3>Indicates Organ Health</h3>
+<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/immune-system/" class="internal-link">Immune System</a></p>
 <h3>Increases Risk For</h3>
 <p>INCREASES_RISK_FOR::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a> (when elevated, Evidence Level 2a)</p>
 <h3>Associated With Condition</h3>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.295203Z'
+created: '2026-04-19T18:22:20.073859Z'
 description: World's most widely consumed psychoactive substance. Methylxanthine alkaloid
   that acts primarily as a nonselective adenosine A1 and A2A receptor antagonist,
   blocking adenosine's sleep-promoting and vasodilatory effects. Enhances alertness,
@@ -21,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: Caffeine
 type: drug
-updated: '2026-04-17T18:59:19.295203Z'
+updated: '2026-04-19T18:22:20.073859Z'
 ---
 
 {% raw %}
@@ -97,16 +97,16 @@ updated: '2026-04-17T18:59:19.295203Z'
 <li><strong>Caffeine and Parkinson's</strong>: Prospective cohort studies showing dose-dependent reduction in Parkinson's disease risk with caffeine consumption, mediated by A2A receptor antagonism (PMID:26899133)</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Epinephrine</a><br />
+RELATED::<a href="/entities/pathway/dopamine-synthesis/" class="internal-link">Dopamine_Synthesis</a><br />
+RELATED::<a href="/entities/protein/mao-a/" class="internal-link">MAO-A</a></p>
 <h3>Affects Biomarker</h3>
 <p>AFFECTS_BIOMARKER::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a></p>
 <h3>Modulates Neurotransmitter</h3>
 <p>MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
 MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
 MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a></p>
-<h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Epinephrine</a><br />
-RELATED::<a href="/entities/pathway/dopamine-synthesis/" class="internal-link">Dopamine_Synthesis</a><br />
-RELATED::<a href="/entities/protein/mao-a/" class="internal-link">MAO-A</a></p>
 <h3>Synergistic With</h3>
 <p>SYNERGISTIC_WITH::<a href="/entities/drug/nicotine/" class="internal-link">Nicotine</a><br />
 SYNERGISTIC_WITH::<a href="/entities/supplement/l-theanine/" class="internal-link">L-Theanine</a><br />

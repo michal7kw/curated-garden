@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.491781Z'
+created: '2026-04-19T18:22:20.314797Z'
 description: Selective JAK1 inhibitor with improved selectivity over earlier JAK inhibitors.
   Approved for RA, psoriatic arthritis, ankylosing spondylitis, atopic dermatitis,
   ulcerative colitis, and Crohn's disease. Once-daily oral dosing.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Upadacitinib
 type: drug
-updated: '2026-04-17T18:59:19.491781Z'
+updated: '2026-04-19T18:22:20.314797Z'
 ---
 
 {% raw %}

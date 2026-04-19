@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.647171Z'
+created: '2026-04-19T18:22:20.483011Z'
 description: The primary female sex hormone group, essential for reproductive health,
   bone density, cardiovascular health, and cognitive function. Also present and vital
   in males.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Estrogen
 type: hormone
-updated: '2026-04-17T18:59:19.647171Z'
+updated: '2026-04-19T18:22:20.483011Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.592761Z'
+created: '2026-04-19T18:22:21.603096Z'
 description: The mitochondrial pathway for fatty acid catabolism that sequentially
   removes two-carbon units as acetyl-CoA. Each cycle generates NADH and FADH2 for
   ATP production, making it highly efficient for energy generation from stored fat.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Beta-Oxidation
 type: pathway
-updated: '2026-04-17T18:59:20.592761Z'
+updated: '2026-04-19T18:22:21.603096Z'
 ---
 
 {% raw %}
@@ -39,7 +39,7 @@ MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/coenzyme-q10/" class="int
 MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
 MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/mct-oil/" class="internal-link">MCT Oil</a></p>
 <h3>Associated Biomarker</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/hdl/" class="internal-link">Hdl</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/ldl/" class="internal-link">Ldl</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/glucose-fasting/" class="internal-link">Glucose Fasting</a></p>

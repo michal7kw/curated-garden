@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.346121Z'
+created: '2026-04-19T18:22:21.318633Z'
 description: Evaluates bone formation and resorption markers alongside calcium-vitamin
   D metabolism. Essential for osteoporosis risk assessment, monitoring treatment efficacy,
   and evaluating metabolic bone diseases.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: bone_health_panel
 type: labtestpanel
-updated: '2026-04-17T18:59:20.346121Z'
+updated: '2026-04-19T18:22:21.318633Z'
 ---
 
 {% raw %}
@@ -25,7 +25,7 @@ updated: '2026-04-17T18:59:20.346121Z'
 <li><a href="/entities/labtest/osteocalcin/" class="internal-link">osteocalcin</a> -- Bone formation marker produced by osteoblasts</li>
 <li><a class="internal-link is-unresolved" href="/404">phosphorus</a> -- Essential mineral for bone mineralization</li>
 <li><a href="/entities/labtest/vitamin-d-25oh/" class="internal-link">vitamin d 25oh</a> -- Key regulator of calcium absorption and bone metabolism</li>
-<li><a href="/entities/labtest/calcium/" class="internal-link">calcium</a> -- Primary mineral component of bone matrix</li>
+<li><a href="/entities/labtest/calcium/" class="internal-link">Calcium</a> -- Primary mineral component of bone matrix</li>
 <li><a href="/entities/labtest/alkaline-phosphatase-alp/" class="internal-link">alkaline phosphatase alp</a> -- Enzyme indicating bone and liver metabolic activity</li>
 </ul>
 <h2>Clinical Indications</h2>
@@ -40,7 +40,7 @@ updated: '2026-04-17T18:59:20.346121Z'
 <p>INCLUDES_TEST::<a href="/entities/labtest/osteocalcin/" class="internal-link">osteocalcin</a><br />
 INCLUDES_TEST::<a class="internal-link is-unresolved" href="/404">phosphorus</a><br />
 INCLUDES_TEST::<a href="/entities/labtest/vitamin-d-25oh/" class="internal-link">vitamin d 25oh</a><br />
-INCLUDES_TEST::<a href="/entities/labtest/calcium/" class="internal-link">calcium</a><br />
+INCLUDES_TEST::<a href="/entities/labtest/calcium/" class="internal-link">Calcium</a><br />
 INCLUDES_TEST::<a href="/entities/labtest/alkaline-phosphatase-alp/" class="internal-link">alkaline phosphatase alp</a><br />
 USED_FOR::<a href="/entities/condition/osteoporosis/" class="internal-link">Osteoporosis</a><br />
 ASSOCIATED_WITH::<a href="/entities/organ/bones/" class="internal-link">Bones</a></p>

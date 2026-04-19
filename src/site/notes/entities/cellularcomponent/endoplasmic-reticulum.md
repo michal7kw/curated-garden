@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.992600Z'
+created: '2026-04-19T18:22:19.285070Z'
 description: An extensive membrane network responsible for protein folding, lipid
   synthesis, and calcium storage. Communicates directly with mitochondria via MAMs.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Endoplasmic Reticulum
 type: cellularcomponent
-updated: '2026-04-17T18:59:17.992600Z'
+updated: '2026-04-19T18:22:19.285070Z'
 ---
 
 {% raw %}

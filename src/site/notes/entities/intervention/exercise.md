@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.694327Z'
+created: '2026-04-19T18:22:20.551340Z'
 description: Physical activity performed to improve or maintain physical fitness,
   health, and overall wellness. Encompasses aerobic (cardio), anaerobic (resistance),
   flexibility, and balance training. One of the most effective interventions for preventing
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Exercise
 type: intervention
-updated: '2026-04-17T18:59:19.694327Z'
+updated: '2026-04-19T18:22:20.551340Z'
 ---
 
 {% raw %}
@@ -58,7 +58,7 @@ updated: '2026-04-17T18:59:19.694327Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a><br />
-MODULATES_BIOMARKER::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br />
 RELATED::<a href="/entities/intervention/sleep-optimization/" class="internal-link">Sleep Optimization</a><br />
 RELATED::<a href="/entities/intervention/cognitive-training/" class="internal-link">Cognitive Training</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a><br />

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.459307Z'
+created: '2026-04-19T18:22:20.267114Z'
 description: Fully human monoclonal antibody against IL-6 receptor alpha. Higher binding
   affinity for IL-6R than tocilizumab. Subcutaneous administration every 2 weeks.
   Effective as monotherapy in patients intolerant of methotrexate.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Sarilumab
 type: drug
-updated: '2026-04-17T18:59:19.459307Z'
+updated: '2026-04-19T18:22:20.267114Z'
 ---
 
 {% raw %}

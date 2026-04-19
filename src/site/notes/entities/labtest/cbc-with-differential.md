@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.880350Z'
+created: '2026-04-19T18:22:20.784471Z'
 description: CBC plus detailed white blood cell breakdown including neutrophils, lymphocytes,
   monocytes, eosinophils, and basophils.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: cbc_with_differential
 type: labtest
-updated: '2026-04-17T18:59:19.880350Z'
+updated: '2026-04-19T18:22:20.784471Z'
 ---
 
 {% raw %}
@@ -58,7 +58,7 @@ updated: '2026-04-17T18:59:19.880350Z'
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<p>RELATED::<a href="/entities/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
+<p>RELATED::<a href="/entities/labtest/hemoglobin/" class="internal-link">hemoglobin</a><br />
 RELATED::<a href="/entities/supplement/iron/" class="internal-link">Iron</a></p>
 <h2>Notes</h2>
 <ul>

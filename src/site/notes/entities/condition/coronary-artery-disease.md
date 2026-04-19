@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.450909Z'
+created: '2026-04-19T18:22:19.530679Z'
 description: A type of heart disease characterized by the narrowing or blockage of
   the coronary arteries, usually caused by atherosclerosis, which reduces blood flow
   to the heart muscle.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Coronary Artery Disease
 type: condition
-updated: '2026-04-17T18:59:18.450909Z'
+updated: '2026-04-19T18:22:19.530679Z'
 ---
 
 {% raw %}
@@ -46,7 +46,7 @@ ASSOCIATED_WITH::<a href="/entities/biomarker/ldl/" class="internal-link">Ldl</a
 ASSOCIATED_WITH::<a href="/entities/labtest/apolipoprotein-b/" class="internal-link">Apolipoprotein B</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/lpa/" class="internal-link">Lp(a)</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/troponin/" class="internal-link">Troponin</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/homocysteine/" class="internal-link">Homocysteine</a></p>
+ASSOCIATED_WITH::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a></p>
 <h3>Improved By Supplement</h3>
 <p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a><br />

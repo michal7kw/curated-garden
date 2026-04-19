@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.374899Z'
+created: '2026-04-19T18:22:20.169077Z'
 description: Synthetic thyroid hormone (T4) for hypothyroidism replacement therapy.
   The most prescribed medication for thyroid disorders. Requires careful dose titration
   based on TSH levels.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Levothyroxine
 type: drug
-updated: '2026-04-17T18:59:19.374899Z'
+updated: '2026-04-19T18:22:20.169077Z'
 ---
 
 {% raw %}
@@ -35,6 +35,10 @@ updated: '2026-04-17T18:59:19.374899Z'
 <li><strong>Subclinical hypothyroidism</strong>: Treatment considered when TSH &gt; 10 mIU/L or with symptoms</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/supplement/selenium/" class="internal-link">Selenium</a><br />
+RELATED::<a href="/entities/supplement/zinc/" class="internal-link">Zinc</a><br />
+RELATED::<a href="/entities/supplement/iodine/" class="internal-link">Iodine</a></p>
 <h3>Interacts With</h3>
 <p>INTERACTS_WITH::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
 INTERACTS_WITH::<a href="/entities/labtest/calcium/" class="internal-link">Calcium</a><br />
@@ -44,14 +48,10 @@ INTERACTS_WITH::<a href="/entities/supplement/iron/" class="internal-link">Iron<
 <h3>Modulates Hormone</h3>
 <p>MODULATES_HORMONE::<a href="/entities/hormone/thyroid-hormones/" class="internal-link">Thyroid Hormones</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/tsh/" class="internal-link">TSH</a><br />
+<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/tsh/" class="internal-link">tsh</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/biomarker/free-t4/" class="internal-link">Free T4</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/biomarker/free-t3/" class="internal-link">Free T3</a></p>
 <h3>Affects Organ</h3>
 <p>AFFECTS_ORGAN::<a href="/entities/organ/thyroid/" class="internal-link">Thyroid</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/supplement/selenium/" class="internal-link">Selenium</a><br />
-RELATED::<a href="/entities/supplement/zinc/" class="internal-link">Zinc</a><br />
-RELATED::<a href="/entities/supplement/iodine/" class="internal-link">Iodine</a></p>
 
 {% endraw %}

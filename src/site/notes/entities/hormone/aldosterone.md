@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.638634Z'
+created: '2026-04-19T18:22:20.473730Z'
 description: Primary mineralocorticoid hormone produced by the zona glomerulosa of
   the adrenal cortex. Central regulator of the renin-angiotensin-aldosterone system
   (RAAS). Controls sodium/potassium balance, blood volume, and blood pressure through
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Aldosterone
 type: hormone
-updated: '2026-04-17T18:59:19.638634Z'
+updated: '2026-04-19T18:22:20.473730Z'
 ---
 
 {% raw %}
@@ -32,6 +32,6 @@ updated: '2026-04-17T18:59:19.638634Z'
 <p>RELATED::<a href="/entities/organ/kidneys/" class="internal-link">Kidneys</a><br />
 RELATED::<a href="/entities/condition/hypertension/" class="internal-link">Hypertension</a><br />
 RELATED::<a href="/entities/organ/heart/" class="internal-link">Heart</a><br />
-RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a></p>
+RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a></p>
 
 {% endraw %}

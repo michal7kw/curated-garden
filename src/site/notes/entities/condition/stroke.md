@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.198946Z'
+created: '2026-04-19T18:22:19.942614Z'
 description: Acute cerebrovascular event caused by interrupted blood supply (ischemic,
   87%) or bleeding (hemorrhagic, 13%) in the brain, leading to rapid loss of neurological
   function.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Stroke
 type: condition
-updated: '2026-04-17T18:59:19.198946Z'
+updated: '2026-04-19T18:22:19.942614Z'
 ---
 
 {% raw %}
@@ -44,6 +44,10 @@ AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a><
 AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Cerebral Arteries</a></li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/condition/hypertension/" class="internal-link">Hypertension</a><br />
+RELATED::<a href="/entities/condition/atrial-fibrillation/" class="internal-link">Atrial_Fibrillation</a><br />
+RELATED::<a href="/entities/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a></p>
 <h3>Improved By Supplement</h3>
 <p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-d/" class="internal-link">vitamin_d</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/b-complex-vitamins/" class="internal-link">B-Complex_Vitamins</a><br />
@@ -55,13 +59,7 @@ ASSOCIATED_WITH::<a href="/entities/labtest/homocysteine/" class="internal-link"
 ASSOCIATED_WITH::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/fibrinogen/" class="internal-link">fibrinogen</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/d-dimer/" class="internal-link">D-Dimer</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/condition/hypertension/" class="internal-link">Hypertension</a><br />
-RELATED::<a href="/entities/condition/atrial-fibrillation/" class="internal-link">Atrial_Fibrillation</a><br />
-RELATED::<a href="/entities/condition/vascular-dementia/" class="internal-link">Vascular_Dementia</a></p>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Cerebral_Arteries</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Cerebral_Arteries</a></p>
+<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Cerebral_Arteries</a></p>
 
 {% endraw %}

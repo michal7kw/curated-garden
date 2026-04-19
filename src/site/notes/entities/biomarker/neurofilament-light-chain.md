@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.828524Z'
+created: '2026-04-19T18:22:19.150817Z'
 description: A neuronal cytoskeletal protein released into CSF and blood upon axonal
   damage. Emerging as a universal biomarker for neurodegeneration across multiple
   diseases including ALS, MS, AD, and Huntington's disease.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Neurofilament Light Chain
 type: biomarker
-updated: '2026-04-17T18:59:17.828524Z'
+updated: '2026-04-19T18:22:19.150817Z'
 ---
 
 {% raw %}
@@ -45,7 +45,7 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers Disease</
 RELATED::<a class="internal-link is-unresolved" href="/404">MRI Volumetry</a><br />
 RELATED::<a href="/entities/biomarker/nse/" class="internal-link">NSE</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Traumatic Brain Injury</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Amyloid-Beta 4240 Ratio</a><br />
+RELATED::<a href="/entities/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta 4240 Ratio</a><br />
 RELATED::<a href="/entities/biomarker/total-tau/" class="internal-link">Total Tau</a><br />
 RELATED::<a href="/entities/biomarker/plasma-amyloid-beta-ratio/" class="internal-link">Plasma Amyloid-Beta Ratio</a><br />
 RELATED::<a href="/entities/biomarker/plasma-p-tau217/" class="internal-link">Plasma p-tau217</a><br />

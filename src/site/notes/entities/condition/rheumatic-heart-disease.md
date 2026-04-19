@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.126527Z'
+created: '2026-04-19T18:22:19.885806Z'
 description: A condition in which the heart valves have been permanently damaged by
   rheumatic fever.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Rheumatic Heart Disease
 type: condition
-updated: '2026-04-17T18:59:19.126527Z'
+updated: '2026-04-19T18:22:19.885806Z'
 ---
 
 {% raw %}
@@ -24,9 +24,9 @@ updated: '2026-04-17T18:59:19.126527Z'
 <p>A condition in which the heart valves have been permanently damaged by rheumatic fever.</p>
 <h2>Relationships</h2>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/esr/" class="internal-link">Esr</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/esr/" class="internal-link">esr</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/bnp/" class="internal-link">BNP</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/bnp/" class="internal-link">bnp</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/troponin/" class="internal-link">Troponin</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/wbc/" class="internal-link">Wbc</a></p>
 <h3>Improved By Supplement</h3>

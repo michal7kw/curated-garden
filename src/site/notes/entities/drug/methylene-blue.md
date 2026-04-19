@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.412105Z'
+created: '2026-04-19T18:22:20.211798Z'
 description: Synthetic phenothiazine dye and the oldest synthetic drug in medicine
   (1876). FDA-approved for methemoglobinemia, methylene blue functions as an alternative
   electron carrier in the mitochondrial electron transport chain. At low doses it
@@ -21,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: Methylene Blue
 type: drug
-updated: '2026-04-17T18:59:19.412105Z'
+updated: '2026-04-19T18:22:20.211798Z'
 ---
 
 {% raw %}
@@ -88,6 +88,10 @@ updated: '2026-04-17T18:59:19.412105Z'
 <li><strong>Parkinson's neuroprotection</strong>: MB protects dopaminergic neurons in MPTP and rotenone models of Parkinson's by maintaining Complex I function (PMID:25462890)</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/protein/nrf2/" class="internal-link">NRF2</a><br />
+RELATED::<a href="/entities/metabolite/reactive-oxygen-species/" class="internal-link">Reactive_Oxygen_Species</a><br />
+RELATED::<a href="/entities/metabolite/nadh/" class="internal-link">NADH</a></p>
 <h3>Participates In Pathway</h3>
 <p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/hormesis/" class="internal-link">Hormesis</a><br />
 PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/electron-transport-chain/" class="internal-link">Electron_Transport_Chain</a><br />
@@ -96,10 +100,6 @@ PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/oxidative-phosphorylation/" 
 <p>AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
 AFFECTS_ORGAN::<a href="/entities/organ/kidneys/" class="internal-link">Kidneys</a><br />
 AFFECTS_ORGAN::<a href="/entities/organ/liver/" class="internal-link">Liver</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/protein/nrf2/" class="internal-link">NRF2</a><br />
-RELATED::<a href="/entities/metabolite/reactive-oxygen-species/" class="internal-link">Reactive_Oxygen_Species</a><br />
-RELATED::<a href="/entities/metabolite/nadh/" class="internal-link">NADH</a></p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
 MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a><br />

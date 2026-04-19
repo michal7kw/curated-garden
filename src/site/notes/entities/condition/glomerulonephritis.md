@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.609437Z'
+created: '2026-04-19T18:22:19.612016Z'
 description: A group of diseases that cause inflammation and damage to the glomeruli,
   the tiny filtering units within the kidneys.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Glomerulonephritis
 type: condition
-updated: '2026-04-17T18:59:18.609437Z'
+updated: '2026-04-19T18:22:19.612016Z'
 ---
 
 {% raw %}
@@ -24,9 +24,9 @@ updated: '2026-04-17T18:59:18.609437Z'
 <p>A group of diseases that cause inflammation and damage to the glomeruli, the tiny filtering units within the kidneys.</p>
 <h2>Relationships</h2>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/creatinine/" class="internal-link">creatinine</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/egfr/" class="internal-link">EGFR</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/albumin/" class="internal-link">Albumin</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/albumin/" class="internal-link">albumin</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/cystatin-c/" class="internal-link">Cystatin C</a></p>
 <h3>Improved By Supplement</h3>

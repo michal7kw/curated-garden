@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.811000Z'
+created: '2026-04-19T18:22:21.853905Z'
 description: AMP-activated protein kinase, the master cellular energy sensor that
   responds to decreased ATP/AMP ratio by activating catabolic pathways (fatty acid
   oxidation, autophagy) and inhibiting anabolic pathways (protein synthesis, lipogenesis).
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: AMPK
 type: protein
-updated: '2026-04-17T18:59:20.811000Z'
+updated: '2026-04-19T18:22:21.853905Z'
 ---
 
 {% raw %}
@@ -26,14 +26,6 @@ updated: '2026-04-17T18:59:20.811000Z'
 <h2>Overview</h2>
 <p>AMP-activated protein kinase, the master cellular energy sensor that responds to decreased ATP/AMP ratio by activating catabolic pathways (fatty acid oxidation, autophagy) and inhibiting anabolic pathways (protein synthesis, lipogenesis). A key metabolic regulator and therapeutic target.</p>
 <h2>Relationships</h2>
-<h3>Activates</h3>
-<p>ACTIVATES::<a href="/entities/pathway/beta-oxidation/" class="internal-link">Beta-Oxidation</a><br />
-ACTIVATES::<a href="/entities/biologicalprocess/autophagy/" class="internal-link">Autophagy</a><br />
-ACTIVATES::<a href="/entities/pathway/glycolysis/" class="internal-link">Glycolysis</a><br />
-ACTIVATES::<a href="/entities/pathway/mitophagy/" class="internal-link">Mitophagy</a></p>
-<h3>Inhibits</h3>
-<p>INHIBITS::<a href="/entities/pathway/mtor-pathway/" class="internal-link">mTOR Pathway</a><br />
-INHIBITS::<a href="/entities/pathway/gluconeogenesis/" class="internal-link">Gluconeogenesis</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/metabolite/atp/" class="internal-link">ATP</a><br />
 RELATED::<a href="/entities/supplement/berberine/" class="internal-link">Berberine</a><br />
@@ -44,5 +36,13 @@ RELATED::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin
 RELATED::<a class="internal-link is-unresolved" href="/404">EGCG</a><br />
 PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal Pathway</a><br />
 RELATED::<a href="/entities/supplement/resveratrol/" class="internal-link">Resveratrol</a></p>
+<h3>Activates</h3>
+<p>ACTIVATES::<a href="/entities/pathway/beta-oxidation/" class="internal-link">Beta-Oxidation</a><br />
+ACTIVATES::<a href="/entities/biologicalprocess/autophagy/" class="internal-link">Autophagy</a><br />
+ACTIVATES::<a href="/entities/pathway/glycolysis/" class="internal-link">Glycolysis</a><br />
+ACTIVATES::<a href="/entities/pathway/mitophagy/" class="internal-link">Mitophagy</a></p>
+<h3>Inhibits</h3>
+<p>INHIBITS::<a href="/entities/pathway/mtor-pathway/" class="internal-link">mTOR Pathway</a><br />
+INHIBITS::<a href="/entities/pathway/gluconeogenesis/" class="internal-link">Gluconeogenesis</a></p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.899067Z'
+created: '2026-04-19T18:22:21.978575Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: GRB2
 type: gene
-updated: '2026-04-17T18:59:20.899067Z'
+updated: '2026-04-19T18:22:21.978575Z'
 ---
 
 {% raw %}
@@ -39,7 +39,7 @@ updated: '2026-04-17T18:59:20.899067Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a><br />
+<p>RELATED::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a><br />
 RELATED::<a href="/entities/hormone/igf-1/" class="internal-link">IGF-1</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Cytoplasm</a></p>
 <h3>Interacts With</h3>

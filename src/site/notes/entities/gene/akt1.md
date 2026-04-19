@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.809134Z'
+created: '2026-04-19T18:22:21.851817Z'
 description: Encodes AKT1 (Protein Kinase B alpha), a serine/threonine kinase that
   is a central node in the PI3K/AKT pathway. Regulates cell survival, proliferation,
   metabolism, and insulin signaling.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: AKT1
 type: gene
-updated: '2026-04-17T18:59:20.809134Z'
+updated: '2026-04-19T18:22:21.851817Z'
 ---
 
 {% raw %}
@@ -32,7 +32,7 @@ updated: '2026-04-17T18:59:20.809134Z'
 <p>ACTIVATES::<a class="internal-link is-unresolved" href="/404">mTOR</a><br />
 ACTIVATES::<a class="internal-link is-unresolved" href="/404">eNOS</a></p>
 <h3>Activated By</h3>
-<p>ACTIVATED_BY::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a><br />
+<p>ACTIVATED_BY::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a><br />
 ACTIVATED_BY::<a href="/entities/hormone/igf-1/" class="internal-link">IGF-1</a><br />
 ACTIVATED_BY::<a class="internal-link is-unresolved" href="/404">PI3K</a></p>
 <h3>Associated With Condition</h3>

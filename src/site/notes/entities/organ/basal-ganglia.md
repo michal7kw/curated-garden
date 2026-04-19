@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.505840Z'
+created: '2026-04-19T18:22:21.490157Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/basal-ganglia/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Basal Ganglia
 type: organ
-updated: '2026-04-17T18:59:20.505840Z'
+updated: '2026-04-19T18:22:21.490157Z'
 ---
 
 {% raw %}

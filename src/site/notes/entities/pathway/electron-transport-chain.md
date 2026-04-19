@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.606289Z'
+created: '2026-04-19T18:22:21.626272Z'
 description: The electron transport chain (ETC) is a series of protein complexes embedded
   in the inner mitochondrial membrane that transfers electrons from NADH and FADH2
   to oxygen, generating the proton gradient used for ATP synthesis. It is the final
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Electron Transport Chain
 type: pathway
-updated: '2026-04-17T18:59:20.606289Z'
+updated: '2026-04-19T18:22:21.626272Z'
 ---
 
 {% raw %}
@@ -25,13 +25,13 @@ updated: '2026-04-17T18:59:20.606289Z'
 <h2>Description</h2>
 <p>The electron transport chain (ETC) is a series of protein complexes embedded in the inner mitochondrial membrane that transfers electrons from NADH and FADH2 to oxygen, generating the proton gradient used for ATP synthesis. It is the final stage of cellular respiration and produces the majority of cellular ATP.</p>
 <h2>Relationships</h2>
-<h3>Affected By</h3>
-<p>AFFECTED_BY::<a href="/entities/drug/nicotine/" class="internal-link">Nicotine</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/drug/nicotine/" class="internal-link">Nicotine</a><br />
 RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
 RELATED::<a href="/entities/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">CoQ10</a></p>
+<h3>Affected By</h3>
+<p>AFFECTED_BY::<a href="/entities/drug/nicotine/" class="internal-link">Nicotine</a></p>
 <h3>Located In</h3>
 <p>LOCATED_IN::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 <h3>Modulated By Supplement</h3>

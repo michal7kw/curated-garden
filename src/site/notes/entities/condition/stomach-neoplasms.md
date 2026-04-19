@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.196373Z'
+created: '2026-04-19T18:22:19.940358Z'
 description: Cancer developing from the lining of the stomach, most commonly adenocarcinoma.
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Stomach Neoplasms
 type: condition
-updated: '2026-04-17T18:59:19.196373Z'
+updated: '2026-04-19T18:22:19.940358Z'
 ---
 
 {% raw %}
@@ -22,9 +22,9 @@ updated: '2026-04-17T18:59:19.196373Z'
 <p>Cancer developing from the lining of the stomach, most commonly adenocarcinoma.</p>
 <h2>Relationships</h2>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/cea/" class="internal-link">CEA</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/albumin/" class="internal-link">Albumin</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/cea/" class="internal-link">cea</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/albumin/" class="internal-link">albumin</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/hemoglobin/" class="internal-link">hemoglobin</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
 ASSOCIATED_WITH::<a href="/entities/supplement/vitamin-b12/" class="internal-link">Vitamin B12</a></p>
 <h3>Improved By Supplement</h3>

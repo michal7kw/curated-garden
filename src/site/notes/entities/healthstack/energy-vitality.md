@@ -1,5 +1,7 @@
 ---
-created: '2026-04-17T18:59:19.574429Z'
+aliases:
+- Energy and Vitality
+created: '2026-04-19T18:22:20.421633Z'
 description: Combat fatigue and support sustained energy levels. B-complex vitamins
   are essential cofactors in energy metabolism, CoQ10 powers mitochondrial ATP production,
   iron supports oxygen transport, and vitamin D3 regulates hundreds of metabolic processes.
@@ -14,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Energy & Vitality
 type: healthstack
-updated: '2026-04-17T18:59:19.574429Z'
+updated: '2026-04-19T18:22:20.421633Z'
 ---
 
 {% raw %}
@@ -77,7 +79,7 @@ updated: '2026-04-17T18:59:19.574429Z'
 </thead>
 <tbody>
 <tr>
-<td><a href="/entities/labtest/ferritin/" class="internal-link">Ferritin</a></td>
+<td><a href="/entities/labtest/ferritin/" class="internal-link">ferritin</a></td>
 <td>30-300</td>
 <td>50-150</td>
 <td>ng/mL</td>
@@ -114,8 +116,8 @@ CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Vitamin 
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />
 INCLUDES_SUPPLEMENT::<a href="/entities/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a><br />
 INCLUDES_SUPPLEMENT::<a href="/entities/supplement/iron/" class="internal-link">Iron</a><br />
-AFFECTS_BIOMARKER::<a href="/entities/labtest/ferritin/" class="internal-link">Ferritin</a><br />
-AFFECTS_BIOMARKER::<a href="/entities/labtest/hemoglobin/" class="internal-link">Hemoglobin</a></p>
+AFFECTS_BIOMARKER::<a href="/entities/labtest/ferritin/" class="internal-link">ferritin</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/hemoglobin/" class="internal-link">hemoglobin</a></p>
 <hr />
 <p><strong>Difficulty:</strong> Beginner | <strong>Evidence Level:</strong> ⭐⭐⭐⭐ (4/5)</p>
 

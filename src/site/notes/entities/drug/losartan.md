@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.396443Z'
+created: '2026-04-19T18:22:20.194414Z'
 description: Angiotensin II receptor blocker (ARB) for hypertension and diabetic nephropathy.
   Blocks AT1 receptors, providing similar benefits to ACE inhibitors without the cough.
   First ARB developed.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Losartan
 type: drug
-updated: '2026-04-17T18:59:19.396443Z'
+updated: '2026-04-19T18:22:20.194414Z'
 ---
 
 {% raw %}
@@ -36,6 +36,9 @@ updated: '2026-04-17T18:59:19.396443Z'
 <li><strong>Hyperuricemia/gout</strong>: Unique uricosuric effect provides added benefit</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>INTERACTS_WITH::<a href="/entities/drug/metoprolol/" class="internal-link">Metoprolol</a><br />
+RELATED::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a></p>
 <h3>Interacts With</h3>
 <p>INTERACTS_WITH::<a href="/entities/labtest/potassium/" class="internal-link">Potassium</a></p>
 <h3>Treats</h3>
@@ -44,13 +47,10 @@ updated: '2026-04-17T18:59:19.396443Z'
 <p>MODULATES_HORMONE::<a href="/entities/hormone/aldosterone/" class="internal-link">Aldosterone</a></p>
 <h3>Affects Biomarker</h3>
 <p>AFFECTS_BIOMARKER::<a href="/entities/labtest/potassium/" class="internal-link">Potassium</a><br />
-AFFECTS_BIOMARKER::<a href="/entities/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/creatinine/" class="internal-link">creatinine</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/labtest/uric-acid/" class="internal-link">Uric Acid</a></p>
 <h3>Affects Organ</h3>
 <p>AFFECTS_ORGAN::<a href="/entities/organ/kidneys/" class="internal-link">Kidneys</a><br />
 AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a></p>
-<h3>Related</h3>
-<p>INTERACTS_WITH::<a href="/entities/drug/metoprolol/" class="internal-link">Metoprolol</a><br />
-RELATED::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a></p>
 
 {% endraw %}

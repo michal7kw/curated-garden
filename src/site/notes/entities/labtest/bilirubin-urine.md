@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.855608Z'
+created: '2026-04-19T18:22:20.752053Z'
 description: Tested twice a year Bilirubin is a natural substance produced when the
   body breaks down old red blood cells. Under healthy conditions, the liver processes
   bilirubin, and it is not usually present in urine. When bilirubin does appear in
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: bilirubin_urine
 type: labtest
-updated: '2026-04-17T18:59:19.855608Z'
+updated: '2026-04-19T18:22:20.752053Z'
 ---
 
 {% raw %}
@@ -60,15 +60,15 @@ updated: '2026-04-17T18:59:19.855608Z'
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/entities/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced Liver Injury</a><br />
-MAY_DETECT::<a href="/entities/condition/gallbladder-disease/" class="internal-link">Gallbladder Disease</a></p>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Liver Dysfunction</a><br />
 RELATED::<a href="/entities/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced Liver Injury</a><br />
 RELATED::<a href="/entities/condition/gallbladder-disease/" class="internal-link">Gallbladder Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hepatitis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Bile Duct Obstruction</a></p>
+<h3>May Detect</h3>
+<p>MAY_DETECT::<a href="/entities/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced Liver Injury</a><br />
+MAY_DETECT::<a href="/entities/condition/gallbladder-disease/" class="internal-link">Gallbladder Disease</a></p>
 <h3>Associated With Condition</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/gallbladder-disease/" class="internal-link">Gallbladder Disease</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced Liver Injury</a></p>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.286449Z'
+created: '2026-04-19T18:22:20.066370Z'
 description: Oral JAK1/JAK2 inhibitor for RA. Selectively blocks JAK1 and JAK2, interfering
   with signaling from IL-6, IFN-gamma, and IL-12/23. FDA-approved for moderate-to-severe
   RA after DMARD failure.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Baricitinib
 type: drug
-updated: '2026-04-17T18:59:19.286449Z'
+updated: '2026-04-19T18:22:20.066370Z'
 ---
 
 {% raw %}

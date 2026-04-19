@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.291461Z'
+created: '2026-04-19T18:22:22.486190Z'
 description: Root extract of Eurycoma longifolia, a Southeast Asian medicinal plant
   traditionally used as an aphrodisiac and energy tonic. Contains bioactive quassinoids
   (eurycomanone, eurycolactone) that modulate testosterone via HPA axis and SHBG mechanisms.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Tongkat Ali
 type: supplement
-updated: '2026-04-17T18:59:21.291461Z'
+updated: '2026-04-19T18:22:22.486190Z'
 ---
 
 {% raw %}
@@ -32,12 +32,12 @@ updated: '2026-04-17T18:59:21.291461Z'
 <h2>Dosage</h2>
 <p>100-200mg standardized extract (1-2% eurycomanone) daily or 200-400mg hot water extract</p>
 <h2>Relationships</h2>
-<h3>Modulates Neurotransmitter</h3>
-<p>MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/supplement/cistanche/" class="internal-link">Cistanche</a><br />
-MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 RELATED::<a href="/entities/supplement/ashwagandha/" class="internal-link">Ashwagandha</a></p>
+<h3>Modulates Neurotransmitter</h3>
+<p>MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/hormonal-imbalance/" class="internal-link">Hormonal Imbalance</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/chronic-stress/" class="internal-link">Chronic Stress</a><br />

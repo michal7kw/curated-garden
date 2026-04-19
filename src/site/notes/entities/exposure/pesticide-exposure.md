@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.520469Z'
+created: '2026-04-19T18:22:20.348135Z'
 description: Exposure to agricultural and household pesticides, primarily organophosphates
   and glyphosate-based herbicides, causing acetylcholinesterase inhibition, oxidative
   stress, mitochondrial dysfunction, and increased risk of neurodegenerative disease,
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Pesticide Exposure
 type: exposure
-updated: '2026-04-17T18:59:19.520469Z'
+updated: '2026-04-19T18:22:20.348135Z'
 ---
 
 {% raw %}

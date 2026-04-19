@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.619359Z'
+created: '2026-04-19T18:22:19.616393Z'
 description: An autoimmune disorder that causes overactivity of the thyroid gland
   (hyperthyroidism) through the production of stimulating antibodies.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Graves Disease
 type: condition
-updated: '2026-04-17T18:59:18.619359Z'
+updated: '2026-04-19T18:22:19.616393Z'
 ---
 
 {% raw %}
@@ -45,12 +45,12 @@ updated: '2026-04-17T18:59:18.619359Z'
 <li><strong>Lifestyle</strong>: Smoking cessation (strongest modifiable risk factor for ophthalmopathy), stress management, protective eyewear</li>
 </ul>
 <h2>Relationships</h2>
-<p>AFFECTS_ORGAN::<a href="/entities/organ/thyroid/" class="internal-link">Thyroid</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/eyes/" class="internal-link">Eyes</a></p>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/labtest/thyroid-peroxidase-antibodies-tpo/" class="internal-link">thyroid peroxidase antibodies tpo</a></p>
+<p>RELATED::<a href="/entities/labtest/thyroid-peroxidase-antibodies-tpo/" class="internal-link">thyroid peroxidase antibodies tpo</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/thyroid/" class="internal-link">Thyroid</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/eyes/" class="internal-link">Eyes</a></p>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/tsh/" class="internal-link">Tsh</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/tsh/" class="internal-link">tsh</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/free-t3/" class="internal-link">Free T3</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/free-t4/" class="internal-link">Free T4</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>

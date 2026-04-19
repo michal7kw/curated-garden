@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.204882Z'
+created: '2026-04-19T18:22:19.950336Z'
 description: A group of symptoms that occur upon the abrupt discontinuation or decrease
   in intake of a substance to which the body has developed physiological dependence.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Substance Withdrawal Syndrome
 type: condition
-updated: '2026-04-17T18:59:19.204882Z'
+updated: '2026-04-19T18:22:19.950336Z'
 ---
 
 {% raw %}
@@ -23,7 +23,7 @@ updated: '2026-04-17T18:59:19.204882Z'
 <p>A group of symptoms that occur upon the abrupt discontinuation or decrease in intake of a substance to which the body has developed physiological dependence.</p>
 <h2>Relationships</h2>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 ASSOCIATED_WITH::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/magnesium-rbc/" class="internal-link">Magnesium Rbc</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/alanine-transaminase/" class="internal-link">Alanine Transaminase</a><br />

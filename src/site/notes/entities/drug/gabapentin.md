@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.354830Z'
+created: '2026-04-19T18:22:20.149320Z'
 description: Anticonvulsant and analgesic used for neuropathic pain, epilepsy, and
   restless leg syndrome. Binds to alpha-2-delta calcium channel subunit. Not actually
   a GABA analog despite the name.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Gabapentin
 type: drug
-updated: '2026-04-17T18:59:19.354830Z'
+updated: '2026-04-19T18:22:20.149320Z'
 ---
 
 {% raw %}
@@ -36,6 +36,9 @@ updated: '2026-04-17T18:59:19.354830Z'
 <li><strong>Perioperative pain</strong>: Preoperative gabapentin reduces opioid requirements</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
+RELATED::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a></p>
 <h3>Interacts With</h3>
 <p>INTERACTS_WITH::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a></p>
 <h3>Treats</h3>
@@ -45,8 +48,5 @@ updated: '2026-04-17T18:59:19.354830Z'
 MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/glutamate/" class="internal-link">Glutamate</a></p>
 <h3>Affects Organ</h3>
 <p>AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
-RELATED::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a></p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.677124Z'
+created: '2026-04-19T18:22:19.647647Z'
 description: A condition where the thyroid gland produces and releases excessive amounts
   of thyroid hormones (T3 and T4), accelerating the body's metabolism.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Hyperthyroidism
 type: condition
-updated: '2026-04-17T18:59:18.677124Z'
+updated: '2026-04-19T18:22:19.647647Z'
 ---
 
 {% raw %}
@@ -44,13 +44,12 @@ updated: '2026-04-17T18:59:18.677124Z'
 <li><strong>Lifestyle</strong>: Stress reduction (stress can trigger/worsen Graves'), adequate calcium and vitamin D (hyperthyroidism accelerates bone loss), moderate exercise (avoid high-intensity during active disease)</li>
 </ul>
 <h2>Relationships</h2>
-<p>AFFECTS_ORGAN::<a href="/entities/organ/thyroid/" class="internal-link">Thyroid</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/condition/thyroid-dysfunction/" class="internal-link">Thyroid Dysfunction</a><br />
-RELATED::<a href="/entities/condition/thyroid-dysfunction/" class="internal-link">thyroid dysfunction</a></p>
+AFFECTS_ORGAN::<a href="/entities/organ/thyroid/" class="internal-link">Thyroid</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a></p>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/tsh/" class="internal-link">Tsh</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/tsh/" class="internal-link">tsh</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/free-t3/" class="internal-link">Free T3</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/free-t4/" class="internal-link">Free T4</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/calcium/" class="internal-link">Calcium</a><br />

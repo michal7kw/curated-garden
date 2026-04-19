@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.020717Z'
+created: '2026-04-19T18:22:20.982827Z'
 description: Measures serum iron, ferritin, TIBC, transferrin saturation. Essential
   for anemia workup and iron overload assessment.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: iron_panel
 type: labtest
-updated: '2026-04-17T18:59:20.020717Z'
+updated: '2026-04-19T18:22:20.982827Z'
 ---
 
 {% raw %}
@@ -66,10 +66,10 @@ updated: '2026-04-17T18:59:20.020717Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/entities/biomarker/serum-iron/" class="internal-link">serum iron</a></li>
+<li><a href="/entities/biomarker/serum-iron/" class="internal-link">Serum Iron</a></li>
 <li><a href="/entities/labtest/ferritin/" class="internal-link">ferritin</a></li>
-<li><a href="/entities/biomarker/tibc/" class="internal-link">tibc</a></li>
-<li><a href="/entities/biomarker/transferrin-saturation/" class="internal-link">transferrin saturation</a></li>
+<li><a href="/entities/biomarker/tibc/" class="internal-link">Tibc</a></li>
+<li><a href="/entities/biomarker/transferrin-saturation/" class="internal-link">Transferrin Saturation</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -80,11 +80,10 @@ updated: '2026-04-17T18:59:20.020717Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/biomarker/tibc/" class="internal-link">tibc</a><br />
-RELATED::<a href="/entities/biomarker/serum-iron/" class="internal-link">serum iron</a><br />
-RELATED::<a href="/entities/labtest/ferritin/" class="internal-link">Ferritin</a><br />
+<p>RELATED::<a href="/entities/biomarker/tibc/" class="internal-link">Tibc</a><br />
+RELATED::<a href="/entities/biomarker/serum-iron/" class="internal-link">Serum Iron</a><br />
 RELATED::<a href="/entities/labtest/ferritin/" class="internal-link">ferritin</a><br />
-RELATED::<a href="/entities/biomarker/transferrin-saturation/" class="internal-link">transferrin saturation</a></p>
+RELATED::<a href="/entities/biomarker/transferrin-saturation/" class="internal-link">Transferrin Saturation</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

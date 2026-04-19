@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.412177Z'
+created: '2026-04-19T18:22:19.517200Z'
 description: A range of disorders resulting from the use of cocaine, including acute
   intoxication, withdrawal, dependence, and induced mental disorders.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Cocaine-Related Disorders
 type: condition
-updated: '2026-04-17T18:59:18.412177Z'
+updated: '2026-04-19T18:22:19.517200Z'
 ---
 
 {% raw %}
@@ -23,13 +23,12 @@ updated: '2026-04-17T18:59:18.412177Z'
 <p>A range of disorders resulting from the use of cocaine, including acute intoxication, withdrawal, dependence, and induced mental disorders.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/condition/cocaine-related-disorders/" class="internal-link">Cocaine-Related Disorders</a></p>
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/biomarker/troponin/" class="internal-link">Troponin</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/creatine-kinase/" class="internal-link">Creatine Kinase</a><br />
 ASSOCIATED_WITH::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a></p>
+ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a></p>
 <h3>Improved By Supplement</h3>
 <p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/nac/" class="internal-link">NAC</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />

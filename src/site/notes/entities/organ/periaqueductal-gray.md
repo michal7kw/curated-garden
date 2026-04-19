@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.555511Z'
+created: '2026-04-19T18:22:21.561274Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/periaqueductal-gray/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Periaqueductal Gray
 type: organ
-updated: '2026-04-17T18:59:20.555511Z'
+updated: '2026-04-19T18:22:21.561274Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.510498Z'
+created: '2026-04-19T18:22:21.496887Z'
 description: Rigid organs forming the skeleton, providing structure, protection, movement,
   blood cell production, and mineral storage. Dynamic tissue constantly remodeling.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: Bones
 type: organ
-updated: '2026-04-17T18:59:20.510498Z'
+updated: '2026-04-19T18:22:21.496887Z'
 ---
 
 {% raw %}
@@ -22,7 +22,6 @@ updated: '2026-04-17T18:59:20.510498Z'
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/condition/vitamin-d-deficiency/" class="internal-link">Vitamin D Deficiency</a><br />
 RELATED::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a><br />
-RELATED::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
-RELATED::<a href="/entities/condition/vitamin-d-deficiency/" class="internal-link">vitamin d deficiency</a></p>
+RELATED::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a></p>
 
 {% endraw %}

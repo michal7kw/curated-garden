@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.388784Z'
+created: '2026-04-19T18:22:18.879098Z'
 description: Collection of structures at the base of the forebrain including the nucleus
   basalis of Meynert, medial septum, and diagonal band. The brain's primary source
   of cortical acetylcholine. Degeneration of cholinergic neurons here is a hallmark
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Basal Forebrain
 type: anatomy
-updated: '2026-04-17T18:59:17.388784Z'
+updated: '2026-04-19T18:22:18.879098Z'
 ---
 
 {% raw %}
@@ -35,6 +35,8 @@ updated: '2026-04-17T18:59:17.388784Z'
 <h2>Clinical Significance</h2>
 <p>The cholinergic hypothesis of Alzheimer's disease posits that loss of basal forebrain cholinergic neurons is a primary driver of cognitive decline. All approved cholinesterase inhibitors (donepezil, rivastigmine, galantamine) work by boosting the diminished acetylcholine supply from these degenerating neurons.</p>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a></p>
 <h3>Projects To</h3>
 <p>PROJECTS_TO::<a href="/entities/anatomy/entorhinal-cortex/" class="internal-link">Entorhinal_Cortex</a><br />
 PROJECTS_TO::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal_Cortex</a><br />
@@ -44,8 +46,6 @@ PROJECTS_TO::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hipp
 SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/memory-and-learning/" class="internal-link">Memory_and_Learning</a></p>
 <h3>Produces</h3>
 <p>PRODUCES::<a href="/entities/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:15652312</li>

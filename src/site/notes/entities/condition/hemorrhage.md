@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.647723Z'
+created: '2026-04-19T18:22:19.631605Z'
 description: The release of blood from a broken blood vessel, either inside or outside
   the body.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Hemorrhage
 type: condition
-updated: '2026-04-17T18:59:18.647723Z'
+updated: '2026-04-19T18:22:19.631605Z'
 ---
 
 {% raw %}
@@ -23,10 +23,10 @@ updated: '2026-04-17T18:59:18.647723Z'
 <p>The release of blood from a broken blood vessel, either inside or outside the body.</p>
 <h2>Relationships</h2>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/hematocrit/" class="internal-link">Hematocrit</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/hemoglobin/" class="internal-link">hemoglobin</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/hematocrit/" class="internal-link">hematocrit</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/platelets/" class="internal-link">Platelets</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/fibrinogen/" class="internal-link">Fibrinogen</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/fibrinogen/" class="internal-link">fibrinogen</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/d-dimer/" class="internal-link">D-Dimer</a></p>
 <h3>Improved By Supplement</h3>
 <p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/iron/" class="internal-link">Iron</a><br />

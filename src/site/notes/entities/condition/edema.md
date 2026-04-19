@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.520385Z'
+created: '2026-04-19T18:22:19.564068Z'
 description: Abnormal accumulation of fluid in the interstitial tissues causing swelling,
   resulting from imbalances in capillary hydrostatic pressure, oncotic pressure, lymphatic
   drainage, or capillary permeability.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Edema
 type: condition
-updated: '2026-04-17T18:59:18.520385Z'
+updated: '2026-04-19T18:22:19.564068Z'
 ---
 
 {% raw %}
@@ -53,8 +53,8 @@ RELATED::<a href="/entities/condition/chronic-kidney-disease/" class="internal-l
 RELATED::<a href="/entities/condition/nephrotic-syndrome/" class="internal-link">Nephrotic Syndrome</a><br />
 RELATED::<a href="/entities/condition/venous-thromboembolism/" class="internal-link">Venous Thromboembolism</a></p>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/albumin/" class="internal-link">Albumin</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/bnp/" class="internal-link">BNP</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/albumin/" class="internal-link">albumin</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/bnp/" class="internal-link">bnp</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/sodium/" class="internal-link">Sodium</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>
 <h3>Improved By Supplement</h3>
@@ -64,10 +64,10 @@ IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-b6/" class="intern
 IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Horse Chestnut Extract</a></p>
 <h3>Merged From phenotype</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Abnormality of fluid regulation</a><br />
-RELATED::<a href="/entities/labtest/albumin/" class="internal-link">Albumin</a><br />
+RELATED::<a href="/entities/labtest/albumin/" class="internal-link">albumin</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Cerebral edema</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Corneal stromal edema</a><br />
-RELATED::<a href="/entities/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+RELATED::<a href="/entities/labtest/creatinine/" class="internal-link">creatinine</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Edema of the dorsum of hands</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Edema of the upper limbs</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Facial edema</a><br />

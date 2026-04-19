@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.486242Z'
+created: '2026-04-19T18:22:18.952068Z'
 description: Alkaline Phosphatase (ALP) is an enzyme found throughout the body, with
   high concentrations in the liver, bones, and bile ducts. It is primarily used as
   a marker for biliary obstruction, liver disease, and bone turnover.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Alkaline Phosphatase
 type: biomarker
-updated: '2026-04-17T18:59:17.486242Z'
+updated: '2026-04-19T18:22:18.952068Z'
 ---
 
 {% raw %}

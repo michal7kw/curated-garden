@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.313447Z'
+created: '2026-04-19T18:22:22.513269Z'
 description: Fat-soluble secosteroid hormone precursor essential for calcium absorption,
   immune modulation, gene expression, and neuromuscular function. Deficiency (<30
   ng/mL) affects an estimated 1 billion people worldwide and is linked to osteoporosis,
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Vitamin D
 type: supplement
-updated: '2026-04-17T18:59:21.313447Z'
+updated: '2026-04-19T18:22:22.513269Z'
 ---
 
 {% raw %}
@@ -50,6 +50,10 @@ updated: '2026-04-17T18:59:21.313447Z'
 <li><strong>COVID-19</strong>: Deficiency associated with worse outcomes; supplementation evidence mixed</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>MODULATES_HORMONE::<a href="/entities/hormone/testosterone/" class="internal-link">Testosterone</a><br />
+MODULATES_HORMONE::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a><br />
+MODULATES_HORMONE::<a href="/entities/hormone/thyroid-hormones/" class="internal-link">Thyroid Hormones</a></p>
 <h3>Affects Biomarker</h3>
 <p>AFFECTS_BIOMARKER::<a href="/entities/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/labtest/calcium/" class="internal-link">Calcium</a><br />
@@ -64,16 +68,12 @@ MAY_IMPROVE_CONDITION::<a href="/entities/condition/diabetes/" class="internal-l
 SYNERGISTIC_WITH::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
 SYNERGISTIC_WITH::<a href="/entities/labtest/calcium/" class="internal-link">Calcium</a><br />
 SYNERGISTIC_WITH::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a></p>
-<h3>Related</h3>
-<p>MODULATES_HORMONE::<a href="/entities/hormone/testosterone/" class="internal-link">Testosterone</a><br />
-MODULATES_HORMONE::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a><br />
-MODULATES_HORMONE::<a href="/entities/hormone/thyroid-hormones/" class="internal-link">Thyroid Hormones</a></p>
 <h3>Targets Biomarker</h3>
-<p>TARGETS_BIOMARKER::<a href="/entities/labtest/ctx/" class="internal-link">CTX</a><br />
+<p>TARGETS_BIOMARKER::<a href="/entities/labtest/ctx/" class="internal-link">ctx</a><br />
 TARGETS_BIOMARKER::<a href="/entities/labtest/calcium/" class="internal-link">Calcium</a><br />
 TARGETS_BIOMARKER::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
 TARGETS_BIOMARKER::<a href="/entities/labtest/interleukin-6/" class="internal-link">Interleukin 6</a><br />
-TARGETS_BIOMARKER::<a href="/entities/labtest/osteocalcin/" class="internal-link">Osteocalcin</a><br />
+TARGETS_BIOMARKER::<a href="/entities/labtest/osteocalcin/" class="internal-link">osteocalcin</a><br />
 TARGETS_BIOMARKER::<a href="/entities/biomarker/p1np/" class="internal-link">P1NP</a></p>
 <h2>References</h2>
 <ul>
@@ -89,12 +89,8 @@ AFFECTS_ORGAN::<a href="/entities/organ/muscles/" class="internal-link">Muscles<
 AFFECTS_ORGAN::<a href="/entities/organ/skin/" class="internal-link">Skin</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/bones/" class="internal-link">Bones</a><br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/diabetes/" class="internal-link">Diabetes</a><br />
-RELATED::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a><br />
+RELATED::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a><br />
 RELATED::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/muscles/" class="internal-link">Muscles</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/skin/" class="internal-link">Skin</a><br />
 REQUIRES_COFACTOR::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a></p>
 
 {% endraw %}

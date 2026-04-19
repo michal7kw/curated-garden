@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.446998Z'
+created: '2026-04-19T18:22:20.250033Z'
 description: Synthetic corticosteroid with potent anti-inflammatory and immunosuppressive
   effects. Used for a wide range of inflammatory and autoimmune conditions. Converted
   to active prednisolone in the liver.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Prednisone
 type: drug
-updated: '2026-04-17T18:59:19.446998Z'
+updated: '2026-04-19T18:22:20.250033Z'
 ---
 
 {% raw %}
@@ -40,6 +40,5 @@ updated: '2026-04-17T18:59:19.446998Z'
 <h3>Related</h3>
 <p>INTERACTS_WITH::<a href="/entities/drug/doxepin/" class="internal-link">Doxepin</a></p>
 <h3>Interacts With</h3>
-<p>INTERACTS_WITH::<a href="/entities/drug/doxepin/" class="internal-link">Doxepin</a></p>
 
 {% endraw %}

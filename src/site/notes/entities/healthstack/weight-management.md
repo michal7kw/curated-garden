@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.631428Z'
+created: '2026-04-19T18:22:20.467810Z'
 description: Support healthy metabolism and weight management. Green tea EGCG enhances
   thermogenesis and fat oxidation, chromium improves insulin sensitivity, omega-3
   reduces metabolic inflammation, and psyllium fiber promotes satiety and healthy
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Weight Management
 type: healthstack
-updated: '2026-04-17T18:59:19.631428Z'
+updated: '2026-04-19T18:22:20.467810Z'
 ---
 
 {% raw %}
@@ -85,7 +85,7 @@ updated: '2026-04-17T18:59:19.631428Z'
 <td>Primary marker of glucose regulation</td>
 </tr>
 <tr>
-<td><a href="/entities/labtest/hba1c/" class="internal-link">HbA1c</a></td>
+<td><a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a></td>
 <td>4.0-5.7</td>
 <td>4.5-5.2</td>
 <td>%</td>
@@ -99,7 +99,7 @@ updated: '2026-04-17T18:59:19.631428Z'
 <td>Early insulin resistance indicator</td>
 </tr>
 <tr>
-<td><a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a></td>
+<td><a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a></td>
 <td>0-150</td>
 <td>0-100</td>
 <td>mg/dL</td>
@@ -124,7 +124,7 @@ ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/diabetes/" class="intern
 INCLUDES_SUPPLEMENT::<a href="/entities/supplement/berberine/" class="internal-link">Berberine</a><br />
 INCLUDES_SUPPLEMENT::<a href="/entities/supplement/chromium/" class="internal-link">Chromium</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/metabolite/glucose/" class="internal-link">Glucose</a><br />
-AFFECTS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">Hba1C</a></p>
+AFFECTS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a></p>
 <hr />
 <p><strong>Difficulty:</strong> Intermediate | <strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
 

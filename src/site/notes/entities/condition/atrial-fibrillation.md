@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.248807Z'
+created: '2026-04-19T18:22:19.433367Z'
 description: A common heart rhythm disorder (arrhythmia) characterized by rapid and
   irregular beating of the atrial chambers of the heart.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Atrial Fibrillation
 type: condition
-updated: '2026-04-17T18:59:18.248807Z'
+updated: '2026-04-19T18:22:19.433367Z'
 ---
 
 {% raw %}
@@ -42,14 +42,14 @@ updated: '2026-04-17T18:59:18.248807Z'
 <li><strong>Risk factor management</strong>: Treat hypertension, diabetes, obesity, thyroid dysfunction, and sleep apnea</li>
 </ul>
 <h2>Relationships</h2>
-<p>AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/drug/quinidine/" class="internal-link">Quinidine</a><br />
 RELATED::<a href="/entities/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a></p>
+<p>AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a></p>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/bnp/" class="internal-link">BNP</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/bnp/" class="internal-link">bnp</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/tsh/" class="internal-link">Tsh</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/tsh/" class="internal-link">tsh</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/troponin/" class="internal-link">Troponin</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/d-dimer/" class="internal-link">D-Dimer</a></p>
 <h3>Improved By Supplement</h3>

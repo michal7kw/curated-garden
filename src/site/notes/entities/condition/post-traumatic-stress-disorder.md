@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.047616Z'
+created: '2026-04-19T18:22:19.838737Z'
 description: A mental health condition triggered by experiencing or witnessing a terrifying
   event, characterized by flashbacks, nightmares, and severe anxiety.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Post-Traumatic Stress Disorder
 type: condition
-updated: '2026-04-17T18:59:19.047616Z'
+updated: '2026-04-19T18:22:19.838737Z'
 ---
 
 {% raw %}
@@ -23,11 +23,10 @@ updated: '2026-04-17T18:59:19.047616Z'
 <p>A mental health condition triggered by experiencing or witnessing a terrifying event, characterized by flashbacks, nightmares, and severe anxiety.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/condition/post-traumatic-stress-disorder/" class="internal-link">Post-Traumatic Stress Disorder</a><br />
-RELATED::<a href="/entities/condition/anxiety/" class="internal-link">Anxiety</a><br />
+<p>RELATED::<a href="/entities/condition/anxiety/" class="internal-link">Anxiety</a><br />
 RELATED::<a href="/entities/condition/depression/" class="internal-link">Depression</a></p>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br />
 ASSOCIATED_WITH::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />

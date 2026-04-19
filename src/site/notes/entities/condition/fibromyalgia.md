@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.562282Z'
+created: '2026-04-19T18:22:19.585216Z'
 description: Chronic widespread pain disorder characterized by central sensitization,
   fatigue, cognitive dysfunction ("fibro fog"), and sleep disturbance. Affects 2-4%
   of the population, predominantly women. Now understood as a disorder of central
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Fibromyalgia
 type: condition
-updated: '2026-04-17T18:59:18.562282Z'
+updated: '2026-04-19T18:22:19.585216Z'
 ---
 
 {% raw %}
@@ -53,9 +53,14 @@ updated: '2026-04-17T18:59:18.562282Z'
 <li><strong>Complementary</strong>: Tai chi, yoga, acupuncture, hydrotherapy — all show benefit in RCTs</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/condition/sleep-disorder/" class="internal-link">Sleep_Disorder</a><br />
+RELATED::<a href="/entities/condition/irritable-bowel-syndrome/" class="internal-link">Irritable_Bowel_Syndrome</a><br />
+RELATED::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
+RELATED::<a href="/entities/condition/chronic-stress/" class="internal-link">Chronic_Stress</a></p>
 <h3>Improved By Supplement</h3>
 <p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-d/" class="internal-link">vitamin_d</a><br />
-IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">magnesium</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/same/" class="internal-link">SAMe</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/5-htp/" class="internal-link">5-HTP</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/coenzyme-q10/" class="internal-link">Coenzyme_Q10</a></p>
@@ -63,11 +68,6 @@ IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/coenzyme-q10/" class="inte
 <p>ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Vitamin_D_25-OH</a><br />
 ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">hs-CRP</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/condition/sleep-disorder/" class="internal-link">Sleep_Disorder</a><br />
-RELATED::<a href="/entities/condition/irritable-bowel-syndrome/" class="internal-link">Irritable_Bowel_Syndrome</a><br />
-RELATED::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
-RELATED::<a href="/entities/condition/chronic-stress/" class="internal-link">Chronic_Stress</a></p>
 <h3>Affected By Intervention</h3>
 <p>AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/exercise/" class="internal-link">Exercise</a><br />
 AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/yoga/" class="internal-link">Yoga</a><br />

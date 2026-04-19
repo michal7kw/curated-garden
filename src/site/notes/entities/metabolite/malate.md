@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.460510Z'
+created: '2026-04-19T18:22:21.434203Z'
 description: Four-carbon dicarboxylic acid intermediate of the citric acid cycle.
   Formed by hydration of fumarate and oxidized to oxaloacetate to complete the cycle.
   Also participates in the malate-aspartate shuttle that transfers reducing equivalents
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Malate
 type: metabolite
-updated: '2026-04-17T18:59:20.460510Z'
+updated: '2026-04-19T18:22:21.434203Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.612215Z'
+created: '2026-04-19T18:22:19.031071Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/dhea-s/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Dhea S
 type: biomarker
-updated: '2026-04-17T18:59:17.612215Z'
+updated: '2026-04-19T18:22:19.031071Z'
 ---
 
 {% raw %}
@@ -103,14 +103,14 @@ updated: '2026-04-17T18:59:17.612215Z'
 <li>Associated with increased all-cause mortality in some studies</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Indicates Organ Health</h3>
-<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/adrenal-glands/" class="internal-link">Adrenal Glands</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/hormone/testosterone/" class="internal-link">Testosterone</a><br />
-RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Adrenal Fatigue</a></p>
+<h3>Indicates Organ Health</h3>
+<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/adrenal-glands/" class="internal-link">Adrenal Glands</a></p>
 <h3>Affected By Supplement</h3>
-<p>AFFECTED_BY_SUPPLEMENT::<a href="/entities/hormone/dhea/" class="internal-link">Dhea</a></p>
+<p>AFFECTED_BY_SUPPLEMENT::<a href="/entities/hormone/dhea/" class="internal-link">DHEA</a></p>
 <h3>Associated With Condition</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/polycystic-ovary-syndrome/" class="internal-link">Polycystic Ovary Syndrome</a><br />
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Adrenal Insufficiency</a></p>

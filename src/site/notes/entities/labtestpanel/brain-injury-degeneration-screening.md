@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.348543Z'
+created: '2026-04-19T18:22:21.320615Z'
 description: Neurofilament light chain (NfL) is a protein biomarker released during
   nerve cell damage and is a valuable tool for detecting active neuronal injury. It
   is used in the evaluation of conditions such as amyotrophic lateral sclerosis (ALS),
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: brain_injury_degeneration_screening
 type: labtestpanel
-updated: '2026-04-17T18:59:20.348543Z'
+updated: '2026-04-19T18:22:21.320615Z'
 ---
 
 {% raw %}

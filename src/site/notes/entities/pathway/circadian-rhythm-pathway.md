@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.598854Z'
+created: '2026-04-19T18:22:21.614422Z'
 description: The circadian rhythm pathway is the molecular clock system that generates
   ~24-hour oscillations in gene expression, metabolism, and physiology, synchronizing
   internal processes with the external light-dark cycle.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Circadian Rhythm Pathway
 type: pathway
-updated: '2026-04-17T18:59:20.598854Z'
+updated: '2026-04-19T18:22:21.614422Z'
 ---
 
 {% raw %}
@@ -30,10 +30,10 @@ MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="intern
 MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a><br />
 MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/glycine/" class="internal-link">Glycine</a></p>
 <h3>Associated Biomarker</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 ASSOCIATED_WITH::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/glucose-fasting/" class="internal-link">Glucose Fasting</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a></p>
+ASSOCIATED_WITH::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a></p>
 <h3>Associated With Condition</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />

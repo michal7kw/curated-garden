@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.998599Z'
+created: '2026-04-19T18:22:22.101809Z'
 description: In a randomized, placebo-controlled, double-blind trial, NMN supplementation
   (250 mg/day for 10 weeks) increased skeletal muscle insulin sensitivity, insulin
   signaling, and muscle remodeling in postmenopausal prediabetic women. This represents
@@ -21,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: NMN improves muscle insulin sensitivity in prediabetic women
 type: research
-updated: '2026-04-17T18:59:20.998599Z'
+updated: '2026-04-19T18:22:22.101809Z'
 ---
 
 {% raw %}
@@ -45,14 +45,14 @@ updated: '2026-04-17T18:59:20.998599Z'
 <h2>Clinical Significance</h2>
 <p>This is the first rigorous human RCT demonstrating that an NAD+ precursor can improve insulin sensitivity, the central metabolic defect in type 2 diabetes pathogenesis. Published in Science, it represents a landmark translational validation of the NAD+/SIRT1 axis that had been extensively characterized in rodent models. The 25% improvement in glucose disposal rate is clinically meaningful and comparable to the effects of structured exercise programs or early metformin therapy. However, several limitations temper enthusiasm: the sample size is very small (N=25), only one dose was tested (250 mg/day), the duration was short (10 weeks), there was no long-term follow-up, and the cohort was restricted to postmenopausal women. The patent conflict of interest for a co-author warrants consideration. Partial replication has been reported in a subsequent study (PMID: 35441613), but large, multi-center trials with diverse populations and longer durations are needed before NMN can be recommended as a standard intervention for prediabetes. Dose-response data and head-to-head comparisons with NR (nicotinamide riboside) remain outstanding.</p>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/condition/diabetes/" class="internal-link">Diabetes</a></p>
 <h3>Activates</h3>
 <p>ACTIVATES::<a href="/entities/protein/sirt1/" class="internal-link">SIRT1</a><br />
 ACTIVATES::<a href="/entities/protein/ampk/" class="internal-link">AMPK</a></p>
 <h3>Affects</h3>
 <p>AFFECTS::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
 AFFECTS::<a class="internal-link is-unresolved" href="/404">Muscle</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/condition/diabetes/" class="internal-link">Diabetes</a></p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a></p>
 <h3>Increases Biomarker</h3>

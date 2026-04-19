@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.053752Z'
+created: '2026-04-19T18:22:22.177891Z'
 description: Comprehensive formula containing all eight B vitamins, which serve as
   essential cofactors across glycolysis, TCA cycle, electron transport chain, and
   numerous other metabolic pathways critical for cellular energy production.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: B-Complex Vitamins
 type: supplement
-updated: '2026-04-17T18:59:21.053752Z'
+updated: '2026-04-19T18:22:22.177891Z'
 ---
 
 {% raw %}
@@ -84,14 +84,14 @@ updated: '2026-04-17T18:59:21.053752Z'
 <li><strong>Timing</strong>: Morning with food (B vitamins can be energizing)</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Participates In Pathway</h3>
-<p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/glycolysis/" class="internal-link">Glycolysis</a><br />
-PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative_Phosphorylation</a><br />
-PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/citric-acid-cycle/" class="internal-link">Citric_Acid_Cycle</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/supplement/thiamine/" class="internal-link">Thiamine</a><br />
 RELATED::<a href="/entities/supplement/riboflavin/" class="internal-link">Riboflavin</a><br />
 RELATED::<a href="/entities/supplement/niacin/" class="internal-link">Niacin</a></p>
+<h3>Participates In Pathway</h3>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/glycolysis/" class="internal-link">Glycolysis</a><br />
+PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative_Phosphorylation</a><br />
+PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/citric-acid-cycle/" class="internal-link">Citric_Acid_Cycle</a></p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial_Dysfunction</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/pernicious-anemia/" class="internal-link">Pernicious_Anemia</a><br />

@@ -1,5 +1,7 @@
 ---
-created: '2026-04-17T18:59:21.010491Z'
+aliases:
+- SIRT1 activation by resveratrol mechanism and physiological effects
+created: '2026-04-19T18:22:22.121235Z'
 description: This comprehensive mechanistic review elucidates how resveratrol activates
   SIRT1 through allosteric modulation, triggering downstream effects on PGC-1alpha,
   mitochondrial biogenesis, and metabolic homeostasis. The paper provides critical
@@ -21,7 +23,7 @@ tags:
 templateEngineOverride: njk
 title: 'SIRT1 activation by resveratrol: mechanism and physiological effects'
 type: research
-updated: '2026-04-17T18:59:21.010491Z'
+updated: '2026-04-19T18:22:22.121235Z'
 ---
 
 {% raw %}
@@ -46,12 +48,12 @@ updated: '2026-04-17T18:59:21.010491Z'
 <h2>Clinical Significance</h2>
 <p>This review provides the mechanistic framework for understanding why resveratrol has generated enormous research interest as a caloric restriction mimetic and longevity compound. The SIRT1/PGC-1alpha/mitochondrial biogenesis axis is one of the best-characterized molecular longevity pathways, and resveratrol remains its most studied pharmacological activator. However, the clinical translation has been disappointing relative to the preclinical promise. The primary bottleneck is bioavailability: the doses that produce dramatic effects in mice (200-400 mg/kg, equivalent to 14-28 g/day in a 70 kg human) are pharmacologically unachievable in humans. At clinically feasible doses (150-500 mg/day), effects on metabolic parameters are modest and inconsistent. This has led to the development of more potent SIRT1 activators (SRT1720, SRT2104) and the recognition that resveratrol's clinical value may lie in combination approaches (with NAD+ precursors like NMN/NR to increase SIRT1 substrate availability) rather than as a standalone intervention. Resveratrol remains a useful research tool compound and a reasonable dietary supplement, but claims of robust clinical anti-aging effects at standard doses are not well-supported by current evidence.</p>
 <h2>Relationships</h2>
-<h3>Studied Topic</h3>
-<p>STUDIED_TOPIC::<a href="/entities/supplement/resveratrol/" class="internal-link">Resveratrol</a><br />
-STUDIED_TOPIC::<a href="/entities/protein/sirt1/" class="internal-link">SIRT1</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/supplement/resveratrol/" class="internal-link">Resveratrol</a><br />
 RELATED::<a href="/entities/protein/sirt1/" class="internal-link">SIRT1</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">NAD</a></p>
+<h3>Studied Topic</h3>
+<p>STUDIED_TOPIC::<a href="/entities/supplement/resveratrol/" class="internal-link">Resveratrol</a><br />
+STUDIED_TOPIC::<a href="/entities/protein/sirt1/" class="internal-link">SIRT1</a></p>
 
 {% endraw %}

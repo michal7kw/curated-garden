@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.825592Z'
+created: '2026-04-19T18:22:19.737341Z'
 description: A life-threatening condition where blood flow to the heart muscle is
   abruptly cut off, causing tissue death, usually due to a blood clot in a coronary
   artery.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Myocardial Infarction
 type: condition
-updated: '2026-04-17T18:59:18.825592Z'
+updated: '2026-04-19T18:22:19.737341Z'
 ---
 
 {% raw %}
@@ -44,7 +44,7 @@ updated: '2026-04-17T18:59:18.825592Z'
 <p>ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/ldl/" class="internal-link">Ldl</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/lpa/" class="internal-link">Lp(a)</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/homocysteine/" class="internal-link">Homocysteine</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/d-dimer/" class="internal-link">D-Dimer</a></p>
 <h3>Improved By Supplement</h3>
 <p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />

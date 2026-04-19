@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.849971Z'
+created: '2026-04-19T18:22:20.744616Z'
 description: 8-test panel measuring glucose, calcium, electrolytes, and kidney function
   markers.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: basic_metabolic_panel
 type: labtest
-updated: '2026-04-17T18:59:19.849971Z'
+updated: '2026-04-19T18:22:20.744616Z'
 ---
 
 {% raw %}
@@ -67,7 +67,7 @@ updated: '2026-04-17T18:59:19.849971Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/biomarker/glucose-fasting/" class="internal-link">Glucose Fasting</a><br />
-RELATED::<a href="/entities/labtest/creatinine/" class="internal-link">Creatinine</a></p>
+RELATED::<a href="/entities/labtest/creatinine/" class="internal-link">creatinine</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

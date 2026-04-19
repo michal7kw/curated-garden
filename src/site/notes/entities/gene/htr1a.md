@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.528112Z'
+created: '2026-04-19T18:22:20.363291Z'
 description: Gene encoding the serotonin 1A receptor (5-HT1A), a key inhibitory GPCR
   involved in mood regulation, anxiety, and antidepressant response. The rs6295 C/G
   promoter polymorphism (C-1019G) modulates receptor expression and is associated
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: HTR1A
 type: gene
-updated: '2026-04-17T18:59:19.528112Z'
+updated: '2026-04-19T18:22:20.363291Z'
 ---
 
 {% raw %}
@@ -48,6 +48,8 @@ updated: '2026-04-17T18:59:19.528112Z'
 <li><strong>Anxiety</strong>: Reduced postsynaptic 5-HT1A signaling in cortex linked to anxiety vulnerability</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">SLC6A4</a></p>
 <h3>Encodes</h3>
 <p>ENCODES::<a href="/entities/protein/5-ht1a-receptor/" class="internal-link">5-HT1A Receptor</a></p>
 <h3>Associated Conditions</h3>
@@ -57,11 +59,9 @@ ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/post-traumatic-stress-di
 <h3>Associated Biomarker</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a></p>
+ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a></p>
 <h3>Pathway</h3>
 <p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/raphe-serotonin-pathway/" class="internal-link">Raphe Serotonin Pathway</a></p>
-<h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">SLC6A4</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:14639454 — rs6295 C-1019G and major depression</li>

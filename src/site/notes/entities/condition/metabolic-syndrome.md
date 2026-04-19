@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.090796Z'
+created: '2026-04-19T18:22:19.339089Z'
 description: Cluster of metabolic abnormalities including central obesity, insulin
   resistance, dyslipidemia, and hypertension that significantly increase risk of cardiovascular
   disease, type 2 diabetes, and all-cause mortality. Affects approximately 35% of
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Metabolic Syndrome
 type: condition
-updated: '2026-04-17T18:59:18.090796Z'
+updated: '2026-04-19T18:22:19.339089Z'
 ---
 
 {% raw %}
@@ -77,22 +77,6 @@ updated: '2026-04-17T18:59:18.090796Z'
 <li><strong>Monitoring</strong>: Fasting metabolic panel (glucose, insulin, lipids) every 3-6 months during active treatment; blood pressure at each visit; waist circumference; HbA1c if glucose elevated; liver enzymes (NAFLD screening); uric acid; hs-CRP for inflammatory risk assessment</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Requires Biomarker</h3>
-<p>REQUIRES_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a><br />
-REQUIRES_BIOMARKER::<a href="/entities/labtest/hdl-cholesterol/" class="internal-link">HDL Cholesterol</a><br />
-REQUIRES_BIOMARKER::<a href="/entities/labtest/fasting-glucose/" class="internal-link">Fasting Glucose</a><br />
-REQUIRES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Blood Pressure</a></p>
-<h3>Increases Risk For</h3>
-<p>INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a><br />
-INCREASES_RISK_FOR::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
-INCREASES_RISK_FOR::<a href="/entities/condition/nafld/" class="internal-link">NAFLD</a></p>
-<h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/entities/organ/liver/" class="internal-link">Liver</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/pancreas/" class="internal-link">Pancreas</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a></p>
-<h3>Improved By Supplement</h3>
-<p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/berberine/" class="internal-link">Berberine</a><br />
-IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/organ/liver/" class="internal-link">Liver</a><br />
 RELATED::<a href="/entities/labtest/hdl-large/" class="internal-link">hdl large</a><br />
@@ -102,7 +86,7 @@ RELATED::<a href="/entities/labtest/hdl-cholesterol/" class="internal-link">HDL 
 RELATED::<a class="internal-link is-unresolved" href="/404">Blood Pressure</a><br />
 RELATED::<a href="/entities/drug/quetiapine/" class="internal-link">Quetiapine</a><br />
 RELATED::<a href="/entities/labtest/fasting-glucose/" class="internal-link">Fasting Glucose</a><br />
-RELATED::<a href="/entities/metabolite/glucose/" class="internal-link">glucose</a><br />
+RELATED::<a href="/entities/metabolite/glucose/" class="internal-link">Glucose</a><br />
 RELATED::<a href="/entities/drug/metformin/" class="internal-link">METFORMIN</a><br />
 RELATED::<a href="/entities/labtest/glucose-urine/" class="internal-link">glucose urine</a><br />
 RELATED::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
@@ -117,16 +101,15 @@ RELATED::<a href="/entities/condition/insulin-resistance/" class="internal-link"
 RELATED::<a href="/entities/condition/nafld/" class="internal-link">NAFLD</a><br />
 RELATED::<a href="/entities/labtest/ldl-peak-size/" class="internal-link">ldl peak size</a><br />
 RELATED::<a href="/entities/labtest/hemoglobin-a1c-hba1c/" class="internal-link">hemoglobin a1c hba1c</a><br />
-RELATED::<a href="/entities/labtest/hdl-cholesterol/" class="internal-link">hdl cholesterol</a><br />
 RELATED::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a><br />
-RELATED::<a href="/entities/labtest/uric-acid/" class="internal-link">uric acid</a><br />
+RELATED::<a href="/entities/labtest/uric-acid/" class="internal-link">Uric Acid</a><br />
 RELATED::<a href="/entities/labtest/red-blood-cell-count/" class="internal-link">red blood cell count</a><br />
 RELATED::<a href="/entities/labtest/leptin/" class="internal-link">leptin</a><br />
 RELATED::<a href="/entities/labtest/apolipoprotein-b-apob/" class="internal-link">apolipoprotein b apob</a><br />
 RELATED::<a href="/entities/supplement/berberine/" class="internal-link">Berberine</a><br />
-RELATED::<a href="/entities/labtest/ldl-cholesterol/" class="internal-link">ldl cholesterol</a><br />
+RELATED::<a href="/entities/labtest/ldl-cholesterol/" class="internal-link">LDL Cholesterol</a><br />
 RELATED::<a href="/entities/drug/clozapine/" class="internal-link">Clozapine</a><br />
-RELATED::<a href="/entities/labtest/total-cholesterol/" class="internal-link">total cholesterol</a><br />
+RELATED::<a href="/entities/labtest/total-cholesterol/" class="internal-link">Total Cholesterol</a><br />
 RELATED::<a href="/entities/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a><br />
 RELATED::<a href="/entities/labtest/albumin-microalbumin-urine/" class="internal-link">albumin microalbumin urine</a><br />
 RELATED::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
@@ -134,12 +117,27 @@ RELATED::<a href="/entities/labtest/non-hdl-cholesterol/" class="internal-link">
 RELATED::<a href="/entities/labtest/ldl-particle-number/" class="internal-link">ldl particle number</a><br />
 RELATED::<a href="/entities/labtest/total-cholesterol-hdl-ratio/" class="internal-link">total cholesterol hdl ratio</a><br />
 RELATED::<a href="/entities/labtest/ldl-medium/" class="internal-link">ldl medium</a><br />
-RELATED::<a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a><br />
 RELATED::<a href="/entities/labtest/ldl-small/" class="internal-link">ldl small</a><br />
 RELATED::<a href="/entities/supplement/nmn/" class="internal-link">NMN</a><br />
 RELATED::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a><br />
 RELATED::<a href="/entities/clinicalpattern/liver-stress-pattern/" class="internal-link">Liver Stress Pattern</a><br />
 RELATED::<a href="/entities/organ/heart/" class="internal-link">Heart</a><br />
 RELATED::<a href="/entities/labtest/arachidonic-acid-epa-ratio/" class="internal-link">arachidonic acid epa ratio</a></p>
+<h3>Requires Biomarker</h3>
+<p>REQUIRES_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a><br />
+REQUIRES_BIOMARKER::<a href="/entities/labtest/hdl-cholesterol/" class="internal-link">HDL Cholesterol</a><br />
+REQUIRES_BIOMARKER::<a href="/entities/labtest/fasting-glucose/" class="internal-link">Fasting Glucose</a><br />
+REQUIRES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Blood Pressure</a></p>
+<h3>Increases Risk For</h3>
+<p>INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a><br />
+INCREASES_RISK_FOR::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
+INCREASES_RISK_FOR::<a href="/entities/condition/nafld/" class="internal-link">NAFLD</a></p>
+<h3>Affects Organ</h3>
+<p>AFFECTS_ORGAN::<a href="/entities/organ/liver/" class="internal-link">Liver</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/pancreas/" class="internal-link">Pancreas</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a></p>
+<h3>Improved By Supplement</h3>
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/berberine/" class="internal-link">Berberine</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a></p>
 
 {% endraw %}

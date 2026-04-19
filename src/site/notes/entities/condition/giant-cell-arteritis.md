@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.596047Z'
+created: '2026-04-19T18:22:19.602408Z'
 description: Large-vessel vasculitis affecting aorta and branches, especially temporal
   arteries. Medical emergency due to risk of irreversible vision loss. Occurs exclusively
   in adults over 50. Strongly associated with polymyalgia rheumatica.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Giant Cell Arteritis
 type: condition
-updated: '2026-04-17T18:59:18.596047Z'
+updated: '2026-04-19T18:22:19.602408Z'
 ---
 
 {% raw %}
@@ -29,7 +29,7 @@ updated: '2026-04-17T18:59:18.596047Z'
 <p>RELATED::<a href="/entities/condition/polymyalgia-rheumatica/" class="internal-link">Polymyalgia Rheumatica</a><br />
 RELATED::<a href="/entities/condition/vasculitis/" class="internal-link">Vasculitis</a></p>
 <h3>Associated Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/esr/" class="internal-link">ESR</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/esr/" class="internal-link">esr</a><br />
 ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">hs-CRP</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/interleukin-6/" class="internal-link">Interleukin 6</a></p>
 <h3>Improved By Supplement</h3>

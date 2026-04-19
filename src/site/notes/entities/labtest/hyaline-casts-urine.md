@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.003203Z'
+created: '2026-04-19T18:22:20.964644Z'
 description: Tested twice a year Hyaline casts are the most common type of urinary
   casts and can appear in small numbers in healthy people. When found in larger amounts,
   hyaline casts may point to underlying kidney strain or indicate an underlying kidney
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: hyaline_casts_urine
 type: labtest
-updated: '2026-04-17T18:59:20.003203Z'
+updated: '2026-04-19T18:22:20.964644Z'
 ---
 
 {% raw %}
@@ -60,16 +60,16 @@ updated: '2026-04-17T18:59:20.003203Z'
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/exercise-induced-proteinuria/" class="internal-link">Exercise-Induced Proteinuria</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/heart-failure/" class="internal-link">Heart Failure</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Dysfunction</a><br />
 RELATED::<a href="/entities/condition/heart-failure/" class="internal-link">Heart Failure</a><br />
 RELATED::<a href="/entities/condition/exercise-induced-proteinuria/" class="internal-link">Exercise-Induced Proteinuria</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/exercise-induced-proteinuria/" class="internal-link">Exercise-Induced Proteinuria</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/heart-failure/" class="internal-link">Heart Failure</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></p>
 <h3>May Detect</h3>
 <p>MAY_DETECT::<a href="/entities/condition/heart-failure/" class="internal-link">Heart Failure</a><br />
 MAY_DETECT::<a href="/entities/condition/exercise-induced-proteinuria/" class="internal-link">Exercise-Induced Proteinuria</a><br />

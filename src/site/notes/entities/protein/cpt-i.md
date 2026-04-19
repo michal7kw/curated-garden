@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.833865Z'
+created: '2026-04-19T18:22:21.881955Z'
 description: Carnitine palmitoyltransferase I, the rate-limiting enzyme of long-chain
   fatty acid beta-oxidation. Located on the outer mitochondrial membrane, it transfers
   acyl groups from CoA to carnitine for mitochondrial import.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: CPT-I
 type: protein
-updated: '2026-04-17T18:59:20.833865Z'
+updated: '2026-04-19T18:22:21.881955Z'
 ---
 
 {% raw %}
@@ -43,12 +43,12 @@ updated: '2026-04-17T18:59:20.833865Z'
 <li><a href="/entities/supplement/l-carnitine/" class="internal-link">L-Carnitine</a> supplementation supports CPT-I function when carnitine is depleted</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Catalyzes</h3>
-<p>CATALYZES::<a class="internal-link is-unresolved" href="/404">Acylcarnitine</a><br />
-CATALYZES::<a class="internal-link is-unresolved" href="/404">Fatty_Acyl-CoA</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/supplement/l-carnitine/" class="internal-link">L-Carnitine</a><br />
 RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
+<h3>Catalyzes</h3>
+<p>CATALYZES::<a class="internal-link is-unresolved" href="/404">Acylcarnitine</a><br />
+CATALYZES::<a class="internal-link is-unresolved" href="/404">Fatty_Acyl-CoA</a></p>
 <h3>Participates In</h3>
 <p>PARTICIPATES_IN::<a href="/entities/pathway/beta-oxidation/" class="internal-link">Beta-Oxidation</a></p>
 <h3>Inhibited By</h3>

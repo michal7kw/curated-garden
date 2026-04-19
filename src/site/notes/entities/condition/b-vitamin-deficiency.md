@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.270193Z'
+created: '2026-04-19T18:22:19.444538Z'
 description: A deficiency in one or more of the B-complex vitamins (e.g., Folate,
   B6, B12), which are essential for energy metabolism, red blood cell production,
   and neurological function.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: B Vitamin Deficiency
 type: condition
-updated: '2026-04-17T18:59:18.270193Z'
+updated: '2026-04-19T18:22:19.444538Z'
 ---
 
 {% raw %}
@@ -50,7 +50,7 @@ AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Bone Marrow</a
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/supplement/vitamin-b12/" class="internal-link">Vitamin B12</a><br />
 ASSOCIATED_WITH::<a href="/entities/supplement/folate/" class="internal-link">Folate</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/homocysteine/" class="internal-link">Homocysteine</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/mcv/" class="internal-link">Mcv</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/mch/" class="internal-link">Mch</a></p>
 <h3>Improved By Supplement</h3>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.568078Z'
+created: '2026-04-19T18:22:21.578390Z'
 description: Muscular J-shaped organ that stores food, initiates protein digestion
   via acid and enzymes, and regulates chyme entry into the small intestine.
 dg-home: false
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Stomach
 type: organ
-updated: '2026-04-17T18:59:20.568078Z'
+updated: '2026-04-19T18:22:21.578390Z'
 ---
 
 {% raw %}

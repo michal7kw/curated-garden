@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.123606Z'
+created: '2026-04-19T18:22:19.884028Z'
 description: A broad group of conditions characterized by inflammation and pain in
   the joints, muscles, and connective tissues.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Rheumatic Diseases
 type: condition
-updated: '2026-04-17T18:59:19.123606Z'
+updated: '2026-04-19T18:22:19.884028Z'
 ---
 
 {% raw %}
@@ -25,7 +25,7 @@ updated: '2026-04-17T18:59:19.123606Z'
 <h2>Relationships</h2>
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/esr/" class="internal-link">Esr</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/esr/" class="internal-link">esr</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/tnf-alpha/" class="internal-link">TNF Alpha</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/interleukin-6/" class="internal-link">Interleukin 6</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a></p>

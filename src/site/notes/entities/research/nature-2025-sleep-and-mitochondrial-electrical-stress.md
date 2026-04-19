@@ -1,5 +1,7 @@
 ---
-created: '2026-04-17T18:59:21.003793Z'
+aliases:
+- Nature 2025 Sleep and Mitochondrial Electrical Stress
+created: '2026-04-19T18:22:22.110985Z'
 description: A breakthrough study identifying mitochondrial electrical stress as a
   direct trigger for sleep pressure in fruit flies.
 dg-home: false
@@ -15,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: 'Nature 2025: Sleep and Mitochondrial Electrical Stress'
 type: research
-updated: '2026-04-17T18:59:21.003793Z'
+updated: '2026-04-19T18:22:22.110985Z'
 ---
 
 {% raw %}
@@ -40,11 +42,11 @@ updated: '2026-04-17T18:59:21.003793Z'
 <h2>Clinical Significance</h2>
 <p>This study fundamentally reframes the biological purpose of sleep from a primarily neural/cognitive phenomenon to a mitochondrial maintenance process. If the mechanism is conserved in mammals (as preliminary evidence suggests), it has profound implications: (1) Sleep disorders may be reconceptualized as disorders of mitochondrial energy homeostasis, opening entirely new therapeutic targets; (2) The link between mitochondrial ROS and sleep drive provides a molecular explanation for why mitochondrial dysfunction (aging, neurodegenerative disease) is so strongly associated with sleep disruption; (3) Supplements and drugs that modulate mitochondrial membrane potential (e.g., CoQ10, mild uncouplers like BAM15, antioxidants) might influence sleep architecture; (4) The finding that exercise (which increases mitochondrial turnover and reduces chronic hyperpolarization) improves sleep quality gains a new mechanistic explanation. However, translation from Drosophila to human sleep medicine requires extensive validation in mammalian systems.</p>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Mitochondrial Theory of Aging</a></p>
 <h3>Studied Topic</h3>
 <p>STUDIED_TOPIC::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
 STUDIED_TOPIC::<a href="/entities/metabolite/reactive-oxygen-species/" class="internal-link">Reactive Oxygen Species</a><br />
 STUDIED_TOPIC::<a href="/entities/intervention/sleep-optimization/" class="internal-link">Sleep Optimization</a></p>
-<h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Mitochondrial Theory of Aging</a></p>
 
 {% endraw %}

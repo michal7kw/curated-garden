@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.974118Z'
+created: '2026-04-19T18:22:22.076734Z'
 description: Rate-limiting enzyme in catecholamine biosynthesis, catalyzing the hydroxylation
   of L-Tyrosine to L-DOPA. Requires iron (Fe2+) and tetrahydrobiopterin (BH4) as essential
   cofactors. Regulated by phosphorylation-dependent activation and end-product feedback
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Tyrosine Hydroxylase
 type: protein
-updated: '2026-04-17T18:59:20.974118Z'
+updated: '2026-04-19T18:22:22.076734Z'
 ---
 
 {% raw %}
@@ -67,13 +67,13 @@ updated: '2026-04-17T18:59:20.974118Z'
 <li><strong>BH4 cofactor</strong>: Role of tetrahydrobiopterin in aromatic amino acid hydroxylase catalytic mechanism and recycling (PMID:17884111)</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Requires Cofactor</h3>
-<p>REQUIRES_COFACTOR::<a href="/entities/supplement/iron/" class="internal-link">iron</a><br />
-REQUIRES_COFACTOR::<a class="internal-link is-unresolved" href="/404">Tetrahydrobiopterin</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Parkinsons_Disease</a><br />
 RELATED::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a></p>
+<h3>Requires Cofactor</h3>
+<p>REQUIRES_COFACTOR::<a href="/entities/supplement/iron/" class="internal-link">Iron</a><br />
+REQUIRES_COFACTOR::<a class="internal-link is-unresolved" href="/404">Tetrahydrobiopterin</a></p>
 <h3>Catalyzes</h3>
 <p>CATALYZES::<a href="/entities/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a></p>
 <h3>Interacts With</h3>

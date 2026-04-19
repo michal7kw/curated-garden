@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.719567Z'
+created: '2026-04-19T18:22:19.672393Z'
 description: Hard deposits made of minerals and salts that form inside the kidneys,
   often causing severe pain when passing through the urinary tract.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Kidney Stones
 type: condition
-updated: '2026-04-17T18:59:18.719567Z'
+updated: '2026-04-19T18:22:19.672393Z'
 ---
 
 {% raw %}
@@ -42,17 +42,17 @@ updated: '2026-04-17T18:59:18.719567Z'
 <li><strong>Monitoring</strong>: 24-hour urine collection to guide targeted prevention</li>
 </ul>
 <h2>Relationships</h2>
-<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Kidney</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/labtest/ph-urine/" class="internal-link">ph urine</a><br />
 RELATED::<a href="/entities/labtest/red-blood-cell-urine/" class="internal-link">red blood cell urine</a><br />
-RELATED::<a href="/entities/labtest/uric-acid/" class="internal-link">uric acid</a><br />
+RELATED::<a href="/entities/labtest/uric-acid/" class="internal-link">Uric Acid</a><br />
 RELATED::<a href="/entities/labtest/occult-blood-urine/" class="internal-link">occult blood urine</a><br />
 RELATED::<a href="/entities/labtest/white-blood-cell-urine/" class="internal-link">white blood cell urine</a></p>
+<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Kidney</a></p>
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/labtest/calcium/" class="internal-link">Calcium</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/uric-acid/" class="internal-link">Uric Acid</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/creatinine/" class="internal-link">creatinine</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a></p>
 <h3>Improved By Supplement</h3>
 <p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />

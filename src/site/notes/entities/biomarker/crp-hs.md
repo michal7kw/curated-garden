@@ -1,5 +1,9 @@
 ---
-created: '2026-04-17T18:59:17.545952Z'
+created: '2026-04-19T18:22:18.989173Z'
+description: High-sensitivity C-reactive protein (hs-CRP) is an acute-phase protein
+  produced by the liver in response to systemic inflammation. It is a validated independent
+  predictor of cardiovascular disease risk and is used to assess chronic low-grade
+  inflammation distinct from acute infection.
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/crp-hs/
@@ -9,20 +13,67 @@ tags:
 templateEngineOverride: njk
 title: CRP (hs)
 type: biomarker
-updated: '2026-04-17T18:59:17.545952Z'
+updated: '2026-04-19T18:22:18.989173Z'
 ---
 
 {% raw %}
 <h1>CRP (hs)</h1>
 <h2>Overview</h2>
-<p>No description available.</p>
-<h2>Reference RangesReference ranges not available.</h2>
-<h2>Testing Information</h2>
+<p>High-sensitivity C-reactive protein (hs-CRP) is a sensitive marker of systemic inflammation produced by the liver under the regulation of interleukin-6 (IL-6). Unlike standard CRP assays that detect acute inflammation (&gt;10 mg/L), the hs-CRP assay detects low-grade chronic inflammation in the 0.1–10 mg/L range, making it valuable for cardiovascular risk stratification.</p>
+<p>The CDC/AHA have endorsed hs-CRP as an independent risk marker for cardiovascular disease. The JUPITER trial demonstrated that apparently healthy individuals with elevated hs-CRP (&gt;2 mg/L) but normal LDL cholesterol benefited from statin therapy, establishing hs-CRP as a clinically actionable biomarker.</p>
+<p>hs-CRP reflects the inflammatory component of atherosclerosis rather than lipid burden. It complements lipid panels and is most useful in intermediate-risk patients where additional risk stratification may change management decisions.</p>
+<h2>Reference Ranges</h2>
+<table>
+<thead>
+<tr>
+<th>Category</th>
+<th>Range</th>
+<th>Interpretation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Low cardiovascular risk</td>
+<td>&lt;1.0 mg/L</td>
+<td>Low inflammatory burden</td>
+</tr>
+<tr>
+<td>Average risk</td>
+<td>1.0–3.0 mg/L</td>
+<td>Moderate inflammatory burden</td>
+</tr>
+<tr>
+<td>High risk</td>
+<td>&gt;3.0 mg/L</td>
+<td>Elevated cardiovascular risk</td>
+</tr>
+<tr>
+<td>Acute inflammation</td>
+<td>&gt;10 mg/L</td>
+<td>Suggests acute infection or inflammation (not useful for CVD risk)</td>
+</tr>
+</tbody>
+</table>
 <ul>
-<li><strong>Measurement Unit</strong>: Not specified</li>
-<li><strong>Sample Type</strong>: Not specified</li>
-<li><strong>Fasting Required</strong>: False</li>
-<li><strong>Recommended Test Frequency</strong>: Not specified</li>
+<li>hs-CRP should be measured twice, two weeks apart, in a metabolically stable state (no acute illness in prior 2 weeks).</li>
+<li>Values &gt;10 mg/L should prompt evaluation for acute infection or inflammation; repeat testing after resolution.</li>
+</ul>
+<h2>Clinical Significance</h2>
+<p><strong>Elevated hs-CRP:</strong></p>
+<ul>
+<li>Cardiovascular disease risk (independent of LDL cholesterol)</li>
+<li>Metabolic syndrome and insulin resistance</li>
+<li>Autoimmune conditions (RA, lupus, IBD)</li>
+<li>Chronic infections</li>
+<li>Obesity (adipose tissue produces IL-6)</li>
+<li>Smoking</li>
+</ul>
+<p><strong>Reduced hs-CRP:</strong></p>
+<ul>
+<li>Effective anti-inflammatory intervention</li>
+<li>Low cardiovascular risk</li>
+<li>Favorable metabolic profile</li>
+<li>Regular exercise, Mediterranean diet, omega-3 supplementation</li>
 </ul>
 <h2>Relationships</h2>
 <h3>Indicates Organ Health</h3>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.643380Z'
+created: '2026-04-19T18:22:19.051158Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/fibrinogen/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Fibrinogen
 type: biomarker
-updated: '2026-04-17T18:59:17.643380Z'
+updated: '2026-04-19T18:22:19.051158Z'
 ---
 
 {% raw %}
@@ -70,14 +70,14 @@ updated: '2026-04-17T18:59:17.643380Z'
 <li>Increased bleeding risk when &lt;100 mg/dL</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Indicates Organ Health</h3>
-<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/liver/" class="internal-link">Liver</a><br />
-INDICATES_ORGAN_HEALTH::<a href="/entities/organ/heart/" class="internal-link">Heart</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">C-Reactive Protein</a><br />
-RELATED::<a href="/entities/labtest/esr/" class="internal-link">Esr</a><br />
+RELATED::<a href="/entities/labtest/esr/" class="internal-link">esr</a><br />
 RELATED::<a href="/entities/biomarker/d-dimer/" class="internal-link">D-Dimer</a></p>
+<h3>Indicates Organ Health</h3>
+<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/liver/" class="internal-link">Liver</a><br />
+INDICATES_ORGAN_HEALTH::<a href="/entities/organ/heart/" class="internal-link">Heart</a></p>
 <h3>Associated With Condition</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />

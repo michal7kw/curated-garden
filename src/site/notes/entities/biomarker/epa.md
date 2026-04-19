@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.623442Z'
+created: '2026-04-19T18:22:19.038621Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/epa/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Epa
 type: biomarker
-updated: '2026-04-17T18:59:17.623442Z'
+updated: '2026-04-19T18:22:19.038621Z'
 ---
 
 {% raw %}
@@ -74,13 +74,9 @@ ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/rheumatoid-arthritis/" c
 <h3>Indicates Organ Health</h3>
 <p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/heart/" class="internal-link">Heart</a></p>
 <h3>Affected By Supplement</h3>
-<ul>
-<li>-&gt; <a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> (supplement)</li>
-</ul>
+<p>AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a></p>
 <h3>Measured By Test</h3>
-<ul>
-<li>-&gt; <a href="/entities/labtest/omega-3-epa/" class="internal-link">omega 3 epa</a> (labtest)</li>
-<li>-&gt; <a href="/entities/labtest/omega3-index/" class="internal-link">omega3 index</a> (labtest)</li>
-</ul>
+<p>MEASURED_BY_TEST::<a href="/entities/labtest/omega-3-epa/" class="internal-link">omega 3 epa</a><br />
+MEASURED_BY_TEST::<a href="/entities/labtest/omega3-index/" class="internal-link">Omega3 Index</a></p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.766621Z'
+created: '2026-04-19T18:22:19.122150Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/ldl-size/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Ldl Size
 type: biomarker
-updated: '2026-04-17T18:59:17.766621Z'
+updated: '2026-04-19T18:22:19.122150Z'
 ---
 
 {% raw %}
@@ -21,15 +21,11 @@ updated: '2026-04-17T18:59:17.766621Z'
 <p>RELATED::<a href="/entities/labtest/ldl-cholesterol/" class="internal-link">LDL Cholesterol</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></p>
 <h3>Affected By Supplement</h3>
-<ul>
-<li>-&gt; <a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/niacin/" class="internal-link">Niacin</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/berberine/" class="internal-link">Berberine</a> (supplement)</li>
-</ul>
+<p>AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/niacin/" class="internal-link">Niacin</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/berberine/" class="internal-link">Berberine</a></p>
 <h3>Measured By Test</h3>
-<ul>
-<li>-&gt; <a href="/entities/labtest/advanced-lipid-panel/" class="internal-link">advanced lipid panel</a> (labtest)</li>
-<li>-&gt; <a href="/entities/labtest/ldl-peak-size/" class="internal-link">ldl peak size</a> (labtest)</li>
-</ul>
+<p>MEASURED_BY_TEST::<a href="/entities/labtest/advanced-lipid-panel/" class="internal-link">advanced lipid panel</a><br />
+MEASURED_BY_TEST::<a href="/entities/labtest/ldl-peak-size/" class="internal-link">ldl peak size</a></p>
 
 {% endraw %}

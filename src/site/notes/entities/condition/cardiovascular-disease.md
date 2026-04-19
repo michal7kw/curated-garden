@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.331929Z'
+created: '2026-04-19T18:22:19.478347Z'
 description: A broad group of disorders of the heart and blood vessels, often caused
   by atherosclerosis and leading to events such as heart attacks and strokes.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Cardiovascular Disease
 type: condition
-updated: '2026-04-17T18:59:18.331929Z'
+updated: '2026-04-19T18:22:19.478347Z'
 ---
 
 {% raw %}
@@ -47,25 +47,24 @@ updated: '2026-04-17T18:59:18.331929Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/labtest/hdl-cholesterol/" class="internal-link">hdl cholesterol</a><br />
+<p>RELATED::<a href="/entities/labtest/hdl-cholesterol/" class="internal-link">HDL Cholesterol</a><br />
 RELATED::<a href="/entities/labtest/non-hdl-cholesterol/" class="internal-link">non hdl cholesterol</a><br />
 RELATED::<a href="/entities/labtest/ldl-pattern/" class="internal-link">ldl pattern</a><br />
 RELATED::<a href="/entities/labtest/ldl-medium/" class="internal-link">ldl medium</a><br />
 RELATED::<a href="/entities/condition/thyroid-dysfunction/" class="internal-link">Thyroid Dysfunction</a><br />
-RELATED::<a href="/entities/labtest/ldl-cholesterol/" class="internal-link">ldl cholesterol</a><br />
+RELATED::<a href="/entities/labtest/ldl-cholesterol/" class="internal-link">LDL Cholesterol</a><br />
 RELATED::<a href="/entities/labtest/ldl-particle-number/" class="internal-link">ldl particle number</a><br />
 RELATED::<a href="/entities/labtest/ldl-small/" class="internal-link">ldl small</a><br />
 RELATED::<a href="/entities/labtest/ldl-peak-size/" class="internal-link">ldl peak size</a><br />
 RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
 RELATED::<a href="/entities/labtest/hdl-large/" class="internal-link">hdl large</a><br />
-RELATED::<a href="/entities/condition/thyroid-dysfunction/" class="internal-link">thyroid dysfunction</a><br />
 IMPROVED_BY_INTERVENTION::<a href="/entities/intervention/mediterranean-diet/" class="internal-link">Mediterranean Diet</a><br />
-RELATED::<a href="/entities/labtest/total-cholesterol/" class="internal-link">total cholesterol</a><br />
+RELATED::<a href="/entities/labtest/total-cholesterol/" class="internal-link">Total Cholesterol</a><br />
 RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />
 RELATED::<a href="/entities/labtest/total-cholesterol-hdl-ratio/" class="internal-link">total cholesterol hdl ratio</a><br />
 RELATED::<a href="/entities/labtest/high-sensitivity-c-reactive-protein-hs-crp/" class="internal-link">high sensitivity c reactive protein hs crp</a><br />
 RELATED::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a><br />
-RELATED::<a href="/entities/labtest/uric-acid/" class="internal-link">uric acid</a><br />
+RELATED::<a href="/entities/labtest/uric-acid/" class="internal-link">Uric Acid</a><br />
 RELATED::<a href="/entities/labtest/mean-platelet-volume-mpv/" class="internal-link">mean platelet volume mpv</a><br />
 RELATED::<a href="/entities/clinicalpattern/kidney-stress-pattern/" class="internal-link">Kidney Stress Pattern</a><br />
 RELATED::<a href="/entities/labtest/arachidonic-acid-epa-ratio/" class="internal-link">arachidonic acid epa ratio</a><br />
@@ -75,9 +74,9 @@ RELATED::<a href="/entities/labtest/apolipoprotein-b-apob/" class="internal-link
 ASSOCIATED_WITH::<a href="/entities/biomarker/ldl/" class="internal-link">Ldl</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/apolipoprotein-b/" class="internal-link">Apolipoprotein B</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/lpa/" class="internal-link">Lp(a)</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/homocysteine/" class="internal-link">Homocysteine</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/bnp/" class="internal-link">BNP</a></p>
+ASSOCIATED_WITH::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/bnp/" class="internal-link">bnp</a></p>
 <h3>Improved By Supplement</h3>
 <p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a><br />

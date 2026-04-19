@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.818097Z'
+created: '2026-04-19T18:22:19.142427Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/mthfr-c677t/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Mthfr C677T
 type: biomarker
-updated: '2026-04-17T18:59:17.818097Z'
+updated: '2026-04-19T18:22:19.142427Z'
 ---
 
 {% raw %}
@@ -71,13 +71,13 @@ updated: '2026-04-17T18:59:17.818097Z'
 <li>Standard folate metabolism</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Indicates Organ Health</h3>
-<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/supplement/folate/" class="internal-link">Folate</a><br />
-RELATED::<a href="/entities/labtest/homocysteine/" class="internal-link">Homocysteine</a><br />
+RELATED::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a><br />
 RELATED::<a href="/entities/biomarker/mthfr-a1298c/" class="internal-link">Mthfr A1298C</a><br />
 RELATED::<a href="/entities/supplement/vitamin-b12/" class="internal-link">Vitamin B12</a></p>
+<h3>Indicates Organ Health</h3>
+<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 <h3>Affected By Supplement</h3>
 <p>AFFECTED_BY_SUPPLEMENT::<a href="/entities/metabolite/methylfolate/" class="internal-link">Methylfolate</a><br />
 AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-b12/" class="internal-link">Vitamin B12</a></p>
@@ -85,8 +85,6 @@ AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-b12/" class="inter
 <p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Hyperhomocysteinemia</a><br />
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Neural Tube Defects</a></p>
 <h3>Measured By Test</h3>
-<ul>
-<li>-&gt; <a href="/entities/labtest/mthfr-genotype/" class="internal-link">mthfr genotype</a> (labtest)</li>
-</ul>
+<p>MEASURED_BY_TEST::<a href="/entities/labtest/mthfr-genotype/" class="internal-link">mthfr genotype</a></p>
 
 {% endraw %}

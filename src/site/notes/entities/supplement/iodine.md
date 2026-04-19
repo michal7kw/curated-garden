@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.147891Z'
+created: '2026-04-19T18:22:22.286365Z'
 description: Essential trace element required for thyroid hormone synthesis (T3 and
   T4). Critical for metabolic regulation, cognitive development, and overall health.
   Deficiency remains common worldwide.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Iodine
 type: supplement
-updated: '2026-04-17T18:59:21.147891Z'
+updated: '2026-04-19T18:22:22.286365Z'
 ---
 
 {% raw %}
@@ -37,12 +37,12 @@ updated: '2026-04-17T18:59:21.147891Z'
 <li><strong>Caution</strong>: Excess iodine (&gt;1100 mcg/day) can cause thyroid dysfunction; balance with selenium (200 mcg)</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/entities/biomarker/free-t4/" class="internal-link">Free T4</a><br />
-AFFECTS_BIOMARKER::<a href="/entities/labtest/tsh/" class="internal-link">Tsh</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/supplement/selenium/" class="internal-link">Selenium</a><br />
 RELATED::<a href="/entities/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a></p>
+<h3>Affects Biomarker</h3>
+<p>AFFECTS_BIOMARKER::<a href="/entities/biomarker/free-t4/" class="internal-link">Free T4</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/tsh/" class="internal-link">tsh</a></p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/hashimotos-thyroiditis/" class="internal-link">Hashimotos Thyroiditis</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/hormonal-imbalance/" class="internal-link">Hormonal Imbalance</a><br />
@@ -50,7 +50,7 @@ MAY_IMPROVE_CONDITION::<a href="/entities/condition/cognitive-dysfunction/" clas
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/weight-gain/" class="internal-link">Weight Gain</a></p>
 <h3>Targets Biomarker</h3>
 <p>TARGETS_BIOMARKER::<a href="/entities/biomarker/free-t4/" class="internal-link">Free T4</a><br />
-TARGETS_BIOMARKER::<a href="/entities/labtest/tsh/" class="internal-link">Tsh</a></p>
+TARGETS_BIOMARKER::<a href="/entities/labtest/tsh/" class="internal-link">tsh</a></p>
 <h3>Affects Organ</h3>
 <p>AFFECTS_ORGAN::<a href="/entities/organ/thyroid/" class="internal-link">Thyroid</a> (primary site of iodine concentration and thyroid hormone synthesis, Evidence Level 1a)</p>
 <h3>Synergistic With</h3>

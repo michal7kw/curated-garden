@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.812929Z'
+created: '2026-04-19T18:22:19.139337Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/mthfr-a1298c/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Mthfr A1298C
 type: biomarker
-updated: '2026-04-17T18:59:17.812929Z'
+updated: '2026-04-19T18:22:19.139337Z'
 ---
 
 {% raw %}
@@ -73,13 +73,13 @@ updated: '2026-04-17T18:59:17.812929Z'
 <li>Normal enzyme activity and BH4 pathway function</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Indicates Organ Health</h3>
-<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/supplement/folate/" class="internal-link">Folate</a><br />
-RELATED::<a href="/entities/labtest/homocysteine/" class="internal-link">Homocysteine</a><br />
+RELATED::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a><br />
 RELATED::<a href="/entities/biomarker/mthfr-c677t/" class="internal-link">Mthfr C677T</a><br />
 RELATED::<a href="/entities/supplement/vitamin-b12/" class="internal-link">Vitamin B12</a></p>
+<h3>Indicates Organ Health</h3>
+<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 <h3>Affected By Supplement</h3>
 <p>AFFECTED_BY_SUPPLEMENT::<a href="/entities/metabolite/methylfolate/" class="internal-link">Methylfolate</a><br />
 AFFECTED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Sam-E</a></p>
@@ -87,8 +87,6 @@ AFFECTED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Sam-E
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/anxiety/" class="internal-link">Anxiety</a></p>
 <h3>Measured By Test</h3>
-<ul>
-<li>-&gt; <a href="/entities/labtest/mthfr-genotype/" class="internal-link">mthfr genotype</a> (labtest)</li>
-</ul>
+<p>MEASURED_BY_TEST::<a href="/entities/labtest/mthfr-genotype/" class="internal-link">mthfr genotype</a></p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.933097Z'
+created: '2026-04-19T18:22:19.211840Z'
 description: Total tau protein concentration in CSF, reflecting overall neuronal damage
   and degeneration. Elevated in Alzheimer's disease and acutely after stroke or brain
   injury.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Total Tau
 type: biomarker
-updated: '2026-04-17T18:59:17.933097Z'
+updated: '2026-04-19T18:22:19.211840Z'
 ---
 
 {% raw %}
@@ -35,7 +35,7 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Lumbar Puncture</a><
 RELATED::<a href="/entities/biomarker/gfap/" class="internal-link">GFAP</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Tau PET Imaging</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Amyloid-Beta 4240 Ratio</a><br />
+RELATED::<a href="/entities/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta 4240 Ratio</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">MRI Volumetry</a><br />
 RELATED::<a href="/entities/biomarker/phospho-tau/" class="internal-link">Phospho-Tau</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers Disease</a></p>

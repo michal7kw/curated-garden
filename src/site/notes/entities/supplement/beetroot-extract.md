@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.059914Z'
+created: '2026-04-19T18:22:22.185723Z'
 description: Rich source of dietary nitrate that converts to nitric oxide (NO) in
   the body, improving oxygen efficiency, reducing oxygen cost of exercise, enhancing
   blood flow, and improving endurance performance.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Beetroot Extract
 type: supplement
-updated: '2026-04-17T18:59:21.059914Z'
+updated: '2026-04-19T18:22:22.185723Z'
 ---
 
 {% raw %}
@@ -52,16 +52,16 @@ updated: '2026-04-17T18:59:21.059914Z'
 <li><strong>Note</strong>: Avoid mouthwash (kills oral bacteria needed for nitrate reduction)</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/intervention/exercise/" class="internal-link">Exercise</a><br />
+RELATED::<a href="/entities/intervention/zone-2-training/" class="internal-link">Zone_2_Training</a><br />
+RELATED::<a href="/entities/metabolite/nitric-oxide/" class="internal-link">Nitric_Oxide</a></p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/hypertension/" class="internal-link">Hypertension</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/peripheral-arterial-disease/" class="internal-link">Peripheral_Arterial_Disease</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a></p>
 <h3>Supports</h3>
 <p>SUPPORTS::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/intervention/exercise/" class="internal-link">Exercise</a><br />
-RELATED::<a href="/entities/intervention/zone-2-training/" class="internal-link">Zone_2_Training</a><br />
-RELATED::<a href="/entities/metabolite/nitric-oxide/" class="internal-link">Nitric_Oxide</a></p>
 <h3>Affects Biomarker</h3>
 <p>AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Blood_Pressure</a></p>
 <h3>Affects Organ</h3>

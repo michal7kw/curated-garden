@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.790844Z'
+created: '2026-04-19T18:22:19.131190Z'
 description: A novel tau biomarker from the microtubule-binding region that specifically
   reflects tau tangle pathology and neurodegeneration. May outperform p-tau217 for
   tracking disease progression and treatment response.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: MTBR-tau243
 type: biomarker
-updated: '2026-04-17T18:59:17.790844Z'
+updated: '2026-04-19T18:22:19.131190Z'
 ---
 
 {% raw %}
@@ -26,8 +26,6 @@ updated: '2026-04-17T18:59:17.790844Z'
 <h2>Overview</h2>
 <p>A novel tau biomarker from the microtubule-binding region that specifically reflects tau tangle pathology and neurodegeneration. May outperform p-tau217 for tracking disease progression and treatment response.</p>
 <h2>Relationships</h2>
-<h3>Indicates Organ Health</h3>
-<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Progressive Supranuclear Palsy</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers Disease</a><br />
@@ -38,5 +36,7 @@ RELATED::<a href="/entities/pathway/neuroinflammation/" class="internal-link">Ne
 RELATED::<a href="/entities/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Tau PET Imaging</a><br />
 RELATED::<a href="/entities/pathway/tau-phosphorylation/" class="internal-link">Tau Phosphorylation</a></p>
+<h3>Indicates Organ Health</h3>
+<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 
 {% endraw %}

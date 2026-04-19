@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.050954Z'
+created: '2026-04-19T18:22:22.173901Z'
 description: Powerful carotenoid antioxidant derived from microalgae (Haematococcus
   pluvialis). One of nature's strongest antioxidants - 6000x more potent than vitamin
   C. Protects skin, eyes, and cardiovascular system.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Astaxanthin
 type: supplement
-updated: '2026-04-17T18:59:21.050954Z'
+updated: '2026-04-19T18:22:22.173901Z'
 ---
 
 {% raw %}
@@ -41,7 +41,7 @@ updated: '2026-04-17T18:59:21.050954Z'
 <h3>Affects Biomarker</h3>
 <p>AFFECTS_BIOMARKER::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/labtest/oxidized-ldl/" class="internal-link">Oxidized LDL</a><br />
-AFFECTS_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a></p>
+AFFECTS_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a></p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a><br />

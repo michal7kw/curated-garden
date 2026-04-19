@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.263466Z'
+created: '2026-04-19T18:22:20.040697Z'
 description: Analgesic and antipyretic with minimal anti-inflammatory effect. First-line
   for mild-moderate pain. Safe at recommended doses but hepatotoxic in overdose. Most
   common cause of acute liver failure.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Acetaminophen
 type: drug
-updated: '2026-04-17T18:59:19.263466Z'
+updated: '2026-04-19T18:22:20.040697Z'
 ---
 
 {% raw %}
@@ -35,14 +35,14 @@ updated: '2026-04-17T18:59:19.263466Z'
 <li><strong>Pregnancy</strong>: Considered the safest analgesic during pregnancy (Category B)</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/entities/organ/liver/" class="internal-link">Liver</a></p>
-<h3>Interacts With</h3>
-<p>INTERACTS_WITH::<a href="/entities/supplement/nac/" class="internal-link">NAC</a></p>
 <h3>Related</h3>
 <p>INTERACTS_WITH::<a href="/entities/drug/ibuprofen/" class="internal-link">Ibuprofen</a><br />
 INTERACTS_WITH::<a href="/entities/drug/aspirin/" class="internal-link">Aspirin</a><br />
 RELATED::<a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a><br />
 RELATED::<a href="/entities/supplement/nac/" class="internal-link">NAC</a></p>
+<h3>Affects Organ</h3>
+<p>AFFECTS_ORGAN::<a href="/entities/organ/liver/" class="internal-link">Liver</a></p>
+<h3>Interacts With</h3>
+<p>INTERACTS_WITH::<a href="/entities/supplement/nac/" class="internal-link">NAC</a></p>
 
 {% endraw %}

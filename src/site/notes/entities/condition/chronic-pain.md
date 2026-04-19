@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.392978Z'
+created: '2026-04-19T18:22:19.509244Z'
 description: Pain persisting beyond normal tissue healing time (typically > 3 months),
   driven by central sensitization and neuroplastic changes rather than ongoing tissue
   damage.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Chronic Pain
 type: condition
-updated: '2026-04-17T18:59:18.392978Z'
+updated: '2026-04-19T18:22:19.509244Z'
 ---
 
 {% raw %}
@@ -47,9 +47,14 @@ AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Central Nervou
 AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Spinal Cord</a></li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/condition/fibromyalgia/" class="internal-link">Fibromyalgia</a><br />
+RELATED::<a href="/entities/condition/chronic-stress/" class="internal-link">Chronic_Stress</a><br />
+RELATED::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
+RELATED::<a href="/entities/condition/insomnia/" class="internal-link">Insomnia</a></p>
 <h3>Improved By Supplement</h3>
 <p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-d/" class="internal-link">vitamin_d</a><br />
-IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">magnesium</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/same/" class="internal-link">SAMe</a></p>
@@ -60,13 +65,6 @@ ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">cor
 ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Vitamin_D_25-OH</a></p>
 <h3>Affects Organ</h3>
 <p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Spinal_Cord</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Central_Nervous_System</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Central_Nervous_System</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Spinal_Cord</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/condition/fibromyalgia/" class="internal-link">Fibromyalgia</a><br />
-RELATED::<a href="/entities/condition/chronic-stress/" class="internal-link">Chronic_Stress</a><br />
-RELATED::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
-RELATED::<a href="/entities/condition/insomnia/" class="internal-link">Insomnia</a></p>
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Central_Nervous_System</a></p>
 
 {% endraw %}

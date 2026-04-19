@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.415167Z'
+created: '2026-04-19T18:22:18.903544Z'
 description: Largest component of the basal ganglia, forming the outer part of the
   lenticular nucleus. Primary role in motor regulation, motor learning, and habit
   formation.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Putamen
 type: anatomy
-updated: '2026-04-17T18:59:17.415167Z'
+updated: '2026-04-19T18:22:18.903544Z'
 ---
 
 {% raw %}

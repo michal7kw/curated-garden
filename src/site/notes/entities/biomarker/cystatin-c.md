@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.595939Z'
+created: '2026-04-19T18:22:19.022382Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/cystatin-c/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Cystatin C
 type: biomarker
-updated: '2026-04-17T18:59:17.595939Z'
+updated: '2026-04-19T18:22:19.022382Z'
 ---
 
 {% raw %}
@@ -64,11 +64,11 @@ updated: '2026-04-17T18:59:17.595939Z'
 <li>May indicate hyperfiltration in early diabetic nephropathy</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/labtest/creatinine/" class="internal-link">creatinine</a><br />
+RELATED::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></p>
 <h3>Indicates Organ Health</h3>
 <p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/kidneys/" class="internal-link">Kidneys</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/labtest/creatinine/" class="internal-link">Creatinine</a><br />
-RELATED::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></p>
 <h3>Increases Risk For</h3>
 <p>INCREASES_RISK_FOR::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a> (when elevated, Evidence Level 1a)</p>
 <h3>Associated With Condition</h3>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.147121Z'
+created: '2026-04-19T18:22:19.902678Z'
 description: A progressive and generalized skeletal muscle disorder characterized
   by the age-related loss of muscle mass, strength, and function.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Sarcopenia
 type: condition
-updated: '2026-04-17T18:59:19.147121Z'
+updated: '2026-04-19T18:22:19.902678Z'
 ---
 
 {% raw %}
@@ -42,12 +42,12 @@ updated: '2026-04-17T18:59:19.147121Z'
 <li><strong>Nutritional</strong>: Ensure adequate caloric intake (caloric deficit accelerates muscle loss), vitamin K2, magnesium, zinc</li>
 </ul>
 <h2>Relationships</h2>
-<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Skeletal Muscle</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/supplement/creatine/" class="internal-link">Creatine</a></p>
+<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Skeletal Muscle</a></p>
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/biomarker/creatine-kinase/" class="internal-link">Creatine Kinase</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/albumin/" class="internal-link">Albumin</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/albumin/" class="internal-link">albumin</a><br />
 ASSOCIATED_WITH::<a href="/entities/hormone/igf-1/" class="internal-link">IGF-1</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.051326Z'
+created: '2026-04-19T18:22:19.318513Z'
 description: A physiological condition where cells fail to respond normally to the
   hormone insulin, leading to hyperinsulinemia and metabolic dysfunction.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Insulin Resistance
 type: condition
-updated: '2026-04-17T18:59:18.051326Z'
+updated: '2026-04-19T18:22:19.318513Z'
 ---
 
 {% raw %}
@@ -69,10 +69,6 @@ updated: '2026-04-17T18:59:18.051326Z'
 <li><strong>Monitoring</strong>: Fasting insulin and HOMA-IR every 3-6 months; HbA1c every 3-6 months; lipid panel (triglyceride:HDL ratio); waist circumference; consider continuous glucose monitoring (CGM) for real-time feedback on glycemic responses to diet</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Muscle</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/liver/" class="internal-link">Liver</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/pancreas/" class="internal-link">Pancreas</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/labtest/sex-hormone-binding-globulin-shbg/" class="internal-link">sex hormone binding globulin shbg</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a><br />
@@ -90,14 +86,17 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Muscle</a><br />
 RELATED::<a href="/entities/organ/pancreas/" class="internal-link">Pancreas</a><br />
 RELATED::<a href="/entities/labtest/leptin/" class="internal-link">leptin</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">HOMA-IR</a><br />
-RELATED::<a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Alpha-Lipoic Acid</a><br />
-RELATED::<a href="/entities/labtest/hdl-cholesterol/" class="internal-link">hdl cholesterol</a></p>
+RELATED::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Alpha-Lipoic Acid</a></p>
+<h3>Affects Organ</h3>
+<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Muscle</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/liver/" class="internal-link">Liver</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/pancreas/" class="internal-link">Pancreas</a></p>
 <h3>Requires Biomarker</h3>
 <p>REQUIRES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">HOMA-IR</a><br />
 REQUIRES_BIOMARKER::<a href="/entities/labtest/hdl-cholesterol/" class="internal-link">HDL Cholesterol</a><br />
 REQUIRES_BIOMARKER::<a href="/entities/labtest/fasting-insulin/" class="internal-link">Fasting Insulin</a><br />
-REQUIRES_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a></p>
+REQUIRES_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a></p>
 <h3>Modulated By Pathway</h3>
 <p>MODULATED_BY_PATHWAY::<a href="/entities/pathway/insulin-signaling/" class="internal-link">Insulin Signaling</a></p>
 <h3>Improved By Supplement</h3>

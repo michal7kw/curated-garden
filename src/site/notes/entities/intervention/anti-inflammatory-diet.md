@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.671042Z'
+created: '2026-04-19T18:22:20.518650Z'
 description: Dietary pattern emphasizing foods that reduce chronic low-grade inflammation
   (omega-3 fatty acids, polyphenols, fiber, fermented foods) while minimizing pro-inflammatory
   inputs (refined sugar, seed oils, processed foods, alcohol). Shares principles with
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Anti-Inflammatory Diet
 type: intervention
-updated: '2026-04-17T18:59:19.671042Z'
+updated: '2026-04-19T18:22:20.518650Z'
 ---
 
 {% raw %}
@@ -48,20 +48,20 @@ updated: '2026-04-17T18:59:19.671042Z'
 <li>Trans fats</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/intervention/mediterranean-diet/" class="internal-link">Mediterranean_Diet</a><br />
+RELATED::<a href="/entities/intervention/intermittent-fasting/" class="internal-link">Intermittent_Fasting</a></p>
 <h3>Modulates Hormone</h3>
 <p>MODULATES_HORMONE::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a><br />
 MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 MODULATES_HORMONE::<a href="/entities/labtest/adiponectin/" class="internal-link">adiponectin</a></p>
 <h3>Modulates Biomarker</h3>
-<p>MODULATES_BIOMARKER::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a><br />
-MODULATES_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a><br />
-MODULATES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a></p>
+<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a><br />
+AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a></p>
 <h3>Synergistic With</h3>
 <p>SYNERGISTIC_WITH::<a class="internal-link is-unresolved" href="/404">Curcumin_with_Piperine</a><br />
 SYNERGISTIC_WITH::<a class="internal-link is-unresolved" href="/404">Omega-3_Fish_Oil</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/intervention/mediterranean-diet/" class="internal-link">Mediterranean_Diet</a><br />
-RELATED::<a href="/entities/intervention/intermittent-fasting/" class="internal-link">Intermittent_Fasting</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:20219103</li>

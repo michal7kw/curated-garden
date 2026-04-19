@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.696834Z'
+created: '2026-04-19T18:22:20.556092Z'
 description: Japanese practice of Shinrin-yoku — immersive, mindful exposure to forest
   environments. Documented to reduce cortisol, blood pressure, and sympathetic activity
   while boosting NK cell activity and immune function through inhalation of phytoncides
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Forest Bathing
 type: intervention
-updated: '2026-04-17T18:59:19.696834Z'
+updated: '2026-04-19T18:22:20.556092Z'
 ---
 
 {% raw %}
@@ -49,10 +49,9 @@ updated: '2026-04-17T18:59:19.696834Z'
 <p>RELATED::<a href="/entities/intervention/exercise/" class="internal-link">Exercise</a><br />
 RELATED::<a href="/entities/intervention/walking/" class="internal-link">Walking</a><br />
 RELATED::<a href="/entities/intervention/meditation/" class="internal-link">Meditation</a><br />
-MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a></p>
+MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a></p>
 <h3>Modulates Hormone</h3>
-<p>MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
-MODULATES_HORMONE::<a href="/entities/hormone/dhea/" class="internal-link">DHEA</a><br />
+<p>MODULATES_HORMONE::<a href="/entities/hormone/dhea/" class="internal-link">DHEA</a><br />
 MODULATES_HORMONE::<a class="internal-link is-unresolved" href="/404">Epinephrine</a></p>
 <h3>Improves Function</h3>
 <p>IMPROVES_FUNCTION::<a href="/entities/cognitivefunction/emotional-regulation/" class="internal-link">Emotional Regulation</a></p>

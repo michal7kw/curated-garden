@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.552026Z'
+created: '2026-04-19T18:22:21.556808Z'
 description: Dual-function organ with exocrine (digestive enzymes) and endocrine (insulin,
   glucagon) roles. Central to blood sugar regulation and digestion.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: Pancreas
 type: organ
-updated: '2026-04-17T18:59:20.552026Z'
+updated: '2026-04-19T18:22:21.556808Z'
 ---
 
 {% raw %}
@@ -41,15 +41,15 @@ updated: '2026-04-17T18:59:20.552026Z'
 <h2>Clinical Significance</h2>
 <p>Pancreatic function is assessed through fasting glucose, HbA1c, and oral glucose tolerance testing (endocrine function), as well as fecal elastase-1 and 72-hour fecal fat collection (exocrine function). Serum lipase is the preferred marker for acute pancreatitis (more specific than amylase). Imaging modalities include abdominal ultrasound and CT for pancreatitis staging, endoscopic ultrasound (EUS) for small lesions and tissue sampling, and MRCP for ductal anatomy. Berberine has demonstrated hypoglycemic effects comparable to metformin in some studies, and chromium, alpha-lipoic acid, and cinnamon extract are commonly investigated for glycemic support.</p>
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/type-1-diabetes/" class="internal-link">Type 1 Diabetes</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Acute Pancreatitis</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Pancreatitis</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Pancreatic Cancer</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
 RELATED::<a href="/entities/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a><br />
 RELATED::<a href="/entities/supplement/berberine/" class="internal-link">Berberine</a><br />
-RELATED::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a></p>
+RELATED::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/type-1-diabetes/" class="internal-link">Type 1 Diabetes</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Acute Pancreatitis</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Pancreatitis</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Pancreatic Cancer</a></p>
 
 {% endraw %}

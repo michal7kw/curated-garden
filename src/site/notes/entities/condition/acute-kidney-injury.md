@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.169363Z'
+created: '2026-04-19T18:22:19.386998Z'
 description: A sudden episode of kidney failure or kidney damage that happens within
   a few hours or a few days, causing a build-up of waste products in the blood.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Acute Kidney Injury
 type: condition
-updated: '2026-04-17T18:59:18.169363Z'
+updated: '2026-04-19T18:22:19.386998Z'
 ---
 
 {% raw %}
@@ -23,7 +23,7 @@ updated: '2026-04-17T18:59:18.169363Z'
 <p>A sudden episode of kidney failure or kidney damage that happens within a few hours or a few days, causing a build-up of waste products in the blood.</p>
 <h2>Relationships</h2>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/creatinine/" class="internal-link">creatinine</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/blood-urea-nitrogen/" class="internal-link">Blood Urea Nitrogen</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/cystatin-c/" class="internal-link">Cystatin C</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/egfr/" class="internal-link">EGFR</a><br />

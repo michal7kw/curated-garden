@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.397930Z'
+created: '2026-04-19T18:22:21.374716Z'
 description: This single low-dose chest computed tomography (CT) scan can help detect
   signs of lung cancer, pulmonary nodules, emphysema, and more. Following the scan,
   advanced AI analysis of the images—performed remotely—assesses plaque buildup in
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: heart_lungs_ct_scan
 type: labtestpanel
-updated: '2026-04-17T18:59:20.397930Z'
+updated: '2026-04-19T18:22:21.374716Z'
 ---
 
 {% raw %}

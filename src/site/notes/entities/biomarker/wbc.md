@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.970215Z'
+created: '2026-04-19T18:22:19.272590Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/wbc/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Wbc
 type: biomarker
-updated: '2026-04-17T18:59:17.970215Z'
+updated: '2026-04-19T18:22:19.272590Z'
 ---
 
 {% raw %}
@@ -79,12 +79,12 @@ updated: '2026-04-17T18:59:17.970215Z'
 <li><strong>Benign ethnic neutropenia:</strong> Common in individuals of African descent (constitutional, not pathological)</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">C-Reactive Protein</a><br />
+RELATED::<a href="/entities/labtest/esr/" class="internal-link">esr</a></p>
 <h3>Indicates Organ Health</h3>
 <p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/bones/" class="internal-link">Bones</a><br />
 INDICATES_ORGAN_HEALTH::<a href="/entities/organ/immune-system/" class="internal-link">Immune System</a></p>
-<h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">C-Reactive Protein</a><br />
-RELATED::<a href="/entities/labtest/esr/" class="internal-link">Esr</a></p>
 <h3>Associated With Condition</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Infection</a><br />
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Leukemia</a><br />

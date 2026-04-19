@@ -1,5 +1,7 @@
 ---
-created: '2026-04-17T18:59:20.996029Z'
+aliases:
+- Efficacy and safety of berberine for type 2 diabetes A systematic review and meta-analysis
+created: '2026-04-19T18:22:22.097875Z'
 description: This systematic review and meta-analysis of 46 randomized controlled
   trials (n=4,158 participants) evaluated the efficacy and safety of berberine for
   type 2 diabetes. Berberine significantly reduced fasting blood glucose, HbA1c, and
@@ -21,7 +23,7 @@ templateEngineOverride: njk
 title: 'Efficacy and safety of berberine for type 2 diabetes: A systematic review
   and meta-analysis'
 type: research
-updated: '2026-04-17T18:59:20.996029Z'
+updated: '2026-04-19T18:22:22.097875Z'
 ---
 
 {% raw %}
@@ -47,11 +49,11 @@ updated: '2026-04-17T18:59:20.996029Z'
 <h2>Clinical Significance</h2>
 <p>This meta-analysis provides the highest level of evidence (1a) for berberine's efficacy in type 2 diabetes management. The HbA1c reduction of -0.72% is clinically significant and approaches the efficacy of metformin monotherapy (typically -1.0 to -1.5%), making berberine a viable adjunctive or alternative therapy, particularly for patients intolerant to metformin or in settings where access to conventional medications is limited. The concurrent improvements in lipid profile add cardiovascular benefit beyond glycemic control alone. However, several caveats apply: the high heterogeneity (I2 = 89%) suggests substantial variation in treatment effects across studies; the predominantly Chinese study populations may limit extrapolation; and the 4-24 week durations leave long-term efficacy and safety uncertain. Berberine also has significant drug interaction potential as a CYP3A4 and CYP2D6 inhibitor, and should not be combined with cyclosporine, warfarin, or certain statins without careful monitoring. Findings are consistent with and strengthen earlier systematic reviews.</p>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/supplement/berberine/" class="internal-link">Berberine</a><br />
+RELATED::<a href="/entities/drug/metformin/" class="internal-link">METFORMIN</a></p>
 <h3>Studied Topic</h3>
 <p>STUDIED_TOPIC::<a href="/entities/supplement/berberine/" class="internal-link">Berberine</a><br />
 STUDIED_TOPIC::<a href="/entities/condition/diabetes/" class="internal-link">Diabetes</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/supplement/berberine/" class="internal-link">Berberine</a><br />
-RELATED::<a href="/entities/drug/metformin/" class="internal-link">Metformin</a></p>
 
 {% endraw %}

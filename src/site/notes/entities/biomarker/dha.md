@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.608458Z'
+created: '2026-04-19T18:22:19.027253Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/dha/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Dha
 type: biomarker
-updated: '2026-04-17T18:59:17.608458Z'
+updated: '2026-04-19T18:22:19.027253Z'
 ---
 
 {% raw %}
@@ -80,14 +80,10 @@ ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/macular-degeneration/" c
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a> (low DHA linked to perinatal and general depression risk, Evidence Level 2a)<br />
 INDICATES_ORGAN_HEALTH::<a href="/entities/organ/brain/" class="internal-link">Brain</a> (DHA constitutes 40% of brain polyunsaturated fatty acids, Evidence Level 1a)</p>
 <h3>Affected By Supplement</h3>
-<ul>
-<li>-&gt; <a href="/entities/supplement/omega-3-dha/" class="internal-link">Omega-3 DHA</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> (supplement)</li>
-</ul>
+<p>AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-dha/" class="internal-link">Omega-3 DHA</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a></p>
 <h3>Measured By Test</h3>
-<ul>
-<li>-&gt; <a href="/entities/labtest/omega-3-dha/" class="internal-link">omega 3 dha</a> (labtest)</li>
-<li>-&gt; <a href="/entities/labtest/omega3-index/" class="internal-link">omega3 index</a> (labtest)</li>
-</ul>
+<p>MEASURED_BY_TEST::<a href="/entities/labtest/omega-3-dha/" class="internal-link">omega 3 dha</a><br />
+MEASURED_BY_TEST::<a href="/entities/labtest/omega3-index/" class="internal-link">Omega3 Index</a></p>
 
 {% endraw %}

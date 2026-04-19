@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.763464Z'
+created: '2026-04-19T18:22:20.650136Z'
 description: Resistance exercise using progressive overload to increase muscular strength,
   mass, and endurance. Foundational for metabolic health, bone density, functional
   independence, and longevity. Stimulates muscle protein synthesis, growth hormone
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Strength Training
 type: intervention
-updated: '2026-04-17T18:59:19.763464Z'
+updated: '2026-04-19T18:22:20.650136Z'
 ---
 
 {% raw %}
@@ -55,14 +55,20 @@ updated: '2026-04-17T18:59:19.763464Z'
 <li>Unstable cardiovascular disease</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/intervention/exercise/" class="internal-link">Exercise</a><br />
+RELATED::<a href="/entities/intervention/zone-2-training/" class="internal-link">Zone 2 Training</a> (complementary aerobic base for longevity framework)<br />
+RELATED::<a href="/entities/intervention/hiit-training/" class="internal-link">HIIT Training</a> (combine for complete exercise program)<br />
+RELATED::<a href="/entities/intervention/walking/" class="internal-link">Walking</a> (active recovery between strength sessions)<br />
+RELATED::<a href="/entities/intervention/cold-exposure/" class="internal-link">Cold Exposure</a> (avoid within 4h post-training to preserve hypertrophy signal)</p>
 <h3>Modulates Hormone</h3>
-<p>MODULATES_HORMONE::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a> (enhanced glucose disposal via GLUT4, comparable to metformin, Evidence Level 1a)<br />
+<p>MODULATES_HORMONE::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a> (enhanced glucose disposal via GLUT4, comparable to metformin, Evidence Level 1a)<br />
 MODULATES_HORMONE::<a href="/entities/hormone/growth-hormone/" class="internal-link">Growth Hormone</a> (300-500% acute increase post-session, Evidence Level 2a)<br />
 MODULATES_HORMONE::<a href="/entities/hormone/testosterone/" class="internal-link">Testosterone</a> (transient increase with compound movements, Evidence Level 2a)</p>
 <h3>Modulates Biomarker</h3>
-<p>MODULATES_BIOMARKER::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a> (myokine-mediated BDNF release supports neuroprotection, Evidence Level 2a)<br />
-MODULATES_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">HbA1c</a> (improved glycemic control via muscle glucose uptake, Evidence Level 1b)<br />
-MODULATES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a> (chronic anti-inflammatory effect with regular training, Evidence Level 1b)</p>
+<p>AFFECTS_BIOMARKER::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a> (myokine-mediated BDNF release supports neuroprotection, Evidence Level 2a)<br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a> (improved glycemic control via muscle glucose uptake, Evidence Level 1b)<br />
+AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a> (chronic anti-inflammatory effect with regular training, Evidence Level 1b)</p>
 <h3>Affects Organ</h3>
 <p>AFFECTS_ORGAN::<a href="/entities/organ/muscles/" class="internal-link">Muscles</a> (primary target: hypertrophy, strength, and myokine production, Evidence Level 1a)<br />
 AFFECTS_ORGAN::<a href="/entities/organ/bones/" class="internal-link">Bones</a> (increased BMD via Wolff's law mechanical loading, Evidence Level 1a)</p>
@@ -70,11 +76,5 @@ AFFECTS_ORGAN::<a href="/entities/organ/bones/" class="internal-link">Bones</a> 
 <p>MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a> (insulin sensitivity improvement comparable to metformin, Evidence Level 1a)<br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a> (antidepressant effect comparable to SSRIs, Evidence Level 1a)<br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/sarcopenia/" class="internal-link">Sarcopenia</a> (only Level 1a intervention for sarcopenia prevention, Evidence Level 1a)</p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/intervention/exercise/" class="internal-link">Exercise</a><br />
-RELATED::<a href="/entities/intervention/zone-2-training/" class="internal-link">Zone 2 Training</a> (complementary aerobic base for longevity framework)<br />
-RELATED::<a href="/entities/intervention/hiit-training/" class="internal-link">HIIT Training</a> (combine for complete exercise program)<br />
-RELATED::<a href="/entities/intervention/walking/" class="internal-link">Walking</a> (active recovery between strength sessions)<br />
-RELATED::<a href="/entities/intervention/cold-exposure/" class="internal-link">Cold Exposure</a> (avoid within 4h post-training to preserve hypertrophy signal)</p>
 
 {% endraw %}

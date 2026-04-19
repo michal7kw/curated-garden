@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.860367Z'
+created: '2026-04-19T18:22:20.757669Z'
 description: Tested twice a year Blood urea nitrogen (BUN) measures the amount of
   nitrogen in the blood that comes from urea, a waste product made when the body breaks
   down protein. BUN is commonly used to check kidney function, since healthy kidneys
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: blood_urea_nitrogen
 type: labtest
-updated: '2026-04-17T18:59:19.860367Z'
+updated: '2026-04-19T18:22:20.757669Z'
 ---
 
 {% raw %}
@@ -61,16 +61,16 @@ updated: '2026-04-17T18:59:19.860367Z'
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/entities/sideeffect/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal Bleeding</a></p>
-<h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/sideeffect/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal Bleeding</a></p>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Liver Dysfunction</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Malnutrition</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Dysfunction</a><br />
 RELATED::<a href="/entities/sideeffect/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal Bleeding</a></p>
+<h3>May Detect</h3>
+<p>MAY_DETECT::<a href="/entities/sideeffect/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal Bleeding</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/sideeffect/gastrointestinal-bleeding/" class="internal-link">Gastrointestinal Bleeding</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

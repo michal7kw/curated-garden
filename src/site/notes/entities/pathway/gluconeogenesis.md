@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.622838Z'
+created: '2026-04-19T18:22:21.644793Z'
 description: Gluconeogenesis is the metabolic pathway that synthesizes glucose from
   non-carbohydrate precursors, essential for maintaining blood glucose during fasting
   and providing glucose to glucose-dependent tissues.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Gluconeogenesis
 type: pathway
-updated: '2026-04-17T18:59:20.622838Z'
+updated: '2026-04-19T18:22:21.644793Z'
 ---
 
 {% raw %}
@@ -34,10 +34,10 @@ MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/niacin/" class="internal-
 MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a></p>
 <h3>Associated Biomarker</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/biomarker/glucose-fasting/" class="internal-link">Glucose Fasting</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/hba1c/" class="internal-link">Hba1C</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/homa-ir/" class="internal-link">Homa Ir</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a></p>
+ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a></p>
 <h3>Associated With Condition</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/diabetes/" class="internal-link">Diabetes</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/weight-gain/" class="internal-link">Weight Gain</a><br />

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.836583Z'
+created: '2026-04-19T18:22:21.885419Z'
 description: Carnitine palmitoyltransferase II, located on the inner mitochondrial
   membrane matrix side. Regenerates fatty acyl-CoA from acylcarnitine inside the mitochondrial
   matrix, completing the carnitine shuttle for beta-oxidation.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: CPT-II
 type: protein
-updated: '2026-04-17T18:59:20.836583Z'
+updated: '2026-04-19T18:22:21.885419Z'
 ---
 
 {% raw %}
@@ -35,11 +35,11 @@ updated: '2026-04-17T18:59:20.836583Z'
 <li>Adult form presents as recurrent rhabdomyolysis triggered by prolonged exercise, fasting, cold, or infection</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Interacts With</h3>
-<p>INTERACTS_WITH::<a href="/entities/protein/cpt-i/" class="internal-link">CPT-I</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/supplement/l-carnitine/" class="internal-link">L-Carnitine</a><br />
 RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
+<h3>Interacts With</h3>
+<p>INTERACTS_WITH::<a href="/entities/protein/cpt-i/" class="internal-link">CPT-I</a></p>
 <h3>Participates In</h3>
 <p>PARTICIPATES_IN::<a href="/entities/pathway/beta-oxidation/" class="internal-link">Beta-Oxidation</a></p>
 <h3>Catalyzes</h3>

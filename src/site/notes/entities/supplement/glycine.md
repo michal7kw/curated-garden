@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.140717Z'
+created: '2026-04-19T18:22:22.272704Z'
 description: Conditionally essential amino acid with inhibitory neurotransmitter function.
   Key component of collagen, glutathione precursor, and important for sleep quality
   through body temperature regulation.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Glycine
 type: supplement
-updated: '2026-04-17T18:59:21.140717Z'
+updated: '2026-04-19T18:22:22.272704Z'
 ---
 
 {% raw %}
@@ -43,7 +43,7 @@ updated: '2026-04-17T18:59:21.140717Z'
 RELATED::<a href="/entities/supplement/melatonin-supplement/" class="internal-link">Melatonin Supplement</a><br />
 RELATED::<a href="/entities/supplement/nac/" class="internal-link">NAC</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">Hba1C</a><br />
+<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>
 <h3>May Improve Condition</h3>
@@ -54,7 +54,6 @@ MAY_IMPROVE_CONDITION::<a href="/entities/condition/blood-glucose-imbalance/" cl
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a><br />
 MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Joint Pain</a></p>
 <h3>Modulates Neurotransmitter</h3>
-<p>MODULATES_NEUROTRANSMITTER::<a href="/entities/supplement/glycine/" class="internal-link">Glycine</a> (inhibitory neurotransmitter in brainstem and spinal cord, Evidence Level 1b)</p>
 <h3>Synergistic With</h3>
 <p>SYNERGISTIC_WITH::<a href="/entities/supplement/nac/" class="internal-link">NAC</a> (GlyNAC protocol for glutathione restoration and aging reversal, Evidence Level 1b)<br />
 SYNERGISTIC_WITH::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a> (both support sleep quality via complementary mechanisms, Evidence Level 2b)</p>

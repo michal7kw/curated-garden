@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.705215Z'
+created: '2026-04-19T18:22:19.663915Z'
 description: Chronic functional GI disorder characterized by recurrent abdominal pain
   associated with altered bowel habits (diarrhea, constipation, or mixed). Affects
   10-15% of the global population. Driven by visceral hypersensitivity, gut-brain
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Irritable Bowel Syndrome
 type: condition
-updated: '2026-04-17T18:59:18.705215Z'
+updated: '2026-04-19T18:22:19.663915Z'
 ---
 
 {% raw %}
@@ -53,8 +53,13 @@ updated: '2026-04-17T18:59:18.705215Z'
 <li><strong>Stress management</strong>: Yoga, meditation, regular exercise — all reduce IBS symptom severity</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/condition/anxiety/" class="internal-link">Anxiety</a><br />
+RELATED::<a href="/entities/condition/sibo/" class="internal-link">SIBO</a><br />
+RELATED::<a href="/entities/condition/leaky-gut/" class="internal-link">Leaky_Gut</a><br />
+RELATED::<a href="/entities/condition/chronic-stress/" class="internal-link">Chronic_Stress</a></p>
 <h3>Improved By Supplement</h3>
-<p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">magnesium</a><br />
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
 IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">L-Glutamine</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/probiotics/" class="internal-link">Probiotics</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/berberine/" class="internal-link">Berberine</a></p>
@@ -62,11 +67,6 @@ IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/berberine/" class="interna
 <p>ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">hs-CRP</a><br />
 ASSOCIATED_WITH::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/condition/anxiety/" class="internal-link">Anxiety</a><br />
-RELATED::<a href="/entities/condition/sibo/" class="internal-link">SIBO</a><br />
-RELATED::<a href="/entities/condition/leaky-gut/" class="internal-link">Leaky_Gut</a><br />
-RELATED::<a href="/entities/condition/chronic-stress/" class="internal-link">Chronic_Stress</a></p>
 <h3>Affected By Intervention</h3>
 <p>AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/anti-inflammatory-diet/" class="internal-link">Anti-Inflammatory_Diet</a><br />
 AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/yoga/" class="internal-link">Yoga</a><br />

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.170863Z'
+created: '2026-04-19T18:22:19.924893Z'
 description: A chronic autoimmune disease where the immune system mistakenly attacks
   moisture-producing glands, primarily the salivary and lacrimal glands.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Sjogrens Syndrome
 type: condition
-updated: '2026-04-17T18:59:19.170863Z'
+updated: '2026-04-19T18:22:19.924893Z'
 ---
 
 {% raw %}
@@ -24,7 +24,7 @@ updated: '2026-04-17T18:59:19.170863Z'
 <p>A chronic autoimmune disease where the immune system mistakenly attacks moisture-producing glands, primarily the salivary and lacrimal glands.</p>
 <h2>Relationships</h2>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/esr/" class="internal-link">Esr</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/esr/" class="internal-link">esr</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/interleukin-6/" class="internal-link">Interleukin 6</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/wbc/" class="internal-link">Wbc</a><br />

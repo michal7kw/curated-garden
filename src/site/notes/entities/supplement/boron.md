@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.075284Z'
+created: '2026-04-19T18:22:22.201297Z'
 description: Trace mineral important for bone health, hormone balance, and cognitive
   function. May support testosterone levels and reduce inflammatory markers. Essential
   for calcium, magnesium, and vitamin D metabolism.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Boron
 type: supplement
-updated: '2026-04-17T18:59:21.075284Z'
+updated: '2026-04-19T18:22:22.201297Z'
 ---
 
 {% raw %}
@@ -58,6 +58,6 @@ SYNERGISTIC_WITH::<a href="/entities/supplement/magnesium/" class="internal-link
 AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 <h3>Modulates Hormone</h3>
 <p>MODULATES_HORMONE::<a href="/entities/hormone/testosterone/" class="internal-link">Testosterone</a> (may increase free testosterone by reducing SHBG, Evidence Level 2b)<br />
-MODULATES_HORMONE::<a href="/entities/labtest/estradiol/" class="internal-link">Estradiol</a></p>
+MODULATES_HORMONE::<a href="/entities/labtest/estradiol/" class="internal-link">estradiol</a></p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.202299Z'
+created: '2026-04-19T18:22:19.947440Z'
 description: A mild form of hypothyroidism characterized by slightly elevated TSH
   levels despite normal free T4 levels, often asymptomatic but carrying risks for
   progression.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Subclinical Hypothyroidism
 type: condition
-updated: '2026-04-17T18:59:19.202299Z'
+updated: '2026-04-19T18:22:19.947440Z'
 ---
 
 {% raw %}
@@ -45,7 +45,7 @@ updated: '2026-04-17T18:59:19.202299Z'
 <p>RELATED::<a href="/entities/labtest/thyroglobulin-antibodies-tgab/" class="internal-link">thyroglobulin antibodies tgab</a><br />
 RELATED::<a href="/entities/labtest/thyroid-stimulating-hormone-tsh/" class="internal-link">thyroid stimulating hormone tsh</a></p>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/tsh/" class="internal-link">Tsh</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/tsh/" class="internal-link">tsh</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/free-t4/" class="internal-link">Free T4</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/free-t3/" class="internal-link">Free T3</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/total-cholesterol/" class="internal-link">Total Cholesterol</a><br />

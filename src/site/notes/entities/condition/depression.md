@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.465877Z'
+created: '2026-04-19T18:22:19.536115Z'
 description: A serious mood disorder characterized by persistent feelings of sadness,
   hopelessness, and a loss of interest in activities once enjoyed. Lifetime prevalence
   of 15-20%. Involves dysregulation of serotonin, norepinephrine, dopamine, HPA axis,
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Depression
 type: condition
-updated: '2026-04-17T18:59:18.465877Z'
+updated: '2026-04-19T18:22:19.536115Z'
 ---
 
 {% raw %}
@@ -73,8 +73,8 @@ RELATED::<a href="/entities/biologicalprocess/serotonin-reuptake/" class="intern
 ASSOCIATED_WITH::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
 ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">hs-CRP</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/homocysteine/" class="internal-link">Homocysteine</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 ASSOCIATED_WITH::<a href="/entities/protein/sert/" class="internal-link">SERT</a><br />
 ASSOCIATED_WITH::<a href="/entities/protein/5-ht1a-receptor/" class="internal-link">5-HT1A Receptor</a><br />
 ASSOCIATED_WITH::<a href="/entities/protein/5-ht2a-receptor/" class="internal-link">5-HT2A Receptor</a></p>

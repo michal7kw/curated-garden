@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.962806Z'
+created: '2026-04-19T18:22:19.268297Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/vitamin-d-25-oh/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Vitamin D (25-OH)
 type: biomarker
-updated: '2026-04-17T18:59:17.962806Z'
+updated: '2026-04-19T18:22:19.268297Z'
 ---
 
 {% raw %}
@@ -94,13 +94,9 @@ ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Ty
 INDICATES_ORGAN_HEALTH::<a href="/entities/organ/bones/" class="internal-link">Bones</a> (vitamin D is essential for calcium absorption and bone mineralization, Evidence Level 1a)<br />
 INDICATES_ORGAN_HEALTH::<a href="/entities/organ/kidneys/" class="internal-link">Kidneys</a> (kidneys perform final hydroxylation to active 1,25-OH D, Evidence Level 1a)</p>
 <h3>Affected By Supplement</h3>
-<ul>
-<li>-&gt; <a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/vitamin-k2/" class="internal-link">Vitamin K2</a> (supplement)</li>
-</ul>
+<p>AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-k2/" class="internal-link">Vitamin K2</a></p>
 <h3>Measured By Test</h3>
-<ul>
-<li>-&gt; <a href="/entities/supplement/vitamin-d/" class="internal-link">vitamin d</a> (labtest)</li>
-</ul>
+<p>MEASURED_BY_TEST::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a></p>
 
 {% endraw %}

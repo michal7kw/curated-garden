@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.689634Z'
+created: '2026-04-19T18:22:19.081798Z'
 description: Hemoglobin A1c (HbA1c) reflects average blood glucose over 2-3 months.
   Used to diagnose and monitor diabetes control.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: Hba1C
 type: biomarker
-updated: '2026-04-17T18:59:17.689634Z'
+updated: '2026-04-19T18:22:19.081798Z'
 ---
 
 {% raw %}
@@ -37,17 +37,12 @@ RELATED::<a href="/entities/supplement/berberine/" class="internal-link">Berberi
 <p>INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a> (when elevated, Evidence Level 1a)<br />
 INCREASES_RISK_FOR::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> (when elevated, Evidence Level 1a)</p>
 <h3>Affected By Supplement</h3>
-<ul>
-<li>-&gt; <a href="/entities/supplement/berberine/" class="internal-link">Berberine</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/chromium/" class="internal-link">Chromium</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a> (supplement)</li>
-</ul>
+<p>AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/berberine/" class="internal-link">Berberine</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/chromium/" class="internal-link">Chromium</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a></p>
 <h3>Measured By Test</h3>
-<ul>
-<li>-&gt; <a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a> (labtest)</li>
-<li>-&gt; <a href="/entities/labtest/hemoglobin-a1c-hba1c/" class="internal-link">hemoglobin a1c hba1c</a> (labtest)</li>
-</ul>
+<p>MEASURED_BY_TEST::<a href="/entities/labtest/hemoglobin-a1c-hba1c/" class="internal-link">hemoglobin a1c hba1c</a></p>
 
 {% endraw %}

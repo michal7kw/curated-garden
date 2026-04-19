@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.387725Z'
+created: '2026-04-19T18:22:21.362548Z'
 description: Tests blood for exposure to “forever chemicals” (PFAS), harmful substances
   linked to health risks like endocrine disruption, metabolic disorders, and cancer.
   Most people are unaware of their exposure to “forever chemicals,” or per- and polyfluoroalkyl
@@ -23,7 +23,7 @@ tags:
 templateEngineOverride: njk
 title: forever_chemicals_pfas_exposure
 type: labtestpanel
-updated: '2026-04-17T18:59:20.387725Z'
+updated: '2026-04-19T18:22:21.362548Z'
 ---
 
 {% raw %}

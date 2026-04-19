@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.785243Z'
+created: '2026-04-19T18:22:19.129313Z'
 description: Myeloperoxidase is a heme peroxidase enzyme released by activated neutrophils
   and monocytes. Elevated levels indicate oxidative stress and vascular inflammation,
   independently predicting acute coronary events and heart failure outcomes.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: MPO
 type: biomarker
-updated: '2026-04-17T18:59:17.785243Z'
+updated: '2026-04-19T18:22:19.129313Z'
 ---
 
 {% raw %}
@@ -33,15 +33,11 @@ CORRELATED_WITH::<a href="/entities/labtest/oxidized-ldl/" class="internal-link"
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Atherosclerosis</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/heart-failure/" class="internal-link">Heart Failure</a></p>
 <h3>Affected By Supplement</h3>
-<ul>
-<li>-&gt; <a href="/entities/supplement/nac/" class="internal-link">NAC</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin C</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/vitamin-e/" class="internal-link">Vitamin E</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> (supplement)</li>
-</ul>
+<p>AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/nac/" class="internal-link">NAC</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin C</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-e/" class="internal-link">Vitamin E</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a></p>
 <h3>Measured By Test</h3>
-<ul>
-<li>-&gt; <a href="/entities/labtest/cytokine-panel/" class="internal-link">cytokine panel</a> (labtest)</li>
-</ul>
+<p>MEASURED_BY_TEST::<a href="/entities/labtest/cytokine-panel/" class="internal-link">cytokine panel</a></p>
 
 {% endraw %}

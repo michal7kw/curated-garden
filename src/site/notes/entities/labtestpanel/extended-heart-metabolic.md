@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.366011Z'
+created: '2026-04-19T18:22:21.339738Z'
 description: This comprehensive set of tests provides a deeper understanding of cardiovascular
   and metabolic health by evaluating how effectively cholesterol is working, how the
   body manages blood sugar (including insulin resistance), levels of harmful oxidative
@@ -24,7 +24,7 @@ tags:
 templateEngineOverride: njk
 title: extended_heart_metabolic
 type: labtestpanel
-updated: '2026-04-17T18:59:20.366011Z'
+updated: '2026-04-19T18:22:21.339738Z'
 ---
 
 {% raw %}
@@ -60,10 +60,10 @@ updated: '2026-04-17T18:59:20.366011Z'
 USED_FOR::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
 USED_FOR::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
 USED_FOR::<a href="/entities/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a><br />
-RELATED::<a href="/entities/labtest/ldl-cholesterol/" class="internal-link">ldl cholesterol</a><br />
-RELATED::<a href="/entities/labtest/hdl-cholesterol/" class="internal-link">hdl cholesterol</a><br />
+RELATED::<a href="/entities/labtest/ldl-cholesterol/" class="internal-link">LDL Cholesterol</a><br />
+RELATED::<a href="/entities/labtest/hdl-cholesterol/" class="internal-link">HDL Cholesterol</a><br />
 RELATED::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a><br />
-RELATED::<a href="/entities/labtest/total-cholesterol/" class="internal-link">total cholesterol</a><br />
+RELATED::<a href="/entities/labtest/total-cholesterol/" class="internal-link">Total Cholesterol</a><br />
 RELATED::<a href="/entities/labtest/high-sensitivity-c-reactive-protein-hs-crp/" class="internal-link">high sensitivity c reactive protein hs crp</a><br />
 ASSOCIATED_WITH::<a href="/entities/organ/heart/" class="internal-link">Heart</a><br />
 ASSOCIATED_WITH::<a href="/entities/organ/kidneys/" class="internal-link">Kidneys</a></p>

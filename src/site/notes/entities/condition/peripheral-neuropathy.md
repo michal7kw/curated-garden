@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.995176Z'
+created: '2026-04-19T18:22:19.815525Z'
 description: A condition caused by damage to the nerves outside the brain and spinal
   cord (peripheral nerves), often resulting in numbness, tingling, and pain.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Peripheral Neuropathy
 type: condition
-updated: '2026-04-17T18:59:18.995176Z'
+updated: '2026-04-19T18:22:19.815525Z'
 ---
 
 {% raw %}
@@ -41,13 +41,13 @@ updated: '2026-04-17T18:59:18.995176Z'
 <li><strong>Emerging</strong>: Scrambler therapy, photobiomodulation (red/infrared light), high-dose thiamine (benfotiamine for diabetic neuropathy)</li>
 </ul>
 <h2>Relationships</h2>
-<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Peripheral Nerves</a></p>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">EMG and Nerve Conduction Studies</a><br />
 RELATED::<a href="/entities/labtest/lead/" class="internal-link">lead</a></p>
+<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Peripheral Nerves</a></p>
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/supplement/vitamin-b12/" class="internal-link">Vitamin B12</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/hba1c/" class="internal-link">Hba1C</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/glucose-fasting/" class="internal-link">Glucose Fasting</a><br />
 ASSOCIATED_WITH::<a href="/entities/supplement/folate/" class="internal-link">Folate</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a></p>

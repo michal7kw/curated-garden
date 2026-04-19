@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.098163Z'
+created: '2026-04-19T18:22:19.868301Z'
 description: A type of high blood pressure that affects the arteries in the lungs
   and the right side of the heart.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Pulmonary Hypertension
 type: condition
-updated: '2026-04-17T18:59:19.098163Z'
+updated: '2026-04-19T18:22:19.868301Z'
 ---
 
 {% raw %}
@@ -23,7 +23,7 @@ updated: '2026-04-17T18:59:19.098163Z'
 <p>A type of high blood pressure that affects the arteries in the lungs and the right side of the heart.</p>
 <h2>Relationships</h2>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/bnp/" class="internal-link">BNP</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/bnp/" class="internal-link">bnp</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/troponin/" class="internal-link">Troponin</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/uric-acid/" class="internal-link">Uric Acid</a><br />

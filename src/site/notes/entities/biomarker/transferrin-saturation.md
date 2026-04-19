@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.937737Z'
+created: '2026-04-19T18:22:19.217044Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/transferrin-saturation/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Transferrin Saturation
 type: biomarker
-updated: '2026-04-17T18:59:17.937737Z'
+updated: '2026-04-19T18:22:19.217044Z'
 ---
 
 {% raw %}
@@ -67,14 +67,14 @@ updated: '2026-04-17T18:59:17.937737Z'
 <li>Functional iron deficiency in chronic kidney disease patients on EPO</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Indicates Organ Health</h3>
-<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/liver/" class="internal-link">Liver</a><br />
-INDICATES_ORGAN_HEALTH::<a href="/entities/organ/bones/" class="internal-link">Bones</a></p>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Iron Deficiency Pattern</a><br />
 RELATED::<a href="/entities/condition/iron-deficiency/" class="internal-link">Iron Deficiency</a><br />
-RELATED::<a href="/entities/labtest/ferritin/" class="internal-link">Ferritin</a><br />
+RELATED::<a href="/entities/labtest/ferritin/" class="internal-link">ferritin</a><br />
 RELATED::<a href="/entities/supplement/iron/" class="internal-link">Iron</a></p>
+<h3>Indicates Organ Health</h3>
+<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/liver/" class="internal-link">Liver</a><br />
+INDICATES_ORGAN_HEALTH::<a href="/entities/organ/bones/" class="internal-link">Bones</a></p>
 <h3>Associated With Condition</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a><br />
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Hemochromatosis</a></p>

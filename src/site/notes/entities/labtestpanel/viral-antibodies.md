@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.426166Z'
+created: '2026-04-19T18:22:21.398832Z'
 description: Tests for latent viruses like Epstein-Barr virus (EBV), herpesviruses,
   cytomegalovirus (CMV), and hepatitis B and C, which helps identify infections that
   can remain dormant in the body and reactivate under certain conditions, particularly
@@ -24,7 +24,7 @@ tags:
 templateEngineOverride: njk
 title: viral_antibodies
 type: labtestpanel
-updated: '2026-04-17T18:59:20.426166Z'
+updated: '2026-04-19T18:22:21.398832Z'
 ---
 
 {% raw %}

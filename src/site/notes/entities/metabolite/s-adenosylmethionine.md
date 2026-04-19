@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.475402Z'
+created: '2026-04-19T18:22:21.450444Z'
 description: Universal methyl donor involved in over 200 methylation reactions including
   DNA methylation, neurotransmitter synthesis, phospholipid metabolism, and detoxification.
   Synthesized from methionine and ATP by methionine adenosyltransferase. After donating
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: S-Adenosylmethionine
 type: metabolite
-updated: '2026-04-17T18:59:20.475402Z'
+updated: '2026-04-19T18:22:21.450444Z'
 ---
 
 {% raw %}
@@ -28,7 +28,7 @@ updated: '2026-04-17T18:59:20.475402Z'
 <p>Universal methyl donor involved in over 200 methylation reactions including DNA methylation, neurotransmitter synthesis, phospholipid metabolism, and detoxification. Synthesized from methionine and ATP by methionine adenosyltransferase. After donating its methyl group, becomes S-adenosylhomocysteine (SAH), linking to the homocysteine/methylation cycle.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/labtest/homocysteine/" class="internal-link">Homocysteine</a><br />
+<p>RELATED::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a><br />
 RELATED::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
 RELATED::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
 RELATED::<a href="/entities/metabolite/methylfolate/" class="internal-link">Methylfolate</a><br />

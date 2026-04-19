@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.113800Z'
+created: '2026-04-19T18:22:22.237713Z'
 description: Active compound in turmeric with powerful anti-inflammatory and antioxidant
   properties. Supports joint health, brain function, and metabolic health. Requires
   enhanced absorption formulations.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Curcumin
 type: supplement
-updated: '2026-04-17T18:59:21.113800Z'
+updated: '2026-04-19T18:22:22.237713Z'
 ---
 
 {% raw %}
@@ -37,23 +37,20 @@ updated: '2026-04-17T18:59:21.113800Z'
 <li><strong>Caution</strong>: May interact with anticoagulants (antiplatelet effect); avoid 2 weeks before surgery</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/liver/" class="internal-link">Liver</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/joints/" class="internal-link">Joints</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />
 RELATED::<a href="/entities/supplement/omega-3-dha/" class="internal-link">Omega-3 DHA</a><br />
 RELATED::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
 MODULATES_PATHWAY::<a href="/entities/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a><br />
 RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/liver/" class="internal-link">Liver</a><br />
 RELATED::<a href="/entities/protein/nrf2/" class="internal-link">NRF2</a><br />
 RELATED::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br />
 RELATED::<a href="/entities/protein/ampk/" class="internal-link">AMPK</a><br />
 RELATED::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
-RELATED::<a href="/entities/drug/turmeric/" class="internal-link">Turmeric</a><br />
+RELATED::<a href="/entities/drug/turmeric/" class="internal-link">Turmeric</a></p>
+<h3>Affects Organ</h3>
+<p>AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/liver/" class="internal-link">Liver</a><br />
 AFFECTS_ORGAN::<a href="/entities/organ/joints/" class="internal-link">Joints</a></p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />
@@ -61,18 +58,18 @@ MAY_IMPROVE_CONDITION::<a href="/entities/condition/metabolic-syndrome/" class="
 <h3>Synergistic With</h3>
 <p>SYNERGISTIC_WITH::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/esr/" class="internal-link">Esr</a><br />
+<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/esr/" class="internal-link">esr</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/labtest/interleukin-6/" class="internal-link">Interleukin 6</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/labtest/tnf-alpha/" class="internal-link">TNF Alpha</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/biomarker/glucose-fasting/" class="internal-link">Glucose Fasting</a><br />
-AFFECTS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">Hba1C</a></p>
+AFFECTS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a></p>
 <h3>Targets Biomarker</h3>
 <p>TARGETS_BIOMARKER::<a href="/entities/labtest/apoe-genotype/" class="internal-link">APOE Genotype</a><br />
 TARGETS_BIOMARKER::<a href="/entities/biomarker/alanine-transaminase/" class="internal-link">Alanine Transaminase</a><br />
 TARGETS_BIOMARKER::<a href="/entities/biomarker/aspartate-aminotransferase/" class="internal-link">Aspartate Aminotransferase</a><br />
 TARGETS_BIOMARKER::<a href="/entities/biomarker/calprotectin/" class="internal-link">Calprotectin</a><br />
-TARGETS_BIOMARKER::<a href="/entities/labtest/esr/" class="internal-link">Esr</a><br />
+TARGETS_BIOMARKER::<a href="/entities/labtest/esr/" class="internal-link">esr</a><br />
 TARGETS_BIOMARKER::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
 TARGETS_BIOMARKER::<a href="/entities/labtest/interleukin-6/" class="internal-link">Interleukin 6</a><br />
 TARGETS_BIOMARKER::<a href="/entities/labtest/tnf-alpha/" class="internal-link">TNF Alpha</a></p>

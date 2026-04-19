@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.627221Z'
+created: '2026-04-19T18:22:21.649552Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/pathway/glutamatergic-pathways/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Glutamatergic Pathways
 type: pathway
-updated: '2026-04-17T18:59:20.627221Z'
+updated: '2026-04-19T18:22:21.649552Z'
 ---
 
 {% raw %}

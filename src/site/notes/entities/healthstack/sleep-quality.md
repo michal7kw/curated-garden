@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.626607Z'
+created: '2026-04-19T18:22:20.462425Z'
 description: Improve sleep onset, duration, and quality. Magnesium glycinate promotes
   relaxation through GABA enhancement, L-theanine induces alpha brain waves, glycine
   lowers core body temperature to facilitate sleep, and vitamin D deficiency is associated
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Sleep Quality
 type: healthstack
-updated: '2026-04-17T18:59:19.626607Z'
+updated: '2026-04-19T18:22:20.462425Z'
 ---
 
 {% raw %}
@@ -78,7 +78,7 @@ updated: '2026-04-17T18:59:19.626607Z'
 </thead>
 <tbody>
 <tr>
-<td><a href="/entities/labtest/magnesium-rbc/" class="internal-link">Magnesium RBC</a></td>
+<td><a href="/entities/labtest/magnesium-rbc/" class="internal-link">Magnesium Rbc</a></td>
 <td>4.2-6.8</td>
 <td>5.0-6.5</td>
 <td>mg/dL</td>
@@ -109,7 +109,7 @@ CONTAINS_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Vitamin 
 INCLUDES_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
 INCLUDES_SUPPLEMENT::<a href="/entities/supplement/glycine/" class="internal-link">Glycine</a><br />
 ASSOCIATED_WITH::<a href="/entities/hormone/melatonin/" class="internal-link">Melatonin</a><br />
-AFFECTS_BIOMARKER::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a></p>
+AFFECTS_BIOMARKER::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a></p>
 <hr />
 <p><strong>Difficulty:</strong> Beginner | <strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
 

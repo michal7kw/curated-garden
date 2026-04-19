@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.395631Z'
+created: '2026-04-19T18:22:21.372510Z'
 description: Evaluates intestinal inflammation, permeability, and microbiome health.
   Fecal calprotectin distinguishes IBD from IBS, while GI-MAP provides comprehensive
   stool analysis including pathogen detection and microbiome composition. Recommended
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: gut_health_comprehensive_panel
 type: labtestpanel
-updated: '2026-04-17T18:59:20.395631Z'
+updated: '2026-04-19T18:22:21.372510Z'
 ---
 
 {% raw %}
@@ -25,7 +25,7 @@ updated: '2026-04-17T18:59:20.395631Z'
 <ul>
 <li><a href="/entities/labtest/gi-map/" class="internal-link">gi map</a> -- Comprehensive stool analysis with pathogen detection and microbiome profiling</li>
 <li><a href="/entities/biomarker/calprotectin/" class="internal-link">Calprotectin</a> -- Marker of intestinal inflammation</li>
-<li><a href="/entities/labtest/zonulin/" class="internal-link">Zonulin</a> -- Intestinal permeability (leaky gut) marker</li>
+<li><a href="/entities/labtest/zonulin/" class="internal-link">zonulin</a> -- Intestinal permeability (leaky gut) marker</li>
 <li><a href="/entities/labtest/fecal-calprotectin/" class="internal-link">fecal calprotectin</a> -- Fecal-specific inflammation marker distinguishing IBD from IBS</li>
 </ul>
 <h2>Clinical Indications</h2>
@@ -39,7 +39,7 @@ updated: '2026-04-17T18:59:20.395631Z'
 <h2>Relationships</h2>
 <p>INCLUDES_TEST::<a href="/entities/labtest/gi-map/" class="internal-link">gi map</a><br />
 INCLUDES_TEST::<a href="/entities/biomarker/calprotectin/" class="internal-link">Calprotectin</a><br />
-INCLUDES_TEST::<a href="/entities/labtest/zonulin/" class="internal-link">Zonulin</a><br />
+INCLUDES_TEST::<a href="/entities/labtest/zonulin/" class="internal-link">zonulin</a><br />
 INCLUDES_TEST::<a href="/entities/labtest/fecal-calprotectin/" class="internal-link">fecal calprotectin</a><br />
 USED_FOR::<a href="/entities/condition/irritable-bowel-syndrome/" class="internal-link">Irritable Bowel Syndrome</a><br />
 USED_FOR::<a class="internal-link is-unresolved" href="/404">Inflammatory Bowel Disease</a><br />

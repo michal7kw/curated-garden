@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.583222Z'
+created: '2026-04-19T18:22:20.429810Z'
 description: A foundational cardiovascular stack targeting key lipid markers and inflammation.
   Omega-3 fatty acids reduce triglycerides and inflammation, CoQ10 supports mitochondrial
   energy in cardiac cells, magnesium helps regulate heart rhythm, and garlic extract
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Heart Health
 type: healthstack
-updated: '2026-04-17T18:59:19.583222Z'
+updated: '2026-04-19T18:22:20.429810Z'
 ---
 
 {% raw %}
@@ -92,7 +92,7 @@ updated: '2026-04-17T18:59:19.583222Z'
 <td>Reverse cholesterol transport</td>
 </tr>
 <tr>
-<td><a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a></td>
+<td><a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a></td>
 <td>0-150</td>
 <td>0-100</td>
 <td>mg/dL</td>
@@ -124,7 +124,7 @@ ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/hypertension/" class="in
 INCLUDES_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
 INCLUDES_SUPPLEMENT::<a href="/entities/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a><br />
 INCLUDES_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
-AFFECTS_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/labtest/total-cholesterol/" class="internal-link">Total Cholesterol</a></p>
 <hr />
 <p><strong>Difficulty:</strong> Beginner | <strong>Evidence Level:</strong> ⭐⭐⭐⭐ (4/5)</p>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.390660Z'
+created: '2026-04-19T18:22:21.365498Z'
 description: 'Identify genetic markers linked to atrial fibrillation, heart attacks,
   strokes, and coronary artery disease to inform personalized heart health strategies.
   These genetic tests help assess the risk of developing serious heart-related conditions,
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: genetic_heart_risks
 type: labtestpanel
-updated: '2026-04-17T18:59:20.390660Z'
+updated: '2026-04-19T18:22:21.365498Z'
 ---
 
 {% raw %}
@@ -48,11 +48,11 @@ updated: '2026-04-17T18:59:20.390660Z'
 <p>USED_FOR::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
 USED_FOR::<a href="/entities/condition/atrial-fibrillation/" class="internal-link">Atrial Fibrillation</a><br />
 RELATED::<a href="/entities/labtest/high-sensitivity-c-reactive-protein-hs-crp/" class="internal-link">high sensitivity c reactive protein hs crp</a><br />
-RELATED::<a href="/entities/labtest/ldl-cholesterol/" class="internal-link">ldl cholesterol</a><br />
-RELATED::<a href="/entities/labtest/hdl-cholesterol/" class="internal-link">hdl cholesterol</a><br />
+RELATED::<a href="/entities/labtest/ldl-cholesterol/" class="internal-link">LDL Cholesterol</a><br />
+RELATED::<a href="/entities/labtest/hdl-cholesterol/" class="internal-link">HDL Cholesterol</a><br />
 RELATED::<a href="/entities/labtest/apolipoprotein-b-apob/" class="internal-link">apolipoprotein b apob</a><br />
 RELATED::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a><br />
-RELATED::<a href="/entities/labtest/total-cholesterol/" class="internal-link">total cholesterol</a><br />
+RELATED::<a href="/entities/labtest/total-cholesterol/" class="internal-link">Total Cholesterol</a><br />
 ASSOCIATED_WITH::<a href="/entities/organ/heart/" class="internal-link">Heart</a></p>
 
 {% endraw %}

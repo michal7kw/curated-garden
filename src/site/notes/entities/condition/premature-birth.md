@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.063567Z'
+created: '2026-04-19T18:22:19.847659Z'
 description: Birth that occurs before the 37th week of pregnancy.
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Premature Birth
 type: condition
-updated: '2026-04-17T18:59:19.063567Z'
+updated: '2026-04-19T18:22:19.847659Z'
 ---
 
 {% raw %}
@@ -24,8 +24,8 @@ updated: '2026-04-17T18:59:19.063567Z'
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/interleukin-6/" class="internal-link">Interleukin 6</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/ferritin/" class="internal-link">Ferritin</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/fibrinogen/" class="internal-link">Fibrinogen</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/ferritin/" class="internal-link">ferritin</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/fibrinogen/" class="internal-link">fibrinogen</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/wbc/" class="internal-link">Wbc</a></p>
 <h3>Improved By Supplement</h3>
 <p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />

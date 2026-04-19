@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.779256Z'
+created: '2026-04-19T18:22:20.667878Z'
 description: Moderate-intensity aerobic exercise performed at a pace that allows for
   steady-state fat oxidation and mitochondrial development.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Zone 2 Training
 type: intervention
-updated: '2026-04-17T18:59:19.779256Z'
+updated: '2026-04-19T18:22:20.667878Z'
 ---
 
 {% raw %}
@@ -53,18 +53,6 @@ updated: '2026-04-17T18:59:19.779256Z'
 <li>Active musculoskeletal injury (modify modality)</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Modulates Biomarker</h3>
-<p>MODULATES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a> (chronic anti-inflammatory effect, Evidence Level 1b)<br />
-MODULATES_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">HbA1c</a> (improved glycemic control via enhanced fat oxidation, Evidence Level 1a)<br />
-MODULATES_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a> (increased lipid oxidation reduces circulating triglycerides, Evidence Level 1a)<br />
-MODULATES_BIOMARKER::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a> (aerobic exercise increases BDNF for neuroplasticity, Evidence Level 2a)</p>
-<h3>Modulates Hormone</h3>
-<p>MODULATES_HORMONE::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a> (improved insulin sensitivity via mitochondrial function, Evidence Level 1a)</p>
-<h3>Affects Cellular Component</h3>
-<p>AFFECTS_CELLULAR_COMPONENT::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (50-100% increase in mitochondrial volume/density, Evidence Level 2a)</p>
-<h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a> (improved metabolic flexibility and insulin sensitivity, Evidence Level 1a)<br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> (VO2max improvement reduces CV mortality, Evidence Level 1a)</p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/intervention/exercise/" class="internal-link">Exercise</a><br />
 RELATED::<a href="/entities/intervention/hiit-training/" class="internal-link">HIIT Training</a> (complementary: 80% Zone 2, 20% HIIT in polarized model)<br />
@@ -72,5 +60,17 @@ RELATED::<a href="/entities/intervention/walking/" class="internal-link">Walking
 RELATED::<a href="/entities/intervention/strength-training/" class="internal-link">Strength Training</a> (combine for complete longevity exercise program)<br />
 RELATED::<a href="/entities/intervention/intermittent-fasting/" class="internal-link">Intermittent Fasting</a> (fasted Zone 2 may enhance fat oxidation adaptation)<br />
 RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (Zone 2 is the most potent stimulus for mitochondrial biogenesis)</p>
+<h3>Modulates Biomarker</h3>
+<p>AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a> (chronic anti-inflammatory effect, Evidence Level 1b)<br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a> (improved glycemic control via enhanced fat oxidation, Evidence Level 1a)<br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a> (increased lipid oxidation reduces circulating triglycerides, Evidence Level 1a)<br />
+AFFECTS_BIOMARKER::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a> (aerobic exercise increases BDNF for neuroplasticity, Evidence Level 2a)</p>
+<h3>Modulates Hormone</h3>
+<p>MODULATES_HORMONE::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a> (improved insulin sensitivity via mitochondrial function, Evidence Level 1a)</p>
+<h3>Affects Cellular Component</h3>
+<p>AFFECTS::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (50-100% increase in mitochondrial volume/density, Evidence Level 2a)</p>
+<h3>May Improve Condition</h3>
+<p>MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a> (improved metabolic flexibility and insulin sensitivity, Evidence Level 1a)<br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> (VO2max improvement reduces CV mortality, Evidence Level 1a)</p>
 
 {% endraw %}

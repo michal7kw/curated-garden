@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.972057Z'
+created: '2026-04-19T18:22:20.915809Z'
 description: Glutathione test measures the body's master antioxidant in blood. Glutathione
   (GSH) is a tripeptide (glutamate-cysteine-glycine) critical for detoxification,
   immune function, and protection against oxidative damage. Both total glutathione
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: glutathione
 type: labtest
-updated: '2026-04-17T18:59:19.972057Z'
+updated: '2026-04-19T18:22:20.915809Z'
 ---
 
 {% raw %}
@@ -66,7 +66,7 @@ updated: '2026-04-17T18:59:19.972057Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/entities/supplement/glutathione/" class="internal-link">glutathione</a></li>
+<li><a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>

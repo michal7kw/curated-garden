@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.351725Z'
+created: '2026-04-19T18:22:21.322619Z'
 description: Panel of tumor markers used for cancer screening and monitoring. Includes
   PSA for prostate, CEA for colorectal, CA-125 for ovarian, and AFP for liver/testicular
   cancers. Best used in conjunction with imaging and clinical evaluation.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: cancer_screening_panel
 type: labtestpanel
-updated: '2026-04-17T18:59:20.351725Z'
+updated: '2026-04-19T18:22:21.322619Z'
 ---
 
 {% raw %}

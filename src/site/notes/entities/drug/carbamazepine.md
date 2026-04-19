@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.300991Z'
+created: '2026-04-19T18:22:20.082261Z'
 description: Anticonvulsant and mood stabilizer used primarily for epilepsy, trigeminal
   neuralgia, and bipolar disorder. Acts by blocking voltage-gated sodium channels.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Carbamazepine
 type: drug
-updated: '2026-04-17T18:59:19.300991Z'
+updated: '2026-04-19T18:22:20.082261Z'
 ---
 
 {% raw %}
@@ -35,8 +35,6 @@ updated: '2026-04-17T18:59:19.300991Z'
 <li><strong>Glossopharyngeal neuralgia</strong>: Off-label but effective for this related cranial neuralgia</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Interacts With</h3>
-<p>INTERACTS_WITH::<a href="/entities/drug/clomipramine/" class="internal-link">Clomipramine</a></p>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Ebola Zaire vaccine live attenuated</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Warfarin</a><br />
@@ -52,7 +50,6 @@ RELATED::<a class="internal-link is-unresolved" href="/404">SRP 299</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Chromic chloride</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Emetonium iodide</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Neuropathic Pain</a><br />
-INTERACTS_WITH::<a href="/entities/drug/clomipramine/" class="internal-link">Clomipramine</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Tiludronic acid</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Oral Contraceptives</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Bipolar Disorder</a><br />
@@ -60,7 +57,9 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Sodium Channel</a><b
 RELATED::<a class="internal-link is-unresolved" href="/404">Grapefruit Juice</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Ceftaroline fosamil</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Rotavirus vaccine</a><br />
-RELATED::<a href="/entities/labtest/uric-acid/" class="internal-link">Uric acid</a><br />
+RELATED::<a href="/entities/labtest/uric-acid/" class="internal-link">Uric Acid</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Adenovirus type 7 vaccine live</a></p>
+<h3>Interacts With</h3>
+<p>INTERACTS_WITH::<a href="/entities/drug/clomipramine/" class="internal-link">Clomipramine</a></p>
 
 {% endraw %}

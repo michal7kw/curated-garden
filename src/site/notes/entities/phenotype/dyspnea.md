@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.711762Z'
+created: '2026-04-19T18:22:21.750721Z'
 description: Difficulty breathing or shortness of breath.
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Dyspnea
 type: phenotype
-updated: '2026-04-17T18:59:20.711762Z'
+updated: '2026-04-19T18:22:21.750721Z'
 ---
 
 {% raw %}
@@ -43,12 +43,12 @@ RELATED::<a class="internal-link is-unresolved" href="/404">relapsing polychondr
 RELATED::<a class="internal-link is-unresolved" href="/404">Exertional dyspnea</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">scrub typhus</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">pediatric systemic lupus erythematosus</a><br />
-RELATED::<a href="/entities/condition/severe-acute-respiratory-syndrome/" class="internal-link">severe acute respiratory syndrome</a><br />
+RELATED::<a href="/entities/condition/severe-acute-respiratory-syndrome/" class="internal-link">Severe Acute Respiratory Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Paroxysmal dyspnea</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">acute interstitial pneumonia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">chromosome 17q231-q232 deletion syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">yellow nail syndrome</a><br />
-RELATED::<a href="/entities/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
+RELATED::<a href="/entities/labtest/hemoglobin/" class="internal-link">hemoglobin</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">myasthenia gravis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">pulmonary non-tuberculous mycobacterial infection</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">peripartum cardiomyopathy</a><br />

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.175384Z'
+created: '2026-04-19T18:22:22.340080Z'
 description: Essential trace mineral that serves as a cofactor for manganese superoxide
   dismutase (MnSOD), the primary antioxidant enzyme within the mitochondrial matrix,
   and several TCA cycle-related enzymes.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Manganese
 type: supplement
-updated: '2026-04-17T18:59:21.175384Z'
+updated: '2026-04-19T18:22:22.340080Z'
 ---
 
 {% raw %}
@@ -54,11 +54,11 @@ updated: '2026-04-17T18:59:21.175384Z'
 <li><strong>Caution</strong>: Do NOT mega-dose — neurotoxic at high chronic exposure</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/entities/supplement/glutathione/" class="internal-link">glutathione</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
 RELATED::<a href="/entities/metabolite/reactive-oxygen-species/" class="internal-link">Reactive_Oxygen_Species</a></p>
+<h3>Affects Biomarker</h3>
+<p>AFFECTS_BIOMARKER::<a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a></p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/osteoporosis/" class="internal-link">Osteoporosis</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/oxidative-stress/" class="internal-link">Oxidative_Stress</a><br />

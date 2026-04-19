@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.775235Z'
+created: '2026-04-19T18:22:20.662217Z'
 description: Mind-body practice combining physical postures (asana), breathwork (pranayama),
   and meditation. Evidence supports benefits for stress reduction, flexibility, balance,
   chronic pain, anxiety, and cardiovascular risk factors. Multiple styles range from
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Yoga
 type: intervention
-updated: '2026-04-17T18:59:19.775235Z'
+updated: '2026-04-19T18:22:20.662217Z'
 ---
 
 {% raw %}
@@ -54,12 +54,19 @@ updated: '2026-04-17T18:59:19.775235Z'
 <li>Pregnancy (avoid hot yoga, deep twists, prone positions after first trimester)</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a> (27% increase in brain GABA after single session)<br />
+RELATED::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
+RELATED::<a href="/entities/intervention/breathwork/" class="internal-link">Breathwork</a> (pranayama is the breathwork component of yoga)<br />
+RELATED::<a href="/entities/intervention/grounding/" class="internal-link">Grounding</a> (outdoor yoga on natural surfaces combines both)<br />
+RELATED::<a href="/entities/intervention/sleep-optimization/" class="internal-link">Sleep Optimization</a> (evening yoga improves sleep onset and quality)<br />
+RELATED::<a href="/entities/intervention/strength-training/" class="internal-link">Strength Training</a> (yoga complements resistance training for mobility)</p>
 <h3>Modulates Hormone</h3>
-<p>MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a> (significant reduction via HPA axis downregulation, Evidence Level 1b)<br />
+<p>MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a> (significant reduction via HPA axis downregulation, Evidence Level 1b)<br />
 MODULATES_HORMONE::<a href="/entities/hormone/melatonin/" class="internal-link">Melatonin</a> (evening yoga may improve melatonin secretion, Evidence Level 3a)</p>
 <h3>Modulates Biomarker</h3>
-<p>MODULATES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a> (anti-inflammatory effect with regular practice, Evidence Level 2a)<br />
-MODULATES_BIOMARKER::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a> (increased neuroplasticity marker, Evidence Level 2b)</p>
+<p>AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a> (anti-inflammatory effect with regular practice, Evidence Level 2a)<br />
+AFFECTS_BIOMARKER::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a> (increased neuroplasticity marker, Evidence Level 2b)</p>
 <h3>Affects Brain Region</h3>
 <p>AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a> (enhanced executive control and emotion regulation, Evidence Level 2b)</p>
 <h3>Improves Function</h3>
@@ -69,12 +76,5 @@ MODULATES_BIOMARKER::<a href="/entities/biomarker/bdnf/" class="internal-link">B
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/anxiety/" class="internal-link">Anxiety</a> (moderate-large anxiolytic effect, Evidence Level 1a)<br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a> (small-moderate antidepressant effect, Evidence Level 1a)<br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/hypertension/" class="internal-link">Hypertension</a> (4-5 mmHg systolic reduction, Evidence Level 1a)</p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a> (27% increase in brain GABA after single session)<br />
-RELATED::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
-RELATED::<a href="/entities/intervention/breathwork/" class="internal-link">Breathwork</a> (pranayama is the breathwork component of yoga)<br />
-RELATED::<a href="/entities/intervention/grounding/" class="internal-link">Grounding</a> (outdoor yoga on natural surfaces combines both)<br />
-RELATED::<a href="/entities/intervention/sleep-optimization/" class="internal-link">Sleep Optimization</a> (evening yoga improves sleep onset and quality)<br />
-RELATED::<a href="/entities/intervention/strength-training/" class="internal-link">Strength Training</a> (yoga complements resistance training for mobility)</p>
 
 {% endraw %}

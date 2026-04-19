@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.095626Z'
+created: '2026-04-19T18:22:22.219673Z'
 description: Parasitic desert plant (Cistanche tubulosa/deserticola) used in Traditional
   Chinese Medicine for over 1,800 years as a kidney and yang tonic. Contains phenylethanoid
   glycosides (echinacoside, acteoside) with demonstrated neuroprotective, anti-inflammatory,
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Cistanche
 type: supplement
-updated: '2026-04-17T18:59:21.095626Z'
+updated: '2026-04-19T18:22:22.219673Z'
 ---
 
 {% raw %}

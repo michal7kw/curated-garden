@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.474535Z'
+created: '2026-04-19T18:22:20.291346Z'
 description: First-in-class dual GIP and GLP-1 receptor agonist ("twincretin") for
   type 2 diabetes and obesity. 39-amino acid linear peptide based on the GIP sequence
   with GLP-1 receptor agonist activity. Demonstrated superior glycemic control and
@@ -24,7 +24,7 @@ tags:
 templateEngineOverride: njk
 title: Tirzepatide
 type: drug
-updated: '2026-04-17T18:59:19.474535Z'
+updated: '2026-04-19T18:22:20.291346Z'
 ---
 
 {% raw %}
@@ -83,19 +83,24 @@ updated: '2026-04-17T18:59:19.474535Z'
 <li><strong>Serious Warnings</strong>: Thyroid C-cell tumor risk (observed in rodent studies with GLP-1 agonists; clinical significance unknown), contraindicated in MEN2 and personal/family history of medullary thyroid carcinoma. GI adverse effects are generally transient and dose-dependent, most common during dose escalation</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/drug/semaglutide/" class="internal-link">Semaglutide</a> (GLP-1 agonist comparator, head-to-head SURPASS-2, Evidence Level 1b)<br />
+RELATED::<a href="/entities/drug/liraglutide/" class="internal-link">Liraglutide</a> (GLP-1 agonist, Evidence Level 1b)<br />
+RELATED::<a href="/entities/drug/metformin/" class="internal-link">METFORMIN</a> (first-line combination, Evidence Level 1a)<br />
+RELATED::<a class="internal-link is-unresolved" href="/404">SGLT2 inhibitors</a> (complementary cardiorenal protection, Evidence Level 1a)</p>
 <h3>Treats</h3>
 <p>TREATS::<a href="/entities/condition/diabetes/" class="internal-link">Diabetes</a> (Evidence Level 1a - SURPASS program, PMID: 35319302)<br />
 TREATS::<a href="/entities/condition/weight-gain/" class="internal-link">Weight Gain</a> (Evidence Level 1a - SURMOUNT-1, PMID: 37253064)<br />
 TREATS::<a href="/entities/condition/nafld/" class="internal-link">NAFLD</a> (Evidence Level 2b - hepatic fat reduction in Phase 2 trials)<br />
 TREATS::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> (Evidence Level 2a - SURPASS-CVOT ongoing, surrogate markers improved)</p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">HbA1c</a> (reduces by up to 2.4%, highest in class, Evidence Level 1a)<br />
+<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a> (reduces by up to 2.4%, highest in class, Evidence Level 1a)<br />
 AFFECTS_BIOMARKER::<a href="/entities/metabolite/glucose/" class="internal-link">Glucose</a> (reduces fasting glucose, Evidence Level 1a)<br />
 AFFECTS_BIOMARKER::<a href="/entities/biomarker/crp-hs/" class="internal-link">CRP (hs)</a> (reduces inflammation, Evidence Level 2a)<br />
-AFFECTS_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a> (reduces, Evidence Level 2b)<br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a> (reduces, Evidence Level 2b)<br />
 AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Blood Pressure</a> (reduces systolic BP, Evidence Level 2a)</p>
 <h3>Modulates Hormone</h3>
-<p>MODULATES_HORMONE::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a> (enhances glucose-dependent secretion via dual GIP/GLP-1, Evidence Level 1a)<br />
+<p>MODULATES_HORMONE::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a> (enhances glucose-dependent secretion via dual GIP/GLP-1, Evidence Level 1a)<br />
 MODULATES_HORMONE::<a class="internal-link is-unresolved" href="/404">Glucagon</a> (suppresses during hyperglycemia, stimulates during hypoglycemia via GIP, Evidence Level 1a)</p>
 <h3>Affects Organ</h3>
 <p>AFFECTS_ORGAN::<a href="/entities/organ/pancreas/" class="internal-link">Pancreas</a> (preserves beta cells, dual receptor activation, Evidence Level 2b)<br />
@@ -108,13 +113,8 @@ AFFECTS_ORGAN::<a href="/entities/anatomy/hypothalamus/" class="internal-link">H
 MODULATES::<a href="/entities/pathway/insulin-signaling/" class="internal-link">Insulin Signaling</a> (improves insulin sensitivity, Evidence Level 2b)<br />
 MODULATES::<a class="internal-link is-unresolved" href="/404">Inflammatory Response</a> (reduces systemic inflammation, Evidence Level 2a)</p>
 <h3>Interacts With Drug</h3>
-<p>INTERACTS_WITH::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a> (increased hypoglycemia risk, Evidence Level 1b)<br />
+<p>INTERACTS_WITH::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a> (increased hypoglycemia risk, Evidence Level 1b)<br />
 INTERACTS_WITH::<a href="/entities/drug/semaglutide/" class="internal-link">Semaglutide</a> (same class, not used together, Evidence Level 2a)</p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/drug/semaglutide/" class="internal-link">Semaglutide</a> (GLP-1 agonist comparator, head-to-head SURPASS-2, Evidence Level 1b)<br />
-RELATED::<a href="/entities/drug/liraglutide/" class="internal-link">Liraglutide</a> (GLP-1 agonist, Evidence Level 1b)<br />
-RELATED::<a href="/entities/drug/metformin/" class="internal-link">Metformin</a> (first-line combination, Evidence Level 1a)<br />
-RELATED::<a class="internal-link is-unresolved" href="/404">SGLT2 inhibitors</a> (complementary cardiorenal protection, Evidence Level 1a)</p>
 <h2>References</h2>
 <ul>
 <li>PMID: 35319304 (SURPASS-1)</li>

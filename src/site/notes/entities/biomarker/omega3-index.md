@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.836524Z'
+created: '2026-04-19T18:22:19.155085Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/omega3-index/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Omega3 Index
 type: biomarker
-updated: '2026-04-17T18:59:17.836524Z'
+updated: '2026-04-19T18:22:19.155085Z'
 ---
 
 {% raw %}
@@ -87,13 +87,8 @@ ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/cardiovascular-disease/"
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Cognitive Decline</a> (higher Omega-3 Index associated with slower cognitive decline, Evidence Level 2a)<br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a> (low Omega-3 Index linked to increased depression risk, Evidence Level 2a)</p>
 <h3>Affected By Supplement</h3>
-<ul>
-<li>-&gt; <a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/omega-3-dha/" class="internal-link">Omega-3 DHA</a> (supplement)</li>
-</ul>
+<p>AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-dha/" class="internal-link">Omega-3 DHA</a></p>
 <h3>Measured By Test</h3>
-<ul>
-<li>-&gt; <a href="/entities/labtest/omega3-index/" class="internal-link">omega3 index</a> (labtest)</li>
-</ul>
 
 {% endraw %}

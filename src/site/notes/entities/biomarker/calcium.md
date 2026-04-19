@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.552150Z'
+created: '2026-04-19T18:22:18.997750Z'
 description: Calcium is the most abundant mineral in the human body, essential for
   bone structure, muscle contraction, nerve transmission, and blood coagulation. Serum
   calcium levels are tightly regulated by parathyroid hormone (PTH) and Vitamin D.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Calcium
 type: biomarker
-updated: '2026-04-17T18:59:17.552150Z'
+updated: '2026-04-19T18:22:18.997750Z'
 ---
 
 {% raw %}
@@ -24,8 +24,17 @@ updated: '2026-04-17T18:59:17.552150Z'
 <h2>Overview</h2>
 <p>Calcium is the most abundant mineral in the human body, essential for bone structure, muscle contraction, nerve transmission, and blood coagulation. Serum calcium levels are tightly regulated by parathyroid hormone (PTH) and Vitamin D.</p>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hyperparathyroidism</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hypoparathyroidism</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Malignancy</a><br />
+RELATED::<a href="/entities/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a><br />
+RELATED::<a href="/entities/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a><br />
+RELATED::<a href="/entities/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a><br />
+RELATED::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a></p>
 <h3>Correlated With</h3>
-<p>CORRELATED_WITH::<a href="/entities/labtest/albumin/" class="internal-link">Albumin</a><br />
+<p>CORRELATED_WITH::<a href="/entities/labtest/albumin/" class="internal-link">albumin</a><br />
 CORRELATED_WITH::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a><br />
 CORRELATED_WITH::<a class="internal-link is-unresolved" href="/404">Phosphorus</a></p>
 <h3>Indicates Organ Health</h3>
@@ -47,14 +56,5 @@ ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/vitamin-d-deficiency/" c
 INCLUDED_IN::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a></p>
 <h3>May Detect</h3>
 <p>MAY_DETECT::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Hyperparathyroidism</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Hypoparathyroidism</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Malignancy</a><br />
-RELATED::<a href="/entities/condition/vitamin-d-deficiency/" class="internal-link">Vitamin_D_Deficiency</a><br />
-RELATED::<a href="/entities/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a><br />
-RELATED::<a href="/entities/labtestpanel/extended-vitamins-minerals-nutrients/" class="internal-link">extended_vitamins_minerals_nutrients</a><br />
-RELATED::<a href="/entities/labtestpanel/mthfr-gene/" class="internal-link">mthfr_gene</a></p>
 
 {% endraw %}

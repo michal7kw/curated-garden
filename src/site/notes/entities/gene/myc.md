@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.923191Z'
+created: '2026-04-19T18:22:22.008135Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: MYC
 type: gene
-updated: '2026-04-17T18:59:20.923191Z'
+updated: '2026-04-19T18:22:22.008135Z'
 ---
 
 {% raw %}

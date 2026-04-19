@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.780196Z'
+created: '2026-04-19T18:22:19.126998Z'
 description: Lipoprotein-associated phospholipase A2 is a vascular-specific inflammatory
   enzyme produced by macrophages within atherosclerotic plaques. Elevated levels indicate
   active vascular inflammation and unstable plaque, independently predicting coronary
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Lp-PLA2
 type: biomarker
-updated: '2026-04-17T18:59:17.780196Z'
+updated: '2026-04-19T18:22:19.126998Z'
 ---
 
 {% raw %}
@@ -33,14 +33,10 @@ CORRELATED_WITH::<a href="/entities/labtest/apolipoprotein-b/" class="internal-l
 CORRELATED_WITH::<a href="/entities/biomarker/ldl-p/" class="internal-link">Ldl P</a><br />
 CORRELATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>
 <h3>Affected By Supplement</h3>
-<ul>
-<li>-&gt; <a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/niacin/" class="internal-link">Niacin</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a> (supplement)</li>
-</ul>
+<p>AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/niacin/" class="internal-link">Niacin</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a></p>
 <h3>Measured By Test</h3>
-<ul>
-<li>-&gt; <a href="/entities/labtest/advanced-lipid-panel/" class="internal-link">advanced lipid panel</a> (labtest)</li>
-</ul>
+<p>MEASURED_BY_TEST::<a href="/entities/labtest/advanced-lipid-panel/" class="internal-link">advanced lipid panel</a></p>
 
 {% endraw %}

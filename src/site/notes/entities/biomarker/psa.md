@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.855521Z'
+created: '2026-04-19T18:22:19.165446Z'
 description: Prostate-specific antigen is a serine protease produced by prostatic
   epithelial cells. It is the primary screening biomarker for prostate cancer, though
   elevations also occur in benign prostatic hyperplasia and prostatitis.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: PSA
 type: biomarker
-updated: '2026-04-17T18:59:17.855521Z'
+updated: '2026-04-19T18:22:19.165446Z'
 ---
 
 {% raw %}
@@ -28,17 +28,13 @@ CORRELATED_WITH::<a href="/entities/labtest/testosterone-free/" class="internal-
 <h3>Increases Risk For</h3>
 <p>INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Prostate Cancer</a> (when elevated, Evidence Level 1a)</p>
 <h3>Affected By Supplement</h3>
-<ul>
-<li>-&gt; <a href="/entities/supplement/selenium/" class="internal-link">Selenium</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/sulforaphane/" class="internal-link">Sulforaphane</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/quercetin/" class="internal-link">Quercetin</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/vitamin-e/" class="internal-link">Vitamin E</a> (supplement)</li>
-</ul>
+<p>AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/selenium/" class="internal-link">Selenium</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/sulforaphane/" class="internal-link">Sulforaphane</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/quercetin/" class="internal-link">Quercetin</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-e/" class="internal-link">Vitamin E</a></p>
 <h3>Measured By Test</h3>
-<ul>
-<li>-&gt; <a href="/entities/labtest/prostate-specific-antigen-psa-total/" class="internal-link">prostate specific antigen psa total</a> (labtest)</li>
-<li>-&gt; <a href="/entities/labtest/prostate-specific-antigen-psa-free/" class="internal-link">prostate specific antigen psa free</a> (labtest)</li>
-</ul>
+<p>MEASURED_BY_TEST::<a href="/entities/labtest/prostate-specific-antigen-psa-total/" class="internal-link">prostate specific antigen psa total</a><br />
+MEASURED_BY_TEST::<a href="/entities/labtest/prostate-specific-antigen-psa-free/" class="internal-link">prostate specific antigen psa free</a></p>
 
 {% endraw %}

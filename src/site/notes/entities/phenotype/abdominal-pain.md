@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.690703Z'
+created: '2026-04-19T18:22:21.733757Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Abdominal pain
 type: phenotype
-updated: '2026-04-17T18:59:20.690703Z'
+updated: '2026-04-19T18:22:21.733757Z'
 ---
 
 {% raw %}
@@ -29,7 +29,7 @@ RELATED::<a class="internal-link is-unresolved" href="/404">thrombocytopenic pur
 RELATED::<a class="internal-link is-unresolved" href="/404">pseudomyxoma peritonei</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">celiac artery stenosis from compression by median arcuate ligament of diaphragm</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">acute promyelocytic leukemia</a><br />
-RELATED::<a href="/entities/condition/autoimmune-hepatitis/" class="internal-link">autoimmune hepatitis</a><br />
+RELATED::<a href="/entities/condition/autoimmune-hepatitis/" class="internal-link">Autoimmune Hepatitis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">scrub typhus</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">peripartum cardiomyopathy</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">NK-cell enteropathy</a><br />
@@ -43,7 +43,6 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Abdominal rigidity</
 RELATED::<a href="/entities/condition/pain/" class="internal-link">Pain</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">polycystic liver disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">eosinophilic gastroenteritis</a><br />
-RELATED::<a href="/entities/condition/autoimmune-hepatitis/" class="internal-link">Autoimmune Hepatitis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hennekam-Beemer syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Abdominal colic</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">autosomal dominant hypocalcemia</a><br />

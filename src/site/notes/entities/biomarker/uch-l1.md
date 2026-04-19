@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.954605Z'
+created: '2026-04-19T18:22:19.260851Z'
 description: Ubiquitin C-terminal Hydrolase L1, a neuron-specific enzyme released
   upon neuronal injury. FDA-cleared for traumatic brain injury assessment in combination
   with GFAP.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: UCH-L1
 type: biomarker
-updated: '2026-04-17T18:59:17.954605Z'
+updated: '2026-04-19T18:22:19.260851Z'
 ---
 
 {% raw %}
@@ -24,8 +24,6 @@ updated: '2026-04-17T18:59:17.954605Z'
 <h2>Overview</h2>
 <p>Ubiquitin C-terminal Hydrolase L1, a neuron-specific enzyme released upon neuronal injury. FDA-cleared for traumatic brain injury assessment in combination with GFAP.</p>
 <h2>Relationships</h2>
-<h3>Indicates Organ Health</h3>
-<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Hypoxic Brain Injury</a><br />
 RELATED::<a href="/entities/biomarker/blood-nfl/" class="internal-link">Blood NfL</a><br />
@@ -37,5 +35,7 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Traumatic Brain Inju
 RELATED::<a href="/entities/biomarker/gfap/" class="internal-link">GFAP</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/stroke/" class="internal-link">Stroke</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">CT Head</a></p>
+<h3>Indicates Organ Health</h3>
+<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 
 {% endraw %}

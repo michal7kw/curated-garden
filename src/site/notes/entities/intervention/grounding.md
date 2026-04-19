@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.700001Z'
+created: '2026-04-19T18:22:20.560957Z'
 description: Practice of direct physical contact with the Earth's surface (barefoot
   walking, lying on ground) or using conductive systems connected to ground. Proposed
   mechanism involves transfer of free electrons from Earth's surface, reducing inflammation
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Grounding
 type: intervention
-updated: '2026-04-17T18:59:19.700001Z'
+updated: '2026-04-19T18:22:20.560957Z'
 ---
 
 {% raw %}
@@ -50,16 +50,16 @@ updated: '2026-04-17T18:59:19.700001Z'
 <li>Caution with blood-thinning medications (theoretical blood viscosity effects)</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Modulates Hormone</h3>
-<p>MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a> (may normalize diurnal cortisol rhythm, Evidence Level 4)<br />
-MODULATES_HORMONE::<a href="/entities/hormone/melatonin/" class="internal-link">Melatonin</a> (cortisol normalization may improve melatonin secretion, Evidence Level 4)</p>
-<h3>Modulates Biomarker</h3>
-<p>MODULATES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a> (preliminary anti-inflammatory signal, Evidence Level 4)</p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/intervention/sleep-optimization/" class="internal-link">Sleep Optimization</a> (grounding may improve sleep quality)<br />
 RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a> (electron transfer proposed to reduce oxidative stress)<br />
 RELATED::<a href="/entities/intervention/walking/" class="internal-link">Walking</a> (barefoot walking combines grounding with exercise)<br />
 RELATED::<a href="/entities/intervention/yoga/" class="internal-link">Yoga</a> (outdoor yoga on grass combines both practices)<br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/chronic-pain/" class="internal-link">Chronic Pain</a> (pilot data shows DOMS and pain reduction, Evidence Level 3b)</p>
+<h3>Modulates Hormone</h3>
+<p>MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a> (may normalize diurnal cortisol rhythm, Evidence Level 4)<br />
+MODULATES_HORMONE::<a href="/entities/hormone/melatonin/" class="internal-link">Melatonin</a> (cortisol normalization may improve melatonin secretion, Evidence Level 4)</p>
+<h3>Modulates Biomarker</h3>
+<p>AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a> (preliminary anti-inflammatory signal, Evidence Level 4)</p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.357508Z'
+created: '2026-04-19T18:22:20.151635Z'
 description: Fully human monoclonal antibody against TNF-alpha. Once-monthly subcutaneous
   injection -- most convenient dosing among TNF inhibitors. Also available as IV formulation
   for RA.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Golimumab
 type: drug
-updated: '2026-04-17T18:59:19.357508Z'
+updated: '2026-04-19T18:22:20.151635Z'
 ---
 
 {% raw %}

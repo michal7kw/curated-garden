@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.860128Z'
+created: '2026-04-19T18:22:21.922179Z'
 description: Cytochrome P450 2C9, a major drug-metabolizing enzyme responsible for
   the metabolism of warfarin, phenytoin, and most NSAIDs. Genetic polymorphisms significantly
   affect warfarin dosing requirements, with poor metabolizers requiring substantially
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: CYP2C9
 type: protein
-updated: '2026-04-17T18:59:20.860128Z'
+updated: '2026-04-19T18:22:21.922179Z'
 ---
 
 {% raw %}

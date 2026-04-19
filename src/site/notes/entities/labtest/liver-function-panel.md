@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.072691Z'
+created: '2026-04-19T18:22:21.048291Z'
 description: 'Comprehensive liver assessment: ALT, AST, ALP, GGT, bilirubin, albumin,
   and total protein.'
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: liver_function_panel
 type: labtest
-updated: '2026-04-17T18:59:20.072691Z'
+updated: '2026-04-19T18:22:21.048291Z'
 ---
 
 {% raw %}
@@ -56,11 +56,11 @@ updated: '2026-04-17T18:59:20.072691Z'
 <li><a class="internal-link is-unresolved" href="/404">alt</a></li>
 <li><a class="internal-link is-unresolved" href="/404">ast</a></li>
 <li><a class="internal-link is-unresolved" href="/404">alp</a></li>
-<li><a href="/entities/biomarker/ggt/" class="internal-link">ggt</a></li>
-<li><a href="/entities/biomarker/bilirubin-total/" class="internal-link">bilirubin total</a></li>
-<li><a href="/entities/biomarker/bilirubin-direct/" class="internal-link">bilirubin direct</a></li>
+<li><a href="/entities/biomarker/ggt/" class="internal-link">Ggt</a></li>
+<li><a href="/entities/biomarker/bilirubin-total/" class="internal-link">Bilirubin Total</a></li>
+<li><a href="/entities/biomarker/bilirubin-direct/" class="internal-link">Bilirubin Direct</a></li>
 <li><a href="/entities/labtest/albumin/" class="internal-link">albumin</a></li>
-<li><a href="/entities/labtest/total-protein/" class="internal-link">total protein</a></li>
+<li><a href="/entities/labtest/total-protein/" class="internal-link">Total Protein</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -71,15 +71,14 @@ updated: '2026-04-17T18:59:20.072691Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/biomarker/bilirubin-total/" class="internal-link">bilirubin total</a><br />
-RELATED::<a href="/entities/biomarker/bilirubin-direct/" class="internal-link">bilirubin direct</a><br />
+<p>RELATED::<a href="/entities/biomarker/bilirubin-total/" class="internal-link">Bilirubin Total</a><br />
+RELATED::<a href="/entities/biomarker/bilirubin-direct/" class="internal-link">Bilirubin Direct</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">alt</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">alp</a><br />
-RELATED::<a href="/entities/labtest/albumin/" class="internal-link">Albumin</a><br />
-RELATED::<a href="/entities/labtest/total-protein/" class="internal-link">total protein</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">ast</a><br />
 RELATED::<a href="/entities/labtest/albumin/" class="internal-link">albumin</a><br />
-RELATED::<a href="/entities/biomarker/ggt/" class="internal-link">ggt</a></p>
+RELATED::<a href="/entities/labtest/total-protein/" class="internal-link">Total Protein</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">ast</a><br />
+RELATED::<a href="/entities/biomarker/ggt/" class="internal-link">Ggt</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

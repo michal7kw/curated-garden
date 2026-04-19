@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.257615Z'
+created: '2026-04-19T18:22:21.228935Z'
 description: TPO antibodies are proteins made by the immune system that target an
   enzyme needed for thyroid hormone production. Detecting TPO antibodies can reveal
   autoimmune activity that may impair thyroid function. Possible symptoms UNEXPLAINED
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: thyroid_peroxidase_antibodies_tpo
 type: labtest
-updated: '2026-04-17T18:59:20.257615Z'
+updated: '2026-04-19T18:22:21.228935Z'
 ---
 
 {% raw %}
@@ -62,11 +62,11 @@ updated: '2026-04-17T18:59:20.257615Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Other Autoimmune Diseases EG Type 1 Diabetes Rheumatoid Arthritis</a><br />
-RELATED::<a href="/entities/condition/addisons-disease/" class="internal-link">AddisonS Disease</a><br />
+RELATED::<a href="/entities/condition/addisons-disease/" class="internal-link">Addisons Disease</a><br />
 RELATED::<a href="/entities/labtestpanel/extended-thyroid-health/" class="internal-link">extended thyroid health</a><br />
 RELATED::<a href="/entities/condition/graves-disease/" class="internal-link">Graves Disease</a><br />
 RELATED::<a href="/entities/condition/postpartum-thyroiditis/" class="internal-link">Postpartum Thyroiditis</a><br />
-RELATED::<a href="/entities/condition/hashimotos-thyroiditis/" class="internal-link">HashimotoS Thyroiditis</a></p>
+RELATED::<a href="/entities/condition/hashimotos-thyroiditis/" class="internal-link">Hashimotos Thyroiditis</a></p>
 <h3>May Detect</h3>
 <p>MAY_DETECT::<a href="/entities/condition/graves-disease/" class="internal-link">Graves Disease</a><br />
 MAY_DETECT::<a href="/entities/condition/postpartum-thyroiditis/" class="internal-link">Postpartum Thyroiditis</a></p>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.668270Z'
+created: '2026-04-19T18:22:19.066660Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/ggt/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Ggt
 type: biomarker
-updated: '2026-04-17T18:59:17.668270Z'
+updated: '2026-04-19T18:22:19.066660Z'
 ---
 
 {% raw %}
@@ -22,16 +22,12 @@ updated: '2026-04-17T18:59:17.668270Z'
 <p>INCREASES_RISK_FOR::<a href="/entities/condition/liver-disease/" class="internal-link">Liver Disease</a> (when elevated, Evidence Level 1a)<br />
 INCREASES_RISK_FOR::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> (when elevated, Evidence Level 2a)</p>
 <h3>Affected By Supplement</h3>
-<ul>
-<li>-&gt; <a href="/entities/supplement/nac/" class="internal-link">NAC</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin C</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/vitamin-e/" class="internal-link">Vitamin E</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/selenium/" class="internal-link">Selenium</a> (supplement)</li>
-</ul>
+<p>AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/nac/" class="internal-link">NAC</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin C</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-e/" class="internal-link">Vitamin E</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/selenium/" class="internal-link">Selenium</a></p>
 <h3>Measured By Test</h3>
-<ul>
-<li>-&gt; <a href="/entities/labtest/gamma-glutamyl-transferase-ggt/" class="internal-link">gamma glutamyl transferase ggt</a> (labtest)</li>
-<li>-&gt; <a href="/entities/labtest/liver-function-panel/" class="internal-link">liver function panel</a> (labtest)</li>
-</ul>
+<p>MEASURED_BY_TEST::<a href="/entities/labtest/gamma-glutamyl-transferase-ggt/" class="internal-link">gamma glutamyl transferase ggt</a><br />
+MEASURED_BY_TEST::<a href="/entities/labtest/liver-function-panel/" class="internal-link">liver function panel</a></p>
 
 {% endraw %}

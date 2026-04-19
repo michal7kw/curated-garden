@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.949132Z'
+created: '2026-04-19T18:22:19.791460Z'
 description: A condition where the pancreas does not produce enough enzymes to properly
   digest food, leading to malabsorption and nutritional deficiencies.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Pancreatic Insufficiency
 type: condition
-updated: '2026-04-17T18:59:18.949132Z'
+updated: '2026-04-19T18:22:19.791460Z'
 ---
 
 {% raw %}
@@ -26,8 +26,8 @@ updated: '2026-04-17T18:59:18.949132Z'
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a><br />
 ASSOCIATED_WITH::<a href="/entities/supplement/vitamin-b12/" class="internal-link">Vitamin B12</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/ferritin/" class="internal-link">Ferritin</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/albumin/" class="internal-link">Albumin</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/ferritin/" class="internal-link">ferritin</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/albumin/" class="internal-link">albumin</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/glucose-fasting/" class="internal-link">Glucose Fasting</a></p>
 <h3>Improved By Supplement</h3>
 <p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a><br />

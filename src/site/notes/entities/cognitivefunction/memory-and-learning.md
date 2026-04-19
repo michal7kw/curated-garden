@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.146990Z'
+created: '2026-04-19T18:22:19.374636Z'
 description: Cognitive processes for encoding, storing, consolidating, and retrieving
   information. Multiple memory systems (episodic, semantic, working, procedural, spatial)
   depend on distinct but interacting neural circuits. The hippocampus is essential
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Memory and Learning
 type: cognitivefunction
-updated: '2026-04-17T18:59:18.146990Z'
+updated: '2026-04-19T18:22:19.374636Z'
 ---
 
 {% raw %}

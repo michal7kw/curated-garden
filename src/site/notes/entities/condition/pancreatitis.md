@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.953661Z'
+created: '2026-04-19T18:22:19.793050Z'
 description: Inflammation of the pancreas, which can be acute (sudden and severe)
   or chronic (long-term and progressive).
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Pancreatitis
 type: condition
-updated: '2026-04-17T18:59:18.953661Z'
+updated: '2026-04-19T18:22:19.793050Z'
 ---
 
 {% raw %}
@@ -44,7 +44,7 @@ updated: '2026-04-17T18:59:18.953661Z'
 <p>AFFECTS_ORGAN::<a href="/entities/organ/pancreas/" class="internal-link">Pancreas</a></p>
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/calcium/" class="internal-link">Calcium</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/glucose-fasting/" class="internal-link">Glucose Fasting</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/alanine-transaminase/" class="internal-link">Alanine Transaminase</a></p>

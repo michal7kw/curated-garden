@@ -1,5 +1,7 @@
 ---
-created: '2026-04-17T18:59:17.474033Z'
+aliases:
+- AAEPA Ratio
+created: '2026-04-19T18:22:18.939173Z'
 description: The AA/EPA ratio measures the balance between arachidonic acid (AA),
   a pro-inflammatory omega-6 fatty acid, and eicosapentaenoic acid (EPA), an anti-inflammatory
   omega-3 fatty acid. It is a critical marker of cellular inflammation and cardiovascular
@@ -16,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: AA/EPA Ratio
 type: biomarker
-updated: '2026-04-17T18:59:17.474033Z'
+updated: '2026-04-19T18:22:18.939173Z'
 ---
 
 {% raw %}
@@ -31,7 +33,7 @@ updated: '2026-04-17T18:59:17.474033Z'
 <h3>Correlated With</h3>
 <p>CORRELATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
 CORRELATED_WITH::<a href="/entities/labtest/omega3-index/" class="internal-link">Omega3 Index</a><br />
-CORRELATED_WITH::<a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a><br />
+CORRELATED_WITH::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a><br />
 CORRELATED_WITH::<a href="/entities/biomarker/f2-isoprostanes/" class="internal-link">F2 Isoprostanes</a></p>
 <h3>Associated With Condition</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />

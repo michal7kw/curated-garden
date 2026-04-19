@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.494698Z'
+created: '2026-04-19T18:22:21.473175Z'
 description: Catecholamine neurotransmitter and hormone that mediates the fight-or-flight
   response, promotes alertness and arousal, enhances attention and focus, and regulates
   blood pressure. Also known as noradrenaline.
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Norepinephrine
 type: neurotransmitter
-updated: '2026-04-17T18:59:20.494698Z'
+updated: '2026-04-19T18:22:21.473175Z'
 ---
 
 {% raw %}
@@ -66,7 +66,6 @@ ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/hypertension/" class="in
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/orthostatic-hypotension/" class="internal-link">Orthostatic Hypotension</a><br />
 INDICATES_ORGAN_HEALTH::<a class="internal-link is-unresolved" href="/404">Adrenal Gland</a><br />
 INDICATES_ORGAN_HEALTH::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
-RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
-RELATED::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a></p>
+RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a></p>
 
 {% endraw %}

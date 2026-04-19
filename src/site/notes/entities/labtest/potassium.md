@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.186363Z'
+created: '2026-04-19T18:22:21.155147Z'
 description: Tested twice a year Potassium is an essential electrolyte that helps
   regulate muscle contractions, nerve signals, and fluid balance. Balanced potassium
   levels are especially important for heart function, kidney health, and overall metabolic
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: potassium
 type: labtest
-updated: '2026-04-17T18:59:20.186363Z'
+updated: '2026-04-19T18:22:21.155147Z'
 ---
 
 {% raw %}
@@ -70,8 +70,7 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Medication Effect</a
 RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Dysfunction</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic Dysfunction</a></p>
 <h3>Enriched</h3>
-<p>MEASURES::<a href="/entities/labtest/potassium/" class="internal-link">Potassium</a><br />
-INDICATES::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a><br />
+<p>INDICATES::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a><br />
 INDICATES::<a href="/entities/condition/heart-failure/" class="internal-link">Heart Failure</a></p>
 <h2>Notes</h2>
 <ul>

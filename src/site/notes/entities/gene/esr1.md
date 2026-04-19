@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.889686Z'
+created: '2026-04-19T18:22:21.963716Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: ESR1
 type: gene
-updated: '2026-04-17T18:59:20.889686Z'
+updated: '2026-04-19T18:22:21.963716Z'
 ---
 
 {% raw %}
@@ -28,7 +28,7 @@ updated: '2026-04-17T18:59:20.889686Z'
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Breast Cancer</a></p>
 <h3>Activated By</h3>
 <p>ACTIVATED_BY::<a href="/entities/hormone/estrogen/" class="internal-link">Estrogen</a><br />
-ACTIVATED_BY::<a href="/entities/labtest/estradiol/" class="internal-link">Estradiol</a></p>
+ACTIVATED_BY::<a href="/entities/labtest/estradiol/" class="internal-link">estradiol</a></p>
 <h3>Interacts With</h3>
 <p>INTERACTS_WITH::<a href="/entities/gene/src/" class="internal-link">SRC</a><br />
 INTERACTS_WITH::<a href="/entities/gene/ep300/" class="internal-link">EP300</a><br />

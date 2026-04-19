@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.259666Z'
+created: '2026-04-19T18:22:19.438345Z'
 description: A condition in which the immune system mistakenly attacks and damages
   the body's own healthy cells, tissues, and organs.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Autoimmune Disease
 type: condition
-updated: '2026-04-17T18:59:18.259666Z'
+updated: '2026-04-19T18:22:19.438345Z'
 ---
 
 {% raw %}
@@ -52,7 +52,7 @@ RELATED::<a href="/entities/labtest/white-blood-cell-count/" class="internal-lin
 RELATED::<a href="/entities/labtest/high-sensitivity-c-reactive-protein-hs-crp/" class="internal-link">high sensitivity c reactive protein hs crp</a></p>
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/esr/" class="internal-link">Esr</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/esr/" class="internal-link">esr</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/tnf-alpha/" class="internal-link">TNF Alpha</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/interleukin-6/" class="internal-link">Interleukin 6</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/wbc/" class="internal-link">Wbc</a></p>

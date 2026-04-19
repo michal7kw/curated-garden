@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.612405Z'
+created: '2026-04-19T18:22:21.634053Z'
 description: The GLP-1 receptor signaling cascade activated by GLP-1 hormone and GLP-1
   receptor agonists. Involves Gs-cAMP-PKA signaling, Epac pathway, PI3K-Akt, and MAPK/ERK
   activation, leading to enhanced insulin secretion, beta-cell preservation, cardioprotection,
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: GLP-1 Signaling Pathway
 type: pathway
-updated: '2026-04-17T18:59:20.612405Z'
+updated: '2026-04-19T18:22:21.634053Z'
 ---
 
 {% raw %}
@@ -181,19 +181,25 @@ updated: '2026-04-17T18:59:20.612405Z'
 <li><strong>Chronic kidney disease</strong>: Renoprotective effects demonstrated in Flow trial (semaglutide reduced kidney disease progression by 24% in patients with type 2 diabetes and chronic kidney disease)</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<ul>
+<li>RELATED::<a href="/entities/pathway/insulin-signaling/" class="internal-link">Insulin Signaling</a> (crosstalk via IRS-2/PI3K, Evidence Level 1a)</li>
+<li>RELATED::<a class="internal-link is-unresolved" href="/404">Inflammatory Response</a> (anti-inflammatory via NF-κB inhibition, Evidence Level 2a)</li>
+<li>RELATED::<a href="/entities/pathway/ampk-pathway/" class="internal-link">AMPK Pathway</a> (potential crosstalk, Evidence Level 3)</li>
+</ul>
 <h3>Activated By</h3>
 <ul>
 <li>ACTIVATED_BY::<a href="/entities/hormone/glp-1/" class="internal-link">GLP-1</a> (natural ligand, Evidence Level 1a)</li>
 <li>ACTIVATED_BY::<a href="/entities/drug/semaglutide/" class="internal-link">Semaglutide</a> (GLP-1 receptor agonist, Evidence Level 1a)</li>
 <li>ACTIVATED_BY::<a href="/entities/drug/liraglutide/" class="internal-link">Liraglutide</a> (GLP-1 receptor agonist, Evidence Level 1a)</li>
 <li>ACTIVATED_BY::<a href="/entities/drug/dulaglutide/" class="internal-link">Dulaglutide</a> (GLP-1 receptor agonist, Evidence Level 1a)</li>
-<li>ACTIVATED_BY::<a class="internal-link is-unresolved" href="/404">Exenatide</a> (GLP-1 receptor agonist, Evidence Level 1a)</li>
+<li>ACTIVATED_BY::<a href="/entities/drug/exenatide/" class="internal-link">Exenatide</a> (GLP-1 receptor agonist, Evidence Level 1a)</li>
 <li>ACTIVATED_BY::<a href="/entities/drug/lixisenatide/" class="internal-link">Lixisenatide</a> (GLP-1 receptor agonist, Evidence Level 1a)</li>
 <li>ACTIVATED_BY::<a href="/entities/drug/tirzepatide/" class="internal-link">Tirzepatide</a> (dual GIP/GLP-1 receptor agonist, Evidence Level 1a)</li>
 </ul>
 <h3>Modulates Hormone</h3>
 <ul>
-<li>MODULATES_HORMONE::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a> (enhances secretion via cAMP-PKA, Evidence Level 1a)</li>
+<li>MODULATES_HORMONE::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a> (enhances secretion via cAMP-PKA, Evidence Level 1a)</li>
 <li>MODULATES_HORMONE::<a class="internal-link is-unresolved" href="/404">Glucagon</a> (suppresses alpha-cell secretion, Evidence Level 1a)</li>
 </ul>
 <h3>Affects Organ</h3>
@@ -203,12 +209,6 @@ updated: '2026-04-17T18:59:20.612405Z'
 <li>AFFECTS_ORGAN::<a href="/entities/organ/intestines/" class="internal-link">Intestines</a> (delays gastric emptying, Evidence Level 1a)</li>
 <li>AFFECTS_ORGAN::<a href="/entities/anatomy/hypothalamus/" class="internal-link">Hypothalamus</a> (appetite regulation, Evidence Level 1b)</li>
 <li>AFFECTS_ORGAN::<a href="/entities/organ/kidneys/" class="internal-link">Kidneys</a> (renal protective effects, Evidence Level 2b)</li>
-</ul>
-<h3>Related</h3>
-<ul>
-<li>RELATED::<a href="/entities/pathway/insulin-signaling/" class="internal-link">Insulin Signaling</a> (crosstalk via IRS-2/PI3K, Evidence Level 1a)</li>
-<li>RELATED::<a class="internal-link is-unresolved" href="/404">Inflammatory Response</a> (anti-inflammatory via NF-κB inhibition, Evidence Level 2a)</li>
-<li>RELATED::<a href="/entities/pathway/ampk-pathway/" class="internal-link">AMPK Pathway</a> (potential crosstalk, Evidence Level 3)</li>
 </ul>
 <h2>References</h2>
 <ul>

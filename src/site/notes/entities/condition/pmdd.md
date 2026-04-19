@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.937449Z'
+created: '2026-04-19T18:22:19.786751Z'
 description: Severe mood disorder triggered by luteal phase hormonal changes, characterized
   by marked affective lability, irritability, depressed mood, and anxiety in the 1-2
   weeks before menstruation. Affects 3-8% of menstruating women. Unique SSRI pharmacology
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: PMDD
 type: condition
-updated: '2026-04-17T18:59:18.937449Z'
+updated: '2026-04-19T18:22:19.786751Z'
 ---
 
 {% raw %}

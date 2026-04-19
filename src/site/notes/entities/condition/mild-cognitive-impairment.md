@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.801188Z'
+created: '2026-04-19T18:22:19.722658Z'
 description: An intermediate stage between normal age-related cognitive decline and
   dementia. Represents increased risk for progression to Alzheimer's disease or other
   dementias, but may remain stable or improve.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Mild Cognitive Impairment
 type: condition
-updated: '2026-04-17T18:59:18.801188Z'
+updated: '2026-04-19T18:22:19.722658Z'
 ---
 
 {% raw %}
@@ -38,7 +38,7 @@ RELATED::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br /
 RELATED::<a href="/entities/biomarker/total-tau/" class="internal-link">Total Tau</a><br />
 IMPROVED_BY_INTERVENTION::<a href="/entities/intervention/cognitive-training/" class="internal-link">Cognitive Training</a><br />
 RELATED::<a href="/entities/supplement/omega-3-dha/" class="internal-link">Omega-3 DHA</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Amyloid-Beta 4240 Ratio</a><br />
+RELATED::<a href="/entities/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta 4240 Ratio</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Amyloid PET Imaging</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">MRI Volumetry</a><br />
 RELATED::<a href="/entities/supplement/lions-mane/" class="internal-link">Lions Mane</a><br />
@@ -52,12 +52,12 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Lumbar Puncture</a><
 RELATED::<a href="/entities/supplement/phosphatidylserine/" class="internal-link">Phosphatidylserine</a></p>
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/homocysteine/" class="internal-link">Homocysteine</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/blood-nfl/" class="internal-link">Blood NfL</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
 ASSOCIATED_WITH::<a href="/entities/supplement/vitamin-b12/" class="internal-link">Vitamin B12</a></p>
 <h3>Improved By Supplement</h3>
-<p>IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Lion's Mane</a><br />
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/lions-mane/" class="internal-link">Lion's Mane</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/phosphatidylserine/" class="internal-link">Phosphatidylserine</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a><br />

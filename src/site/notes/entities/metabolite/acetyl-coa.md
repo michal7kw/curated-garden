@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.432578Z'
+created: '2026-04-19T18:22:21.409350Z'
 description: Acetyl-coenzyme A, the central metabolic hub molecule that connects carbohydrate,
   fat, and protein metabolism. Serves as the primary fuel for the citric acid cycle
   and the building block for fatty acid and cholesterol synthesis.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Acetyl-CoA
 type: metabolite
-updated: '2026-04-17T18:59:20.432578Z'
+updated: '2026-04-19T18:22:21.409350Z'
 ---
 
 {% raw %}

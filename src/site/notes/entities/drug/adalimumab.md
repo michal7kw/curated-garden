@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.265373Z'
+created: '2026-04-19T18:22:20.044621Z'
 description: Fully human monoclonal antibody against TNF-alpha. First fully human
   anti-TNF biologic (brand Humira). Binds soluble and membrane-bound TNF-alpha, preventing
   receptor activation.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Adalimumab
 type: drug
-updated: '2026-04-17T18:59:19.265373Z'
+updated: '2026-04-19T18:22:20.044621Z'
 ---
 
 {% raw %}
@@ -36,7 +36,7 @@ TREATS::<a href="/entities/condition/psoriasis/" class="internal-link">Psoriasis
 <p>MODULATES_PATHWAY::<a href="/entities/pathway/nf-kb-pathway/" class="internal-link">NF-kB Pathway</a></p>
 <h3>Decreases Biomarker</h3>
 <p>DECREASES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a><br />
-DECREASES_BIOMARKER::<a href="/entities/labtest/esr/" class="internal-link">ESR</a><br />
+DECREASES_BIOMARKER::<a href="/entities/labtest/esr/" class="internal-link">esr</a><br />
 DECREASES_BIOMARKER::<a href="/entities/labtest/interleukin-6/" class="internal-link">Interleukin 6</a></p>
 <h2>References</h2>
 <ul>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.078854Z'
+created: '2026-04-19T18:22:22.204266Z'
 description: Gum resin extract containing boswellic acids (AKBA is the most potent).
   Inhibits 5-lipoxygenase (5-LOX), reducing leukotriene synthesis. Also inhibits NF-kB
   and MMP activity. Clinical trials show benefit in osteoarthritis and RA with fewer
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Boswellia Serrata
 type: supplement
-updated: '2026-04-17T18:59:21.078854Z'
+updated: '2026-04-19T18:22:22.204266Z'
 ---
 
 {% raw %}

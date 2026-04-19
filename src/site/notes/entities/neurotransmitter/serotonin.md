@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.497562Z'
+created: '2026-04-19T18:22:21.476097Z'
 description: Monoamine neurotransmitter regulating mood, sleep, appetite, and gut
   function. Approximately 95% is produced in the gut. Commonly known as the "feel-good"
   neurotransmitter, it is central to emotional well-being and is the target of most
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Serotonin
 type: neurotransmitter
-updated: '2026-04-17T18:59:20.497562Z'
+updated: '2026-04-19T18:22:21.476097Z'
 ---
 
 {% raw %}
@@ -79,7 +79,6 @@ INDICATES_ORGAN_HEALTH::<a href="/entities/organ/brain/" class="internal-link">B
 INDICATES_ORGAN_HEALTH::<a class="internal-link is-unresolved" href="/404">Small Intestine</a><br />
 RELATED::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
 RELATED::<a href="/entities/supplement/l-tryptophan/" class="internal-link">L-Tryptophan</a><br />
-RELATED::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
 RELATED::<a href="/entities/protein/sert/" class="internal-link">SERT</a><br />
 RELATED::<a href="/entities/protein/5-ht1a-receptor/" class="internal-link">5-HT1A Receptor</a><br />
 RELATED::<a href="/entities/protein/5-ht2a-receptor/" class="internal-link">5-HT2A Receptor</a><br />

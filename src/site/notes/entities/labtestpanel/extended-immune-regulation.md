@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.373790Z'
+created: '2026-04-19T18:22:21.348936Z'
 description: These tests help evaluate susceptibility to infections, detect potential
   immunodeficiency disorders, and identify autoimmune conditions, providing essential
   insights for maintaining immune system balance and overall health. Immunoglobulins
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: extended_immune_regulation
 type: labtestpanel
-updated: '2026-04-17T18:59:20.373790Z'
+updated: '2026-04-19T18:22:21.348936Z'
 ---
 
 {% raw %}

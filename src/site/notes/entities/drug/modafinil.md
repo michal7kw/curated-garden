@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.421852Z'
+created: '2026-04-19T18:22:20.220744Z'
 description: Wakefulness-promoting agent used for narcolepsy, sleep apnea, and shift
   work disorder. Popular off-label as a cognitive enhancer. Mechanism distinct from
   traditional stimulants.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Modafinil
 type: drug
-updated: '2026-04-17T18:59:19.421852Z'
+updated: '2026-04-19T18:22:20.220744Z'
 ---
 
 {% raw %}
@@ -37,6 +37,10 @@ updated: '2026-04-17T18:59:19.421852Z'
 <li><strong>Depression-associated fatigue</strong>: Adjunct to antidepressants for residual fatigue/cognitive slowing</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a><br />
+RELATED::<a href="/entities/supplement/alpha-gpc/" class="internal-link">Alpha-GPC</a><br />
+RELATED::<a href="/entities/supplement/citicoline/" class="internal-link">Citicoline</a></p>
 <h3>Interacts With</h3>
 <p>INTERACTS_WITH::<a href="/entities/supplement/ashwagandha/" class="internal-link">Ashwagandha</a></p>
 <h3>Modulates Neurotransmitter</h3>
@@ -51,9 +55,5 @@ AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/hypothalamus/" class="internal-
 <h3>Improves Function</h3>
 <p>IMPROVES_FUNCTION::<a href="/entities/cognitivefunction/attention-and-focus/" class="internal-link">Attention and Focus</a><br />
 IMPROVES_FUNCTION::<a href="/entities/cognitivefunction/executive-function/" class="internal-link">Executive Function</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a><br />
-RELATED::<a href="/entities/supplement/alpha-gpc/" class="internal-link">Alpha-GPC</a><br />
-RELATED::<a href="/entities/supplement/citicoline/" class="internal-link">Citicoline</a></p>
 
 {% endraw %}

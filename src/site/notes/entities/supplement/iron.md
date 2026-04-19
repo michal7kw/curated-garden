@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.150580Z'
+created: '2026-04-19T18:22:22.291030Z'
 description: Essential trace mineral critical for oxygen transport, energy production,
   and neurotransmitter synthesis. Required cofactor for numerous enzymes including
   those in dopamine and serotonin pathways.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Iron
 type: supplement
-updated: '2026-04-17T18:59:21.150580Z'
+updated: '2026-04-19T18:22:22.291030Z'
 ---
 
 {% raw %}
@@ -37,15 +37,15 @@ updated: '2026-04-17T18:59:21.150580Z'
 <li><strong>Monitoring</strong>: Check ferritin levels; supplement only when deficient to avoid iron overload</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Interacts With</h3>
-<p>INTERACTS_WITH::<a href="/entities/drug/levothyroxine/" class="internal-link">Levothyroxine</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/supplement/zinc/" class="internal-link">Zinc</a><br />
 RELATED::<a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin C</a><br />
 RELATED::<a href="/entities/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a></p>
+<h3>Interacts With</h3>
+<p>INTERACTS_WITH::<a href="/entities/drug/levothyroxine/" class="internal-link">Levothyroxine</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
-AFFECTS_BIOMARKER::<a href="/entities/labtest/ferritin/" class="internal-link">Ferritin</a><br />
+<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/hemoglobin/" class="internal-link">hemoglobin</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/ferritin/" class="internal-link">ferritin</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/biomarker/transferrin-saturation/" class="internal-link">Transferrin Saturation</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/biomarker/tibc/" class="internal-link">Tibc</a></p>
 <h3>May Improve Condition</h3>
@@ -55,8 +55,8 @@ MAY_IMPROVE_CONDITION::<a href="/entities/condition/cognitive-dysfunction/" clas
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/immune-system-disorder/" class="internal-link">Immune System Disorder</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/sleep-disorder/" class="internal-link">Sleep Disorder</a></p>
 <h3>Targets Biomarker</h3>
-<p>TARGETS_BIOMARKER::<a href="/entities/labtest/ferritin/" class="internal-link">Ferritin</a><br />
-TARGETS_BIOMARKER::<a href="/entities/labtest/hemoglobin/" class="internal-link">Hemoglobin</a></p>
+<p>TARGETS_BIOMARKER::<a href="/entities/labtest/ferritin/" class="internal-link">ferritin</a><br />
+TARGETS_BIOMARKER::<a href="/entities/labtest/hemoglobin/" class="internal-link">hemoglobin</a></p>
 <h3>Affects Organ</h3>
 <p>AFFECTS_ORGAN::<a href="/entities/organ/blood/" class="internal-link">Blood</a> (hemoglobin synthesis for oxygen transport, Evidence Level 1a)<br />
 AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a> (cofactor for tyrosine and tryptophan hydroxylase, Evidence Level 1a)<br />

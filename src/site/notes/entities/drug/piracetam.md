@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.445858Z'
+created: '2026-04-19T18:22:20.247531Z'
 description: The original nootropic drug, a cyclic derivative of GABA. Enhances membrane
   fluidity and modulates neurotransmission. Used in Europe for cognitive disorders;
   not approved in US.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Piracetam
 type: drug
-updated: '2026-04-17T18:59:19.445858Z'
+updated: '2026-04-19T18:22:20.247531Z'
 ---
 
 {% raw %}
@@ -29,6 +29,5 @@ updated: '2026-04-17T18:59:19.445858Z'
 <h3>Related</h3>
 <p>INTERACTS_WITH::<a href="/entities/drug/imipramine/" class="internal-link">Imipramine</a></p>
 <h3>Interacts With</h3>
-<p>INTERACTS_WITH::<a href="/entities/drug/imipramine/" class="internal-link">Imipramine</a></p>
 
 {% endraw %}

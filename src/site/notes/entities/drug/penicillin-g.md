@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.442383Z'
+created: '2026-04-19T18:22:20.242363Z'
 description: A narrow-spectrum antibiotic used to treat serious bacterial infections
   caused by susceptible organisms, typically administered by injection.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Penicillin G
 type: drug
-updated: '2026-04-17T18:59:19.442383Z'
+updated: '2026-04-19T18:22:20.242363Z'
 ---
 
 {% raw %}
@@ -27,13 +27,13 @@ updated: '2026-04-17T18:59:19.442383Z'
 <h2>Clinical Significance</h2>
 <p>Penicillin G remains the drug of choice for several important infections: all stages of syphilis (Treponema pallidum), group A streptococcal pharyngitis complications, rheumatic fever prophylaxis, infective endocarditis caused by viridans streptococci, meningococcal meningitis (susceptible strains), actinomycosis, and gas gangrene (Clostridium perfringens). Its narrow spectrum is an advantage in targeted therapy, reducing collateral damage to commensal microbiota. Limitations include acid instability (requiring parenteral administration), susceptibility to beta-lactamases, and hypersensitivity reactions (approximately 1-10% of patients), including rare anaphylaxis. Cross-reactivity with other beta-lactams must be considered in allergic patients.</p>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>INTERACTS_WITH::<a href="/entities/drug/penicillin-v/" class="internal-link">Penicillin V</a></p>
 <h3>Treats</h3>
 <p>TREATS::<a class="internal-link is-unresolved" href="/404">Bacterial Infection</a><br />
 TREATS::<a class="internal-link is-unresolved" href="/404">Syphilis</a> (Drug of choice for all stages, benzathine formulation, Evidence Level 1a)<br />
 TREATS::<a class="internal-link is-unresolved" href="/404">Streptococcal Infection</a> (Group A strep pharyngitis and sequelae, Evidence Level 1a)<br />
 TREATS::<a class="internal-link is-unresolved" href="/404">Infective Endocarditis</a> (Viridans streptococcal endocarditis, Evidence Level 1b)</p>
-<h3>Related</h3>
-<p>INTERACTS_WITH::<a href="/entities/drug/penicillin-v/" class="internal-link">Penicillin V</a></p>
 <h3>Enriched</h3>
 <p>TARGETS::<a class="internal-link is-unresolved" href="/404">Penicillin-Binding Proteins</a> (Irreversible inhibition of transpeptidases, Evidence Level 1a)<br />
 SAME_CLASS_AS::<a href="/entities/drug/penicillin-v/" class="internal-link">Penicillin V</a> (Natural penicillins differing in acid stability and route, Evidence Level 1a)<br />

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.682654Z'
+created: '2026-04-19T18:22:21.723299Z'
 description: The pathological process of excessive tau protein phosphorylation leading
   to microtubule destabilization, tau aggregation, and neurofibrillary tangle formation.
   Central to Alzheimer's disease and other tauopathies.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Tau Phosphorylation
 type: pathway
-updated: '2026-04-17T18:59:20.682654Z'
+updated: '2026-04-19T18:22:21.723299Z'
 ---
 
 {% raw %}

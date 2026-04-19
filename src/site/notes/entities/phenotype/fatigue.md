@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.722784Z'
+created: '2026-04-19T18:22:21.761539Z'
 description: A subjective feeling of tiredness or lack of energy that is not proportional
   to recent activity level.
 dg-home: false
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Fatigue
 type: phenotype
-updated: '2026-04-17T18:59:20.722784Z'
+updated: '2026-04-19T18:22:21.761539Z'
 ---
 
 {% raw %}
@@ -22,9 +22,9 @@ updated: '2026-04-17T18:59:20.722784Z'
 <p>A subjective feeling of tiredness or lack of energy that is not proportional to recent activity level.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
+<p>RELATED::<a href="/entities/labtest/hemoglobin/" class="internal-link">hemoglobin</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Pontiac fever</a><br />
-RELATED::<a href="/entities/labtest/tsh/" class="internal-link">Tsh</a><br />
+RELATED::<a href="/entities/labtest/tsh/" class="internal-link">tsh</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">cystic echinococcosis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">hereditary pheochromocytoma-paraganglioma</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">insulin-resistance syndrome</a><br />
@@ -42,7 +42,7 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Chronic fatigue</a><
 RELATED::<a class="internal-link is-unresolved" href="/404">acute interstitial pneumonia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">typhoid fever</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">non-secreting paraganglioma</a><br />
-RELATED::<a href="/entities/labtest/ferritin/" class="internal-link">Ferritin</a><br />
+RELATED::<a href="/entities/labtest/ferritin/" class="internal-link">ferritin</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Ehlers-Danlos syndrome due to tenascin-X deficiency</a><br />
 RELATED::<a href="/entities/supplement/vitamin-b12/" class="internal-link">Vitamin B12</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">methylmalonic aciduriaacidemia and homocystinuria</a><br />

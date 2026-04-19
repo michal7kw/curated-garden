@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.582442Z'
+created: '2026-04-19T18:22:21.592139Z'
 description: The hypothesis that amyloid-beta accumulation is the primary initiating
   event in Alzheimer's disease, triggering downstream tau pathology, neuroinflammation,
   synaptic dysfunction, and neuronal death.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Amyloid Cascade
 type: pathway
-updated: '2026-04-17T18:59:20.582442Z'
+updated: '2026-04-19T18:22:21.592139Z'
 ---
 
 {% raw %}
@@ -30,7 +30,7 @@ RELATED::<a href="/entities/gene/app/" class="internal-link">APP</a><br />
 RELATED::<a href="/entities/gene/psen1/" class="internal-link">PSEN1</a><br />
 RELATED::<a href="/entities/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal Pathway</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Donanemab</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Amyloid-Beta 4240 Ratio</a><br />
+RELATED::<a href="/entities/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta 4240 Ratio</a><br />
 RELATED::<a href="/entities/intervention/sleep-optimization/" class="internal-link">Sleep Optimization</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Aging</a><br />
 RELATED::<a href="/entities/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a><br />
@@ -38,7 +38,7 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Lecanemab</a><br />
 RELATED::<a href="/entities/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Amyloid PET Imaging</a><br />
-RELATED::<a href="/entities/gene/apoe/" class="internal-link">ApoE</a><br />
+RELATED::<a href="/entities/gene/apoe/" class="internal-link">APOE</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Cerebral Amyloid Angiopathy</a><br />
 RELATED::<a href="/entities/biomarker/neuron-derived-exosome-biomarkers/" class="internal-link">Neuron-Derived Exosome Biomarkers</a><br />
 RELATED::<a href="/entities/pathway/tau-phosphorylation/" class="internal-link">Tau Phosphorylation</a><br />

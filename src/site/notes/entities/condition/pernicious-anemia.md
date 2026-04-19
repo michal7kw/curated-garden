@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.002282Z'
+created: '2026-04-19T18:22:19.818054Z'
 description: An autoimmune condition characterized by the body's inability to absorb
   Vitamin B12 due to a lack of intrinsic factor, leading to megaloblastic anemia and
   neurological issues.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Pernicious Anemia
 type: condition
-updated: '2026-04-17T18:59:19.002282Z'
+updated: '2026-04-19T18:22:19.818054Z'
 ---
 
 {% raw %}
@@ -46,8 +46,8 @@ updated: '2026-04-17T18:59:19.002282Z'
 <p>RELATED::<a href="/entities/labtest/methylmalonic-acid/" class="internal-link">methylmalonic acid</a></p>
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/supplement/vitamin-b12/" class="internal-link">Vitamin B12</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/homocysteine/" class="internal-link">Homocysteine</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/hemoglobin/" class="internal-link">hemoglobin</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a><br />
 ASSOCIATED_WITH::<a href="/entities/supplement/folate/" class="internal-link">Folate</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/rbc/" class="internal-link">Rbc</a></p>
 <h3>Improved By Supplement</h3>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.927275Z'
+created: '2026-04-19T18:22:22.014150Z'
 description: Neurotrophin essential for the survival, growth, and maintenance of sympathetic,
   sensory, and basal forebrain cholinergic neurons. First neurotrophin discovered
   (Rita Levi-Montalcini, 1986 Nobel Prize). Stimulated by PQQ in astrocytes, modulated
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Nerve Growth Factor
 type: protein
-updated: '2026-04-17T18:59:20.927275Z'
+updated: '2026-04-19T18:22:22.014150Z'
 ---
 
 {% raw %}
@@ -83,16 +83,16 @@ updated: '2026-04-17T18:59:20.927275Z'
 <li><strong>Nicotine and neuroprotection</strong>: Nicotine enhances neuroprotection partly through modulation of neurotrophin signaling including NGF (PMID:27234147)</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
-AFFECTS_ORGAN::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a></p>
-<h3>Modulated By</h3>
-<p>MODULATED_BY::<a href="/entities/drug/nicotine/" class="internal-link">Nicotine</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/condition/cognitive-dysfunction/" class="internal-link">Cognitive_Dysfunction</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a><br />
 RELATED::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br />
 RELATED::<a href="/entities/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a></p>
+<h3>Affects Organ</h3>
+<p>AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
+AFFECTS_ORGAN::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a></p>
+<h3>Modulated By</h3>
+<p>MODULATED_BY::<a href="/entities/drug/nicotine/" class="internal-link">Nicotine</a></p>
 <h3>Participates In Pathway</h3>
 <p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/basal-forebrain-cholinergic-pathway/" class="internal-link">Basal_Forebrain_Cholinergic_Pathway</a></p>
 <h3>Stimulated By</h3>

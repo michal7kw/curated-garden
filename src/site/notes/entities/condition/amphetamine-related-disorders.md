@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.213760Z'
+created: '2026-04-19T18:22:19.410583Z'
 description: A group of disorders resulting from the use of amphetamine-type stimulants,
   including intoxication, withdrawal, and use disorder.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Amphetamine-Related Disorders
 type: condition
-updated: '2026-04-17T18:59:18.213760Z'
+updated: '2026-04-19T18:22:19.410583Z'
 ---
 
 {% raw %}
@@ -23,11 +23,10 @@ updated: '2026-04-17T18:59:18.213760Z'
 <p>A group of disorders resulting from the use of amphetamine-type stimulants, including intoxication, withdrawal, and use disorder.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/condition/amphetamine-related-disorders/" class="internal-link">Amphetamine-Related Disorders</a></p>
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/biomarker/troponin/" class="internal-link">Troponin</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 ASSOCIATED_WITH::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
 ASSOCIATED_WITH::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a></p>
 <h3>Improved By Supplement</h3>

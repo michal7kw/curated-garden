@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.478227Z'
+created: '2026-04-19T18:22:21.453510Z'
 description: Primary end product of nitrogen metabolism in mammals, produced by the
   urea cycle in the liver. Allows safe excretion of toxic ammonia from amino acid
   catabolism. Excreted by the kidneys; blood urea nitrogen (BUN) is a common clinical
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Urea
 type: metabolite
-updated: '2026-04-17T18:59:20.478227Z'
+updated: '2026-04-19T18:22:21.453510Z'
 ---
 
 {% raw %}

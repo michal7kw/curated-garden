@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.634919Z'
+created: '2026-04-19T18:22:19.623888Z'
 description: A partial or total inability to hear sound in one or both ears, ranging
   from mild to profound.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Hearing Loss
 type: condition
-updated: '2026-04-17T18:59:18.634919Z'
+updated: '2026-04-19T18:22:19.623888Z'
 ---
 
 {% raw %}
@@ -44,7 +44,7 @@ AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Auditory Nerve
 </ul>
 <h2>Relationships</h2>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/homocysteine/" class="internal-link">Homocysteine</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a><br />
 ASSOCIATED_WITH::<a href="/entities/supplement/folate/" class="internal-link">Folate</a><br />
 ASSOCIATED_WITH::<a href="/entities/supplement/vitamin-b12/" class="internal-link">Vitamin B12</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>

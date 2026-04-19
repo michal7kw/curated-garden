@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.498047Z'
+created: '2026-04-19T18:22:20.324215Z'
 description: Multimodal antidepressant (Trintellix/Brintellix) that combines SERT
   inhibition with direct modulation of multiple serotonin receptors — 5-HT3 antagonist,
   5-HT7 antagonist, 5-HT1D antagonist, 5-HT1B partial agonist, and 5-HT1A agonist.
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Vortioxetine
 type: drug
-updated: '2026-04-17T18:59:19.498047Z'
+updated: '2026-04-19T18:22:20.324215Z'
 ---
 
 {% raw %}

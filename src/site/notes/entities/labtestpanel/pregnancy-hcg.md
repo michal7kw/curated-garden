@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.421961Z'
+created: '2026-04-19T18:22:21.392378Z'
 description: This test will help determine if you are pregnant.
 dg-home: false
 dg-publish: true
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: pregnancy_hcg
 type: labtestpanel
-updated: '2026-04-17T18:59:20.421961Z'
+updated: '2026-04-19T18:22:21.392378Z'
 ---
 
 {% raw %}

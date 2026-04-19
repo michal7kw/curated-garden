@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.557070Z'
+created: '2026-04-19T18:22:19.001686Z'
 description: Chloride is the primary anion in the extracellular fluid and a major
   electrolyte. It works alongside sodium and potassium to maintain osmotic pressure,
   fluid balance, and the acid-base (pH) status of the body.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Chloride
 type: biomarker
-updated: '2026-04-17T18:59:17.557070Z'
+updated: '2026-04-19T18:22:19.001686Z'
 ---
 
 {% raw %}
@@ -23,6 +23,13 @@ updated: '2026-04-17T18:59:17.557070Z'
 <h2>Overview</h2>
 <p>Chloride is the primary anion in the extracellular fluid and a major electrolyte. It works alongside sodium and potassium to maintain osmotic pressure, fluid balance, and the acid-base (pH) status of the body.</p>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/condition/adrenal-disease/" class="internal-link">Adrenal_Disease</a><br />
+RELATED::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Gastroenteritis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic_Acidosis_Or_Alkalosis</a><br />
+RELATED::<a href="/entities/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a></p>
 <h3>Correlated With</h3>
 <p>CORRELATED_WITH::<a href="/entities/labtest/blood-urea-nitrogen/" class="internal-link">Blood Urea Nitrogen</a><br />
 CORRELATED_WITH::<a href="/entities/labtest/sodium/" class="internal-link">Sodium</a><br />
@@ -41,12 +48,5 @@ ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-kidney-disease/"
 <h3>May Detect</h3>
 <p>MAY_DETECT::<a href="/entities/condition/adrenal-disease/" class="internal-link">Adrenal_Disease</a><br />
 MAY_DETECT::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/condition/adrenal-disease/" class="internal-link">Adrenal_Disease</a><br />
-RELATED::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Dehydration</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Gastroenteritis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic_Acidosis_Or_Alkalosis</a><br />
-RELATED::<a href="/entities/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive_metabolic_panel</a></p>
 
 {% endraw %}

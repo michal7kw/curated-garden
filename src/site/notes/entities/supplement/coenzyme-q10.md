@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.104142Z'
+created: '2026-04-19T18:22:22.224864Z'
 description: Mitochondrial cofactor supporting cellular energy production
 dg-home: false
 dg-publish: true
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Coenzyme Q10
 type: supplement
-updated: '2026-04-17T18:59:21.104142Z'
+updated: '2026-04-19T18:22:22.224864Z'
 ---
 
 {% raw %}
@@ -54,7 +54,7 @@ updated: '2026-04-17T18:59:21.104142Z'
 <td>0</td>
 </tr>
 <tr>
-<td><a href="/entities/labtest/bnp/" class="internal-link">BNP</a></td>
+<td><a href="/entities/labtest/bnp/" class="internal-link">bnp</a></td>
 <td>Decreases</td>
 <td>moderate</td>
 <td>(0/5)</td>
@@ -108,7 +108,7 @@ MAY_IMPROVE_CONDITION::<a href="/entities/condition/cardiovascular-disease/" cla
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a></p>
 <h3>Targets Biomarker</h3>
-<p>TARGETS_BIOMARKER::<a href="/entities/labtest/bnp/" class="internal-link">BNP</a><br />
+<p>TARGETS_BIOMARKER::<a href="/entities/labtest/bnp/" class="internal-link">bnp</a><br />
 TARGETS_BIOMARKER::<a href="/entities/biomarker/creatine-kinase/" class="internal-link">Creatine Kinase</a><br />
 TARGETS_BIOMARKER::<a href="/entities/labtest/oxidized-ldl/" class="internal-link">Oxidized LDL</a><br />
 TARGETS_BIOMARKER::<a href="/entities/biomarker/troponin/" class="internal-link">Troponin</a></p>

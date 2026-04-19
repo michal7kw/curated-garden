@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.110844Z'
+created: '2026-04-19T18:22:22.234537Z'
 description: Amino acid derivative supporting ATP regeneration in muscles and brain
 dg-home: false
 dg-publish: true
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Creatine
 type: supplement
-updated: '2026-04-17T18:59:21.110844Z'
+updated: '2026-04-19T18:22:22.234537Z'
 ---
 
 {% raw %}
@@ -30,7 +30,7 @@ updated: '2026-04-17T18:59:21.110844Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/creatinine/" class="internal-link">creatinine</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/biomarker/creatine-kinase/" class="internal-link">Creatine Kinase</a></p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/sarcopenia/" class="internal-link">Sarcopenia</a><br />
@@ -41,7 +41,7 @@ MAY_IMPROVE_CONDITION::<a href="/entities/condition/neuromuscular-disorder/" cla
 <h3>Targets Biomarker</h3>
 <p>TARGETS_BIOMARKER::<a href="/entities/labtest/blood-urea-nitrogen/" class="internal-link">Blood Urea Nitrogen</a></p>
 <h3>Merged From drug</h3>
-<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/homocysteine/" class="internal-link">Homocysteine</a><br />
+<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a><br />
 AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
 AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a><br />
 AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Muscle</a><br />

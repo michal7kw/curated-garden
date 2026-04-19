@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.976856Z'
+created: '2026-04-19T18:22:20.924026Z'
 description: Tested twice a year Think of the H in HDL as healthy, helpful, heart-supporting
   cholesterol. HDL's primary job is to remove excess cholesterol from the blood and
   transport it to the liver to be eliminated, reducing the risk of cardiovascular
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: hdl_cholesterol
 type: labtest
-updated: '2026-04-17T18:59:19.976856Z'
+updated: '2026-04-19T18:22:20.924026Z'
 ---
 
 {% raw %}
@@ -67,9 +67,6 @@ updated: '2026-04-17T18:59:19.976856Z'
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/entities/labtestpanel/extended-heart-metabolic/" class="internal-link">extended heart metabolic</a><br />
-INCLUDED_IN::<a href="/entities/labtestpanel/genetic-heart-risks/" class="internal-link">genetic heart risks</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Obesity</a><br />
@@ -79,6 +76,9 @@ RELATED::<a href="/entities/labtestpanel/extended-heart-metabolic/" class="inter
 RELATED::<a href="/entities/biomarker/hdl/" class="internal-link">Hdl</a><br />
 RELATED::<a href="/entities/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Atherosclerosis</a></p>
+<h3>Included In</h3>
+<p>INCLUDED_IN::<a href="/entities/labtestpanel/extended-heart-metabolic/" class="internal-link">extended heart metabolic</a><br />
+INCLUDED_IN::<a href="/entities/labtestpanel/genetic-heart-risks/" class="internal-link">genetic heart risks</a></p>
 <h3>May Detect</h3>
 <p>MAY_DETECT::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
 MAY_DETECT::<a href="/entities/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a><br />

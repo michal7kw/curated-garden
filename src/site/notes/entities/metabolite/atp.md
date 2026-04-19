@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.430642Z'
+created: '2026-04-19T18:22:21.406967Z'
 description: Adenosine triphosphate, the universal energy currency of all living cells.
   Provides the energy for virtually all cellular processes including muscle contraction,
   nerve transmission, and biosynthesis.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: ATP
 type: metabolite
-updated: '2026-04-17T18:59:20.430642Z'
+updated: '2026-04-19T18:22:21.406967Z'
 ---
 
 {% raw %}
@@ -20,8 +20,6 @@ updated: '2026-04-17T18:59:20.430642Z'
 <h2>Overview</h2>
 <p>Adenosine triphosphate, the universal energy currency of all living cells. Provides the energy for virtually all cellular processes including muscle contraction, nerve transmission, and biosynthesis.</p>
 <h2>Relationships</h2>
-<h3>Produced By</h3>
-<p>PRODUCED_BY::<a href="/entities/metabolite/phosphocreatine/" class="internal-link">Phosphocreatine</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
 RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
@@ -36,6 +34,8 @@ PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/oxidative-phosphorylation/" 
 PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/citric-acid-cycle/" class="internal-link">Citric Acid Cycle</a><br />
 PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/glycolysis/" class="internal-link">Glycolysis</a><br />
 RELATED::<a href="/entities/metabolite/nicotinamide-riboside/" class="internal-link">Nicotinamide Riboside</a></p>
+<h3>Produced By</h3>
+<p>PRODUCED_BY::<a href="/entities/metabolite/phosphocreatine/" class="internal-link">Phosphocreatine</a></p>
 <h3>Regulates</h3>
 <p>REGULATES::<a href="/entities/protein/ampk/" class="internal-link">AMPK</a></p>
 <h3>Converted To</h3>

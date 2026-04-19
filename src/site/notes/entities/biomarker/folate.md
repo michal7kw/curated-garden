@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.649434Z'
+created: '2026-04-19T18:22:19.053749Z'
 description: B-vitamin essential for DNA synthesis. Important for pregnancy and cardiovascular
   health.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: Folate
 type: biomarker
-updated: '2026-04-17T18:59:17.649434Z'
+updated: '2026-04-19T18:22:19.053749Z'
 ---
 
 {% raw %}
@@ -88,7 +88,7 @@ updated: '2026-04-17T18:59:17.649434Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/labtest/homocysteine/" class="internal-link">Homocysteine</a><br />
+<p>RELATED::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a><br />
 RELATED::<a href="/entities/supplement/vitamin-b12/" class="internal-link">Vitamin B12</a><br />
 RELATED::<a href="/entities/biomarker/mthfr-c677t/" class="internal-link">Mthfr C677T</a><br />
 RELATED::<a href="/entities/biomarker/mthfr-a1298c/" class="internal-link">Mthfr A1298C</a></p>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.439094Z'
+created: '2026-04-19T18:22:19.524078Z'
 description: A medical condition characterized by either a deficiency or an excess
   (toxicity) of copper, an essential trace mineral required for various physiological
   processes.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Copper Imbalance
 type: condition
-updated: '2026-04-17T18:59:18.439094Z'
+updated: '2026-04-19T18:22:19.524078Z'
 ---
 
 {% raw %}
@@ -46,7 +46,7 @@ updated: '2026-04-17T18:59:18.439094Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/supplement/zinc/" class="internal-link">zinc</a></p>
+<p>RELATED::<a href="/entities/supplement/zinc/" class="internal-link">Zinc</a></p>
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/biomarker/copper/" class="internal-link">Copper</a><br />
 ASSOCIATED_WITH::<a href="/entities/supplement/zinc/" class="internal-link">Zinc</a><br />

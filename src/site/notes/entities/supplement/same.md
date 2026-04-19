@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.242914Z'
+created: '2026-04-19T18:22:22.436869Z'
 description: S-Adenosyl-L-methionine - the body's universal methyl donor. Essential
   for neurotransmitter synthesis, DNA methylation, and cartilage formation. FDA-approved
   for osteoarthritis; used for depression in Europe.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: SAMe
 type: supplement
-updated: '2026-04-17T18:59:21.242914Z'
+updated: '2026-04-19T18:22:22.436869Z'
 ---
 
 {% raw %}
@@ -42,7 +42,7 @@ updated: '2026-04-17T18:59:21.242914Z'
 <p>INTERACTS_WITH::<a href="/entities/drug/sertraline/" class="internal-link">Sertraline</a><br />
 INTERACTS_WITH::<a href="/entities/drug/fluoxetine/" class="internal-link">Fluoxetine</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/homocysteine/" class="internal-link">Homocysteine</a><br />
+<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/biomarker/alanine-transaminase/" class="internal-link">Alanine Transaminase</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/biomarker/aspartate-aminotransferase/" class="internal-link">Aspartate Aminotransferase</a></p>

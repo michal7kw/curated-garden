@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.487793Z'
+created: '2026-04-19T18:22:20.308519Z'
 description: First-in-class oral Janus kinase (JAK) inhibitor approved for RA. Preferentially
   inhibits JAK1 and JAK3, blocking signaling from multiple cytokines (IL-2, IL-4,
   IL-6, IL-7, IL-9, IL-15, IL-21). Oral small molecule alternative to biologic DMARDs.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Tofacitinib
 type: drug
-updated: '2026-04-17T18:59:19.487793Z'
+updated: '2026-04-19T18:22:20.308519Z'
 ---
 
 {% raw %}
@@ -34,7 +34,7 @@ updated: '2026-04-17T18:59:19.487793Z'
 <p>MODULATES_PATHWAY::<a href="/entities/pathway/jak-stat-signaling-pathway/" class="internal-link">JAK-STAT Signaling Pathway</a></p>
 <h3>Decreases Biomarker</h3>
 <p>DECREASES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a><br />
-DECREASES_BIOMARKER::<a href="/entities/labtest/esr/" class="internal-link">ESR</a></p>
+DECREASES_BIOMARKER::<a href="/entities/labtest/esr/" class="internal-link">esr</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:23258234</li>

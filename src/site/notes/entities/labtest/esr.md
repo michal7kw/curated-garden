@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.935619Z'
+created: '2026-04-19T18:22:20.858574Z'
 description: Non-specific marker of inflammation. Used in monitoring inflammatory
   conditions.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: esr
 type: labtest
-updated: '2026-04-17T18:59:19.935619Z'
+updated: '2026-04-19T18:22:20.858574Z'
 ---
 
 {% raw %}
@@ -57,8 +57,7 @@ updated: '2026-04-17T18:59:19.935619Z'
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<p>MEASURES::<a href="/entities/labtest/esr/" class="internal-link">ESR</a><br />
-RELATED::<a href="/entities/condition/inflammation/" class="internal-link">Inflammation</a></p>
+<p>RELATED::<a href="/entities/condition/inflammation/" class="internal-link">Inflammation</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

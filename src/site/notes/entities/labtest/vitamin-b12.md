@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.303369Z'
+created: '2026-04-19T18:22:21.276297Z'
 description: Essential for nerve function and red blood cell production. Deficiency
   common in vegans and elderly.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: vitamin_b12
 type: labtest
-updated: '2026-04-17T18:59:20.303369Z'
+updated: '2026-04-19T18:22:21.276297Z'
 ---
 
 {% raw %}
@@ -53,7 +53,7 @@ updated: '2026-04-17T18:59:20.303369Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/entities/supplement/vitamin-b12/" class="internal-link">vitamin b12</a></li>
+<li><a href="/entities/supplement/vitamin-b12/" class="internal-link">Vitamin B12</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>

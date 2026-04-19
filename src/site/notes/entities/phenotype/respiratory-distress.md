@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.772220Z'
+created: '2026-04-19T18:22:21.817057Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Respiratory distress
 type: phenotype
-updated: '2026-04-17T18:59:20.772220Z'
+updated: '2026-04-19T18:22:21.817057Z'
 ---
 
 {% raw %}
@@ -37,7 +37,7 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Lyell syndrome</a><b
 RELATED::<a class="internal-link is-unresolved" href="/404">hereditary angioedema</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">methylmalonic aciduriaacidemia and homocystinuria</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">torsion dystonia</a><br />
-RELATED::<a href="/entities/condition/severe-acute-respiratory-syndrome/" class="internal-link">severe acute respiratory syndrome</a><br />
+RELATED::<a href="/entities/condition/severe-acute-respiratory-syndrome/" class="internal-link">Severe Acute Respiratory Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">myotonic dystrophy</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">congenital pulmonary lymphangiectasia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">arterial calcification of infancy</a><br />

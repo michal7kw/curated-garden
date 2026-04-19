@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.138568Z'
+created: '2026-04-19T18:22:21.111868Z'
 description: EPA+DHA as percentage of red blood cell membranes. Target >8% for cardiovascular
   protection.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: omega3_index
 type: labtest
-updated: '2026-04-17T18:59:20.138568Z'
+updated: '2026-04-19T18:22:21.111868Z'
 ---
 
 {% raw %}
@@ -53,9 +53,9 @@ updated: '2026-04-17T18:59:20.138568Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/entities/labtest/omega3-index/" class="internal-link">omega3 index</a></li>
-<li><a href="/entities/biomarker/epa/" class="internal-link">epa</a></li>
-<li><a href="/entities/biomarker/dha/" class="internal-link">dha</a></li>
+<li><a href="/entities/labtest/omega3-index/" class="internal-link">Omega3 Index</a></li>
+<li><a href="/entities/biomarker/epa/" class="internal-link">Epa</a></li>
+<li><a href="/entities/biomarker/dha/" class="internal-link">Dha</a></li>
 <li><a class="internal-link is-unresolved" href="/404">aa epa ratio</a></li>
 </ul>
 <h2>Recommended For</h2>
@@ -67,9 +67,9 @@ updated: '2026-04-17T18:59:20.138568Z'
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/biomarker/dha/" class="internal-link">dha</a><br />
+<p>RELATED::<a href="/entities/biomarker/dha/" class="internal-link">Dha</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">aa epa ratio</a><br />
-RELATED::<a href="/entities/biomarker/epa/" class="internal-link">epa</a></p>
+RELATED::<a href="/entities/biomarker/epa/" class="internal-link">Epa</a></p>
 <h3>Enriched</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
 INDICATES::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />

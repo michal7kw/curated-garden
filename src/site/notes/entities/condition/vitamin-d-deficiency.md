@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.114579Z'
+created: '2026-04-19T18:22:19.353808Z'
 description: A condition characterized by inadequate levels of vitamin D in the body,
   which is essential for calcium absorption, bone health, and immune function.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Vitamin D Deficiency
 type: condition
-updated: '2026-04-17T18:59:18.114579Z'
+updated: '2026-04-19T18:22:19.353808Z'
 ---
 
 {% raw %}
@@ -84,6 +84,20 @@ updated: '2026-04-17T18:59:18.114579Z'
 <li><strong>Monitoring</strong>: Recheck 25(OH)D at 8-12 weeks after initiating supplementation; then every 6-12 months during maintenance; also monitor serum calcium, phosphate, and PTH (PTH should normalize as vitamin D levels reach sufficiency); 24-hour urine calcium if using high-dose supplementation long-term (to detect hypercalciuria before symptomatic kidney stones develop)</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/supplement/vitamin-k2/" class="internal-link">Vitamin K2</a><br />
+RELATED::<a href="/entities/condition/osteoporosis/" class="internal-link">Osteoporosis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Calcium Homeostasis</a><br />
+RELATED::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Immune Dysfunction</a><br />
+RELATED::<a href="/entities/organ/immune-system/" class="internal-link">Immune System</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Vitamin D3</a><br />
+RELATED::<a href="/entities/labtest/alkaline-phosphatase-alp/" class="internal-link">alkaline phosphatase alp</a><br />
+RELATED::<a href="/entities/labtest/calcium/" class="internal-link">Calcium</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">25-OH Vitamin D</a><br />
+RELATED::<a href="/entities/organ/bones/" class="internal-link">Bones</a><br />
+RELATED::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a><br />
+RELATED::<a href="/entities/condition/depression/" class="internal-link">Depression</a></p>
 <h3>Requires Biomarker</h3>
 <p>REQUIRES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">25-OH Vitamin D</a></p>
 <h3>Increases Risk For</h3>
@@ -99,19 +113,5 @@ IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="interna
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-k2/" class="internal-link">Vitamin K2</a></p>
 <h3>Modulated By Pathway</h3>
 <p>MODULATED_BY_PATHWAY::<a class="internal-link is-unresolved" href="/404">Calcium Homeostasis</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/supplement/vitamin-k2/" class="internal-link">Vitamin K2</a><br />
-RELATED::<a href="/entities/condition/osteoporosis/" class="internal-link">Osteoporosis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Calcium Homeostasis</a><br />
-RELATED::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Immune Dysfunction</a><br />
-RELATED::<a href="/entities/organ/immune-system/" class="internal-link">Immune System</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Vitamin D3</a><br />
-RELATED::<a href="/entities/labtest/alkaline-phosphatase-alp/" class="internal-link">alkaline phosphatase alp</a><br />
-RELATED::<a href="/entities/labtest/calcium/" class="internal-link">calcium</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">25-OH Vitamin D</a><br />
-RELATED::<a href="/entities/organ/bones/" class="internal-link">Bones</a><br />
-RELATED::<a href="/entities/supplement/vitamin-d/" class="internal-link">vitamin d</a><br />
-RELATED::<a href="/entities/condition/depression/" class="internal-link">Depression</a></p>
 
 {% endraw %}

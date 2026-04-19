@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.196603Z'
+created: '2026-04-19T18:22:22.380866Z'
 description: Docosahexaenoic acid, a long-chain omega-3 fatty acid that is the primary
   structural component of brain cell membranes. Essential for brain development, cognitive
   function, and neuroprotection throughout life.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Omega-3 DHA
 type: supplement
-updated: '2026-04-17T18:59:21.196603Z'
+updated: '2026-04-19T18:22:22.380866Z'
 ---
 
 {% raw %}
@@ -61,9 +61,7 @@ RELATED::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/inflammation/" class="internal-link">Inflammation</a><br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/attention-deficit-hyperactivity-disorder/" class="internal-link">Attention Deficit Hyperactivity Disorder</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/omega-fatty-acid-imbalance/" class="internal-link">Omega Fatty Acid Imbalance</a></p>
 <h3>Affects Organ</h3>

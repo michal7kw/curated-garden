@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.592570Z'
+created: '2026-04-19T18:22:19.600895Z'
 description: A type of diabetes that develops during pregnancy in women who did not
   already have diabetes, caused by placental hormones blocking insulin action.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Gestational Diabetes
 type: condition
-updated: '2026-04-17T18:59:18.592570Z'
+updated: '2026-04-19T18:22:19.600895Z'
 ---
 
 {% raw %}
@@ -23,11 +23,10 @@ updated: '2026-04-17T18:59:18.592570Z'
 <p>A type of diabetes that develops during pregnancy in women who did not already have diabetes, caused by placental hormones blocking insulin action.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/condition/gestational-diabetes/" class="internal-link">Gestational Diabetes</a></p>
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/biomarker/glucose-fasting/" class="internal-link">Glucose Fasting</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/hba1c/" class="internal-link">Hba1C</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/homa-ir/" class="internal-link">Homa Ir</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/c-peptide/" class="internal-link">C-Peptide</a></p>
 <h3>Improved By Supplement</h3>

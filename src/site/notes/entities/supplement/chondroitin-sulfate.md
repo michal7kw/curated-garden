@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.086629Z'
+created: '2026-04-19T18:22:22.212023Z'
 description: Major glycosaminoglycan component of articular cartilage. Provides structural
   support and water retention. Anti-inflammatory via NF-kB, IL-1beta, and MMP inhibition.
   Pharmaceutical-grade chondroitin sulfate (Condrosulf) has best evidence.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Chondroitin Sulfate
 type: supplement
-updated: '2026-04-17T18:59:21.086629Z'
+updated: '2026-04-19T18:22:22.212023Z'
 ---
 
 {% raw %}

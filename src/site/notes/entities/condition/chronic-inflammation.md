@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.037205Z'
+created: '2026-04-19T18:22:19.311665Z'
 description: Chronic inflammation is a prolonged inflammatory response that can last
   for weeks, months, or even years. It is characterized by the simultaneous active
   inflammation, tissue destruction, and attempts at healing.
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Chronic Inflammation
 type: condition
-updated: '2026-04-17T18:59:18.037205Z'
+updated: '2026-04-19T18:22:19.311665Z'
 ---
 
 {% raw %}
@@ -68,22 +68,6 @@ updated: '2026-04-17T18:59:18.037205Z'
 <li><strong>Monitoring</strong>: Repeat hs-CRP and ESR every 3-6 months to assess treatment response; omega-6:omega-3 ratio if supplementing; homocysteine if B-vitamin supplementation initiated</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Requires Biomarker</h3>
-<p>REQUIRES_BIOMARKER::<a href="/entities/labtest/esr/" class="internal-link">ESR</a><br />
-REQUIRES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a><br />
-REQUIRES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a><br />
-REQUIRES_BIOMARKER::<a href="/entities/labtest/homocysteine/" class="internal-link">Homocysteine</a><br />
-REQUIRES_BIOMARKER::<a href="/entities/labtest/fibrinogen/" class="internal-link">Fibrinogen</a></p>
-<h3>Increases Risk For</h3>
-<p>INCREASES_RISK_FOR::<a href="/entities/condition/cancer/" class="internal-link">Cancer</a><br />
-INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Alzheimers Disease</a><br />
-INCREASES_RISK_FOR::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></p>
-<h3>Improved By Supplement</h3>
-<p>IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Fish Oil</a><br />
-IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a><br />
-IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a></p>
-<h3>Modulated By Pathway</h3>
-<p>MODULATED_BY_PATHWAY::<a href="/entities/pathway/nf-kb-pathway/" class="internal-link">NF-kB Pathway</a></p>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Fish Oil</a><br />
 RELATED::<a href="/entities/labtest/iron-binding-capacity/" class="internal-link">iron binding capacity</a><br />
@@ -92,17 +76,16 @@ RELATED::<a href="/entities/pathway/nf-kb-pathway/" class="internal-link">NF-kB 
 RELATED::<a href="/entities/condition/diabetes/" class="internal-link">Diabetes</a><br />
 RELATED::<a href="/entities/labtest/monocytes/" class="internal-link">monocytes</a><br />
 RELATED::<a href="/entities/labtest/omega-3-total/" class="internal-link">omega 3 total</a><br />
-RELATED::<a href="/entities/labtest/esr/" class="internal-link">ESR</a><br />
+RELATED::<a href="/entities/labtest/esr/" class="internal-link">esr</a><br />
 RELATED::<a href="/entities/labtest/omega-6-omega-3-ratio/" class="internal-link">omega 6 omega 3 ratio</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">hs-CRP</a><br />
 RELATED::<a href="/entities/labtest/platelet-count/" class="internal-link">platelet count</a><br />
 RELATED::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
-RELATED::<a href="/entities/labtest/homocysteine/" class="internal-link">Homocysteine</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">hs-CRP</a><br />
+RELATED::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a><br />
 RELATED::<a href="/entities/labtest/arachidonic-acid-epa-ratio/" class="internal-link">arachidonic acid epa ratio</a><br />
 RELATED::<a href="/entities/labtest/red-cell-distribution-width-rdw/" class="internal-link">red cell distribution width rdw</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers Disease</a><br />
-RELATED::<a href="/entities/supplement/iron/" class="internal-link">iron</a><br />
+RELATED::<a href="/entities/supplement/iron/" class="internal-link">Iron</a><br />
 RELATED::<a href="/entities/labtest/lymphocytes/" class="internal-link">lymphocytes</a><br />
 RELATED::<a href="/entities/labtest/white-blood-cell-count/" class="internal-link">white blood cell count</a><br />
 RELATED::<a href="/entities/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a><br />
@@ -111,7 +94,7 @@ RELATED::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin
 RELATED::<a href="/entities/labtest/omega-6-linoleic-acid/" class="internal-link">omega 6 linoleic acid</a><br />
 RELATED::<a href="/entities/labtest/protein-urine/" class="internal-link">protein urine</a><br />
 RELATED::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
-RELATED::<a href="/entities/labtest/fibrinogen/" class="internal-link">Fibrinogen</a><br />
+RELATED::<a href="/entities/labtest/fibrinogen/" class="internal-link">fibrinogen</a><br />
 RELATED::<a href="/entities/labtest/basophils/" class="internal-link">basophils</a><br />
 RELATED::<a href="/entities/intervention/red-light-therapy/" class="internal-link">Red Light Therapy</a><br />
 RELATED::<a href="/entities/labtest/neutrophils/" class="internal-link">neutrophils</a><br />
@@ -126,6 +109,21 @@ RELATED::<a href="/entities/drug/turmeric/" class="internal-link">Turmeric</a><b
 RELATED::<a href="/entities/labtest/high-sensitivity-c-reactive-protein-hs-crp/" class="internal-link">high sensitivity c reactive protein hs crp</a><br />
 RELATED::<a href="/entities/supplement/creatine/" class="internal-link">Creatine</a><br />
 RELATED::<a href="/entities/clinicalpattern/cardiovascular-risk-pattern/" class="internal-link">Cardiovascular Risk Pattern</a></p>
+<h3>Requires Biomarker</h3>
+<p>REQUIRES_BIOMARKER::<a href="/entities/labtest/esr/" class="internal-link">esr</a><br />
+REQUIRES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a><br />
+REQUIRES_BIOMARKER::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a><br />
+REQUIRES_BIOMARKER::<a href="/entities/labtest/fibrinogen/" class="internal-link">fibrinogen</a></p>
+<h3>Increases Risk For</h3>
+<p>INCREASES_RISK_FOR::<a href="/entities/condition/cancer/" class="internal-link">Cancer</a><br />
+INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Alzheimers Disease</a><br />
+INCREASES_RISK_FOR::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></p>
+<h3>Improved By Supplement</h3>
+<p>IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Fish Oil</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a></p>
+<h3>Modulated By Pathway</h3>
+<p>MODULATED_BY_PATHWAY::<a href="/entities/pathway/nf-kb-pathway/" class="internal-link">NF-kB Pathway</a></p>
 <h3>Associated With Condition</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/diabetes/" class="internal-link">Diabetes</a></p>
 <h3>Treated By Drug</h3>

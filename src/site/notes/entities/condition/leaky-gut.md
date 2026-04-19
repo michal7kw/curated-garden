@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.729151Z'
+created: '2026-04-19T18:22:19.678820Z'
 description: Increased intestinal permeability allowing bacterial endotoxins (LPS),
   undigested food particles, and antigens to cross the gut barrier into systemic circulation.
   Triggers immune activation and chronic low-grade inflammation. Formally termed "increased
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Leaky Gut
 type: condition
-updated: '2026-04-17T18:59:18.729151Z'
+updated: '2026-04-19T18:22:19.678820Z'
 ---
 
 {% raw %}
@@ -52,7 +52,7 @@ AFFECTS_ORGAN::<a href="/entities/organ/liver/" class="internal-link">Liver</a><
 AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
 RELATED::<a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a></p>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/zonulin/" class="internal-link">Zonulin</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/zonulin/" class="internal-link">zonulin</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/calprotectin/" class="internal-link">Calprotectin</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/interleukin-6/" class="internal-link">Interleukin 6</a></p>

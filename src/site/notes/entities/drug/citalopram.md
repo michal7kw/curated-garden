@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.309912Z'
+created: '2026-04-19T18:22:20.088997Z'
 description: SSRI antidepressant (Celexa) that is the most pharmacologically selective
   SERT inhibitor — minimal off-target receptor binding and fewest CYP-mediated drug
   interactions among SSRIs. Available as racemic mixture (R- and S-enantiomers). Key
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Citalopram
 type: drug
-updated: '2026-04-17T18:59:19.309912Z'
+updated: '2026-04-19T18:22:20.088997Z'
 ---
 
 {% raw %}

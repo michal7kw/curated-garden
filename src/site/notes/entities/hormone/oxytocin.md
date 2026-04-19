@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.663962Z'
+created: '2026-04-19T18:22:20.506960Z'
 description: Nonapeptide hormone synthesized in the hypothalamus (paraventricular
   and supraoptic nuclei) and released from the posterior pituitary. Beyond its classical
   roles in labor and lactation, oxytocin is a key mediator of social bonding, trust,
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Oxytocin
 type: hormone
-updated: '2026-04-17T18:59:19.663962Z'
+updated: '2026-04-19T18:22:20.506960Z'
 ---
 
 {% raw %}
@@ -32,7 +32,7 @@ updated: '2026-04-17T18:59:19.663962Z'
 RELATED::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
 RELATED::<a href="/entities/hormone/progesterone/" class="internal-link">Progesterone</a><br />
 RELATED::<a href="/entities/hormone/estrogen/" class="internal-link">Estrogen</a><br />
-RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 RELATED::<a href="/entities/anatomy/hypothalamus/" class="internal-link">Hypothalamus</a></p>
 
 {% endraw %}

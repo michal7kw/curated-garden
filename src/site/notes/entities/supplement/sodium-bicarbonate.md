@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.259366Z'
+created: '2026-04-19T18:22:22.447285Z'
 description: Extracellular pH buffer that enhances exercise performance by counteracting
   blood acidosis during high-intensity repeated efforts, allowing greater work output
   before fatigue.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Sodium Bicarbonate
 type: supplement
-updated: '2026-04-17T18:59:21.259366Z'
+updated: '2026-04-19T18:22:22.447285Z'
 ---
 
 {% raw %}
@@ -54,13 +54,13 @@ updated: '2026-04-17T18:59:21.259366Z'
 <li><strong>Advantage</strong>: Better tolerated, sustained buffering capacity</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/metabolite/lactate/" class="internal-link">Lactate</a></p>
 <h3>Affects Biomarker</h3>
 <p>AFFECTS_BIOMARKER::<a href="/entities/metabolite/lactate/" class="internal-link">Lactate</a></p>
 <h3>Synergistic With</h3>
 <p>SYNERGISTIC_WITH::<a href="/entities/supplement/creatine/" class="internal-link">Creatine</a><br />
 SYNERGISTIC_WITH::<a href="/entities/supplement/beta-alanine/" class="internal-link">Beta-Alanine</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/metabolite/lactate/" class="internal-link">Lactate</a></p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic_Kidney_Disease</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/acid-base-imbalance/" class="internal-link">Acid-Base_Imbalance</a></p>

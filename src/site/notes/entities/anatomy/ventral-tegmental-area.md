@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.426795Z'
+created: '2026-04-19T18:22:18.912485Z'
 description: Midbrain dopaminergic nucleus and origin of the mesolimbic and mesocortical
   dopamine pathways. Central to reward processing, motivation, reinforcement learning,
   and addiction. Contains dopamine neurons projecting to nucleus accumbens and prefrontal
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Ventral Tegmental Area
 type: anatomy
-updated: '2026-04-17T18:59:17.426795Z'
+updated: '2026-04-19T18:22:18.912485Z'
 ---
 
 {% raw %}

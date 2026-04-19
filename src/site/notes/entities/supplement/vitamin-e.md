@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.318995Z'
+created: '2026-04-19T18:22:22.521395Z'
 description: Fat-soluble antioxidant family consisting of tocopherols and tocotrienols.
   Protects cell membranes from oxidative damage. Full-spectrum forms preferred over
   synthetic alpha-tocopherol.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Vitamin E
 type: supplement
-updated: '2026-04-17T18:59:21.318995Z'
+updated: '2026-04-19T18:22:22.521395Z'
 ---
 
 {% raw %}
@@ -31,14 +31,14 @@ updated: '2026-04-17T18:59:21.318995Z'
 <h2>Dosage</h2>
 <p>100-400 IU daily of mixed tocopherols</p>
 <h2>Relationships</h2>
-<h3>Interacts With</h3>
-<p>INTERACTS_WITH::<a href="/entities/drug/aspirin/" class="internal-link">Aspirin</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/supplement/omega-3-dha/" class="internal-link">Omega-3 DHA</a><br />
 RELATED::<a href="/entities/intervention/mediterranean-diet/" class="internal-link">Mediterranean Diet</a><br />
 RELATED::<a href="/entities/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a><br />
 RELATED::<a href="/entities/clinicalpattern/liver-stress-pattern/" class="internal-link">Liver Stress Pattern</a><br />
 RELATED::<a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin C</a></p>
+<h3>Interacts With</h3>
+<p>INTERACTS_WITH::<a href="/entities/drug/aspirin/" class="internal-link">Aspirin</a></p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/nafld/" class="internal-link">NAFLD</a><br />

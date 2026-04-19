@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.727453Z'
+created: '2026-04-19T18:22:20.601875Z'
 description: Secular attention-training practice derived from Buddhist Vipassana tradition.
   Involves non-judgmental present-moment awareness of thoughts, sensations, and emotions.
   Distinct from other meditation forms in its emphasis on metacognitive awareness
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Mindfulness Meditation
 type: intervention
-updated: '2026-04-17T18:59:19.727453Z'
+updated: '2026-04-19T18:22:20.601875Z'
 ---
 
 {% raw %}
@@ -52,11 +52,10 @@ updated: '2026-04-17T18:59:19.727453Z'
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/intervention/meditation/" class="internal-link">Meditation</a><br />
 RELATED::<a href="/entities/intervention/yoga/" class="internal-link">Yoga</a><br />
-MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 RELATED::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a></p>
 <h3>Modulates Hormone</h3>
-<p>MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
-MODULATES_HORMONE::<a href="/entities/hormone/melatonin/" class="internal-link">Melatonin</a></p>
+<p>MODULATES_HORMONE::<a href="/entities/hormone/melatonin/" class="internal-link">Melatonin</a></p>
 <h3>Affects Brain Region</h3>
 <p>AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a><br />
 AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/amygdala/" class="internal-link">Amygdala</a><br />
@@ -67,7 +66,7 @@ AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/insula/" class="internal-link">
 IMPROVES_FUNCTION::<a href="/entities/cognitivefunction/emotional-regulation/" class="internal-link">Emotional Regulation</a><br />
 IMPROVES_FUNCTION::<a href="/entities/cognitivefunction/executive-function/" class="internal-link">Executive Function</a></p>
 <h3>Affects Cellular Component</h3>
-<p>AFFECTS_CELLULAR_COMPONENT::<a href="/entities/cellularcomponent/telomere/" class="internal-link">Telomere</a></p>
+<p>AFFECTS::<a href="/entities/cellularcomponent/telomere/" class="internal-link">Telomere</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:25783612</li>

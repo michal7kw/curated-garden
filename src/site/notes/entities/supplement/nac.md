@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.185153Z'
+created: '2026-04-19T18:22:22.361951Z'
 description: N-Acetyl Cysteine, a powerful antioxidant precursor that boosts glutathione
   production. Supports liver detoxification, respiratory health, and has emerging
   applications for mental health.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: NAC
 type: supplement
-updated: '2026-04-17T18:59:21.185153Z'
+updated: '2026-04-19T18:22:22.361951Z'
 ---
 
 {% raw %}
@@ -37,21 +37,18 @@ updated: '2026-04-17T18:59:21.185153Z'
 <li><strong>Cofactors</strong>: Vitamin C enhances NAC's antioxidant effect; molybdenum supports sulfur metabolism</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/entities/organ/liver/" class="internal-link">Liver</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/lungs/" class="internal-link">Lungs</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin C</a><br />
 MODULATES_PATHWAY::<a href="/entities/pathway/pentose-phosphate-pathway/" class="internal-link">Pentose Phosphate Pathway</a><br />
 RELATED::<a href="/entities/protein/nrf2/" class="internal-link">NRF2</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/lungs/" class="internal-link">Lungs</a><br />
 MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/glutamate/" class="internal-link">Glutamate</a><br />
 RELATED::<a href="/entities/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a><br />
 RELATED::<a href="/entities/supplement/glycine/" class="internal-link">Glycine</a><br />
-RELATED::<a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/liver/" class="internal-link">Liver</a></p>
+RELATED::<a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a></p>
+<h3>Affects Organ</h3>
+<p>AFFECTS_ORGAN::<a href="/entities/organ/liver/" class="internal-link">Liver</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/lungs/" class="internal-link">Lungs</a></p>
 <h3>Synergistic With</h3>
 <p>SYNERGISTIC_WITH::<a href="/entities/supplement/glycine/" class="internal-link">Glycine</a><br />
 SYNERGISTIC_WITH::<a href="/entities/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a><br />
@@ -64,7 +61,6 @@ AFFECTS_BIOMARKER::<a href="/entities/biomarker/aspartate-aminotransferase/" cla
 <h3>Increases Metabolite</h3>
 <p>INCREASES_METABOLITE::<a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a></p>
 <h3>Modulates Neurotransmitter</h3>
-<p>MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/glutamate/" class="internal-link">Glutamate</a></p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/liver-disease/" class="internal-link">Liver Disease</a><br />
@@ -74,7 +70,7 @@ MAY_IMPROVE_CONDITION::<a href="/entities/condition/depression/" class="internal
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/pcos/" class="internal-link">PCOS</a></p>
 <h3>Targets Biomarker</h3>
 <p>TARGETS_BIOMARKER::<a href="/entities/biomarker/8-ohdg/" class="internal-link">8-OHdG</a><br />
-TARGETS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Acute Kidney Injury Markers</a><br />
+TARGETS_BIOMARKER::<a href="/entities/biomarker/acute-kidney-injury-markers/" class="internal-link">Acute Kidney Injury Markers</a><br />
 TARGETS_BIOMARKER::<a href="/entities/biomarker/alanine-transaminase/" class="internal-link">Alanine Transaminase</a><br />
 TARGETS_BIOMARKER::<a href="/entities/biomarker/aspartate-aminotransferase/" class="internal-link">Aspartate Aminotransferase</a><br />
 TARGETS_BIOMARKER::<a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a><br />

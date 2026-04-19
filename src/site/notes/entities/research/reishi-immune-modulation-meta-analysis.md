@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.008242Z'
+created: '2026-04-19T18:22:22.118740Z'
 description: Meta-analysis and systematic review of randomized controlled trials examining
   the immunomodulatory effects of Ganoderma lucidum (Reishi) supplementation, focusing
   on NK cell activity, cytokine profiles, and immune cell counts.
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Reishi Immune Modulation Meta-Analysis
 type: research
-updated: '2026-04-17T18:59:21.008242Z'
+updated: '2026-04-19T18:22:22.118740Z'
 ---
 
 {% raw %}
@@ -51,14 +51,14 @@ updated: '2026-04-17T18:59:21.008242Z'
 <h3>Studies Supplement</h3>
 <p>STUDIES_SUPPLEMENT::<a href="/entities/supplement/reishi/" class="internal-link">Reishi</a></p>
 <h3>Related Compounds</h3>
-<p>RELATED_TO::<a href="/entities/metabolite/ganoderic-acids/" class="internal-link">Ganoderic Acids</a><br />
-RELATED_TO::<a href="/entities/metabolite/beta-glucans/" class="internal-link">Beta-Glucans</a></p>
+<p>RELATED::<a href="/entities/metabolite/ganoderic-acids/" class="internal-link">Ganoderic Acids</a><br />
+RELATED::<a href="/entities/metabolite/beta-glucans/" class="internal-link">Beta-Glucans</a></p>
 <h3>Affected Biomarkers</h3>
 <p>AFFECTS_BIOMARKER::<a href="/entities/labtest/interleukin-6/" class="internal-link">Interleukin 6</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/labtest/tnf-alpha/" class="internal-link">TNF Alpha</a></p>
 <h3>Related Conditions</h3>
-<p>RELATED_TO::<a href="/entities/condition/immune-system-disorder/" class="internal-link">Immune System Disorder</a><br />
-RELATED_TO::<a href="/entities/condition/cancer/" class="internal-link">Cancer</a><br />
-RELATED_TO::<a href="/entities/condition/inflammation/" class="internal-link">Inflammation</a></p>
+<p>RELATED::<a href="/entities/condition/immune-system-disorder/" class="internal-link">Immune System Disorder</a><br />
+RELATED::<a href="/entities/condition/cancer/" class="internal-link">Cancer</a><br />
+RELATED::<a href="/entities/condition/inflammation/" class="internal-link">Inflammation</a></p>
 
 {% endraw %}

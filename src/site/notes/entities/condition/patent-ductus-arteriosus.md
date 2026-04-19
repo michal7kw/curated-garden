@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.981464Z'
+created: '2026-04-19T18:22:19.807329Z'
 description: A congenital heart defect where the ductus arteriosus, a blood vessel
   connecting the pulmonary artery to the aorta, fails to close after birth.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Patent Ductus Arteriosus
 type: condition
-updated: '2026-04-17T18:59:18.981464Z'
+updated: '2026-04-19T18:22:19.807329Z'
 ---
 
 {% raw %}
@@ -23,12 +23,11 @@ updated: '2026-04-17T18:59:18.981464Z'
 <p>A congenital heart defect where the ductus arteriosus, a blood vessel connecting the pulmonary artery to the aorta, fails to close after birth.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/condition/patent-ductus-arteriosus/" class="internal-link">Patent Ductus Arteriosus</a></p>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/bnp/" class="internal-link">BNP</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/bnp/" class="internal-link">bnp</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/troponin/" class="internal-link">Troponin</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/hemoglobin/" class="internal-link">Hemoglobin</a></p>
+ASSOCIATED_WITH::<a href="/entities/labtest/hemoglobin/" class="internal-link">hemoglobin</a></p>
 <h3>Improved By Supplement</h3>
 <p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
 IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">CoQ10</a></p>

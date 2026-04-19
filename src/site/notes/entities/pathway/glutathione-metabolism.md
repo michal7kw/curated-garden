@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.628800Z'
+created: '2026-04-19T18:22:21.651337Z'
 description: The metabolic pathway governing synthesis, recycling, and utilization
   of glutathione (GSH), the cell's primary intracellular antioxidant. Includes de
   novo synthesis from cysteine, glycine, and glutamate via gamma-glutamylcysteine
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Glutathione Metabolism
 type: pathway
-updated: '2026-04-17T18:59:20.628800Z'
+updated: '2026-04-19T18:22:21.651337Z'
 ---
 
 {% raw %}
@@ -39,16 +39,16 @@ updated: '2026-04-17T18:59:20.628800Z'
 <li><strong>N-Acetyl Cysteine (NAC)</strong> -- cysteine donor that bypasses rate-limiting step</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Associated With</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/supplement/glutathione/" class="internal-link">glutathione</a></p>
-<h3>Modulated By Supplement</h3>
-<p>MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/glutathione/" class="internal-link">glutathione</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin_C</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/selenium/" class="internal-link">selenium</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/nac/" class="internal-link">NAC</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/pathway/nrf2-pathway/" class="internal-link">Nrf2_Pathway</a><br />
 RELATED::<a href="/entities/pathway/electron-transport-chain/" class="internal-link">Electron_Transport_Chain</a></p>
+<h3>Associated With</h3>
+<p>ASSOCIATED_WITH::<a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a></p>
+<h3>Modulated By Supplement</h3>
+<p>MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/alpha-lipoic-acid/" class="internal-link">Alpha_Lipoic_Acid</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin_C</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/selenium/" class="internal-link">Selenium</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/nac/" class="internal-link">NAC</a></p>
 
 {% endraw %}

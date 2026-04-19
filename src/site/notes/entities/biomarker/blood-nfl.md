@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.531107Z'
+created: '2026-04-19T18:22:18.980303Z'
 description: Serum or plasma neurofilament light chain measurement using ultrasensitive
   immunoassays. A universal blood biomarker for neurodegeneration with applications
   across multiple neurological diseases.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Blood NfL
 type: biomarker
-updated: '2026-04-17T18:59:17.531107Z'
+updated: '2026-04-19T18:22:18.980303Z'
 ---
 
 {% raw %}
@@ -24,10 +24,6 @@ updated: '2026-04-17T18:59:17.531107Z'
 <h2>Overview</h2>
 <p>Serum or plasma neurofilament light chain measurement using ultrasensitive immunoassays. A universal blood biomarker for neurodegeneration with applications across multiple neurological diseases.</p>
 <h2>Relationships</h2>
-<h3>Indicates Organ Health</h3>
-<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/brain/" class="internal-link">Brain</a> (universal blood biomarker for neuroaxonal injury across multiple neurological diseases, Evidence Level 1a)</p>
-<h3>Increases Risk For</h3>
-<p>INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Neurodegeneration</a> (when elevated, Evidence Level 1a)</p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/biomarker/gfap/" class="internal-link">GFAP</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal Dementia</a><br />
@@ -47,5 +43,9 @@ RELATED::<a href="/entities/biomarker/plasma-p-tau217/" class="internal-link">Pl
 RELATED::<a href="/entities/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers Disease</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/multiple-sclerosis/" class="internal-link">Multiple Sclerosis</a></p>
+<h3>Indicates Organ Health</h3>
+<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/brain/" class="internal-link">Brain</a> (universal blood biomarker for neuroaxonal injury across multiple neurological diseases, Evidence Level 1a)</p>
+<h3>Increases Risk For</h3>
+<p>INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Neurodegeneration</a> (when elevated, Evidence Level 1a)</p>
 
 {% endraw %}

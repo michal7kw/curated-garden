@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.295041Z'
+created: '2026-04-19T18:22:22.490472Z'
 description: Essential vitamin for neurological function and red blood cell formation
 dg-home: false
 dg-publish: true
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Vitamin B12
 type: supplement
-updated: '2026-04-17T18:59:21.295041Z'
+updated: '2026-04-19T18:22:22.490472Z'
 ---
 
 {% raw %}
@@ -48,7 +48,7 @@ updated: '2026-04-17T18:59:21.295041Z'
 <td>2</td>
 </tr>
 <tr>
-<td><a href="/entities/labtest/homocysteine/" class="internal-link">Homocysteine</a></td>
+<td><a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a></td>
 <td>Decreases</td>
 <td>moderate (15-30% reduction)</td>
 <td>⭐⭐⭐⭐ (4/5)</td>
@@ -62,7 +62,7 @@ updated: '2026-04-17T18:59:21.295041Z'
 <td>2</td>
 </tr>
 <tr>
-<td><a href="/entities/labtest/hemoglobin/" class="internal-link">Hemoglobin</a></td>
+<td><a href="/entities/labtest/hemoglobin/" class="internal-link">hemoglobin</a></td>
 <td>Increases</td>
 <td>moderate (1-2 g/dL)</td>
 <td>⭐⭐⭐⭐ (4/5)</td>
@@ -112,11 +112,11 @@ updated: '2026-04-17T18:59:21.295041Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Interacts With</h3>
-<p>INTERACTS_WITH::<a href="/entities/drug/metformin/" class="internal-link">Metformin</a></p>
+<p>INTERACTS_WITH::<a href="/entities/drug/metformin/" class="internal-link">METFORMIN</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/homocysteine/" class="internal-link">Homocysteine</a><br />
+<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/biomarker/mcv/" class="internal-link">Mcv</a><br />
-AFFECTS_BIOMARKER::<a href="/entities/labtest/hemoglobin/" class="internal-link">Hemoglobin</a></p>
+AFFECTS_BIOMARKER::<a href="/entities/labtest/hemoglobin/" class="internal-link">hemoglobin</a></p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/b-vitamin-deficiency/" class="internal-link">B Vitamin Deficiency</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/pernicious-anemia/" class="internal-link">Pernicious Anemia</a><br />
@@ -126,8 +126,8 @@ MAY_IMPROVE_CONDITION::<a href="/entities/condition/depression/" class="internal
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/mthfr-gene-variants/" class="internal-link">MTHFR Gene Variants</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a></p>
 <h3>Targets Biomarker</h3>
-<p>TARGETS_BIOMARKER::<a href="/entities/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
-TARGETS_BIOMARKER::<a href="/entities/labtest/homocysteine/" class="internal-link">Homocysteine</a></p>
+<p>TARGETS_BIOMARKER::<a href="/entities/labtest/hemoglobin/" class="internal-link">hemoglobin</a><br />
+TARGETS_BIOMARKER::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a></p>
 <h3>Affects Organ</h3>
 <p>AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a> (Essential cofactor for myelin synthesis and homocysteine metabolism; deficiency causes neuropsychiatric symptoms, Evidence Level 5a)<br />
 AFFECTS_ORGAN::<a href="/entities/organ/blood/" class="internal-link">Blood</a> (Required for red blood cell formation; deficiency causes megaloblastic anemia with macrocytosis, Evidence Level 5a)<br />

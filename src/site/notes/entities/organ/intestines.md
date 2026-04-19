@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.531235Z'
+created: '2026-04-19T18:22:21.523552Z'
 description: The long, continuous tube running from the stomach to the anus, comprising
   the small and large intestines. Critical for nutrient absorption, immune function,
   and housing the gut microbiome.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Intestines
 type: organ
-updated: '2026-04-17T18:59:20.531235Z'
+updated: '2026-04-19T18:22:21.523552Z'
 ---
 
 {% raw %}
@@ -45,12 +45,12 @@ updated: '2026-04-17T18:59:20.531235Z'
 <h2>Clinical Significance</h2>
 <p>Intestinal assessment includes stool analysis (calprotectin for inflammation, elastase for pancreatic sufficiency, occult blood for bleeding), serologic testing (anti-tTG and anti-endomysial antibodies for celiac disease), and breath tests (hydrogen/methane for SIBO and carbohydrate malabsorption). Endoscopy (upper GI endoscopy and colonoscopy) allows direct visualization, biopsy, and therapeutic interventions such as polypectomy. Capsule endoscopy images the small bowel segments not accessible by standard endoscopy. Probiotics (particularly Lactobacillus and Bifidobacterium strains) are widely used to support microbiome health, while L-glutamine supports enterocyte integrity, and butyrate (from fiber fermentation or supplementation) nourishes colonocytes and reduces intestinal inflammation.</p>
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/irritable-bowel-syndrome/" class="internal-link">Irritable Bowel Syndrome</a><br />
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/organ/gut/" class="internal-link">Gut</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/irritable-bowel-syndrome/" class="internal-link">Irritable Bowel Syndrome</a><br />
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Inflammatory Bowel Disease</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/celiac-disease/" class="internal-link">Celiac Disease</a><br />
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Colorectal Cancer</a><br />
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Small Intestinal Bacterial Overgrowth</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/organ/gut/" class="internal-link">Gut</a></p>
 
 {% endraw %}

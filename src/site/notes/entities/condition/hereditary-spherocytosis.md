@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.651728Z'
+created: '2026-04-19T18:22:19.633036Z'
 description: An inherited blood disorder characterized by spherical red blood cells
   that are fragile and prone to premature destruction in the spleen.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Hereditary Spherocytosis
 type: condition
-updated: '2026-04-17T18:59:18.651728Z'
+updated: '2026-04-19T18:22:19.633036Z'
 ---
 
 {% raw %}
@@ -25,8 +25,8 @@ updated: '2026-04-17T18:59:18.651728Z'
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/labtest/mean-corpuscular-hemoglobin-concentration-mchc/" class="internal-link">mean corpuscular hemoglobin concentration mchc</a></p>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/hematocrit/" class="internal-link">Hematocrit</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/hemoglobin/" class="internal-link">hemoglobin</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/hematocrit/" class="internal-link">hematocrit</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/rbc/" class="internal-link">Rbc</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/bilirubin/" class="internal-link">Bilirubin</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/lactate-dehydrogenase/" class="internal-link">Lactate Dehydrogenase</a></p>

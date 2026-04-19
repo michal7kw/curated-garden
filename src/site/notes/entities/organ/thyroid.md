@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.572707Z'
+created: '2026-04-19T18:22:21.583800Z'
 description: Butterfly-shaped endocrine gland that produces thyroid hormones (T3,
   T4) regulating metabolism, energy, growth, and development. Highly sensitive to
   nutrient status.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Thyroid
 type: organ
-updated: '2026-04-17T18:59:20.572707Z'
+updated: '2026-04-19T18:22:21.583800Z'
 ---
 
 {% raw %}
@@ -42,17 +42,16 @@ updated: '2026-04-17T18:59:20.572707Z'
 <h2>Clinical Significance</h2>
 <p>Thyroid function is assessed primarily through serum TSH (most sensitive screening test), free T4, and free T3. Anti-TPO and anti-thyroglobulin antibodies identify autoimmune thyroid disease. Thyroid ultrasound evaluates nodule size, characteristics (TI-RADS scoring), and guides fine-needle aspiration (FNA) biopsy for cytological assessment (Bethesda system). Radioactive iodine uptake (RAIU) scan differentiates causes of hyperthyroidism. Key nutrient dependencies include iodine (essential substrate for hormone synthesis; 150 mcg/day recommended for adults), selenium (required for deiodinase enzymes converting T4 to T3 and for glutathione peroxidase protecting against oxidative damage), zinc (involved in T3 binding to nuclear receptors), and L-tyrosine (amino acid backbone of thyroid hormones).</p>
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Hypothyroidism</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/hyperthyroidism/" class="internal-link">Hyperthyroidism</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Hashimoto's Thyroiditis</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Graves' Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/thyroid-cancer/" class="internal-link">Thyroid Cancer</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/supplement/selenium/" class="internal-link">Selenium</a><br />
 RELATED::<a href="/entities/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a><br />
 RELATED::<a href="/entities/condition/thyroid-dysfunction/" class="internal-link">Thyroid Dysfunction</a><br />
 RELATED::<a href="/entities/supplement/ashwagandha/" class="internal-link">Ashwagandha</a><br />
-RELATED::<a href="/entities/condition/thyroid-dysfunction/" class="internal-link">thyroid dysfunction</a><br />
-RELATED::<a href="/entities/supplement/zinc/" class="internal-link">Zinc</a></p>
+RELATED::<a href="/entities/supplement/zinc/" class="internal-link">Zinc</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Hypothyroidism</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/hyperthyroidism/" class="internal-link">Hyperthyroidism</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Hashimoto's Thyroiditis</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Graves' Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/thyroid-cancer/" class="internal-link">Thyroid Cancer</a></p>
 
 {% endraw %}

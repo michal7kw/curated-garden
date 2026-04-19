@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.229560Z'
+created: '2026-04-19T18:22:21.195383Z'
 description: Tested twice a year Sodium, an essential electrolyte commonly consumed
   as part of table salt (sodium chloride), plays a vital role in maintaining the body’s
   fluid balance, supporting nerve signaling, and enabling muscle contractions, including
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: sodium
 type: labtest
-updated: '2026-04-17T18:59:20.229560Z'
+updated: '2026-04-19T18:22:21.195383Z'
 ---
 
 {% raw %}
@@ -71,8 +71,7 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Dysfunction</
 RELATED::<a class="internal-link is-unresolved" href="/404">Fluid Imbalance Low Or High Sodium</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hormonal Imbalance Adrenal Or Thyroid</a></p>
 <h3>Enriched</h3>
-<p>MEASURES::<a href="/entities/labtest/sodium/" class="internal-link">Sodium</a><br />
-INDICATES::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a><br />
+<p>INDICATES::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a><br />
 INDICATES::<a href="/entities/condition/heart-failure/" class="internal-link">Heart Failure</a></p>
 <h2>Notes</h2>
 <ul>

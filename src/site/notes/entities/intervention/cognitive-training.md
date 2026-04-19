@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.684424Z'
+created: '2026-04-19T18:22:20.534533Z'
 description: Structured mental exercises designed to maintain or improve cognitive
   function. Includes memory training, processing speed exercises, and computerized
   brain training programs for dementia prevention.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Cognitive Training
 type: intervention
-updated: '2026-04-17T18:59:19.684424Z'
+updated: '2026-04-19T18:22:20.534533Z'
 ---
 
 {% raw %}
@@ -45,15 +45,6 @@ updated: '2026-04-17T18:59:19.684424Z'
 <li>Unrealistic expectations may cause frustration in dementia patients</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Modulates Biomarker</h3>
-<p>MODULATES_BIOMARKER::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a> (training-induced BDNF release supports synaptic plasticity, Evidence Level 2a)</p>
-<h3>Affects Brain Region</h3>
-<p>AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a> (memory training increases hippocampal activation and volume, Evidence Level 2a)<br />
-AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a> (working memory training strengthens PFC networks, Evidence Level 2a)<br />
-AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Parietal Cortex</a> (processing speed training enhances frontoparietal connectivity, Evidence Level 2b)</p>
-<h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a> (moderate effect on memory and executive function, Evidence Level 2a)<br />
-MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">ADHD</a> (working memory training shows small-moderate effects on attention, Evidence Level 2b)</p>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers Disease</a> (cognitive reserve delays clinical onset)<br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Age-Related Cognitive Decline</a><br />
@@ -63,5 +54,14 @@ RELATED::<a href="/entities/intervention/exercise/" class="internal-link">Exerci
 RELATED::<a href="/entities/intervention/mediterranean-diet/" class="internal-link">Mediterranean Diet</a> (nutritional support for neuroplasticity)<br />
 RELATED::<a href="/entities/supplement/bacopa-monnieri/" class="internal-link">Bacopa Monnieri</a> (nootropic complement to training)<br />
 RELATED::<a href="/entities/intervention/sleep-optimization/" class="internal-link">Sleep Optimization</a> (sleep consolidates training gains)</p>
+<h3>Modulates Biomarker</h3>
+<p>AFFECTS_BIOMARKER::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a> (training-induced BDNF release supports synaptic plasticity, Evidence Level 2a)</p>
+<h3>Affects Brain Region</h3>
+<p>AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a> (memory training increases hippocampal activation and volume, Evidence Level 2a)<br />
+AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a> (working memory training strengthens PFC networks, Evidence Level 2a)<br />
+AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Parietal Cortex</a> (processing speed training enhances frontoparietal connectivity, Evidence Level 2b)</p>
+<h3>May Improve Condition</h3>
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a> (moderate effect on memory and executive function, Evidence Level 2a)<br />
+MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">ADHD</a> (working memory training shows small-moderate effects on attention, Evidence Level 2b)</p>
 
 {% endraw %}

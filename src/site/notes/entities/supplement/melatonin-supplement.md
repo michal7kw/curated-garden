@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.178176Z'
+created: '2026-04-19T18:22:22.347127Z'
 description: Supplemental form of the sleep hormone melatonin. Supports sleep onset,
   jet lag, and circadian rhythm regulation. Also provides antioxidant benefits.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Melatonin Supplement
 type: supplement
-updated: '2026-04-17T18:59:21.178176Z'
+updated: '2026-04-19T18:22:22.347127Z'
 ---
 
 {% raw %}
@@ -29,6 +29,12 @@ updated: '2026-04-17T18:59:21.178176Z'
 <h2>Dosage</h2>
 <p>0.3-5 mg for sleep; higher for other purposes</p>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/supplement/l-theanine/" class="internal-link">L-Theanine</a><br />
+MODULATES_HORMONE::<a href="/entities/hormone/melatonin/" class="internal-link">Melatonin</a><br />
+MODULATES_NEUROTRANSMITTER::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
+RELATED::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
+RELATED::<a href="/entities/supplement/glycine/" class="internal-link">Glycine</a></p>
 <h3>Interacts With</h3>
 <p>INTERACTS_WITH::<a href="/entities/drug/metoprolol/" class="internal-link">Metoprolol</a></p>
 <h3>Modulates Neurotransmitter</h3>
@@ -36,14 +42,6 @@ updated: '2026-04-17T18:59:21.178176Z'
 <h3>Affects Organ</h3>
 <p>AFFECTS_ORGAN::<a href="/entities/organ/pineal-gland/" class="internal-link">Pineal Gland</a><br />
 AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
-<h3>Related</h3>
-<p>AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
-RELATED::<a href="/entities/supplement/l-theanine/" class="internal-link">L-Theanine</a><br />
-MODULATES_HORMONE::<a href="/entities/hormone/melatonin/" class="internal-link">Melatonin</a><br />
-MODULATES_NEUROTRANSMITTER::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
-RELATED::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/pineal-gland/" class="internal-link">Pineal Gland</a><br />
-RELATED::<a href="/entities/supplement/glycine/" class="internal-link">Glycine</a></p>
 <h3>Synergistic With</h3>
 <p>SYNERGISTIC_WITH::<a href="/entities/supplement/l-theanine/" class="internal-link">L-Theanine</a><br />
 SYNERGISTIC_WITH::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.324955Z'
+created: '2026-04-19T18:22:20.111162Z'
 description: Reversible acetylcholinesterase inhibitor. First-line symptomatic treatment
   for Alzheimer's disease.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Donepezil
 type: drug
-updated: '2026-04-17T18:59:19.324955Z'
+updated: '2026-04-19T18:22:20.111162Z'
 ---
 
 {% raw %}

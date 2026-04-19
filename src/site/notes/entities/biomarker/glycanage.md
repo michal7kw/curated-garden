@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.678954Z'
+created: '2026-04-19T18:22:19.072778Z'
 description: A biomarker test that measures biological age through the analysis of
   IgG glycosylation patterns, indicating levels of chronic inflammation.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: GlycanAge
 type: biomarker
-updated: '2026-04-17T18:59:17.678954Z'
+updated: '2026-04-19T18:22:19.072778Z'
 ---
 
 {% raw %}
@@ -25,16 +25,12 @@ updated: '2026-04-17T18:59:17.678954Z'
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Aging</a><br />
 RELATED::<a href="/entities/condition/inflammation/" class="internal-link">Inflammation</a></p>
 <h3>Affected By Supplement</h3>
-<ul>
-<li>-&gt; <a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/probiotics/" class="internal-link">Probiotics</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/resveratrol/" class="internal-link">Resveratrol</a> (supplement)</li>
-</ul>
+<p>AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/probiotics/" class="internal-link">Probiotics</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/resveratrol/" class="internal-link">Resveratrol</a></p>
 <h3>Measured By Test</h3>
-<ul>
-<li>-&gt; <a href="/entities/labtest/biological-age/" class="internal-link">biological age</a> (labtest)</li>
-</ul>
+<p>MEASURED_BY_TEST::<a href="/entities/labtest/biological-age/" class="internal-link">biological age</a></p>
 
 {% endraw %}

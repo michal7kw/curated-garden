@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.082325Z'
+created: '2026-04-19T18:22:22.207513Z'
 description: Proteolytic enzyme complex from pineapple stems. Anti-inflammatory via
   modulation of prostaglandin synthesis, bradykinin, and fibrin. Clinical evidence
   supports use for osteoarthritis pain (comparable to diclofenac in some trials) and
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Bromelain
 type: supplement
-updated: '2026-04-17T18:59:21.082325Z'
+updated: '2026-04-19T18:22:22.207513Z'
 ---
 
 {% raw %}

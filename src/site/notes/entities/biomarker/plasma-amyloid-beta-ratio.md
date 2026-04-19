@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.862593Z'
+created: '2026-04-19T18:22:19.168954Z'
 description: Blood-based measurement of amyloid-beta 42/40 ratio using mass spectrometry
   or immunoassay. Enables non-invasive screening for brain amyloid pathology with
   moderate accuracy.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Plasma Amyloid-Beta Ratio
 type: biomarker
-updated: '2026-04-17T18:59:17.862593Z'
+updated: '2026-04-19T18:22:19.168954Z'
 ---
 
 {% raw %}
@@ -24,20 +24,19 @@ updated: '2026-04-17T18:59:17.862593Z'
 <h2>Overview</h2>
 <p>Blood-based measurement of amyloid-beta 42/40 ratio using mass spectrometry or immunoassay. Enables non-invasive screening for brain amyloid pathology with moderate accuracy.</p>
 <h2>Relationships</h2>
-<h3>Indicates Organ Health</h3>
-<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/biomarker/gfap/" class="internal-link">GFAP</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Lumbar Puncture</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Amyloid-Beta 4240 Ratio</a><br />
+RELATED::<a href="/entities/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta 4240 Ratio</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Amyloid PET Imaging</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers Disease</a><br />
-RELATED::<a href="/entities/biomarker/plasma-amyloid-beta-ratio/" class="internal-link">Plasma Amyloid-Beta Ratio</a><br />
 RELATED::<a href="/entities/biomarker/plasma-p-tau217/" class="internal-link">Plasma p-tau217</a><br />
 RELATED::<a href="/entities/biomarker/neuron-derived-exosome-biomarkers/" class="internal-link">Neuron-Derived Exosome Biomarkers</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Cerebral Amyloid Angiopathy</a><br />
 RELATED::<a href="/entities/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a><br />
 RELATED::<a href="/entities/pathway/amyloid-cascade/" class="internal-link">Amyloid Cascade</a></p>
+<h3>Indicates Organ Health</h3>
+<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 
 {% endraw %}

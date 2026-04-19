@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.742107Z'
+created: '2026-04-19T18:22:20.623811Z'
 description: Red light therapy (RLT) is a therapeutic technique that uses red low-level
   wavelengths of light to treat skin issues, sleep problems, and chronic pain, among
   other things.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Red Light Therapy
 type: intervention
-updated: '2026-04-17T18:59:19.742107Z'
+updated: '2026-04-19T18:22:20.623811Z'
 ---
 
 {% raw %}
@@ -55,16 +55,6 @@ updated: '2026-04-17T18:59:19.742107Z'
 <li>Headache (rare, usually with transcranial application)</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Affects Cellular Component</h3>
-<p>AFFECTS_CELLULAR_COMPONENT::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (photons absorbed by cytochrome c oxidase, increasing ATP production 30-50%, Evidence Level 2a)</p>
-<h3>Modulates Biomarker</h3>
-<p>MODULATES_BIOMARKER::<a href="/entities/metabolite/atp/" class="internal-link">ATP</a> (enhanced mitochondrial electron transport chain function, Evidence Level 2a)<br />
-MODULATES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a> (anti-inflammatory effects reduce systemic inflammation, Evidence Level 2b)</p>
-<h3>Reduces Condition</h3>
-<p>REDUCES_CONDITION::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a> (reduced TNF-alpha, IL-6; increased IL-10, Evidence Level 2a)</p>
-<h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/chronic-pain/" class="internal-link">Chronic Pain</a> (moderate analgesic effect in musculoskeletal conditions, Evidence Level 1a)<br />
-MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Hypothyroidism</a> (improved thyroid function in Hashimoto's, Evidence Level 2b)</p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/metabolite/atp/" class="internal-link">ATP</a><br />
 RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />
@@ -72,5 +62,15 @@ RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-lin
 RELATED::<a href="/entities/intervention/sauna/" class="internal-link">Sauna</a> (complementary thermal and photonic therapy)<br />
 RELATED::<a href="/entities/intervention/cold-exposure/" class="internal-link">Cold Exposure</a> (contrast with cold; both are hormetic stressors)<br />
 RELATED::<a href="/entities/intervention/mitochondrial-uncoupling/" class="internal-link">Mitochondrial Uncoupling</a> (RLT enhances coupled mitochondrial respiration)</p>
+<h3>Affects Cellular Component</h3>
+<p>AFFECTS::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (photons absorbed by cytochrome c oxidase, increasing ATP production 30-50%, Evidence Level 2a)</p>
+<h3>Modulates Biomarker</h3>
+<p>AFFECTS_BIOMARKER::<a href="/entities/metabolite/atp/" class="internal-link">ATP</a> (enhanced mitochondrial electron transport chain function, Evidence Level 2a)<br />
+AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a> (anti-inflammatory effects reduce systemic inflammation, Evidence Level 2b)</p>
+<h3>Reduces Condition</h3>
+<p>REDUCES_CONDITION::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a> (reduced TNF-alpha, IL-6; increased IL-10, Evidence Level 2a)</p>
+<h3>May Improve Condition</h3>
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/chronic-pain/" class="internal-link">Chronic Pain</a> (moderate analgesic effect in musculoskeletal conditions, Evidence Level 1a)<br />
+MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Hypothyroidism</a> (improved thyroid function in Hashimoto's, Evidence Level 2b)</p>
 
 {% endraw %}

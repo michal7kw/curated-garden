@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.580906Z'
+created: '2026-04-19T18:22:19.016394Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/cortisol-am/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Cortisol (AM)
 type: biomarker
-updated: '2026-04-17T18:59:17.580906Z'
+updated: '2026-04-19T18:22:19.016394Z'
 ---
 
 {% raw %}

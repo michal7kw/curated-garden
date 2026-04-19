@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.758557Z'
+created: '2026-04-19T18:22:20.644495Z'
 description: Strategies to improve sleep quality, duration, and architecture for brain
   health. Adequate sleep supports glymphatic clearance of neurotoxins, memory consolidation,
   and cognitive function.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Sleep Optimization
 type: intervention
-updated: '2026-04-17T18:59:19.758557Z'
+updated: '2026-04-19T18:22:20.644495Z'
 ---
 
 {% raw %}
@@ -47,24 +47,6 @@ updated: '2026-04-17T18:59:19.758557Z'
 <li>Sleep restriction therapy (component of CBT-I): avoid in epilepsy, bipolar disorder, severe sleep apnea</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Modulates Pathway</h3>
-<p>MODULATES_PATHWAY::<a href="/entities/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (sleep deprivation increases neuroinflammatory markers, Evidence Level 2a)<br />
-MODULATES_PATHWAY::<a href="/entities/pathway/amyloid-cascade/" class="internal-link">Amyloid Cascade</a> (glymphatic clearance of amyloid-beta is sleep-dependent, Evidence Level 2a)</p>
-<h3>Modulates Hormone</h3>
-<p>MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a> (sleep regulates HPA axis and cortisol circadian rhythm, Evidence Level 1b)<br />
-MODULATES_HORMONE::<a href="/entities/hormone/melatonin/" class="internal-link">Melatonin</a> (darkness and circadian alignment optimize melatonin secretion, Evidence Level 1b)<br />
-MODULATES_HORMONE::<a href="/entities/hormone/growth-hormone/" class="internal-link">Growth Hormone</a> (80% of GH secreted during deep sleep, Evidence Level 1b)<br />
-MODULATES_HORMONE::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a> (sleep deprivation impairs insulin sensitivity within one night, Evidence Level 2a)</p>
-<h3>Modulates Biomarker</h3>
-<p>MODULATES_BIOMARKER::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a> (adequate sleep supports BDNF-mediated neuroplasticity, Evidence Level 2a)<br />
-MODULATES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Amyloid-Beta 4240 Ratio</a> (glymphatic clearance during SWS, Evidence Level 2a)<br />
-MODULATES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a> (poor sleep elevates inflammatory markers, Evidence Level 1b)</p>
-<h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a> (glymphatic system clearance and memory consolidation, Evidence Level 2a)</p>
-<h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a> (sleep optimization may slow cognitive decline, Evidence Level 2b)<br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a> (cardiovascular risk factor management, Evidence Level 2b)<br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a> (sleep quality strongly linked to mood regulation, Evidence Level 1b)</p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/intervention/mediterranean-diet/" class="internal-link">Mediterranean Diet</a> (diet quality supports sleep architecture)<br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers Disease</a> (sleep disruption accelerates amyloid pathology)<br />
@@ -75,5 +57,23 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Glymphatic System</a
 RELATED::<a class="internal-link is-unresolved" href="/404">Parkinsons Disease</a> (REM sleep behavior disorder is prodromal marker)<br />
 RELATED::<a href="/entities/supplement/l-theanine/" class="internal-link">L-Theanine</a> (promotes alpha waves and relaxation for sleep onset)<br />
 RELATED::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a> (glycinate form supports GABA activity and sleep quality)</p>
+<h3>Modulates Pathway</h3>
+<p>MODULATES_PATHWAY::<a href="/entities/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (sleep deprivation increases neuroinflammatory markers, Evidence Level 2a)<br />
+MODULATES_PATHWAY::<a href="/entities/pathway/amyloid-cascade/" class="internal-link">Amyloid Cascade</a> (glymphatic clearance of amyloid-beta is sleep-dependent, Evidence Level 2a)</p>
+<h3>Modulates Hormone</h3>
+<p>MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a> (sleep regulates HPA axis and cortisol circadian rhythm, Evidence Level 1b)<br />
+MODULATES_HORMONE::<a href="/entities/hormone/melatonin/" class="internal-link">Melatonin</a> (darkness and circadian alignment optimize melatonin secretion, Evidence Level 1b)<br />
+MODULATES_HORMONE::<a href="/entities/hormone/growth-hormone/" class="internal-link">Growth Hormone</a> (80% of GH secreted during deep sleep, Evidence Level 1b)<br />
+MODULATES_HORMONE::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a> (sleep deprivation impairs insulin sensitivity within one night, Evidence Level 2a)</p>
+<h3>Modulates Biomarker</h3>
+<p>AFFECTS_BIOMARKER::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a> (adequate sleep supports BDNF-mediated neuroplasticity, Evidence Level 2a)<br />
+AFFECTS_BIOMARKER::<a href="/entities/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta 4240 Ratio</a> (glymphatic clearance during SWS, Evidence Level 2a)<br />
+AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a> (poor sleep elevates inflammatory markers, Evidence Level 1b)</p>
+<h3>Affects Organ</h3>
+<p>AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a> (glymphatic system clearance and memory consolidation, Evidence Level 2a)</p>
+<h3>May Improve Condition</h3>
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a> (sleep optimization may slow cognitive decline, Evidence Level 2b)<br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a> (cardiovascular risk factor management, Evidence Level 2b)<br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a> (sleep quality strongly linked to mood regulation, Evidence Level 1b)</p>
 
 {% endraw %}

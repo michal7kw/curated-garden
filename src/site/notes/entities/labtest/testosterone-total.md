@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.245471Z'
+created: '2026-04-19T18:22:21.214168Z'
 description: Measures total testosterone levels. Important for assessing hypogonadism,
   PCOS, and hormonal balance.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: testosterone_total
 type: labtest
-updated: '2026-04-17T18:59:20.245471Z'
+updated: '2026-04-19T18:22:21.214168Z'
 ---
 
 {% raw %}
@@ -58,7 +58,7 @@ updated: '2026-04-17T18:59:20.245471Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/entities/labtest/testosterone-total/" class="internal-link">testosterone total</a></li>
+<li><a href="/entities/labtest/testosterone-total/" class="internal-link">Testosterone Total</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>

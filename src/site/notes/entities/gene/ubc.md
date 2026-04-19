@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.978006Z'
+created: '2026-04-19T18:22:22.082214Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: UBC
 type: gene
-updated: '2026-04-17T18:59:20.978006Z'
+updated: '2026-04-19T18:22:22.082214Z'
 ---
 
 {% raw %}

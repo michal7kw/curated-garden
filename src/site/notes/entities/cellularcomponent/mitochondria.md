@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.001359Z'
+created: '2026-04-19T18:22:19.289313Z'
 description: Mitochondria are double-membrane-bound organelles found in most eukaryotic
   organisms. They generate most of the cell's supply of adenosine triphosphate (ATP),
   used as a source of chemical energy, through cellular respiration.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Mitochondria
 type: cellularcomponent
-updated: '2026-04-17T18:59:18.001359Z'
+updated: '2026-04-19T18:22:19.289313Z'
 ---
 
 {% raw %}
@@ -45,14 +45,11 @@ RELATED::<a href="/entities/protein/sirt3/" class="internal-link">SIRT3</a><br /
 RELATED::<a href="/entities/intervention/red-light-therapy/" class="internal-link">Red Light Therapy</a><br />
 RELATED::<a href="/entities/metabolite/nicotinamide-riboside/" class="internal-link">Nicotinamide Riboside</a><br />
 RELATED::<a href="/entities/protein/ampk/" class="internal-link">AMPK</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">lab results 2025 05 01</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">health goals</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">CoQ10</a><br />
 RELATED::<a href="/entities/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a><br />
 RELATED::<a href="/entities/metabolite/nadh/" class="internal-link">NADH</a><br />
 RELATED::<a href="/entities/pathway/beta-oxidation/" class="internal-link">Beta-Oxidation</a><br />
 RELATED::<a href="/entities/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">supplement regimen</a><br />
 RELATED::<a href="/entities/metabolite/acetyl-coa/" class="internal-link">Acetyl-CoA</a><br />
 RELATED::<a href="/entities/pathway/mitophagy/" class="internal-link">Mitophagy</a><br />
 RELATED::<a href="/entities/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative Phosphorylation</a><br />

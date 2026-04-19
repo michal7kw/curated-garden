@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.435470Z'
+created: '2026-04-19T18:22:21.413389Z'
 description: Naturally occurring polysaccharides found in the cell walls of mushrooms,
   yeast, oats, and barley. Beta-glucans from medicinal mushrooms activate innate immunity
   via Dectin-1 and complement receptor 3, enhancing macrophage, NK cell, and dendritic
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Beta-Glucans
 type: metabolite
-updated: '2026-04-17T18:59:20.435470Z'
+updated: '2026-04-19T18:22:21.413389Z'
 ---
 
 {% raw %}
@@ -56,8 +56,8 @@ updated: '2026-04-17T18:59:20.435470Z'
 <h2>Relationships</h2>
 <h3>Found In</h3>
 <p>FOUND_IN::<a href="/entities/supplement/reishi/" class="internal-link">Reishi</a><br />
-RELATED_TO::<a class="internal-link is-unresolved" href="/404">Lion's Mane</a><br />
-RELATED_TO::<a href="/entities/supplement/cordyceps/" class="internal-link">Cordyceps</a></p>
+RELATED::<a href="/entities/supplement/lions-mane/" class="internal-link">Lion's Mane</a><br />
+RELATED::<a href="/entities/supplement/cordyceps/" class="internal-link">Cordyceps</a></p>
 <h3>Affects Organ</h3>
 <p>AFFECTS_ORGAN::<a href="/entities/organ/immune-system/" class="internal-link">Immune System</a><br />
 AFFECTS_ORGAN::<a href="/entities/organ/gut/" class="internal-link">Gut</a></p>

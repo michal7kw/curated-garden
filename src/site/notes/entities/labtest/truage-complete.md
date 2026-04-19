@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.291521Z'
+created: '2026-04-19T18:22:21.262863Z'
 description: TruDiagnostic's comprehensive epigenetic test. Measures biological age
   using DNA methylation markers.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: truage_complete
 type: labtest
-updated: '2026-04-17T18:59:20.291521Z'
+updated: '2026-04-19T18:22:21.262863Z'
 ---
 
 {% raw %}

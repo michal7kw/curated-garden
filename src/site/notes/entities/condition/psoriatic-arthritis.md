@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.086210Z'
+created: '2026-04-19T18:22:19.860033Z'
 description: Inflammatory arthritis occurring in up to 30% of psoriasis patients.
   Heterogeneous presentation including peripheral arthritis, axial disease, dactylitis,
   enthesitis, and nail disease. Pathogenesis involves the IL-23/IL-17 axis.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Psoriatic Arthritis
 type: condition
-updated: '2026-04-17T18:59:19.086210Z'
+updated: '2026-04-19T18:22:19.860033Z'
 ---
 
 {% raw %}
@@ -62,7 +62,7 @@ updated: '2026-04-17T18:59:19.086210Z'
 <li>RELATED::<a href="/entities/condition/spondyloarthropathy/" class="internal-link">Spondyloarthropathy</a></li>
 <li>RELATED::<a href="/entities/condition/ankylosing-spondylitis/" class="internal-link">Ankylosing Spondylitis</a></li>
 <li>ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">hs-CRP</a></li>
-<li>ASSOCIATED_WITH::<a href="/entities/labtest/esr/" class="internal-link">ESR</a></li>
+<li>ASSOCIATED_WITH::<a href="/entities/labtest/esr/" class="internal-link">esr</a></li>
 <li>ASSOCIATED_WITH::<a href="/entities/biomarker/hla-b27/" class="internal-link">HLA-B27</a></li>
 <li>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a></li>
 <li>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a></li>

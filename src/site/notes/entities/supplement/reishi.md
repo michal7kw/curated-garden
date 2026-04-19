@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.225503Z'
+created: '2026-04-19T18:22:22.415249Z'
 description: The 'mushroom of immortality' in traditional Chinese medicine. Powerful
   immune modulator, adaptogen, and sleep supporter. Contains beta-glucans and triterpenes
   with calming and anti-cancer properties.
@@ -23,7 +23,7 @@ tags:
 templateEngineOverride: njk
 title: Reishi
 type: supplement
-updated: '2026-04-17T18:59:21.225503Z'
+updated: '2026-04-19T18:22:22.415249Z'
 ---
 
 {% raw %}
@@ -110,9 +110,9 @@ updated: '2026-04-17T18:59:21.225503Z'
 <h2>Relationships</h2>
 <h3>Affects Biomarker</h3>
 <p>AFFECTS_BIOMARKER::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
-AFFECTS_BIOMARKER::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 DECREASES_BIOMARKER::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
-DECREASES_BIOMARKER::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+DECREASES_BIOMARKER::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 DECREASES_BIOMARKER::<a href="/entities/labtest/interleukin-6/" class="internal-link">Interleukin 6</a><br />
 DECREASES_BIOMARKER::<a href="/entities/labtest/tnf-alpha/" class="internal-link">TNF Alpha</a></p>
 <h3>Modulates Neurotransmitter</h3>
@@ -151,7 +151,7 @@ SYNERGISTIC_WITH::<a href="/entities/supplement/curcumin/" class="internal-link"
 SYNERGISTIC_WITH::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a><br />
 SYNERGISTIC_WITH::<a href="/entities/supplement/ashwagandha/" class="internal-link">Ashwagandha</a><br />
 SYNERGISTIC_WITH::<a href="/entities/supplement/cordyceps/" class="internal-link">Cordyceps</a><br />
-SYNERGISTIC_WITH::<a class="internal-link is-unresolved" href="/404">Lion's Mane</a></p>
+SYNERGISTIC_WITH::<a href="/entities/supplement/lions-mane/" class="internal-link">Lion's Mane</a></p>
 <h3>Inhibits</h3>
 <p>INHIBITS::<a href="/entities/pathway/nf-kb-pathway/" class="internal-link">NF-kB Pathway</a></p>
 

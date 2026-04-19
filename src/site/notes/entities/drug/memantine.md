@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.406361Z'
+created: '2026-04-19T18:22:20.207252Z'
 description: Uncompetitive NMDA receptor antagonist. Protects neurons from excitotoxicity.
   Used for moderate to severe Alzheimer's disease.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Memantine
 type: drug
-updated: '2026-04-17T18:59:19.406361Z'
+updated: '2026-04-19T18:22:20.207252Z'
 ---
 
 {% raw %}
@@ -40,7 +40,5 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers Disease</
 RELATED::<a class="internal-link is-unresolved" href="/404">NMDA Receptor</a><br />
 RELATED::<a href="/entities/neurotransmitter/glutamate/" class="internal-link">Glutamate</a></p>
 <h3>Interacts With</h3>
-<p>INTERACTS_WITH::<a href="/entities/drug/quetiapine/" class="internal-link">Quetiapine</a><br />
-INTERACTS_WITH::<a href="/entities/drug/imipramine/" class="internal-link">Imipramine</a></p>
 
 {% endraw %}

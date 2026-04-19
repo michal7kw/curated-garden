@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.133504Z'
+created: '2026-04-19T18:22:19.367852Z'
 description: Ability to monitor, evaluate, and modify emotional reactions to achieve
   goals and maintain well-being. Involves both automatic (implicit) and deliberate
   (explicit) strategies. The prefrontal cortex exerts top-down control over amygdala
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Emotional Regulation
 type: cognitivefunction
-updated: '2026-04-17T18:59:18.133504Z'
+updated: '2026-04-19T18:22:19.367852Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.822653Z'
+created: '2026-04-19T18:22:21.864750Z'
 description: Family of FAD-dependent enzymes catalyzing the first step of each beta-oxidation
   cycle. Introduces a trans double bond in the fatty acyl-CoA chain, producing enoyl-CoA
   and transferring electrons to the ETC via ETF/ETFQO.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Acyl-CoA Dehydrogenase
 type: protein
-updated: '2026-04-17T18:59:20.822653Z'
+updated: '2026-04-19T18:22:21.864750Z'
 ---
 
 {% raw %}
@@ -72,13 +72,13 @@ updated: '2026-04-17T18:59:20.822653Z'
 <li><a href="/entities/supplement/l-carnitine/" class="internal-link">L-Carnitine</a> and avoidance of fasting are mainstays of treatment</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 <h3>Catalyzes</h3>
 <p>CATALYZES::<a class="internal-link is-unresolved" href="/404">Fatty_Acyl-CoA</a><br />
 CATALYZES::<a class="internal-link is-unresolved" href="/404">Enoyl-CoA</a></p>
 <h3>Participates In Pathway</h3>
 <p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/electron-transport-chain/" class="internal-link">Electron_Transport_Chain</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 <h3>Participates In</h3>
 <p>PARTICIPATES_IN::<a href="/entities/pathway/beta-oxidation/" class="internal-link">Beta-Oxidation</a></p>
 <h3>Produces</h3>

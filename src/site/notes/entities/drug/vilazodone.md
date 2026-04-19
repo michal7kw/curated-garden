@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.493726Z'
+created: '2026-04-19T18:22:20.317937Z'
 description: Novel antidepressant (Viibryd) classified as a SPARI — Serotonin Partial
   Agonist-Reuptake Inhibitor. Combines SSRI activity (SERT inhibition) with 5-HT1A
   receptor partial agonism. FDA-approved for major depressive disorder (2011). Must
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Vilazodone
 type: drug
-updated: '2026-04-17T18:59:19.493726Z'
+updated: '2026-04-19T18:22:20.317937Z'
 ---
 
 {% raw %}

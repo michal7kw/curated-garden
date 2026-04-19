@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.171418Z'
+created: '2026-04-19T18:22:21.140825Z'
 description: Oxidized LDL (ox-LDL) test measures LDL cholesterol particles that have
   been modified by oxidation. Oxidized LDL is a key driver of atherosclerosis, promoting
   foam cell formation, endothelial dysfunction, and plaque instability. More specific
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: oxidized_ldl
 type: labtest
-updated: '2026-04-17T18:59:20.171418Z'
+updated: '2026-04-19T18:22:21.140825Z'
 ---
 
 {% raw %}
@@ -66,7 +66,7 @@ updated: '2026-04-17T18:59:20.171418Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a href="/entities/labtest/oxidized-ldl/" class="internal-link">oxidized ldl</a></li>
+<li><a href="/entities/labtest/oxidized-ldl/" class="internal-link">Oxidized LDL</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -79,7 +79,7 @@ updated: '2026-04-17T18:59:20.171418Z'
 <h3>Related Tests</h3>
 <p>RELATED_TESTS::<a href="/entities/labtest/ldl-particle-number/" class="internal-link">ldl particle number</a><br />
 RELATED_TESTS::<a href="/entities/labtest/ldl-small/" class="internal-link">ldl small</a><br />
-RELATED_TESTS::<a href="/entities/labtest/ldl-cholesterol/" class="internal-link">ldl cholesterol</a></p>
+RELATED_TESTS::<a href="/entities/labtest/ldl-cholesterol/" class="internal-link">LDL Cholesterol</a></p>
 <h3>Measures</h3>
 <p>MEASURES::<a href="/entities/labtest/oxidized-ldl/" class="internal-link">Oxidized LDL</a></p>
 <h2>Notes</h2>

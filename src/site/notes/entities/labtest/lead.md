@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.052711Z'
+created: '2026-04-19T18:22:21.026559Z'
 description: Lead is a heavy metal commonly found in contaminated water and soil,
   older houses, and some occupational settings. Lead exposure can impact nearly every
   organ, but it most strongly affects the nervous system, blood, bone marrow, kidneys,
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: lead
 type: labtest
-updated: '2026-04-17T18:59:20.052711Z'
+updated: '2026-04-19T18:22:21.026559Z'
 ---
 
 {% raw %}
@@ -62,14 +62,6 @@ updated: '2026-04-17T18:59:20.052711Z'
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/peripheral-neuropathy/" class="internal-link">Peripheral Neuropathy</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/hypertension/" class="internal-link">Hypertension</a></p>
-<h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/entities/condition/peripheral-neuropathy/" class="internal-link">Peripheral Neuropathy</a><br />
-MAY_DETECT::<a href="/entities/condition/hypertension/" class="internal-link">Hypertension</a><br />
-MAY_DETECT::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></p>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Anemia</a><br />
 RELATED::<a href="/entities/condition/hypertension/" class="internal-link">Hypertension</a><br />
@@ -79,6 +71,14 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Cognitive Decline</a
 RELATED::<a href="/entities/labtestpanel/bisphenol-a-bpa-exposure/" class="internal-link">bisphenol a bpa exposure</a><br />
 RELATED::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a><br />
 RELATED::<a href="/entities/labtestpanel/forever-chemicals-pfas-exposure/" class="internal-link">forever chemicals pfas exposure</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/peripheral-neuropathy/" class="internal-link">Peripheral Neuropathy</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/hypertension/" class="internal-link">Hypertension</a></p>
+<h3>May Detect</h3>
+<p>MAY_DETECT::<a href="/entities/condition/peripheral-neuropathy/" class="internal-link">Peripheral Neuropathy</a><br />
+MAY_DETECT::<a href="/entities/condition/hypertension/" class="internal-link">Hypertension</a><br />
+MAY_DETECT::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a></p>
 <h3>Included In</h3>
 <p>INCLUDED_IN::<a href="/entities/labtestpanel/extended-heavy-metals/" class="internal-link">extended heavy metals</a><br />
 INCLUDED_IN::<a href="/entities/labtestpanel/forever-chemicals-pfas-exposure/" class="internal-link">forever chemicals pfas exposure</a><br />

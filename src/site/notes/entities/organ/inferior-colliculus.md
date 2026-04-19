@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.530263Z'
+created: '2026-04-19T18:22:21.522340Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/inferior-colliculus/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Inferior Colliculus
 type: organ
-updated: '2026-04-17T18:59:20.530263Z'
+updated: '2026-04-19T18:22:21.522340Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.490257Z'
+created: '2026-04-19T18:22:20.312399Z'
 description: Turmeric is a spice derived from the root of the Curcuma longa plant,
   known for its active compound curcumin, which possesses potent anti-inflammatory
   and antioxidant properties.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Turmeric
 type: drug
-updated: '2026-04-17T18:59:19.490257Z'
+updated: '2026-04-19T18:22:20.312399Z'
 ---
 
 {% raw %}
@@ -24,14 +24,12 @@ updated: '2026-04-17T18:59:19.490257Z'
 <h2>Overview</h2>
 <p>Turmeric is a spice derived from the root of the Curcuma longa plant, known for its active compound curcumin, which possesses potent anti-inflammatory and antioxidant properties.</p>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a><br />
+RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
 <h3>Reduces Condition</h3>
 <p>REDUCES_CONDITION::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
 <h3>Contains</h3>
 <p>CONTAINS::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a></p>
-<h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">health goals</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">supplement regimen</a><br />
-RELATED::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a><br />
-RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
 
 {% endraw %}

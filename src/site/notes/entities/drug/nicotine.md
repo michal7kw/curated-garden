@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.426446Z'
+created: '2026-04-19T18:22:20.225421Z'
 description: Naturally occurring alkaloid and potent nicotinic acetylcholine receptor
   (nAChR) agonist. Beyond its well-known role in tobacco, pure nicotine at low doses
   (1-2 mg) is studied for cognitive enhancement, neuroprotection, and attentional
@@ -22,7 +22,7 @@ tags:
 templateEngineOverride: njk
 title: Nicotine
 type: drug
-updated: '2026-04-17T18:59:19.426446Z'
+updated: '2026-04-19T18:22:20.225421Z'
 ---
 
 {% raw %}
@@ -99,6 +99,8 @@ updated: '2026-04-17T18:59:19.426446Z'
 <li><strong>Anti-inflammatory pathway</strong>: Alpha7 nAChR activation suppresses NF-kB signaling in microglia and peripheral immune cells, reducing neuroinflammation — the &quot;cholinergic anti-inflammatory pathway&quot; (PMID:28536049)</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/metabolite/reactive-oxygen-species/" class="internal-link">Reactive_Oxygen_Species</a></p>
 <h3>Participates In Pathway</h3>
 <p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/mesolimbic-dopamine-pathway/" class="internal-link">Mesolimbic_Dopamine_Pathway</a><br />
 PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/basal-forebrain-cholinergic-pathway/" class="internal-link">Basal_Forebrain_Cholinergic_Pathway</a><br />
@@ -107,8 +109,6 @@ PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/mesocortical-dopamine-pathwa
 <p>AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a><br />
 AFFECTS_ORGAN::<a href="/entities/organ/adrenal-glands/" class="internal-link">Adrenal_Glands</a><br />
 AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/metabolite/reactive-oxygen-species/" class="internal-link">Reactive_Oxygen_Species</a></p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/attention-deficit-hyperactivity-disorder/" class="internal-link">Attention_Deficit_Hyperactivity_Disorder</a><br />
 MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a><br />

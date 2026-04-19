@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.172944Z'
+created: '2026-04-19T18:22:22.335124Z'
 description: Essential mineral for muscle, nerve, and enzymatic function
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Magnesium
 type: supplement
-updated: '2026-04-17T18:59:21.172944Z'
+updated: '2026-04-19T18:22:22.335124Z'
 ---
 
 {% raw %}
@@ -42,11 +42,11 @@ MAY_IMPROVE_CONDITION::<a href="/entities/condition/osteoporosis/" class="intern
 <h3>Targets Biomarker</h3>
 <p>TARGETS_BIOMARKER::<a href="/entities/biomarker/alkaline-phosphatase/" class="internal-link">Alkaline Phosphatase</a><br />
 TARGETS_BIOMARKER::<a href="/entities/labtest/calcium/" class="internal-link">Calcium</a><br />
-TARGETS_BIOMARKER::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+TARGETS_BIOMARKER::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 TARGETS_BIOMARKER::<a href="/entities/biomarker/glucose-fasting/" class="internal-link">Glucose Fasting</a><br />
-TARGETS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">Hba1C</a><br />
+TARGETS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a><br />
 TARGETS_BIOMARKER::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
-TARGETS_BIOMARKER::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a></p>
+TARGETS_BIOMARKER::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a></p>
 <h3>Affects Organ</h3>
 <p>AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a> (Cofactor for cardiac ion channels and muscle contraction; reduces blood pressure and arrhythmia risk, Evidence Level 4a)<br />
 AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a> (Blocks NMDA receptors preventing excitotoxicity; Mg-threonate crosses BBB enhancing synaptic density in hippocampus, Evidence Level 4a)<br />

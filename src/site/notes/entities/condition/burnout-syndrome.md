@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.315179Z'
+created: '2026-04-19T18:22:19.469121Z'
 description: State of chronic physical and emotional exhaustion resulting from prolonged
   occupational or caregiving stress. Classified by WHO (ICD-11) as an occupational
   phenomenon characterized by emotional exhaustion, depersonalization/cynicism, and
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Burnout Syndrome
 type: condition
-updated: '2026-04-17T18:59:18.315179Z'
+updated: '2026-04-19T18:22:19.469121Z'
 ---
 
 {% raw %}
@@ -45,14 +45,14 @@ updated: '2026-04-17T18:59:18.315179Z'
 RELATED::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br />
 IMPROVED_BY_INTERVENTION::<a href="/entities/intervention/exercise/" class="internal-link">Exercise</a><br />
 RELATED::<a href="/entities/supplement/ashwagandha/" class="internal-link">Ashwagandha</a><br />
-RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 IMPROVED_BY_INTERVENTION::<a href="/entities/intervention/sleep-optimization/" class="internal-link">Sleep Optimization</a></p>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/dhea-s/" class="internal-link">Dhea S</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/homocysteine/" class="internal-link">Homocysteine</a></p>
+ASSOCIATED_WITH::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a></p>
 <h3>Improved By Supplement</h3>
 <p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/ashwagandha/" class="internal-link">Ashwagandha</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/rhodiola-rosea/" class="internal-link">Rhodiola Rosea</a><br />

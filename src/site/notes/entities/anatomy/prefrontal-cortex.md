@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.413413Z'
+created: '2026-04-19T18:22:18.902009Z'
 description: Anterior portion of the frontal lobe, the most evolved region of the
   human brain. Mediates executive function, decision-making, personality expression,
   and social behavior.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Prefrontal Cortex
 type: anatomy
-updated: '2026-04-17T18:59:17.413413Z'
+updated: '2026-04-19T18:22:18.902009Z'
 ---
 
 {% raw %}

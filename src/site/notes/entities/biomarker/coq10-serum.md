@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.567146Z'
+created: '2026-04-19T18:22:19.006464Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/coq10-serum/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: CoQ10 (Serum)
 type: biomarker
-updated: '2026-04-17T18:59:17.567146Z'
+updated: '2026-04-19T18:22:19.006464Z'
 ---
 
 {% raw %}

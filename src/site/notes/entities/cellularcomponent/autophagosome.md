@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.982126Z'
+created: '2026-04-19T18:22:19.280083Z'
 description: Double-membrane vesicle that engulfs cytoplasmic material (damaged organelles,
   protein aggregates, pathogens) for lysosomal degradation during autophagy. Central
   to cellular quality control, longevity, and the beneficial effects of fasting. The
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Autophagosome
 type: cellularcomponent
-updated: '2026-04-17T18:59:17.982126Z'
+updated: '2026-04-19T18:22:19.280083Z'
 ---
 
 {% raw %}
@@ -44,6 +44,8 @@ updated: '2026-04-17T18:59:17.982126Z'
 <li><strong>Resveratrol</strong> — SIRT1 activation promotes autophagy</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/pathway/ampk-pathway/" class="internal-link">AMPK_Pathway</a></p>
 <h3>Part Of</h3>
 <p>PART_OF::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
 PART_OF::<a href="/entities/cellularcomponent/proteasome/" class="internal-link">Proteasome</a><br />
@@ -53,8 +55,6 @@ PART_OF::<a href="/entities/cellularcomponent/lysosome/" class="internal-link">L
 ACTIVATED_BY_INTERVENTION::<a href="/entities/intervention/exercise/" class="internal-link">Exercise</a><br />
 ACTIVATED_BY_INTERVENTION::<a href="/entities/intervention/intermittent-fasting/" class="internal-link">Intermittent_Fasting</a><br />
 ACTIVATED_BY_INTERVENTION::<a href="/entities/intervention/time-restricted-eating/" class="internal-link">Time-Restricted_Eating</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/pathway/ampk-pathway/" class="internal-link">AMPK_Pathway</a></p>
 <h3>Activated By Supplement</h3>
 <p>ACTIVATED_BY_SUPPLEMENT::<a href="/entities/supplement/resveratrol/" class="internal-link">Resveratrol</a><br />
 ACTIVATED_BY_SUPPLEMENT::<a href="/entities/supplement/berberine/" class="internal-link">Berberine</a></p>

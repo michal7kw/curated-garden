@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.221683Z'
+created: '2026-04-19T18:22:19.980931Z'
 description: Major depressive disorder that fails to respond adequately to at least
   two trials of antidepressants of adequate dose and duration (typically ≥6 weeks
   each). Affects approximately 30% of MDD patients. Associated with greater disability,
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Treatment-Resistant Depression
 type: condition
-updated: '2026-04-17T18:59:19.221683Z'
+updated: '2026-04-19T18:22:19.980931Z'
 ---
 
 {% raw %}
@@ -161,7 +161,7 @@ updated: '2026-04-17T18:59:19.221683Z'
 RELATED::<a href="/entities/condition/depressive-disorder/" class="internal-link">Depressive Disorder</a></p>
 <h3>Associated Biomarker</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a></p>
+ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a></p>
 <h3>Associated Neurotransmitter</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a></p>
 <h3>Associated Gene</h3>

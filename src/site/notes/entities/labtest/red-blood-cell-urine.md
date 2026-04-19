@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.206464Z'
+created: '2026-04-19T18:22:21.178737Z'
 description: Tested twice a year Finding red blood cells (RBCs) in urine, a condition
   called hematuria, is not normal and can be a sign that the kidneys, bladder, or
   urinary tract are irritated or damaged. While sometimes it may result from temporary
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: red_blood_cell_urine
 type: labtest
-updated: '2026-04-17T18:59:20.206464Z'
+updated: '2026-04-19T18:22:21.178737Z'
 ---
 
 {% raw %}
@@ -61,14 +61,14 @@ updated: '2026-04-17T18:59:20.206464Z'
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/entities/condition/kidney-stones/" class="internal-link">Kidney Stones</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/condition/kidney-stones/" class="internal-link">Kidney Stones</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Strenuous Exercise</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Inflammation Glomerulonephritis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Urinary Tract Infection Uti</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Bladder Inflammation Cystitis</a></p>
+<h3>May Detect</h3>
+<p>MAY_DETECT::<a href="/entities/condition/kidney-stones/" class="internal-link">Kidney Stones</a></p>
 <h3>Associated With Condition</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/kidney-stones/" class="internal-link">Kidney Stones</a></p>
 <h2>Notes</h2>

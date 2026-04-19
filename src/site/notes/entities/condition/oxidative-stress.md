@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.925061Z'
+created: '2026-04-19T18:22:19.781666Z'
 description: Oxidative stress is an imbalance between the production of reactive oxygen
   species (ROS) and the biological system's ability to detoxify or repair the resulting
   damage. It is implicated in many pathological conditions including neurodegeneration,
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Oxidative Stress
 type: condition
-updated: '2026-04-17T18:59:18.925061Z'
+updated: '2026-04-19T18:22:19.781666Z'
 ---
 
 {% raw %}
@@ -45,6 +45,12 @@ updated: '2026-04-17T18:59:18.925061Z'
 <li><strong>Environmental</strong>: Minimize toxin exposure (air pollution, heavy metals, pesticides, cigarette smoke), use water filtration, avoid excessive UV exposure</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/pathway/nrf2-pathway/" class="internal-link">Nrf2 Pathway</a><br />
+RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
+RELATED::<a href="/entities/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a><br />
+RELATED::<a href="/entities/drug/nicotine/" class="internal-link">Nicotine</a><br />
+RELATED::<a href="/entities/pathway/electron-transport-chain/" class="internal-link">Electron Transport Chain</a></p>
 <h3>Modulated By</h3>
 <p>MODULATED_BY::<a href="/entities/drug/nicotine/" class="internal-link">Nicotine</a></p>
 <h3>Activates</h3>
@@ -52,12 +58,6 @@ updated: '2026-04-17T18:59:18.925061Z'
 <h3>Involves</h3>
 <p>INVOLVES::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
 INVOLVES::<a href="/entities/pathway/electron-transport-chain/" class="internal-link">Electron Transport Chain</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/pathway/nrf2-pathway/" class="internal-link">Nrf2 Pathway</a><br />
-RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
-RELATED::<a href="/entities/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a><br />
-RELATED::<a href="/entities/drug/nicotine/" class="internal-link">Nicotine</a><br />
-RELATED::<a href="/entities/pathway/electron-transport-chain/" class="internal-link">Electron Transport Chain</a></p>
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/biomarker/f2-isoprostanes/" class="internal-link">F2 Isoprostanes</a><br />
 ASSOCIATED_WITH::<a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a><br />

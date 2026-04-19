@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.457873Z'
+created: '2026-04-19T18:22:19.532914Z'
 description: A hormonal disorder caused by prolonged exposure to high levels of cortisol,
   resulting in a variety of physical and metabolic changes.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Cushings Syndrome
 type: condition
-updated: '2026-04-17T18:59:18.457873Z'
+updated: '2026-04-19T18:22:19.532914Z'
 ---
 
 {% raw %}
@@ -37,9 +37,9 @@ updated: '2026-04-17T18:59:18.457873Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/glucose-fasting/" class="internal-link">Glucose Fasting</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/hba1c/" class="internal-link">Hba1C</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/potassium/" class="internal-link">Potassium</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/calcium/" class="internal-link">Calcium</a></p>
 <h3>Improved By Supplement</h3>

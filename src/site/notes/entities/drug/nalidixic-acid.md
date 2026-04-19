@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.424485Z'
+created: '2026-04-19T18:22:20.223442Z'
 description: The first synthetic quinolone antibiotic, used primarily for the treatment
   of urinary tract infections caused by gram-negative bacteria.
 dg-home: false
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Nalidixic Acid
 type: drug
-updated: '2026-04-17T18:59:19.424485Z'
+updated: '2026-04-19T18:22:20.223442Z'
 ---
 
 {% raw %}
@@ -26,11 +26,11 @@ updated: '2026-04-17T18:59:19.424485Z'
 <h2>Clinical Significance</h2>
 <p>Nalidixic acid was historically used for uncomplicated lower UTIs caused by E. coli, Proteus, Klebsiella, and Enterobacter species. Its use has declined substantially due to the availability of more potent fluoroquinolones and rising resistance rates. Nalidixic acid is concentrated in urine and does not achieve adequate systemic tissue levels, precluding its use for systemic infections. Adverse effects include gastrointestinal disturbance, CNS effects (headache, dizziness, rarely seizures), phototoxicity, and rare hemolytic anemia in G6PD-deficient patients. Nalidixic acid resistance testing in Salmonella and other Enterobacteriaceae is used as a screening tool for reduced fluoroquinolone susceptibility, as gyrA mutations conferring nalidixic acid resistance often precede full fluoroquinolone resistance.</p>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>INTERACTS_WITH::<a href="/entities/drug/penicillin-g/" class="internal-link">Penicillin G</a></p>
 <h3>Affects Organ</h3>
 <p>AFFECTS_ORGAN::<a href="/entities/organ/kidneys/" class="internal-link">Kidneys</a> (Concentrated in urine achieving therapeutic levels, Evidence Level 1b)<br />
 AFFECTS_ORGAN::<a href="/entities/organ/bladder/" class="internal-link">Bladder</a> (Primary site of therapeutic action in UTIs, Evidence Level 1b)</p>
-<h3>Related</h3>
-<p>INTERACTS_WITH::<a href="/entities/drug/penicillin-g/" class="internal-link">Penicillin G</a></p>
 <h3>Enriched</h3>
 <p>TARGETS::<a class="internal-link is-unresolved" href="/404">DNA Gyrase</a> (Inhibits GyrA subunit trapping gyrase-DNA complexes, Evidence Level 1a)<br />
 TREATS::<a href="/entities/condition/urinary-tract-infection/" class="internal-link">Urinary Tract Infection</a> (Uncomplicated lower UTIs from gram-negative bacteria, Evidence Level 1b)<br />

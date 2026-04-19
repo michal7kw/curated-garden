@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.537470Z'
+created: '2026-04-19T18:22:20.371207Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: NR3C1
 type: gene
-updated: '2026-04-17T18:59:19.537470Z'
+updated: '2026-04-19T18:22:20.371207Z'
 ---
 
 {% raw %}
@@ -26,11 +26,11 @@ updated: '2026-04-17T18:59:19.537470Z'
 <p>NR3C1 polymorphisms and epigenetic modifications are associated with altered stress reactivity, psychiatric disorders, and metabolic disease. The BclI and N363S polymorphisms increase glucocorticoid sensitivity and are linked to visceral obesity, insulin resistance, and cardiovascular risk. Epigenetic silencing of NR3C1 through promoter methylation (particularly exon 1F) is observed in individuals exposed to early-life adversity and is associated with increased HPA axis reactivity and susceptibility to depression and PTSD. GR resistance (Chrousos syndrome), caused by inactivating NR3C1 mutations, presents with compensatory HPA axis activation, hypertension, hypokalemia, and androgen excess. Synthetic glucocorticoids (dexamethasone, prednisolone) exert their therapeutic effects through GR, making NR3C1 central to understanding glucocorticoid pharmacology and resistance.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+<p>RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 RELATED::<a href="/entities/anatomy/hypothalamus/" class="internal-link">Hypothalamus</a><br />
 RELATED::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a></p>
 <h3>Modulated By Hormone</h3>
-<p>MODULATED_BY_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a> (Primary endogenous ligand for GR activation, Evidence Level 1a)</p>
+<p>MODULATED_BY_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a> (Primary endogenous ligand for GR activation, Evidence Level 1a)</p>
 <h3>Enriched</h3>
 <p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/hpa-axis/" class="internal-link">HPA Axis</a> (Mediates negative feedback regulation of cortisol, Evidence Level 1a)<br />
 LOCATED_IN::<a href="/entities/cellularcomponent/nucleus/" class="internal-link">Nucleus</a> (Translocates to nucleus upon cortisol binding, Evidence Level 1a)<br />

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.713494Z'
+created: '2026-04-19T18:22:19.099658Z'
 description: A sulfur-containing amino acid produced during methionine metabolism.
   Elevated levels are a risk factor for cardiovascular disease, cognitive decline,
   and neural tube defects.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Homocysteine
 type: biomarker
-updated: '2026-04-17T18:59:17.713494Z'
+updated: '2026-04-19T18:22:19.099658Z'
 ---
 
 {% raw %}
@@ -48,16 +48,11 @@ INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Cognitive
 <h3>Produced From</h3>
 <p>PRODUCED_FROM::<a class="internal-link is-unresolved" href="/404">Methionine</a></p>
 <h3>Affected By Supplement</h3>
-<ul>
-<li>-&gt; <a href="/entities/supplement/vitamin-b12/" class="internal-link">Vitamin B12</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/folate/" class="internal-link">Folate</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/b-complex-vitamins/" class="internal-link">B-Complex Vitamins</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/nac/" class="internal-link">NAC</a> (supplement)</li>
-</ul>
+<p>AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-b12/" class="internal-link">Vitamin B12</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/folate/" class="internal-link">Folate</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/b-complex-vitamins/" class="internal-link">B-Complex Vitamins</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/nac/" class="internal-link">NAC</a></p>
 <h3>Measured By Test</h3>
-<ul>
-<li>-&gt; <a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a> (labtest)</li>
-</ul>
 
 {% endraw %}

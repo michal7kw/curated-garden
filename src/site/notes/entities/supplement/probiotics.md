@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.218854Z'
+created: '2026-04-19T18:22:22.405708Z'
 description: Live beneficial bacteria that support gut microbiome health. Affect digestion,
   immune function, and even mood through the gut-brain axis. Strain-specific benefits.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Probiotics
 type: supplement
-updated: '2026-04-17T18:59:21.218854Z'
+updated: '2026-04-19T18:22:22.405708Z'
 ---
 
 {% raw %}
@@ -37,6 +37,10 @@ updated: '2026-04-17T18:59:21.218854Z'
 <li><strong>Note</strong>: CFU count matters less than strain specificity and clinical evidence for your condition</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Gut Microbiome</a> (probiotics modulate gut microbial composition)<br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Saccharomyces Boulardii</a> (probiotic yeast for antibiotic-associated diarrhea)</p>
 <h3>Affects Organ</h3>
 <p>AFFECTS_ORGAN::<a href="/entities/organ/immune-system/" class="internal-link">Immune System</a><br />
 AFFECTS_ORGAN::<a href="/entities/organ/gut/" class="internal-link">Gut</a><br />
@@ -47,18 +51,12 @@ AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a><
 <p>AFFECTS_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a></p>
 <h3>Affects Biomarker</h3>
 <p>AFFECTS_BIOMARKER::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>
-<h3>Related</h3>
-<p>AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/anxiety/" class="internal-link">Anxiety</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/immune-system/" class="internal-link">Immune System</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/gut/" class="internal-link">Gut</a><br />
-MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a></p>
 <h3>Targets Biomarker</h3>
 <p>TARGETS_BIOMARKER::<a href="/entities/biomarker/calprotectin/" class="internal-link">Calprotectin</a><br />
 TARGETS_BIOMARKER::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
 TARGETS_BIOMARKER::<a href="/entities/biomarker/secretory-iga/" class="internal-link">Secretory IgA</a><br />
 TARGETS_BIOMARKER::<a href="/entities/biomarker/tmao/" class="internal-link">TMAO</a><br />
-TARGETS_BIOMARKER::<a href="/entities/labtest/zonulin/" class="internal-link">Zonulin</a></p>
+TARGETS_BIOMARKER::<a href="/entities/labtest/zonulin/" class="internal-link">zonulin</a></p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">IBS</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
@@ -67,8 +65,5 @@ MAY_IMPROVE_CONDITION::<a href="/entities/condition/inflammation/" class="intern
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/leaky-gut/" class="internal-link">Leaky Gut</a></p>
 <h3>Synergistic With</h3>
 <p>SYNERGISTIC_WITH::<a class="internal-link is-unresolved" href="/404">Prebiotics</a> (prebiotics provide fuel for probiotic growth, synbiotic effect, Evidence Level 1a)</p>
-<h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Gut Microbiome</a> (probiotics modulate gut microbial composition)<br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Saccharomyces Boulardii</a> (probiotic yeast for antibiotic-associated diarrhea)</p>
 
 {% endraw %}

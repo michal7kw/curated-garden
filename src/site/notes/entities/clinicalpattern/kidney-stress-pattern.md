@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.073607Z'
+created: '2026-04-19T18:22:19.329571Z'
 description: Impaired kidney function indicated by elevated creatinine, BUN, and reduced
   eGFR. Early detection enables intervention to slow progression.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Kidney Stress Pattern
 type: clinicalpattern
-updated: '2026-04-17T18:59:18.073607Z'
+updated: '2026-04-19T18:22:19.329571Z'
 ---
 
 {% raw %}
@@ -72,9 +72,11 @@ updated: '2026-04-17T18:59:18.073607Z'
 <li><strong>Anemia management</strong>: Screen for iron deficiency (ferritin &lt;100 ng/mL or TSAT &lt;20% in CKD); IV iron if oral fails; erythropoiesis-stimulating agents (ESAs) if Hb &lt;10 g/dL after iron optimization; target Hb 10-11.5 g/dL (avoid &gt;13)</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
 <h3>Requires Biomarker</h3>
-<p>REQUIRES_BIOMARKER::<a href="/entities/labtest/creatinine/" class="internal-link">Creatinine</a><br />
-REQUIRES_BIOMARKER::<a href="/entities/biomarker/egfr/" class="internal-link">eGFR</a><br />
+<p>REQUIRES_BIOMARKER::<a href="/entities/labtest/creatinine/" class="internal-link">creatinine</a><br />
+REQUIRES_BIOMARKER::<a href="/entities/biomarker/egfr/" class="internal-link">EGFR</a><br />
 REQUIRES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">BUN</a></p>
 <h3>Improved By Supplement</h3>
 <p>IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Alpha-Lipoic Acid</a><br />
@@ -82,8 +84,6 @@ IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" clas
 <h3>Affects Organ</h3>
 <p>AFFECTS_ORGAN::<a href="/entities/organ/kidneys/" class="internal-link">Kidneys</a><br />
 AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
 <h3>Increases Risk For</h3>
 <p>INCREASES_RISK_FOR::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
 INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Anemia</a><br />

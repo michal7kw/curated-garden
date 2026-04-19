@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.234481Z'
+created: '2026-04-19T18:22:20.003882Z'
 description: Cognitive impairment caused by cerebrovascular disease, including strokes
   and small vessel disease. The second most common cause of dementia after Alzheimer's
   disease, often occurring in combination (mixed dementia).
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Vascular Dementia
 type: condition
-updated: '2026-04-17T18:59:19.234481Z'
+updated: '2026-04-19T18:22:20.003882Z'
 ---
 
 {% raw %}
@@ -52,11 +52,11 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Statin Therapy</a><b
 RELATED::<a href="/entities/biomarker/phospho-tau/" class="internal-link">Phospho-Tau</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Retinal Imaging for Neurodegeneration</a><br />
 IMPROVED_BY_INTERVENTION::<a href="/entities/intervention/exercise/" class="internal-link">Exercise</a><br />
-RELATED::<a href="/entities/labtest/homocysteine/" class="internal-link">Homocysteine</a><br />
-RELATED::<a href="/entities/labtest/fibrinogen/" class="internal-link">Fibrinogen</a><br />
+RELATED::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a><br />
+RELATED::<a href="/entities/labtest/fibrinogen/" class="internal-link">fibrinogen</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Neuropsychological Testing</a><br />
 RELATED::<a href="/entities/condition/atrial-fibrillation/" class="internal-link">Atrial Fibrillation</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Amyloid-Beta 4240 Ratio</a><br />
+RELATED::<a href="/entities/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta 4240 Ratio</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">CT Angiography</a><br />
 IMPROVED_BY_INTERVENTION::<a href="/entities/intervention/sleep-optimization/" class="internal-link">Sleep Optimization</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Blood Pressure Control</a><br />
@@ -67,15 +67,15 @@ RELATED::<a href="/entities/condition/stroke/" class="internal-link">Stroke</a><
 RELATED::<a class="internal-link is-unresolved" href="/404">MRI Brain</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">FDG-PET</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">CRP</a><br />
-RELATED::<a href="/entities/labtest/hba1c/" class="internal-link">HbA1c</a><br />
+RELATED::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Lipid Panel</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Carotid Ultrasound</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a></p>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/homocysteine/" class="internal-link">Homocysteine</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/hba1c/" class="internal-link">Hba1C</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/fibrinogen/" class="internal-link">Fibrinogen</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/fibrinogen/" class="internal-link">fibrinogen</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/blood-nfl/" class="internal-link">Blood NfL</a></p>
 <h3>Improved By Supplement</h3>
 <p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />

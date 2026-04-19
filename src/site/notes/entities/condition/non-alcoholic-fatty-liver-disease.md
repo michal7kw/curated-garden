@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.857260Z'
+created: '2026-04-19T18:22:19.751037Z'
 description: A range of liver conditions affecting people who drink little to no alcohol,
   characterized by too much fat stored in liver cells.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Non-alcoholic Fatty Liver Disease
 type: condition
-updated: '2026-04-17T18:59:18.857260Z'
+updated: '2026-04-19T18:22:19.751037Z'
 ---
 
 {% raw %}
@@ -64,8 +64,7 @@ SORT date DESC
 <p>No references available.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/condition/non-alcoholic-fatty-liver-disease/" class="internal-link">Non-alcoholic_Fatty_Liver_Disease</a><br />
-RELATED::<a href="/entities/condition/nafld/" class="internal-link">NAFLD</a></p>
+<p>RELATED::<a href="/entities/condition/nafld/" class="internal-link">NAFLD</a></p>
 <h3>Improved By Supplement</h3>
 <p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-e/" class="internal-link">Vitamin E</a><br />

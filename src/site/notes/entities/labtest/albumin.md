@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.798553Z'
+created: '2026-04-19T18:22:20.687835Z'
 description: Tested twice a year Albumin is the most abundant protein in the blood
   and plays a vital role in maintaining fluid balance and transporting nutrients.
   Healthy albumin levels are a good indicator of liver function and overall health.
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: albumin
 type: labtest
-updated: '2026-04-17T18:59:19.798553Z'
+updated: '2026-04-19T18:22:20.687835Z'
 ---
 
 {% raw %}
@@ -66,9 +66,6 @@ updated: '2026-04-17T18:59:19.798553Z'
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<h3>May Detect</h3>
-<p>MAY_DETECT::<a href="/entities/condition/heart-failure/" class="internal-link">Heart Failure</a><br />
-MAY_DETECT::<a href="/entities/condition/nephrotic-syndrome/" class="internal-link">Nephrotic Syndrome</a></p>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Liver Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Chronic Inflammation EG Autoimmune Disease</a><br />
@@ -77,6 +74,9 @@ RELATED::<a href="/entities/condition/nephrotic-syndrome/" class="internal-link"
 RELATED::<a href="/entities/labtest/liver-function-panel/" class="internal-link">liver function panel</a><br />
 RELATED::<a href="/entities/condition/heart-failure/" class="internal-link">Heart Failure</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Malnutrition</a></p>
+<h3>May Detect</h3>
+<p>MAY_DETECT::<a href="/entities/condition/heart-failure/" class="internal-link">Heart Failure</a><br />
+MAY_DETECT::<a href="/entities/condition/nephrotic-syndrome/" class="internal-link">Nephrotic Syndrome</a></p>
 <h3>Associated With Condition</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/nephrotic-syndrome/" class="internal-link">Nephrotic Syndrome</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/heart-failure/" class="internal-link">Heart Failure</a></p>

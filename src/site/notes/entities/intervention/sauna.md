@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.750550Z'
+created: '2026-04-19T18:22:20.633980Z'
 description: Heat therapy using dry heat (Finnish sauna, 80-100C) or infrared radiation
   (infrared sauna, 40-60C). Regular use associated with reduced cardiovascular mortality,
   improved endothelial function, and enhanced heat shock protein expression. Triggers
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Sauna
 type: intervention
-updated: '2026-04-17T18:59:19.750550Z'
+updated: '2026-04-19T18:22:20.633980Z'
 ---
 
 {% raw %}
@@ -54,22 +54,22 @@ updated: '2026-04-17T18:59:19.750550Z'
 <li>Recent stroke (&lt;3 months)</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Modulates Hormone</h3>
-<p>MODULATES_HORMONE::<a href="/entities/hormone/growth-hormone/" class="internal-link">Growth Hormone</a> (200-300% increase with prolonged or multi-round sessions, Evidence Level 2b)<br />
-MODULATES_HORMONE::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a> (acute sympathetic activation during heat exposure, Evidence Level 2b)<br />
-MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a> (transient increase during session, decreases post-session, Evidence Level 2b)</p>
-<h3>Modulates Biomarker</h3>
-<p>MODULATES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a> (anti-inflammatory effect with regular use, Evidence Level 2b)</p>
-<h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a> (cardiovascular conditioning mimics moderate exercise, Evidence Level 2a)</p>
-<h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> (63% reduced sudden cardiac death risk, Evidence Level 2a)<br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/hypertension/" class="internal-link">Hypertension</a> (3-7 mmHg systolic BP reduction, Evidence Level 2a)</p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/intervention/exercise/" class="internal-link">Exercise</a> (hemodynamic response similar to moderate aerobic exercise)<br />
 RELATED::<a href="/entities/intervention/cold-exposure/" class="internal-link">Cold Exposure</a> (contrast therapy amplifies hormetic benefits)<br />
 RELATED::<a href="/entities/intervention/red-light-therapy/" class="internal-link">Red Light Therapy</a> (complementary photonic and thermal therapy)<br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers Disease</a> (65% reduced dementia risk with frequent use)<br />
 RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (heat stress enhances mitochondrial biogenesis)</p>
+<h3>Modulates Hormone</h3>
+<p>MODULATES_HORMONE::<a href="/entities/hormone/growth-hormone/" class="internal-link">Growth Hormone</a> (200-300% increase with prolonged or multi-round sessions, Evidence Level 2b)<br />
+MODULATES_HORMONE::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a> (acute sympathetic activation during heat exposure, Evidence Level 2b)<br />
+MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a> (transient increase during session, decreases post-session, Evidence Level 2b)</p>
+<h3>Modulates Biomarker</h3>
+<p>AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a> (anti-inflammatory effect with regular use, Evidence Level 2b)</p>
+<h3>Affects Organ</h3>
+<p>AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a> (cardiovascular conditioning mimics moderate exercise, Evidence Level 2a)</p>
+<h3>May Improve Condition</h3>
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> (63% reduced sudden cardiac death risk, Evidence Level 2a)<br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/hypertension/" class="internal-link">Hypertension</a> (3-7 mmHg systolic BP reduction, Evidence Level 2a)</p>
 
 {% endraw %}

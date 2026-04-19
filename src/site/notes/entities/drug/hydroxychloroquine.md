@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.361928Z'
+created: '2026-04-19T18:22:20.156152Z'
 description: Antimalarial drug repurposed as DMARD for RA and cornerstone therapy
   for SLE. Inhibits Toll-like receptor signaling in dendritic cells and reduces antigen
   presentation.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Hydroxychloroquine
 type: drug
-updated: '2026-04-17T18:59:19.361928Z'
+updated: '2026-04-19T18:22:20.156152Z'
 ---
 
 {% raw %}

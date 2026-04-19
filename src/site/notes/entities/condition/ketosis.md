@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.712302Z'
+created: '2026-04-19T18:22:19.669060Z'
 description: A metabolic state in which the body uses ketones, produced from the breakdown
   of fats, as its primary energy source instead of glucose.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Ketosis
 type: condition
-updated: '2026-04-17T18:59:18.712302Z'
+updated: '2026-04-19T18:22:19.669060Z'
 ---
 
 {% raw %}
@@ -25,9 +25,9 @@ updated: '2026-04-17T18:59:18.712302Z'
 <h2>Relationships</h2>
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/biomarker/glucose-fasting/" class="internal-link">Glucose Fasting</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/hba1c/" class="internal-link">Hba1C</a></p>
+ASSOCIATED_WITH::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a></p>
 <h3>Improved By Supplement</h3>
 <p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/mct-oil/" class="internal-link">MCT Oil</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />

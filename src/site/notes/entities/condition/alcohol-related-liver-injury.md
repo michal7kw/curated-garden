@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.192198Z'
+created: '2026-04-19T18:22:19.400137Z'
 description: A spectrum of liver damage resulting from excessive alcohol consumption,
   ranging from fatty liver to cirrhosis.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Alcohol-Related Liver Injury
 type: condition
-updated: '2026-04-17T18:59:18.192198Z'
+updated: '2026-04-19T18:22:19.400137Z'
 ---
 
 {% raw %}
@@ -24,14 +24,13 @@ updated: '2026-04-17T18:59:18.192198Z'
 <p>A spectrum of liver damage resulting from excessive alcohol consumption, ranging from fatty liver to cirrhosis.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related Liver Injury</a><br />
-RELATED::<a href="/entities/labtest/gamma-glutamyl-transferase-ggt/" class="internal-link">gamma glutamyl transferase ggt</a><br />
+<p>RELATED::<a href="/entities/labtest/gamma-glutamyl-transferase-ggt/" class="internal-link">gamma glutamyl transferase ggt</a><br />
 RELATED::<a href="/entities/labtest/aspartate-aminotransferase-ast/" class="internal-link">aspartate aminotransferase ast</a><br />
 RELATED::<a href="/entities/labtest/alanine-transaminase-alt/" class="internal-link">alanine transaminase alt</a></p>
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/biomarker/alanine-transaminase/" class="internal-link">Alanine Transaminase</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/aspartate-aminotransferase/" class="internal-link">Aspartate Aminotransferase</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/albumin/" class="internal-link">Albumin</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/albumin/" class="internal-link">albumin</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/bilirubin-total/" class="internal-link">Bilirubin Total</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/alkaline-phosphatase/" class="internal-link">Alkaline Phosphatase</a></p>
 <h3>Improved By Supplement</h3>

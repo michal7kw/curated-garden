@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.207915Z'
+created: '2026-04-19T18:22:22.394578Z'
 description: Pyrroloquinoline quinone — a novel redox cofactor discovered in bacteria
   that supports mitochondrial biogenesis in mammals. PQQ activates PGC-1alpha, the
   master regulator of mitochondrial biogenesis, and is one of very few compounds proven
@@ -21,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: PQQ
 type: supplement
-updated: '2026-04-17T18:59:21.207915Z'
+updated: '2026-04-19T18:22:22.394578Z'
 ---
 
 {% raw %}
@@ -87,6 +87,8 @@ updated: '2026-04-17T18:59:21.207915Z'
 <li><strong>NGF synthesis</strong>: PQQ stimulates NGF synthesis in astrocytes in a dose-dependent manner, supporting peripheral and central nerve survival and regeneration (PMID:8518462)</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/protein/tfam/" class="internal-link">TFAM</a></p>
 <h3>Affects Biomarker</h3>
 <p>AFFECTS_BIOMARKER::<a href="/entities/labtest/interleukin-6/" class="internal-link">interleukin_6</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/labtest/hs-crp/" class="internal-link">hs_crp</a></p>
@@ -100,8 +102,6 @@ AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a><
 <h3>Synergistic With</h3>
 <p>SYNERGISTIC_WITH::<a href="/entities/supplement/coenzyme-q10/" class="internal-link">Coenzyme_Q10</a><br />
 SYNERGISTIC_WITH::<a href="/entities/supplement/nmn/" class="internal-link">NMN</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/protein/tfam/" class="internal-link">TFAM</a></p>
 <h3>Increases Metabolite</h3>
 <p>INCREASES_METABOLITE::<a href="/entities/metabolite/atp/" class="internal-link">ATP</a></p>
 <h3>Supports</h3>

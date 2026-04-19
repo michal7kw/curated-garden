@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.252375Z'
+created: '2026-04-19T18:22:21.222457Z'
 description: TSH and Free T4. Standard initial thyroid assessment.
 dg-home: false
 dg-publish: true
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: thyroid_panel_basic
 type: labtest
-updated: '2026-04-17T18:59:20.252375Z'
+updated: '2026-04-19T18:22:21.222457Z'
 ---
 
 {% raw %}
@@ -53,7 +53,7 @@ updated: '2026-04-17T18:59:20.252375Z'
 <p>This test measures the following biomarkers:</p>
 <ul>
 <li><a href="/entities/labtest/tsh/" class="internal-link">tsh</a></li>
-<li><a href="/entities/biomarker/free-t4/" class="internal-link">free t4</a></li>
+<li><a href="/entities/biomarker/free-t4/" class="internal-link">Free T4</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -65,7 +65,7 @@ updated: '2026-04-17T18:59:20.252375Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/labtest/tsh/" class="internal-link">tsh</a><br />
-RELATED::<a href="/entities/biomarker/free-t4/" class="internal-link">free t4</a></p>
+RELATED::<a href="/entities/biomarker/free-t4/" class="internal-link">Free T4</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

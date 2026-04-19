@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.143886Z'
+created: '2026-04-19T18:22:22.280523Z'
 description: High-molecular-weight glycosaminoglycan, main component of synovial fluid
   providing viscosity and joint lubrication. Oral supplementation (80-200mg/day) shows
   modest benefit for knee OA. Intra-articular injection provides 6-12 months pain
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Hyaluronic Acid
 type: supplement
-updated: '2026-04-17T18:59:21.143886Z'
+updated: '2026-04-19T18:22:22.280523Z'
 ---
 
 {% raw %}

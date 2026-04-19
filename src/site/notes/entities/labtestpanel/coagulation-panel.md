@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.360613Z'
+created: '2026-04-19T18:22:21.334743Z'
 description: Comprehensive evaluation of blood clotting function covering both intrinsic
   and extrinsic pathways, fibrinolysis markers, and platelet function. Used for bleeding
   disorder evaluation, pre-surgical assessment, and thrombotic risk.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: coagulation_panel
 type: labtestpanel
-updated: '2026-04-17T18:59:20.360613Z'
+updated: '2026-04-19T18:22:21.334743Z'
 ---
 
 {% raw %}
@@ -25,7 +25,7 @@ updated: '2026-04-17T18:59:20.360613Z'
 <li><a href="/entities/labtest/prothrombin-time-pt-inr/" class="internal-link">prothrombin time pt inr</a> -- Extrinsic pathway assessment and warfarin monitoring</li>
 <li><a href="/entities/labtest/partial-thromboplastin-time-ptt/" class="internal-link">partial thromboplastin time ptt</a> -- Intrinsic pathway evaluation and heparin monitoring</li>
 <li><a href="/entities/labtest/platelet-count/" class="internal-link">platelet count</a> -- Cellular hemostasis assessment</li>
-<li><a href="/entities/biomarker/d-dimer/" class="internal-link">d-dimer</a> -- Fibrin degradation marker for thrombotic events</li>
+<li><a href="/entities/biomarker/d-dimer/" class="internal-link">D-Dimer</a> -- Fibrin degradation marker for thrombotic events</li>
 <li><a href="/entities/labtest/fibrinogen/" class="internal-link">fibrinogen</a> -- Clotting factor and acute-phase protein</li>
 </ul>
 <h2>Clinical Indications</h2>
@@ -40,7 +40,7 @@ updated: '2026-04-17T18:59:20.360613Z'
 <p>INCLUDES_TEST::<a href="/entities/labtest/prothrombin-time-pt-inr/" class="internal-link">prothrombin time pt inr</a><br />
 INCLUDES_TEST::<a href="/entities/labtest/partial-thromboplastin-time-ptt/" class="internal-link">partial thromboplastin time ptt</a><br />
 INCLUDES_TEST::<a href="/entities/labtest/platelet-count/" class="internal-link">platelet count</a><br />
-INCLUDES_TEST::<a href="/entities/biomarker/d-dimer/" class="internal-link">d-dimer</a><br />
+INCLUDES_TEST::<a href="/entities/biomarker/d-dimer/" class="internal-link">D-Dimer</a><br />
 INCLUDES_TEST::<a href="/entities/labtest/fibrinogen/" class="internal-link">fibrinogen</a><br />
 USED_FOR::<a class="internal-link is-unresolved" href="/404">Deep Vein Thrombosis</a><br />
 USED_FOR::<a class="internal-link is-unresolved" href="/404">Bleeding Disorders</a><br />

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.468097Z'
+created: '2026-04-19T18:22:20.282467Z'
 description: Selective serotonin reuptake inhibitor (SSRI) antidepressant. First-line
   treatment for depression, anxiety disorders, OCD, and PTSD. Well-studied with favorable
   safety profile.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Sertraline
 type: drug
-updated: '2026-04-17T18:59:19.468097Z'
+updated: '2026-04-19T18:22:20.282467Z'
 ---
 
 {% raw %}
@@ -27,6 +27,10 @@ updated: '2026-04-17T18:59:19.468097Z'
 <h2>Mechanism of Action</h2>
 <p>Sertraline potently and selectively inhibits the presynaptic serotonin reuptake transporter (SERT), increasing serotonin concentration in the synaptic cleft. Among SSRIs, sertraline has the highest affinity for the dopamine transporter (DAT), providing mild dopamine reuptake inhibition that may contribute to its activating and pro-motivational profile. It also binds to sigma-1 receptors, which may play a role in its anxiolytic effects. Chronic administration leads to downstream neuroplastic changes including increased BDNF expression and hippocampal neurogenesis, which are thought to underlie the full antidepressant response.</p>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>INTERACTS_WITH::<a href="/entities/drug/fluoxetine/" class="internal-link">Fluoxetine</a><br />
+RELATED::<a href="/entities/supplement/5-htp/" class="internal-link">5-HTP</a><br />
+RELATED::<a href="/entities/biologicalprocess/serotonin-reuptake/" class="internal-link">Serotonin Reuptake</a></p>
 <h3>Interacts With</h3>
 <p>INTERACTS_WITH::<a href="/entities/supplement/same/" class="internal-link">SAMe</a><br />
 INTERACTS_WITH::<a href="/entities/supplement/l-tryptophan/" class="internal-link">L-Tryptophan</a><br />
@@ -60,9 +64,5 @@ CAUSES::<a href="/entities/sideeffect/ssri-discontinuation-syndrome/" class="int
 CAUSES::<a href="/entities/sideeffect/serotonin-syndrome/" class="internal-link">Serotonin Syndrome</a></p>
 <h3>Affects Biomarker</h3>
 <p>AFFECTS_BIOMARKER::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a></p>
-<h3>Related</h3>
-<p>INTERACTS_WITH::<a href="/entities/drug/fluoxetine/" class="internal-link">Fluoxetine</a><br />
-RELATED::<a href="/entities/supplement/5-htp/" class="internal-link">5-HTP</a><br />
-RELATED::<a href="/entities/biologicalprocess/serotonin-reuptake/" class="internal-link">Serotonin Reuptake</a></p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.730990Z'
+created: '2026-04-19T18:22:20.606859Z'
 description: The transfer of healthy, functional mitochondria into cells or tissues
   with damaged mitochondria. A cutting-edge "Mitotherapy" for aging and ischemic injury.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Mitochondrial Transplantation
 type: intervention
-updated: '2026-04-17T18:59:19.730990Z'
+updated: '2026-04-19T18:22:20.606859Z'
 ---
 
 {% raw %}
@@ -52,6 +52,12 @@ updated: '2026-04-17T18:59:19.730990Z'
 <li>Risk of arrhythmia with intramyocardial injection (rare)</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/research/2025-mitrix-bio-mitochondrial-transplantation-trial/" class="internal-link">2025 Mitrix Bio Mitochondrial Transplantation Trial</a><br />
+RELATED::<a href="/entities/intervention/mitochondrial-uncoupling/" class="internal-link">Mitochondrial Uncoupling</a> (complementary mitochondrial-targeting strategy)<br />
+RELATED::<a href="/entities/intervention/red-light-therapy/" class="internal-link">Red Light Therapy</a> (non-invasive mitochondrial function enhancement)<br />
+RELATED::<a href="/entities/intervention/cold-exposure/" class="internal-link">Cold Exposure</a> (BAT activation enhances mitochondrial function in parallel)<br />
+RELATED::<a href="/entities/intervention/zone-2-training/" class="internal-link">Zone 2 Training</a> (exercise-induced mitochondrial biogenesis as non-invasive alternative)</p>
 <h3>Targets</h3>
 <p>TARGETS::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (direct replacement of dysfunctional organelles, Evidence Level 3b)</p>
 <h3>Treats</h3>
@@ -59,11 +65,5 @@ updated: '2026-04-17T18:59:19.730990Z'
 TREATS::<a href="/entities/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial Dysfunction</a> (primary indication, Evidence Level 4)</p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> (reduced infarct size in ischemia-reperfusion, Evidence Level 3b)</p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/research/2025-mitrix-bio-mitochondrial-transplantation-trial/" class="internal-link">2025 Mitrix Bio Mitochondrial Transplantation Trial</a><br />
-RELATED::<a href="/entities/intervention/mitochondrial-uncoupling/" class="internal-link">Mitochondrial Uncoupling</a> (complementary mitochondrial-targeting strategy)<br />
-RELATED::<a href="/entities/intervention/red-light-therapy/" class="internal-link">Red Light Therapy</a> (non-invasive mitochondrial function enhancement)<br />
-RELATED::<a href="/entities/intervention/cold-exposure/" class="internal-link">Cold Exposure</a> (BAT activation enhances mitochondrial function in parallel)<br />
-RELATED::<a href="/entities/intervention/zone-2-training/" class="internal-link">Zone 2 Training</a> (exercise-induced mitochondrial biogenesis as non-invasive alternative)</p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.496902Z'
+created: '2026-04-19T18:22:18.963528Z'
 description: Anti-double-stranded DNA antibody is highly specific for systemic lupus
   erythematosus (specificity >95%). Titers fluctuate with disease activity and are
   the best serological marker for monitoring SLE flares, especially lupus nephritis.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Anti-dsDNA Antibody
 type: biomarker
-updated: '2026-04-17T18:59:17.496902Z'
+updated: '2026-04-19T18:22:18.963528Z'
 ---
 
 {% raw %}
@@ -39,6 +39,6 @@ updated: '2026-04-17T18:59:17.496902Z'
 <h3>Correlated With</h3>
 <p>CORRELATED_WITH::<a href="/entities/biomarker/complement-c3/" class="internal-link">Complement C3</a><br />
 CORRELATED_WITH::<a href="/entities/biomarker/complement-c4/" class="internal-link">Complement C4</a><br />
-CORRELATED_WITH::<a href="/entities/labtest/esr/" class="internal-link">ESR</a></p>
+CORRELATED_WITH::<a href="/entities/labtest/esr/" class="internal-link">esr</a></p>
 
 {% endraw %}

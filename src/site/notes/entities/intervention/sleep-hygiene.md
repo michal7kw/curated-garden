@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.754370Z'
+created: '2026-04-19T18:22:20.639221Z'
 description: Evidence-based behavioral practices to optimize sleep quality and circadian
   alignment. Includes consistent sleep-wake timing, light exposure management, temperature
   optimization, and stimulus control. Foundation for all health optimization — poor
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Sleep Hygiene
 type: intervention
-updated: '2026-04-17T18:59:19.754370Z'
+updated: '2026-04-19T18:22:20.639221Z'
 ---
 
 {% raw %}
@@ -56,18 +56,16 @@ updated: '2026-04-17T18:59:19.754370Z'
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/intervention/sleep-optimization/" class="internal-link">Sleep Optimization</a><br />
 MODULATES_HORMONE::<a href="/entities/hormone/melatonin/" class="internal-link">Melatonin</a><br />
-MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a></p>
+MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a></p>
 <h3>Modulates Hormone</h3>
-<p>MODULATES_HORMONE::<a href="/entities/hormone/melatonin/" class="internal-link">Melatonin</a><br />
-MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
-MODULATES_HORMONE::<a href="/entities/hormone/growth-hormone/" class="internal-link">Growth Hormone</a><br />
+<p>MODULATES_HORMONE::<a href="/entities/hormone/growth-hormone/" class="internal-link">Growth Hormone</a><br />
 MODULATES_HORMONE::<a href="/entities/hormone/testosterone/" class="internal-link">Testosterone</a></p>
 <h3>Improves Function</h3>
 <p>IMPROVES_FUNCTION::<a href="/entities/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a><br />
 IMPROVES_FUNCTION::<a href="/entities/cognitivefunction/executive-function/" class="internal-link">Executive Function</a><br />
 IMPROVES_FUNCTION::<a href="/entities/cognitivefunction/emotional-regulation/" class="internal-link">Emotional Regulation</a></p>
 <h3>Affects Cellular Component</h3>
-<p>AFFECTS_CELLULAR_COMPONENT::<a href="/entities/cellularcomponent/telomere/" class="internal-link">Telomere</a></p>
+<p>AFFECTS::<a href="/entities/cellularcomponent/telomere/" class="internal-link">Telomere</a></p>
 <h3>Synergistic With</h3>
 <p>SYNERGISTIC_WITH::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a></p>
 <h2>References</h2>

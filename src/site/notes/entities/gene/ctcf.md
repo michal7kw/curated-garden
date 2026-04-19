@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.844557Z'
+created: '2026-04-19T18:22:21.897139Z'
 description: Encodes CCCTC-binding factor, a master regulator of chromatin architecture
   and gene expression.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: CTCF
 type: gene
-updated: '2026-04-17T18:59:20.844557Z'
+updated: '2026-04-19T18:22:21.897139Z'
 ---
 
 {% raw %}
@@ -53,6 +53,6 @@ INTERACTS_WITH::<a href="/entities/gene/ybx1/" class="internal-link">YBX1</a></p
 PARTICIPATES_IN_PATHWAY::<a class="internal-link is-unresolved" href="/404">Cell Cycle Pathway</a></p>
 <h3>Associated With Condition</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/cancer/" class="internal-link">Cancer</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/entities/phenotype/intellectual-disability/" class="internal-link">Intellectual Disability</a></p>
+ASSOCIATED_WITH_CONDITION::<a href="/entities/phenotype/intellectual-disability/" class="internal-link">Intellectual disability</a></p>
 
 {% endraw %}

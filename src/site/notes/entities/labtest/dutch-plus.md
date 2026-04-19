@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.928985Z'
+created: '2026-04-19T18:22:20.850769Z'
 description: DUTCH Complete plus cortisol awakening response (CAR) assessment via
   saliva samples.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: dutch_plus
 type: labtest
-updated: '2026-04-17T18:59:19.928985Z'
+updated: '2026-04-19T18:22:20.850769Z'
 ---
 
 {% raw %}
@@ -58,7 +58,7 @@ updated: '2026-04-17T18:59:19.928985Z'
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<p>RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+<p>RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 RELATED::<a href="/entities/hormone/estrogen/" class="internal-link">Estrogen</a></p>
 <h2>Notes</h2>
 <ul>

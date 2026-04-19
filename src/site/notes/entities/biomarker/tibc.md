@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.920966Z'
+created: '2026-04-19T18:22:19.203518Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/tibc/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Tibc
 type: biomarker
-updated: '2026-04-17T18:59:17.920966Z'
+updated: '2026-04-19T18:22:19.203518Z'
 ---
 
 {% raw %}
@@ -74,13 +74,9 @@ ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/iron-deficiency-anemia/"
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Hemochromatosis</a> (TIBC decreased in iron overload, Evidence Level 1a)<br />
 INDICATES_ORGAN_HEALTH::<a href="/entities/organ/liver/" class="internal-link">Liver</a> (transferrin is synthesized in the liver; TIBC reflects hepatic synthetic function, Evidence Level 2a)</p>
 <h3>Affected By Supplement</h3>
-<ul>
-<li>-&gt; <a href="/entities/supplement/iron/" class="internal-link">Iron</a> (supplement)</li>
-</ul>
+<p>AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/iron/" class="internal-link">Iron</a></p>
 <h3>Measured By Test</h3>
-<ul>
-<li>-&gt; <a href="/entities/labtest/iron-panel/" class="internal-link">iron panel</a> (labtest)</li>
-<li>-&gt; <a href="/entities/labtest/iron-binding-capacity/" class="internal-link">iron binding capacity</a> (labtest)</li>
-</ul>
+<p>MEASURED_BY_TEST::<a href="/entities/labtest/iron-panel/" class="internal-link">iron panel</a><br />
+MEASURED_BY_TEST::<a href="/entities/labtest/iron-binding-capacity/" class="internal-link">iron binding capacity</a></p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.270377Z'
+created: '2026-04-19T18:22:22.458012Z'
 description: Nutrient-dense blue-green algae (cyanobacteria) with high protein content
   and powerful antioxidant properties. Contains phycocyanin, the unique blue pigment
   with potent anti-inflammatory effects.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Spirulina
 type: supplement
-updated: '2026-04-17T18:59:21.270377Z'
+updated: '2026-04-19T18:22:22.458012Z'
 ---
 
 {% raw %}
@@ -39,8 +39,11 @@ updated: '2026-04-17T18:59:21.270377Z'
 <li><strong>Timing</strong>: With or without food; start at 1 g/day and increase gradually to assess tolerance</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Chlorella</a> (complementary algae supplement with overlapping but distinct benefits)<br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Omega-3</a> (spirulina contains GLA which modulates prostaglandin balance)</p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a><br />
+<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/biomarker/ldl/" class="internal-link">Ldl</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>
 <h3>May Improve Condition</h3>
@@ -58,8 +61,5 @@ AFFECTS_ORGAN::<a href="/entities/organ/immune-system/" class="internal-link">Im
 <p>AFFECTS_BIOMARKER::<a href="/entities/biomarker/hdl/" class="internal-link">Hdl</a> (may modestly increase HDL cholesterol, Evidence Level 2a)<br />
 AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Blood Pressure Systolic</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/labtest/fasting-glucose/" class="internal-link">Fasting Glucose</a></p>
-<h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Chlorella</a> (complementary algae supplement with overlapping but distinct benefits)<br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Omega-3</a> (spirulina contains GLA which modulates prostaglandin balance)</p>
 
 {% endraw %}

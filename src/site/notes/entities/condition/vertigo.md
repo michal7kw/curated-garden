@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.246562Z'
+created: '2026-04-19T18:22:20.017078Z'
 description: An illusory sensation of movement (typically spinning) caused by dysfunction
   of the vestibular system, either peripheral (inner ear) or central (brainstem/cerebellum).
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Vertigo
 type: condition
-updated: '2026-04-17T18:59:19.246562Z'
+updated: '2026-04-19T18:22:20.017078Z'
 ---
 
 {% raw %}
@@ -50,7 +50,7 @@ RELATED::<a href="/entities/condition/migraine/" class="internal-link">Migraine<
 RELATED::<a href="/entities/condition/tinnitus/" class="internal-link">Tinnitus</a></p>
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/homocysteine/" class="internal-link">Homocysteine</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>
 <h3>Improved By Supplement</h3>
 <p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/ginkgo-biloba/" class="internal-link">Ginkgo Biloba</a><br />

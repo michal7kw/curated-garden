@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.570143Z'
+created: '2026-04-19T18:22:19.588500Z'
 description: A group of neurodegenerative disorders characterized by progressive degeneration
   of the frontal and temporal lobes. Causes changes in personality, behavior, and
   language, typically with earlier onset than Alzheimer's disease.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Frontotemporal Dementia
 type: condition
-updated: '2026-04-17T18:59:18.570143Z'
+updated: '2026-04-19T18:22:19.588500Z'
 ---
 
 {% raw %}
@@ -47,7 +47,7 @@ AFFECTS_ORGAN::<a href="/entities/anatomy/temporal-lobe/" class="internal-link">
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">MRI Volumetry</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Amyloid-Beta 4240 Ratio</a><br />
+RELATED::<a href="/entities/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta 4240 Ratio</a><br />
 RELATED::<a href="/entities/pathway/tau-phosphorylation/" class="internal-link">Tau Phosphorylation</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Temporal Pole</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Corticobasal Degeneration</a><br />
@@ -79,7 +79,7 @@ ASSOCIATED_WITH::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF<
 <h3>Improved By Supplement</h3>
 <p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a><br />
-IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Lion's Mane</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/lions-mane/" class="internal-link">Lion's Mane</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/nac/" class="internal-link">NAC</a></p>
 

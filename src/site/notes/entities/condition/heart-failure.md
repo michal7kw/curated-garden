@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.640007Z'
+created: '2026-04-19T18:22:19.627206Z'
 description: A chronic, progressive syndrome in which the heart muscle is unable to
   pump enough blood to meet the body's needs for blood and oxygen.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Heart Failure
 type: condition
-updated: '2026-04-17T18:59:18.640007Z'
+updated: '2026-04-19T18:22:19.627206Z'
 ---
 
 {% raw %}
@@ -43,10 +43,10 @@ updated: '2026-04-17T18:59:18.640007Z'
 <p>RELATED::<a href="/entities/labtest/hyaline-casts-urine/" class="internal-link">hyaline casts urine</a><br />
 RELATED::<a href="/entities/labtest/albumin/" class="internal-link">albumin</a></p>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/bnp/" class="internal-link">BNP</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/bnp/" class="internal-link">bnp</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/troponin/" class="internal-link">Troponin</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/creatinine/" class="internal-link">creatinine</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/sodium/" class="internal-link">Sodium</a></p>
 <h3>Improved By Supplement</h3>
 <p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a><br />

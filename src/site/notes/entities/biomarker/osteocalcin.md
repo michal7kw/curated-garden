@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.843276Z'
+created: '2026-04-19T18:22:19.158140Z'
 description: Osteocalcin is a non-collagenous protein produced by osteoblasts that
   serves as a marker of bone formation. It also functions as a hormone affecting glucose
   metabolism and energy expenditure.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Osteocalcin
 type: biomarker
-updated: '2026-04-17T18:59:17.843276Z'
+updated: '2026-04-19T18:22:19.158140Z'
 ---
 
 {% raw %}
@@ -27,16 +27,11 @@ updated: '2026-04-17T18:59:17.843276Z'
 CORRELATED_WITH::<a href="/entities/biomarker/alkaline-phosphatase/" class="internal-link">Alkaline Phosphatase</a><br />
 CORRELATED_WITH::<a href="/entities/labtest/calcium/" class="internal-link">Calcium</a></p>
 <h3>Affected By Supplement</h3>
-<ul>
-<li>-&gt; <a href="/entities/supplement/vitamin-k2/" class="internal-link">Vitamin K2</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a> (supplement)</li>
-<li>-&gt; <a href="/entities/labtest/calcium/" class="internal-link">Calcium</a> (supplement)</li>
-</ul>
+<p>AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-k2/" class="internal-link">Vitamin K2</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/labtest/calcium/" class="internal-link">Calcium</a></p>
 <h3>Measured By Test</h3>
-<ul>
-<li>-&gt; <a href="/entities/labtest/osteocalcin/" class="internal-link">osteocalcin</a> (labtest)</li>
-</ul>
 <h3>Increases Risk For</h3>
 <p>INCREASES_RISK_FOR::<a href="/entities/condition/osteoporosis/" class="internal-link">Osteoporosis</a> (when low, Evidence Level 2a)</p>
 <h3>Included In</h3>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.890024Z'
+created: '2026-04-19T18:22:19.186081Z'
 description: Secretory Immunoglobulin A is the predominant antibody in mucosal secretions,
   forming the first line of immune defense in the gut, respiratory tract, and other
   mucosal surfaces. It prevents pathogen adherence and neutralizes toxins without
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Secretory IgA
 type: biomarker
-updated: '2026-04-17T18:59:17.890024Z'
+updated: '2026-04-19T18:22:19.186081Z'
 ---
 
 {% raw %}
@@ -25,8 +25,8 @@ updated: '2026-04-17T18:59:17.890024Z'
 <p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/immune-system/" class="internal-link">Immune System</a><br />
 INDICATES_ORGAN_HEALTH::<a href="/entities/organ/gut/" class="internal-link">Gut</a></p>
 <h3>Correlated With</h3>
-<p>CORRELATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
-CORRELATED_WITH::<a href="/entities/labtest/zonulin/" class="internal-link">Zonulin</a><br />
+<p>CORRELATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
+CORRELATED_WITH::<a href="/entities/labtest/zonulin/" class="internal-link">zonulin</a><br />
 CORRELATED_WITH::<a href="/entities/biomarker/calprotectin/" class="internal-link">Calprotectin</a></p>
 <h3>Associated With Condition</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Inflammatory Bowel Disease</a><br />

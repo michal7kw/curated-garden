@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.943267Z'
+created: '2026-04-19T18:22:22.040640Z'
 description: Receptor activator of NF-kB ligand is the master regulator of osteoclastogenesis.
   Produced by osteoblasts, synovial fibroblasts, and activated T cells. Drives osteoclast
   differentiation, activation, and survival. In RA, excessive RANKL drives periarticular
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: RANKL
 type: protein
-updated: '2026-04-17T18:59:20.943267Z'
+updated: '2026-04-19T18:22:22.040640Z'
 ---
 
 {% raw %}

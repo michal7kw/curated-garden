@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.249619Z'
+created: '2026-04-19T18:22:22.440471Z'
 description: Essential trace mineral critical for thyroid function, antioxidant defense
   (glutathione peroxidase), and immune function. Required for T4 to T3 conversion.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Selenium
 type: supplement
-updated: '2026-04-17T18:59:21.249619Z'
+updated: '2026-04-19T18:22:22.440471Z'
 ---
 
 {% raw %}
@@ -42,7 +42,6 @@ RELATED::<a href="/entities/condition/thyroid-dysfunction/" class="internal-link
 AFFECTS_ORGAN::<a href="/entities/organ/immune-system/" class="internal-link">Immune System</a><br />
 RELATED::<a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a><br />
 MODULATES_HORMONE::<a href="/entities/hormone/thyroid-hormones/" class="internal-link">Thyroid Hormones</a><br />
-RELATED::<a href="/entities/condition/thyroid-dysfunction/" class="internal-link">thyroid dysfunction</a><br />
 RELATED::<a href="/entities/supplement/iodine/" class="internal-link">Iodine</a></p>
 <h3>Synergistic With</h3>
 <p>SYNERGISTIC_WITH::<a href="/entities/supplement/zinc/" class="internal-link">Zinc</a><br />
@@ -54,10 +53,7 @@ SYNERGISTIC_WITH::<a href="/entities/supplement/iodine/" class="internal-link">I
 AFFECTS_BIOMARKER::<a href="/entities/biomarker/free-t4/" class="internal-link">Free T4</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a></p>
 <h3>Modulates Hormone</h3>
-<p>MODULATES_HORMONE::<a href="/entities/hormone/thyroid-hormones/" class="internal-link">Thyroid Hormones</a></p>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/entities/organ/immune-system/" class="internal-link">Immune System</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/thyroid/" class="internal-link">Thyroid</a></p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/hashimotos-thyroiditis/" class="internal-link">Hashimotos Thyroiditis</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/immune-system-disorder/" class="internal-link">Immune System Disorder</a><br />

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.674881Z'
+created: '2026-04-19T18:22:21.713056Z'
 description: Serotonergic projections from the dorsal and median raphe nuclei to widespread
   cortical and subcortical targets. Modulates mood, sleep, appetite, pain, and cognition.
   Primary target of SSRI antidepressants.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Raphe Serotonin Pathway
 type: pathway
-updated: '2026-04-17T18:59:20.674881Z'
+updated: '2026-04-19T18:22:21.713056Z'
 ---
 
 {% raw %}
@@ -31,18 +31,18 @@ updated: '2026-04-17T18:59:20.674881Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related To</h3>
-<p>RELATED_TO::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal_Cortex</a><br />
-RELATED_TO::<a href="/entities/anatomy/hypothalamus/" class="internal-link">Hypothalamus</a><br />
-RELATED_TO::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a><br />
-RELATED_TO::<a href="/entities/anatomy/amygdala/" class="internal-link">Amygdala</a><br />
-RELATED_TO::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a></p>
+<p>RELATED::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal_Cortex</a><br />
+RELATED::<a href="/entities/anatomy/hypothalamus/" class="internal-link">Hypothalamus</a><br />
+RELATED::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a><br />
+RELATED::<a href="/entities/anatomy/amygdala/" class="internal-link">Amygdala</a><br />
+RELATED::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a></p>
 <h3>Associated With Condition</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/sleep-disorder/" class="internal-link">Sleep Disorder</a></p>
 <h3>Associated With</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a></p>
 <h3>Involves</h3>
 <p>INVOLVES::<a href="/entities/protein/sert/" class="internal-link">SERT</a><br />

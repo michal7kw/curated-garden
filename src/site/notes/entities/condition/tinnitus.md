@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.216593Z'
+created: '2026-04-19T18:22:19.971125Z'
 description: Perception of sound (ringing, buzzing, hissing, or roaring) in one or
   both ears without an external acoustic source, affecting 10-15% of adults.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Tinnitus
 type: condition
-updated: '2026-04-17T18:59:19.216593Z'
+updated: '2026-04-19T18:22:19.971125Z'
 ---
 
 {% raw %}
@@ -46,24 +46,22 @@ AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Cochlea</a><br
 AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Auditory Cortex</a></li>
 </ul>
 <h2>Relationships</h2>
-<h3>Associated With</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/supplement/zinc/" class="internal-link">zinc</a><br />
-ASSOCIATED_WITH::<a href="/entities/supplement/vitamin-b12/" class="internal-link">vitamin_b12</a><br />
-ASSOCIATED_WITH::<a href="/entities/supplement/magnesium/" class="internal-link">magnesium</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a></p>
-<h3>Improved By Supplement</h3>
-<p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/zinc/" class="internal-link">zinc</a><br />
-IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">magnesium</a><br />
-IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/ginkgo-biloba/" class="internal-link">Ginkgo_Biloba</a><br />
-IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/b-complex-vitamins/" class="internal-link">B-Complex_Vitamins</a><br />
-IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/nac/" class="internal-link">NAC</a></p>
-<h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Auditory_Cortex</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Cochlea</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Auditory_Cortex</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/condition/hearing-loss/" class="internal-link">Hearing_Loss</a><br />
 RELATED::<a href="/entities/condition/insomnia/" class="internal-link">Insomnia</a><br />
 RELATED::<a href="/entities/condition/anxiety/" class="internal-link">Anxiety</a></p>
+<h3>Associated With</h3>
+<p>ASSOCIATED_WITH::<a href="/entities/supplement/zinc/" class="internal-link">Zinc</a><br />
+ASSOCIATED_WITH::<a href="/entities/supplement/vitamin-b12/" class="internal-link">vitamin_b12</a><br />
+ASSOCIATED_WITH::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a></p>
+<h3>Improved By Supplement</h3>
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/zinc/" class="internal-link">Zinc</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/ginkgo-biloba/" class="internal-link">Ginkgo_Biloba</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/b-complex-vitamins/" class="internal-link">B-Complex_Vitamins</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/nac/" class="internal-link">NAC</a></p>
+<h3>Affects Organ</h3>
+<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Auditory_Cortex</a></p>
 
 {% endraw %}

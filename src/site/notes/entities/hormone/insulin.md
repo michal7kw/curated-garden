@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.658416Z'
+created: '2026-04-19T18:22:20.500213Z'
 description: Peptide hormone produced by pancreatic beta cells, essential for glucose
   uptake and metabolism. The master regulator of energy storage and anabolism. Insulin
   resistance is the central pathology of type 2 diabetes and metabolic syndrome, linking
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Insulin
 type: hormone
-updated: '2026-04-17T18:59:19.658416Z'
+updated: '2026-04-19T18:22:20.500213Z'
 ---
 
 {% raw %}
@@ -51,20 +51,20 @@ updated: '2026-04-17T18:59:19.658416Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/hormone/growth-hormone/" class="internal-link">Growth Hormone</a><br />
-RELATED::<a href="/entities/labtest/leptin/" class="internal-link">Leptin</a><br />
+RELATED::<a href="/entities/labtest/leptin/" class="internal-link">leptin</a><br />
 RELATED::<a href="/entities/hormone/ghrelin/" class="internal-link">Ghrelin</a><br />
-RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 RELATED::<a href="/entities/pathway/ampk-pathway/" class="internal-link">AMPK Pathway</a></p>
 <h3>Modulates Biomarker</h3>
-<p>MODULATES_BIOMARKER::<a href="/entities/labtest/fasting-glucose/" class="internal-link">Fasting Glucose</a><br />
-MODULATES_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">HbA1c</a></p>
+<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/fasting-glucose/" class="internal-link">Fasting Glucose</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a></p>
 <h3>Affected By Intervention</h3>
 <p>AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/intermittent-fasting/" class="internal-link">Intermittent Fasting</a><br />
 AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/exercise/" class="internal-link">Exercise</a><br />
 AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/time-restricted-eating/" class="internal-link">Time-Restricted Eating</a><br />
 AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/mediterranean-diet/" class="internal-link">Mediterranean Diet</a></p>
 <h3>Produced By Organ</h3>
-<p>PRODUCED_BY_ORGAN::<a href="/entities/organ/pancreas/" class="internal-link">Pancreas</a></p>
+<p>PRODUCED_BY::<a href="/entities/organ/pancreas/" class="internal-link">Pancreas</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:16497175</li>
@@ -81,6 +81,6 @@ RELATED::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesi
 RELATED::<a href="/entities/organ/pancreas/" class="internal-link">Pancreas</a><br />
 RELATED::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a><br />
 RELATED::<a href="/entities/labtest/fasting-insulin/" class="internal-link">fasting insulin</a><br />
-RELATED::<a href="/entities/labtest/homa-ir/" class="internal-link">homa ir</a></p>
+RELATED::<a href="/entities/labtest/homa-ir/" class="internal-link">Homa Ir</a></p>
 
 {% endraw %}

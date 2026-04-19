@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.326112Z'
+created: '2026-04-19T18:22:22.536524Z'
 description: Essential trace mineral involved in 300+ enzymatic reactions, critical
   for immune function, testosterone synthesis, wound healing, DNA synthesis, and taste/smell
   perception. Second most abundant trace mineral in the body after iron. Deficiency
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Zinc
 type: supplement
-updated: '2026-04-17T18:59:21.326112Z'
+updated: '2026-04-19T18:22:22.536524Z'
 ---
 
 {% raw %}
@@ -54,6 +54,10 @@ updated: '2026-04-17T18:59:21.326112Z'
 <li><strong>Timing</strong>: Take with food; separate from iron, calcium, and phytate-rich foods by 2 hours</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>MODULATES_HORMONE::<a href="/entities/hormone/testosterone/" class="internal-link">Testosterone</a><br />
+MODULATES_HORMONE::<a href="/entities/hormone/thyroid-hormones/" class="internal-link">Thyroid Hormones</a><br />
+MODULATES_HORMONE::<a href="/entities/hormone/growth-hormone/" class="internal-link">Growth Hormone</a></p>
 <h3>Affects Biomarker</h3>
 <p>AFFECTS_BIOMARKER::<a href="/entities/hormone/testosterone/" class="internal-link">Testosterone</a><br />
 AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a></p>
@@ -69,15 +73,11 @@ SYNERGISTIC_WITH::<a href="/entities/supplement/selenium/" class="internal-link"
 <h3>Competes With</h3>
 <p>COMPETES_WITH::<a href="/entities/supplement/iron/" class="internal-link">Iron</a><br />
 COMPETES_WITH::<a href="/entities/biomarker/copper/" class="internal-link">Copper</a></p>
-<h3>Related</h3>
-<p>MODULATES_HORMONE::<a href="/entities/hormone/testosterone/" class="internal-link">Testosterone</a><br />
-MODULATES_HORMONE::<a href="/entities/hormone/thyroid-hormones/" class="internal-link">Thyroid Hormones</a><br />
-MODULATES_HORMONE::<a href="/entities/hormone/growth-hormone/" class="internal-link">Growth Hormone</a></p>
 <h3>Targets Biomarker</h3>
-<p>TARGETS_BIOMARKER::<a href="/entities/labtest/albumin/" class="internal-link">Albumin</a><br />
+<p>TARGETS_BIOMARKER::<a href="/entities/labtest/albumin/" class="internal-link">albumin</a><br />
 TARGETS_BIOMARKER::<a href="/entities/biomarker/alkaline-phosphatase/" class="internal-link">Alkaline Phosphatase</a><br />
 TARGETS_BIOMARKER::<a href="/entities/biomarker/copper/" class="internal-link">Copper</a><br />
-TARGETS_BIOMARKER::<a href="/entities/labtest/zonulin/" class="internal-link">Zonulin</a></p>
+TARGETS_BIOMARKER::<a href="/entities/labtest/zonulin/" class="internal-link">zonulin</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:28515951</li>
@@ -91,16 +91,12 @@ AFFECTS_ORGAN::<a href="/entities/organ/thyroid/" class="internal-link">Thyroid<
 MODULATES_NEUROTRANSMITTER::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
 RELATED::<a href="/entities/biomarker/copper/" class="internal-link">Copper</a><br />
 RELATED::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/immune-system/" class="internal-link">Immune System</a><br />
 RELATED::<a href="/entities/supplement/iron/" class="internal-link">Iron</a><br />
 RELATED::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
 RELATED::<a href="/entities/supplement/selenium/" class="internal-link">Selenium</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/skin/" class="internal-link">Skin</a><br />
 RELATED::<a href="/entities/condition/thyroid-dysfunction/" class="internal-link">Thyroid Dysfunction</a><br />
 RELATED::<a href="/entities/hormone/thyroid-hormones/" class="internal-link">Thyroid Hormones</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/thyroid/" class="internal-link">Thyroid</a><br />
 RELATED::<a href="/entities/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a><br />
-RELATED::<a href="/entities/condition/thyroid-dysfunction/" class="internal-link">thyroid dysfunction</a><br />
 SYNERGISTIC_WITH::<a href="/entities/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a></p>
 
 {% endraw %}

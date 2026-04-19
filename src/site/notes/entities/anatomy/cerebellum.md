@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.392007Z'
+created: '2026-04-19T18:22:18.883469Z'
 description: Contains over half the brain's neurons despite being 10% of brain volume.
   Essential for motor coordination, balance, timing, and increasingly recognized for
   cognitive and emotional processing.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Cerebellum
 type: anatomy
-updated: '2026-04-17T18:59:17.392007Z'
+updated: '2026-04-19T18:22:18.883469Z'
 ---
 
 {% raw %}

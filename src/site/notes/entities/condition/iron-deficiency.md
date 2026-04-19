@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.064137Z'
+created: '2026-04-19T18:22:19.323883Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/condition/iron-deficiency/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Iron Deficiency
 type: condition
-updated: '2026-04-17T18:59:18.064137Z'
+updated: '2026-04-19T18:22:19.323883Z'
 ---
 
 {% raw %}
@@ -63,12 +63,9 @@ updated: '2026-04-17T18:59:18.064137Z'
 <li><strong>Monitoring</strong>: Recheck ferritin and CBC at 8-12 weeks (ferritin should increase &gt;30 ng/mL; Hb should rise 1-2 g/dL in 4 weeks if iron deficiency was the cause); continue supplementation for 3-6 months after normalization to replenish stores; target ferritin &gt;50 ng/mL (some experts recommend &gt;100 ng/mL for optimal function)</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Increases Risk For</h3>
-<p>INCREASES_RISK_FOR::<a href="/entities/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a><br />
-INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Restless Leg Syndrome</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
-RELATED::<a href="/entities/biomarker/tibc/" class="internal-link">TIBC</a><br />
+RELATED::<a href="/entities/biomarker/tibc/" class="internal-link">Tibc</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Iron Deficiency Pattern</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Iron Metabolism</a><br />
 RELATED::<a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin C</a><br />
@@ -76,8 +73,11 @@ RELATED::<a href="/entities/condition/iron-deficiency-anemia/" class="internal-l
 RELATED::<a class="internal-link is-unresolved" href="/404">Iron Bisglycinate</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Restless Leg Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Bone Marrow</a><br />
-RELATED::<a href="/entities/labtest/ferritin/" class="internal-link">Ferritin</a><br />
+RELATED::<a href="/entities/labtest/ferritin/" class="internal-link">ferritin</a><br />
 RELATED::<a href="/entities/biomarker/transferrin-saturation/" class="internal-link">Transferrin Saturation</a></p>
+<h3>Increases Risk For</h3>
+<p>INCREASES_RISK_FOR::<a href="/entities/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a><br />
+INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Restless Leg Syndrome</a></p>
 <h3>Improved By Supplement</h3>
 <p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin C</a><br />
 IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Iron Bisglycinate</a></p>
@@ -88,7 +88,7 @@ IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Iron 
 AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 <h3>Requires Biomarker</h3>
 <p>REQUIRES_BIOMARKER::<a href="/entities/biomarker/transferrin-saturation/" class="internal-link">Transferrin Saturation</a><br />
-REQUIRES_BIOMARKER::<a href="/entities/labtest/ferritin/" class="internal-link">Ferritin</a><br />
-REQUIRES_BIOMARKER::<a href="/entities/biomarker/tibc/" class="internal-link">TIBC</a></p>
+REQUIRES_BIOMARKER::<a href="/entities/labtest/ferritin/" class="internal-link">ferritin</a><br />
+REQUIRES_BIOMARKER::<a href="/entities/biomarker/tibc/" class="internal-link">Tibc</a></p>
 
 {% endraw %}

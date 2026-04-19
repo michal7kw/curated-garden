@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.249976Z'
+created: '2026-04-19T18:22:21.220001Z'
 description: Thyroglobulin antibodies are proteins made by the immune system that
   mistakenly target thyroglobulin, a protein the thyroid uses to make hormones. Their
   presence can signal autoimmune activity affecting the thyroid, which may interfere
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: thyroglobulin_antibodies_tgab
 type: labtest
-updated: '2026-04-17T18:59:20.249976Z'
+updated: '2026-04-19T18:22:21.220001Z'
 ---
 
 {% raw %}
@@ -63,7 +63,7 @@ updated: '2026-04-17T18:59:20.249976Z'
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Other Autoimmune Diseases EG Type 1 Diabetes Rheumatoid Arthritis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Papillary Thyroid Cancer</a><br />
-RELATED::<a href="/entities/condition/hashimotos-thyroiditis/" class="internal-link">HashimotoS Thyroiditis</a><br />
+RELATED::<a href="/entities/condition/hashimotos-thyroiditis/" class="internal-link">Hashimotos Thyroiditis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Autoimmune Hypothyroidism</a><br />
 RELATED::<a href="/entities/labtestpanel/extended-thyroid-health/" class="internal-link">extended thyroid health</a><br />
 RELATED::<a href="/entities/condition/subclinical-hypothyroidism/" class="internal-link">Subclinical Hypothyroidism</a></p>

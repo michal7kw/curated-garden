@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.844945Z'
+created: '2026-04-19T18:22:19.746237Z'
 description: A condition in which bladder control is lost due to brain, spinal cord,
   or nerve problems, affecting the storage or emptying of urine.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Neurogenic Bladder
 type: condition
-updated: '2026-04-17T18:59:18.844945Z'
+updated: '2026-04-19T18:22:19.746237Z'
 ---
 
 {% raw %}
@@ -23,7 +23,7 @@ updated: '2026-04-17T18:59:18.844945Z'
 <p>A condition in which bladder control is lost due to brain, spinal cord, or nerve problems, affecting the storage or emptying of urine.</p>
 <h2>Relationships</h2>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/creatinine/" class="internal-link">creatinine</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/blood-urea-nitrogen/" class="internal-link">Blood Urea Nitrogen</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>
 <h3>Improved By Supplement</h3>

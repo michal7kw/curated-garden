@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.419685Z'
+created: '2026-04-19T18:22:20.218373Z'
 description: Cardioselective beta-1 blocker for hypertension, angina, heart failure,
   and arrhythmias. Reduces heart rate and myocardial oxygen demand. One of the most
   prescribed cardiovascular medications.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Metoprolol
 type: drug
-updated: '2026-04-17T18:59:19.419685Z'
+updated: '2026-04-19T18:22:20.218373Z'
 ---
 
 {% raw %}
@@ -35,6 +35,10 @@ updated: '2026-04-17T18:59:19.419685Z'
 <li><strong>Migraine prophylaxis</strong>: Off-label; evidence-supported for migraine prevention</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>INTERACTS_WITH::<a href="/entities/drug/losartan/" class="internal-link">Losartan</a><br />
+RELATED::<a href="/entities/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a><br />
+RELATED::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a></p>
 <h3>Interacts With</h3>
 <p>INTERACTS_WITH::<a href="/entities/supplement/melatonin-supplement/" class="internal-link">Melatonin Supplement</a></p>
 <h3>Treats</h3>
@@ -44,9 +48,5 @@ TREATS::<a href="/entities/condition/cardiovascular-disease/" class="internal-li
 <p>MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a></p>
 <h3>Affects Organ</h3>
 <p>AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a></p>
-<h3>Related</h3>
-<p>INTERACTS_WITH::<a href="/entities/drug/losartan/" class="internal-link">Losartan</a><br />
-RELATED::<a href="/entities/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a><br />
-RELATED::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a></p>
 
 {% endraw %}

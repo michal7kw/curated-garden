@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.733942Z'
+created: '2026-04-19T18:22:20.612465Z'
 description: A metabolic intervention where the proton gradient in mitochondria is
   dissipated (leaked) without generating ATP, forcing the cell to burn more fuel to
   maintain the potential. Mimics exercise and activates thermogenesis.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Mitochondrial Uncoupling
 type: intervention
-updated: '2026-04-17T18:59:19.733942Z'
+updated: '2026-04-19T18:22:20.612465Z'
 ---
 
 {% raw %}
@@ -57,6 +57,12 @@ updated: '2026-04-17T18:59:19.733942Z'
 <li>Potential muscle weakness (bioenergetic deficit)</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/research/2025-bam15-mitochondrial-uncoupling-review/" class="internal-link">2025 BAM15 Mitochondrial Uncoupling Review</a><br />
+RELATED::<a href="/entities/intervention/mitochondrial-transplantation/" class="internal-link">Mitochondrial Transplantation</a> (complementary mitochondrial-targeting approach)<br />
+RELATED::<a href="/entities/intervention/red-light-therapy/" class="internal-link">Red Light Therapy</a> (enhances coupled mitochondrial respiration; opposite mechanism)<br />
+RELATED::<a href="/entities/intervention/keto-diet/" class="internal-link">Keto Diet</a> (ketones may influence mitochondrial coupling efficiency)<br />
+RELATED::<a href="/entities/intervention/intermittent-fasting/" class="internal-link">Intermittent Fasting</a> (fasting activates AMPK similarly to mild uncoupling)</p>
 <h3>Targets</h3>
 <p>TARGETS::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (proton leak across inner mitochondrial membrane, Evidence Level 2b)</p>
 <h3>Mimics</h3>
@@ -66,13 +72,7 @@ MIMICS::<a href="/entities/intervention/exercise/" class="internal-link">Exercis
 <p>ACTIVATED_BY::<a class="internal-link is-unresolved" href="/404">BAM15</a> (next-generation synthetic mitochondrial uncoupler, Evidence Level 3b)<br />
 ACTIVATED_BY::<a href="/entities/intervention/cold-exposure/" class="internal-link">Cold Exposure</a> (activates UCP1 in brown adipose tissue, Evidence Level 2b)</p>
 <h3>Modulates Biomarker</h3>
-<p>MODULATES_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">HbA1c</a> (improved glycemic control in animal models, Evidence Level 3b)<br />
-MODULATES_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a> (reduced hepatic steatosis and circulating triglycerides, Evidence Level 3b)</p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/research/2025-bam15-mitochondrial-uncoupling-review/" class="internal-link">2025 BAM15 Mitochondrial Uncoupling Review</a><br />
-RELATED::<a href="/entities/intervention/mitochondrial-transplantation/" class="internal-link">Mitochondrial Transplantation</a> (complementary mitochondrial-targeting approach)<br />
-RELATED::<a href="/entities/intervention/red-light-therapy/" class="internal-link">Red Light Therapy</a> (enhances coupled mitochondrial respiration; opposite mechanism)<br />
-RELATED::<a href="/entities/intervention/keto-diet/" class="internal-link">Keto Diet</a> (ketones may influence mitochondrial coupling efficiency)<br />
-RELATED::<a href="/entities/intervention/intermittent-fasting/" class="internal-link">Intermittent Fasting</a> (fasting activates AMPK similarly to mild uncoupling)</p>
+<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a> (improved glycemic control in animal models, Evidence Level 3b)<br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a> (reduced hepatic steatosis and circulating triglycerides, Evidence Level 3b)</p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.676585Z'
+created: '2026-04-19T18:22:20.521826Z'
 description: Deliberate control of breathing patterns to influence autonomic nervous
   system function, stress response, and cognitive state. Encompasses slow breathing
   (4-6 breaths/min for parasympathetic activation), cyclic hyperventilation (Wim Hof,
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Breathwork
 type: intervention
-updated: '2026-04-17T18:59:19.676585Z'
+updated: '2026-04-19T18:22:20.521826Z'
 ---
 
 {% raw %}
@@ -50,16 +50,6 @@ updated: '2026-04-17T18:59:19.676585Z'
 <li>Pneumothorax history</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Modulates Hormone</h3>
-<p>MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a> (slow breathing reduces cortisol via HPA axis downregulation, Evidence Level 1b)<br />
-MODULATES_HORMONE::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a> (cyclic hyperventilation increases norepinephrine 2-3x, Evidence Level 2b)<br />
-MODULATES_HORMONE::<a class="internal-link is-unresolved" href="/404">Epinephrine</a> (Wim Hof method acutely elevates epinephrine, Evidence Level 2b)</p>
-<h3>Modulates Biomarker</h3>
-<p>MODULATES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a> (anti-inflammatory effects via vagal tone enhancement, Evidence Level 2b)</p>
-<h3>Affects Brain Region</h3>
-<p>AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a> (box breathing enhances prefrontal regulation of amygdala, Evidence Level 3a)</p>
-<h3>Improves Function</h3>
-<p>IMPROVES_FUNCTION::<a href="/entities/cognitivefunction/emotional-regulation/" class="internal-link">Emotional Regulation</a> (vagal tone enhancement improves affect regulation, Evidence Level 2a)</p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
 RELATED::<a href="/entities/intervention/yoga/" class="internal-link">Yoga</a> (pranayama is a core breathwork component of yoga)<br />
@@ -68,5 +58,15 @@ RELATED::<a href="/entities/intervention/sleep-optimization/" class="internal-li
 RELATED::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a> (slow breathing increases GABAergic tone)<br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/hypertension/" class="internal-link">Hypertension</a> (slow breathing reduces BP 4-6 mmHg, Evidence Level 1a)<br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/anxiety/" class="internal-link">Anxiety</a> (breathing interventions show moderate anxiolytic effect, Evidence Level 2a)</p>
+<h3>Modulates Hormone</h3>
+<p>MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a> (slow breathing reduces cortisol via HPA axis downregulation, Evidence Level 1b)<br />
+MODULATES_HORMONE::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a> (cyclic hyperventilation increases norepinephrine 2-3x, Evidence Level 2b)<br />
+MODULATES_HORMONE::<a class="internal-link is-unresolved" href="/404">Epinephrine</a> (Wim Hof method acutely elevates epinephrine, Evidence Level 2b)</p>
+<h3>Modulates Biomarker</h3>
+<p>AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a> (anti-inflammatory effects via vagal tone enhancement, Evidence Level 2b)</p>
+<h3>Affects Brain Region</h3>
+<p>AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a> (box breathing enhances prefrontal regulation of amygdala, Evidence Level 3a)</p>
+<h3>Improves Function</h3>
+<p>IMPROVES_FUNCTION::<a href="/entities/cognitivefunction/emotional-regulation/" class="internal-link">Emotional Regulation</a> (vagal tone enhancement improves affect regulation, Evidence Level 2a)</p>
 
 {% endraw %}

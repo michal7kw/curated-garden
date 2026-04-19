@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.162207Z'
+created: '2026-04-19T18:22:22.314159Z'
 description: Conditionally essential amino acid and primary precursor to the catecholamine
   neurotransmitters (dopamine, norepinephrine, epinephrine) and thyroid hormones (T3,
   T4). Most effective for cognitive enhancement under conditions of stress, sleep
@@ -21,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: L-Tyrosine
 type: supplement
-updated: '2026-04-17T18:59:21.162207Z'
+updated: '2026-04-19T18:22:22.314159Z'
 ---
 
 {% raw %}
@@ -94,6 +94,10 @@ updated: '2026-04-17T18:59:21.162207Z'
 <li><strong>Dopamine synthesis and cognition review</strong>: Comprehensive review of how tyrosine availability modulates dopaminergic function and cognition, with emphasis on individual differences in baseline dopamine (PMID:26424423)</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/supplement/iron/" class="internal-link">Iron</a><br />
+RELATED::<a href="/entities/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a><br />
+RELATED::<a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin C</a></p>
 <h3>Affects Organ</h3>
 <p>AFFECTS_ORGAN::<a href="/entities/organ/adrenal-glands/" class="internal-link">Adrenal Glands</a><br />
 AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
@@ -125,13 +129,8 @@ SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/executive-function/" cla
 <h3>Competes With</h3>
 <p>COMPETES_WITH::<a href="/entities/supplement/5-htp/" class="internal-link">5-HTP</a><br />
 COMPETES_WITH::<a href="/entities/supplement/l-tryptophan/" class="internal-link">L-Tryptophan</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/supplement/iron/" class="internal-link">Iron</a><br />
-RELATED::<a href="/entities/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a><br />
-RELATED::<a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin C</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/adrenal-glands/" class="internal-link">Adrenal Glands</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/tsh/" class="internal-link">Tsh</a><br />
+<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/tsh/" class="internal-link">tsh</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/biomarker/free-t3/" class="internal-link">Free T3</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/biomarker/free-t4/" class="internal-link">Free T4</a></p>
 <h2>References</h2>

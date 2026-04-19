@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.490674Z'
+created: '2026-04-19T18:22:18.957408Z'
 description: Anti-cyclic citrullinated peptide (anti-CCP) antibody is the most specific
   serological marker for rheumatoid arthritis (specificity 95-98%). Can be detected
   years before clinical disease onset. Higher titers predict more aggressive erosive
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Anti-CCP Antibody
 type: biomarker
-updated: '2026-04-17T18:59:17.490674Z'
+updated: '2026-04-19T18:22:18.957408Z'
 ---
 
 {% raw %}
@@ -40,7 +40,7 @@ updated: '2026-04-17T18:59:17.490674Z'
 <p>INDICATES::<a href="/entities/condition/rheumatoid-arthritis/" class="internal-link">Rheumatoid Arthritis</a></p>
 <h3>Correlated With</h3>
 <p>CORRELATED_WITH::<a class="internal-link is-unresolved" href="/404">hs-CRP</a><br />
-CORRELATED_WITH::<a href="/entities/labtest/esr/" class="internal-link">ESR</a></p>
+CORRELATED_WITH::<a href="/entities/labtest/esr/" class="internal-link">esr</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:14517547</li>

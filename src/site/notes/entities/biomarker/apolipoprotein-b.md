@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.500810Z'
+created: '2026-04-19T18:22:18.965358Z'
 description: Apolipoprotein B (ApoB) is the primary structural protein found in all
   atherogenic (plaque-forming) lipoprotein particles, including LDL, VLDL, and IDL.
   It is considered a superior predictor of cardiovascular risk compared to LDL-C alone.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Apolipoprotein B
 type: biomarker
-updated: '2026-04-17T18:59:17.500810Z'
+updated: '2026-04-19T18:22:18.965358Z'
 ---
 
 {% raw %}
@@ -29,7 +29,7 @@ updated: '2026-04-17T18:59:17.500810Z'
 <p>CORRELATED_WITH::<a href="/entities/biomarker/vldl/" class="internal-link">Vldl</a><br />
 CORRELATED_WITH::<a href="/entities/labtest/total-cholesterol/" class="internal-link">Total Cholesterol</a><br />
 CORRELATED_WITH::<a href="/entities/biomarker/ldl/" class="internal-link">Ldl</a><br />
-CORRELATED_WITH::<a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a></p>
+CORRELATED_WITH::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a></p>
 <h3>Predicts Risk</h3>
 <p>PREDICTS_RISK::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
 PREDICTS_RISK::<a href="/entities/condition/myocardial-infarction/" class="internal-link">Myocardial Infarction</a></p>

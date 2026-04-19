@@ -1,5 +1,10 @@
 ---
-created: '2026-04-17T18:59:17.948498Z'
+created: '2026-04-19T18:22:19.256641Z'
+description: Thyroid Stimulating Hormone (TSH, thyrotropin) is a glycoprotein hormone
+  produced by the anterior pituitary that regulates thyroid hormone production. It
+  is the single most sensitive screening test for thyroid dysfunction, with a logarithmic
+  relationship to free T4 making it the earliest indicator of both hypothyroidism
+  and hyperthyroidism.
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/tsh/
@@ -9,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Tsh
 type: biomarker
-updated: '2026-04-17T18:59:17.948498Z'
+updated: '2026-04-19T18:22:19.256641Z'
 ---
 
 {% raw %}
@@ -86,15 +91,14 @@ ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/anxiety/" class="interna
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Hashimoto's Thyroiditis</a> (most common cause of elevated TSH in iodine-sufficient regions, Evidence Level 1a)<br />
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Graves' Disease</a> (causes TSH suppression via thyroid-stimulating antibodies, Evidence Level 1a)<br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a> (subclinical hypothyroidism is an underrecognized cause of treatment-resistant depression, Evidence Level 2a)<br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Hyperlipidemia</a> (hypothyroidism elevates LDL cholesterol, Evidence Level 1a)</p>
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Hyperlipidemia</a> (hypothyroidism elevates LDL cholesterol, Evidence Level 1a)<br />
+RELATED::<a href="/entities/labtest/thyroid-panel-basic/" class="internal-link">thyroid_panel_basic</a><br />
+RELATED::<a href="/entities/labtest/thyroid-panel-complete/" class="internal-link">thyroid_panel_complete</a></p>
 <h3>Indicates Organ Health</h3>
 <p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/thyroid/" class="internal-link">Thyroid</a><br />
 INDICATES_ORGAN_HEALTH::<a class="internal-link is-unresolved" href="/404">Pituitary</a> (TSH production reflects anterior pituitary function, Evidence Level 1a)</p>
 <h3>Increases Risk For</h3>
 <p>INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Hypothyroidism</a> (when elevated, Evidence Level 1a)<br />
 INCREASES_RISK_FOR::<a href="/entities/condition/hyperthyroidism/" class="internal-link">Hyperthyroidism</a> (when suppressed, Evidence Level 1a)</p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/labtest/thyroid-panel-basic/" class="internal-link">thyroid_panel_basic</a><br />
-RELATED::<a href="/entities/labtest/thyroid-panel-complete/" class="internal-link">thyroid_panel_complete</a></p>
 
 {% endraw %}

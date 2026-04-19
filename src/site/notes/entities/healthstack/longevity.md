@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.606013Z'
+created: '2026-04-19T18:22:20.445316Z'
 description: Target the hallmarks of aging with cutting-edge and foundational supplements.
   Omega-3 and vitamin D form the anti-inflammatory base, CoQ10 supports mitochondrial
   function, curcumin inhibits chronic inflammation, NMN boosts NAD+ for cellular repair,
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Longevity
 type: healthstack
-updated: '2026-04-17T18:59:19.606013Z'
+updated: '2026-04-19T18:22:20.445316Z'
 ---
 
 {% raw %}
@@ -100,7 +100,7 @@ updated: '2026-04-17T18:59:19.606013Z'
 <td>Inflammaging is the primary driver of age-related disease</td>
 </tr>
 <tr>
-<td><a href="/entities/labtest/hba1c/" class="internal-link">HbA1c</a></td>
+<td><a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a></td>
 <td>4.0-5.7</td>
 <td>4.5-5.2</td>
 <td>%</td>
@@ -114,7 +114,7 @@ updated: '2026-04-17T18:59:19.606013Z'
 <td>Optimal levels associated with reduced all-cause mortality</td>
 </tr>
 <tr>
-<td><a href="/entities/labtest/homocysteine/" class="internal-link">Homocysteine</a></td>
+<td><a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a></td>
 <td>0-15</td>
 <td>0-8</td>
 <td>umol/L</td>

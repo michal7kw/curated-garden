@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.013639Z'
+created: '2026-04-19T18:22:22.124899Z'
 description: Drug-induced hemorrhage from the gastrointestinal tract, most commonly
   caused by NSAIDs and anticoagulants through disruption of mucosal prostaglandin
   protection or impaired hemostasis, ranging from occult bleeding to life-threatening
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Gastrointestinal Bleeding
 type: sideeffect
-updated: '2026-04-17T18:59:21.013639Z'
+updated: '2026-04-19T18:22:22.124899Z'
 ---
 
 {% raw %}
@@ -91,7 +91,7 @@ CAUSED_BY::<a href="/entities/drug/ibuprofen/" class="internal-link">Ibuprofen</
 RISK_MODIFIED_BY::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
 ASSOCIATED_WITH::<a href="/entities/condition/hemorrhage/" class="internal-link">Hemorrhage</a><br />
 ASSOCIATED_WITH::<a href="/entities/condition/duodenal-ulcer/" class="internal-link">Duodenal Ulcer</a><br />
-MONITORED_BY::<a href="/entities/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
+MONITORED_BY::<a href="/entities/labtest/hemoglobin/" class="internal-link">hemoglobin</a><br />
 RISK_INCREASED_BY::<a href="/entities/drug/fluoxetine/" class="internal-link">Fluoxetine</a><br />
 RISK_INCREASED_BY::<a href="/entities/drug/sertraline/" class="internal-link">Sertraline</a><br />
 RISK_INCREASED_BY::<a href="/entities/drug/paroxetine/" class="internal-link">Paroxetine</a></p>

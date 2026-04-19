@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.237466Z'
+created: '2026-04-19T18:22:22.432886Z'
 description: Essential B-vitamin (B2) that serves as a precursor to FAD and FMN, critical
   cofactors for Complex I and Complex II of the mitochondrial electron transport chain
   and numerous oxidoreductase enzymes.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Riboflavin
 type: supplement
-updated: '2026-04-17T18:59:21.237466Z'
+updated: '2026-04-19T18:22:22.432886Z'
 ---
 
 {% raw %}
@@ -56,15 +56,6 @@ updated: '2026-04-17T18:59:21.237466Z'
 <li><strong>Timing</strong>: With food for optimal absorption</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Synergistic With</h3>
-<p>SYNERGISTIC_WITH::<a href="/entities/supplement/magnesium/" class="internal-link">magnesium</a><br />
-SYNERGISTIC_WITH::<a href="/entities/supplement/coenzyme-q10/" class="internal-link">Coenzyme_Q10</a></p>
-<h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/entities/supplement/glutathione/" class="internal-link">glutathione</a></p>
-<h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/oxidative-stress/" class="internal-link">Oxidative_Stress</a><br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a><br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial_Dysfunction</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/supplement/niacin/" class="internal-link">Niacin</a><br />
 RELATED::<a href="/entities/supplement/b-complex-vitamins/" class="internal-link">B-Complex_Vitamins</a><br />
@@ -73,6 +64,15 @@ RELATED::<a href="/entities/metabolite/fadh2/" class="internal-link">FADH2</a><b
 RELATED::<a href="/entities/protein/complex-i/" class="internal-link">Complex_I</a><br />
 RELATED::<a href="/entities/protein/complex-ii/" class="internal-link">Complex_II</a><br />
 RELATED::<a href="/entities/supplement/thiamine/" class="internal-link">Thiamine</a></p>
+<h3>Synergistic With</h3>
+<p>SYNERGISTIC_WITH::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
+SYNERGISTIC_WITH::<a href="/entities/supplement/coenzyme-q10/" class="internal-link">Coenzyme_Q10</a></p>
+<h3>Affects Biomarker</h3>
+<p>AFFECTS_BIOMARKER::<a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a></p>
+<h3>May Improve Condition</h3>
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/oxidative-stress/" class="internal-link">Oxidative_Stress</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a><br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial_Dysfunction</a></p>
 <h3>Participates In Pathway</h3>
 <p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/electron-transport-chain/" class="internal-link">Electron_Transport_Chain</a><br />
 PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative_Phosphorylation</a></p>

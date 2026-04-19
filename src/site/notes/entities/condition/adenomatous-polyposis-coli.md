@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.181763Z'
+created: '2026-04-19T18:22:19.393012Z'
 description: An inherited disorder characterized by the development of hundreds to
   thousands of adenomatous polyps in the colon and rectum, with a high risk of progression
   to colorectal cancer.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Adenomatous Polyposis Coli
 type: condition
-updated: '2026-04-17T18:59:18.181763Z'
+updated: '2026-04-19T18:22:19.393012Z'
 ---
 
 {% raw %}
@@ -25,10 +25,10 @@ updated: '2026-04-17T18:59:18.181763Z'
 <p>An inherited disorder characterized by the development of hundreds to thousands of adenomatous polyps in the colon and rectum, with a high risk of progression to colorectal cancer.</p>
 <h2>Relationships</h2>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/cea/" class="internal-link">CEA</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/cea/" class="internal-link">cea</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/ferritin/" class="internal-link">Ferritin</a></p>
+ASSOCIATED_WITH::<a href="/entities/labtest/hemoglobin/" class="internal-link">hemoglobin</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/ferritin/" class="internal-link">ferritin</a></p>
 <h3>Improved By Supplement</h3>
 <p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />

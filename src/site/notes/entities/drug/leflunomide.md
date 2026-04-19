@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.372186Z'
+created: '2026-04-19T18:22:20.167355Z'
 description: Pyrimidine synthesis inhibitor used as alternative to methotrexate in
   RA when MTX is contraindicated or not tolerated. Inhibits dihydroorotate dehydrogenase
   (DHODH), blocking de novo pyrimidine synthesis in rapidly proliferating lymphocytes.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Leflunomide
 type: drug
-updated: '2026-04-17T18:59:19.372186Z'
+updated: '2026-04-19T18:22:20.167355Z'
 ---
 
 {% raw %}
@@ -33,7 +33,7 @@ updated: '2026-04-17T18:59:19.372186Z'
 <p>TREATS::<a href="/entities/condition/rheumatoid-arthritis/" class="internal-link">Rheumatoid Arthritis</a></p>
 <h3>Affects Biomarker</h3>
 <p>AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a><br />
-AFFECTS_BIOMARKER::<a href="/entities/labtest/esr/" class="internal-link">ESR</a></p>
+AFFECTS_BIOMARKER::<a href="/entities/labtest/esr/" class="internal-link">esr</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:12746916</li>

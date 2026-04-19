@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.710507Z'
+created: '2026-04-19T18:22:20.579935Z'
 description: Dietary pattern that cycles between periods of eating and voluntary fasting
   on a regular schedule. Improves metabolic health, promotes autophagy, enhances insulin
   sensitivity, and supports weight management. Multiple protocols ranging from 12-hour
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Intermittent Fasting
 type: intervention
-updated: '2026-04-17T18:59:19.710507Z'
+updated: '2026-04-19T18:22:20.579935Z'
 ---
 
 {% raw %}
@@ -65,18 +65,6 @@ updated: '2026-04-17T18:59:19.710507Z'
 <li>Potential overeating during eating window</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Modulates Pathway</h3>
-<p>MODULATES_PATHWAY::<a href="/entities/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal Pathway</a> (activated at 16-24h fasting via mTOR suppression, Evidence Level 2b)</p>
-<h3>Modulates Hormone</h3>
-<p>MODULATES_HORMONE::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a> (fasting insulin reduced 20-31%, Evidence Level 1a)<br />
-MODULATES_HORMONE::<a href="/entities/hormone/growth-hormone/" class="internal-link">Growth Hormone</a> (200-300% increase during extended fasts, Evidence Level 2a)<br />
-MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a> (mild transient increase during adaptation, Evidence Level 2b)</p>
-<h3>Modulates Biomarker</h3>
-<p>MODULATES_BIOMARKER::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a> (increased production supports neuroprotection, Evidence Level 3a)<br />
-MODULATES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a> (reduced systemic inflammation, Evidence Level 2a)<br />
-MODULATES_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">HbA1c</a> (improved glycemic control in T2D, Evidence Level 1b)<br />
-MODULATES_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a> (reduced with regular IF, Evidence Level 1b)<br />
-MODULATES_BIOMARKER::<a href="/entities/labtest/ldl-cholesterol/" class="internal-link">LDL Cholesterol</a> (modest reduction in metabolically unhealthy, Evidence Level 2a)</p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/intervention/time-restricted-eating/" class="internal-link">Time-Restricted Eating</a> (TRE is a specific form of IF emphasizing circadian alignment)<br />
 RELATED::<a href="/entities/intervention/keto-diet/" class="internal-link">Keto Diet</a> (IF induces ketosis during extended fasting windows)<br />
@@ -84,5 +72,17 @@ RELATED::<a href="/entities/intervention/hiit-training/" class="internal-link">H
 RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (fasting enhances mitochondrial biogenesis and quality control)<br />
 MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a> (improved insulin sensitivity and HbA1c, Evidence Level 1b)<br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> (improved lipid and inflammatory markers, Evidence Level 2a)</p>
+<h3>Modulates Pathway</h3>
+<p>MODULATES_PATHWAY::<a href="/entities/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal Pathway</a> (activated at 16-24h fasting via mTOR suppression, Evidence Level 2b)</p>
+<h3>Modulates Hormone</h3>
+<p>MODULATES_HORMONE::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a> (fasting insulin reduced 20-31%, Evidence Level 1a)<br />
+MODULATES_HORMONE::<a href="/entities/hormone/growth-hormone/" class="internal-link">Growth Hormone</a> (200-300% increase during extended fasts, Evidence Level 2a)<br />
+MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a> (mild transient increase during adaptation, Evidence Level 2b)</p>
+<h3>Modulates Biomarker</h3>
+<p>AFFECTS_BIOMARKER::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a> (increased production supports neuroprotection, Evidence Level 3a)<br />
+AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a> (reduced systemic inflammation, Evidence Level 2a)<br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a> (improved glycemic control in T2D, Evidence Level 1b)<br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a> (reduced with regular IF, Evidence Level 1b)<br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/ldl-cholesterol/" class="internal-link">LDL Cholesterol</a> (modest reduction in metabolically unhealthy, Evidence Level 2a)</p>
 
 {% endraw %}

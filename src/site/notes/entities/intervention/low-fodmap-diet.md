@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.719895Z'
+created: '2026-04-19T18:22:20.591372Z'
 description: Therapeutic elimination diet restricting fermentable oligosaccharides,
   disaccharides, monosaccharides, and polyols. Clinically validated for IBS symptom
   management. Consists of elimination (2-6 weeks), reintroduction, and personalization
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Low-FODMAP Diet
 type: intervention
-updated: '2026-04-17T18:59:19.719895Z'
+updated: '2026-04-19T18:22:20.591372Z'
 ---
 
 {% raw %}

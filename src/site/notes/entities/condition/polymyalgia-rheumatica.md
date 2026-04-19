@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.039347Z'
+created: '2026-04-19T18:22:19.834675Z'
 description: Inflammatory condition causing bilateral proximal muscle pain and stiffness
   in adults over 50. Dramatically elevated ESR and CRP. Strongly associated with giant
   cell arteritis (15-20% overlap). Responds dramatically to low-dose prednisone within
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Polymyalgia Rheumatica
 type: condition
-updated: '2026-04-17T18:59:19.039347Z'
+updated: '2026-04-19T18:22:19.834675Z'
 ---
 
 {% raw %}
@@ -53,7 +53,7 @@ updated: '2026-04-17T18:59:19.039347Z'
 </ul>
 <h2>Relationships</h2>
 <ul>
-<li>ASSOCIATED_WITH::<a href="/entities/labtest/esr/" class="internal-link">ESR</a></li>
+<li>ASSOCIATED_WITH::<a href="/entities/labtest/esr/" class="internal-link">esr</a></li>
 <li>ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">hs-CRP</a></li>
 <li>ASSOCIATED_WITH::<a href="/entities/labtest/interleukin-6/" class="internal-link">Interleukin 6</a></li>
 <li>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a></li>

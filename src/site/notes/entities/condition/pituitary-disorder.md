@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.012277Z'
+created: '2026-04-19T18:22:19.822731Z'
 description: A group of conditions resulting from the dysfunction of the pituitary
   gland, the body's "master gland," typically caused by tumors or inflammation.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Pituitary Disorder
 type: condition
-updated: '2026-04-17T18:59:19.012277Z'
+updated: '2026-04-19T18:22:19.822731Z'
 ---
 
 {% raw %}
@@ -24,8 +24,8 @@ updated: '2026-04-17T18:59:19.012277Z'
 <h2>Relationships</h2>
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/hormone/igf-1/" class="internal-link">IGF-1</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/tsh/" class="internal-link">Tsh</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/tsh/" class="internal-link">tsh</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/free-t4/" class="internal-link">Free T4</a><br />
 ASSOCIATED_WITH::<a href="/entities/hormone/testosterone/" class="internal-link">Testosterone</a></p>
 <h3>Improved By Supplement</h3>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.508921Z'
+created: '2026-04-19T18:22:18.968777Z'
 description: Brain-Derived Neurotrophic Factor, a neurotrophin essential for neuronal
   survival, synaptic plasticity, and learning. Reduced levels associated with depression,
   neurodegeneration, and cognitive decline.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: BDNF
 type: biomarker
-updated: '2026-04-17T18:59:17.508921Z'
+updated: '2026-04-19T18:22:18.968777Z'
 ---
 
 {% raw %}
@@ -35,7 +35,7 @@ RELATED::<a href="/entities/intervention/sleep-optimization/" class="internal-li
 RELATED::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a><br />
 RELATED::<a href="/entities/intervention/mediterranean-diet/" class="internal-link">Mediterranean Diet</a><br />
 RELATED::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a><br />
-RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 RELATED::<a href="/entities/supplement/lions-mane/" class="internal-link">Lions Mane</a><br />
 RELATED::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers Disease</a><br />

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.041573Z'
+created: '2026-04-19T18:22:22.165592Z'
 description: Powerful antioxidant that works in both water and fat environments. Regenerates
   other antioxidants, supports blood sugar metabolism, and protects against neuropathy.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Alpha Lipoic Acid
 type: supplement
-updated: '2026-04-17T18:59:21.041573Z'
+updated: '2026-04-19T18:22:22.165592Z'
 ---
 
 {% raw %}
@@ -30,16 +30,10 @@ updated: '2026-04-17T18:59:21.041573Z'
 <h2>Dosage</h2>
 <p>300-600 mg daily; R-ALA at half dose</p>
 <h2>Relationships</h2>
-<h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/entities/organ/liver/" class="internal-link">Liver</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/nerves/" class="internal-link">Nerves</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/supplement/vitamin-e/" class="internal-link">Vitamin E</a><br />
 RELATED::<a href="/entities/protein/nrf2/" class="internal-link">NRF2</a><br />
 RELATED::<a href="/entities/supplement/berberine/" class="internal-link">Berberine</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/nerves/" class="internal-link">Nerves</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/liver/" class="internal-link">Liver</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">NAD</a><br />
 MODULATES_PATHWAY::<a href="/entities/pathway/oxidative-phosphorylation/" class="internal-link">Oxidative Phosphorylation</a><br />
 RELATED::<a href="/entities/supplement/nac/" class="internal-link">NAC</a><br />
@@ -48,20 +42,22 @@ RELATED::<a href="/entities/protein/tfam/" class="internal-link">TFAM</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">CoQ10</a><br />
 RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
 RELATED::<a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
 RELATED::<a href="/entities/protein/ampk/" class="internal-link">AMPK</a><br />
 MODULATES_PATHWAY::<a href="/entities/pathway/citric-acid-cycle/" class="internal-link">Citric Acid Cycle</a><br />
 RELATED::<a href="/entities/protein/pgc-1alpha/" class="internal-link">PGC-1alpha</a><br />
 RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
-MODULATES_HORMONE::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a></p>
+MODULATES_HORMONE::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a></p>
+<h3>Affects Organ</h3>
+<p>AFFECTS_ORGAN::<a href="/entities/organ/liver/" class="internal-link">Liver</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/nerves/" class="internal-link">Nerves</a><br />
+AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></p>
 <h3>Modulates Hormone</h3>
-<p>MODULATES_HORMONE::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a></p>
 <h3>Synergistic With</h3>
 <p>SYNERGISTIC_WITH::<a href="/entities/supplement/nac/" class="internal-link">NAC</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">Hba1C</a><br />
+<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/biomarker/glucose-fasting/" class="internal-link">Glucose Fasting</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a></p>
@@ -73,7 +69,7 @@ INCREASES_METABOLITE::<a href="/entities/supplement/glutathione/" class="interna
 REGENERATES::<a href="/entities/supplement/vitamin-e/" class="internal-link">Vitamin E</a></p>
 <h3>Targets Biomarker</h3>
 <p>TARGETS_BIOMARKER::<a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a><br />
-TARGETS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">Hba1C</a><br />
+TARGETS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a><br />
 TARGETS_BIOMARKER::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>
 
 {% endraw %}

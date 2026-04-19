@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.261575Z'
+created: '2026-04-19T18:22:20.038183Z'
 description: Alpha-glucosidase inhibitor that slows carbohydrate absorption. Reduces
   postprandial glucose spikes. Studied for longevity due to caloric restriction mimetic
   properties.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Acarbose
 type: drug
-updated: '2026-04-17T18:59:19.261575Z'
+updated: '2026-04-19T18:22:20.038183Z'
 ---
 
 {% raw %}
@@ -35,17 +35,17 @@ updated: '2026-04-17T18:59:19.261575Z'
 <li><strong>Dumping syndrome</strong>: Off-label for post-surgical rapid gastric emptying</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/drug/metformin/" class="internal-link">METFORMIN</a><br />
+RELATED::<a href="/entities/supplement/berberine/" class="internal-link">Berberine</a><br />
+RELATED::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a></p>
 <h3>Treats</h3>
 <p>TREATS::<a href="/entities/condition/diabetes/" class="internal-link">Diabetes</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">HbA1c</a><br />
+<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/labtest/fasting-glucose/" class="internal-link">Fasting Glucose</a></p>
 <h3>Affects Organ</h3>
 <p>AFFECTS_ORGAN::<a href="/entities/organ/pancreas/" class="internal-link">Pancreas</a><br />
 AFFECTS_ORGAN::<a href="/entities/organ/intestines/" class="internal-link">Intestines</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/drug/metformin/" class="internal-link">Metformin</a><br />
-RELATED::<a href="/entities/supplement/berberine/" class="internal-link">Berberine</a><br />
-RELATED::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a></p>
 
 {% endraw %}

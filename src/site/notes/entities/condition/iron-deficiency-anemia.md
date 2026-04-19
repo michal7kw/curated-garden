@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.700133Z'
+created: '2026-04-19T18:22:19.661245Z'
 description: A common type of anemia that occurs when the body does not have enough
   iron to produce hemoglobin, the protein in red blood cells that carries oxygen.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Iron Deficiency Anemia
 type: condition
-updated: '2026-04-17T18:59:18.700133Z'
+updated: '2026-04-19T18:22:19.661245Z'
 ---
 
 {% raw %}
@@ -54,9 +54,9 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Iron Deficiency Patt
 RELATED::<a href="/entities/labtest/mean-corpuscular-volume-mcv/" class="internal-link">mean corpuscular volume mcv</a><br />
 RELATED::<a href="/entities/labtest/hemoglobin/" class="internal-link">hemoglobin</a></p>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/ferritin/" class="internal-link">Ferritin</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/ferritin/" class="internal-link">ferritin</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/serum-iron/" class="internal-link">Serum Iron</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/hemoglobin/" class="internal-link">Hemoglobin</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/hemoglobin/" class="internal-link">hemoglobin</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/rbc/" class="internal-link">Rbc</a></p>
 <h3>Improved By Supplement</h3>
 <p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/iron/" class="internal-link">Iron</a><br />

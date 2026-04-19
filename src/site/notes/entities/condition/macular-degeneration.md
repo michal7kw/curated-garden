@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.768313Z'
+created: '2026-04-19T18:22:19.702549Z'
 description: A progressive degenerative disease of the macula (central retina) that
   causes central vision loss, primarily affecting adults over 50. The leading cause
   of irreversible blindness in developed countries.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Macular Degeneration
 type: condition
-updated: '2026-04-17T18:59:18.768313Z'
+updated: '2026-04-19T18:22:19.702549Z'
 ---
 
 {% raw %}
@@ -45,22 +45,20 @@ AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Retina</a><br 
 AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Macula</a></li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/condition/eye-diseases/" class="internal-link">Eye_Diseases</a><br />
+RELATED::<a href="/entities/condition/glaucoma/" class="internal-link">Glaucoma</a></p>
 <h3>Improved By Supplement</h3>
-<p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/zinc/" class="internal-link">zinc</a><br />
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/zinc/" class="internal-link">Zinc</a><br />
 IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Lutein</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin_C</a><br />
 IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Zeaxanthin</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a></p>
 <h3>Associated With</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/supplement/zinc/" class="internal-link">zinc</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/supplement/zinc/" class="internal-link">Zinc</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">hs_crp</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a><br />
 ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Vitamin_D_25-OH</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/condition/eye-diseases/" class="internal-link">Eye_Diseases</a><br />
-RELATED::<a href="/entities/condition/glaucoma/" class="internal-link">Glaucoma</a></p>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Retina</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Macula</a></p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.017191Z'
+created: '2026-04-19T18:22:22.129990Z'
 description: Drug- or supplement-induced liver injury ranging from asymptomatic transaminase
   elevation to acute liver failure, representing the most common cause of post-marketing
   drug withdrawal and a major safety concern in pharmacology and supplement use.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Hepatotoxicity
 type: sideeffect
-updated: '2026-04-17T18:59:21.017191Z'
+updated: '2026-04-19T18:22:22.129990Z'
 ---
 
 {% raw %}

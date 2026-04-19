@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.762225Z'
+created: '2026-04-19T18:22:21.802400Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Nausea
 type: phenotype
-updated: '2026-04-17T18:59:20.762225Z'
+updated: '2026-04-19T18:22:21.802400Z'
 ---
 
 {% raw %}
@@ -38,7 +38,7 @@ RELATED::<a class="internal-link is-unresolved" href="/404">neuromyelitis optica
 RELATED::<a class="internal-link is-unresolved" href="/404">pseudotumor cerebri</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">primary unilateral adrenal hyperplasia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">multiple endocrine neoplasia</a><br />
-RELATED::<a href="/entities/sideeffect/serotonin-syndrome/" class="internal-link">serotonin syndrome</a><br />
+RELATED::<a href="/entities/sideeffect/serotonin-syndrome/" class="internal-link">Serotonin Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">gastric mucosal hypertrophy</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">jejunal neuroendocrine tumor well differentiated low or intermediate grade</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">ethylene glycol poisoning</a><br />

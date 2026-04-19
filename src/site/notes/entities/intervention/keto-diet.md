@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.714769Z'
+created: '2026-04-19T18:22:20.586020Z'
 description: The ketogenic diet is a very low-carb, high-fat diet that involves drastically
   reducing carbohydrate intake and replacing it with fat. This reduction in carbs
   puts your body into a metabolic state called ketosis.
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Keto Diet
 type: intervention
-updated: '2026-04-17T18:59:19.714769Z'
+updated: '2026-04-19T18:22:20.586020Z'
 ---
 
 {% raw %}
@@ -57,26 +57,26 @@ updated: '2026-04-17T18:59:19.714769Z'
 <li>Halitosis (acetone breath)</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Affects Cellular Component</h3>
-<p>AFFECTS_CELLULAR_COMPONENT::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (ketones are oxidized in mitochondria; may improve mitochondrial efficiency, Evidence Level 2b)</p>
-<h3>Modulates Hormone</h3>
-<p>MODULATES_HORMONE::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a> (dramatically reduced fasting insulin, Evidence Level 1b)<br />
-MODULATES_HORMONE::<a href="/entities/hormone/growth-hormone/" class="internal-link">Growth Hormone</a> (increased during carbohydrate restriction, Evidence Level 2b)</p>
-<h3>Modulates Biomarker</h3>
-<p>MODULATES_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">HbA1c</a> (0.5-1.5% reduction in T2D, Evidence Level 1b)<br />
-MODULATES_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a> (significant reduction, Evidence Level 1a)<br />
-MODULATES_BIOMARKER::<a href="/entities/labtest/ldl-cholesterol/" class="internal-link">LDL Cholesterol</a> (variable response; may increase in some individuals, Evidence Level 2b)</p>
-<h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/diabetes/" class="internal-link">Diabetes</a> (T2D management with medication reduction, Evidence Level 1b)<br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/epilepsy/" class="internal-link">Epilepsy</a> (established therapy for drug-resistant epilepsy, Evidence Level 1a)</p>
-<h3>Requires Supplement</h3>
-<p>REQUIRES_SUPPLEMENT::<a href="/entities/drug/mct8-oil/" class="internal-link">MCT8 Oil</a> (provides readily ketogenic medium-chain triglycerides)<br />
-REQUIRES_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a> (electrolyte depletion common on keto)</p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
 RELATED::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> (anti-inflammatory fats complement keto)<br />
 RELATED::<a href="/entities/intervention/intermittent-fasting/" class="internal-link">Intermittent Fasting</a> (synergistic; both induce ketosis and autophagy)<br />
 RELATED::<a href="/entities/intervention/mediterranean-diet/" class="internal-link">Mediterranean Diet</a> (Mediterranean keto hybrid improves adherence)<br />
 RELATED::<a href="/entities/intervention/mitochondrial-uncoupling/" class="internal-link">Mitochondrial Uncoupling</a> (ketones may influence mitochondrial coupling efficiency)</p>
+<h3>Affects Cellular Component</h3>
+<p>AFFECTS::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (ketones are oxidized in mitochondria; may improve mitochondrial efficiency, Evidence Level 2b)</p>
+<h3>Modulates Hormone</h3>
+<p>MODULATES_HORMONE::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a> (dramatically reduced fasting insulin, Evidence Level 1b)<br />
+MODULATES_HORMONE::<a href="/entities/hormone/growth-hormone/" class="internal-link">Growth Hormone</a> (increased during carbohydrate restriction, Evidence Level 2b)</p>
+<h3>Modulates Biomarker</h3>
+<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a> (0.5-1.5% reduction in T2D, Evidence Level 1b)<br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a> (significant reduction, Evidence Level 1a)<br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/ldl-cholesterol/" class="internal-link">LDL Cholesterol</a> (variable response; may increase in some individuals, Evidence Level 2b)</p>
+<h3>May Improve Condition</h3>
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/diabetes/" class="internal-link">Diabetes</a> (T2D management with medication reduction, Evidence Level 1b)<br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/epilepsy/" class="internal-link">Epilepsy</a> (established therapy for drug-resistant epilepsy, Evidence Level 1a)</p>
+<h3>Requires Supplement</h3>
+<p>REQUIRES_SUPPLEMENT::<a href="/entities/drug/mct8-oil/" class="internal-link">MCT8 Oil</a> (provides readily ketogenic medium-chain triglycerides)<br />
+REQUIRES_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a> (electrolyte depletion common on keto)</p>
 
 {% endraw %}

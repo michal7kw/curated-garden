@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.138761Z'
+created: '2026-04-19T18:22:19.898250Z'
 description: Condition characterized by excessive bacterial colonization of the small
   intestine, which is normally relatively sterile compared to the colon. Three subtypes
   based on dominant gas produced — hydrogen-dominant (diarrhea-predominant), methane-dominant/IMO
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: SIBO
 type: condition
-updated: '2026-04-17T18:59:19.138761Z'
+updated: '2026-04-19T18:22:19.898250Z'
 ---
 
 {% raw %}
@@ -35,10 +35,10 @@ RELATED::<a href="/entities/condition/leaky-gut/" class="internal-link">Leaky Gu
 RELATED::<a href="/entities/condition/mcas/" class="internal-link">MCAS</a></p>
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/supplement/vitamin-b12/" class="internal-link">Vitamin B12</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/ferritin/" class="internal-link">Ferritin</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/ferritin/" class="internal-link">ferritin</a><br />
 ASSOCIATED_WITH::<a href="/entities/supplement/folate/" class="internal-link">Folate</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/zonulin/" class="internal-link">Zonulin</a></p>
+ASSOCIATED_WITH::<a href="/entities/labtest/zonulin/" class="internal-link">zonulin</a></p>
 <h3>Improved By Supplement</h3>
 <p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/berberine/" class="internal-link">Berberine</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/probiotics/" class="internal-link">Probiotics</a><br />

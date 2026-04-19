@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.536552Z'
+created: '2026-04-19T18:22:21.534117Z'
 description: Bean-shaped organs responsible for filtering blood, removing waste, regulating
   fluid balance, electrolyte levels, and blood pressure. Essential for homeostasis.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: Kidneys
 type: organ
-updated: '2026-04-17T18:59:20.536552Z'
+updated: '2026-04-19T18:22:21.534117Z'
 ---
 
 {% raw %}
@@ -41,12 +41,12 @@ updated: '2026-04-17T18:59:20.536552Z'
 <h2>Clinical Significance</h2>
 <p>Kidney function is primarily assessed by serum creatinine and estimated glomerular filtration rate (eGFR), with urinalysis and albumin-to-creatinine ratio (ACR) used to detect proteinuria. Blood urea nitrogen (BUN), electrolyte panels, and cystatin C provide additional assessment. Imaging includes renal ultrasound (first-line for structural evaluation), CT urography (stone detection), and renal biopsy for histological diagnosis of glomerular diseases. The kidneys are highly sensitive to nephrotoxic drugs (NSAIDs, aminoglycosides, contrast agents), and dosing adjustments are required in renal impairment. Adequate hydration, blood pressure control, and glycemic management are the cornerstones of kidney preservation.</p>
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a><br />
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/clinicalpattern/kidney-stress-pattern/" class="internal-link">Kidney Stress Pattern</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/acute-kidney-injury/" class="internal-link">Acute Kidney Injury</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/kidney-stones/" class="internal-link">Kidney Stones</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/glomerulonephritis/" class="internal-link">Glomerulonephritis</a><br />
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Diabetic Nephropathy</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/clinicalpattern/kidney-stress-pattern/" class="internal-link">Kidney Stress Pattern</a></p>
 
 {% endraw %}

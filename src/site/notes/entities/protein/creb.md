@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.838468Z'
+created: '2026-04-19T18:22:21.887598Z'
 description: cAMP response element-binding protein, a master transcription factor
   for long-term memory formation and neuronal survival. Activated by phosphorylation
   at Ser133 via PKA, CaMKIV, and MAPK/RSK cascades in response to synaptic activity,
@@ -21,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: CREB
 type: protein
-updated: '2026-04-17T18:59:20.838468Z'
+updated: '2026-04-19T18:22:21.887598Z'
 ---
 
 {% raw %}
@@ -81,6 +81,12 @@ updated: '2026-04-17T18:59:20.838468Z'
 <li><strong>CREB target genes</strong>: Genome-wide identification of CREB target genes in neurons, including BDNF, c-fos, Arc, and neuropeptides essential for long-term synaptic plasticity (PMID:15572172)</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>INTERACTS_WITH::<a href="/entities/gene/crebbp/" class="internal-link">CREBBP</a><br />
+RELATED::<a href="/entities/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
+INTERACTS_WITH::<a href="/entities/protein/pgc-1alpha/" class="internal-link">PGC-1alpha</a><br />
+INTERACTS_WITH::<a href="/entities/protein/nerve-growth-factor/" class="internal-link">Nerve Growth Factor</a><br />
+INTERACTS_WITH::<a href="/entities/protein/tyrosine-hydroxylase/" class="internal-link">Tyrosine Hydroxylase</a></p>
 <h3>Activated By</h3>
 <p>ACTIVATED_BY::<a href="/entities/supplement/pqq/" class="internal-link">PQQ</a><br />
 ACTIVATED_BY::<a href="/entities/drug/nicotine/" class="internal-link">Nicotine</a></p>
@@ -93,12 +99,6 @@ ACTIVATED_BY::<a href="/entities/drug/nicotine/" class="internal-link">Nicotine<
 AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 <h3>Participates In Pathway</h3>
 <p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/basal-forebrain-cholinergic-pathway/" class="internal-link">Basal Forebrain Cholinergic Pathway</a></p>
-<h3>Related</h3>
-<p>INTERACTS_WITH::<a href="/entities/gene/crebbp/" class="internal-link">CREBBP</a><br />
-RELATED::<a href="/entities/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
-INTERACTS_WITH::<a href="/entities/protein/pgc-1alpha/" class="internal-link">PGC-1alpha</a><br />
-INTERACTS_WITH::<a href="/entities/protein/nerve-growth-factor/" class="internal-link">Nerve Growth Factor</a><br />
-INTERACTS_WITH::<a href="/entities/protein/tyrosine-hydroxylase/" class="internal-link">Tyrosine Hydroxylase</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:16093365 - CREB and memory formation (molecular switch)</li>

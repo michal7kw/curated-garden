@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.985466Z'
+created: '2026-04-19T18:22:20.936144Z'
 description: Tested twice a year Hemoglobin is the protein in red blood cells that
   carries oxygen from the lungs to the rest of the body, supporting energy and healthy
   organ function. Low hemoglobin may indicate anemia due to vitamin deficiencies,
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: hemoglobin
 type: labtest
-updated: '2026-04-17T18:59:19.985466Z'
+updated: '2026-04-19T18:22:20.936144Z'
 ---
 
 {% raw %}

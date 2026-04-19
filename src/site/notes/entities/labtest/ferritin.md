@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.948701Z'
+created: '2026-04-19T18:22:20.873722Z'
 description: Measures iron stores. Key marker for iron deficiency and overload, also
   an acute phase reactant.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: ferritin
 type: labtest
-updated: '2026-04-17T18:59:19.948701Z'
+updated: '2026-04-19T18:22:20.873722Z'
 ---
 
 {% raw %}
@@ -65,8 +65,7 @@ updated: '2026-04-17T18:59:19.948701Z'
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/labtest/iron-panel/" class="internal-link">iron panel</a></p>
 <h3>Enriched</h3>
-<p>MEASURES::<a href="/entities/labtest/ferritin/" class="internal-link">Ferritin</a><br />
-INDICATES::<a href="/entities/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a><br />
+<p>INDICATES::<a href="/entities/condition/iron-deficiency-anemia/" class="internal-link">Iron Deficiency Anemia</a><br />
 INDICATES::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a></p>
 <h2>Notes</h2>
 <ul>

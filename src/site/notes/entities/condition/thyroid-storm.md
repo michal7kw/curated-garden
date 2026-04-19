@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.215010Z'
+created: '2026-04-19T18:22:19.967893Z'
 description: A life-threatening medical emergency characterized by a sudden, extreme
   overproduction of thyroid hormones, leading to a hypermetabolic state.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Thyroid Storm
 type: condition
-updated: '2026-04-17T18:59:19.215010Z'
+updated: '2026-04-19T18:22:19.967893Z'
 ---
 
 {% raw %}
@@ -27,7 +27,7 @@ updated: '2026-04-17T18:59:19.215010Z'
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/labtest/thyroxine-t4-free/" class="internal-link">thyroxine t4 free</a></p>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/tsh/" class="internal-link">Tsh</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/tsh/" class="internal-link">tsh</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/free-t4/" class="internal-link">Free T4</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/free-t3/" class="internal-link">Free T3</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/calcium/" class="internal-link">Calcium</a><br />

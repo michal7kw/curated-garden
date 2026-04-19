@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.662468Z'
+created: '2026-04-19T18:22:21.696611Z'
 description: The innate immune response within the central nervous system, involving
   activation of microglia and astrocytes. Chronic neuroinflammation contributes to
   neurodegeneration in AD, PD, MS, and other diseases.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Neuroinflammation
 type: pathway
-updated: '2026-04-17T18:59:20.662468Z'
+updated: '2026-04-19T18:22:21.696611Z'
 ---
 
 {% raw %}

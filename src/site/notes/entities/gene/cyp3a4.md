@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.866857Z'
+created: '2026-04-19T18:22:21.933968Z'
 description: Encodes Cytochrome P450 3A4, the most important drug-metabolizing enzyme
   in the body.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: CYP3A4
 type: gene
-updated: '2026-04-17T18:59:20.866857Z'
+updated: '2026-04-19T18:22:21.933968Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.847219Z'
+created: '2026-04-19T18:22:19.160377Z'
 description: Oxidized LDL is low-density lipoprotein cholesterol that has undergone
   oxidative modification, serving as a key driver of atherosclerotic plaque formation
   and a more specific marker of cardiovascular risk than standard LDL cholesterol.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Oxidized LDL
 type: biomarker
-updated: '2026-04-17T18:59:17.847219Z'
+updated: '2026-04-19T18:22:19.160377Z'
 ---
 
 {% raw %}
@@ -33,18 +33,13 @@ ACTIVATES::<a href="/entities/biomarker/ldl/" class="internal-link">Ldl</a></p>
 <h3>Increases Risk For</h3>
 <p>INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Atherosclerosis</a> (when elevated, Evidence Level 1a)</p>
 <h3>Affected By Supplement</h3>
-<ul>
-<li>-&gt; <a href="/entities/supplement/vitamin-e/" class="internal-link">Vitamin E</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin C</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/nac/" class="internal-link">NAC</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/resveratrol/" class="internal-link">Resveratrol</a> (supplement)</li>
-</ul>
+<p>AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-e/" class="internal-link">Vitamin E</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin C</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/nac/" class="internal-link">NAC</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/resveratrol/" class="internal-link">Resveratrol</a></p>
 <h3>Measured By Test</h3>
-<ul>
-<li>-&gt; <a href="/entities/labtest/oxidized-ldl/" class="internal-link">oxidized ldl</a> (labtest)</li>
-<li>-&gt; <a href="/entities/labtest/advanced-lipid-panel/" class="internal-link">advanced lipid panel</a> (labtest)</li>
-</ul>
+<p>MEASURED_BY_TEST::<a href="/entities/labtest/advanced-lipid-panel/" class="internal-link">advanced lipid panel</a></p>
 
 {% endraw %}

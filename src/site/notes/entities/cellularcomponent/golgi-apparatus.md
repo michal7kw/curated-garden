@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.995774Z'
+created: '2026-04-19T18:22:19.286748Z'
 description: Membrane-bound organelle responsible for modifying, sorting, and packaging
   proteins and lipids for secretion or delivery to other organelles. Consists of stacked
   cisternae (cis, medial, trans) with distinct enzymatic activities. Central hub of
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Golgi Apparatus
 type: cellularcomponent
-updated: '2026-04-17T18:59:17.995774Z'
+updated: '2026-04-19T18:22:19.286748Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.612844Z'
+created: '2026-04-19T18:22:20.453058Z'
 description: Evidence-based supplement stack designed to support RA management alongside
   conventional treatment. Focuses on reducing inflammatory cytokines (TNF-alpha, IL-6),
   modulating NF-kB signaling, and supporting joint integrity. NOT a replacement for
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Rheumatoid Arthritis Support
 type: healthstack
-updated: '2026-04-17T18:59:19.612844Z'
+updated: '2026-04-19T18:22:20.453058Z'
 ---
 
 {% raw %}
@@ -96,7 +96,7 @@ updated: '2026-04-17T18:59:19.612844Z'
 <td>Every 3 months</td>
 </tr>
 <tr>
-<td><a href="/entities/labtest/esr/" class="internal-link">ESR</a></td>
+<td><a href="/entities/labtest/esr/" class="internal-link">esr</a></td>
 <td>0-20</td>
 <td>0-10</td>
 <td>mm/hr</td>
@@ -139,7 +139,7 @@ INCLUDES_SUPPLEMENT::<a href="/entities/supplement/vitamin-d/" class="internal-l
 INCLUDES_SUPPLEMENT::<a href="/entities/supplement/probiotics/" class="internal-link">Probiotics</a><br />
 INCLUDES_SUPPLEMENT::<a href="/entities/supplement/boswellia-serrata/" class="internal-link">Boswellia Serrata</a><br />
 AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a><br />
-AFFECTS_BIOMARKER::<a href="/entities/labtest/esr/" class="internal-link">ESR</a></p>
+AFFECTS_BIOMARKER::<a href="/entities/labtest/esr/" class="internal-link">esr</a></p>
 <hr />
 <p><strong>Difficulty:</strong> Intermediate | <strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
 

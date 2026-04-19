@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.091306Z'
+created: '2026-04-19T18:22:22.216021Z'
 description: Essential trace mineral that enhances insulin signaling and glucose metabolism.
   Chromium picolinate is the most bioavailable form. Important for blood sugar regulation.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Chromium
 type: supplement
-updated: '2026-04-17T18:59:21.091306Z'
+updated: '2026-04-19T18:22:22.216021Z'
 ---
 
 {% raw %}
@@ -36,12 +36,12 @@ updated: '2026-04-17T18:59:21.091306Z'
 <li><strong>Note</strong>: Effects most pronounced in chromium-deficient individuals or those with metabolic dysfunction</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">Hba1C</a><br />
-AFFECTS_BIOMARKER::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/supplement/berberine/" class="internal-link">Berberine</a><br />
 RELATED::<a href="/entities/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a></p>
+<h3>Affects Biomarker</h3>
+<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a></p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/diabetes/" class="internal-link">Diabetes</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/blood-glucose-imbalance/" class="internal-link">Blood Glucose Imbalance</a><br />
@@ -49,8 +49,8 @@ MAY_IMPROVE_CONDITION::<a href="/entities/condition/pcos/" class="internal-link"
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/weight-gain/" class="internal-link">Weight Gain</a></p>
 <h3>Targets Biomarker</h3>
 <p>TARGETS_BIOMARKER::<a href="/entities/biomarker/c-peptide/" class="internal-link">C-Peptide</a><br />
-TARGETS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">Hba1C</a><br />
-TARGETS_BIOMARKER::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a></p>
+TARGETS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a><br />
+TARGETS_BIOMARKER::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a></p>
 <h3>Affects Organ</h3>
 <p>AFFECTS_ORGAN::<a href="/entities/organ/pancreas/" class="internal-link">Pancreas</a> (supports insulin signaling, Evidence Level 2b)<br />
 AFFECTS_ORGAN::<a href="/entities/organ/liver/" class="internal-link">Liver</a></p>
@@ -59,7 +59,7 @@ AFFECTS_ORGAN::<a href="/entities/organ/liver/" class="internal-link">Liver</a><
 SYNERGISTIC_WITH::<a href="/entities/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a> (both improve glucose uptake and insulin sensitivity, Evidence Level 3)</p>
 <h3>Affects Biomarker</h3>
 <p>AFFECTS_BIOMARKER::<a href="/entities/labtest/fasting-glucose/" class="internal-link">Fasting Glucose</a><br />
-AFFECTS_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a><br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/biomarker/hdl/" class="internal-link">Hdl</a></p>
 
 {% endraw %}

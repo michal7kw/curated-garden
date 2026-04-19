@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.232334Z'
+created: '2026-04-19T18:22:20.000123Z'
 description: A blockage that inhibits the normal flow of urine through the urinary
   tract, potentially leading to kidney damage and infection.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Urinary Tract Obstruction
 type: condition
-updated: '2026-04-17T18:59:19.232334Z'
+updated: '2026-04-19T18:22:20.000123Z'
 ---
 
 {% raw %}
@@ -25,7 +25,7 @@ updated: '2026-04-17T18:59:19.232334Z'
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/labtest/creatinine/" class="internal-link">creatinine</a></p>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/creatinine/" class="internal-link">creatinine</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/blood-urea-nitrogen/" class="internal-link">Blood Urea Nitrogen</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/egfr/" class="internal-link">EGFR</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/potassium/" class="internal-link">Potassium</a><br />

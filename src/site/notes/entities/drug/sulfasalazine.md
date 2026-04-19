@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.471898Z'
+created: '2026-04-19T18:22:20.287755Z'
 description: DMARD combining sulfapyridine and 5-aminosalicylic acid. Used in RA (especially
   seronegative), psoriatic arthritis, and ankylosing spondylitis. Mechanism involves
   NF-kB inhibition and reduction of B-cell function.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Sulfasalazine
 type: drug
-updated: '2026-04-17T18:59:19.471898Z'
+updated: '2026-04-19T18:22:20.287755Z'
 ---
 
 {% raw %}
@@ -32,7 +32,7 @@ updated: '2026-04-17T18:59:19.471898Z'
 <p>TREATS::<a href="/entities/condition/rheumatoid-arthritis/" class="internal-link">Rheumatoid Arthritis</a><br />
 TREATS::<a href="/entities/condition/ankylosing-spondylitis/" class="internal-link">Ankylosing Spondylitis</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/esr/" class="internal-link">ESR</a><br />
+<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/esr/" class="internal-link">esr</a><br />
 AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a></p>
 <h3>Modulates Pathway</h3>
 <p>MODULATES_PATHWAY::<a href="/entities/pathway/nf-kb-pathway/" class="internal-link">NF-kB Pathway</a></p>

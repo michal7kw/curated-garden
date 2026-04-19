@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.291305Z'
+created: '2026-04-19T18:22:19.454164Z'
 description: A state where blood sugar levels are either too high (hyperglycemia)
   or too low (hypoglycemia), often due to impaired insulin regulation.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Blood Glucose Imbalance
 type: condition
-updated: '2026-04-17T18:59:18.291305Z'
+updated: '2026-04-19T18:22:19.454164Z'
 ---
 
 {% raw %}
@@ -25,7 +25,7 @@ updated: '2026-04-17T18:59:18.291305Z'
 <h2>Relationships</h2>
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/biomarker/glucose-fasting/" class="internal-link">Glucose Fasting</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/hba1c/" class="internal-link">Hba1C</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/insulin-fasting/" class="internal-link">Insulin Fasting</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/homa-ir/" class="internal-link">Homa Ir</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/c-peptide/" class="internal-link">C-Peptide</a></p>

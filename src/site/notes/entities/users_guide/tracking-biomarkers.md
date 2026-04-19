@@ -1,5 +1,7 @@
 ---
-created: '2026-04-17T18:59:21.376539Z'
+aliases:
+- 07_Tracking_Biomarkers
+created: '2026-04-19T18:22:22.613765Z'
 description: Adding biomarker readings, uploading lab reports, reference ranges, trends,
   and anomaly alerts
 dg-home: false
@@ -12,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Tracking Biomarkers
 type: users_guide
-updated: '2026-04-17T18:59:21.376539Z'
+updated: '2026-04-19T18:22:22.613765Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.989391Z'
+created: '2026-04-19T18:22:22.086175Z'
 description: Research highlighting the longevity and metabolic benefits of BAM15,
   a selective mitochondrial uncoupler that mimics the effects of exercise.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: 2025 BAM15 Mitochondrial Uncoupling Review
 type: research
-updated: '2026-04-17T18:59:20.989391Z'
+updated: '2026-04-19T18:22:22.086175Z'
 ---
 
 {% raw %}
@@ -40,12 +40,12 @@ updated: '2026-04-17T18:59:20.989391Z'
 <h2>Clinical Significance</h2>
 <p>BAM15 represents a next-generation approach to metabolic pharmacotherapy that targets the fundamental bioenergetic dysfunction underlying obesity, sarcopenia, and age-related metabolic decline. Unlike caloric restriction mimetics that act upstream, BAM15 directly modulates mitochondrial membrane potential to increase substrate oxidation. If human trials confirm the rodent findings, BAM15 could offer a pharmacological alternative to exercise for patients unable to achieve sufficient physical activity (e.g., frail elderly, mobility-impaired individuals). The absence of hyperthermia risk is a critical advantage over historical uncouplers. Key translational questions remain: optimal dosing for humans, long-term safety, and whether the metabolic benefits persist after treatment cessation.</p>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">BAM15</a></p>
 <h3>Studied Topic</h3>
 <p>STUDIED_TOPIC::<a href="/entities/condition/inflammation/" class="internal-link">Inflammation</a><br />
 STUDIED_TOPIC::<a class="internal-link is-unresolved" href="/404">Obesity</a><br />
 STUDIED_TOPIC::<a href="/entities/intervention/mitochondrial-uncoupling/" class="internal-link">Mitochondrial Uncoupling</a><br />
 STUDIED_TOPIC::<a href="/entities/condition/sarcopenia/" class="internal-link">Sarcopenia</a></p>
-<h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">BAM15</a></p>
 
 {% endraw %}

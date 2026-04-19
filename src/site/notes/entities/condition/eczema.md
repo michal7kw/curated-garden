@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.513200Z'
+created: '2026-04-19T18:22:19.559362Z'
 description: A chronic relapsing inflammatory skin disorder (atopic dermatitis) characterized
   by pruritus, dry skin, and impaired epidermal barrier function, often associated
   with the atopic triad (asthma, allergic rhinitis).
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Eczema
 type: condition
-updated: '2026-04-17T18:59:18.513200Z'
+updated: '2026-04-19T18:22:19.559362Z'
 ---
 
 {% raw %}
@@ -48,8 +48,12 @@ AFFECTS_ORGAN::<a href="/entities/organ/skin/" class="internal-link">Skin</a><br
 AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Epidermis</a></li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/condition/asthma/" class="internal-link">Asthma</a><br />
+RELATED::<a href="/entities/condition/allergy/" class="internal-link">Allergy</a><br />
+RELATED::<a href="/entities/condition/seasonal-allergic-rhinitis/" class="internal-link">Seasonal_Allergic_Rhinitis</a></p>
 <h3>Improved By Supplement</h3>
-<p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/zinc/" class="internal-link">zinc</a><br />
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/zinc/" class="internal-link">Zinc</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-d/" class="internal-link">vitamin_d</a><br />
 IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">Evening_Primrose_Oil</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a><br />
@@ -60,11 +64,5 @@ ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">hs_cr
 ASSOCIATED_WITH::<a href="/entities/labtest/esr/" class="internal-link">esr</a><br />
 ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Vitamin_D_25-OH</a></p>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/entities/organ/skin/" class="internal-link">Skin</a><br />
-AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Epidermis</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/condition/asthma/" class="internal-link">Asthma</a><br />
-RELATED::<a href="/entities/condition/allergy/" class="internal-link">Allergy</a><br />
-RELATED::<a href="/entities/condition/seasonal-allergic-rhinitis/" class="internal-link">Seasonal_Allergic_Rhinitis</a></p>
 
 {% endraw %}

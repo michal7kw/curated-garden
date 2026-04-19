@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.746878Z'
+created: '2026-04-19T18:22:20.630068Z'
 description: Progressive resistance exercise using elastic bands that provide variable
   resistance across the range of motion. Effective alternative to free weights for
   strength, muscle hypertrophy, and rehabilitation. Particularly suitable for home
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Resistance Band Training
 type: intervention
-updated: '2026-04-17T18:59:19.746878Z'
+updated: '2026-04-19T18:22:20.630068Z'
 ---
 
 {% raw %}
@@ -43,17 +43,17 @@ updated: '2026-04-17T18:59:19.746878Z'
 <li>Can replicate nearly all free weight exercises</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/intervention/exercise/" class="internal-link">Exercise</a><br />
+RELATED::<a href="/entities/intervention/hiit-training/" class="internal-link">HIIT_Training</a><br />
+RELATED::<a href="/entities/intervention/strength-training/" class="internal-link">Strength_Training</a></p>
 <h3>Modulates Biomarker</h3>
-<p>MODULATES_BIOMARKER::<a href="/entities/labtest/fasting-glucose/" class="internal-link">fasting_glucose</a></p>
+<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/fasting-glucose/" class="internal-link">fasting_glucose</a></p>
 <h3>Modulates Hormone</h3>
 <p>MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 MODULATES_HORMONE::<a href="/entities/hormone/igf-1/" class="internal-link">IGF-1</a><br />
 MODULATES_HORMONE::<a href="/entities/hormone/testosterone/" class="internal-link">Testosterone</a><br />
 MODULATES_HORMONE::<a href="/entities/hormone/growth-hormone/" class="internal-link">Growth_Hormone</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/intervention/exercise/" class="internal-link">Exercise</a><br />
-RELATED::<a href="/entities/intervention/hiit-training/" class="internal-link">HIIT_Training</a><br />
-RELATED::<a href="/entities/intervention/strength-training/" class="internal-link">Strength_Training</a></p>
 <h3>Improves Function</h3>
 <p>IMPROVES_FUNCTION::<a class="internal-link is-unresolved" href="/404">Motor_Planning</a></p>
 <h2>References</h2>

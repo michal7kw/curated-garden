@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.398965Z'
+created: '2026-04-19T18:22:20.197347Z'
 description: Ultra-low dose opioid antagonist (1.5-4.5mg) with immunomodulatory and
   anti-inflammatory effects. Off-label use for autoimmune conditions, chronic pain,
   and cancer support. Distinct from standard naltrexone dosing.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Low Dose Naltrexone
 type: drug
-updated: '2026-04-17T18:59:19.398965Z'
+updated: '2026-04-19T18:22:20.197347Z'
 ---
 
 {% raw %}
@@ -39,6 +39,9 @@ updated: '2026-04-17T18:59:19.398965Z'
 <li><strong>Note</strong>: Must be compounded; not available as a commercial LDN product</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>TREATS::<a href="/entities/condition/inflammation/" class="internal-link">Inflammation</a><br />
+TREATS::<a href="/entities/condition/immune-system-disorder/" class="internal-link">Immune System Disorder</a></p>
 <h3>Treats</h3>
 <p>TREATS::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />
 TREATS::<a href="/entities/condition/chronic-pain/" class="internal-link">Chronic Pain</a></p>
@@ -48,8 +51,5 @@ TREATS::<a href="/entities/condition/chronic-pain/" class="internal-link">Chroni
 <p>AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a></p>
 <h3>Affects Organ</h3>
 <p>AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
-<h3>Related</h3>
-<p>TREATS::<a href="/entities/condition/inflammation/" class="internal-link">Inflammation</a><br />
-TREATS::<a href="/entities/condition/immune-system-disorder/" class="internal-link">Immune System Disorder</a></p>
 
 {% endraw %}

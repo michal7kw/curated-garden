@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.659626Z'
+created: '2026-04-19T18:22:19.635901Z'
 description: A dietary state characterized by a high proportion of protein consumption,
   which can impact metabolic markers and kidney function.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: High Protein Intake
 type: condition
-updated: '2026-04-17T18:59:18.659626Z'
+updated: '2026-04-19T18:22:19.635901Z'
 ---
 
 {% raw %}
@@ -26,7 +26,7 @@ updated: '2026-04-17T18:59:18.659626Z'
 <p>RELATED::<a href="/entities/labtest/bun-creatinine-ratio/" class="internal-link">bun creatinine ratio</a></p>
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/labtest/blood-urea-nitrogen/" class="internal-link">Blood Urea Nitrogen</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/creatinine/" class="internal-link">creatinine</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/uric-acid/" class="internal-link">Uric Acid</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/calcium/" class="internal-link">Calcium</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/egfr/" class="internal-link">EGFR</a></p>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.759458Z'
+created: '2026-04-19T18:22:19.119365Z'
 description: Lactate Dehydrogenase is an intracellular enzyme found in virtually all
   body tissues that catalyzes the interconversion of lactate and pyruvate, serving
   as a nonspecific marker of tissue damage and cellular turnover.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Lactate Dehydrogenase
 type: biomarker
-updated: '2026-04-17T18:59:17.759458Z'
+updated: '2026-04-19T18:22:19.119365Z'
 ---
 
 {% raw %}
@@ -30,14 +30,10 @@ CORRELATED_WITH::<a href="/entities/biomarker/aspartate-aminotransferase/" class
 <h3>Activates</h3>
 <p>ACTIVATES::<a href="/entities/biomarker/alanine-transaminase/" class="internal-link">Alanine Transaminase</a></p>
 <h3>Affected By Supplement</h3>
-<ul>
-<li>-&gt; <a href="/entities/supplement/nac/" class="internal-link">NAC</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin C</a> (supplement)</li>
-</ul>
+<p>AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/nac/" class="internal-link">NAC</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/coenzyme-q10/" class="internal-link">Coenzyme Q10</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin C</a></p>
 <h3>Measured By Test</h3>
-<ul>
-<li>-&gt; <a href="/entities/labtest/ldh/" class="internal-link">ldh</a> (labtest)</li>
-</ul>
+<p>MEASURED_BY_TEST::<a href="/entities/labtest/ldh/" class="internal-link">ldh</a></p>
 
 {% endraw %}

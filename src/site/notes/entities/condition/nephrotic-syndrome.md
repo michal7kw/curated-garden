@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.841189Z'
+created: '2026-04-19T18:22:19.743839Z'
 description: A kidney disorder that causes the body to excrete too much protein in
   the urine, characterized by a specific group of symptoms including edema and hypoalbuminemia.
 dg-home: false
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Nephrotic Syndrome
 type: condition
-updated: '2026-04-17T18:59:18.841189Z'
+updated: '2026-04-19T18:22:19.743839Z'
 ---
 
 {% raw %}
@@ -24,9 +24,9 @@ updated: '2026-04-17T18:59:18.841189Z'
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/labtest/albumin/" class="internal-link">albumin</a></p>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/albumin/" class="internal-link">Albumin</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/albumin/" class="internal-link">albumin</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/total-cholesterol/" class="internal-link">Total Cholesterol</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/creatinine/" class="internal-link">creatinine</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/d-dimer/" class="internal-link">D-Dimer</a></p>
 <h3>Improved By Supplement</h3>
 <p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.970849Z'
+created: '2026-04-19T18:22:19.801887Z'
 description: A progressive neurodegenerative disorder characterized by motor symptoms
   including tremor, rigidity, and bradykinesia, caused by dopaminergic neuron loss
   in the substantia nigra and alpha-synuclein aggregation.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Parkinson's Disease
 type: condition
-updated: '2026-04-17T18:59:18.970849Z'
+updated: '2026-04-19T18:22:19.801887Z'
 ---
 
 {% raw %}
@@ -44,7 +44,6 @@ updated: '2026-04-17T18:59:18.970849Z'
 <li><strong>Lifestyle</strong>: Sleep optimization, constipation management (fiber, hydration), fall prevention, speech therapy (LSVT LOUD), occupational therapy</li>
 </ul>
 <h2>Relationships</h2>
-<p>AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Carbidopa</a><br />
 RELATED::<a href="/entities/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein Aggregation</a><br />
@@ -72,8 +71,9 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Levodopa</a><br />
 RELATED::<a href="/entities/supplement/omega-3-dha/" class="internal-link">Omega-3 DHA</a><br />
 RELATED::<a href="/entities/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Alpha-Synuclein SAA</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Amyloid-Beta 4240 Ratio</a><br />
+RELATED::<a href="/entities/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta 4240 Ratio</a><br />
 RELATED::<a href="/entities/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a></p>
+<p>AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/biomarker/blood-nfl/" class="internal-link">Blood NfL</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br />

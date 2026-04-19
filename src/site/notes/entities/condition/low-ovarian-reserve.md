@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.751355Z'
+created: '2026-04-19T18:22:19.691536Z'
 description: A condition where a woman has a lower number of eggs remaining in her
   ovaries than expected for her age, which can impact fertility.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Low Ovarian Reserve
 type: condition
-updated: '2026-04-17T18:59:18.751355Z'
+updated: '2026-04-19T18:22:19.691536Z'
 ---
 
 {% raw %}
@@ -25,7 +25,7 @@ updated: '2026-04-17T18:59:18.751355Z'
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/labtest/anti-mullerian-hormone/" class="internal-link">anti mullerian hormone</a></p>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/estradiol/" class="internal-link">Estradiol</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/estradiol/" class="internal-link">estradiol</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a></p>
 <h3>Improved By Supplement</h3>

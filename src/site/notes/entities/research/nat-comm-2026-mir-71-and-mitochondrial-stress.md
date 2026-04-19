@@ -1,5 +1,7 @@
 ---
-created: '2026-04-17T18:59:21.001812Z'
+aliases:
+- Nat Comm 2026 miR-71 and Mitochondrial Stress
+created: '2026-04-19T18:22:22.106794Z'
 description: Identification of miR-71 as a crucial regulator of mitochondrial stress
   signaling (UPRmt) and systemic stress resistance.
 dg-home: false
@@ -15,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: 'Nat Comm 2026: miR-71 and Mitochondrial Stress'
 type: research
-updated: '2026-04-17T18:59:21.001812Z'
+updated: '2026-04-19T18:22:22.106794Z'
 ---
 
 {% raw %}
@@ -39,11 +41,11 @@ updated: '2026-04-17T18:59:21.001812Z'
 <h2>Clinical Significance</h2>
 <p>This study provides a mechanistic foundation for understanding how mild mitochondrial stress can extend lifespan -- a phenomenon central to the hormesis theory of aging. The discovery that miR-71 orchestrates a systemic stress communication network has several translational implications: (1) it identifies microRNAs as potential biomarkers for mitochondrial stress response capacity in aging humans; (2) it suggests that interventions enhancing UPRmt signaling (exercise, caloric restriction, certain supplements) may depend on intact microRNA pathways for their longevity benefits; (3) the partial conservation of this pathway in mammals opens the possibility of therapeutic targeting of miR-9/miR-181 family members to enhance stress resilience in age-related diseases. However, C. elegans findings do not directly translate to human medicine, and the mammalian homolog identification remains preliminary. This work primarily advances basic understanding of mitochondrial stress biology and aging mechanisms.</p>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">MicroRNA Regulation</a></p>
 <h3>Studied Topic</h3>
 <p>STUDIED_TOPIC::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
 STUDIED_TOPIC::<a href="/entities/healthstack/longevity/" class="internal-link">Longevity</a><br />
 STUDIED_TOPIC::<a href="/entities/pathway/hormesis/" class="internal-link">Hormesis</a></p>
-<h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">MicroRNA Regulation</a></p>
 
 {% endraw %}

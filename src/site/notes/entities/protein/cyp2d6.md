@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.862568Z'
+created: '2026-04-19T18:22:21.926945Z'
 description: Cytochrome P450 2D6, a highly polymorphic drug-metabolizing enzyme responsible
   for the metabolism of approximately 25% of clinically used drugs including SSRIs,
   beta-blockers, opioids, and antipsychotics. Genetic polymorphisms create poor, intermediate,
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: CYP2D6
 type: protein
-updated: '2026-04-17T18:59:20.862568Z'
+updated: '2026-04-19T18:22:21.926945Z'
 ---
 
 {% raw %}
@@ -73,10 +73,6 @@ updated: '2026-04-17T18:59:20.862568Z'
 <li><strong>Prodrug risk</strong>: Ultra-rapid metabolizers convert codeine to morphine too quickly → respiratory depression</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Modulated By Supplement</h3>
-<p>MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/black-seed-oil/" class="internal-link">Black_Seed_Oil</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/quercetin/" class="internal-link">Quercetin</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/organ/liver/" class="internal-link">Liver</a><br />
 RELATED::<a href="/entities/drug/fluoxetine/" class="internal-link">Fluoxetine</a><br />
@@ -86,6 +82,10 @@ RELATED::<a href="/entities/drug/metoprolol/" class="internal-link">Metoprolol</
 METABOLIZES::<a href="/entities/drug/paroxetine/" class="internal-link">Paroxetine</a><br />
 METABOLIZES::<a href="/entities/drug/vortioxetine/" class="internal-link">Vortioxetine</a><br />
 METABOLIZES::<a href="/entities/drug/fluvoxamine/" class="internal-link">Fluvoxamine</a></p>
+<h3>Modulated By Supplement</h3>
+<p>MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/black-seed-oil/" class="internal-link">Black_Seed_Oil</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/quercetin/" class="internal-link">Quercetin</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a></p>
 <h3>Inhibited By</h3>
 <p>INHIBITED_BY::<a href="/entities/drug/paroxetine/" class="internal-link">Paroxetine</a><br />
 INHIBITED_BY::<a href="/entities/drug/fluoxetine/" class="internal-link">Fluoxetine</a></p>
@@ -100,10 +100,7 @@ ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="inte
 <li>Zhou SF. Polymorphism of human cytochrome P450 2D6 and its clinical significance. Clin Pharmacokinet. 2009;48(11):689-723. PMID:19817501</li>
 </ul>
 <h3>Merged From gene</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/peripheral-neuropathy/" class="internal-link">Peripheral Neuropathy</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/black-seed-oil/" class="internal-link">Black Seed Oil</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/quercetin/" class="internal-link">Quercetin</a></p>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/peripheral-neuropathy/" class="internal-link">Peripheral Neuropathy</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/black-seed-oil/" class="internal-link">Black Seed Oil</a></p>
 
 {% endraw %}

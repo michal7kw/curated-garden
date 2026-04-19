@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.483049Z'
+created: '2026-04-19T18:22:21.458279Z'
 description: Monoamine neurotransmitter central to reward, motivation, motor control,
   and executive function. Often called the "motivation molecule," it drives goal-directed
   behavior and is implicated in addiction, Parkinson's disease, and ADHD.
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Dopamine
 type: neurotransmitter
-updated: '2026-04-17T18:59:20.483049Z'
+updated: '2026-04-19T18:22:21.458279Z'
 ---
 
 {% raw %}
@@ -70,7 +70,6 @@ ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="inte
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a><br />
 INDICATES_ORGAN_HEALTH::<a class="internal-link is-unresolved" href="/404">Adrenal Gland</a><br />
 INDICATES_ORGAN_HEALTH::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
-RELATED::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
 RELATED::<a href="/entities/supplement/mucuna-pruriens/" class="internal-link">Mucuna Pruriens</a><br />
 RELATED::<a href="/entities/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a></p>
 

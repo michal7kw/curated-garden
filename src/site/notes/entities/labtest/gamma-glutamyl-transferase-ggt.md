@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.960255Z'
+created: '2026-04-19T18:22:20.891393Z'
 description: Gamma-glutamyl transferase (GGT) is an enzyme found in the liver and
   bile ducts that plays a role in processing toxins and medications. Elevated GGT
   levels in the blood can signal stress or damage to the liver or bile ducts, so this
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: gamma_glutamyl_transferase_ggt
 type: labtest
-updated: '2026-04-17T18:59:19.960255Z'
+updated: '2026-04-19T18:22:20.891393Z'
 ---
 
 {% raw %}
@@ -61,15 +61,15 @@ updated: '2026-04-17T18:59:19.960255Z'
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related Liver Injury</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced Liver Injury</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced Liver Injury</a><br />
 RELATED::<a href="/entities/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related Liver Injury</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Cholestatic Liver Disease Primary Biliary Cholangitis Primary Sclerosing Cholangitis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Bile Duct Obstruction Gallstones Tumors</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Metabolic Dysfunction-Associated Steatotic Liver Dysfunction Masld</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related Liver Injury</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced Liver Injury</a></p>
 <h3>May Detect</h3>
 <p>MAY_DETECT::<a href="/entities/condition/drug-induced-liver-injury/" class="internal-link">Drug-Induced Liver Injury</a><br />
 MAY_DETECT::<a href="/entities/condition/alcohol-related-liver-injury/" class="internal-link">Alcohol-Related Liver Injury</a></p>

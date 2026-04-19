@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.046887Z'
+created: '2026-04-19T18:22:22.170805Z'
 description: A natural flavonoid found in chamomile, parsley, and celery with antioxidant,
   anti-inflammatory, neuroprotective, and sedative properties. It is known to inhibit
   CD38 (boosting NAD+ levels) and modulate GABA receptors.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Apigenin
 type: supplement
-updated: '2026-04-17T18:59:21.046887Z'
+updated: '2026-04-19T18:22:22.170805Z'
 ---
 
 {% raw %}
@@ -38,24 +38,22 @@ updated: '2026-04-17T18:59:21.046887Z'
 <li><strong>Note</strong>: Dietary intake from chamomile tea (3-5 mg per cup) is far below supplemental doses</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Modulates Neurotransmitter</h3>
-<p>MODULATES_NEUROTRANSMITTER::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a></p>
 <h3>Related</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/insomnia/" class="internal-link">Insomnia</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/inflammation/" class="internal-link">Inflammation</a><br />
-MODULATES_NEUROTRANSMITTER::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
 RELATED::<a href="/entities/metabolite/nicotinamide-riboside/" class="internal-link">Nicotinamide Riboside</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">NAD</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/anxiety/" class="internal-link">Anxiety</a><br />
-MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 RELATED::<a href="/entities/supplement/nmn/" class="internal-link">NMN</a></p>
+<h3>Modulates Neurotransmitter</h3>
+<p>MODULATES_NEUROTRANSMITTER::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a></p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a><br />
+<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/hormone/testosterone/" class="internal-link">Testosterone</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/sleep-disorder/" class="internal-link">Sleep Disorder</a><br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/inflammation/" class="internal-link">Inflammation</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/oxidative-stress/" class="internal-link">Oxidative Stress</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a></p>
 <h3>Affects Organ</h3>

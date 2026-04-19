@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.743822Z'
+created: '2026-04-19T18:22:19.113084Z'
 description: Interleukin-6 is a pleiotropic pro-inflammatory cytokine and key mediator
   of the acute-phase inflammatory response, produced by T cells, macrophages, and
   endothelial cells.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Interleukin 6
 type: biomarker
-updated: '2026-04-17T18:59:17.743822Z'
+updated: '2026-04-19T18:22:19.113084Z'
 ---
 
 {% raw %}
@@ -23,26 +23,21 @@ updated: '2026-04-17T18:59:17.743822Z'
 <h3>Indicates Organ Health</h3>
 <p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/immune-system/" class="internal-link">Immune System</a></p>
 <h3>Activates</h3>
-<p>ACTIVATES::<a href="/entities/labtest/fibrinogen/" class="internal-link">Fibrinogen</a><br />
+<p>ACTIVATES::<a href="/entities/labtest/fibrinogen/" class="internal-link">fibrinogen</a><br />
 ACTIVATES::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>
 <h3>Correlated With</h3>
 <p>CORRELATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
-CORRELATED_WITH::<a href="/entities/labtest/fibrinogen/" class="internal-link">Fibrinogen</a><br />
+CORRELATED_WITH::<a href="/entities/labtest/fibrinogen/" class="internal-link">fibrinogen</a><br />
 CORRELATED_WITH::<a href="/entities/labtest/tnf-alpha/" class="internal-link">TNF Alpha</a></p>
 <h3>Affected By Supplement</h3>
-<ul>
-<li>-&gt; <a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/resveratrol/" class="internal-link">Resveratrol</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/probiotics/" class="internal-link">Probiotics</a> (supplement)</li>
-<li>-&gt; <a href="/entities/supplement/nac/" class="internal-link">NAC</a> (supplement)</li>
-</ul>
+<p>AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/resveratrol/" class="internal-link">Resveratrol</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/probiotics/" class="internal-link">Probiotics</a><br />
+AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/nac/" class="internal-link">NAC</a></p>
 <h3>Measured By Test</h3>
-<ul>
-<li>-&gt; <a href="/entities/labtest/interleukin-6/" class="internal-link">interleukin 6</a> (labtest)</li>
-<li>-&gt; <a href="/entities/labtest/cytokine-panel/" class="internal-link">cytokine panel</a> (labtest)</li>
-</ul>
+<p>MEASURED_BY_TEST::<a href="/entities/labtest/cytokine-panel/" class="internal-link">cytokine panel</a></p>
 <h3>Targeted By Drugs</h3>
 <p>TARGETED_BY::<a href="/entities/drug/tocilizumab/" class="internal-link">Tocilizumab</a><br />
 TARGETED_BY::<a href="/entities/drug/sarilumab/" class="internal-link">Sarilumab</a></p>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.672940Z'
+created: '2026-04-19T18:22:19.643065Z'
 description: Persistently elevated blood pressure (≥130/80 mmHg) that increases risk
   of heart disease, stroke, kidney disease, and premature death. Often called the
   "silent killer" due to lack of symptoms. Affects nearly half of U.S. adults.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Hypertension
 type: condition
-updated: '2026-04-17T18:59:18.672940Z'
+updated: '2026-04-19T18:22:19.643065Z'
 ---
 
 {% raw %}
@@ -100,7 +100,7 @@ RELATED::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-lin
 RELATED::<a href="/entities/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a></p>
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">hs-CRP</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/creatinine/" class="internal-link">Creatinine</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/creatinine/" class="internal-link">creatinine</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/sodium/" class="internal-link">Sodium</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/potassium/" class="internal-link">Potassium</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/uric-acid/" class="internal-link">Uric Acid</a></p>

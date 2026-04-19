@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.853809Z'
+created: '2026-04-19T18:22:21.910762Z'
 description: Cytochrome P450 1A2, a major drug-metabolizing enzyme responsible for
   the metabolism of caffeine, theophylline, clozapine, and olanzapine. Uniquely inducible
   by smoking and dietary components (cruciferous vegetables, chargrilled meat) and
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: CYP1A2
 type: protein
-updated: '2026-04-17T18:59:20.853809Z'
+updated: '2026-04-19T18:22:21.910762Z'
 ---
 
 {% raw %}
@@ -61,11 +61,5 @@ ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/cardiovascular-disease/"
 <li>Faber MS et al. Assessment of CYP1A2 activity in clinical practice. Clin Pharmacokinet. 2005;44(12):1247-1266. PMID:16372823</li>
 </ul>
 <h3>Merged From gene</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
-ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/sleep-disorder/" class="internal-link">Sleep Disorder</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/melatonin-supplement/" class="internal-link">Melatonin Supplement</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/quercetin/" class="internal-link">Quercetin</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/sulforaphane/" class="internal-link">Sulforaphane</a></p>
 
 {% endraw %}

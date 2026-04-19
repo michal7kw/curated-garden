@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.646743Z'
+created: '2026-04-19T18:22:21.673211Z'
 description: Noradrenergic projections from the locus coeruleus to virtually all brain
   regions. Controls arousal, attention, and the stress response. Tonic firing maintains
   wakefulness; phasic firing enhances signal-to-noise for attention.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Locus Coeruleus Norepinephrine Pathway
 type: pathway
-updated: '2026-04-17T18:59:20.646743Z'
+updated: '2026-04-19T18:22:21.673211Z'
 ---
 
 {% raw %}
@@ -30,11 +30,11 @@ updated: '2026-04-17T18:59:20.646743Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related To</h3>
-<p>RELATED_TO::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal_Cortex</a><br />
-RELATED_TO::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
-RELATED_TO::<a href="/entities/anatomy/amygdala/" class="internal-link">Amygdala</a><br />
-RELATED_TO::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a><br />
-RELATED_TO::<a href="/entities/anatomy/locus-coeruleus/" class="internal-link">Locus_Coeruleus</a></p>
+<p>RELATED::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal_Cortex</a><br />
+RELATED::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
+RELATED::<a href="/entities/anatomy/amygdala/" class="internal-link">Amygdala</a><br />
+RELATED::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a><br />
+RELATED::<a href="/entities/anatomy/locus-coeruleus/" class="internal-link">Locus_Coeruleus</a></p>
 <h3>Associated With</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
@@ -46,7 +46,7 @@ ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="inte
 <h3>Modulated By Supplement</h3>
 <p>MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3_Fatty_Acids</a><br />
 MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/l-theanine/" class="internal-link">L-Theanine</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">magnesium</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
 MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a></p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.381032Z'
+created: '2026-04-19T18:22:21.356607Z'
 description: Food-specific IgE testing identifies immunoglobulin E (IgE) responses
   associated with true food allergies, meaning allergies that cause immediate and
   potentially severe reactions, such as hives, swelling, difficulty breathing, or
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: food_allergies_ige
 type: labtestpanel
-updated: '2026-04-17T18:59:20.381032Z'
+updated: '2026-04-19T18:22:21.356607Z'
 ---
 
 {% raw %}

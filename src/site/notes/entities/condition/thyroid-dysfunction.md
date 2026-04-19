@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.102933Z'
+created: '2026-04-19T18:22:19.347446Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/condition/thyroid-dysfunction/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Thyroid Dysfunction
 type: condition
-updated: '2026-04-17T18:59:18.102933Z'
+updated: '2026-04-19T18:22:19.347446Z'
 ---
 
 {% raw %}
@@ -102,8 +102,21 @@ updated: '2026-04-17T18:59:18.102933Z'
 <li><strong>Monitoring frequency</strong>: Every 6-8 weeks during dose adjustment, then every 6-12 months once stable; monitor free T4 and free T3 in addition to TSH if symptoms persist despite normal TSH; annual thyroid ultrasound if nodules present</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/labtest/sex-hormone-binding-globulin-shbg/" class="internal-link">sex hormone binding globulin shbg</a><br />
+RELATED::<a href="/entities/condition/hyperthyroidism/" class="internal-link">Hyperthyroidism</a><br />
+RELATED::<a href="/entities/biomarker/free-t4/" class="internal-link">Free T4</a><br />
+RELATED::<a href="/entities/biomarker/free-t3/" class="internal-link">Free T3</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Thyroid Hormone Synthesis</a><br />
+RELATED::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
+RELATED::<a href="/entities/supplement/zinc/" class="internal-link">Zinc</a><br />
+RELATED::<a href="/entities/organ/heart/" class="internal-link">Heart</a><br />
+RELATED::<a href="/entities/labtest/tsh/" class="internal-link">tsh</a><br />
+RELATED::<a href="/entities/organ/thyroid/" class="internal-link">Thyroid</a><br />
+RELATED::<a href="/entities/supplement/selenium/" class="internal-link">Selenium</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hypothyroidism</a></p>
 <h3>Requires Biomarker</h3>
-<p>REQUIRES_BIOMARKER::<a href="/entities/labtest/tsh/" class="internal-link">TSH</a><br />
+<p>REQUIRES_BIOMARKER::<a href="/entities/labtest/tsh/" class="internal-link">tsh</a><br />
 REQUIRES_BIOMARKER::<a href="/entities/biomarker/free-t3/" class="internal-link">Free T3</a><br />
 REQUIRES_BIOMARKER::<a href="/entities/biomarker/free-t4/" class="internal-link">Free T4</a></p>
 <h3>Increases Risk For</h3>
@@ -118,18 +131,5 @@ AFFECTS_ORGAN::<a href="/entities/organ/thyroid/" class="internal-link">Thyroid<
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/selenium/" class="internal-link">Selenium</a></p>
 <h3>Modulated By Pathway</h3>
 <p>MODULATED_BY_PATHWAY::<a class="internal-link is-unresolved" href="/404">Thyroid Hormone Synthesis</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/labtest/sex-hormone-binding-globulin-shbg/" class="internal-link">sex hormone binding globulin shbg</a><br />
-RELATED::<a href="/entities/condition/hyperthyroidism/" class="internal-link">Hyperthyroidism</a><br />
-RELATED::<a href="/entities/biomarker/free-t4/" class="internal-link">Free T4</a><br />
-RELATED::<a href="/entities/biomarker/free-t3/" class="internal-link">Free T3</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Thyroid Hormone Synthesis</a><br />
-RELATED::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
-RELATED::<a href="/entities/supplement/zinc/" class="internal-link">Zinc</a><br />
-RELATED::<a href="/entities/organ/heart/" class="internal-link">Heart</a><br />
-RELATED::<a href="/entities/labtest/tsh/" class="internal-link">TSH</a><br />
-RELATED::<a href="/entities/organ/thyroid/" class="internal-link">Thyroid</a><br />
-RELATED::<a href="/entities/supplement/selenium/" class="internal-link">Selenium</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Hypothyroidism</a></p>
 
 {% endraw %}

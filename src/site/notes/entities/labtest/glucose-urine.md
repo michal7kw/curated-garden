@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.969602Z'
+created: '2026-04-19T18:22:20.910917Z'
 description: Tested twice a year Glucose is normally reabsorbed by the kidneys, so
   urine is typically free of it under healthy conditions. When glucose spills into
   the urine (glucosuria), it usually means blood sugar levels are higher than the
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: glucose_urine
 type: labtest
-updated: '2026-04-17T18:59:19.969602Z'
+updated: '2026-04-19T18:22:20.910917Z'
 ---
 
 {% raw %}
@@ -61,14 +61,14 @@ updated: '2026-04-17T18:59:19.969602Z'
 <h2>Reference Ranges</h2>
 <p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
 <h2>Relationships</h2>
-<h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/diabetes/" class="internal-link">Diabetes</a></p>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Prediabetes</a><br />
 RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Kidney Dysfunction</a><br />
 RELATED::<a href="/entities/condition/diabetes/" class="internal-link">Diabetes</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hyperglycemia</a></p>
+<h3>Associated With Condition</h3>
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/diabetes/" class="internal-link">Diabetes</a></p>
 <h3>May Detect</h3>
 <p>MAY_DETECT::<a href="/entities/condition/diabetes/" class="internal-link">Diabetes</a><br />
 MAY_DETECT::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></p>

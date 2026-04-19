@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.341832Z'
+created: '2026-04-19T18:22:20.129034Z'
 description: Soluble TNF receptor fusion protein (brand Enbrel). Binds TNF-alpha and
   TNF-beta (lymphotoxin-alpha), preventing their interaction with cell surface TNF
   receptors. Unique mechanism as a decoy receptor rather than antibody.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Etanercept
 type: drug
-updated: '2026-04-17T18:59:19.341832Z'
+updated: '2026-04-19T18:22:20.129034Z'
 ---
 
 {% raw %}
@@ -35,7 +35,7 @@ TREATS::<a href="/entities/condition/psoriasis/" class="internal-link">Psoriasis
 <p>TARGETS::<a href="/entities/labtest/tnf-alpha/" class="internal-link">TNF Alpha</a></p>
 <h3>Decreases Biomarker</h3>
 <p>DECREASES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a><br />
-DECREASES_BIOMARKER::<a href="/entities/labtest/esr/" class="internal-link">ESR</a></p>
+DECREASES_BIOMARKER::<a href="/entities/labtest/esr/" class="internal-link">esr</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:10580309</li>

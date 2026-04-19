@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.560736Z'
+created: '2026-04-19T18:22:19.003870Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/co2/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Co2
 type: biomarker
-updated: '2026-04-17T18:59:17.560736Z'
+updated: '2026-04-19T18:22:19.003870Z'
 ---
 
 {% raw %}
@@ -76,10 +76,8 @@ ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Di
 RELATED::<a href="/entities/labtest/sodium/" class="internal-link">Sodium</a> (sodium and bicarbonate are co-regulated in renal tubular handling, Evidence Level 2a)<br />
 RELATED::<a href="/entities/labtest/potassium/" class="internal-link">Potassium</a> (hypokalemia and alkalosis are frequently linked, Evidence Level 1a)</p>
 <h3>Measured By Test</h3>
-<ul>
-<li>-&gt; <a href="/entities/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive metabolic panel</a> (labtest)</li>
-<li>-&gt; <a href="/entities/labtest/basic-metabolic-panel/" class="internal-link">basic metabolic panel</a> (labtest)</li>
-<li>-&gt; <a href="/entities/labtest/carbon-dioxide/" class="internal-link">carbon dioxide</a> (labtest)</li>
-</ul>
+<p>MEASURED_BY_TEST::<a href="/entities/labtest/comprehensive-metabolic-panel/" class="internal-link">comprehensive metabolic panel</a><br />
+MEASURED_BY_TEST::<a href="/entities/labtest/basic-metabolic-panel/" class="internal-link">basic metabolic panel</a><br />
+MEASURED_BY_TEST::<a href="/entities/labtest/carbon-dioxide/" class="internal-link">carbon dioxide</a></p>
 
 {% endraw %}

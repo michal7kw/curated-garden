@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.130237Z'
+created: '2026-04-19T18:22:22.256030Z'
 description: One of the oldest living tree species (~270 million years) and among
   the most widely studied herbal cognitive enhancers. Standardized extracts (EGb 761)
   contain ginkgolides (terpenoid lactones acting as PAF antagonists) and flavonoid
@@ -23,7 +23,7 @@ tags:
 templateEngineOverride: njk
 title: Ginkgo Biloba
 type: supplement
-updated: '2026-04-17T18:59:21.130237Z'
+updated: '2026-04-19T18:22:22.256030Z'
 ---
 
 {% raw %}

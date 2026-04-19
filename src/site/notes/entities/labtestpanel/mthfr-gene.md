@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.416617Z'
+created: '2026-04-19T18:22:21.388156Z'
 description: This test identifies DNA mutations in the MTHFR (methylenetetrahydrofolate
   reductase) gene, which influence homocysteine regulation and the metabolism of folate
   (vitamin B9) and other B vitamins. Both are integral for metabolic and cellular
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: mthfr_gene
 type: labtestpanel
-updated: '2026-04-17T18:59:20.416617Z'
+updated: '2026-04-19T18:22:21.388156Z'
 ---
 
 {% raw %}
@@ -43,10 +43,10 @@ updated: '2026-04-17T18:59:20.416617Z'
 USED_FOR::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
 USED_FOR::<a class="internal-link is-unresolved" href="/404">Hyperhomocysteinemia</a><br />
 RELATED::<a href="/entities/labtest/methylmalonic-acid/" class="internal-link">methylmalonic acid</a><br />
-RELATED::<a href="/entities/supplement/vitamin-d/" class="internal-link">vitamin d</a><br />
-RELATED::<a href="/entities/supplement/magnesium/" class="internal-link">magnesium</a><br />
-RELATED::<a href="/entities/supplement/zinc/" class="internal-link">zinc</a><br />
-RELATED::<a href="/entities/supplement/iron/" class="internal-link">iron</a><br />
+RELATED::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a><br />
+RELATED::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
+RELATED::<a href="/entities/supplement/zinc/" class="internal-link">Zinc</a><br />
+RELATED::<a href="/entities/supplement/iron/" class="internal-link">Iron</a><br />
 ASSOCIATED_WITH::<a href="/entities/organ/heart/" class="internal-link">Heart</a><br />
 ASSOCIATED_WITH::<a href="/entities/organ/blood/" class="internal-link">Blood</a></p>
 

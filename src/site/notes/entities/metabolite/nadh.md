@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.462990Z'
+created: '2026-04-19T18:22:21.436454Z'
 description: Nicotinamide adenine dinucleotide (reduced form), the electron carrier
   that shuttles electrons to the mitochondrial electron transport chain for ATP production.
   Essential cofactor for hundreds of redox reactions in cellular metabolism.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: NADH
 type: metabolite
-updated: '2026-04-17T18:59:20.462990Z'
+updated: '2026-04-19T18:22:21.436454Z'
 ---
 
 {% raw %}

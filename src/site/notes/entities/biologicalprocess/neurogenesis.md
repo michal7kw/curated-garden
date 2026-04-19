@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.452716Z'
+created: '2026-04-19T18:22:18.927215Z'
 description: Generation of new neurons from neural stem and progenitor cells, occurring
   primarily in the hippocampal dentate gyrus and subventricular zone in the adult
   brain, with implications for memory, mood, and neurodegenerative disease.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Neurogenesis
 type: biologicalprocess
-updated: '2026-04-17T18:59:17.452716Z'
+updated: '2026-04-19T18:22:18.927215Z'
 ---
 
 {% raw %}
@@ -25,7 +25,7 @@ updated: '2026-04-17T18:59:17.452716Z'
 <h2>Overview</h2>
 <p>Neurogenesis -- the birth of new neurons from neural stem and progenitor cells -- was long believed to be restricted to embryonic development. This dogma was overturned by landmark discoveries demonstrating that new neurons are continuously generated throughout life in at least two regions of the adult mammalian brain: the subgranular zone (SGZ) of the hippocampal dentate gyrus and the subventricular zone (SVZ) lining the lateral ventricles. Adult hippocampal neurogenesis is of particular interest because the <a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a> is critical for learning, memory formation, pattern separation, and mood regulation.</p>
 <p>In the hippocampal SGZ, radial glia-like neural stem cells (Type 1 cells) give rise to transit-amplifying progenitors (Type 2), which differentiate into neuroblasts (Type 3) and ultimately mature into granule neurons that integrate into existing hippocampal circuitry over a period of weeks to months. Only a fraction of newborn neurons survive; the majority undergo apoptosis during a critical period when they must receive appropriate synaptic input and neurotrophic support. Brain-derived neurotrophic factor (<a class="internal-link is-unresolved" href="/404">BDNF Gene</a>) is the most important survival and maturation factor for newborn hippocampal neurons. BDNF acts through TrkB receptors to activate downstream signaling cascades (MAPK/ERK, PI3K/Akt, PLCgamma) that promote neuronal survival, dendritic arborization, and synaptic integration.</p>
-<p>Physical <a href="/entities/intervention/exercise/" class="internal-link">Exercise</a> is the most robust and well-validated enhancer of adult hippocampal neurogenesis across species. Voluntary running in rodents increases neurogenesis 2-3 fold, an effect mediated by increased cerebral blood flow, elevated BDNF, lactate signaling, and reduced inflammation. In humans, aerobic exercise is associated with increased hippocampal volume and improved memory performance, effects likely attributable in part to enhanced neurogenesis. The medicinal mushroom <a class="internal-link is-unresolved" href="/404">Lion's Mane</a> (Hericium erinaceus) and its bioactive compounds (hericenones and erinacines) have demonstrated neurotrophic properties, stimulating NGF and BDNF production and promoting neurite outgrowth in vitro and neurogenesis in animal models.</p>
+<p>Physical <a href="/entities/intervention/exercise/" class="internal-link">Exercise</a> is the most robust and well-validated enhancer of adult hippocampal neurogenesis across species. Voluntary running in rodents increases neurogenesis 2-3 fold, an effect mediated by increased cerebral blood flow, elevated BDNF, lactate signaling, and reduced inflammation. In humans, aerobic exercise is associated with increased hippocampal volume and improved memory performance, effects likely attributable in part to enhanced neurogenesis. The medicinal mushroom <a href="/entities/supplement/lions-mane/" class="internal-link">Lion's Mane</a> (Hericium erinaceus) and its bioactive compounds (hericenones and erinacines) have demonstrated neurotrophic properties, stimulating NGF and BDNF production and promoting neurite outgrowth in vitro and neurogenesis in animal models.</p>
 <p>Adult neurogenesis declines substantially with aging, and this decline is thought to contribute to age-related cognitive impairment and increased vulnerability to neuropsychiatric disorders. Chronic stress, glucocorticoid excess, neuroinflammation, and sleep deprivation all suppress neurogenesis, while enriched environment, learning, caloric restriction, and certain dietary factors (omega-3 fatty acids, flavonoids, curcumin) promote it. Impaired neurogenesis has been implicated in the pathophysiology of major depression, and the therapeutic effects of antidepressants (SSRIs) may depend in part on restoring hippocampal neurogenesis.</p>
 <h2>Key Mechanisms</h2>
 <ul>
@@ -52,7 +52,7 @@ updated: '2026-04-17T18:59:17.452716Z'
 <td>BDNF elevation, angiogenesis, lactate signaling</td>
 </tr>
 <tr>
-<td><a class="internal-link is-unresolved" href="/404">Lion's Mane</a></td>
+<td><a href="/entities/supplement/lions-mane/" class="internal-link">Lion's Mane</a></td>
 <td>Moderate positive</td>
 <td>NGF/BDNF stimulation via hericenones/erinacines</td>
 </tr>
@@ -82,7 +82,7 @@ updated: '2026-04-17T18:59:17.452716Z'
 <p>OCCURS_IN::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a><br />
 REGULATED_BY::<a class="internal-link is-unresolved" href="/404">BDNF Gene</a><br />
 ENHANCED_BY::<a href="/entities/intervention/exercise/" class="internal-link">Exercise</a><br />
-ENHANCED_BY::<a class="internal-link is-unresolved" href="/404">Lion's Mane</a><br />
+ENHANCED_BY::<a href="/entities/supplement/lions-mane/" class="internal-link">Lion's Mane</a><br />
 DECLINES_WITH::<a class="internal-link is-unresolved" href="/404">Aging</a><br />
 IMPAIRED_IN::<a href="/entities/condition/depressive-disorder/" class="internal-link">Depressive Disorder</a><br />
 IMPAIRED_IN::<a href="/entities/condition/memory-disorders/" class="internal-link">Memory Disorders</a><br />

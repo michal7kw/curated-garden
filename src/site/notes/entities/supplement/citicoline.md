@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.098269Z'
+created: '2026-04-19T18:22:22.221930Z'
 description: CDP-choline, a naturally occurring compound that provides both choline
   and cytidine. Superior nootropic supporting phosphatidylcholine synthesis, dopamine
   signaling, and neuroprotection.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Citicoline
 type: supplement
-updated: '2026-04-17T18:59:21.098269Z'
+updated: '2026-04-19T18:22:22.221930Z'
 ---
 
 {% raw %}
@@ -37,6 +37,9 @@ updated: '2026-04-17T18:59:21.098269Z'
 <li><strong>Note</strong>: May cause insomnia if taken late in the day; divide higher doses</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/supplement/alpha-gpc/" class="internal-link">Alpha-GPC</a> (alternative choline source with different pharmacokinetics)<br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Uridine</a> (cytidine component converts to uridine in vivo)</p>
 <h3>Modulates Neurotransmitter</h3>
 <p>MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a><br />
 MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
@@ -52,8 +55,5 @@ MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">ADHD</
 <h3>Synergistic With</h3>
 <p>SYNERGISTIC_WITH::<a class="internal-link is-unresolved" href="/404">Omega-3</a> (both support neuronal membrane phospholipid composition, Evidence Level 2b)<br />
 SYNERGISTIC_WITH::<a href="/entities/supplement/phosphatidylserine/" class="internal-link">Phosphatidylserine</a> (complementary phospholipid support for cognitive function, Evidence Level 3)</p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/supplement/alpha-gpc/" class="internal-link">Alpha-GPC</a> (alternative choline source with different pharmacokinetics)<br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Uridine</a> (cytidine component converts to uridine in vivo)</p>
 
 {% endraw %}

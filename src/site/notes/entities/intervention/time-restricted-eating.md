@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.767449Z'
+created: '2026-04-19T18:22:20.653962Z'
 description: Form of intermittent fasting that restricts daily food intake to a consistent
   window (typically 8-12 hours), aligning eating with circadian rhythms. Distinguished
   from general intermittent fasting by emphasis on meal timing rather than caloric
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Time-Restricted Eating
 type: intervention
-updated: '2026-04-17T18:59:19.767449Z'
+updated: '2026-04-19T18:22:20.653962Z'
 ---
 
 {% raw %}
@@ -55,24 +55,24 @@ updated: '2026-04-17T18:59:19.767449Z'
 <li>Shift workers (requires modified approach)</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Modulates Hormone</h3>
-<p>MODULATES_HORMONE::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a> (extended fasting allows insulin levels to reach baseline, restoring sensitivity, Evidence Level 1b)<br />
-MODULATES_HORMONE::<a href="/entities/hormone/melatonin/" class="internal-link">Melatonin</a> (avoiding late eating prevents melatonin-insulin conflict, Evidence Level 2b)<br />
-MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a> (eating aligned with cortisol rhythm optimizes metabolic response, Evidence Level 2b)</p>
-<h3>Modulates Biomarker</h3>
-<p>MODULATES_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">HbA1c</a> (improved glycemic control with consistent eating window, Evidence Level 2a)<br />
-MODULATES_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a> (reduced with TRE, especially early TRE, Evidence Level 2a)<br />
-MODULATES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a> (reduced oxidative stress and inflammation, Evidence Level 2b)</p>
-<h3>Modulates Pathway</h3>
-<p>MODULATES_PATHWAY::<a href="/entities/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal Pathway</a> (extended fasting window activates autophagy via mTOR suppression, Evidence Level 2b)</p>
-<h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a> (improved insulin sensitivity and glycemic control, Evidence Level 1b)<br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/hypertension/" class="internal-link">Hypertension</a> (4-7 mmHg systolic reduction, Evidence Level 2a)</p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/intervention/intermittent-fasting/" class="internal-link">Intermittent Fasting</a> (TRE is the most practical IF protocol)<br />
 RELATED::<a href="/entities/intervention/keto-diet/" class="internal-link">Keto Diet</a> (extended fasting window may induce mild ketosis)<br />
 RELATED::<a href="/entities/intervention/mediterranean-diet/" class="internal-link">Mediterranean Diet</a> (combining TRE with Med diet quality optimizes outcomes)<br />
 RELATED::<a href="/entities/intervention/sleep-optimization/" class="internal-link">Sleep Optimization</a> (stopping eating 2-3h before bed improves sleep quality)<br />
 RELATED::<a href="/entities/intervention/walking/" class="internal-link">Walking</a> (post-meal walks complement TRE for glucose regulation)</p>
+<h3>Modulates Hormone</h3>
+<p>MODULATES_HORMONE::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a> (extended fasting allows insulin levels to reach baseline, restoring sensitivity, Evidence Level 1b)<br />
+MODULATES_HORMONE::<a href="/entities/hormone/melatonin/" class="internal-link">Melatonin</a> (avoiding late eating prevents melatonin-insulin conflict, Evidence Level 2b)<br />
+MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a> (eating aligned with cortisol rhythm optimizes metabolic response, Evidence Level 2b)</p>
+<h3>Modulates Biomarker</h3>
+<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a> (improved glycemic control with consistent eating window, Evidence Level 2a)<br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a> (reduced with TRE, especially early TRE, Evidence Level 2a)<br />
+AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a> (reduced oxidative stress and inflammation, Evidence Level 2b)</p>
+<h3>Modulates Pathway</h3>
+<p>MODULATES_PATHWAY::<a href="/entities/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal Pathway</a> (extended fasting window activates autophagy via mTOR suppression, Evidence Level 2b)</p>
+<h3>May Improve Condition</h3>
+<p>MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a> (improved insulin sensitivity and glycemic control, Evidence Level 1b)<br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/hypertension/" class="internal-link">Hypertension</a> (4-7 mmHg systolic reduction, Evidence Level 2a)</p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.541583Z'
+created: '2026-04-19T18:22:21.542670Z'
 description: Primary respiratory organs responsible for gas exchange, delivering oxygen
   to the blood and removing carbon dioxide. Essential for cellular respiration and
   energy production.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Lungs
 type: organ
-updated: '2026-04-17T18:59:20.541583Z'
+updated: '2026-04-19T18:22:21.542670Z'
 ---
 
 {% raw %}
@@ -42,12 +42,12 @@ updated: '2026-04-17T18:59:20.541583Z'
 <h2>Clinical Significance</h2>
 <p>Pulmonary function is assessed with spirometry (measuring FEV1, FVC, and their ratio for obstructive vs. restrictive patterns), arterial blood gases (PaO2, PaCO2, pH), pulse oximetry, and diffusion capacity (DLCO). Imaging includes chest X-ray (first-line), high-resolution CT (interstitial lung disease, nodules), and CT pulmonary angiography (pulmonary embolism). Bronchoscopy allows direct airway visualization and sampling. Key nutritional and supplemental considerations include NAC (mucolytic properties and glutathione precursor), vitamin D (immune modulation and respiratory infection risk), and omega-3 fatty acids (anti-inflammatory effects in COPD and asthma).</p>
 <h2>Relationships</h2>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">COPD</a><br />
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/supplement/nac/" class="internal-link">NAC</a><br />
+ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">COPD</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/asthma/" class="internal-link">Asthma</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/pneumonia/" class="internal-link">Pneumonia</a><br />
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Lung Cancer</a><br />
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Pulmonary Embolism</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/supplement/nac/" class="internal-link">NAC</a></p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.721227Z'
+created: '2026-04-19T18:22:20.592743Z'
 description: Mindfulness and meditation practices that reduce cortisol, lower sympathetic
   nervous system activation, and improve stress resilience through regular practice.
   Studied for effects on inflammation, telomere length, and neuroendocrine balance.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Meditation
 type: intervention
-updated: '2026-04-17T18:59:19.721227Z'
+updated: '2026-04-19T18:22:20.592743Z'
 ---
 
 {% raw %}
@@ -54,15 +54,15 @@ updated: '2026-04-17T18:59:19.721227Z'
 <li><strong>Evidence-based programs</strong>: MBSR (8-week structured program)</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a><br />
+RELATED::<a href="/entities/intervention/breathwork/" class="internal-link">Breathwork</a></p>
 <h3>Affects Biomarker</h3>
 <p>AFFECTS_BIOMARKER::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a><br />
 AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">DHEA-S</a></p>
 <h3>Modulates Hormone</h3>
 <p>MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a><br />
-RELATED::<a href="/entities/intervention/breathwork/" class="internal-link">Breathwork</a></p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/chronic-stress/" class="internal-link">Chronic_Stress</a><br />

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.191116Z'
+created: '2026-04-19T18:22:22.372638Z'
 description: Essential B-vitamin (B3) and NAD+ precursor through the Preiss-Handler
   salvage pathway. Supports cellular energy production, sirtuin activity, and DNA
   repair. Available as nicotinic acid and nicotinamide forms.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Niacin
 type: supplement
-updated: '2026-04-17T18:59:21.191116Z'
+updated: '2026-04-19T18:22:22.372638Z'
 ---
 
 {% raw %}
@@ -69,10 +69,6 @@ updated: '2026-04-17T18:59:21.191116Z'
 <li>Do not use immediate-release nicotinic acid at high doses (hepatotoxicity risk)</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Participates In Pathway</h3>
-<p>PARTICIPATES_IN_PATHWAY::<a class="internal-link is-unresolved" href="/404">NAD_Salvage_Pathway</a></p>
-<h3>Interacts With</h3>
-<p>INTERACTS_WITH::<a href="/entities/drug/atorvastatin/" class="internal-link">Atorvastatin</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/supplement/b-complex-vitamins/" class="internal-link">B-Complex_Vitamins</a><br />
 RELATED::<a href="/entities/supplement/thiamine/" class="internal-link">Thiamine</a><br />
@@ -80,6 +76,10 @@ RELATED::<a href="/entities/metabolite/nicotinamide-riboside/" class="internal-l
 RELATED::<a href="/entities/metabolite/nadh/" class="internal-link">NADH</a><br />
 RELATED::<a href="/entities/supplement/nmn/" class="internal-link">NMN</a><br />
 RELATED::<a href="/entities/supplement/riboflavin/" class="internal-link">Riboflavin</a></p>
+<h3>Participates In Pathway</h3>
+<p>PARTICIPATES_IN_PATHWAY::<a class="internal-link is-unresolved" href="/404">NAD_Salvage_Pathway</a></p>
+<h3>Interacts With</h3>
+<p>INTERACTS_WITH::<a href="/entities/drug/atorvastatin/" class="internal-link">Atorvastatin</a></p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/mitochondrial-dysfunction/" class="internal-link">Mitochondrial_Dysfunction</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/b-vitamin-deficiency/" class="internal-link">B_Vitamin_Deficiency</a><br />

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.403460Z'
+created: '2026-04-19T18:22:18.891876Z'
 description: Deep cortical structure hidden within the lateral sulcus, functioning
   as an interoceptive hub. Integrates bodily signals with emotional awareness, pain
   perception, empathy, and conscious feeling states. Critical node in the salience
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Insula
 type: anatomy
-updated: '2026-04-17T18:59:17.403460Z'
+updated: '2026-04-19T18:22:18.891876Z'
 ---
 
 {% raw %}

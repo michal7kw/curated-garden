@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.423946Z'
+created: '2026-04-19T18:22:18.908275Z'
 description: Lateral cortical lobe beneath the Sylvian fissure. Houses the auditory
   cortex, Wernicke's area for language comprehension, and the medial temporal structures
   (hippocampus, amygdala) for memory.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Temporal Lobe
 type: anatomy
-updated: '2026-04-17T18:59:17.423946Z'
+updated: '2026-04-19T18:22:18.908275Z'
 ---
 
 {% raw %}

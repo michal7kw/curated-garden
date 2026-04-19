@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.577985Z'
+created: '2026-04-19T18:22:19.592089Z'
 description: A chronic digestive condition in which stomach acid or bile flows back
   into the esophagus, causing mucosal irritation, heartburn, and potential complications
   including Barrett's esophagus.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: GERD
 type: condition
-updated: '2026-04-17T18:59:18.577985Z'
+updated: '2026-04-19T18:22:19.592089Z'
 ---
 
 {% raw %}
@@ -45,9 +45,12 @@ AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Esophagus</a><
 AFFECTS_ORGAN::<a href="/entities/organ/stomach/" class="internal-link">Stomach</a></li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/condition/peptic-ulcer/" class="internal-link">Peptic_Ulcer</a><br />
+RELATED::<a href="/entities/condition/irritable-bowel-syndrome/" class="internal-link">Irritable_Bowel_Syndrome</a></p>
 <h3>Improved By Supplement</h3>
-<p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/zinc/" class="internal-link">zinc</a><br />
-IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">magnesium</a><br />
+<p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/zinc/" class="internal-link">Zinc</a><br />
+IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/hormone/melatonin/" class="internal-link">Melatonin</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/probiotics/" class="internal-link">Probiotics</a></p>
 <h3>Associated With</h3>
@@ -55,10 +58,5 @@ IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/probiotics/" class="intern
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">hs_crp</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/ferritin/" class="internal-link">ferritin</a></p>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Esophagus</a><br />
-AFFECTS_ORGAN::<a href="/entities/organ/stomach/" class="internal-link">Stomach</a></p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/condition/peptic-ulcer/" class="internal-link">Peptic_Ulcer</a><br />
-RELATED::<a href="/entities/condition/irritable-bowel-syndrome/" class="internal-link">Irritable_Bowel_Syndrome</a></p>
 
 {% endraw %}

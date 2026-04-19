@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.540762Z'
+created: '2026-04-19T18:22:20.374293Z'
 description: Encodes Presenilin-1, the catalytic subunit of the Gamma-Secretase complex.
   Mutations are the most common cause of Familial Early-Onset Alzheimer's.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: PSEN1
 type: gene
-updated: '2026-04-17T18:59:19.540762Z'
+updated: '2026-04-19T18:22:20.374293Z'
 ---
 
 {% raw %}

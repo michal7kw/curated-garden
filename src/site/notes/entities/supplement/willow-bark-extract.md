@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:21.323365Z'
+created: '2026-04-19T18:22:22.531224Z'
 description: Salix alba bark extract containing salicin, the natural precursor to
   aspirin. Anti-inflammatory and analgesic via COX inhibition. Modest evidence for
   low back pain and osteoarthritis. Slower onset but potentially fewer GI side effects
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Willow Bark Extract
 type: supplement
-updated: '2026-04-17T18:59:21.323365Z'
+updated: '2026-04-19T18:22:22.531224Z'
 ---
 
 {% raw %}

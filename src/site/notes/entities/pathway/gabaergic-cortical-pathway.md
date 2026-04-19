@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.608414Z'
+created: '2026-04-19T18:22:21.630009Z'
 description: Distributed network of GABAergic interneurons throughout the cortex and
   subcortical structures. Provides inhibitory balance to excitatory glutamate signaling,
   essential for neural oscillations, information filtering, and seizure prevention.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: GABAergic Cortical Pathway
 type: pathway
-updated: '2026-04-17T18:59:20.608414Z'
+updated: '2026-04-19T18:22:21.630009Z'
 ---
 
 {% raw %}
@@ -31,15 +31,15 @@ updated: '2026-04-17T18:59:20.608414Z'
 <h2>Relationships</h2>
 <h3>Modulated By Supplement</h3>
 <p>MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/l-theanine/" class="internal-link">L-Theanine</a><br />
-MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">magnesium</a><br />
+MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
 MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/glycine/" class="internal-link">Glycine</a><br />
 MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/taurine/" class="internal-link">Taurine</a></p>
 <h3>Related To</h3>
-<p>RELATED_TO::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
-RELATED_TO::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal_Cortex</a><br />
-RELATED_TO::<a href="/entities/anatomy/thalamus/" class="internal-link">Thalamus</a><br />
-RELATED_TO::<a href="/entities/anatomy/amygdala/" class="internal-link">Amygdala</a><br />
-RELATED_TO::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a></p>
+<p>RELATED::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
+RELATED::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal_Cortex</a><br />
+RELATED::<a href="/entities/anatomy/thalamus/" class="internal-link">Thalamus</a><br />
+RELATED::<a href="/entities/anatomy/amygdala/" class="internal-link">Amygdala</a><br />
+RELATED::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a></p>
 <h3>Associated With Condition</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/chronic-stress/" class="internal-link">Chronic_Stress</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />

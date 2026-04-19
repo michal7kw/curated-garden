@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.525653Z'
+created: '2026-04-19T18:22:21.515314Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/habenula/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Habenula
 type: organ
-updated: '2026-04-17T18:59:20.525653Z'
+updated: '2026-04-19T18:22:21.515314Z'
 ---
 
 {% raw %}

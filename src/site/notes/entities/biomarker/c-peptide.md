@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.540096Z'
+created: '2026-04-19T18:22:18.983328Z'
 description: C-Peptide is a 31-amino acid polypeptide cleaved from proinsulin during
   insulin biosynthesis, serving as a direct measure of endogenous insulin production
   by pancreatic beta cells.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: C-Peptide
 type: biomarker
-updated: '2026-04-17T18:59:17.540096Z'
+updated: '2026-04-19T18:22:18.983328Z'
 ---
 
 {% raw %}
@@ -25,10 +25,10 @@ updated: '2026-04-17T18:59:17.540096Z'
 <h3>Correlated With</h3>
 <p>CORRELATED_WITH::<a href="/entities/biomarker/insulin-fasting/" class="internal-link">Insulin Fasting</a><br />
 CORRELATED_WITH::<a href="/entities/biomarker/glucose-fasting/" class="internal-link">Glucose Fasting</a><br />
-CORRELATED_WITH::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a><br />
-CORRELATED_WITH::<a href="/entities/labtest/hba1c/" class="internal-link">HbA1c</a></p>
+CORRELATED_WITH::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a><br />
+CORRELATED_WITH::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a></p>
 <h3>Activates</h3>
-<p>ACTIVATES::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a><br />
+<p>ACTIVATES::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a><br />
 ACTIVATES::<a href="/entities/biomarker/insulin-fasting/" class="internal-link">Insulin Fasting</a></p>
 
 {% endraw %}

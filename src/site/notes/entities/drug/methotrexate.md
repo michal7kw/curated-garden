@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.409508Z'
+created: '2026-04-19T18:22:20.209445Z'
 description: Anchor DMARD and first-line treatment for rheumatoid arthritis. Folate
   antimetabolite that inhibits dihydrofolate reductase, suppressing lymphocyte proliferation
   and reducing inflammatory cytokine production.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Methotrexate
 type: drug
-updated: '2026-04-17T18:59:19.409508Z'
+updated: '2026-04-19T18:22:20.209445Z'
 ---
 
 {% raw %}
@@ -34,7 +34,7 @@ updated: '2026-04-17T18:59:19.409508Z'
 TREATS::<a href="/entities/condition/psoriasis/" class="internal-link">Psoriasis</a></p>
 <h3>Affects Biomarker</h3>
 <p>AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a><br />
-AFFECTS_BIOMARKER::<a href="/entities/labtest/esr/" class="internal-link">ESR</a></p>
+AFFECTS_BIOMARKER::<a href="/entities/labtest/esr/" class="internal-link">esr</a></p>
 <h3>Modulates Pathway</h3>
 <p>MODULATES_PATHWAY::<a href="/entities/pathway/nf-kb-pathway/" class="internal-link">NF-kB Pathway</a></p>
 <h3>Interacts With</h3>

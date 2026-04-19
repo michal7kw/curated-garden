@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.460852Z'
+created: '2026-04-19T18:22:20.270260Z'
 description: GLP-1 receptor agonist for type 2 diabetes and obesity. Revolutionary
   drug providing significant weight loss and cardiovascular benefits. Available as
   injectable (Ozempic, Wegovy) and oral (Rybelsus). Demonstrated 15-17% body weight
@@ -21,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: Semaglutide
 type: drug
-updated: '2026-04-17T18:59:19.460852Z'
+updated: '2026-04-19T18:22:20.270260Z'
 ---
 
 {% raw %}
@@ -85,6 +85,11 @@ updated: '2026-04-17T18:59:19.460852Z'
 <li><strong>Serious Warnings</strong>: Thyroid C-cell tumor risk (rodent studies), contraindicated in MEN2, acute kidney injury, hypersensitivity reactions</li>
 </ul>
 <h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/drug/metformin/" class="internal-link">METFORMIN</a> (first-line combination therapy, Evidence Level 1a)<br />
+RELATED::<a href="/entities/drug/liraglutide/" class="internal-link">Liraglutide</a> (shorter-acting GLP-1 agonist, Evidence Level 1b)<br />
+RELATED::<a href="/entities/drug/tirzepatide/" class="internal-link">Tirzepatide</a> (dual GIP/GLP-1 agonist, Evidence Level 1b)<br />
+RELATED::<a class="internal-link is-unresolved" href="/404">SGLT2 inhibitors</a> (complementary cardiorenal protection, Evidence Level 1a)</p>
 <h3>Treats</h3>
 <p>TREATS::<a href="/entities/condition/diabetes/" class="internal-link">Diabetes</a> (Evidence Level 1a - SUSTAIN trials, PMID: 27633129)<br />
 TREATS::<a href="/entities/condition/weight-gain/" class="internal-link">Weight Gain</a> (Evidence Level 1a - STEP trials, PMID: 34041401)<br />
@@ -92,15 +97,15 @@ TREATS::<a href="/entities/condition/nafld/" class="internal-link">NAFLD</a> (Ev
 TREATS::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> (Evidence Level 1a - SELECT trial, PMID: 37495217)<br />
 TREATS::<a href="/entities/condition/chronic-kidney-disease/" class="internal-link">Chronic Kidney Disease</a> (Evidence Level 1a - FLOW trial, PMID: 38241125)</p>
 <h3>Affects Biomarker</h3>
-<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">HbA1c</a> (reduces by 1.0-1.8%, Evidence Level 1a)<br />
+<p>AFFECTS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a> (reduces by 1.0-1.8%, Evidence Level 1a)<br />
 AFFECTS_BIOMARKER::<a href="/entities/metabolite/glucose/" class="internal-link">Glucose</a> (reduces fasting glucose by 30-50 mg/dL, Evidence Level 1a)<br />
 AFFECTS_BIOMARKER::<a href="/entities/biomarker/crp-hs/" class="internal-link">CRP (hs)</a> (reduces systemic inflammation, Evidence Level 2a)<br />
-AFFECTS_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a> (modest reduction, Evidence Level 2b)<br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a> (modest reduction, Evidence Level 2b)<br />
 AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Blood Pressure</a> (reduces systolic BP by 2-5 mmHg, Evidence Level 2a)<br />
-AFFECTS_BIOMARKER::<a href="/entities/labtest/creatinine/" class="internal-link">Creatinine</a> (improves kidney function markers, Evidence Level 1a)</p>
+AFFECTS_BIOMARKER::<a href="/entities/labtest/creatinine/" class="internal-link">creatinine</a> (improves kidney function markers, Evidence Level 1a)</p>
 <h3>Modulates Hormone</h3>
-<p>MODULATES_HORMONE::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a> (enhances glucose-dependent secretion, Evidence Level 1a)<br />
-MODULATES_HORMONE::<a href="/entities/labtest/leptin/" class="internal-link">Leptin</a> (increases leptin sensitivity, Evidence Level 2b)<br />
+<p>MODULATES_HORMONE::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a> (enhances glucose-dependent secretion, Evidence Level 1a)<br />
+MODULATES_HORMONE::<a href="/entities/labtest/leptin/" class="internal-link">leptin</a> (increases leptin sensitivity, Evidence Level 2b)<br />
 MODULATES_HORMONE::<a href="/entities/hormone/ghrelin/" class="internal-link">Ghrelin</a> (suppresses hunger hormone, Evidence Level 2b)<br />
 MODULATES_HORMONE::<a class="internal-link is-unresolved" href="/404">Glucagon</a> (suppresses postprandial glucagon, Evidence Level 1a)</p>
 <h3>Affects Organ</h3>
@@ -115,14 +120,9 @@ AFFECTS_ORGAN::<a href="/entities/anatomy/hypothalamus/" class="internal-link">H
 MODULATES::<a href="/entities/pathway/insulin-signaling/" class="internal-link">Insulin Signaling</a> (improves insulin sensitivity, Evidence Level 2b)<br />
 MODULATES::<a class="internal-link is-unresolved" href="/404">Inflammatory Response</a> (reduces systemic inflammation, Evidence Level 2a)</p>
 <h3>Interacts With Drug</h3>
-<p>INTERACTS_WITH::<a href="/entities/labtest/insulin/" class="internal-link">Insulin</a> (increased hypoglycemia risk, Evidence Level 1b)<br />
+<p>INTERACTS_WITH::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a> (increased hypoglycemia risk, Evidence Level 1b)<br />
 INTERACTS_WITH::<a class="internal-link is-unresolved" href="/404">Sulfonylureas</a> (increased hypoglycemia risk, Evidence Level 1b)<br />
 INTERACTS_WITH::<a class="internal-link is-unresolved" href="/404">Warfarin</a> (potential interaction due to delayed absorption, Evidence Level 2c)</p>
-<h3>Related</h3>
-<p>RELATED::<a href="/entities/drug/metformin/" class="internal-link">Metformin</a> (first-line combination therapy, Evidence Level 1a)<br />
-RELATED::<a href="/entities/drug/liraglutide/" class="internal-link">Liraglutide</a> (shorter-acting GLP-1 agonist, Evidence Level 1b)<br />
-RELATED::<a href="/entities/drug/tirzepatide/" class="internal-link">Tirzepatide</a> (dual GIP/GLP-1 agonist, Evidence Level 1b)<br />
-RELATED::<a class="internal-link is-unresolved" href="/404">SGLT2 inhibitors</a> (complementary cardiorenal protection, Evidence Level 1a)</p>
 <h2>References</h2>
 <ul>
 <li>PMID: 34041401 (STEP 1)</li>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:17.859109Z'
+created: '2026-04-19T18:22:19.167233Z'
 description: Hyperphosphorylated tau protein measured in CSF or blood, indicating
   tau pathology and neurofibrillary tangle formation. A core biomarker for Alzheimer's
   disease diagnosis within the ATN framework.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Phospho-Tau
 type: biomarker
-updated: '2026-04-17T18:59:17.859109Z'
+updated: '2026-04-19T18:22:19.167233Z'
 ---
 
 {% raw %}
@@ -25,8 +25,6 @@ updated: '2026-04-17T18:59:17.859109Z'
 <h2>Overview</h2>
 <p>Hyperphosphorylated tau protein measured in CSF or blood, indicating tau pathology and neurofibrillary tangle formation. A core biomarker for Alzheimer's disease diagnosis within the ATN framework.</p>
 <h2>Relationships</h2>
-<h3>Indicates Organ Health</h3>
-<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Lewy Body Dementia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Tau PET Imaging</a><br />
@@ -38,9 +36,11 @@ ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/mild-cognitive-impairmen
 RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Amyloid PET Imaging</a><br />
 RELATED::<a href="/entities/pathway/tau-phosphorylation/" class="internal-link">Tau Phosphorylation</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Amyloid-Beta 4240 Ratio</a><br />
+RELATED::<a href="/entities/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta 4240 Ratio</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Lumbar Puncture</a><br />
 RELATED::<a href="/entities/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/frontotemporal-dementia/" class="internal-link">Frontotemporal Dementia</a></p>
+<h3>Indicates Organ Health</h3>
+<p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 
 {% endraw %}

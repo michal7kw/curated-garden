@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.916206Z'
+created: '2026-04-19T18:22:20.832748Z'
 description: 'Measures inflammatory cytokines: IL-1, IL-6, IL-10, TNF-alpha, IFN-gamma,
   and others.'
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: cytokine_panel
 type: labtest
-updated: '2026-04-17T18:59:19.916206Z'
+updated: '2026-04-19T18:22:20.832748Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.724002Z'
+created: '2026-04-19T18:22:20.596463Z'
 description: A dietary pattern emphasizing fruits, vegetables, whole grains, legumes,
   nuts, olive oil, and fish. Associated with reduced risk of cardiovascular disease,
   cognitive decline, and dementia.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Mediterranean Diet
 type: intervention
-updated: '2026-04-17T18:59:19.724002Z'
+updated: '2026-04-19T18:22:20.596463Z'
 ---
 
 {% raw %}
@@ -47,21 +47,6 @@ updated: '2026-04-17T18:59:19.724002Z'
 <li>Histamine intolerance (limit aged cheeses, wine, fermented foods)</li>
 </ul>
 <h2>Relationships</h2>
-<h3>Modulates Pathway</h3>
-<p>MODULATES_PATHWAY::<a href="/entities/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (polyphenols reduce neuroinflammatory signaling, Evidence Level 2a)</p>
-<h3>Modulates Biomarker</h3>
-<p>MODULATES_BIOMARKER::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a> (polyphenols and omega-3s increase BDNF, Evidence Level 2a)<br />
-MODULATES_BIOMARKER::<a href="/entities/labtest/homocysteine/" class="internal-link">Homocysteine</a> (folate-rich foods reduce homocysteine, Evidence Level 1b)<br />
-MODULATES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a> (anti-inflammatory dietary pattern reduces CRP, Evidence Level 1a)<br />
-MODULATES_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">HbA1c</a> (improved glycemic control, Evidence Level 1b)<br />
-MODULATES_BIOMARKER::<a href="/entities/labtest/ldl-cholesterol/" class="internal-link">LDL Cholesterol</a> (modest reduction with olive oil and fiber, Evidence Level 1b)<br />
-MODULATES_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a> (reduced with omega-3 and fiber intake, Evidence Level 1b)</p>
-<h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> (30% RRR in PREDIMED, Evidence Level 1b)<br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a> (improved cerebrovascular health, Evidence Level 2a)<br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a> (MIND diet variant, Evidence Level 2a)<br />
-MAY_IMPROVE_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a> (33% risk reduction, Evidence Level 1a)<br />
-MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a> (23% reduced incidence, Evidence Level 1b)</p>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">CRP</a><br />
 RELATED::<a href="/entities/supplement/folate/" class="internal-link">Folate</a> (abundant in leafy greens and legumes)<br />
@@ -73,5 +58,20 @@ RELATED::<a href="/entities/supplement/omega-3-dha/" class="internal-link">Omega
 RELATED::<a href="/entities/intervention/cognitive-training/" class="internal-link">Cognitive Training</a> (multimodal neuroprotection with combined approach)<br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Polyphenols</a> (olive oil and wine polyphenols drive anti-inflammatory effects)<br />
 RELATED::<a href="/entities/intervention/keto-diet/" class="internal-link">Keto Diet</a> (Mediterranean keto hybrid increasingly studied)</p>
+<h3>Modulates Pathway</h3>
+<p>MODULATES_PATHWAY::<a href="/entities/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a> (polyphenols reduce neuroinflammatory signaling, Evidence Level 2a)</p>
+<h3>Modulates Biomarker</h3>
+<p>AFFECTS_BIOMARKER::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a> (polyphenols and omega-3s increase BDNF, Evidence Level 2a)<br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a> (folate-rich foods reduce homocysteine, Evidence Level 1b)<br />
+AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a> (anti-inflammatory dietary pattern reduces CRP, Evidence Level 1a)<br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a> (improved glycemic control, Evidence Level 1b)<br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/ldl-cholesterol/" class="internal-link">LDL Cholesterol</a> (modest reduction with olive oil and fiber, Evidence Level 1b)<br />
+AFFECTS_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a> (reduced with omega-3 and fiber intake, Evidence Level 1b)</p>
+<h3>May Improve Condition</h3>
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> (30% RRR in PREDIMED, Evidence Level 1b)<br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a> (improved cerebrovascular health, Evidence Level 2a)<br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a> (MIND diet variant, Evidence Level 2a)<br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a> (33% risk reduction, Evidence Level 1a)<br />
+MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a> (23% reduced incidence, Evidence Level 1b)</p>
 
 {% endraw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:19.558239Z'
+created: '2026-04-19T18:22:20.398601Z'
 description: Target chronic low-grade inflammation, a root driver of cardiovascular
   disease, neurodegeneration, and accelerated aging. This stack combines omega-3 for
   resolvin production, curcumin for NF-kB inhibition, vitamin D for immune regulation,
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Anti-Inflammation
 type: healthstack
-updated: '2026-04-17T18:59:19.558239Z'
+updated: '2026-04-19T18:22:20.398601Z'
 ---
 
 {% raw %}
@@ -86,14 +86,14 @@ updated: '2026-04-17T18:59:19.558239Z'
 <td>Gold standard inflammatory biomarker</td>
 </tr>
 <tr>
-<td><a href="/entities/labtest/esr/" class="internal-link">ESR</a></td>
+<td><a href="/entities/labtest/esr/" class="internal-link">esr</a></td>
 <td>0-20</td>
 <td>0-10</td>
 <td>mm/hr</td>
 <td>Non-specific inflammation marker, complements CRP</td>
 </tr>
 <tr>
-<td><a href="/entities/labtest/ferritin/" class="internal-link">Ferritin</a></td>
+<td><a href="/entities/labtest/ferritin/" class="internal-link">ferritin</a></td>
 <td>20-200</td>
 <td>40-100</td>
 <td>ng/mL</td>

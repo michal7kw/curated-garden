@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:20.470525Z'
+created: '2026-04-19T18:22:21.443152Z'
 description: Four-carbon keto acid that accepts acetyl-CoA to form citrate, initiating
   the citric acid cycle. Also serves as a key intermediate in gluconeogenesis, amino
   acid metabolism, and the malate-aspartate shuttle. Its concentration regulates the
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Oxaloacetate
 type: metabolite
-updated: '2026-04-17T18:59:20.470525Z'
+updated: '2026-04-19T18:22:21.443152Z'
 ---
 
 {% raw %}

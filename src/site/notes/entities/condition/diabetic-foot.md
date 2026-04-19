@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.499169Z'
+created: '2026-04-19T18:22:19.551992Z'
 description: A complication of diabetes involving lower extremity pathology, including
   neuropathy, infection, ulcers, and ischemia.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Diabetic Foot
 type: condition
-updated: '2026-04-17T18:59:18.499169Z'
+updated: '2026-04-19T18:22:19.551992Z'
 ---
 
 {% raw %}
@@ -23,7 +23,7 @@ updated: '2026-04-17T18:59:18.499169Z'
 <p>A complication of diabetes involving lower extremity pathology, including neuropathy, infection, ulcers, and ischemia.</p>
 <h2>Relationships</h2>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/hba1c/" class="internal-link">Hba1C</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/glucose-fasting/" class="internal-link">Glucose Fasting</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/wbc/" class="internal-link">Wbc</a></p>

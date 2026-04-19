@@ -1,5 +1,5 @@
 ---
-created: '2026-04-17T18:59:18.552497Z'
+created: '2026-04-19T18:22:19.581192Z'
 description: A transient and generally benign increase in the excretion of protein
   in the urine following strenuous physical activity.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Exercise-Induced Proteinuria
 type: condition
-updated: '2026-04-17T18:59:18.552497Z'
+updated: '2026-04-19T18:22:19.581192Z'
 ---
 
 {% raw %}
@@ -23,11 +23,10 @@ updated: '2026-04-17T18:59:18.552497Z'
 <p>A transient and generally benign increase in the excretion of protein in the urine following strenuous physical activity.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/labtest/hyaline-casts-urine/" class="internal-link">hyaline casts urine</a><br />
-RELATED::<a href="/entities/condition/exercise-induced-proteinuria/" class="internal-link">Exercise-Induced Proteinuria</a></p>
+<p>RELATED::<a href="/entities/labtest/hyaline-casts-urine/" class="internal-link">hyaline casts urine</a></p>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/labtest/creatinine/" class="internal-link">Creatinine</a><br />
-ASSOCIATED_WITH::<a href="/entities/labtest/albumin/" class="internal-link">Albumin</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/labtest/creatinine/" class="internal-link">creatinine</a><br />
+ASSOCIATED_WITH::<a href="/entities/labtest/albumin/" class="internal-link">albumin</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/cystatin-c/" class="internal-link">Cystatin C</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/egfr/" class="internal-link">EGFR</a></p>
 <h3>Improved By Supplement</h3>
