@@ -139,8 +139,10 @@
 
         const searchIndexDate = '{{meta.buildDate|isoDate}}';
         let shouldFetch = true;
-        if(localStorage.getItem("searchIndex")) {
-            let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
+        var cached = null;
+        try { cached = localStorage.getItem("searchIndex") || sessionStorage.getItem("searchIndex"); } catch(_) {}
+        if(cached) {
+            let {date, docs}= JSON.parse(cached);
             if(date === searchIndexDate){
                 shouldFetch = false;
                 let index = createIndex(docs);
@@ -151,7 +153,11 @@
         if(shouldFetch){
             let docs = await(await fetch('/searchIndex.json?v={{meta.buildDate|isoDate}}')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '{{meta.buildDate|isoDate}}', docs}));
+            try {
+                localStorage.setItem("searchIndex", JSON.stringify({date: '{{meta.buildDate|isoDate}}', docs}));
+            } catch(e) {
+                try { sessionStorage.setItem("searchIndex", JSON.stringify({date: '{{meta.buildDate|isoDate}}', docs})); } catch(_) {}
+            }
             window.docs = docs
             window.index = index;
         }

@@ -51,9 +51,11 @@ eleventyExcludeFromCollections: true
   try {
     const searchIndexDate = '{{ meta.buildDate | isoDate }}';
 
-    // Check localStorage cache
-    if (localStorage.getItem('searchIndex')) {
-      const cached = JSON.parse(localStorage.getItem('searchIndex'));
+    // Check localStorage/sessionStorage cache
+    var cachedRaw = null;
+    try { cachedRaw = localStorage.getItem('searchIndex') || sessionStorage.getItem('searchIndex'); } catch(_) {}
+    if (cachedRaw) {
+      const cached = JSON.parse(cachedRaw);
       if (cached.date === searchIndexDate) {
         searchDocs = cached.docs;
       }
@@ -62,7 +64,11 @@ eleventyExcludeFromCollections: true
     // Fetch if not cached
     if (searchDocs.length === 0) {
       searchDocs = await fetch('/searchIndex.json?v=' + searchIndexDate).then(res => res.json());
-      localStorage.setItem('searchIndex', JSON.stringify({ date: searchIndexDate, docs: searchDocs }));
+      try {
+        localStorage.setItem('searchIndex', JSON.stringify({ date: searchIndexDate, docs: searchDocs }));
+      } catch(e) {
+        try { sessionStorage.setItem('searchIndex', JSON.stringify({ date: searchIndexDate, docs: searchDocs })); } catch(_) {}
+      }
     }
 
     // Create FlexSearch index

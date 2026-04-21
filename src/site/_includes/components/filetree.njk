@@ -1,26 +1,20 @@
-{% macro menuItem(fileOrFolderName, fileOrFolder, step, currentPath) %}
-    {%if fileOrFolder.isNote or fileOrFolder.isFolder%}
-        <div x-show="isOpen" style="display:none" class="{{'filelist' if step>0}}">
-            {%if fileOrFolder.isNote and not fileOrFolder.hide %}
-                <div @click.stop class="notelink {{ 'active-note' if fileOrFolder.permalink === permalink}}">
-                    {%- if not meta.noteIconsSettings.filetree -%}<i icon-name="sticky-note" aria-hidden="true"></i>{%- endif -%}
-                    <a data-note-icon="{{fileOrFolder.noteIcon}}" style="text-decoration: none;" class="filename" href="{{fileOrFolder.permalink}}">{{fileOrFolder.name}} </a>
-                </div>
-            {% elif fileOrFolder.isFolder%}
-                <div class="folder inner-folder"  x-data="{isOpen: $persist(false).as('{{currentPath}}')}" @click.stop="isOpen=!isOpen">
-                    <div class="foldername-wrapper align-icon">
-                    <i x-show="isOpen" style="display: none;"  icon-name="chevron-down"></i>
-                    <i x-show="!isOpen"  icon-name="chevron-right"></i>
-                    <span class="foldername">{{fileOrFolderName}}</span>
-                    </div>
-                    {% for fileOrFolderName, child in fileOrFolder %}
-                        {{menuItem(fileOrFolderName, child, step+1, (currentPath+"/"+fileOrFolderName))}}
-                    {% endfor %}
-                </div>
-            {% endif %}
-        </div>
-        {%endif%}
-    {% endmacro %}
+{#
+  Filetree sidebar — AJAX-loaded variant.
+
+  Previous version rendered the full nested filetree DOM (~2,400 nested <div>s
+  at 1,166 notes) inline inside every note page — ~400 KB per page × 1,166
+  pages = ~460 MB of HTML accumulated in Eleventy's output collection. With
+  htmlMinifier's ~2× working set, peak RSS crossed the 4 GB --max-old-space
+  cap and the build OOM'd.
+
+  This version emits a lightweight placeholder and fetches /filetree.json
+  after DOMContentLoaded idle (requestIdleCallback with setTimeout fallback).
+  The JSON is produced once by src/site/filetree.11ty.js.
+
+  Client-side render targets the same DOM shape the original macro produced,
+  so existing CSS (.notelink, .folder, .active-note, etc.) and Alpine.js
+  directives (x-show, x-persist folder-toggle state) keep working.
+#}
 
     <div x-init="isDesktop = (window.innerWidth>=1400) ? true: false;"
             x-on:resize.window="isDesktop = (window.innerWidth>=1400) ? true : false;"
@@ -48,9 +42,142 @@
             </div>
         {%endif%}
          <div class="folder" x-data="{isOpen: true}">
-               {%- for fileOrFolderName, fileOrFolder in filetree -%}
-                  {{menuItem(fileOrFolderName, fileOrFolder, 0, fileOrFolderName)}}
-               {%- endfor -%}
+            {# AJAX-loaded filetree. Root wrapper keeps the `x-data="{isOpen: true}"`
+               scope the original had so descendants' `x-show="isOpen"` inherit a
+               true value — matches the original macro's visibility semantics. #}
+            <div id="dg-filetree-root">
+                <div class="dg-filetree-loading" style="padding:0.5rem 1rem; color: var(--text-muted); font-size: 0.85rem;">
+                    Loading navigation&hellip;
+                </div>
+            </div>
          </div>
       </nav>
     </div>
+
+<script>
+(function () {
+  var LOADED = false;
+  var root = document.getElementById('dg-filetree-root');
+  if (!root) return;
+  var currentPath = window.location.pathname;
+
+  // Build the filetree DOM recursively. Matches the macro output in the
+  // previous Nunjucks version: each item wrapped in
+  //   <div x-show="isOpen" class="filelist?">
+  // with a <div class="notelink"> for notes and
+  // <div class="folder inner-folder" x-data=…> for folders.
+  function buildTree(treeData, parentPath, step) {
+    var fragment = document.createDocumentFragment();
+    var keys = Object.keys(treeData);
+    for (var i = 0; i < keys.length; i++) {
+      var key = keys[i];
+      // Skip marker flags (isFolder is set on the parent object itself).
+      if (key === 'isFolder' || key === 'isNote') continue;
+      var node = treeData[key];
+      if (!node || typeof node !== 'object') continue;
+      var nodePath = parentPath + '/' + key;
+
+      var wrapper = document.createElement('div');
+      wrapper.setAttribute('x-show', 'isOpen');
+      wrapper.style.display = 'none';
+      if (step > 0) wrapper.className = 'filelist';
+
+      if (node.isNote && !node.hide) {
+        var isActive = node.permalink === currentPath;
+        var noteLink = document.createElement('div');
+        noteLink.setAttribute('@click.stop', '');
+        noteLink.className = 'notelink' + (isActive ? ' active-note' : '');
+
+        var icon = document.createElement('i');
+        icon.setAttribute('icon-name', 'sticky-note');
+        icon.setAttribute('aria-hidden', 'true');
+        noteLink.appendChild(icon);
+
+        var a = document.createElement('a');
+        if (node.noteIcon) a.setAttribute('data-note-icon', node.noteIcon);
+        a.style.textDecoration = 'none';
+        a.className = 'filename';
+        a.href = node.permalink;
+        a.textContent = node.name + ' ';
+        noteLink.appendChild(a);
+        wrapper.appendChild(noteLink);
+      } else if (node.isFolder) {
+        var folder = document.createElement('div');
+        folder.className = 'folder inner-folder';
+        folder.setAttribute('x-data', "{isOpen: $persist(false).as('" + nodePath + "')}");
+        folder.setAttribute('@click.stop', 'isOpen=!isOpen');
+
+        var header = document.createElement('div');
+        header.className = 'foldername-wrapper align-icon';
+        var chevDown = document.createElement('i');
+        chevDown.setAttribute('x-show', 'isOpen');
+        chevDown.style.display = 'none';
+        chevDown.setAttribute('icon-name', 'chevron-down');
+        var chevRight = document.createElement('i');
+        chevRight.setAttribute('x-show', '!isOpen');
+        chevRight.setAttribute('icon-name', 'chevron-right');
+        var folderName = document.createElement('span');
+        folderName.className = 'foldername';
+        folderName.textContent = key;
+        header.appendChild(chevDown);
+        header.appendChild(chevRight);
+        header.appendChild(folderName);
+        folder.appendChild(header);
+
+        folder.appendChild(buildTree(node, nodePath, step + 1));
+        wrapper.appendChild(folder);
+      } else {
+        continue;
+      }
+
+      fragment.appendChild(wrapper);
+    }
+    return fragment;
+  }
+
+  function renderTree(treeData) {
+    if (LOADED) return;
+    LOADED = true;
+    root.innerHTML = '';
+    root.appendChild(buildTree(treeData, '', 0));
+
+    // Re-init Alpine on freshly-inserted nodes so x-data/x-show/x-persist hook
+    // up. Alpine 3 exposes initTree() for this.
+    if (window.Alpine && typeof window.Alpine.initTree === 'function') {
+      window.Alpine.initTree(root);
+    }
+    // Re-run lucide to replace <i icon-name="…"> placeholders with SVGs.
+    if (window.lucide && typeof window.lucide.createIcons === 'function') {
+      window.lucide.createIcons();
+    }
+  }
+
+  function fetchTree() {
+    fetch('/filetree.json')
+      .then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+      .then(renderTree)
+      .catch(function (e) {
+        var loader = root.querySelector('.dg-filetree-loading');
+        if (loader) loader.textContent = 'Navigation unavailable';
+        console.warn('[filetree] fetch failed:', e);
+      });
+  }
+
+  // Prefetch in an idle window after DOMContentLoaded so we don't compete
+  // with first paint. Fallback to a 2s setTimeout on browsers without
+  // requestIdleCallback (Safari <14, older Edge).
+  function scheduleFetch() {
+    if ('requestIdleCallback' in window) {
+      window.requestIdleCallback(fetchTree, { timeout: 3000 });
+    } else {
+      setTimeout(fetchTree, 2000);
+    }
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', scheduleFetch, { once: true });
+  } else {
+    scheduleFetch();
+  }
+})();
+</script>
