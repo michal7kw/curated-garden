@@ -176,6 +176,19 @@ main.content {
 // Home Page — KG-Centric Dashboard
 // =============================================================================
 
+// The base stylesheet caps `.content` at max-width: 700px for prose notes.
+// The homepage (dashboard + graph + categories grid) needs the full viewport;
+// :has() lifts that cap only for the homepage, leaving regular notes unchanged.
+.content:has(.home-dashboard) {
+    max-width: none;
+    margin: 90px 0 0 0;
+    padding: 0;
+
+    @media (max-width: 800px) {
+        margin-top: 75px;
+    }
+}
+
 .home-dashboard {
     max-width: none;
     width: 100%;
