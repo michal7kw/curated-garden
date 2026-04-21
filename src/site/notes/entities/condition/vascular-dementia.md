@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.003882Z'
+created: '2026-04-21T16:52:58.673623Z'
 description: Cognitive impairment caused by cerebrovascular disease, including strokes
   and small vessel disease. The second most common cause of dementia after Alzheimer's
   disease, often occurring in combination (mixed dementia).
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Vascular Dementia
 type: condition
-updated: '2026-04-19T18:22:20.003882Z'
+updated: '2026-04-21T16:52:58.673623Z'
 ---
 
 {% raw %}
@@ -70,7 +70,7 @@ RELATED::<a class="internal-link is-unresolved" href="/404">CRP</a><br />
 RELATED::<a href="/entities/labtest/hba1c/" class="internal-link">hba1c</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Lipid Panel</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Carotid Ultrasound</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a></p>
+RELATED::<a href="/entities/condition/type-2-diabetes/" class="internal-link">Type 2 Diabetes</a></p>
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />

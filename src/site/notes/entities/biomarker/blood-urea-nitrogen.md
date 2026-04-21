@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:18.982270Z'
+created: '2026-04-21T16:52:58.050077Z'
 description: Blood Urea Nitrogen (BUN) measures the amount of urea nitrogen in the
   blood, a waste product of protein metabolism formed in the liver and excreted by
   the kidneys. It is a primary marker for assessing kidney function and hydration
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Blood Urea Nitrogen
 type: biomarker
-updated: '2026-04-19T18:22:18.982270Z'
+updated: '2026-04-21T16:52:58.050077Z'
 ---
 
 {% raw %}

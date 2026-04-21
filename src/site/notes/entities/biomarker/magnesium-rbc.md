@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.132662Z'
+created: '2026-04-21T16:52:58.134888Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/magnesium-rbc/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Magnesium Rbc
 type: biomarker
-updated: '2026-04-19T18:22:19.132662Z'
+updated: '2026-04-21T16:52:58.134888Z'
 ---
 
 {% raw %}
@@ -65,7 +65,7 @@ updated: '2026-04-19T18:22:19.132662Z'
 <h2>Relationships</h2>
 <p>RELATED::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Migraines</a> (magnesium deficiency is a recognized migraine trigger, Evidence Level 1a)<br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a> (low intracellular magnesium impairs insulin signaling, Evidence Level 1a)<br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/type-2-diabetes/" class="internal-link">Type 2 Diabetes</a> (low intracellular magnesium impairs insulin signaling, Evidence Level 1a)<br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/anxiety/" class="internal-link">Anxiety</a> (magnesium modulates GABA and HPA axis function, Evidence Level 2a)<br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/osteoporosis/" class="internal-link">Osteoporosis</a> (magnesium is critical for bone mineralization, Evidence Level 2a)<br />
 INDICATES_ORGAN_HEALTH::<a href="/entities/organ/heart/" class="internal-link">Heart</a> (magnesium is essential for cardiac rhythm stability, Evidence Level 1a)<br />

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.994693Z'
+created: '2026-04-21T16:52:58.670587Z'
 description: A condition where the kidneys are unable to properly regulate the concentration
   of urine, leading to urine that is either too concentrated (high specific gravity)
   or too dilute (low specific gravity).
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Urinary Concentration Imbalance
 type: condition
-updated: '2026-04-19T18:22:19.994693Z'
+updated: '2026-04-21T16:52:58.670587Z'
 ---
 
 {% raw %}

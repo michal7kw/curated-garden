@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.579935Z'
+created: '2026-04-21T16:52:58.965319Z'
 description: Dietary pattern that cycles between periods of eating and voluntary fasting
   on a regular schedule. Improves metabolic health, promotes autophagy, enhances insulin
   sensitivity, and supports weight management. Multiple protocols ranging from 12-hour
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Intermittent Fasting
 type: intervention
-updated: '2026-04-19T18:22:20.579935Z'
+updated: '2026-04-21T16:52:58.965319Z'
 ---
 
 {% raw %}
@@ -70,7 +70,7 @@ updated: '2026-04-19T18:22:20.579935Z'
 RELATED::<a href="/entities/intervention/keto-diet/" class="internal-link">Keto Diet</a> (IF induces ketosis during extended fasting windows)<br />
 RELATED::<a href="/entities/intervention/hiit-training/" class="internal-link">HIIT Training</a> (both activate AMPK; fasted HIIT is a common protocol)<br />
 RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (fasting enhances mitochondrial biogenesis and quality control)<br />
-MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a> (improved insulin sensitivity and HbA1c, Evidence Level 1b)<br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/type-2-diabetes/" class="internal-link">Type 2 Diabetes</a> (improved insulin sensitivity and HbA1c, Evidence Level 1b)<br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> (improved lipid and inflammatory markers, Evidence Level 2a)</p>
 <h3>Modulates Pathway</h3>
 <p>MODULATES_PATHWAY::<a href="/entities/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal Pathway</a> (activated at 16-24h fasting via mTOR suppression, Evidence Level 2b)</p>

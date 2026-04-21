@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.868486Z'
+created: '2026-04-21T16:52:59.691863Z'
 description: Beta-secretase 1. The rate-limiting enzyme in the production of Amyloid
   Beta (Aβ).
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: BACE1
 type: protein
-updated: '2026-04-19T18:22:21.868486Z'
+updated: '2026-04-21T16:52:59.691863Z'
 ---
 
 {% raw %}
@@ -29,11 +29,11 @@ updated: '2026-04-19T18:22:21.868486Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Neuregulin-1</a><br />
-INTERACTS_WITH::<a href="/entities/gene/app/" class="internal-link">APP</a><br />
+INTERACTS_WITH::<a href="/entities/protein/app/" class="internal-link">APP</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Amyloidogenic Pathway</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers Disease</a></p>
 <h3>Enriched</h3>
-<p>CLEAVES::<a href="/entities/gene/app/" class="internal-link">APP</a> (Beta-site cleavage initiating amyloidogenic pathway, Evidence Level 1a)<br />
+<p>CLEAVES::<a href="/entities/protein/app/" class="internal-link">APP</a> (Beta-site cleavage initiating amyloidogenic pathway, Evidence Level 1a)<br />
 PARTICIPATES_IN_PATHWAY::<a class="internal-link is-unresolved" href="/404">Amyloidogenic Pathway</a> (Rate-limiting enzyme in Aβ production, Evidence Level 1a)<br />
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Alzheimers Disease</a> (Elevated activity correlates with Aβ plaque burden, Evidence Level 1b)<br />
 INTERACTS_WITH::<a href="/entities/protein/presenilin-1/" class="internal-link">Presenilin-1</a> (Sequential processing of APP: BACE1 then gamma-secretase, Evidence Level 1a)<br />

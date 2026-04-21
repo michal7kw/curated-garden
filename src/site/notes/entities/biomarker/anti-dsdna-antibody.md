@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:18.963528Z'
+created: '2026-04-21T16:52:58.028563Z'
 description: Anti-double-stranded DNA antibody is highly specific for systemic lupus
   erythematosus (specificity >95%). Titers fluctuate with disease activity and are
   the best serological marker for monitoring SLE flares, especially lupus nephritis.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Anti-dsDNA Antibody
 type: biomarker
-updated: '2026-04-19T18:22:18.963528Z'
+updated: '2026-04-21T16:52:58.028563Z'
 ---
 
 {% raw %}

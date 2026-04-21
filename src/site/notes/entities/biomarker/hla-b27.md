@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.078781Z'
+created: '2026-04-21T16:52:58.110456Z'
 description: Human leukocyte antigen B27 is a class I MHC surface antigen strongly
   associated with spondyloarthropathies. Present in >90% of ankylosing spondylitis
   patients (vs 6-8% of general population). Also associated with reactive arthritis,
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: HLA-B27
 type: biomarker
-updated: '2026-04-19T18:22:19.078781Z'
+updated: '2026-04-21T16:52:58.110456Z'
 ---
 
 {% raw %}

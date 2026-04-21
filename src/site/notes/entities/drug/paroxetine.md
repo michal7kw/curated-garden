@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.238421Z'
+created: '2026-04-21T16:52:58.781899Z'
 description: SSRI antidepressant (Paxil) with the most potent SERT inhibition of all
   SSRIs. Also a potent CYP2D6 inhibitor, causing significant drug-drug interactions.
   Has the highest rates of sexual dysfunction, weight gain, and discontinuation syndrome
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Paroxetine
 type: drug
-updated: '2026-04-19T18:22:20.238421Z'
+updated: '2026-04-21T16:52:58.781899Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.388326Z'
+created: '2026-04-21T16:52:58.295473Z'
 description: A serious condition characterized by widespread inflammation in the lungs
   and disruption of the alveolar-capillary barrier, rapidly leading to respiratory
   failure.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Acute Lung Injury
 type: condition
-updated: '2026-04-19T18:22:19.388326Z'
+updated: '2026-04-21T16:52:58.295473Z'
 ---
 
 {% raw %}

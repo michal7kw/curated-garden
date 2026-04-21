@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.260153Z'
+created: '2026-04-21T16:52:58.793210Z'
 description: mTOR inhibitor originally developed as immunosuppressant, now studied
   for longevity. Inhibits mTOR complex 1 to mimic caloric restriction effects. One
   of the most promising longevity interventions.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Rapamycin
 type: drug
-updated: '2026-04-19T18:22:20.260153Z'
+updated: '2026-04-21T16:52:58.793210Z'
 ---
 
 {% raw %}

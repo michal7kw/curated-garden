@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.778882Z'
+created: '2026-04-21T16:52:59.649746Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,13 +12,20 @@ tags:
 templateEngineOverride: njk
 title: Hearing impairment
 type: phenotype
-updated: '2026-04-19T18:22:21.778882Z'
+updated: '2026-04-21T16:52:59.649746Z'
 ---
 
 {% raw %}
 <h1>Hearing impairment</h1>
-<h2>Description</h2>
-<p>...</p>
+<h2>Overview</h2>
+<p>Hearing impairment (deafness or hypoacusis) represents a massive phenotypic spectrum spanning a mild dampening of specific high-pitch frequencies to absolute profound deafness across all decibels. As a phenotype, it represents the hard failure of the auditory mechanical-neural transduction pathway.</p>
+<p>Medical science strictly divides this physical manifestation into two distinct hardware failures:</p>
+<ol>
+<li><strong>Conductive Hearing Loss:</strong> A purely mechanical failure occurring in the outer or middle ear (before sound can reach the nervous system). Physical obstructions (e.g., massive cerumen impaction), ruptured tympanic membranes, or fusion of the delicate ossicle bones (otosclerosis) literally block sound waves from vibrating the inner ear.</li>
+<li><strong>Sensorineural Hearing Loss:</strong> A permanent neurological failure deep inside the inner ear or brain. This occurs overwhelmingly due to the destruction of the fragile stereocilia hair cells resting inside the cochlea. Since human cochlear hair cells cannot regenerate, damage driven by excessive loud noise, aging (presbycusis), or ototoxic drugs (like high-dose aspirin or aminoglycosides) results in permanent, irreversible frequency loss. Furthermore, damage to the vestibulocochlear nerve (CN VIII) via tumors (acoustic neuromas) identically triggers this phenotype.</li>
+</ol>
+<h2>Clinical Pathologies</h2>
+<p>Assessing whether a hearing impairment is conductive or sensorineural relies heavily on the <strong>Weber and Rinne tuning fork tests</strong>. If bone conduction heavily outperforms air conduction, the block is strictly structural (outer/middle ear).</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Progressive hearing impairment</a><br />

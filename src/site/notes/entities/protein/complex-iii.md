@@ -2,7 +2,7 @@
 aliases:
 - Cytochrome bc1
 - Ubiquinol:Cytochrome c Oxidoreductase
-created: '2026-04-19T18:22:21.944880Z'
+created: '2026-04-21T16:52:59.697516Z'
 description: Cytochrome bc1 complex, the third complex of the electron transport chain.
   Transfers electrons from ubiquinol to cytochrome c via the Q-cycle mechanism, pumping
   4 protons per pair of electrons across the inner mitochondrial membrane.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Complex III
 type: protein
-updated: '2026-04-19T18:22:21.944880Z'
+updated: '2026-04-21T16:52:59.697516Z'
 ---
 
 {% raw %}

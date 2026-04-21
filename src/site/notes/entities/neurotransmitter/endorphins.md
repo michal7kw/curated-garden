@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.461719Z'
+created: '2026-04-21T16:52:59.503197Z'
 description: Family of endogenous opioid neuropeptides (beta-endorphin, enkephalins,
   dynorphins) produced primarily in the hypothalamus and pituitary gland. Bind to
   mu, delta, and kappa opioid receptors to modulate pain perception, reward, stress
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Endorphins
 type: neurotransmitter
-updated: '2026-04-19T18:22:21.461719Z'
+updated: '2026-04-21T16:52:59.503197Z'
 ---
 
 {% raw %}

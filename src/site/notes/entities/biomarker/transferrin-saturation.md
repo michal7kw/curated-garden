@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.217044Z'
+created: '2026-04-21T16:52:58.222696Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/transferrin-saturation/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Transferrin Saturation
 type: biomarker
-updated: '2026-04-19T18:22:19.217044Z'
+updated: '2026-04-21T16:52:58.222696Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.122150Z'
+created: '2026-04-21T16:52:58.131844Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/ldl-size/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Ldl Size
 type: biomarker
-updated: '2026-04-19T18:22:19.122150Z'
+updated: '2026-04-21T16:52:58.131844Z'
 ---
 
 {% raw %}

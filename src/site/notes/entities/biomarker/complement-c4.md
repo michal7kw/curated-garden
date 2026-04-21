@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.010757Z'
+created: '2026-04-21T16:52:58.060724Z'
 description: Complement component C4 participates in the classical and lectin complement
   pathways. Low C4 is common in active SLE, hereditary angioedema, and cryoglobulinemia.
   Combined low C3 and C4 strongly suggests immune complex-mediated complement consumption.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Complement C4
 type: biomarker
-updated: '2026-04-19T18:22:19.010757Z'
+updated: '2026-04-21T16:52:58.060724Z'
 ---
 
 {% raw %}

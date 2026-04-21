@@ -1,7 +1,7 @@
 ---
 aliases:
 - Nat Comm 2026 miR-71 and Mitochondrial Stress
-created: '2026-04-19T18:22:22.106794Z'
+created: '2026-04-21T16:52:59.775184Z'
 description: Identification of miR-71 as a crucial regulator of mitochondrial stress
   signaling (UPRmt) and systemic stress resistance.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: 'Nat Comm 2026: miR-71 and Mitochondrial Stress'
 type: research
-updated: '2026-04-19T18:22:22.106794Z'
+updated: '2026-04-21T16:52:59.775184Z'
 ---
 
 {% raw %}

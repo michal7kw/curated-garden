@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.996538Z'
+created: '2026-04-21T16:52:59.734260Z'
 description: Janus kinase 1 is a non-receptor tyrosine kinase mediating signaling
   from multiple cytokine receptors (IL-6R, IFN receptors, IL-2R family). Primary therapeutic
   target of upadacitinib and shared target of tofacitinib and baricitinib.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: JAK1
 type: protein
-updated: '2026-04-19T18:22:21.996538Z'
+updated: '2026-04-21T16:52:59.734260Z'
 ---
 
 {% raw %}

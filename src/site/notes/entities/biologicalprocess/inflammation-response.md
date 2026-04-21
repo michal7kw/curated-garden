@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:18.923756Z'
+created: '2026-04-21T16:52:57.990667Z'
 description: Innate immune defense mechanism involving NF-kB-mediated transcription
   of pro-inflammatory cytokines (TNF-alpha, IL-6, IL-1beta), eicosanoid production,
   and immune cell recruitment, with acute forms being protective and chronic low-grade
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Inflammation Response
 type: biologicalprocess
-updated: '2026-04-19T18:22:18.923756Z'
+updated: '2026-04-21T16:52:57.990667Z'
 ---
 
 {% raw %}

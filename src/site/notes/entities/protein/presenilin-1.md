@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:22.026922Z'
+created: '2026-04-21T16:52:59.744968Z'
 description: Catalytic core of the Gamma-Secretase complex. Cleaves APP to release
   Amyloid Beta.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Presenilin-1
 type: protein
-updated: '2026-04-19T18:22:22.026922Z'
+updated: '2026-04-21T16:52:59.744968Z'
 ---
 
 {% raw %}
@@ -28,14 +28,14 @@ updated: '2026-04-19T18:22:22.026922Z'
 <p>PSEN1 mutations are the most common cause of early-onset familial Alzheimer's disease, typically presenting between ages 30-60 with aggressive cognitive decline. The &quot;amyloid hypothesis&quot; is built substantially on PSEN1 genetics: FAD mutations increase the Aβ42/Aβ40 ratio, promoting amyloid plaque formation. Gamma-secretase inhibitors (e.g., semagacestat) failed in clinical trials due to mechanism-based toxicity from blocking Notch signaling, causing gastrointestinal and immunological adverse effects. Gamma-secretase modulators (GSMs), which shift cleavage toward shorter Aβ species without blocking Notch, represent a more promising therapeutic approach. PS1 also has gamma-secretase-independent functions in calcium homeostasis, autophagy, and beta-catenin signaling.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>INTERACTS_WITH::<a href="/entities/gene/app/" class="internal-link">APP</a><br />
+<p>INTERACTS_WITH::<a href="/entities/protein/app/" class="internal-link">APP</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Amyloidogenic Pathway</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Notch Signaling</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers Disease</a><br />
 RELATED::<a href="/entities/gene/psen1/" class="internal-link">PSEN1</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Notch</a></p>
 <h3>Enriched</h3>
-<p>CLEAVES::<a href="/entities/gene/app/" class="internal-link">APP</a> (Gamma-secretase cleavage releasing Aβ peptides, Evidence Level 1a)<br />
+<p>CLEAVES::<a href="/entities/protein/app/" class="internal-link">APP</a> (Gamma-secretase cleavage releasing Aβ peptides, Evidence Level 1a)<br />
 CLEAVES::<a class="internal-link is-unresolved" href="/404">Notch</a> (Releases Notch intracellular domain for transcriptional signaling, Evidence Level 1a)<br />
 PARTICIPATES_IN_PATHWAY::<a class="internal-link is-unresolved" href="/404">Amyloidogenic Pathway</a> (Catalytic subunit of gamma-secretase complex, Evidence Level 1a)<br />
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Alzheimers Disease</a> (Over 300 FAD mutations in PSEN1, Evidence Level 1a)<br />

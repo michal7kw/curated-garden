@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.542670Z'
+created: '2026-04-21T16:52:59.533266Z'
 description: Primary respiratory organs responsible for gas exchange, delivering oxygen
   to the blood and removing carbon dioxide. Essential for cellular respiration and
   energy production.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Lungs
 type: organ
-updated: '2026-04-19T18:22:21.542670Z'
+updated: '2026-04-21T16:52:59.533266Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.303460Z'
+created: '2026-04-21T16:52:58.251195Z'
 description: Repetitive TTAGGG nucleotide sequences capping chromosome ends, protecting
   genomic integrity during cell division. Telomere length is a biomarker of biological
   aging — shortening with each division until reaching the Hayflick limit triggers
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Telomere
 type: cellularcomponent
-updated: '2026-04-19T18:22:19.303460Z'
+updated: '2026-04-21T16:52:58.251195Z'
 ---
 
 {% raw %}
@@ -47,7 +47,7 @@ AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/mediterranean-diet/" c
 AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/meditation/" class="internal-link">Meditation</a><br />
 AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/sleep-optimization/" class="internal-link">Sleep_Optimization</a></p>
 <h3>Associated With Condition</h3>
-<p>ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Type_2_Diabetes</a><br />
+<p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/type-2-diabetes/" class="internal-link">Type_2_Diabetes</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular_Disease</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/cancer/" class="internal-link">Cancer</a></p>
 <h3>Affected By Supplement</h3>

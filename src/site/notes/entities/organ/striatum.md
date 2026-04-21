@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.580117Z'
+created: '2026-04-21T16:52:59.549566Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/striatum/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Striatum
 type: organ
-updated: '2026-04-19T18:22:21.580117Z'
+updated: '2026-04-21T16:52:59.549566Z'
 ---
 
 {% raw %}

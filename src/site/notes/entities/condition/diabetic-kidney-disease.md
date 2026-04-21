@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.553812Z'
+created: '2026-04-21T16:52:58.409107Z'
 description: A chronic kidney disease resulting from diabetes mellitus, characterized
   by glomerular damage and progressing from microalbuminuria to end-stage renal disease.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Diabetic Kidney Disease
 type: condition
-updated: '2026-04-19T18:22:19.553812Z'
+updated: '2026-04-21T16:52:58.409107Z'
 ---
 
 {% raw %}

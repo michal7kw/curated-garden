@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.602408Z'
+created: '2026-04-21T16:52:58.439722Z'
 description: Large-vessel vasculitis affecting aorta and branches, especially temporal
   arteries. Medical emergency due to risk of irreversible vision loss. Occurs exclusively
   in adults over 50. Strongly associated with polymyalgia rheumatica.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Giant Cell Arteritis
 type: condition
-updated: '2026-04-19T18:22:19.602408Z'
+updated: '2026-04-21T16:52:58.439722Z'
 ---
 
 {% raw %}

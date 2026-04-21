@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.649552Z'
+created: '2026-04-21T16:52:59.583264Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/pathway/glutamatergic-pathways/
@@ -9,12 +9,20 @@ tags:
 templateEngineOverride: njk
 title: Glutamatergic Pathways
 type: pathway
-updated: '2026-04-19T18:22:21.649552Z'
+updated: '2026-04-21T16:52:59.583264Z'
 ---
 
 {% raw %}
 <h1>Glutamatergic Pathways</h1>
-<h2>Description</h2>
+<h2>Overview</h2>
+<p>The Glutamatergic Pathway serves as the absolute, overwhelming primary engine orchestrating excitatory physiological neurotransmission throughout the entirely of the human Central Nervous System. It acts fundamentally as the brain's &quot;Gas Pedal.&quot; Staggeringly, over 80% of all neuronal synapses in the cerebral cortex utilize Glutamate perfectly as their primary neurotransmitter.</p>
+<p>When a cortical pyramidal neuron fires, it releases massive bursts of Glutamate into the synaptic cleft. This profoundly impacts two distinct sets of receptors: rapid <strong>AMPA receptors</strong> (which instantly trigger immediate sodium depolarization) and slower <strong>NMDA receptors</strong> (which crucially require a massive electrical jolt to unblock a magnesium plug before allowing massive amounts of Calcium to rush in). Because the influx of Calcium permanently alters the internal architecture of the receiving cell, the Glutamatergic pathway heavily mediates the absolute foundation of Long-Term Potentiation (LTP) and memory formation.</p>
+<h2>Clinical Pathologies</h2>
+<p>Because Glutamate commands absolute electrical excitation, an unregulated pathological surplus acts as a brutally devastating chemical weapon:</p>
+<ul>
+<li><strong>Excitotoxicity and Stroke:</strong> During an ischemic stroke, massive hypoxia completely shuts down the brain's ATP-driven transport pumps. Millions of dying neurons violently dump their entire intracellular payload of Glutamate out into the extracellular space. This hyperactivates NMDA receptors on perfectly healthy nearby neurons, violently forcing lethal levels of Calcium inside them, triggering mass apoptosis.</li>
+<li><strong>Amyotrophic Lateral Sclerosis (ALS):</strong> Severe defects specifically in the EAAT2 astrocytes responsible for rapidly clearing stray Glutamate out of the synapse allow chronic, massive excitotoxic buildup, violently burning out the upper and lower motor neurons.</li>
+</ul>
 <h2>Relationships</h2>
 <h3>Modulated By Supplement</h3>
 <p>MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />

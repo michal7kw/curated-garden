@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.471014Z'
+created: '2026-04-21T16:52:58.908306Z'
 description: Anti-inflammatory adipokine hormone secreted by adipose tissue. Uniquely,
   levels are inversely correlated with body fat — higher in lean individuals. Enhances
   insulin sensitivity, promotes fatty acid oxidation, and has potent anti-inflammatory
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Adiponectin
 type: hormone
-updated: '2026-04-19T18:22:20.471014Z'
+updated: '2026-04-21T16:52:58.908306Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.564068Z'
+created: '2026-04-21T16:52:58.415671Z'
 description: Abnormal accumulation of fluid in the interstitial tissues causing swelling,
   resulting from imbalances in capillary hydrostatic pressure, oncotic pressure, lymphatic
   drainage, or capillary permeability.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Edema
 type: condition
-updated: '2026-04-19T18:22:19.564068Z'
+updated: '2026-04-21T16:52:58.415671Z'
 ---
 
 {% raw %}

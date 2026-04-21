@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.650136Z'
+created: '2026-04-21T16:52:59.001447Z'
 description: Resistance exercise using progressive overload to increase muscular strength,
   mass, and endurance. Foundational for metabolic health, bone density, functional
   independence, and longevity. Stimulates muscle protein synthesis, growth hormone
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Strength Training
 type: intervention
-updated: '2026-04-19T18:22:20.650136Z'
+updated: '2026-04-21T16:52:59.001447Z'
 ---
 
 {% raw %}
@@ -73,7 +73,7 @@ AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a>
 <p>AFFECTS_ORGAN::<a href="/entities/organ/muscles/" class="internal-link">Muscles</a> (primary target: hypertrophy, strength, and myokine production, Evidence Level 1a)<br />
 AFFECTS_ORGAN::<a href="/entities/organ/bones/" class="internal-link">Bones</a> (increased BMD via Wolff's law mechanical loading, Evidence Level 1a)</p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a> (insulin sensitivity improvement comparable to metformin, Evidence Level 1a)<br />
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/type-2-diabetes/" class="internal-link">Type 2 Diabetes</a> (insulin sensitivity improvement comparable to metformin, Evidence Level 1a)<br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a> (antidepressant effect comparable to SSRIs, Evidence Level 1a)<br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/sarcopenia/" class="internal-link">Sarcopenia</a> (only Level 1a intervention for sarcopenia prevention, Evidence Level 1a)</p>
 

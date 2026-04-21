@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.969765Z'
+created: '2026-04-21T16:52:59.192235Z'
 description: Tested twice a year Insulin is a hormone that acts like a key, helping
   sugar in the blood move into cells for energy. Unlike glucose, insulin isn’t routinely
   tested in standard checkups, but measuring it can sometimes detect signs of diabetes
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: insulin
 type: labtest
-updated: '2026-04-19T18:22:20.969765Z'
+updated: '2026-04-21T16:52:59.192235Z'
 ---
 
 {% raw %}
@@ -73,7 +73,7 @@ updated: '2026-04-19T18:22:20.969765Z'
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Pcos Polycystic Ovary Syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a><br />
+RELATED::<a href="/entities/condition/type-2-diabetes/" class="internal-link">Type 2 Diabetes</a><br />
 RELATED::<a href="/entities/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Mafld Metabolic Dysfunction-Associated Fatty Liver Disease</a></p>
 <h3>May Detect</h3>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.371240Z'
+created: '2026-04-21T16:52:58.286007Z'
 description: Umbrella term for higher-order cognitive processes that control and coordinate
   other cognitive functions. Core components include working memory, cognitive flexibility,
   and inhibitory control. Primarily mediated by the prefrontal cortex and dependent
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Executive Function
 type: cognitivefunction
-updated: '2026-04-19T18:22:19.371240Z'
+updated: '2026-04-21T16:52:58.286007Z'
 ---
 
 {% raw %}

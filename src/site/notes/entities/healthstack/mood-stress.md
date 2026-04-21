@@ -1,7 +1,7 @@
 ---
 aliases:
 - Mood and Stress
-created: '2026-04-19T18:22:20.450223Z'
+created: '2026-04-21T16:52:58.894938Z'
 description: Support emotional resilience and stress adaptation. Magnesium calms the
   nervous system, omega-3 EPA supports neurotransmitter function, vitamin D3 modulates
   mood-regulating pathways, and ashwagandha is a well-studied adaptogen for cortisol
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Mood & Stress
 type: healthstack
-updated: '2026-04-19T18:22:20.450223Z'
+updated: '2026-04-21T16:52:58.894938Z'
 ---
 
 {% raw %}

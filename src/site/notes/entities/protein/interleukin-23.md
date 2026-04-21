@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.991382Z'
+created: '2026-04-21T16:52:59.732734Z'
 description: Heterodimeric cytokine (p19/p40 subunits) critical for Th17 cell maintenance
   and expansion. Upstream driver of the IL-23/IL-17 axis -- the dominant immunopathological
   pathway in psoriasis and spondyloarthropathies.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Interleukin-23
 type: protein
-updated: '2026-04-19T18:22:21.991382Z'
+updated: '2026-04-21T16:52:59.732734Z'
 ---
 
 {% raw %}

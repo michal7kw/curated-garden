@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.784616Z'
+created: '2026-04-21T16:52:58.579322Z'
 description: Polycystic Ovary Syndrome, a complex hormonal and metabolic disorder
   affecting women of reproductive age.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: PCOS
 type: condition
-updated: '2026-04-19T18:22:19.784616Z'
+updated: '2026-04-21T16:52:58.579322Z'
 ---
 
 {% raw %}

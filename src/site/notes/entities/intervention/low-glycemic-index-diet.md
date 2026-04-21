@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.589941Z'
+created: '2026-04-21T16:52:58.971528Z'
 description: Dietary pattern emphasizing foods with a glycemic index below 55, promoting
   stable blood sugar and improved insulin sensitivity.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Low Glycemic Index Diet
 type: intervention
-updated: '2026-04-19T18:22:20.589941Z'
+updated: '2026-04-21T16:52:58.971528Z'
 ---
 
 {% raw %}

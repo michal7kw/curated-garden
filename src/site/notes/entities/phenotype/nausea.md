@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.802400Z'
+created: '2026-04-21T16:52:59.660514Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,13 +12,16 @@ tags:
 templateEngineOverride: njk
 title: Nausea
 type: phenotype
-updated: '2026-04-19T18:22:21.802400Z'
+updated: '2026-04-21T16:52:59.660514Z'
 ---
 
 {% raw %}
 <h1>Nausea</h1>
-<h2>Description</h2>
-<p>...</p>
+<h2>Overview</h2>
+<p>Nausea operates as a hardwired evolutionary defense mechanism. As a clinical phenotype, it is an immensely uncomfortable, highly distressing visceral sensation typically localized intuitively to the throat or epigastrium. It serves as the psychological alert signal engineered to actively discourage humans from ingesting further food or toxins and effectively prepares the body's musculature for an impending violent reverse-peristaltic ejection (vomiting).</p>
+<p>Unlike pain (which maps heavily to the somatosensory cortex), nausea is triggered rapidly and violently by a specific set of deep medullary structures.</p>
+<p>The primary neurological trigger hub is the <strong>Chemoreceptor Trigger Zone (CTZ)</strong>, located highly strategically at the area postrema right at the base of the fourth ventricle. Crucially, the CTZ inherently lacks a blood-brain barrier. Because of this massive structural vulnerability, the CTZ can freely sample passing blood plasma and rapidly detect circulating toxic chemicals (ranging from chemotherapy agents and synthetic opioids to uremic toxins accumulating from kidney failure). When the CTZ detects poison, it instantly bombs the medullary vomiting center, immediately generating overwhelming nausea.</p>
+<p>Alternatively, nausea can be triggered heavily by the <strong>vestibular system</strong> (motion sickness, via conflicting visual/inner-ear motion data) or directly by massive inflammation spanning the peripheral vagus nerve winding through an irritated gastrointestinal tract (e.g. food poisoning).</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">mal de Debarquement</a><br />

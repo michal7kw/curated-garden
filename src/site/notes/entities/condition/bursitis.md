@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.471473Z'
+created: '2026-04-21T16:52:58.354340Z'
 description: Inflammation of a bursa. Common in shoulder (subacromial), elbow (olecranon),
   hip (trochanteric), and knee (prepatellar). May be septic (infectious) or aseptic
   (mechanical/inflammatory).
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Bursitis
 type: condition
-updated: '2026-04-19T18:22:19.471473Z'
+updated: '2026-04-21T16:52:58.354340Z'
 ---
 
 {% raw %}

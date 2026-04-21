@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.619197Z'
+created: '2026-04-21T16:52:58.985904Z'
 description: Extreme time-restricted eating with a single meal consumed within a 1-hour
   window and 23-hour fast. Maximizes fasting-state metabolic adaptations including
   autophagy and ketogenesis.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: OMAD (One Meal a Day)
 type: intervention
-updated: '2026-04-19T18:22:20.619197Z'
+updated: '2026-04-21T16:52:58.985904Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:22.245522Z'
+created: '2026-04-21T16:52:59.845355Z'
 description: Harpagophytum procumbens root extract containing harpagoside as active
   iridoid glycoside. Anti-inflammatory via COX-2 and iNOS inhibition without significant
   COX-1 effects. Cochrane review found moderate evidence for musculoskeletal pain.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Devils Claw
 type: supplement
-updated: '2026-04-19T18:22:22.245522Z'
+updated: '2026-04-21T16:52:59.845355Z'
 ---
 
 {% raw %}

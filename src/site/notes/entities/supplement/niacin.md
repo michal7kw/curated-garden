@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:22.372638Z'
+created: '2026-04-21T16:52:59.895484Z'
 description: Essential B-vitamin (B3) and NAD+ precursor through the Preiss-Handler
   salvage pathway. Supports cellular energy production, sirtuin activity, and DNA
   repair. Available as nicotinic acid and nicotinamide forms.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Niacin
 type: supplement
-updated: '2026-04-19T18:22:22.372638Z'
+updated: '2026-04-21T16:52:59.895484Z'
 ---
 
 {% raw %}

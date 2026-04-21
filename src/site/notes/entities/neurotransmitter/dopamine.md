@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.458279Z'
+created: '2026-04-21T16:52:59.501682Z'
 description: Monoamine neurotransmitter central to reward, motivation, motor control,
   and executive function. Often called the "motivation molecule," it drives goal-directed
   behavior and is implicated in addiction, Parkinson's disease, and ADHD.
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Dopamine
 type: neurotransmitter
-updated: '2026-04-19T18:22:21.458279Z'
+updated: '2026-04-21T16:52:59.501682Z'
 ---
 
 {% raw %}

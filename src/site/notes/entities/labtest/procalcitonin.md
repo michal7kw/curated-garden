@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.158735Z'
+created: '2026-04-21T16:52:59.311378Z'
 description: Procalcitonin (PCT) test. Serum biomarker that rises specifically in
   response to bacterial infections. Used to guide initiation and discontinuation of
   antibiotic therapy, particularly in sepsis and lower respiratory tract infections.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: procalcitonin
 type: labtest
-updated: '2026-04-19T18:22:21.158735Z'
+updated: '2026-04-21T16:52:59.311378Z'
 ---
 
 {% raw %}

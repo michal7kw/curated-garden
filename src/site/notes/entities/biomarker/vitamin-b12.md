@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.264434Z'
+created: '2026-04-21T16:52:58.230264Z'
 description: Essential vitamin for neurological function and red blood cell formation
 dg-home: false
 dg-publish: true
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Vitamin B12
 type: biomarker
-updated: '2026-04-19T18:22:19.264434Z'
+updated: '2026-04-21T16:52:58.230264Z'
 ---
 
 {% raw %}

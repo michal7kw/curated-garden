@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.289313Z'
+created: '2026-04-21T16:52:58.243999Z'
 description: Mitochondria are double-membrane-bound organelles found in most eukaryotic
   organisms. They generate most of the cell's supply of adenosine triphosphate (ATP),
   used as a source of chemical energy, through cellular respiration.
@@ -15,13 +15,20 @@ tags:
 templateEngineOverride: njk
 title: Mitochondria
 type: cellularcomponent
-updated: '2026-04-19T18:22:19.289313Z'
+updated: '2026-04-21T16:52:58.243999Z'
 ---
 
 {% raw %}
 <h1>Mitochondria</h1>
-<h2>Description</h2>
-<p>Mitochondria are double-membrane-bound organelles found in most eukaryotic organisms. They generate most of the cell's supply of adenosine triphosphate (ATP), used as a source of chemical energy, through cellular respiration.</p>
+<h2>Overview</h2>
+<p>Mitochondria completely command the bioenergetics of almost all highly evolved eukaryotic life. Believed to have originated from an ancient symbiotic engulfment of a bacteria (the Endosymbiotic Theory), mitochondria still rigidly maintain their own completely separate circular genome (mtDNA) and replicate totally independently of the host cell's nuclear DNA.</p>
+<p>Their architecture is brilliantly constructed. The deep folds of their inner membrane (the <em>cristae</em>) contain thousands of embedded massive protein complexes constituting the <strong>Electron Transport Chain (ETC)</strong>. As the mitochondria tear electrons off the molecules absorbed from digested food (via the Krebs Cycle), they rapidly bounce these electrons down the chain. This mathematically violent voltage transfer pumps massive amounts of protons (H+) into the intermembrane space, building up extreme pressure. When that pressure naturally vents completely back through the ATP Synthase biological motor, it physically spins the turbine, forging thousands of <strong>ATP</strong> molecules per second. This is exactly why human beings physically require Oxygen: oxygen explicitly sits at the dead-end of this chain to catch the escaping electrons.</p>
+<h2>Clinical Pathologies</h2>
+<p>Because highly active organs (the brain, heart, and skeletal muscles) require astronomical amounts of ATP to exist, mitochondrial failure presents clinically as devastating catastrophic collapse across those specific systems.</p>
+<ul>
+<li><strong>Apoptosis Execution:</strong> The mitochondria are the cell's biological executioners. If heavily damaged by extreme oxidative stress, they violently rupture and release massive amounts of <em>Cytochrome C</em> into the cytoplasm. This instantly triggers the caspase cascade, commanding the entire host cell to immediately commit strictly organized suicide (Apoptosis).</li>
+<li><strong>Mitochondrial Encephalomyopathy:</strong> Massive inherited mutations operating on mitochondrial DNA profoundly cripple ATP generation, causing lactic acidosis, massive strokes, and extreme severe muscle weakness (e.g., MELAS syndrome). Because a fertilized zygote entirely inherits exclusively the mother's cellular cytoplasm (and therefore only the mother's mitochondria), these catastrophic mutations are passed down exclusively via the maternal lineage.</li>
+</ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/protein/tfam/" class="internal-link">TFAM</a><br />

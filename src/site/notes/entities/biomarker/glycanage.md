@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.072778Z'
+created: '2026-04-21T16:52:58.098647Z'
 description: A biomarker test that measures biological age through the analysis of
   IgG glycosylation patterns, indicating levels of chronic inflammation.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: GlycanAge
 type: biomarker
-updated: '2026-04-19T18:22:19.072778Z'
+updated: '2026-04-21T16:52:58.098647Z'
 ---
 
 {% raw %}

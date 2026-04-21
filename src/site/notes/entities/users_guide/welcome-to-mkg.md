@@ -1,7 +1,7 @@
 ---
 aliases:
 - 00_Welcome
-created: '2026-04-19T18:22:22.544585Z'
+created: '2026-04-21T16:52:59.975722Z'
 description: Overview of the MKG platform — what it does, who it's for, and what's
   possible
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Welcome to MKG
 type: users_guide
-updated: '2026-04-19T18:22:22.544585Z'
+updated: '2026-04-21T16:52:59.975722Z'
 ---
 
 {% raw %}

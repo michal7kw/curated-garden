@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.521154Z'
+created: '2026-04-21T16:52:59.526673Z'
 description: Complex network of cells, tissues, and organs defending the body against
   pathogens. Includes lymph nodes, spleen, thymus, bone marrow, and white blood cells.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: Immune System
 type: organ
-updated: '2026-04-19T18:22:21.521154Z'
+updated: '2026-04-21T16:52:59.526673Z'
 ---
 
 {% raw %}

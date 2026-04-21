@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.364457Z'
+created: '2026-04-21T16:52:58.281892Z'
 description: Cognitive capacity to selectively concentrate on relevant stimuli while
   ignoring distractors. Comprises multiple subtypes (sustained, selective, divided,
   executive, orienting) mediated by distinct but overlapping neural circuits. The
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Attention and Focus
 type: cognitivefunction
-updated: '2026-04-19T18:22:19.364457Z'
+updated: '2026-04-21T16:52:58.281892Z'
 ---
 
 {% raw %}

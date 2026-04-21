@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.610136Z'
+created: '2026-04-21T16:52:58.442257Z'
 description: An aggressive type of cancer that can occur in the brain or spinal cord,
   formed from cells called astrocytes. It is the most common malignant primary brain
   tumor in adults.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Glioblastoma
 type: condition
-updated: '2026-04-19T18:22:19.610136Z'
+updated: '2026-04-21T16:52:58.442257Z'
 ---
 
 {% raw %}

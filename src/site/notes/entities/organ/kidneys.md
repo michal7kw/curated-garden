@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.534117Z'
+created: '2026-04-21T16:52:59.530743Z'
 description: Bean-shaped organs responsible for filtering blood, removing waste, regulating
   fluid balance, electrolyte levels, and blood pressure. Essential for homeostasis.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: Kidneys
 type: organ
-updated: '2026-04-19T18:22:21.534117Z'
+updated: '2026-04-21T16:52:59.530743Z'
 ---
 
 {% raw %}

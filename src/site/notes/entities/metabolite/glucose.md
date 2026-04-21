@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.428128Z'
+created: '2026-04-21T16:52:59.486454Z'
 description: The primary six-carbon monosaccharide fuel for cellular energy production
   and the entry point for glycolysis, the most fundamental molecule in human energy
   metabolism.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Glucose
 type: metabolite
-updated: '2026-04-19T18:22:21.428128Z'
+updated: '2026-04-21T16:52:59.486454Z'
 ---
 
 {% raw %}

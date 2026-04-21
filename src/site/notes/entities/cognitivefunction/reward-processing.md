@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.380656Z'
+created: '2026-04-21T16:52:58.290897Z'
 description: Cognitive and affective processes involved in evaluating, anticipating,
   and learning from rewards. The mesolimbic dopamine pathway (VTA to nucleus accumbens)
   is the core circuit. Reward processing drives motivated behavior, decision-making,
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Reward Processing
 type: cognitivefunction
-updated: '2026-04-19T18:22:19.380656Z'
+updated: '2026-04-21T16:52:58.290897Z'
 ---
 
 {% raw %}

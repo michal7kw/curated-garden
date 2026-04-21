@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.168954Z'
+created: '2026-04-21T16:52:58.197803Z'
 description: Blood-based measurement of amyloid-beta 42/40 ratio using mass spectrometry
   or immunoassay. Enables non-invasive screening for brain amyloid pathology with
   moderate accuracy.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Plasma Amyloid-Beta Ratio
 type: biomarker
-updated: '2026-04-19T18:22:19.168954Z'
+updated: '2026-04-21T16:52:58.197803Z'
 ---
 
 {% raw %}

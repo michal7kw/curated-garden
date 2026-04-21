@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.152694Z'
+created: '2026-04-21T16:52:59.305793Z'
 description: Tested twice a year Platelet count measures the number of platelets—tiny
   blood cells that help blood clot and support healing. Low counts (thrombocytopenia)
   can make bruising or bleeding more noticeable, while high counts (thrombocytosis)
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: platelet_count
 type: labtest
-updated: '2026-04-19T18:22:21.152694Z'
+updated: '2026-04-21T16:52:59.305793Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.135953Z'
+created: '2026-04-21T16:52:59.296405Z'
 description: Comprehensive metabolic assessment measuring 70+ organic acids. Evaluates
   mitochondrial function, neurotransmitter metabolism, detoxification, and gut dysbiosis.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: organic_acids_test
 type: labtest
-updated: '2026-04-19T18:22:21.135953Z'
+updated: '2026-04-21T16:52:59.296405Z'
 ---
 
 {% raw %}

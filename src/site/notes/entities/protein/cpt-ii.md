@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.885419Z'
+created: '2026-04-21T16:52:59.701058Z'
 description: Carnitine palmitoyltransferase II, located on the inner mitochondrial
   membrane matrix side. Regenerates fatty acyl-CoA from acylcarnitine inside the mitochondrial
   matrix, completing the carnitine shuttle for beta-oxidation.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: CPT-II
 type: protein
-updated: '2026-04-19T18:22:21.885419Z'
+updated: '2026-04-21T16:52:59.701058Z'
 ---
 
 {% raw %}

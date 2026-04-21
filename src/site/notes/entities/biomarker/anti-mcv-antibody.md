@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:18.961374Z'
+created: '2026-04-21T16:52:58.030114Z'
 description: Anti-mutated citrullinated vimentin antibody detects antibodies against
   citrullinated vimentin present in inflamed synovium. Comparable or slightly higher
   sensitivity than anti-CCP for RA. May be more useful in early RA and seronegative
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Anti-MCV Antibody
 type: biomarker
-updated: '2026-04-19T18:22:18.961374Z'
+updated: '2026-04-21T16:52:58.030114Z'
 ---
 
 {% raw %}

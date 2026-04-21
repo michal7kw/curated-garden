@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.017078Z'
+created: '2026-04-21T16:52:58.678210Z'
 description: An illusory sensation of movement (typically spinning) caused by dysfunction
   of the vestibular system, either peripheral (inner ear) or central (brainstem/cerebellum).
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Vertigo
 type: condition
-updated: '2026-04-19T18:22:20.017078Z'
+updated: '2026-04-21T16:52:58.678210Z'
 ---
 
 {% raw %}

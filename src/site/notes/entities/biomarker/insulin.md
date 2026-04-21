@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.109845Z'
+created: '2026-04-21T16:52:58.120585Z'
 description: Tested twice a year Insulin is a hormone that acts like a key, helping
   sugar in the blood move into cells for energy. Unlike glucose, insulin isn’t routinely
   tested in standard checkups, but measuring it can sometimes detect signs of diabetes
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Insulin
 type: biomarker
-updated: '2026-04-19T18:22:19.109845Z'
+updated: '2026-04-21T16:52:58.120585Z'
 ---
 
 {% raw %}
@@ -28,7 +28,7 @@ updated: '2026-04-19T18:22:19.109845Z'
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Mafld_Metabolic_Dysfunction-Associated_Fatty_Liver_Disease</a><br />
 RELATED::<a href="/entities/condition/insulin-resistance/" class="internal-link">Insulin_Resistance</a><br />
 RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic_Syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Type_2_Diabetes</a><br />
+RELATED::<a href="/entities/condition/type-2-diabetes/" class="internal-link">Type_2_Diabetes</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Pcos_Polycystic_Ovary_Syndrome</a></p>
 <h3>Indicates Organ Health</h3>
 <p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/pancreas/" class="internal-link">Pancreas</a></p>

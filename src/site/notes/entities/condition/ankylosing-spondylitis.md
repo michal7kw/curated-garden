@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.416120Z'
+created: '2026-04-21T16:52:58.314333Z'
 description: A type of arthritis that causes inflammation in the joints and ligaments
   of the spine, potentially leading to spinal fusion.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Ankylosing Spondylitis
 type: condition
-updated: '2026-04-19T18:22:19.416120Z'
+updated: '2026-04-21T16:52:58.314333Z'
 ---
 
 {% raw %}

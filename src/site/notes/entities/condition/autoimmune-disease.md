@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.438345Z'
+created: '2026-04-21T16:52:58.328861Z'
 description: A condition in which the immune system mistakenly attacks and damages
   the body's own healthy cells, tissues, and organs.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Autoimmune Disease
 type: condition
-updated: '2026-04-19T18:22:19.438345Z'
+updated: '2026-04-21T16:52:58.328861Z'
 ---
 
 {% raw %}

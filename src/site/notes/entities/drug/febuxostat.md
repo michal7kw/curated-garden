@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.139720Z'
+created: '2026-04-21T16:52:58.735058Z'
 description: Non-purine selective xanthine oxidase inhibitor. Alternative to allopurinol
   for patients with allopurinol intolerance. More potent urate-lowering than allopurinol
   300mg. Safe in mild-moderate renal impairment. CARES trial raised cardiovascular
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Febuxostat
 type: drug
-updated: '2026-04-19T18:22:20.139720Z'
+updated: '2026-04-21T16:52:58.735058Z'
 ---
 
 {% raw %}

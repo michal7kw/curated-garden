@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:18.920974Z'
+created: '2026-04-21T16:52:57.989129Z'
 description: Fundamental metabolic pathway converting glucose to pyruvate with net
   production of 2 ATP and 2 NADH per glucose molecule, serving as the entry point
   for both aerobic respiration and anaerobic fermentation.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Glycolysis
 type: biologicalprocess
-updated: '2026-04-19T18:22:18.920974Z'
+updated: '2026-04-21T16:52:57.989129Z'
 ---
 
 {% raw %}

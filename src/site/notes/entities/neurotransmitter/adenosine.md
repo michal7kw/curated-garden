@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.456701Z'
+created: '2026-04-21T16:52:59.501167Z'
 description: A purine nucleoside that acts as a neuromodulator. Accumulates during
   wakefulness to create 'sleep pressure' and is the target of caffeine antagonism.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Adenosine
 type: neurotransmitter
-updated: '2026-04-19T18:22:21.456701Z'
+updated: '2026-04-21T16:52:59.501167Z'
 ---
 
 {% raw %}

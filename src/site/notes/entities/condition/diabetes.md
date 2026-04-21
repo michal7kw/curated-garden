@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.547542Z'
+created: '2026-04-21T16:52:58.404541Z'
 description: Group of metabolic diseases characterized by chronic hyperglycemia resulting
   from defects in insulin secretion, insulin action, or both. Type 2 diabetes (90-95%
   of cases) is driven by progressive insulin resistance and beta cell dysfunction,
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Diabetes
 type: condition
-updated: '2026-04-19T18:22:19.547542Z'
+updated: '2026-04-21T16:52:58.404541Z'
 ---
 
 {% raw %}

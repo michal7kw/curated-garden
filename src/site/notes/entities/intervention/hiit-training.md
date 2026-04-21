@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.567005Z'
+created: '2026-04-21T16:52:58.961833Z'
 description: High-Intensity Interval Training - exercise protocol alternating short
   bursts of intense anaerobic activity with recovery periods. Highly time-efficient
   method for improving cardiovascular fitness, insulin sensitivity, mitochondrial
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: HIIT Training
 type: intervention
-updated: '2026-04-19T18:22:20.567005Z'
+updated: '2026-04-21T16:52:58.961833Z'
 ---
 
 {% raw %}
@@ -68,7 +68,7 @@ updated: '2026-04-19T18:22:20.567005Z'
 RELATED::<a href="/entities/intervention/zone-2-training/" class="internal-link">Zone 2 Training</a> (complementary aerobic base; 80/20 polarized training model)<br />
 RELATED::<a href="/entities/intervention/strength-training/" class="internal-link">Strength Training</a> (combine for complete exercise program)<br />
 RELATED::<a href="/entities/intervention/intermittent-fasting/" class="internal-link">Intermittent Fasting</a> (both activate AMPK pathway)<br />
-MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a> (HbA1c improvement comparable to metformin, Evidence Level 1a)<br />
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/type-2-diabetes/" class="internal-link">Type 2 Diabetes</a> (HbA1c improvement comparable to metformin, Evidence Level 1a)<br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> (15-20% mortality reduction, Evidence Level 2a)</p>
 <h3>Modulates Hormone</h3>
 <p>MODULATES_HORMONE::<a href="/entities/hormone/growth-hormone/" class="internal-link">Growth Hormone</a> (acute 450% increase post-HIIT, Evidence Level 2a)<br />

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.363291Z'
+created: '2026-04-21T16:52:58.844760Z'
 description: Gene encoding the serotonin 1A receptor (5-HT1A), a key inhibitory GPCR
   involved in mood regulation, anxiety, and antidepressant response. The rs6295 C/G
   promoter polymorphism (C-1019G) modulates receptor expression and is associated
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: HTR1A
 type: gene
-updated: '2026-04-19T18:22:20.363291Z'
+updated: '2026-04-21T16:52:58.844760Z'
 ---
 
 {% raw %}

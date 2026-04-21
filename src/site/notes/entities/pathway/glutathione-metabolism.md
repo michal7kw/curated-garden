@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.651337Z'
+created: '2026-04-21T16:52:59.584855Z'
 description: The metabolic pathway governing synthesis, recycling, and utilization
   of glutathione (GSH), the cell's primary intracellular antioxidant. Includes de
   novo synthesis from cysteine, glycine, and glutamate via gamma-glutamylcysteine
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Glutathione Metabolism
 type: pathway
-updated: '2026-04-19T18:22:21.651337Z'
+updated: '2026-04-21T16:52:59.584855Z'
 ---
 
 {% raw %}

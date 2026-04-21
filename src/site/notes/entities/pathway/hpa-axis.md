@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.657322Z'
+created: '2026-04-21T16:52:59.588448Z'
 description: The hypothalamic-pituitary-adrenal axis is the central stress response
   system. The hypothalamus releases CRH, which stimulates the anterior pituitary to
   secrete ACTH, which in turn triggers cortisol release from the adrenal cortex. Chronic
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: HPA Axis
 type: pathway
-updated: '2026-04-19T18:22:21.657322Z'
+updated: '2026-04-21T16:52:59.588448Z'
 ---
 
 {% raw %}

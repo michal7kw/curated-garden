@@ -1,7 +1,7 @@
 ---
 aliases:
 - 05_Syncing_with_Neo4j
-created: '2026-04-19T18:22:22.595082Z'
+created: '2026-04-21T16:52:59.992172Z'
 description: Bidirectional synchronization between Obsidian notes and the Neo4j knowledge
   graph database
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Syncing with Neo4j
 type: users_guide
-updated: '2026-04-19T18:22:22.595082Z'
+updated: '2026-04-21T16:52:59.992172Z'
 ---
 
 {% raw %}

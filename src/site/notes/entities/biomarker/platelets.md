@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.172516Z'
+created: '2026-04-21T16:52:58.199896Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/platelets/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Platelets
 type: biomarker
-updated: '2026-04-19T18:22:19.172516Z'
+updated: '2026-04-21T16:52:58.199896Z'
 ---
 
 {% raw %}

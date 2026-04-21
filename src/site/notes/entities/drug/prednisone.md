@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.250033Z'
+created: '2026-04-21T16:52:58.789695Z'
 description: Synthetic corticosteroid with potent anti-inflammatory and immunosuppressive
   effects. Used for a wide range of inflammatory and autoimmune conditions. Converted
   to active prednisolone in the liver.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Prednisone
 type: drug
-updated: '2026-04-19T18:22:20.250033Z'
+updated: '2026-04-21T16:52:58.789695Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.790669Z'
+created: '2026-04-21T16:52:59.654305Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,13 +12,21 @@ tags:
 templateEngineOverride: njk
 title: Intellectual disability
 type: phenotype
-updated: '2026-04-19T18:22:21.790669Z'
+updated: '2026-04-21T16:52:59.654305Z'
 ---
 
 {% raw %}
 <h1>Intellectual disability</h1>
-<h2>Description</h2>
-<p>...</p>
+<h2>Overview</h2>
+<p>Intellectual disability (ID)—previously referred to clinically utilizing outdated terminology like mental retardation—is an extreme umbrella phenotype universally defined by massive functional failures mapping directly to how efficiently the developing brain constructs, organizes, and eventually queries complex neural networks.</p>
+<p>Clinically, the phenotype strictly requires failures spanning two distinct, measurable vectors arriving before the age of 18:</p>
+<ol>
+<li><strong>Intellectual Deficits:</strong> Severe, mathematically measurable impairments mapping across reasoning, fluid problem-solving, abstract concept processing, and rapid learning (typically represented psychometrically via an IQ score falling two standard deviations or more beneath the mean, equating generally to an IQ under 70).</li>
+<li><strong>Adaptive Functioning Deficits:</strong> A simultaneous massive failure to perform the independent, real-world logistical tasks necessary to survive without oversight (e.g., executing basic hygiene, maintaining functional socialization, understanding the abstract math behind handling money).</li>
+</ol>
+<p>Etiologically, mapping the triggers driving this phenotype spans the breadth of modern medicine. It ranges from catastrophic genetic chromosomal errors (like the massive trisomy duplication in <strong>Down Syndrome</strong> or the fragile X chromosome repeat failure), to severe prenatal toxic insults (massive Fetal Alcohol Syndrome destroying the migrating neuronal crest), to extreme hypoxic brain injuries occurring right at the moment of birth (Cerebral Palsy/Hypoxic-Ischemic Encephalopathy).</p>
+<h2>Clinical Pathologies</h2>
+<p>Unlike dementia—which represents the absolute progressive destruction and <em>loss</em> of a mature, perfectly constructed intellect—intellectual disability explicitly confirms the brain fundamentally failed to wire the baseline cognitive networks correctly from the start.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">amaurosis-hypertrichosis syndrome</a><br />

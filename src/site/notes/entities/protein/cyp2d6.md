@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.926945Z'
+created: '2026-04-21T16:52:59.715369Z'
 description: Cytochrome P450 2D6, a highly polymorphic drug-metabolizing enzyme responsible
   for the metabolism of approximately 25% of clinically used drugs including SSRIs,
   beta-blockers, opioids, and antipsychotics. Genetic polymorphisms create poor, intermediate,
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: CYP2D6
 type: protein
-updated: '2026-04-19T18:22:21.926945Z'
+updated: '2026-04-21T16:52:59.715369Z'
 ---
 
 {% raw %}

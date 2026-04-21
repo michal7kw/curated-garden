@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.335881Z'
+created: '2026-04-21T16:52:58.823362Z'
 description: Exposure to bisphenol A, a ubiquitous endocrine-disrupting chemical found
   in polycarbonate plastics and epoxy resins, that mimics estrogen and disrupts hormonal
   signaling, linked to obesity, insulin resistance, reproductive disorders, and developmental
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: BPA Exposure
 type: exposure
-updated: '2026-04-19T18:22:20.335881Z'
+updated: '2026-04-21T16:52:58.823362Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.971125Z'
+created: '2026-04-21T16:52:58.662293Z'
 description: Perception of sound (ringing, buzzing, hissing, or roaring) in one or
   both ears without an external acoustic source, affecting 10-15% of adults.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Tinnitus
 type: condition
-updated: '2026-04-19T18:22:19.971125Z'
+updated: '2026-04-21T16:52:58.662293Z'
 ---
 
 {% raw %}

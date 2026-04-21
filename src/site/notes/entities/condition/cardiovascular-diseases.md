@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.482199Z'
+created: '2026-04-21T16:52:58.362177Z'
 description: A group of disorders of the heart and blood vessels, including coronary
   heart disease, cerebrovascular disease, and rheumatic heart disease.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Cardiovascular Diseases
 type: condition
-updated: '2026-04-19T18:22:19.482199Z'
+updated: '2026-04-21T16:52:58.362177Z'
 ---
 
 {% raw %}

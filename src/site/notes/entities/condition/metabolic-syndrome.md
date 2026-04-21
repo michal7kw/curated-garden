@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.339089Z'
+created: '2026-04-21T16:52:58.270959Z'
 description: Cluster of metabolic abnormalities including central obesity, insulin
   resistance, dyslipidemia, and hypertension that significantly increase risk of cardiovascular
   disease, type 2 diabetes, and all-cause mortality. Affects approximately 35% of
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Metabolic Syndrome
 type: condition
-updated: '2026-04-19T18:22:19.339089Z'
+updated: '2026-04-21T16:52:58.270959Z'
 ---
 
 {% raw %}
@@ -90,7 +90,7 @@ RELATED::<a href="/entities/metabolite/glucose/" class="internal-link">Glucose</
 RELATED::<a href="/entities/drug/metformin/" class="internal-link">METFORMIN</a><br />
 RELATED::<a href="/entities/labtest/glucose-urine/" class="internal-link">glucose urine</a><br />
 RELATED::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a><br />
+RELATED::<a href="/entities/condition/type-2-diabetes/" class="internal-link">Type 2 Diabetes</a><br />
 RELATED::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
 RELATED::<a href="/entities/supplement/resveratrol/" class="internal-link">Resveratrol</a><br />
 RELATED::<a href="/entities/labtest/dhea-sulfate/" class="internal-link">dhea sulfate</a><br />
@@ -129,7 +129,7 @@ REQUIRES_BIOMARKER::<a href="/entities/labtest/hdl-cholesterol/" class="internal
 REQUIRES_BIOMARKER::<a href="/entities/labtest/fasting-glucose/" class="internal-link">Fasting Glucose</a><br />
 REQUIRES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">Blood Pressure</a></p>
 <h3>Increases Risk For</h3>
-<p>INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a><br />
+<p>INCREASES_RISK_FOR::<a href="/entities/condition/type-2-diabetes/" class="internal-link">Type 2 Diabetes</a><br />
 INCREASES_RISK_FOR::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
 INCREASES_RISK_FOR::<a href="/entities/condition/nafld/" class="internal-link">NAFLD</a></p>
 <h3>Affects Organ</h3>

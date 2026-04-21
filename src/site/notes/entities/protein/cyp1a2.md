@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.910762Z'
+created: '2026-04-21T16:52:59.710316Z'
 description: Cytochrome P450 1A2, a major drug-metabolizing enzyme responsible for
   the metabolism of caffeine, theophylline, clozapine, and olanzapine. Uniquely inducible
   by smoking and dietary components (cruciferous vegetables, chargrilled meat) and
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: CYP1A2
 type: protein
-updated: '2026-04-19T18:22:21.910762Z'
+updated: '2026-04-21T16:52:59.710316Z'
 ---
 
 {% raw %}

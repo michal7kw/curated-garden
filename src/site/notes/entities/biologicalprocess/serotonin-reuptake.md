@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:18.934340Z'
+created: '2026-04-21T16:52:57.996227Z'
 description: The process by which the serotonin transporter (SERT) actively transports
   serotonin from the synaptic cleft back into the presynaptic neuron, terminating
   serotonergic neurotransmission. This sodium/chloride-dependent transport is the
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Serotonin Reuptake
 type: biologicalprocess
-updated: '2026-04-19T18:22:18.934340Z'
+updated: '2026-04-21T16:52:57.996227Z'
 ---
 
 {% raw %}

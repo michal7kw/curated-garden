@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.081798Z'
+created: '2026-04-21T16:52:58.100687Z'
 description: Hemoglobin A1c (HbA1c) reflects average blood glucose over 2-3 months.
   Used to diagnose and monitor diabetes control.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: Hba1C
 type: biomarker
-updated: '2026-04-19T18:22:19.081798Z'
+updated: '2026-04-21T16:52:58.100687Z'
 ---
 
 {% raw %}
@@ -34,7 +34,7 @@ RELATED::<a href="/entities/supplement/berberine/" class="internal-link">Berberi
 <h3>Indicates Organ Health</h3>
 <p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/pancreas/" class="internal-link">Pancreas</a></p>
 <h3>Increases Risk For</h3>
-<p>INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a> (when elevated, Evidence Level 1a)<br />
+<p>INCREASES_RISK_FOR::<a href="/entities/condition/type-2-diabetes/" class="internal-link">Type 2 Diabetes</a> (when elevated, Evidence Level 1a)<br />
 INCREASES_RISK_FOR::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> (when elevated, Evidence Level 1a)</p>
 <h3>Affected By Supplement</h3>
 <p>AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/berberine/" class="internal-link">Berberine</a><br />

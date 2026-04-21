@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.616393Z'
+created: '2026-04-21T16:52:58.446377Z'
 description: An autoimmune disorder that causes overactivity of the thyroid gland
   (hyperthyroidism) through the production of stimulating antibodies.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Graves Disease
 type: condition
-updated: '2026-04-19T18:22:19.616393Z'
+updated: '2026-04-21T16:52:58.446377Z'
 ---
 
 {% raw %}

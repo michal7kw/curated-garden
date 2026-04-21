@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.492103Z'
+created: '2026-04-21T16:52:59.515346Z'
 description: A hollow, muscular organ in the pelvis that stores urine before elimination.
   Key component of the urinary tract and subject to common infections.
 dg-home: false
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Bladder
 type: organ
-updated: '2026-04-19T18:22:21.492103Z'
+updated: '2026-04-21T16:52:59.515346Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:22.144660Z'
+created: '2026-04-21T16:52:59.800754Z'
 description: Constellation of symptoms occurring within 1-7 days of abrupt SSRI cessation
   or significant dose reduction. Characterized by the FINISH mnemonic — Flu-like symptoms,
   Insomnia, Nausea, Imbalance/dizziness, Sensory disturbances (brain zaps), Hyperarousal/anxiety.
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: SSRI Discontinuation Syndrome
 type: sideeffect
-updated: '2026-04-19T18:22:22.144660Z'
+updated: '2026-04-21T16:52:59.800754Z'
 ---
 
 {% raw %}

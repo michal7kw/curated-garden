@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.521826Z'
+created: '2026-04-21T16:52:58.941151Z'
 description: Deliberate control of breathing patterns to influence autonomic nervous
   system function, stress response, and cognitive state. Encompasses slow breathing
   (4-6 breaths/min for parasympathetic activation), cyclic hyperventilation (Wim Hof,
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Breathwork
 type: intervention
-updated: '2026-04-19T18:22:20.521826Z'
+updated: '2026-04-21T16:52:58.941151Z'
 ---
 
 {% raw %}

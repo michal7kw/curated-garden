@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.750721Z'
+created: '2026-04-21T16:52:59.633341Z'
 description: Difficulty breathing or shortness of breath.
 dg-home: false
 dg-publish: true
@@ -12,13 +12,20 @@ tags:
 templateEngineOverride: njk
 title: Dyspnea
 type: phenotype
-updated: '2026-04-19T18:22:21.750721Z'
+updated: '2026-04-21T16:52:59.633341Z'
 ---
 
 {% raw %}
 <h1>Dyspnea</h1>
-<h2>Description</h2>
-<p>Difficulty breathing or shortness of breath.</p>
+<h2>Overview</h2>
+<p>Dyspnea acts as the subjective, deeply distressful clinical phenotype encompassing the terrifying sensation of breathless, labored, or insufficient respiration (commonly known as &quot;shortness of breath&quot;). It fundamentally represents a massive mismatch between the brain's command for oxygen delivery and the cardiopulmonary system's mechanical capability to fulfill the request.</p>
+<p>Mechanically, the phenotype is triggered when complex peripheral chemoreceptors sitting in the carotid bodies heavily detect rising Carbon Dioxide (hypercapnia) or plunging Oxygen (hypoxia). These receptors violently fire signals up the vagus nerve directly into the medullary respiratory centers, which subsequently scream at the diaphragm and accessory chest muscles to contract harder.</p>
+<h2>Clinical Pathologies</h2>
+<p>Because it straddles two distinct systems, Dyspnea forces physicians to immediately distinguish between primary pulmonary collapse and absolute cardiac failure:</p>
+<ul>
+<li><strong>Pulmonary Etiologies:</strong> Includes massive alveolar dead-space where air cannot diffuse across the membrane natively (e.g., Asthma, COPD blistering, massive lobar Pneumonia).</li>
+<li><strong>Cardiac Etiologies:</strong> Driven by violent Left-Sided Heart Failure (Congestive Heart Failure). The failing left ventricle cannot pump blood forward, violently backing hydrostatic pressure directly into the pulmonary veins, physically flooding the lungs with blood plasma (Pulmonary Edema) and triggering massive positional dyspnea (Orthopnea) when the patient lies flat.</li>
+</ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Rest dyspnea</a><br />

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.589400Z'
+created: '2026-04-21T16:52:59.552590Z'
 description: The pathological process by which alpha-synuclein protein misfolds and
   aggregates into oligomers, fibrils, and Lewy bodies. Central to Parkinson's disease
   and other synucleinopathies.
@@ -16,13 +16,17 @@ tags:
 templateEngineOverride: njk
 title: Alpha-Synuclein Aggregation
 type: pathway
-updated: '2026-04-19T18:22:21.589400Z'
+updated: '2026-04-21T16:52:59.552590Z'
 ---
 
 {% raw %}
 <h1>Alpha-Synuclein Aggregation</h1>
-<h2>Description</h2>
-<p>The pathological process by which alpha-synuclein protein misfolds and aggregates into oligomers, fibrils, and Lewy bodies. Central to Parkinson's disease and other synucleinopathies.</p>
+<h2>Overview</h2>
+<p>Alpha-Synuclein Aggregation maps the exact pathophysiological failure driving a massive category of neurological diseases clinically termed &quot;synucleinopathies.&quot; Under healthy circumstances, alpha-synuclein is a perfectly soluble, natively unfolded protein located abundantly at the presynaptic terminals of neurons, where it helps mathematically regulate the release of microscopic neurotransmitter vesicles.</p>
+<p>However, driven by genetic mutations (e.g., SNCA gene duplications) or severely toxic oxidative stress, the protein chain can dynamically misfold into highly sticky &quot;beta-sheet&quot; structures. Once misfolded, the protein becomes extremely highly prone to aggregation. Like an infection, these misfolded sheets stick to nearby healthy alpha-synuclein proteins, acting as a template and violently forcing them to misfold as well.</p>
+<p>This chain reaction compiles the proteins into intermediate clusters known as <strong>toxic oligomers</strong>. These free-floating oligomers are viciously neurotoxic: they puncture cell membranes, completely destroy massive mitochondrial energy pathways, and suffocate the neuron. Eventually, the cell attempts to survive by compacting this toxic trash into massive, hardened, indestructible structures known as <strong>Lewy Bodies</strong>. Unfortunately, the sheer accumulation of these Lewy Bodies physically crushes the neuron’s internal transport architecture, leading to inevitable cell death.</p>
+<h2>Clinical Pathologies</h2>
+<p>This specific aggregation pathway completely defines the underlying death of the dopamine-producing cells resting inside the substantia nigra, acting as the absolute foundational engine causing <strong>Parkinson's Disease</strong>. When this aggregation spreads widely out of the midbrain and floods directly up into the cerebral cortex, it violently causes <strong>Lewy Body Dementia</strong>.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/organ/dorsal-raphe-nucleus/" class="internal-link">Dorsal Raphe Nucleus</a><br />

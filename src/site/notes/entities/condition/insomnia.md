@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.656406Z'
+created: '2026-04-21T16:52:58.474115Z'
 description: Chronic difficulty initiating or maintaining sleep, or non-restorative
   sleep, despite adequate opportunity. The most common sleep disorder, affecting 30%
   of adults intermittently and 10% chronically. Strongly bidirectional with anxiety
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Insomnia
 type: condition
-updated: '2026-04-19T18:22:19.656406Z'
+updated: '2026-04-21T16:52:58.474115Z'
 ---
 
 {% raw %}

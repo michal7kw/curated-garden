@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.445108Z'
+created: '2026-04-21T16:52:59.496105Z'
 description: High-energy phosphate compound that serves as a rapid ATP buffer in tissues
   with high and fluctuating energy demands, particularly skeletal muscle, heart, and
   brain. The phosphocreatine-creatine kinase system provides immediate ATP regeneration
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Phosphocreatine
 type: metabolite
-updated: '2026-04-19T18:22:21.445108Z'
+updated: '2026-04-21T16:52:59.496105Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.667878Z'
+created: '2026-04-21T16:52:59.017599Z'
 description: Moderate-intensity aerobic exercise performed at a pace that allows for
   steady-state fat oxidation and mitochondrial development.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Zone 2 Training
 type: intervention
-updated: '2026-04-19T18:22:20.667878Z'
+updated: '2026-04-21T16:52:59.017599Z'
 ---
 
 {% raw %}
@@ -70,7 +70,7 @@ AFFECTS_BIOMARKER::<a href="/entities/biomarker/bdnf/" class="internal-link">BDN
 <h3>Affects Cellular Component</h3>
 <p>AFFECTS::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (50-100% increase in mitochondrial volume/density, Evidence Level 2a)</p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a> (improved metabolic flexibility and insulin sensitivity, Evidence Level 1a)<br />
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/type-2-diabetes/" class="internal-link">Type 2 Diabetes</a> (improved metabolic flexibility and insulin sensitivity, Evidence Level 1a)<br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> (VO2max improvement reduces CV mortality, Evidence Level 1a)</p>
 
 {% endraw %}

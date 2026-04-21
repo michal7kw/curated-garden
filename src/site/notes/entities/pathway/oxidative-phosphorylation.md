@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.707040Z'
+created: '2026-04-21T16:52:59.608466Z'
 description: The metabolic process by which ATP is synthesized using the energy released
   from the electron transport chain. The proton gradient generated across the inner
   mitochondrial membrane drives ATP synthase (Complex V) to produce 30-38 ATP per
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Oxidative Phosphorylation
 type: pathway
-updated: '2026-04-19T18:22:21.707040Z'
+updated: '2026-04-21T16:52:59.608466Z'
 ---
 
 {% raw %}

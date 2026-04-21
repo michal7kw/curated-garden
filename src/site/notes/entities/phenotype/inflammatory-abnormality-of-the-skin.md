@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.787184Z'
+created: '2026-04-21T16:52:59.652295Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,13 +12,20 @@ tags:
 templateEngineOverride: njk
 title: Inflammatory abnormality of the skin
 type: phenotype
-updated: '2026-04-19T18:22:21.787184Z'
+updated: '2026-04-21T16:52:59.652295Z'
 ---
 
 {% raw %}
 <h1>Inflammatory abnormality of the skin</h1>
-<h2>Description</h2>
-<p>...</p>
+<h2>Overview</h2>
+<p>Inflammatory abnormality of the skin serves as a massive diagnostic umbrella phenotype in clinical dermatology, representing any pathological state where the host's immune system violently attacks or inappropriately overreacts within the cutaneous layers (epidermis, dermis, or subcutaneous fat).</p>
+<p>Because the skin is the human body's primary barrier, it is absolutely packed densely with highly volatile immune cells (Mast cells, Langerhans cells, T-cells). When these defensive networks trigger aberrantly, they release massive loads of cytokines and histamines, forcing the blood vessels to leak (edema), physically separating the skin layers (blistering), and wildly accelerating keratinocyte production (scaling).</p>
+<p>Clinically, measuring exactly <em>how</em> the inflammation presents mathematically dictates the diagnosis:</p>
+<ul>
+<li><strong>Spongiotic Inflammation:</strong> Fluid artificially forces the epidermal cells apart, creating massive, intensely itchy weeping blisters (Iconic presentation: <strong>Contact Dermatitis</strong> / Poison Ivy).</li>
+<li><strong>Psoriasiform Inflammation:</strong> The immune system dumps cytokines (IL-17, TNF-α) that send keratinocyte replication into overdrive. Skin cells replicate so fast they mathematically cannot shed, forming thick, silvery, bleeding plaques (Iconic presentation: <strong>Psoriasis</strong>).</li>
+<li><strong>Interface/Lichenoid Inflammation:</strong> Massive armies of cytotoxic T-cells march directly to the junction between the dermis and epidermis and begin executing the basal skin cells one by one (Iconic presentation: <strong>Lichen Planus</strong> or the Malar Rash of <strong>Lupus</strong>).</li>
+</ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">panniculitis and localized lipodystrophy</a><br />

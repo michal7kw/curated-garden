@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.410113Z'
+created: '2026-04-21T16:52:58.873740Z'
 description: Broad-spectrum supplement stack for autoimmune conditions (SLE, Sjogren's,
   scleroderma, MCTD). Emphasizes immune modulation rather than suppression, gut barrier
   integrity, antioxidant defense, and anti-inflammatory support.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Autoimmune Support
 type: healthstack
-updated: '2026-04-19T18:22:20.410113Z'
+updated: '2026-04-21T16:52:58.873740Z'
 ---
 
 {% raw %}

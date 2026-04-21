@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.318513Z'
+created: '2026-04-21T16:52:58.259326Z'
 description: A physiological condition where cells fail to respond normally to the
   hormone insulin, leading to hyperinsulinemia and metabolic dysfunction.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Insulin Resistance
 type: condition
-updated: '2026-04-19T18:22:19.318513Z'
+updated: '2026-04-21T16:52:58.259326Z'
 ---
 
 {% raw %}
@@ -71,7 +71,7 @@ updated: '2026-04-19T18:22:19.318513Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/labtest/sex-hormone-binding-globulin-shbg/" class="internal-link">sex hormone binding globulin shbg</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a><br />
+RELATED::<a href="/entities/condition/type-2-diabetes/" class="internal-link">Type 2 Diabetes</a><br />
 RELATED::<a href="/entities/labtest/hdl-cholesterol/" class="internal-link">HDL Cholesterol</a><br />
 RELATED::<a href="/entities/supplement/chromium/" class="internal-link">Chromium</a><br />
 RELATED::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a><br />
@@ -85,7 +85,7 @@ RELATED::<a href="/entities/condition/pcos/" class="internal-link">PCOS</a><br /
 RELATED::<a class="internal-link is-unresolved" href="/404">Muscle</a><br />
 RELATED::<a href="/entities/organ/pancreas/" class="internal-link">Pancreas</a><br />
 RELATED::<a href="/entities/labtest/leptin/" class="internal-link">leptin</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">HOMA-IR</a><br />
+RELATED::<a href="/entities/biomarker/homa-ir/" class="internal-link">HOMA-IR</a><br />
 RELATED::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Alpha-Lipoic Acid</a></p>
 <h3>Affects Organ</h3>
@@ -93,7 +93,7 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Alpha-Lipoic Acid</a
 AFFECTS_ORGAN::<a href="/entities/organ/liver/" class="internal-link">Liver</a><br />
 AFFECTS_ORGAN::<a href="/entities/organ/pancreas/" class="internal-link">Pancreas</a></p>
 <h3>Requires Biomarker</h3>
-<p>REQUIRES_BIOMARKER::<a class="internal-link is-unresolved" href="/404">HOMA-IR</a><br />
+<p>REQUIRES_BIOMARKER::<a href="/entities/biomarker/homa-ir/" class="internal-link">HOMA-IR</a><br />
 REQUIRES_BIOMARKER::<a href="/entities/labtest/hdl-cholesterol/" class="internal-link">HDL Cholesterol</a><br />
 REQUIRES_BIOMARKER::<a href="/entities/labtest/fasting-insulin/" class="internal-link">Fasting Insulin</a><br />
 REQUIRES_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a></p>
@@ -107,6 +107,6 @@ IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/chromium/" class="internal
 <p>PRECURSOR_OF::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a></p>
 <h3>Increases Risk For</h3>
 <p>INCREASES_RISK_FOR::<a href="/entities/condition/pcos/" class="internal-link">PCOS</a><br />
-INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a></p>
+INCREASES_RISK_FOR::<a href="/entities/condition/type-2-diabetes/" class="internal-link">Type 2 Diabetes</a></p>
 
 {% endraw %}

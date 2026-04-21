@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.256897Z'
+created: '2026-04-21T16:52:58.792210Z'
 description: Class IA antiarrhythmic agent used for atrial and ventricular arrhythmias.
   Also an antimalarial agent.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Quinidine
 type: drug
-updated: '2026-04-19T18:22:20.256897Z'
+updated: '2026-04-21T16:52:58.792210Z'
 ---
 
 {% raw %}

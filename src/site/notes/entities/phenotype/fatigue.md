@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.761539Z'
+created: '2026-04-21T16:52:59.640574Z'
 description: A subjective feeling of tiredness or lack of energy that is not proportional
   to recent activity level.
 dg-home: false
@@ -13,13 +13,21 @@ tags:
 templateEngineOverride: njk
 title: Fatigue
 type: phenotype
-updated: '2026-04-19T18:22:21.761539Z'
+updated: '2026-04-21T16:52:59.640574Z'
 ---
 
 {% raw %}
 <h1>Fatigue</h1>
-<h2>Description</h2>
-<p>A subjective feeling of tiredness or lack of energy that is not proportional to recent activity level.</p>
+<h2>Overview</h2>
+<p>Fatigue serves as an exceedingly complex, universally pervasive systemic phenotype characterizing profound, unshakable physical exhaustion or massive cognitive decay completely disproportionate to recent exertion. Unlike simple tiredness, genuine pathological fatigue cannot be physically resolved by normal restorative sleep architecture.</p>
+<p>Because human energy mathematically depends absolutely on the mitochondria executing immense oxidative phosphorylation, fatigue signals a massive break in the supply chain bringing glucose and oxygen to the cell, or an overwhelming cytokine storm artificially shifting the brain's metabolic state towards resting/healing.</p>
+<h2>Clinical Pathologies</h2>
+<p>The sheer density of this phenotype requires aggressive compartmentalization into overarching biological domains:</p>
+<ul>
+<li><strong>Hematologic Failure (Anemia):</strong> The body lacks sufficient hemoglobin hardware to physically carry oxygen to the mitochondria, choking off cellular respiration.</li>
+<li><strong>Endocrine Collapse (Hypothyroidism):</strong> The thyroid stops producing T3/T4, destroying basal metabolic gene transcription and crashing the body's entire ATP generation baseline.</li>
+<li><strong>Immunological/Inflammatory Burnout:</strong> Massive autoimmune states (Lupus) or chronic infections heavily release systemic IL-1 and TNF-alpha cytokines, which natively signal the hypothalamus to induce &quot;sickness behavior&quot; (profound lethargy and hypersomnolence) to conserve calories for fighting the pathogen.</li>
+</ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/labtest/hemoglobin/" class="internal-link">hemoglobin</a><br />

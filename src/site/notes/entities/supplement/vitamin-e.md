@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:22.521395Z'
+created: '2026-04-21T16:52:59.967644Z'
 description: Fat-soluble antioxidant family consisting of tocopherols and tocotrienols.
   Protects cell membranes from oxidative damage. Full-spectrum forms preferred over
   synthetic alpha-tocopherol.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Vitamin E
 type: supplement
-updated: '2026-04-19T18:22:22.521395Z'
+updated: '2026-04-21T16:52:59.967644Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.786500Z'
+created: '2026-04-21T16:52:59.097925Z'
 description: Carcinoembryonic Antigen (CEA) test. Tumor marker primarily used for
   monitoring colorectal cancer treatment response and detecting recurrence. Also elevated
   in pancreatic, lung, breast, and other adenocarcinomas.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: cea
 type: labtest
-updated: '2026-04-19T18:22:20.786500Z'
+updated: '2026-04-21T16:52:59.097925Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.268297Z'
+created: '2026-04-21T16:52:58.230768Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/vitamin-d-25-oh/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Vitamin D (25-OH)
 type: biomarker
-updated: '2026-04-19T18:22:19.268297Z'
+updated: '2026-04-21T16:52:58.230768Z'
 ---
 
 {% raw %}
@@ -90,7 +90,7 @@ updated: '2026-04-19T18:22:19.268297Z'
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/osteoporosis/" class="internal-link">Osteoporosis</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a> (vitamin D receptors in brain regions involved in mood regulation, Evidence Level 2a)<br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/multiple-sclerosis/" class="internal-link">Multiple Sclerosis</a> (low vitamin D is a recognized risk factor, Evidence Level 2a)<br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a> (vitamin D improves insulin sensitivity, Evidence Level 2a)<br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/type-2-diabetes/" class="internal-link">Type 2 Diabetes</a> (vitamin D improves insulin sensitivity, Evidence Level 2a)<br />
 INDICATES_ORGAN_HEALTH::<a href="/entities/organ/bones/" class="internal-link">Bones</a> (vitamin D is essential for calcium absorption and bone mineralization, Evidence Level 1a)<br />
 INDICATES_ORGAN_HEALTH::<a href="/entities/organ/kidneys/" class="internal-link">Kidneys</a> (kidneys perform final hydroxylation to active 1,25-OH D, Evidence Level 1a)</p>
 <h3>Affected By Supplement</h3>

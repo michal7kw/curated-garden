@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.060650Z'
+created: '2026-04-21T16:52:58.091993Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/free-t4/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Free T4
 type: biomarker
-updated: '2026-04-19T18:22:19.060650Z'
+updated: '2026-04-21T16:52:58.091993Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.329657Z'
+created: '2026-04-21T16:52:58.819206Z'
 description: Exposure to ambient airborne pollutants including particulate matter
   (PM2.5, PM10), ozone (O3), nitrogen dioxide (NO2), and sulfur dioxide (SO2), driving
   systemic inflammation, oxidative stress, and increased risk of cardiovascular, respiratory,
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Air Pollution
 type: exposure
-updated: '2026-04-19T18:22:20.329657Z'
+updated: '2026-04-21T16:52:58.819206Z'
 ---
 
 {% raw %}

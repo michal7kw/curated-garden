@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.950336Z'
+created: '2026-04-21T16:52:58.657196Z'
 description: A group of symptoms that occur upon the abrupt discontinuation or decrease
   in intake of a substance to which the body has developed physiological dependence.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Substance Withdrawal Syndrome
 type: condition
-updated: '2026-04-19T18:22:19.950336Z'
+updated: '2026-04-21T16:52:58.657196Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.153197Z'
+created: '2026-04-21T16:52:58.189659Z'
 description: Blood-based biomarkers isolated from brain-derived extracellular vesicles
   (exosomes) that cross the blood-brain barrier. Provide a non-invasive window into
   CNS pathology including Aβ, tau, and α-synuclein.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Neuron-Derived Exosome Biomarkers
 type: biomarker
-updated: '2026-04-19T18:22:19.153197Z'
+updated: '2026-04-21T16:52:58.189659Z'
 ---
 
 {% raw %}
@@ -36,7 +36,7 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers Disease</
 RELATED::<a href="/entities/biomarker/plasma-amyloid-beta-ratio/" class="internal-link">Plasma Amyloid-Beta Ratio</a><br />
 RELATED::<a href="/entities/pathway/tau-phosphorylation/" class="internal-link">Tau Phosphorylation</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Alpha-Synuclein SAA</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a></p>
+RELATED::<a href="/entities/condition/type-2-diabetes/" class="internal-link">Type 2 Diabetes</a></p>
 <h3>Indicates Organ Health</h3>
 <p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 

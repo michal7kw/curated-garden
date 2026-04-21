@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.566246Z'
+created: '2026-04-21T16:52:59.543693Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/precuneus/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Precuneus
 type: organ
-updated: '2026-04-19T18:22:21.566246Z'
+updated: '2026-04-21T16:52:59.543693Z'
 ---
 
 {% raw %}

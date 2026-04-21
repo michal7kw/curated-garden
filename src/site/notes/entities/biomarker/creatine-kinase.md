@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.019300Z'
+created: '2026-04-21T16:52:58.067933Z'
 description: An enzyme found in the heart, brain, and skeletal muscle that catalyzes
   the conversion of creatine to phosphocreatine.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Creatine Kinase
 type: biomarker
-updated: '2026-04-19T18:22:19.019300Z'
+updated: '2026-04-21T16:52:58.067933Z'
 ---
 
 {% raw %}

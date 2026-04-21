@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.556808Z'
+created: '2026-04-21T16:52:59.539129Z'
 description: Dual-function organ with exocrine (digestive enzymes) and endocrine (insulin,
   glucagon) roles. Central to blood sugar regulation and digestion.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: Pancreas
 type: organ
-updated: '2026-04-19T18:22:21.556808Z'
+updated: '2026-04-21T16:52:59.539129Z'
 ---
 
 {% raw %}
@@ -46,7 +46,7 @@ updated: '2026-04-19T18:22:21.556808Z'
 RELATED::<a href="/entities/condition/insulin-resistance/" class="internal-link">Insulin Resistance</a><br />
 RELATED::<a href="/entities/supplement/berberine/" class="internal-link">Berberine</a><br />
 RELATED::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a><br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a><br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/type-2-diabetes/" class="internal-link">Type 2 Diabetes</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/type-1-diabetes/" class="internal-link">Type 1 Diabetes</a><br />
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Acute Pancreatitis</a><br />
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Chronic Pancreatitis</a><br />

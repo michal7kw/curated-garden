@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.157993Z'
+created: '2026-04-21T16:52:58.744764Z'
 description: Nonsteroidal anti-inflammatory drug (NSAID) for pain, fever, and inflammation.
   Reversibly inhibits COX-1 and COX-2 enzymes. One of the most widely used OTC pain
   relievers.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Ibuprofen
 type: drug
-updated: '2026-04-19T18:22:20.157993Z'
+updated: '2026-04-21T16:52:58.744764Z'
 ---
 
 {% raw %}

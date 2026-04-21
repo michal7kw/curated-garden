@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:22.458012Z'
+created: '2026-04-21T16:52:59.939879Z'
 description: Nutrient-dense blue-green algae (cyanobacteria) with high protein content
   and powerful antioxidant properties. Contains phycocyanin, the unique blue pigment
   with potent anti-inflammatory effects.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Spirulina
 type: supplement
-updated: '2026-04-19T18:22:22.458012Z'
+updated: '2026-04-21T16:52:59.939879Z'
 ---
 
 {% raw %}

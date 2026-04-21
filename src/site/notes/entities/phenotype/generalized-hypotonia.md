@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.768124Z'
+created: '2026-04-21T16:52:59.642613Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,13 +12,15 @@ tags:
 templateEngineOverride: njk
 title: Generalized hypotonia
 type: phenotype
-updated: '2026-04-19T18:22:21.768124Z'
+updated: '2026-04-21T16:52:59.642613Z'
 ---
 
 {% raw %}
 <h1>Generalized hypotonia</h1>
-<h2>Description</h2>
-<p>...</p>
+<h2>Overview</h2>
+<p>Generalized hypotonia manifests as a systemic, global reduction in baseline muscular tension spanning both the axial core and all appendicular limbs. Unlike focal hypotonia (which might strictly limit drooping to the facial muscles after a Bell's Palsy nerve injury), generalized hypotonia acts as a massive biomarker for fundamental, genome-wide metabolic errors or catastrophic central nervous system insults.</p>
+<p>When hypotonia is generalized, the neurological mechanism is almost always centralized inside the motor cortex (e.g. massive bilateral ischemic brain strokes) or driven by a systemic metabolic collapse spanning the neuromuscular junctions globally, essentially starving the motor synapses of neurotransmitter activation capability.</p>
+<p>This phenotype is heavily tied to deep genetic anomalies mapping back to the PrimeKG etiology trees, particularly covering the spinocerebellar spin tracts, systemic mitochondrial energy failures, or catastrophic lysosomal storage diseases destroying generalized neural networks.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">long chain 3-hydroxyacyl-CoA dehydrogenase deficiency</a><br />

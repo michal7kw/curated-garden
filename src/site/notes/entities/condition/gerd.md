@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.592089Z'
+created: '2026-04-21T16:52:58.437160Z'
 description: A chronic digestive condition in which stomach acid or bile flows back
   into the esophagus, causing mucosal irritation, heartburn, and potential complications
   including Barrett's esophagus.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: GERD
 type: condition
-updated: '2026-04-19T18:22:19.592089Z'
+updated: '2026-04-21T16:52:58.437160Z'
 ---
 
 {% raw %}

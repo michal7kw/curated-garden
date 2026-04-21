@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:22.490472Z'
+created: '2026-04-21T16:52:59.954286Z'
 description: Essential vitamin for neurological function and red blood cell formation
 dg-home: false
 dg-publish: true
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Vitamin B12
 type: supplement
-updated: '2026-04-19T18:22:22.490472Z'
+updated: '2026-04-21T16:52:59.954286Z'
 ---
 
 {% raw %}

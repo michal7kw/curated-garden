@@ -1,7 +1,7 @@
 ---
 aliases:
 - 03_Creating_Entities
-created: '2026-04-19T18:22:22.577387Z'
+created: '2026-04-21T16:52:59.984437Z'
 description: How to create knowledge graph entries using the wizard, templates, or
   manual creation with YAML frontmatter
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Creating Entities
 type: users_guide
-updated: '2026-04-19T18:22:22.577387Z'
+updated: '2026-04-21T16:52:59.984437Z'
 ---
 
 {% raw %}

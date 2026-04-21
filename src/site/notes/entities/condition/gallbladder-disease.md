@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.596306Z'
+created: '2026-04-21T16:52:58.434549Z'
 description: A range of conditions affecting the gallbladder, most commonly involving
   gallstones or inflammation (cholecystitis).
 dg-home: false
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Gallbladder Disease
 type: condition
-updated: '2026-04-19T18:22:19.596306Z'
+updated: '2026-04-21T16:52:58.434549Z'
 ---
 
 {% raw %}

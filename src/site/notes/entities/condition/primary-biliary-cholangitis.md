@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.849202Z'
+created: '2026-04-21T16:52:58.604000Z'
 description: A chronic autoimmune liver disease characterized by the slow destruction
   of the small bile ducts in the liver, leading to bile buildup and scarring.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Primary Biliary Cholangitis
 type: condition
-updated: '2026-04-19T18:22:19.849202Z'
+updated: '2026-04-21T16:52:58.604000Z'
 ---
 
 {% raw %}

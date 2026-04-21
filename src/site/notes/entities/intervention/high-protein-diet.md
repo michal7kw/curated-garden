@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.574347Z'
+created: '2026-04-21T16:52:58.960829Z'
 description: Diet providing 25-35% of calories from protein (1.6-2.4 g/kg/day), emphasizing
   lean meats, fish, eggs, dairy, and legumes. Supports muscle protein synthesis, satiety,
   and body composition improvement.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: High-Protein Diet
 type: intervention
-updated: '2026-04-19T18:22:20.574347Z'
+updated: '2026-04-21T16:52:58.960829Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.963062Z'
+created: '2026-04-21T16:52:58.660280Z'
 description: A type of cancer that starts in the thyroid gland, with papillary thyroid
   carcinoma being the most common and generally treatable form.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Thyroid Cancer
 type: condition
-updated: '2026-04-19T18:22:19.963062Z'
+updated: '2026-04-21T16:52:58.660280Z'
 ---
 
 {% raw %}

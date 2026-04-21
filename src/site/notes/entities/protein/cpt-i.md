@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.881955Z'
+created: '2026-04-21T16:52:59.698529Z'
 description: Carnitine palmitoyltransferase I, the rate-limiting enzyme of long-chain
   fatty acid beta-oxidation. Located on the outer mitochondrial membrane, it transfers
   acyl groups from CoA to carnitine for mitochondrial import.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: CPT-I
 type: protein
-updated: '2026-04-19T18:22:21.881955Z'
+updated: '2026-04-21T16:52:59.698529Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:18.989173Z'
+created: '2026-04-21T16:52:58.069472Z'
 description: High-sensitivity C-reactive protein (hs-CRP) is an acute-phase protein
   produced by the liver in response to systemic inflammation. It is a validated independent
   predictor of cardiovascular disease risk and is used to assess chronic low-grade
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: CRP (hs)
 type: biomarker
-updated: '2026-04-19T18:22:18.989173Z'
+updated: '2026-04-21T16:52:58.069472Z'
 ---
 
 {% raw %}
@@ -81,7 +81,7 @@ updated: '2026-04-19T18:22:18.989173Z'
 INDICATES_ORGAN_HEALTH::<a href="/entities/organ/immune-system/" class="internal-link">Immune System</a> (acute phase reactant reflecting systemic inflammatory status, Evidence Level 1a)</p>
 <h3>Increases Risk For</h3>
 <p>INCREASES_RISK_FOR::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> (when elevated, Evidence Level 1a)<br />
-INCREASES_RISK_FOR::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a> (when elevated, Evidence Level 2a)</p>
+INCREASES_RISK_FOR::<a href="/entities/condition/type-2-diabetes/" class="internal-link">Type 2 Diabetes</a> (when elevated, Evidence Level 2a)</p>
 <h3>Affected By Supplement</h3>
 <p>AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-d/" class="internal-link">vitamin_d</a><br />
 AFFECTED_BY_SUPPLEMENT::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a><br />

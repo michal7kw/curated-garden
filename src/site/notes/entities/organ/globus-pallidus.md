@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.511380Z'
+created: '2026-04-21T16:52:59.522518Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/globus-pallidus/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Globus Pallidus
 type: organ
-updated: '2026-04-19T18:22:21.511380Z'
+updated: '2026-04-21T16:52:59.522518Z'
 ---
 
 {% raw %}

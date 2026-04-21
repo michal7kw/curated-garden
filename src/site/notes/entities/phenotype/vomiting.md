@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.841588Z'
+created: '2026-04-21T16:52:59.676946Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,13 +12,17 @@ tags:
 templateEngineOverride: njk
 title: Vomiting
 type: phenotype
-updated: '2026-04-19T18:22:21.841588Z'
+updated: '2026-04-21T16:52:59.676946Z'
 ---
 
 {% raw %}
 <h1>Vomiting</h1>
-<h2>Description</h2>
-<p>...</p>
+<h2>Overview</h2>
+<p>Vomiting (emesis) is an immensely complex physiological reflex engineered perfectly by the body to successfully eject acutely ingested toxins from the upper gastrointestinal tract violently before they can be completely absorbed into the bloodstream.</p>
+<p>Unlike regurgitation (a passive backflow of food typically caused by a loose esophageal sphincter), vomiting is a highly coordinated, violent muscular explosion directed specifically by the <strong>Emetic Center</strong> deep in the brain's medulla oblongata.</p>
+<p>When triggered (e.g., catching signals from the Chemoreceptor Trigger Zone sampling toxins in the blood, taking extreme signals from the vestibular system predicting poisoning, or direct viral irritation inside the stomach), the brain initiates a severe autonomic sequence. First, massive hypersalivation coats the teeth to shield them from incoming stomach acid. Then, the glottis aggressively slams shut locking the airway to prevent lethal aspiration. Finally, the abdominal walls and diaphragm violently spasm and contract simultaneously, driving massive positive pressure down against the stomach, forcing the entire gastric contents dynamically up through the forcefully relaxed esophagus and out of the mouth.</p>
+<h2>Clinical Pathologies</h2>
+<p>While highly useful acutely (e.g., food poisoning or alcohol overdose), chronic severe vomiting phenotypes (like <em>hyperemesis gravidarum</em> in pregnancy) completely destroy the tooth enamel, trigger massive esophageal tears (Mallory-Weiss tears), and strip the body of severe amounts of hydrogen and chloride ions—creating a massive systemic metabolic alkalosis that can cause terminal cardiac failures if left completely unmitigated.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">multiple mitochondrial dysfunctions syndrome</a><br />

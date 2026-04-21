@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.484663Z'
+created: '2026-04-21T16:52:58.917555Z'
 description: Incretin hormone produced by L-cells in the small intestine that stimulates
   glucose-dependent insulin secretion, suppresses glucagon, delays gastric emptying,
   and promotes satiety. Target of GLP-1 receptor agonists for diabetes and obesity
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: GLP-1
 type: hormone
-updated: '2026-04-19T18:22:20.484663Z'
+updated: '2026-04-21T16:52:58.917555Z'
 ---
 
 {% raw %}

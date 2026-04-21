@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.531784Z'
+created: '2026-04-21T16:52:58.944889Z'
 description: All-animal-product diet eliminating all plant foods. Based on the premise
   that plant antinutrients and fiber may cause digestive issues in sensitive individuals.
   Highly restrictive and controversial.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Carnivore Diet
 type: intervention
-updated: '2026-04-19T18:22:20.531784Z'
+updated: '2026-04-21T16:52:58.944889Z'
 ---
 
 {% raw %}

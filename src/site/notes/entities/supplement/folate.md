@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:22.251763Z'
+created: '2026-04-21T16:52:59.849009Z'
 description: Essential B vitamin (B9) critical for DNA synthesis, methylation, and
   fetal development. Methylfolate (5-MTHF) is the active form that bypasses MTHFR
   genetic issues.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Folate
 type: supplement
-updated: '2026-04-19T18:22:22.251763Z'
+updated: '2026-04-21T16:52:59.849009Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.557114Z'
+created: '2026-04-21T16:52:58.412650Z'
 description: A peptic ulcer that develops in the first part of the small intestine
   (duodenum), causing burning abdominal pain.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Duodenal Ulcer
 type: condition
-updated: '2026-04-19T18:22:19.557114Z'
+updated: '2026-04-21T16:52:58.412650Z'
 ---
 
 {% raw %}

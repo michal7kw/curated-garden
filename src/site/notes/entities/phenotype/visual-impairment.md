@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.838171Z'
+created: '2026-04-21T16:52:59.674404Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,13 +12,19 @@ tags:
 templateEngineOverride: njk
 title: Visual impairment
 type: phenotype
-updated: '2026-04-19T18:22:21.838171Z'
+updated: '2026-04-21T16:52:59.674404Z'
 ---
 
 {% raw %}
 <h1>Visual impairment</h1>
-<h2>Description</h2>
-<p>...</p>
+<h2>Overview</h2>
+<p>Visual impairment acts as the absolute terminal phenotypic expression of optic failure. Because vision requires a perfectly clear physical pathway (cornea → lens → vitreous humor) seamlessly bridging into an immensely complex neurological pathway (retina → optic nerve → visual cortex), disrupting any node on this axis completely collapses the phenotype.</p>
+<p>Clinically, visual impairment is rigidly separated by whether it destroys the core optical hardware or the deep neurological processing software:</p>
+<ol>
+<li><strong>Refractive/Optical Impairment:</strong> Light enters the eye but is physically scattered before it hits the retina. This is predominantly driven by massive protein aggregation clouding the natural lens (<strong>Cataracts</strong>) or the cornea dynamically morphing out of a spherical shape (<strong>Astigmatism/Keratoconus</strong>). It is often mechanically reversible.</li>
+<li><strong>Retinal/Macular Impairment:</strong> The physical optics are flawless, but the specialized photoreceptors processing the light die off. <strong>Age-Related Macular Degeneration (AMD)</strong> violently destroys the central macula (erasing straight-ahead facial recognition), while <strong>Diabetic Retinopathy</strong> causes massive, brittle new blood vessels to aggressively hemorrhage directly across the retinal surface, blinding the patient through blood accumulation.</li>
+<li><strong>Neurological/Cortical Impairment:</strong> Both the lens and the retina work perfectly, but the &quot;data-cables&quot; are violently severed. <strong>Glaucoma</strong> causes massive intraocular pressure that physically crushes the optic nerve, permanently destroying peripheral vision first. Alternatively, a massive stroke in the occipital lobe entirely burns out the brain's visual processing center, rendering a patient mathematically blind despite possessing completely functioning, healthy eyes (Cortical Blindness).</li>
+</ol>
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">45X46XY mixed gonadal dysgenesis</a><br />

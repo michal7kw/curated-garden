@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:22.224864Z'
+created: '2026-04-21T16:52:59.836140Z'
 description: Mitochondrial cofactor supporting cellular energy production
 dg-home: false
 dg-publish: true
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Coenzyme Q10
 type: supplement
-updated: '2026-04-19T18:22:22.224864Z'
+updated: '2026-04-21T16:52:59.836140Z'
 ---
 
 {% raw %}

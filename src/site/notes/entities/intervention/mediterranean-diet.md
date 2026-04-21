@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.596463Z'
+created: '2026-04-21T16:52:58.976743Z'
 description: A dietary pattern emphasizing fruits, vegetables, whole grains, legumes,
   nuts, olive oil, and fish. Associated with reduced risk of cardiovascular disease,
   cognitive decline, and dementia.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Mediterranean Diet
 type: intervention
-updated: '2026-04-19T18:22:20.596463Z'
+updated: '2026-04-21T16:52:58.976743Z'
 ---
 
 {% raw %}
@@ -72,6 +72,6 @@ AFFECTS_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-li
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a> (improved cerebrovascular health, Evidence Level 2a)<br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a> (MIND diet variant, Evidence Level 2a)<br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a> (33% risk reduction, Evidence Level 1a)<br />
-MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a> (23% reduced incidence, Evidence Level 1b)</p>
+MAY_IMPROVE_CONDITION::<a href="/entities/condition/type-2-diabetes/" class="internal-link">Type 2 Diabetes</a> (23% reduced incidence, Evidence Level 1b)</p>
 
 {% endraw %}

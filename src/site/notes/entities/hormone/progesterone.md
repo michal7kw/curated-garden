@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.510152Z'
+created: '2026-04-21T16:52:58.930372Z'
 description: Steroid hormone primarily produced by the corpus luteum and placenta,
   essential for menstrual cycle regulation, pregnancy maintenance, and neuroprotection.
   Also synthesized in the brain as a neurosteroid with anxiolytic and neuroprotective
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Progesterone
 type: hormone
-updated: '2026-04-19T18:22:20.510152Z'
+updated: '2026-04-21T16:52:58.930372Z'
 ---
 
 {% raw %}

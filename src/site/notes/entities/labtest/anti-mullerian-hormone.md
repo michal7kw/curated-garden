@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.712978Z'
+created: '2026-04-21T16:52:59.047368Z'
 description: AMH reflects ovarian reserve (egg count) and fertility potential, at
   the time of the test. This test sheds light on the body’s ability to produce eggs
   for fertilization, particularly if one is nearing menopause or experiencing a hormonal
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: anti_mullerian_hormone
 type: labtest
-updated: '2026-04-19T18:22:20.712978Z'
+updated: '2026-04-21T16:52:59.047368Z'
 ---
 
 {% raw %}

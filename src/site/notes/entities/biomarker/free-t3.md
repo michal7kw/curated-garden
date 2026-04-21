@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.056356Z'
+created: '2026-04-21T16:52:58.090989Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/free-t3/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Free T3
 type: biomarker
-updated: '2026-04-19T18:22:19.056356Z'
+updated: '2026-04-21T16:52:58.090989Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.994170Z'
+created: '2026-04-21T16:52:59.207048Z'
 description: Measures BUN, creatinine, eGFR, cystatin C, and electrolytes to assess
   kidney health.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: kidney_function_panel
 type: labtest
-updated: '2026-04-19T18:22:20.994170Z'
+updated: '2026-04-21T16:52:59.207048Z'
 ---
 
 {% raw %}

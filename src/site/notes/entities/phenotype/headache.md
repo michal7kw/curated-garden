@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.774482Z'
+created: '2026-04-21T16:52:59.646153Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,13 +12,18 @@ tags:
 templateEngineOverride: njk
 title: Headache
 type: phenotype
-updated: '2026-04-19T18:22:21.774482Z'
+updated: '2026-04-21T16:52:59.646153Z'
 ---
 
 {% raw %}
 <h1>Headache</h1>
-<h2>Description</h2>
-<p>...</p>
+<h2>Overview</h2>
+<p>Headache (Cephalalgia) represents an immensely common algogenic phenotype. Geographically, while the pain feels as though the &quot;brain hurts,&quot; the native neural tissue comprising the actual brain structurally completely lacks massive pain receptors (nociceptors). Therefore, the pain generated in a headache exclusively arises from the deep traction, severe inflammation, or massive chemical irritation of the intricate highly-innervated structures explicitly surrounding the brain: the meninges, massive cranial blood vessels, massive scalp muscles, and the trigeminal nerve trunks feeding the face.</p>
+<p>Clinically, neurologists rigidly stratify headaches into primary versus secondary vectors:</p>
+<ol>
+<li><strong>Primary Headaches:</strong> The headache itself is the fundamental disease. Natively, these are tension-type headaches (driven completely by pericranial massive muscle spasms crossing the neck/forehead) and the massive vascular Migraine sequence (driven by immense cortical spreading depression and violent trigeminovascular system vasodilation releasing massive amounts of toxic CGRP).</li>
+<li><strong>Secondary Headaches:</strong> The phenotype is merely massively responding to a severe, underlying structural catastrophe natively demanding extreme attention. This acts as the vector for &quot;thunderclap&quot; headaches completely indicating a massive subarachnoid hemorrhage (a ruptured brain aneurysm), meningitis infection violently irritating the meninges, or a massive glioblastoma tumor geographically pressing down and stretching the dural blood vessels creating agonizing morning intracranial pressure.</li>
+</ol>
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Tension-type headache</a><br />

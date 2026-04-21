@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.433302Z'
+created: '2026-04-21T16:52:58.887013Z'
 description: Support healthy endocrine function across the HPA, HPG, and HPT axes
   with adaptogenic herbs, key micronutrients, and hormone-supporting compounds. Targets
   cortisol regulation, thyroid function, and sex hormone optimization through foundational
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Hormonal Balance
 type: healthstack
-updated: '2026-04-19T18:22:20.433302Z'
+updated: '2026-04-21T16:52:58.887013Z'
 ---
 
 {% raw %}

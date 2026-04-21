@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.658306Z'
+created: '2026-04-21T16:52:59.011015Z'
 description: Low-intensity aerobic exercise accessible to nearly all populations.
   Consistent evidence for reducing all-cause mortality, cardiovascular disease, type
   2 diabetes, depression, and cognitive decline. 7,000-10,000 steps/day associated
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Walking
 type: intervention
-updated: '2026-04-19T18:22:20.658306Z'
+updated: '2026-04-21T16:52:59.011015Z'
 ---
 
 {% raw %}
@@ -68,7 +68,7 @@ AFFECTS_BIOMARKER::<a href="/entities/labtest/hba1c/" class="internal-link">hba1
 <h3>Affects Organ</h3>
 <p>AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a> (hippocampal volume preservation and neurogenesis, Evidence Level 2a)</p>
 <h3>May Improve Condition</h3>
-<p>MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a> (26% reduced incidence with regular walking, Evidence Level 1a)<br />
+<p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/type-2-diabetes/" class="internal-link">Type 2 Diabetes</a> (26% reduced incidence with regular walking, Evidence Level 1a)<br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a> (30% risk reduction with 30 min/day, Evidence Level 1a)<br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> (30-40% reduced risk, Evidence Level 1a)</p>
 

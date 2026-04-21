@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.953430Z'
+created: '2026-04-21T16:52:58.658210Z'
 description: A chronic autoimmune disease where the immune system attacks various
   tissues, causing widespread inflammation and tissue damage in multiple organs.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Systemic Lupus Erythematosus
 type: condition
-updated: '2026-04-19T18:22:19.953430Z'
+updated: '2026-04-21T16:52:58.658210Z'
 ---
 
 {% raw %}

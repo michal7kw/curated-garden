@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.174222Z'
+created: '2026-04-21T16:52:58.199896Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/potassium/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Potassium
 type: biomarker
-updated: '2026-04-19T18:22:19.174222Z'
+updated: '2026-04-21T16:52:58.199896Z'
 ---
 
 {% raw %}

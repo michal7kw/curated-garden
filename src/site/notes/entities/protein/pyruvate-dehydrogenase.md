@@ -2,7 +2,7 @@
 aliases:
 - PDH
 - Pyruvate Dehydrogenase Complex
-created: '2026-04-19T18:22:22.031587Z'
+created: '2026-04-21T16:52:59.745977Z'
 description: Large multi-enzyme complex that bridges glycolysis and the TCA cycle
   by irreversibly converting pyruvate to acetyl-CoA, CO2, and NADH. A critical metabolic
   gateway controlling the entry of carbohydrate-derived carbon into mitochondrial
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Pyruvate Dehydrogenase
 type: protein
-updated: '2026-04-19T18:22:22.031587Z'
+updated: '2026-04-21T16:52:59.745977Z'
 ---
 
 {% raw %}

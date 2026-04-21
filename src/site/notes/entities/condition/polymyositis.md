@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.837059Z'
+created: '2026-04-21T16:52:58.598307Z'
 description: Idiopathic inflammatory myopathy causing symmetric proximal muscle weakness
   without characteristic skin findings. CD8+ T-cell mediated attack on muscle fibers.
   Increasingly recognized as overlapping with antisynthetase syndrome.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Polymyositis
 type: condition
-updated: '2026-04-19T18:22:19.837059Z'
+updated: '2026-04-21T16:52:58.598307Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.287755Z'
+created: '2026-04-21T16:52:58.801793Z'
 description: DMARD combining sulfapyridine and 5-aminosalicylic acid. Used in RA (especially
   seronegative), psoriatic arthritis, and ankylosing spondylitis. Mechanism involves
   NF-kB inhibition and reduction of B-cell function.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Sulfasalazine
 type: drug
-updated: '2026-04-19T18:22:20.287755Z'
+updated: '2026-04-21T16:52:58.801793Z'
 ---
 
 {% raw %}

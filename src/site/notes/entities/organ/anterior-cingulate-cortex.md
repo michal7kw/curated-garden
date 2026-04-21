@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.488788Z'
+created: '2026-04-21T16:52:59.513828Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/anterior-cingulate-cortex/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Anterior Cingulate Cortex
 type: organ
-updated: '2026-04-19T18:22:21.488788Z'
+updated: '2026-04-21T16:52:59.513828Z'
 ---
 
 {% raw %}

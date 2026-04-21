@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.887763Z'
+created: '2026-04-21T16:52:58.629060Z'
 description: Chronic systemic autoimmune disease causing inflammatory destruction
   of synovial joints. Affects 0.5-1% of the population. Driven by TNF-alpha, IL-6,
   and IL-1 mediated inflammation. Early aggressive treatment prevents irreversible
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Rheumatoid Arthritis
 type: condition
-updated: '2026-04-19T18:22:19.887763Z'
+updated: '2026-04-21T16:52:58.629060Z'
 ---
 
 {% raw %}

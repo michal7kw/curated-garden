@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.572104Z'
+created: '2026-04-21T16:52:58.421749Z'
 description: A chronic inflammatory condition in which tissue similar to the endometrium
   grows outside the uterus, causing pain, inflammation, and often infertility.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Endometriosis
 type: condition
-updated: '2026-04-19T18:22:19.572104Z'
+updated: '2026-04-21T16:52:58.421749Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.497943Z'
+created: '2026-04-21T16:52:59.518451Z'
 description: Central organ of the nervous system responsible for cognition, emotion,
   motor control, and regulating bodily functions. Highly metabolically active and
   responsive to numerous supplements.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Brain
 type: organ
-updated: '2026-04-19T18:22:21.497943Z'
+updated: '2026-04-21T16:52:59.518451Z'
 ---
 
 {% raw %}

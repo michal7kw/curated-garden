@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.085120Z'
+created: '2026-04-21T16:52:58.103739Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/hdl-p/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Hdl P
 type: biomarker
-updated: '2026-04-19T18:22:19.085120Z'
+updated: '2026-04-21T16:52:58.103739Z'
 ---
 
 {% raw %}
@@ -84,7 +84,7 @@ updated: '2026-04-19T18:22:19.085120Z'
 <p>RELATED::<a href="/entities/labtest/hdl-cholesterol/" class="internal-link">HDL Cholesterol</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a> (insulin resistance drives low HDL-P with dysfunctional HDL, Evidence Level 1a)<br />
-ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Type 2 Diabetes</a> (diabetic dyslipidemia features low HDL-P, Evidence Level 1a)<br />
+ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/type-2-diabetes/" class="internal-link">Type 2 Diabetes</a> (diabetic dyslipidemia features low HDL-P, Evidence Level 1a)<br />
 ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Atherosclerosis</a> (low HDL-P impairs reverse cholesterol transport from arterial walls, Evidence Level 2a)<br />
 RELATED::<a href="/entities/labtest/ldl-particle-number/" class="internal-link">LDL Particle Number</a> (LDL-P and HDL-P together provide comprehensive particle-based cardiovascular risk assessment, Evidence Level 1a)</p>
 <h3>Indicates Organ Health</h3>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.864750Z'
+created: '2026-04-21T16:52:59.683017Z'
 description: Family of FAD-dependent enzymes catalyzing the first step of each beta-oxidation
   cycle. Introduces a trans double bond in the fatty acyl-CoA chain, producing enoyl-CoA
   and transferring electrons to the ETC via ETF/ETFQO.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Acyl-CoA Dehydrogenase
 type: protein
-updated: '2026-04-19T18:22:21.864750Z'
+updated: '2026-04-21T16:52:59.683017Z'
 ---
 
 {% raw %}

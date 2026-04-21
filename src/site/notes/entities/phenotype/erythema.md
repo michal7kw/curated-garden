@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.756320Z'
+created: '2026-04-21T16:52:59.636881Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,13 +12,15 @@ tags:
 templateEngineOverride: njk
 title: Erythema
 type: phenotype
-updated: '2026-04-19T18:22:21.756320Z'
+updated: '2026-04-21T16:52:59.636881Z'
 ---
 
 {% raw %}
 <h1>Erythema</h1>
-<h2>Description</h2>
-<p>...</p>
+<h2>Overview</h2>
+<p>Erythema represents the fundamental physical manifestation of superficial cutaneous inflammation. Simply put, it is redness of the skin. Unlike bruising (where blood literally bursts out of veins and permanently stains the tissue until macrophages clear it), erythema is strictly caused by the massive expansion (vasodilation) of perfectly intact capillaries resting in the dermis. This excess blood pooling causes the skin to turn bright red and feel extremely warm.</p>
+<p>Because the blood remains safely trapped inside the vessels, pressing down firmly on a patch of erythema forces the blood aside, turning the skin temporarily white (a phenomenon clinically defined as &quot;blanching&quot;).</p>
+<p>The pathological triggers driving this vasodilation are immense. Systemically, it acts as a primary biomarker for localized immune responses mapping to localized skin infections (cellulitis), allergic cascades burning through histamine stores (hives/urticaria), viral exanthems, or deep autoimmune pathology (the classic Malar butterfly rash spanning the face in Systemic Lupus Erythematosus). Additionally, extreme thermal insults like sunburn violently destroy upper epidermal cells, inherently triggering the dermal immune response driving the distinct, painful erythematous sheet.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Necrolytic migratory erythema</a><br />

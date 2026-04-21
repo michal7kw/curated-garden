@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.296830Z'
+created: '2026-04-21T16:52:58.247035Z'
 description: Membrane-bound organelle containing the cell's genetic material (DNA).
   Controls gene expression, DNA replication, and RNA processing. Enclosed by a double
   nuclear envelope with nuclear pores for selective transport. Contains the nucleolus
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Nucleus
 type: cellularcomponent
-updated: '2026-04-19T18:22:19.296830Z'
+updated: '2026-04-21T16:52:58.247035Z'
 ---
 
 {% raw %}

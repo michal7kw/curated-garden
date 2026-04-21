@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.241336Z'
+created: '2026-04-21T16:52:59.373503Z'
 description: Tested twice a year Cholesterol is produced by the liver and is essential
   for various bodily functions like making hormones and vitamin D, building cell membranes,
   and supporting brain function. Total cholesterol is a measure of the total amount
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: total_cholesterol
 type: labtest
-updated: '2026-04-19T18:22:21.241336Z'
+updated: '2026-04-21T16:52:59.373503Z'
 ---
 
 {% raw %}

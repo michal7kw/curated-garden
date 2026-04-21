@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:22.536524Z'
+created: '2026-04-21T16:52:59.972699Z'
 description: Essential trace mineral involved in 300+ enzymatic reactions, critical
   for immune function, testosterone synthesis, wound healing, DNA synthesis, and taste/smell
   perception. Second most abundant trace mineral in the body after iron. Deficiency
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Zinc
 type: supplement
-updated: '2026-04-19T18:22:22.536524Z'
+updated: '2026-04-21T16:52:59.972699Z'
 ---
 
 {% raw %}

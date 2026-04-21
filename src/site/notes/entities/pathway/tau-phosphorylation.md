@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.723299Z'
+created: '2026-04-21T16:52:59.615472Z'
 description: The pathological process of excessive tau protein phosphorylation leading
   to microtubule destabilization, tau aggregation, and neurofibrillary tangle formation.
   Central to Alzheimer's disease and other tauopathies.
@@ -16,13 +16,22 @@ tags:
 templateEngineOverride: njk
 title: Tau Phosphorylation
 type: pathway
-updated: '2026-04-19T18:22:21.723299Z'
+updated: '2026-04-21T16:52:59.615472Z'
 ---
 
 {% raw %}
 <h1>Tau Phosphorylation</h1>
-<h2>Description</h2>
-<p>The pathological process of excessive tau protein phosphorylation leading to microtubule destabilization, tau aggregation, and neurofibrillary tangle formation. Central to Alzheimer's disease and other tauopathies.</p>
+<h2>Overview</h2>
+<p>Under normal circumstances, Tau is an absolutely brilliant, flawlessly engineered scaffolding protein. It inherently binds tightly to massive structures known as <em>microtubules</em>, which map precisely down the interior spine of an axon extending out from a neuron. By physically strapping adjacent microtubules together (like railroad ties holding tracks), Tau keeps the neuron's &quot;highway&quot; straight, ensuring absolutely essential nutrients and mitochondria can be shipped smoothly down the axon's enormous length.</p>
+<p>Cells biologically rely on <em>kinases</em> (enzymes that attach tiny phosphate weights) and <em>phosphatases</em> (enzymes that strip phosphates) to mathematically dictate when Tau attaches or detaches.</p>
+<p>However, in pathological &quot;tauopathies,&quot; hostile inflammatory factors violently activate massive armies of kinases (like GSK-3β and CDK5). These radically over-phosphorylate the Tau proteins (known as <strong>hyperphosphorylation</strong>). Strangled by too much phosphate weight, the Tau proteins fundamentally lose their grip, collapsing entirely off the microtubule tracks.</p>
+<p>This causes a dual-catastrophe:</p>
+<ol>
+<li>Without Tau holding them, the axonal microtubules crack, instantly disintegrating the transport highway and starving the distant ends of the neuron.</li>
+<li>The free-floating hyperphosphorylated Tau proteins geometrically bind into themselves, aggregating massively inside the cell body into sticky, indestructible clumps uniquely termed <strong>Neurofibrillary Tangles (NFTs)</strong>. The neuron ultimately chokes to death on them.</li>
+</ol>
+<h2>Clinical Pathologies</h2>
+<p>This explicit hyperphosphorylation pathway constitutes the absolute primary intracellular driver of massive neurological decay driving <strong>Alzheimer's Disease</strong> (working in pathological concert alongside extracellular Amyloid plaques). Massive NFT concentrations are identically seen tracing through Chronic Traumatic Encephalopathy (CTE) stemming from heavy contact sports.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a><br />

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.601875Z'
+created: '2026-04-21T16:52:58.978258Z'
 description: Secular attention-training practice derived from Buddhist Vipassana tradition.
   Involves non-judgmental present-moment awareness of thoughts, sensations, and emotions.
   Distinct from other meditation forms in its emphasis on metacognitive awareness
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Mindfulness Meditation
 type: intervention
-updated: '2026-04-19T18:22:20.601875Z'
+updated: '2026-04-21T16:52:58.978258Z'
 ---
 
 {% raw %}

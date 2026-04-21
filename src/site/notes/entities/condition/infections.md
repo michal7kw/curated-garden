@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.652336Z'
+created: '2026-04-21T16:52:58.469049Z'
 description: A broad category of diseases caused by the invasion and multiplication
   of pathogenic microorganisms (bacteria, viruses, fungi, parasites) in the body.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Infections
 type: condition
-updated: '2026-04-19T18:22:19.652336Z'
+updated: '2026-04-21T16:52:58.469049Z'
 ---
 
 {% raw %}

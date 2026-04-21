@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.014394Z'
+created: '2026-04-21T16:52:58.062373Z'
 description: Copper is an essential trace mineral required as a cofactor for numerous
   enzymes involved in energy production, iron metabolism, connective tissue synthesis,
   neurotransmitter synthesis, and antioxidant defense (superoxide dismutase). Both
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Copper
 type: biomarker
-updated: '2026-04-19T18:22:19.014394Z'
+updated: '2026-04-21T16:52:58.062373Z'
 ---
 
 {% raw %}

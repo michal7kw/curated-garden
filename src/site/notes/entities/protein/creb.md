@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.887598Z'
+created: '2026-04-21T16:52:59.702241Z'
 description: cAMP response element-binding protein, a master transcription factor
   for long-term memory formation and neuronal survival. Activated by phosphorylation
   at Ser133 via PKA, CaMKIV, and MAPK/RSK cascades in response to synaptic activity,
@@ -21,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: CREB
 type: protein
-updated: '2026-04-19T18:22:21.887598Z'
+updated: '2026-04-21T16:52:59.702241Z'
 ---
 
 {% raw %}

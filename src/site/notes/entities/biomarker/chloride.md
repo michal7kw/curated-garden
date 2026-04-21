@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.001686Z'
+created: '2026-04-21T16:52:58.057134Z'
 description: Chloride is the primary anion in the extracellular fluid and a major
   electrolyte. It works alongside sodium and potassium to maintain osmotic pressure,
   fluid balance, and the acid-base (pH) status of the body.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Chloride
 type: biomarker
-updated: '2026-04-19T18:22:19.001686Z'
+updated: '2026-04-21T16:52:58.057134Z'
 ---
 
 {% raw %}

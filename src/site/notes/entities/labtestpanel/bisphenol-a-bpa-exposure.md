@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.316819Z'
+created: '2026-04-21T16:52:59.424476Z'
 description: Measures your urine levels of Bisphenol A (BPA), an endocrine disruptor
   found in plastics that is associated with hormone disruption and metabolic health
   issues. BPA is found in plastics, canned foods, thermal paper receipts, and cosmetics
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: bisphenol_a_bpa_exposure
 type: labtestpanel
-updated: '2026-04-19T18:22:21.316819Z'
+updated: '2026-04-21T16:52:59.424476Z'
 ---
 
 {% raw %}

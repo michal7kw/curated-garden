@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.425270Z'
+created: '2026-04-21T16:52:58.881971Z'
 description: Optimize the gut microbiome and intestinal barrier integrity with targeted
   probiotics, prebiotics, and gut-healing compounds. A healthy gut is foundational
   to immune function, mental health (gut-brain axis), nutrient absorption, and systemic
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Gut Health
 type: healthstack
-updated: '2026-04-19T18:22:20.425270Z'
+updated: '2026-04-21T16:52:58.881971Z'
 ---
 
 {% raw %}

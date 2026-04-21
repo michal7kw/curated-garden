@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.665944Z'
+created: '2026-04-21T16:52:59.590511Z'
 description: Interleukin-6 signals through classical (membrane-bound IL-6R) and trans
   (soluble IL-6R) pathways, activating JAK1/JAK2 and STAT3. Drives CRP production,
   acute phase response, B-cell differentiation, and Th17 polarization. Central to
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: IL-6 Signaling Pathway
 type: pathway
-updated: '2026-04-19T18:22:21.665944Z'
+updated: '2026-04-21T16:52:59.590511Z'
 ---
 
 {% raw %}

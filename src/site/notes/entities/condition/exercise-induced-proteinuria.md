@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.581192Z'
+created: '2026-04-21T16:52:58.428386Z'
 description: A transient and generally benign increase in the excretion of protein
   in the urine following strenuous physical activity.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Exercise-Induced Proteinuria
 type: condition
-updated: '2026-04-19T18:22:19.581192Z'
+updated: '2026-04-21T16:52:58.428386Z'
 ---
 
 {% raw %}

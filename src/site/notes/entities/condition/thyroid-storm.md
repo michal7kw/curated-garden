@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.967893Z'
+created: '2026-04-21T16:52:58.661292Z'
 description: A life-threatening medical emergency characterized by a sudden, extreme
   overproduction of thyroid hormones, leading to a hypermetabolic state.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Thyroid Storm
 type: condition
-updated: '2026-04-19T18:22:19.967893Z'
+updated: '2026-04-21T16:52:58.661292Z'
 ---
 
 {% raw %}

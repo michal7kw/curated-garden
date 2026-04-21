@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.418212Z'
+created: '2026-04-21T16:52:59.481696Z'
 description: Six-carbon tricarboxylic acid that is the first intermediate of the citric
   acid cycle. Formed by condensation of acetyl-CoA with oxaloacetate, citrate also
   serves as a key regulator of glycolysis and fatty acid synthesis.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Citrate
 type: metabolite
-updated: '2026-04-19T18:22:21.418212Z'
+updated: '2026-04-21T16:52:59.481696Z'
 ---
 
 {% raw %}

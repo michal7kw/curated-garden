@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.618961Z'
+created: '2026-04-21T16:52:58.457247Z'
 description: A chronic viral infection that attacks the body's immune system, specifically
   CD4 T cells, potentially leading to AIDS if untreated.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: HIV Infections
 type: condition
-updated: '2026-04-19T18:22:19.618961Z'
+updated: '2026-04-21T16:52:58.457247Z'
 ---
 
 {% raw %}

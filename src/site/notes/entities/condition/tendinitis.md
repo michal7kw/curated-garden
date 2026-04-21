@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:19.959239Z'
+created: '2026-04-21T16:52:58.659728Z'
 description: Inflammation or irritation of a tendon from repetitive use, overload,
   or age-related degeneration. Common sites -- rotator cuff, Achilles, patellar, lateral
   epicondyle (tennis elbow). Now understood as continuum with tendinosis in chronic
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Tendinitis
 type: condition
-updated: '2026-04-19T18:22:19.959239Z'
+updated: '2026-04-21T16:52:58.659728Z'
 ---
 
 {% raw %}

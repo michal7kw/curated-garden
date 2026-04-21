@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.644793Z'
+created: '2026-04-21T16:52:59.580725Z'
 description: Gluconeogenesis is the metabolic pathway that synthesizes glucose from
   non-carbohydrate precursors, essential for maintaining blood glucose during fasting
   and providing glucose to glucose-dependent tissues.
@@ -16,13 +16,20 @@ tags:
 templateEngineOverride: njk
 title: Gluconeogenesis
 type: pathway
-updated: '2026-04-19T18:22:21.644793Z'
+updated: '2026-04-21T16:52:59.580725Z'
 ---
 
 {% raw %}
 <h1>Gluconeogenesis</h1>
-<h2>Description</h2>
-<p>Gluconeogenesis is the metabolic pathway that synthesizes glucose from non-carbohydrate precursors, essential for maintaining blood glucose during fasting and providing glucose to glucose-dependent tissues.</p>
+<h2>Overview</h2>
+<p>Gluconeogenesis (literally &quot;creation of new sugar&quot;) acts as the absolute ultimate metabolic failsafe pathway. It is the massively complex, highly energy-expensive biochemical process primarily executed by the <strong>Liver</strong> (and to a lesser extent, the renal cortex) to synthesize fresh glucose molecules completely from non-carbohydrate carbon substrates (like lactic acid, glycerol from fat, and glucogenic amino acids).</p>
+<p>Because the human brain and red blood cells rely absolutely mathematically on continuous glucose for survival, fasting for even 24 hours entirely depletes the liver's stored glycogen. To prevent the brain from violently slipping into a hypoglycemic coma and dying, the liver instantly flips the metabolic switch. Driven by massive Glucagon and Cortisol signaling, it violently runs the glycolysis pathway in reverse (bypassing three irreversible thermodynamic roadblocks using specific powerhouse enzymes like <em>PEPCK</em> and <em>Glucose-6-Phosphatase</em>).</p>
+<h2>Clinical Pathologies</h2>
+<p>Because generating glucose is a matter of absolute life and death, disrupting this pathway results in catastrophic systemic collapse:</p>
+<ul>
+<li><strong>Alcohol-Induced Hypoglycemia:</strong> Heavy binge drinking violently forces the massive metabolism of ethanol in the liver. This specifically mathematically drains all the available NAD+ supplies, converting them into NADH. Without NAD+, the liver structurally cannot convert lactic acid into pyruvate, instantly shattering the entire gluconeogenesis pathway. A starved patient who heavily binge drinks will suffer massive, lethal hypoglycemia.</li>
+<li><strong>Von Gierke Disease (GSD Type I):</strong> A devastating autosomal recessive failure where the liver completely lacks the <em>Glucose-6-Phosphatase</em> enzyme. The liver can synthesize the sugar completely up to the final step, but cannot cut the phosphate lock. The sugar remains permanently trapped inside the liver cells, causing massive hepatomegaly and brutal fasting hypoglycemia in infants.</li>
+</ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Biotin</a><br />

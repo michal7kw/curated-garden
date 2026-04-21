@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.304794Z'
+created: '2026-04-21T16:52:58.808423Z'
 description: Humanized monoclonal antibody against the IL-6 receptor. Blocks both
   soluble and membrane-bound IL-6 receptor signaling. Unique among RA biologics in
   being effective as monotherapy without methotrexate. Also approved for giant cell
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Tocilizumab
 type: drug
-updated: '2026-04-19T18:22:20.304794Z'
+updated: '2026-04-21T16:52:58.808423Z'
 ---
 
 {% raw %}

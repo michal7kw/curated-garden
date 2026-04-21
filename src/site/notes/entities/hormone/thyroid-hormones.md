@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.514229Z'
+created: '2026-04-21T16:52:58.932965Z'
 description: Thyroid hormones (T4/thyroxine and T3/triiodothyronine) regulate metabolism,
   energy production, growth, and development in virtually every tissue. Essential
   for normal brain development, body temperature regulation, and metabolic rate.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Thyroid Hormones
 type: hormone
-updated: '2026-04-19T18:22:20.514229Z'
+updated: '2026-04-21T16:52:58.932965Z'
 ---
 
 {% raw %}

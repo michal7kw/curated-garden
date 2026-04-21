@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:18.909789Z'
+created: '2026-04-21T16:52:57.983385Z'
 description: Central relay station of the brain, processing and routing nearly all
   sensory information (except olfaction) to the cerebral cortex. Also involved in
   consciousness, alertness, and pain perception.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Thalamus
 type: anatomy
-updated: '2026-04-19T18:22:18.909789Z'
+updated: '2026-04-21T16:52:57.983385Z'
 ---
 
 {% raw %}

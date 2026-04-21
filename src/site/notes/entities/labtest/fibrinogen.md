@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.877351Z'
+created: '2026-04-21T16:52:59.147176Z'
 description: Clotting factor and acute phase reactant. Elevated in inflammation and
   cardiovascular disease.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: fibrinogen
 type: labtest
-updated: '2026-04-19T18:22:20.877351Z'
+updated: '2026-04-21T16:52:59.147176Z'
 ---
 
 {% raw %}

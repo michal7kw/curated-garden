@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:22.286365Z'
+created: '2026-04-21T16:52:59.863681Z'
 description: Essential trace element required for thyroid hormone synthesis (T3 and
   T4). Critical for metabolic regulation, cognitive development, and overall health.
   Deficiency remains common worldwide.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Iodine
 type: supplement
-updated: '2026-04-19T18:22:22.286365Z'
+updated: '2026-04-21T16:52:59.863681Z'
 ---
 
 {% raw %}

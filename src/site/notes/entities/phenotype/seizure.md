@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:21.822770Z'
+created: '2026-04-21T16:52:59.667082Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,13 +12,19 @@ tags:
 templateEngineOverride: njk
 title: Seizure
 type: phenotype
-updated: '2026-04-19T18:22:21.822770Z'
+updated: '2026-04-21T16:52:59.667082Z'
 ---
 
 {% raw %}
 <h1>Seizure</h1>
-<h2>Description</h2>
-<p>...</p>
+<h2>Overview</h2>
+<p>A seizure acts as the ultimate neurological short-circuit. It is a violent phenotypic manifestation occurring exclusively when the brain’s delicate balance between massive excitatory signaling (Glutamate) and protective inhibitory breaking tone (GABA) is catastrophically lost. This failure permits millions of neurons to discharge simultaneously in an uncontrolled electrical storm.</p>
+<p>While seizures represent the absolute hallmark phenotype diagnosing recurrent Epilepsy, they can be triggered acutely in mechanically healthy brains via extreme external insults: massive ischemic strokes, toxic stimulant overdoses, catastrophic alcohol withdrawal (depleting GABA), or severe metabolic derangements (such as profound hypoglycemia where neurons fire wildly as they starve).</p>
+<p>Clinically, seizures map into two major topographical categories:</p>
+<ul>
+<li><strong>Focal (Partial) Seizures:</strong> The electrical storm is strictly restricted to one specific quadrant of one cerebral hemisphere. The physical symptoms match the geography: a storm strictly in the left frontal motor strip may just cause uncontrollable jerking of the right hand without any loss of consciousness.</li>
+<li><strong>Generalized Seizures:</strong> The electrical storm instantly engulfs the entire cortex bilaterally, immediately erasing conscious awareness. The most iconic representation is the generalized tonic-clonic (Grand Mal) seizure, forcing cyclical rigid muscular stiffening (tonic) combined with violent rhythmic bilateral jerking (clonic).</li>
+</ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Generalized-onset seizure</a><br />

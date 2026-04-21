@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.085306Z'
+created: '2026-04-21T16:52:58.710330Z'
 description: PEGylated Fab' fragment of anti-TNF antibody. Unique among TNF inhibitors
   -- lacks Fc region so does not cross the placenta -- preferred TNF inhibitor in
   pregnancy and breastfeeding. Also does not activate complement or cause ADCC.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Certolizumab Pegol
 type: drug
-updated: '2026-04-19T18:22:20.085306Z'
+updated: '2026-04-21T16:52:58.710330Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:18.914688Z'
+created: '2026-04-21T16:52:57.985085Z'
 description: Programmed cell death mechanism essential for tissue homeostasis, immune
   regulation, and elimination of damaged or potentially cancerous cells through an
   orderly cascade of caspase activation.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Apoptosis
 type: biologicalprocess
-updated: '2026-04-19T18:22:18.914688Z'
+updated: '2026-04-21T16:52:57.985085Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.715746Z'
+created: '2026-04-21T16:52:59.049544Z'
 description: an-tee-noo-klee-ur an-tih-bod-eez pat-urn The antinuclear antibodies
   (ANA) pattern analyzes the specific patterns of antibody staining on cells, providing
   detailed information that can help differentiate between various autoimmune diseases.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: antinuclear_antibodies_ana_pattern
 type: labtest
-updated: '2026-04-19T18:22:20.715746Z'
+updated: '2026-04-21T16:52:59.049544Z'
 ---
 
 {% raw %}

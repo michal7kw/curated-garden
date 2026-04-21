@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:22.426045Z'
+created: '2026-04-21T16:52:59.921153Z'
 description: Polyphenol found in red wine and grapes that activates sirtuins and mimics
   caloric restriction effects. Supports cardiovascular health and longevity pathways.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Resveratrol
 type: supplement
-updated: '2026-04-19T18:22:22.426045Z'
+updated: '2026-04-21T16:52:59.921153Z'
 ---
 
 {% raw %}

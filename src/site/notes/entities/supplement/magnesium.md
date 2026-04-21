@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:22.335124Z'
+created: '2026-04-21T16:52:59.879144Z'
 description: Essential mineral for muscle, nerve, and enzymatic function
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Magnesium
 type: supplement
-updated: '2026-04-19T18:22:22.335124Z'
+updated: '2026-04-21T16:52:59.879144Z'
 ---
 
 {% raw %}

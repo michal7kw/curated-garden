@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.131245Z'
+created: '2026-04-21T16:52:58.730935Z'
 description: GLP-1 receptor agonist for type 2 diabetes. First-in-class incretin mimetic
   derived from Gila monster saliva (exendin-4). Available as twice-daily injection
   (Byetta) and once-weekly extended-release (Bydureon/Bydureon BCise). Pioneered the
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Exenatide
 type: drug
-updated: '2026-04-19T18:22:20.131245Z'
+updated: '2026-04-21T16:52:58.730935Z'
 ---
 
 {% raw %}

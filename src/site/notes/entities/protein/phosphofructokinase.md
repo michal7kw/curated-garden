@@ -3,7 +3,7 @@ aliases:
 - PFK
 - PFK-1
 - Phosphofructokinase-1
-created: '2026-04-19T18:22:22.024260Z'
+created: '2026-04-21T16:52:59.743956Z'
 description: Rate-limiting enzyme of glycolysis, catalyzing the phosphorylation of
   fructose-6-phosphate to fructose-1,6-bisphosphate. The most important regulatory
   point of glycolytic flux, integrating signals from energy status, pH, and hormones
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Phosphofructokinase
 type: protein
-updated: '2026-04-19T18:22:22.024260Z'
+updated: '2026-04-21T16:52:59.743956Z'
 ---
 
 {% raw %}

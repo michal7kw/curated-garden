@@ -1,5 +1,5 @@
 ---
-created: '2026-04-19T18:22:20.201049Z'
+created: '2026-04-21T16:52:58.764657Z'
 description: MCT8 Oil refers to medium-chain triglyceride oil, but the '8' is likely
   a typo for C8 (caprylic acid), a specific MCT known for its rapid conversion to
   ketones and potential cognitive benefits. It is a dietary fat derived from coconut
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: MCT8 Oil
 type: drug
-updated: '2026-04-19T18:22:20.201049Z'
+updated: '2026-04-21T16:52:58.764657Z'
 ---
 
 {% raw %}
