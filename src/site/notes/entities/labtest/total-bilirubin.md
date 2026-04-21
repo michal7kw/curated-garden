@@ -1,0 +1,83 @@
+---
+created: '2026-04-19T18:22:21.238706Z'
+description: Tested twice a year Total bilirubin measures all forms of bilirubin,
+  a yellow substance made when the body breaks down old red blood cells. Normally,
+  the liver processes bilirubin so it can be removed from the body. Measuring total
+  bilirubin provides a broad view of liver function and can help detect liver disease,
+  bile duct problems, or other metabolic concerns.
+dg-home: false
+dg-publish: true
+permalink: /entities/labtest/total-bilirubin/
+slug: total-bilirubin
+tags:
+- labtest
+templateEngineOverride: njk
+title: total_bilirubin
+type: labtest
+updated: '2026-04-19T18:22:21.238706Z'
+---
+
+{% raw %}
+<h1>Total Bilirubin</h1>
+<h2>Overview</h2>
+<p>Tested twice a year Total bilirubin measures all forms of bilirubin, a yellow substance made when the body breaks down old red blood cells. Normally, the liver processes bilirubin so it can be removed from the body. Measuring total bilirubin provides a broad view of liver function and can help detect liver disease, bile duct problems, or other metabolic concerns.</p>
+<p><strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
+<h2>Test Information</h2>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Category</strong></td>
+<td>Blood Panel</td>
+</tr>
+<tr>
+<td><strong>Subcategory</strong></td>
+<td>Null</td>
+</tr>
+<tr>
+<td><strong>Sample Type</strong></td>
+<td>Blood</td>
+</tr>
+<tr>
+<td><strong>Collection Method</strong></td>
+<td>Venipuncture</td>
+</tr>
+<tr>
+<td><strong>Turnaround Time</strong></td>
+<td>null-null days</td>
+</tr>
+</tbody>
+</table>
+<h2>Recommended For</h2>
+<h3>Supplement Monitoring</h3>
+<p>No specific supplement monitoring recommendations.</p>
+<h3>Conditions</h3>
+<p>General health screening.</p>
+<h2>Reference Ranges</h2>
+<p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
+<h2>Relationships</h2>
+<h3>Related</h3>
+<p>RELATED::<a href="/entities/condition/gilberts-syndrome/" class="internal-link">Gilberts Syndrome</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Liver Inflammation Hepatitis Cirrhosis</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Medication-Induced Liver Injury</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hemolytic Anemia</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Bile Duct Blockage Gallstones Tumors</a></p>
+<h3>Enriched</h3>
+<p>MEASURES::<a href="/entities/biomarker/bilirubin-total/" class="internal-link">Bilirubin Total</a><br />
+INDICATES::<a href="/entities/condition/liver-disease/" class="internal-link">Liver Disease</a><br />
+ASSOCIATED_WITH::<a href="/entities/organ/liver/" class="internal-link">Liver</a></p>
+<h2>Notes</h2>
+<ul>
+<li>Results should be interpreted by a qualified healthcare provider</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>Individual factors (age, sex, health status) affect interpretation</li>
+</ul>
+<hr />
+<p><em>Last Updated: 2026-03-11T14:28:49.323801+00:00</em></p>
+
+{% endraw %}

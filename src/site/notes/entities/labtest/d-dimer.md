@@ -1,0 +1,81 @@
+---
+created: '2026-04-19T18:22:20.836219Z'
+description: D-Dimer test. Measures fibrin degradation products in the blood. Primarily
+  used to rule out venous thromboembolism (DVT and PE). High negative predictive value
+  when combined with clinical probability scoring.
+dg-home: false
+dg-publish: true
+permalink: /entities/labtest/d-dimer/
+slug: d-dimer
+tags:
+- labtest
+templateEngineOverride: njk
+title: d_dimer
+type: labtest
+updated: '2026-04-19T18:22:20.836219Z'
+---
+
+{% raw %}
+<h1>D-Dimer</h1>
+<h2>Overview</h2>
+<p>D-Dimer test. Measures fibrin degradation products in the blood. Primarily used to rule out venous thromboembolism (DVT and PE). High negative predictive value when combined with clinical probability scoring.</p>
+<p><strong>Evidence Level:</strong> ⭐⭐⭐ (3/5)</p>
+<h2>Test Information</h2>
+<table>
+<thead>
+<tr>
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Category</strong></td>
+<td>Coagulation</td>
+</tr>
+<tr>
+<td><strong>Subcategory</strong></td>
+<td>Null</td>
+</tr>
+<tr>
+<td><strong>Sample Type</strong></td>
+<td>Blood</td>
+</tr>
+<tr>
+<td><strong>Collection Method</strong></td>
+<td>Venipuncture</td>
+</tr>
+<tr>
+<td><strong>Turnaround Time</strong></td>
+<td>null-null days</td>
+</tr>
+</tbody>
+</table>
+<h2>Biomarkers Measured</h2>
+<p>This test measures the following biomarkers:</p>
+<ul>
+<li><a href="/entities/labtest/d-dimer/" class="internal-link">d dimer</a></li>
+</ul>
+<h2>Recommended For</h2>
+<h3>Supplement Monitoring</h3>
+<p>No specific supplement monitoring recommendations.</p>
+<h3>Conditions</h3>
+<p>General health screening.</p>
+<h2>Reference Ranges</h2>
+<p>Reference ranges vary by laboratory and testing method. Consult your healthcare provider for interpretation.</p>
+<h2>Relationships</h2>
+<h3>Included In</h3>
+<p>INCLUDED_IN::<a href="/entities/labtestpanel/coagulation-panel/" class="internal-link">coagulation panel</a></p>
+<h3>Enriched</h3>
+<p>INDICATES::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />
+ASSOCIATED_WITH::<a href="/entities/organ/blood/" class="internal-link">Blood</a></p>
+<h2>Notes</h2>
+<ul>
+<li>Results should be interpreted by a qualified healthcare provider</li>
+<li>Reference ranges may vary by laboratory</li>
+<li>Individual factors (age, sex, health status) affect interpretation</li>
+</ul>
+<hr />
+<p><em>Last Updated: 2026-03-11T13:47:02.049876+00:00</em></p>
+
+{% endraw %}
