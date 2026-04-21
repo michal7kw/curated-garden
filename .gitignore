@@ -1,5 +1,6 @@
 node_modules/
 dist/
+dist-legacy/
 .cache/
 .env
 *.log
@@ -8,3 +9,6 @@ dist/
 src/site/notes/entities/
 .vercel
 .minify-cache/
+
+# Output of scripts/detect-excalidraw-usage.js (local workflow artifact)
+files_needing_excalidraw_flag.txt
