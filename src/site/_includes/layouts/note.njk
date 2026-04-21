@@ -125,8 +125,10 @@
     {% for imp in dynamics.notes.footer %}
       {% include imp %}
     {% endfor %}
-    {# Excalidraw interactivity for embedded drawings #}
-    {%include "components/excalidrawScript.njk"%}
+    {# Excalidraw interactivity — only load for notes that actually embed drawings
+       (opt-in via `excalidraw: true` in frontmatter). Saves ~12.8 KB on plain notes.
+       `layouts/diagram.njk` includes the script unconditionally. #}
+    {% if excalidraw === true %}{% include "components/excalidrawScript.njk" %}{% endif %}
     {%include "components/lucideIcons.njk"%}
   </body>
 </html>

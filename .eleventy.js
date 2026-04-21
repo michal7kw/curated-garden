@@ -654,24 +654,51 @@ module.exports = function (eleventyConfig) {
     return parsed.innerHTML;
   });
 
-  eleventyConfig.addTransform('htmlMinifier', (content, outputPath) => {
-    if (
-      (process.env.NODE_ENV === 'production' || process.env.ELEVENTY_ENV === 'prod') &&
-      outputPath &&
-      outputPath.endsWith('.html')
-    ) {
-      return htmlMinifier.minify(content, {
-        useShortDoctype: true,
-        removeComments: true,
-        collapseWhitespace: true,
-        conservativeCollapse: true,
-        preserveLineBreaks: true,
-        minifyCSS: true,
-        minifyJS: true,
-        keepClosingSlash: true,
-      });
+  // ============================================================
+  // HTML minifier — dual-path (parallel worker pool OR legacy serial).
+  // Legacy path gated by MKG_USE_LEGACY_MINIFIER=1 for OptiPlex backup runbook.
+  // ============================================================
+  const { createPool } = require('./src/build/minify-pool');
+  const useLegacyMinifier = process.env.MKG_USE_LEGACY_MINIFIER === '1';
+  const minifierOptions = {
+    useShortDoctype: true,
+    removeComments: true,
+    collapseWhitespace: true,
+    conservativeCollapse: true,
+    preserveLineBreaks: true,
+    minifyCSS: true,
+    minifyJS: true,
+    keepClosingSlash: true,
+  };
+
+  // Lazily initialize the pool on first transform call (avoids spawning workers
+  // for dev builds where NODE_ENV !== 'production').
+  let _pool = null;
+
+  eleventyConfig.addTransform('htmlMinifier', async function (content, outputPath) {
+    if (!outputPath || !outputPath.endsWith('.html')) return content;
+    const isProd = process.env.NODE_ENV === 'production' || process.env.ELEVENTY_ENV === 'prod';
+    if (!isProd) return content;
+
+    if (useLegacyMinifier) {
+      // Legacy path: direct sync-ish call. Same as pre-Phase-1 behavior.
+      return htmlMinifier.minify(content, minifierOptions);
     }
-    return content;
+
+    if (!_pool) _pool = createPool();
+    return _pool.minify(content, outputPath, minifierOptions);
+  });
+
+  // Terminate the worker pool once Eleventy has finished writing all files.
+  // Without this, ref'd workers keep Node's event loop alive forever and the
+  // build process hangs instead of exiting. unref'ing workers at spawn time
+  // is not viable because pending Promises don't count as event-loop handles
+  // — beforeExit would fire mid-build and kill workers prematurely.
+  eleventyConfig.on('eleventy.after', () => {
+    if (_pool) {
+      _pool.terminate();
+      _pool = null;
+    }
   });
 
   eleventyConfig.addPassthroughCopy('src/site/img');
