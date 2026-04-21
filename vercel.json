@@ -4,6 +4,30 @@
   "buildCommand": "npm run build",
   "devCommand": "npm run start",
   "routes": [
+    {
+      "src": "^/(filetree|graph|searchIndex)\\.json$",
+      "headers": {
+        "Cache-Control": "public, max-age=86400, must-revalidate"
+      },
+      "continue": true
+    },
+    {
+      "src": "^/(scripts|styles|assets)/.*",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable"
+      },
+      "continue": true
+    },
+    {
+      "src": "^/.*",
+      "headers": {
+        "X-Frame-Options": "DENY",
+        "X-Content-Type-Options": "nosniff",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://cdnjs.cloudflare.com https://fastly.jsdelivr.net https://unpkg.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdnjs.cloudflare.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https:; connect-src 'self'; frame-ancestors 'none'"
+      },
+      "continue": true
+    },
     { "handle": "filesystem" },
     {
       "src": "^/personal-health-dashboard/?$",
@@ -16,28 +40,5 @@
       "headers": { "Location": "/entities/$1/$2/" }
     },
     { "src": "/(.*)", "status": 404, "dest": "/404" }
-  ],
-  "headers": [
-    {
-      "source": "/(filetree|graph|searchIndex)\\.json",
-      "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=86400, must-revalidate" }
-      ]
-    },
-    {
-      "source": "/(scripts|styles|assets)/(.*)",
-      "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
-      ]
-    },
-    {
-      "source": "/(.*)",
-      "headers": [
-        { "key": "X-Frame-Options", "value": "DENY" },
-        { "key": "X-Content-Type-Options", "value": "nosniff" },
-        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
-        { "key": "Content-Security-Policy", "value": "default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://cdnjs.cloudflare.com https://fastly.jsdelivr.net https://unpkg.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdnjs.cloudflare.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https:; connect-src 'self'; frame-ancestors 'none'" }
-      ]
-    }
   ]
 }
