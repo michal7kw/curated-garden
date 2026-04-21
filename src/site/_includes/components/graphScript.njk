@@ -45,6 +45,11 @@
         return existing, n_remaining;
     }
 
+    // Cap local subgraph to this many nodes — keeps force-graph simulation
+    // snappy and the rendered graph readable. Current node is always kept;
+    // neighbors (in BFS order from getNextLevelNeighbours) fill the rest.
+    const MAX_LOCAL_NODES = 20;
+
     function filterLocalGraphData(graphData, depth) {
         if (graphData == null) {
             return null;
@@ -73,9 +78,16 @@
         for (let i = 0; i < depth; i++) {
             existing, remaining = getNextLevelNeighbours(existing, remaining);
         }
-        nodes = Object.values(existing);
+        let nodes = Object.values(existing);
         if (!currentNode.home) {
             nodes = nodes.filter(n => !n.home);
+        }
+        // Cap at MAX_LOCAL_NODES — keep current node first, then first N-1 others.
+        if (nodes.length > MAX_LOCAL_NODES) {
+            const currentIdx = nodes.findIndex(n => n.current);
+            const currentN = currentIdx >= 0 ? nodes.splice(currentIdx, 1)[0] : null;
+            nodes = nodes.slice(0, MAX_LOCAL_NODES - (currentN ? 1 : 0));
+            if (currentN) nodes.unshift(currentN);
         }
         let ids = nodes.map((n) => n.id);
         return {
