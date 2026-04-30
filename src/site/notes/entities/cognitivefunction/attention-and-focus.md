@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.281892Z'
+created: '2026-04-30T06:30:58.399879Z'
 description: Cognitive capacity to selectively concentrate on relevant stimuli while
   ignoring distractors. Comprises multiple subtypes (sustained, selective, divided,
   executive, orienting) mediated by distinct but overlapping neural circuits. The
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Attention and Focus
 type: cognitivefunction
-updated: '2026-04-21T16:52:58.281892Z'
+updated: '2026-04-30T06:30:58.399879Z'
 ---
 
 {% raw %}
@@ -56,9 +56,9 @@ SUPPORTED_BY_REGION::<a href="/entities/anatomy/parietal-lobe/" class="internal-
 SUPPORTED_BY_REGION::<a href="/entities/anatomy/locus-coeruleus/" class="internal-link">Locus Coeruleus</a><br />
 SUPPORTED_BY_REGION::<a href="/entities/anatomy/basal-forebrain/" class="internal-link">Basal Forebrain</a></p>
 <h3>Modulated By Neurotransmitter</h3>
-<p>MODULATED_BY_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
-MODULATED_BY_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
-MODULATED_BY_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a><br />
+<p>MODULATED_BY_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Norepinephrine</a><br />
+MODULATED_BY_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
+MODULATED_BY_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Acetylcholine</a><br />
 MODULATED_BY_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/glutamate/" class="internal-link">Glutamate</a></p>
 <h3>Improved By Intervention</h3>
 <p>IMPROVED_BY_INTERVENTION::<a href="/entities/intervention/meditation/" class="internal-link">Meditation</a><br />

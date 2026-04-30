@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.972699Z'
+created: '2026-04-30T06:31:04.977932Z'
 description: Essential trace mineral involved in 300+ enzymatic reactions, critical
   for immune function, testosterone synthesis, wound healing, DNA synthesis, and taste/smell
   perception. Second most abundant trace mineral in the body after iron. Deficiency
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Zinc
 type: supplement
-updated: '2026-04-21T16:52:59.972699Z'
+updated: '2026-04-30T06:31:04.977932Z'
 ---
 
 {% raw %}
@@ -88,9 +88,9 @@ TARGETS_BIOMARKER::<a href="/entities/labtest/zonulin/" class="internal-link">zo
 <p>AFFECTS_ORGAN::<a href="/entities/organ/immune-system/" class="internal-link">Immune System</a><br />
 AFFECTS_ORGAN::<a href="/entities/organ/skin/" class="internal-link">Skin</a><br />
 AFFECTS_ORGAN::<a href="/entities/organ/thyroid/" class="internal-link">Thyroid</a><br />
-MODULATES_NEUROTRANSMITTER::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
+MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">GABA</a><br />
 RELATED::<a href="/entities/biomarker/copper/" class="internal-link">Copper</a><br />
-RELATED::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">GABA</a><br />
 RELATED::<a href="/entities/supplement/iron/" class="internal-link">Iron</a><br />
 RELATED::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
 RELATED::<a href="/entities/supplement/selenium/" class="internal-link">Selenium</a><br />

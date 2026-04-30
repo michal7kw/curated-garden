@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.611922Z'
+created: '2026-04-30T06:31:03.428310Z'
 description: Serotonergic projections from the dorsal and median raphe nuclei to widespread
   cortical and subcortical targets. Modulates mood, sleep, appetite, pain, and cognition.
   Primary target of SSRI antidepressants.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Raphe Serotonin Pathway
 type: pathway
-updated: '2026-04-21T16:52:59.611922Z'
+updated: '2026-04-30T06:31:03.428310Z'
 ---
 
 {% raw %}

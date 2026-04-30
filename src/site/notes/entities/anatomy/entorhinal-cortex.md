@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:57.970046Z'
+created: '2026-04-30T06:30:56.884068Z'
 description: Medial temporal lobe structure serving as the primary gateway between
   the hippocampus and neocortex. Contains grid cells essential for spatial navigation.
   One of the first regions affected in Alzheimer's disease, making it critical for
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Entorhinal Cortex
 type: anatomy
-updated: '2026-04-21T16:52:57.970046Z'
+updated: '2026-04-30T06:30:56.884068Z'
 ---
 
 {% raw %}
@@ -44,7 +44,7 @@ SUPPORTS_FUNCTION::<a class="internal-link is-unresolved" href="/404">Spatial Na
 <p>CONNECTED_TO::<a href="/entities/anatomy/temporal-lobe/" class="internal-link">Temporal Lobe</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/neurotransmitter/glutamate/" class="internal-link">Glutamate</a><br />
-RELATED::<a href="/entities/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a></p>
+RELATED::<a class="internal-link is-unresolved" href="/404">Acetylcholine</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:25407566</li>

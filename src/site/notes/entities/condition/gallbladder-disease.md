@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.434549Z'
+created: '2026-04-30T06:30:58.976153Z'
 description: A range of conditions affecting the gallbladder, most commonly involving
   gallstones or inflammation (cholecystitis).
 dg-home: false
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Gallbladder Disease
 type: condition
-updated: '2026-04-21T16:52:58.434549Z'
+updated: '2026-04-30T06:30:58.976153Z'
 ---
 
 {% raw %}
@@ -47,7 +47,7 @@ RELATED::<a href="/entities/labtest/lipase/" class="internal-link">lipase</a><br
 AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Gallbladder</a><br />
 AFFECTS_ORGAN::<a href="/entities/organ/liver/" class="internal-link">Liver</a></p>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/biomarker/bilirubin/" class="internal-link">Bilirubin</a><br />
+<p>ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Bilirubin</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/alkaline-phosphatase/" class="internal-link">Alkaline Phosphatase</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/alanine-transaminase/" class="internal-link">Alanine Transaminase</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/total-cholesterol/" class="internal-link">Total Cholesterol</a><br />

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.014048Z'
+created: '2026-04-30T06:31:01.072381Z'
 description: Mind-body practice combining physical postures (asana), breathwork (pranayama),
   and meditation. Evidence supports benefits for stress reduction, flexibility, balance,
   chronic pain, anxiety, and cardiovascular risk factors. Multiple styles range from
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Yoga
 type: intervention
-updated: '2026-04-21T16:52:59.014048Z'
+updated: '2026-04-30T06:31:01.072381Z'
 ---
 
 {% raw %}
@@ -55,7 +55,7 @@ updated: '2026-04-21T16:52:59.014048Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a> (27% increase in brain GABA after single session)<br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">GABA</a> (27% increase in brain GABA after single session)<br />
 RELATED::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
 RELATED::<a href="/entities/intervention/breathwork/" class="internal-link">Breathwork</a> (pranayama is the breathwork component of yoga)<br />
 RELATED::<a href="/entities/intervention/grounding/" class="internal-link">Grounding</a> (outdoor yoga on natural surfaces combines both)<br />

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.076067Z'
+created: '2026-04-30T06:30:57.605333Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/dhea-s/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Dhea S
 type: biomarker
-updated: '2026-04-21T16:52:58.076067Z'
+updated: '2026-04-30T06:30:57.605333Z'
 ---
 
 {% raw %}

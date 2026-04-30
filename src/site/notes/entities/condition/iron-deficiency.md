@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.261851Z'
+created: '2026-04-30T06:30:58.294186Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/condition/iron-deficiency/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Iron Deficiency
 type: condition
-updated: '2026-04-21T16:52:58.261851Z'
+updated: '2026-04-30T06:30:58.294186Z'
 ---
 
 {% raw %}

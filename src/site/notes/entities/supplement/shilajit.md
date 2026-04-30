@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.935112Z'
+created: '2026-04-30T06:31:04.829128Z'
 description: Mineral-rich exudate found in high-altitude rock formations (Himalayas,
   Altai, Caucasus), formed over centuries from decomposed plant matter. Contains fulvic
   acid, dibenzo-alpha-pyrones (DBPs), and 80+ trace minerals. Traditional Ayurvedic
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Shilajit
 type: supplement
-updated: '2026-04-21T16:52:59.935112Z'
+updated: '2026-04-30T06:31:04.829128Z'
 ---
 
 {% raw %}

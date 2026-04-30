@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.486454Z'
+created: '2026-04-30T06:31:02.748527Z'
 description: First committed step of glycolysis, formed by hexokinase phosphorylation
   of glucose. Key branch point metabolite directing carbon flux toward glycolysis,
   pentose phosphate pathway, or glycogen synthesis.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Glucose-6-Phosphate
 type: metabolite
-updated: '2026-04-21T16:52:59.486454Z'
+updated: '2026-04-30T06:31:02.748527Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.594066Z'
+created: '2026-04-30T06:31:03.347353Z'
 description: Noradrenergic projections from the locus coeruleus to virtually all brain
   regions. Controls arousal, attention, and the stress response. Tonic firing maintains
   wakefulness; phasic firing enhances signal-to-noise for attention.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Locus Coeruleus Norepinephrine Pathway
 type: pathway
-updated: '2026-04-21T16:52:59.594066Z'
+updated: '2026-04-30T06:31:03.347353Z'
 ---
 
 {% raw %}
@@ -32,12 +32,12 @@ updated: '2026-04-21T16:52:59.594066Z'
 <h2>Relationships</h2>
 <h3>Related To</h3>
 <p>RELATED::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal_Cortex</a><br />
-RELATED::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Norepinephrine</a><br />
 RELATED::<a href="/entities/anatomy/amygdala/" class="internal-link">Amygdala</a><br />
 RELATED::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a><br />
 RELATED::<a href="/entities/anatomy/locus-coeruleus/" class="internal-link">Locus_Coeruleus</a></p>
 <h3>Associated With</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
+<p>ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Norepinephrine</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a></p>
 <h3>Associated With Condition</h3>

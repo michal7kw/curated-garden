@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.748795Z'
+created: '2026-04-30T06:31:00.241109Z'
 description: Chimeric (mouse/human) monoclonal antibody against TNF-alpha (brand Remicade).
   First anti-TNF biologic approved for RA. Given IV in combination with methotrexate.
   Effective in granulomatous diseases unlike etanercept.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Infliximab
 type: drug
-updated: '2026-04-21T16:52:58.748795Z'
+updated: '2026-04-30T06:31:00.241109Z'
 ---
 
 {% raw %}

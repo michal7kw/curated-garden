@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:57.976733Z'
+created: '2026-04-30T06:30:56.925010Z'
 description: The Parietal Lobe is a major structural division of the cerebral cortex,
   forming the superior lateral quadrant of the brain. It functions as the critical
   integration center for somatosensory processing mapping, complex spatial awareness,
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Parietal Lobe
 type: anatomy
-updated: '2026-04-21T16:52:57.976733Z'
+updated: '2026-04-30T06:30:56.925010Z'
 ---
 
 {% raw %}

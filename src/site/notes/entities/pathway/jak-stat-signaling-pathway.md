@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.592043Z'
+created: '2026-04-30T06:31:03.343482Z'
 description: The Janus kinase-signal transducer and activator of transcription (JAK-STAT)
   pathway is a principal signaling mechanism for cytokines and growth factors. JAK1/2/3
   and TYK2 phosphorylate STAT proteins upon cytokine receptor activation, driving
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: JAK-STAT Signaling Pathway
 type: pathway
-updated: '2026-04-21T16:52:59.592043Z'
+updated: '2026-04-30T06:31:03.343482Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.544238Z'
+created: '2026-04-30T06:31:03.126558Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/red-nucleus/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Red Nucleus
 type: organ
-updated: '2026-04-21T16:52:59.544238Z'
+updated: '2026-04-30T06:31:03.126558Z'
 ---
 
 {% raw %}

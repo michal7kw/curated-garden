@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.017776Z'
+created: '2026-04-30T06:30:57.117019Z'
 description: Albumin is the most abundant circulating protein in human plasma, synthesized
   exclusively by hepatocytes at a rate of 12-15 g/day. It maintains colloid oncotic
   pressure, transports hormones, fatty acids, drugs, and bilirubin, and serves as
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Albumin
 type: biomarker
-updated: '2026-04-21T16:52:58.017776Z'
+updated: '2026-04-30T06:30:57.117019Z'
 ---
 
 {% raw %}

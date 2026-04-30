@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.556596Z'
+created: '2026-04-30T06:31:03.178157Z'
 description: The hypothesis that amyloid-beta accumulation is the primary initiating
   event in Alzheimer's disease, triggering downstream tau pathology, neuroinflammation,
   synaptic dysfunction, and neuronal death.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Amyloid Cascade
 type: pathway
-updated: '2026-04-21T16:52:59.556596Z'
+updated: '2026-04-30T06:31:03.178157Z'
 ---
 
 {% raw %}

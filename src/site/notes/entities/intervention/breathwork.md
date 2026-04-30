@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.941151Z'
+created: '2026-04-30T06:31:00.879496Z'
 description: Deliberate control of breathing patterns to influence autonomic nervous
   system function, stress response, and cognitive state. Encompasses slow breathing
   (4-6 breaths/min for parasympathetic activation), cyclic hyperventilation (Wim Hof,
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Breathwork
 type: intervention
-updated: '2026-04-21T16:52:58.941151Z'
+updated: '2026-04-30T06:31:00.879496Z'
 ---
 
 {% raw %}
@@ -55,12 +55,12 @@ updated: '2026-04-21T16:52:58.941151Z'
 RELATED::<a href="/entities/intervention/yoga/" class="internal-link">Yoga</a> (pranayama is a core breathwork component of yoga)<br />
 RELATED::<a href="/entities/intervention/cold-exposure/" class="internal-link">Cold Exposure</a> (Wim Hof combines breathwork with cold exposure)<br />
 RELATED::<a href="/entities/intervention/sleep-optimization/" class="internal-link">Sleep Optimization</a> (slow breathing improves sleep onset latency)<br />
-RELATED::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a> (slow breathing increases GABAergic tone)<br />
+RELATED::<a class="internal-link is-unresolved" href="/404">GABA</a> (slow breathing increases GABAergic tone)<br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/hypertension/" class="internal-link">Hypertension</a> (slow breathing reduces BP 4-6 mmHg, Evidence Level 1a)<br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/anxiety/" class="internal-link">Anxiety</a> (breathing interventions show moderate anxiolytic effect, Evidence Level 2a)</p>
 <h3>Modulates Hormone</h3>
 <p>MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a> (slow breathing reduces cortisol via HPA axis downregulation, Evidence Level 1b)<br />
-MODULATES_HORMONE::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a> (cyclic hyperventilation increases norepinephrine 2-3x, Evidence Level 2b)<br />
+MODULATES_HORMONE::<a class="internal-link is-unresolved" href="/404">Norepinephrine</a> (cyclic hyperventilation increases norepinephrine 2-3x, Evidence Level 2b)<br />
 MODULATES_HORMONE::<a class="internal-link is-unresolved" href="/404">Epinephrine</a> (Wim Hof method acutely elevates epinephrine, Evidence Level 2b)</p>
 <h3>Modulates Biomarker</h3>
 <p>AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a> (anti-inflammatory effects via vagal tone enhancement, Evidence Level 2b)</p>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.033371Z'
+created: '2026-04-30T06:30:57.276009Z'
 description: Apolipoprotein B (ApoB) is the structural protein present as a single
   copy on every atherogenic lipoprotein particle (VLDL, IDL, LDL, Lp(a)). Because
   each particle contains exactly one ApoB molecule, serum ApoB directly counts the
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Apolipoprotein B
 type: biomarker
-updated: '2026-04-21T16:52:58.033371Z'
+updated: '2026-04-30T06:30:57.276009Z'
 ---
 
 {% raw %}

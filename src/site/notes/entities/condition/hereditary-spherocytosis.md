@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.454206Z'
+created: '2026-04-30T06:30:59.065482Z'
 description: An inherited blood disorder characterized by spherical red blood cells
   that are fragile and prone to premature destruction in the spleen.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Hereditary Spherocytosis
 type: condition
-updated: '2026-04-21T16:52:58.454206Z'
+updated: '2026-04-30T06:30:59.065482Z'
 ---
 
 {% raw %}
@@ -28,7 +28,7 @@ updated: '2026-04-21T16:52:58.454206Z'
 <p>ASSOCIATED_WITH::<a href="/entities/labtest/hemoglobin/" class="internal-link">hemoglobin</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hematocrit/" class="internal-link">hematocrit</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/rbc/" class="internal-link">Rbc</a><br />
-ASSOCIATED_WITH::<a href="/entities/biomarker/bilirubin/" class="internal-link">Bilirubin</a><br />
+ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Bilirubin</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/lactate-dehydrogenase/" class="internal-link">Lactate Dehydrogenase</a></p>
 <h3>Improved By Supplement</h3>
 <p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/folate/" class="internal-link">Folate</a><br />

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.924206Z'
+created: '2026-04-30T06:31:04.800214Z'
 description: Adaptogenic herb that enhances stress resilience, mental performance,
   and physical endurance. Modulates stress hormones and supports dopamine levels.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Rhodiola Rosea
 type: supplement
-updated: '2026-04-21T16:52:59.924206Z'
+updated: '2026-04-30T06:31:04.800214Z'
 ---
 
 {% raw %}
@@ -36,12 +36,12 @@ RELATED::<a href="/entities/supplement/ashwagandha/" class="internal-link">Ashwa
 AFFECTS_ORGAN::<a href="/entities/organ/adrenal-glands/" class="internal-link">Adrenal Glands</a></p>
 <h3>Modulates Neurotransmitter</h3>
 <p>MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
-MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
-MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a></p>
+MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
+MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Norepinephrine</a></p>
 <h3>Affects Organ</h3>
 <h3>Affects Neurotransmitter</h3>
-<p>AFFECTS_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
-AFFECTS_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
+<p>AFFECTS_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Norepinephrine</a><br />
+AFFECTS_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
 AFFECTS_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a></p>
 <h3>Synergistic With</h3>
 <p>SYNERGISTIC_WITH::<a href="/entities/supplement/ashwagandha/" class="internal-link">Ashwagandha</a></p>

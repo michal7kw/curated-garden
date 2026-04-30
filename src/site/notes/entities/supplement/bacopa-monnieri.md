@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.813499Z'
+created: '2026-04-30T06:31:04.267920Z'
 description: An Ayurvedic herb (Brahmi) traditionally used for cognitive enhancement.
   Contains bacosides that support memory consolidation, reduce anxiety, and provide
   neuroprotection through antioxidant mechanisms.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Bacopa Monnieri
 type: supplement
-updated: '2026-04-21T16:52:59.813499Z'
+updated: '2026-04-30T06:31:04.267920Z'
 ---
 
 {% raw %}
@@ -47,7 +47,7 @@ RELATED::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocam
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/anxiety/" class="internal-link">Anxiety</a></p>
 <h3>Modulates Neurotransmitter</h3>
 <p>MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
-MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a></p>
+MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Acetylcholine</a></p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/memory-disorders/" class="internal-link">Memory Disorders</a><br />

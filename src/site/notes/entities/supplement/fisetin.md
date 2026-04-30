@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.846367Z'
+created: '2026-04-30T06:31:04.395516Z'
 description: A plant flavonol with potent senolytic activity — selectively kills senescent
   cells by inhibiting pro-survival PI3K/AKT/mTOR and BCL-2/BCL-xL pathways. Found
   in strawberries, apples, persimmons. Also neuroprotective (BDNF induction, anti-inflammatory)
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Fisetin
 type: supplement
-updated: '2026-04-21T16:52:59.846367Z'
+updated: '2026-04-30T06:31:04.395516Z'
 ---
 
 {% raw %}

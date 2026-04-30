@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.793725Z'
+created: '2026-04-30T06:31:00.480037Z'
 description: Chimeric monoclonal antibody targeting CD20 on B lymphocytes. Depletes
   B cells via ADCC, CDC, and direct apoptosis. Used in RA after TNF-inhibitor failure.
   First-line for ANCA-associated vasculitis. Also used in lymphoma, CLL, and other
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Rituximab
 type: drug
-updated: '2026-04-21T16:52:58.793725Z'
+updated: '2026-04-30T06:31:00.480037Z'
 ---
 
 {% raw %}

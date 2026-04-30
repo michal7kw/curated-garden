@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.542168Z'
+created: '2026-04-30T06:31:03.117901Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/posterior-cingulate-cortex/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Posterior Cingulate Cortex
 type: organ
-updated: '2026-04-21T16:52:59.542168Z'
+updated: '2026-04-30T06:31:03.117901Z'
 ---
 
 {% raw %}

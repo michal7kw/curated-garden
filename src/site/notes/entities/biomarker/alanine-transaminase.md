@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.012152Z'
+created: '2026-04-30T06:30:57.095214Z'
 description: Alanine Transaminase (ALT), also known as SGPT, is a pyridoxal phosphate-dependent
   enzyme found primarily in hepatocyte cytoplasm. It is the most sensitive and specific
   serum enzyme marker for hepatocellular injury, with elevations reflecting liver
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Alanine Transaminase
 type: biomarker
-updated: '2026-04-21T16:52:58.012152Z'
+updated: '2026-04-30T06:30:57.095214Z'
 ---
 
 {% raw %}
@@ -168,7 +168,7 @@ ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/alcohol-use-disorder/" c
 <h3>Correlated With</h3>
 <p>CORRELATED_WITH::<a href="/entities/biomarker/aspartate-aminotransferase/" class="internal-link">Aspartate Aminotransferase</a><br />
 CORRELATED_WITH::<a href="/entities/labtest/homa-ir/" class="internal-link">Homa Ir</a><br />
-CORRELATED_WITH::<a href="/entities/biomarker/bilirubin/" class="internal-link">Bilirubin</a><br />
+CORRELATED_WITH::<a class="internal-link is-unresolved" href="/404">Bilirubin</a><br />
 CORRELATED_WITH::<a href="/entities/biomarker/bilirubin-total/" class="internal-link">Bilirubin Total</a><br />
 CORRELATED_WITH::<a href="/entities/labtest/triglycerides/" class="internal-link">Triglycerides</a></p>
 <h3>Predicts Risk</h3>

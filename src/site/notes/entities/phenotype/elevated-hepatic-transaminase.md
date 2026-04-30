@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.635877Z'
+created: '2026-04-30T06:31:03.503825Z'
 description: A clinical and laboratory phenotype defined by abnormally high levels
   of liver enzymes—predominantly Alanine Transaminase (ALT) and Aspartate Transaminase
   (AST)—in the blood serum, acting as the primary universal biomarker indicating acute
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Elevated hepatic transaminase
 type: phenotype
-updated: '2026-04-21T16:52:59.635877Z'
+updated: '2026-04-30T06:31:03.503825Z'
 ---
 
 {% raw %}

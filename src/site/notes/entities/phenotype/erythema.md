@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.636881Z'
+created: '2026-04-30T06:31:03.510406Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Erythema
 type: phenotype
-updated: '2026-04-21T16:52:59.636881Z'
+updated: '2026-04-30T06:31:03.510406Z'
 ---
 
 {% raw %}

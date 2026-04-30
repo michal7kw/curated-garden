@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.525155Z'
+created: '2026-04-30T06:31:03.027293Z'
 description: Muscular organ that pumps blood throughout the body via the circulatory
   system. Central to cardiovascular health and affected by numerous supplements.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: Heart
 type: organ
-updated: '2026-04-21T16:52:59.525155Z'
+updated: '2026-04-30T06:31:03.027293Z'
 ---
 
 {% raw %}

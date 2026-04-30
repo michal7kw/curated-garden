@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.031330Z'
+created: '2026-04-30T06:30:57.052473Z'
 description: The APOE genotype determines which combination of three common alleles
   (epsilon2, epsilon3, epsilon4) of the Apolipoprotein E gene an individual carries.
   This single genetic locus is the strongest known genetic risk factor for late-onset
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: APOE Genotype
 type: biomarker
-updated: '2026-04-21T16:52:58.031330Z'
+updated: '2026-04-30T06:30:57.052473Z'
 ---
 
 {% raw %}

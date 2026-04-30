@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.799755Z'
+created: '2026-04-30T06:31:00.507132Z'
 description: Selective serotonin reuptake inhibitor (SSRI) antidepressant. First-line
   treatment for depression, anxiety disorders, OCD, and PTSD. Well-studied with favorable
   safety profile.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Sertraline
 type: drug
-updated: '2026-04-21T16:52:58.799755Z'
+updated: '2026-04-30T06:31:00.507132Z'
 ---
 
 {% raw %}
@@ -41,7 +41,7 @@ TREATS::<a href="/entities/condition/anxiety/" class="internal-link">Anxiety</a>
 TREATS::<a class="internal-link is-unresolved" href="/404">PTSD</a></p>
 <h3>Modulates Neurotransmitter</h3>
 <p>MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
-MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
+MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Dopamine</a></p>
 <h3>Affects Brain Region</h3>
 <p>AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a><br />
 AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/raphe-nuclei/" class="internal-link">Raphe Nuclei</a><br />

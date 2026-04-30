@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.665499Z'
+created: '2026-04-30T06:30:59.938166Z'
 description: Major depressive disorder that fails to respond adequately to at least
   two trials of antidepressants of adequate dose and duration (typically ≥6 weeks
   each). Affects approximately 30% of MDD patients. Associated with greater disability,
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Treatment-Resistant Depression
 type: condition
-updated: '2026-04-21T16:52:58.665499Z'
+updated: '2026-04-30T06:30:59.938166Z'
 ---
 
 {% raw %}

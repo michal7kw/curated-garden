@@ -1,7 +1,7 @@
 ---
 aliases:
 - Homa Ir
-created: '2026-04-21T16:52:58.112461Z'
+created: '2026-04-30T06:30:57.800727Z'
 description: Homeostatic Model Assessment for Insulin Resistance (HOMA-IR) is a mathematical
   index and metabolic biomarker calculated from fasting glucose and fasting insulin.
   It is used to quantify insulin resistance and beta-cell function, predominantly
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: HOMA-IR
 type: biomarker
-updated: '2026-04-21T16:52:58.112461Z'
+updated: '2026-04-30T06:30:57.800727Z'
 ---
 
 {% raw %}

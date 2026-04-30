@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.529208Z'
+created: '2026-04-30T06:31:03.047679Z'
 description: Articulations between bones enabling movement. Include synovial joints
   with cartilage, synovial fluid, and ligaments.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: Joints
 type: organ
-updated: '2026-04-21T16:52:59.529208Z'
+updated: '2026-04-30T06:31:03.047679Z'
 ---
 
 {% raw %}

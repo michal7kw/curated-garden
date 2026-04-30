@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.425349Z'
+created: '2026-04-30T06:30:58.928111Z'
 description: A chronic neurological disorder characterized by recurrent, unprovoked
   seizures due to abnormal electrical activity in the brain.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Epilepsy
 type: condition
-updated: '2026-04-21T16:52:58.425349Z'
+updated: '2026-04-30T06:30:58.928111Z'
 ---
 
 {% raw %}

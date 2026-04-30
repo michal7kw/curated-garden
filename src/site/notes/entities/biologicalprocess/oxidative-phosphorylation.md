@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:57.994187Z'
+created: '2026-04-30T06:30:57.000370Z'
 description: Mitochondrial process coupling electron transport through respiratory
   chain complexes I-IV to ATP synthesis via chemiosmotic proton gradient, producing
   approximately 30-32 ATP per glucose molecule.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Oxidative Phosphorylation
 type: biologicalprocess
-updated: '2026-04-21T16:52:57.994187Z'
+updated: '2026-04-30T06:30:57.000370Z'
 ---
 
 {% raw %}

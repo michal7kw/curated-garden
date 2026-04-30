@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.210795Z'
+created: '2026-04-30T06:30:58.066760Z'
 description: Primary male sex hormone and anabolic steroid essential for development
   of male reproductive tissues, muscle mass, bone density, body hair, and overall
   vitality. Also important in females at lower levels.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Testosterone
 type: hormone
-updated: '2026-04-21T16:52:58.210795Z'
+updated: '2026-04-30T06:30:58.066760Z'
 ---
 
 {% raw %}

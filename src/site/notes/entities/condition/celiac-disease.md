@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.364271Z'
+created: '2026-04-30T06:30:58.727480Z'
 description: An autoimmune disorder in which ingestion of gluten leads to immune-mediated
   damage to the small intestinal mucosa, causing malabsorption and systemic inflammation.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Celiac Disease
 type: condition
-updated: '2026-04-21T16:52:58.364271Z'
+updated: '2026-04-30T06:30:58.727480Z'
 ---
 
 {% raw %}

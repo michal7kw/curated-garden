@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.112261Z'
+created: '2026-04-30T06:31:01.323406Z'
 description: Morning cortisol measurement. Important for adrenal function assessment
   and Cushing's/Addison's disease screening.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: cortisol_am
 type: labtest
-updated: '2026-04-21T16:52:59.112261Z'
+updated: '2026-04-30T06:31:01.323406Z'
 ---
 
 {% raw %}

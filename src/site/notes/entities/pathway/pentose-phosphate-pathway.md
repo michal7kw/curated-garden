@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.610896Z'
+created: '2026-04-30T06:31:03.423875Z'
 description: A metabolic pathway parallel to glycolysis that generates NADPH for biosynthesis
   and antioxidant defense, and ribose-5-phosphate for nucleotide synthesis. Essential
   for rapidly dividing cells and cells requiring high antioxidant capacity.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Pentose Phosphate Pathway
 type: pathway
-updated: '2026-04-21T16:52:59.610896Z'
+updated: '2026-04-30T06:31:03.423875Z'
 ---
 
 {% raw %}

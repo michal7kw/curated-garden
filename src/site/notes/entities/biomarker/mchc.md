@@ -1,7 +1,7 @@
 ---
 aliases:
 - Mchc
-created: '2026-04-21T16:52:58.138470Z'
+created: '2026-04-30T06:30:57.910587Z'
 description: Mean Corpuscular Hemoglobin Concentration (MCHC) measures the average
   concentration or tightly packed density of hemoglobin per unit volume in a red blood
   cell. It distinctly categorizes red blood cells as hypochromic (pale) or normochromic,
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: MCHC
 type: biomarker
-updated: '2026-04-21T16:52:58.138470Z'
+updated: '2026-04-30T06:30:57.910587Z'
 ---
 
 {% raw %}

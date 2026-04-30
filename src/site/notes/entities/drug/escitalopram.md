@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.727356Z'
+created: '2026-04-30T06:31:00.159463Z'
 description: The S-enantiomer of citalopram (Lexapro), considered the most selective
   and best-tolerated SSRI. Removed the pharmacologically inactive R-enantiomer, reducing
   dose requirement and potentially improving the QT safety profile. FDA-approved for
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Escitalopram
 type: drug
-updated: '2026-04-21T16:52:58.727356Z'
+updated: '2026-04-30T06:31:00.159463Z'
 ---
 
 {% raw %}

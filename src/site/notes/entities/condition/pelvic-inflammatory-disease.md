@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.580818Z'
+created: '2026-04-30T06:30:59.529449Z'
 description: An infection of the female reproductive organs, often caused by some
   sexually transmitted bacteria.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Pelvic Inflammatory Disease
 type: condition
-updated: '2026-04-21T16:52:58.580818Z'
+updated: '2026-04-30T06:30:59.529449Z'
 ---
 
 {% raw %}

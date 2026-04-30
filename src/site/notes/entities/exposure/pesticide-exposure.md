@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.835928Z'
+created: '2026-04-30T06:31:00.592113Z'
 description: Exposure to agricultural and household pesticides, primarily organophosphates
   and glyphosate-based herbicides, causing acetylcholinesterase inhibition, oxidative
   stress, mitochondrial dysfunction, and increased risk of neurodegenerative disease,
@@ -17,14 +17,14 @@ tags:
 templateEngineOverride: njk
 title: Pesticide Exposure
 type: exposure
-updated: '2026-04-21T16:52:58.835928Z'
+updated: '2026-04-30T06:31:00.592113Z'
 ---
 
 {% raw %}
 <h1>Pesticide Exposure</h1>
 <h2>Overview</h2>
 <p>Pesticide exposure encompasses contact with a diverse array of chemical agents designed to kill, repel, or control pests, including insecticides (organophosphates, carbamates, pyrethroids, neonicotinoids), herbicides (glyphosate, paraquat, 2,4-D, atrazine), and fungicides (mancozeb, chlorothalonil). Human exposure occurs through occupational routes (agricultural workers, pesticide applicators), dietary intake (residues on food), residential use (lawn/garden, indoor pest control), and environmental contamination of water and air. Farmworkers and their families bear a disproportionate exposure burden, with elevated pesticide levels in blood, urine, and household dust samples.</p>
-<p>Organophosphates (OPs) -- including chlorpyrifos, malathion, and diazinon -- exert their primary toxic effect through irreversible inhibition of acetylcholinesterase (AChE), the enzyme that hydrolyzes <a href="/entities/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a> at synaptic clefts. AChE inhibition leads to accumulation of acetylcholine at muscarinic receptors (causing bradycardia, bronchospasm, miosis, salivation, lacrimation, urination, diarrhea, emesis -- the &quot;SLUDGE&quot; syndrome) and nicotinic receptors (causing muscle fasciculation, weakness, and potentially respiratory failure). Beyond acute cholinergic crisis, chronic low-level OP exposure is associated with neurodevelopmental effects in children (reduced IQ, attention deficits, autism spectrum disorder risk), Parkinson's disease risk in adults (potentially through mitochondrial Complex I inhibition), and organophosphate-induced delayed neuropathy (OPIDN) affecting peripheral nerves.</p>
+<p>Organophosphates (OPs) -- including chlorpyrifos, malathion, and diazinon -- exert their primary toxic effect through irreversible inhibition of acetylcholinesterase (AChE), the enzyme that hydrolyzes <a class="internal-link is-unresolved" href="/404">Acetylcholine</a> at synaptic clefts. AChE inhibition leads to accumulation of acetylcholine at muscarinic receptors (causing bradycardia, bronchospasm, miosis, salivation, lacrimation, urination, diarrhea, emesis -- the &quot;SLUDGE&quot; syndrome) and nicotinic receptors (causing muscle fasciculation, weakness, and potentially respiratory failure). Beyond acute cholinergic crisis, chronic low-level OP exposure is associated with neurodevelopmental effects in children (reduced IQ, attention deficits, autism spectrum disorder risk), Parkinson's disease risk in adults (potentially through mitochondrial Complex I inhibition), and organophosphate-induced delayed neuropathy (OPIDN) affecting peripheral nerves.</p>
 <p>Glyphosate (N-phosphonomethylglycine), the active ingredient in Roundup and the world's most widely used herbicide, has become increasingly controversial. Glyphosate inhibits 5-enolpyruvylshikimate-3-phosphate synthase (EPSPS) in the shikimate pathway of plants and microorganisms -- a pathway absent in animals. However, concerns have emerged regarding its effects on the gut microbiome (which uses the shikimate pathway), endocrine disruption (anti-androgenic effects, aromatase induction), and carcinogenicity. IARC classified glyphosate as &quot;probably carcinogenic to humans&quot; (Group 2A) in 2015, primarily based on evidence for non-Hodgkin lymphoma in agricultural workers, while other regulatory agencies (EPA, EFSA) have not concurred.</p>
 <p>The body's defense against pesticide-induced oxidative damage relies heavily on <a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a>-dependent detoxification pathways. Glutathione S-transferases (GSTs) conjugate reactive pesticide metabolites for excretion, and genetic polymorphisms in GST genes (GSTM1-null, GSTT1-null) are associated with increased susceptibility to pesticide-related health effects. <a href="/entities/supplement/nac/" class="internal-link">NAC</a> supplementation supports glutathione synthesis and has demonstrated protective effects against organophosphate-induced oxidative stress in both animal and clinical studies. Reducing dietary pesticide exposure through organic food consumption has been shown to significantly decrease urinary OP metabolite levels within days and is associated with reduced cancer incidence in prospective cohort studies (NutriNet-Sante).</p>
 <h2>Key Mechanisms</h2>
@@ -86,7 +86,7 @@ updated: '2026-04-21T16:52:58.835928Z'
 </tbody>
 </table>
 <h2>Relationships</h2>
-<p>INHIBITS::<a href="/entities/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a><br />
+<p>INHIBITS::<a class="internal-link is-unresolved" href="/404">Acetylcholine</a><br />
 DETOXIFIED_BY::<a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a><br />
 DETOXIFIED_BY::<a href="/entities/supplement/nac/" class="internal-link">NAC</a><br />
 ASSOCIATED_WITH::<a href="/entities/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />

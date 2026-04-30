@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.441244Z'
+created: '2026-04-30T06:30:58.997597Z'
 description: A common, harmless genetic liver disorder in which the liver doesn't
   properly process bilirubin, leading to mild, intermittent jaundice.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Gilberts Syndrome
 type: condition
-updated: '2026-04-21T16:52:58.441244Z'
+updated: '2026-04-30T06:30:58.997597Z'
 ---
 
 {% raw %}
@@ -23,7 +23,7 @@ updated: '2026-04-21T16:52:58.441244Z'
 <p>A common, harmless genetic liver disorder in which the liver doesn't properly process bilirubin, leading to mild, intermittent jaundice.</p>
 <h2>Relationships</h2>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/biomarker/bilirubin/" class="internal-link">Bilirubin</a><br />
+<p>ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Bilirubin</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/alanine-transaminase/" class="internal-link">Alanine Transaminase</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hemoglobin/" class="internal-link">hemoglobin</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/lactate-dehydrogenase/" class="internal-link">Lactate Dehydrogenase</a></p>

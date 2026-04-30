@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.790699Z'
+created: '2026-04-30T06:31:00.467830Z'
 description: Atypical antipsychotic used for schizophrenia, bipolar disorder, and
   adjunctive treatment of depression. Has sedative properties often used off-label
   for insomnia.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Quetiapine
 type: drug
-updated: '2026-04-21T16:52:58.790699Z'
+updated: '2026-04-30T06:31:00.467830Z'
 ---
 
 {% raw %}
@@ -39,14 +39,14 @@ updated: '2026-04-21T16:52:58.790699Z'
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Chromous sulfate</a><br />
-RELATED::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Norepinephrine</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hygromycin B</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Estrone sulfate</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Alpha-1 Adrenergic Receptor</a><br />
 INTERACTS_WITH::<a href="/entities/drug/memantine/" class="internal-link">Memantine</a><br />
 TREATS::<a href="/entities/condition/insomnia/" class="internal-link">Insomnia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Plantago ovata seed</a><br />
-RELATED::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Metocurine iodide</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Schizophrenia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Sedation</a><br />

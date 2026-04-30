@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:57.970563Z'
+created: '2026-04-30T06:30:56.889780Z'
 description: Seahorse-shaped structure in the medial temporal lobe, essential for
   episodic memory formation, spatial navigation, and one of the few brain regions
   where adult neurogenesis occurs.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Hippocampus
 type: anatomy
-updated: '2026-04-21T16:52:57.970563Z'
+updated: '2026-04-30T06:30:56.889780Z'
 ---
 
 {% raw %}

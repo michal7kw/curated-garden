@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.504226Z'
+created: '2026-04-30T06:30:59.214713Z'
 description: A broad range of conditions that damage the liver and impair its essential
   functions, including detoxification, metabolism, and bile production.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Liver Disease
 type: condition
-updated: '2026-04-21T16:52:58.504226Z'
+updated: '2026-04-30T06:30:59.214713Z'
 ---
 
 {% raw %}
@@ -50,7 +50,7 @@ RELATED::<a href="/entities/labtest/iron-binding-capacity/" class="internal-link
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/biomarker/alanine-transaminase/" class="internal-link">Alanine Transaminase</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/alkaline-phosphatase/" class="internal-link">Alkaline Phosphatase</a><br />
-ASSOCIATED_WITH::<a href="/entities/biomarker/bilirubin/" class="internal-link">Bilirubin</a><br />
+ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Bilirubin</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/albumin/" class="internal-link">albumin</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/ferritin/" class="internal-link">ferritin</a></p>
 <h3>Improved By Supplement</h3>

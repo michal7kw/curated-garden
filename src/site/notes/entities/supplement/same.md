@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.930313Z'
+created: '2026-04-30T06:31:04.813208Z'
 description: S-Adenosyl-L-methionine - the body's universal methyl donor. Essential
   for neurotransmitter synthesis, DNA methylation, and cartilage formation. FDA-approved
   for osteoarthritis; used for depression in Europe.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: SAMe
 type: supplement
-updated: '2026-04-21T16:52:59.930313Z'
+updated: '2026-04-30T06:31:04.813208Z'
 ---
 
 {% raw %}
@@ -59,8 +59,8 @@ AFFECTS_ORGAN::<a href="/entities/organ/liver/" class="internal-link">Liver</a> 
 AFFECTS_ORGAN::<a href="/entities/organ/joints/" class="internal-link">Joints</a> (promotes cartilage proteoglycan production, Evidence Level 1b)</p>
 <h3>Modulates Neurotransmitter</h3>
 <p>MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a> (supports serotonin metabolism via methylation, Evidence Level 2a)<br />
-MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a> (supports dopamine metabolism via COMT methylation, Evidence Level 2a)<br />
-MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a> (methyl donor for norepinephrine to epinephrine conversion, Evidence Level 1b)</p>
+MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Dopamine</a> (supports dopamine metabolism via COMT methylation, Evidence Level 2a)<br />
+MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Norepinephrine</a> (methyl donor for norepinephrine to epinephrine conversion, Evidence Level 1b)</p>
 <h3>Requires Cofactor</h3>
 <p>REQUIRES_COFACTOR::<a href="/entities/supplement/vitamin-b12/" class="internal-link">Vitamin B12</a> (required for methionine synthase to recycle homocysteine back to methionine, Evidence Level 1a)<br />
 REQUIRES_COFACTOR::<a href="/entities/supplement/folate/" class="internal-link">Folate</a> (5-MTHF provides methyl group for homocysteine remethylation, Evidence Level 1a)</p>

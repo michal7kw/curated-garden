@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.021347Z'
+created: '2026-04-30T06:30:57.135086Z'
 description: Alkaline Phosphatase (ALP) is a zinc-dependent metalloenzyme found on
   the outer surface of cell membranes in tissues with high transport activity, particularly
   the liver (canalicular membrane of hepatocytes), bone (osteoblasts), intestine,
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Alkaline Phosphatase
 type: biomarker
-updated: '2026-04-21T16:52:58.021347Z'
+updated: '2026-04-30T06:30:57.135086Z'
 ---
 
 {% raw %}

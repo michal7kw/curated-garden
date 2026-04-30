@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.843846Z'
+created: '2026-04-30T06:31:04.381108Z'
 description: Natural pentose sugar that serves as the structural backbone of ATP,
   supporting rapid ATP regeneration particularly in cardiac and skeletal muscle tissue
   under conditions of energy depletion.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: D-Ribose
 type: supplement
-updated: '2026-04-21T16:52:59.843846Z'
+updated: '2026-04-30T06:31:04.381108Z'
 ---
 
 {% raw %}

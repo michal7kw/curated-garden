@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.194761Z'
+created: '2026-04-30T06:30:57.986262Z'
 description: Oxidized LDL is low-density lipoprotein cholesterol that has undergone
   oxidative modification, serving as a key driver of atherosclerotic plaque formation
   and a more specific marker of cardiovascular risk than standard LDL cholesterol.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Oxidized LDL
 type: biomarker
-updated: '2026-04-21T16:52:58.194761Z'
+updated: '2026-04-30T06:30:57.986262Z'
 ---
 
 {% raw %}

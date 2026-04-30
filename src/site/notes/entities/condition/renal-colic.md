@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.621857Z'
+created: '2026-04-30T06:30:59.743614Z'
 description: Severe pain caused by a kidney stone moving through the urinary tract,
   typically blocking the flow of urine.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Renal Colic
 type: condition
-updated: '2026-04-21T16:52:58.621857Z'
+updated: '2026-04-30T06:30:59.743614Z'
 ---
 
 {% raw %}

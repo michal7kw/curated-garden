@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.041299Z'
+created: '2026-04-30T06:30:57.305659Z'
 description: Brain-Derived Neurotrophic Factor (BDNF) is a neurotrophin critical for
   neuronal survival, synaptic plasticity, long-term potentiation, and adult neurogenesis
   in the hippocampus. Serum BDNF levels reflect brain BDNF availability and are reduced
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: BDNF
 type: biomarker
-updated: '2026-04-21T16:52:58.041299Z'
+updated: '2026-04-30T06:30:57.305659Z'
 ---
 
 {% raw %}

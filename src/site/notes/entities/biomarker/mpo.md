@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.144014Z'
+created: '2026-04-30T06:30:57.885300Z'
 description: Myeloperoxidase is a heme peroxidase enzyme released by activated neutrophils
   and monocytes. Elevated levels indicate oxidative stress and vascular inflammation,
   independently predicting acute coronary events and heart failure outcomes.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: MPO
 type: biomarker
-updated: '2026-04-21T16:52:58.144014Z'
+updated: '2026-04-30T06:30:57.885300Z'
 ---
 
 {% raw %}

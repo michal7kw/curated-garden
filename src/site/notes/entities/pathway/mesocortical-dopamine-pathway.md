@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.595577Z'
+created: '2026-04-30T06:31:03.353101Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/pathway/mesocortical-dopamine-pathway/
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Mesocortical Dopamine Pathway
 type: pathway
-updated: '2026-04-21T16:52:59.595577Z'
+updated: '2026-04-30T06:31:03.353101Z'
 ---
 
 {% raw %}
@@ -33,7 +33,7 @@ MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" cla
 MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a><br />
 MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a></p>
 <h3>Associated Biomarker</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
+<p>ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a></p>
 <h3>Associated With Condition</h3>

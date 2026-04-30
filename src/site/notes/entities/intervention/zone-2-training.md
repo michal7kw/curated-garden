@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.017599Z'
+created: '2026-04-30T06:31:01.079615Z'
 description: Moderate-intensity aerobic exercise performed at a pace that allows for
   steady-state fat oxidation and mitochondrial development.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Zone 2 Training
 type: intervention
-updated: '2026-04-21T16:52:59.017599Z'
+updated: '2026-04-30T06:31:01.079615Z'
 ---
 
 {% raw %}

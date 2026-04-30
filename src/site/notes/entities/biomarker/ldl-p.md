@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.130830Z'
+created: '2026-04-30T06:30:57.866353Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/ldl-p/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Ldl P
 type: biomarker
-updated: '2026-04-21T16:52:58.130830Z'
+updated: '2026-04-30T06:30:57.866353Z'
 ---
 
 {% raw %}

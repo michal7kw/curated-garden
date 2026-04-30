@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.572356Z'
+created: '2026-04-30T06:31:03.244851Z'
 description: Distributed network of GABAergic interneurons throughout the cortex and
   subcortical structures. Provides inhibitory balance to excitatory glutamate signaling,
   essential for neural oscillations, information filtering, and seizure prevention.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: GABAergic Cortical Pathway
 type: pathway
-updated: '2026-04-21T16:52:59.572356Z'
+updated: '2026-04-30T06:31:03.244851Z'
 ---
 
 {% raw %}
@@ -36,7 +36,7 @@ MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="intern
 MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/glycine/" class="internal-link">Glycine</a><br />
 MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/taurine/" class="internal-link">Taurine</a></p>
 <h3>Related To</h3>
-<p>RELATED::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">GABA</a><br />
 RELATED::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal_Cortex</a><br />
 RELATED::<a href="/entities/anatomy/thalamus/" class="internal-link">Thalamus</a><br />
 RELATED::<a href="/entities/anatomy/amygdala/" class="internal-link">Amygdala</a><br />
@@ -46,7 +46,7 @@ RELATED::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocam
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/cognitive-dysfunction/" class="internal-link">Cognitive_Dysfunction</a></p>
 <h3>Associated With</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
+<p>ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">GABA</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 ASSOCIATED_WITH::<a href="/entities/neurotransmitter/glutamate/" class="internal-link">Glutamate</a></p>
 

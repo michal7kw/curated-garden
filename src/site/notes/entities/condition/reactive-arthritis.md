@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.619321Z'
+created: '2026-04-30T06:30:59.729715Z'
 description: 'Inflammatory arthritis triggered by infection elsewhere in the body,
   typically GI or GU infections (Chlamydia, Salmonella, Shigella, Yersinia, Campylobacter).
   Classic triad: arthritis, urethritis, conjunctivitis. HLA-B27 positive in 60-80%.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Reactive Arthritis
 type: condition
-updated: '2026-04-21T16:52:58.619321Z'
+updated: '2026-04-30T06:30:59.729715Z'
 ---
 
 {% raw %}

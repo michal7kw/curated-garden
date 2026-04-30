@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.619520Z'
+created: '2026-04-30T06:31:03.459313Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Abdominal pain
 type: phenotype
-updated: '2026-04-21T16:52:59.619520Z'
+updated: '2026-04-30T06:31:03.459313Z'
 ---
 
 {% raw %}

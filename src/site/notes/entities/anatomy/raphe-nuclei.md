@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:57.979298Z'
+created: '2026-04-30T06:30:56.936566Z'
 description: Cluster of nuclei along the brainstem midline, serving as the brain's
   primary source of serotonin. The dorsal raphe nucleus is the largest serotonergic
   nucleus, projecting widely to cortex, hippocampus, amygdala, and basal ganglia.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Raphe Nuclei
 type: anatomy
-updated: '2026-04-21T16:52:57.979298Z'
+updated: '2026-04-30T06:30:56.936566Z'
 ---
 
 {% raw %}

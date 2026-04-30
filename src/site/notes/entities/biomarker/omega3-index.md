@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.192215Z'
+created: '2026-04-30T06:30:57.973285Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/omega3-index/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Omega3 Index
 type: biomarker
-updated: '2026-04-21T16:52:58.192215Z'
+updated: '2026-04-30T06:30:57.973285Z'
 ---
 
 {% raw %}

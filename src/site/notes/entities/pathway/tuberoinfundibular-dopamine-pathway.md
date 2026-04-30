@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.619006Z'
+created: '2026-04-30T06:31:03.448287Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/pathway/tuberoinfundibular-dopamine-pathway/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Tuberoinfundibular Dopamine Pathway
 type: pathway
-updated: '2026-04-21T16:52:59.619006Z'
+updated: '2026-04-30T06:31:03.448287Z'
 ---
 
 {% raw %}
@@ -27,7 +27,7 @@ updated: '2026-04-21T16:52:59.619006Z'
 MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a><br />
 MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a></p>
 <h3>Associated Biomarker</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
+<p>ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Dopamine</a></p>
 <h3>Associated With Condition</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a></p>

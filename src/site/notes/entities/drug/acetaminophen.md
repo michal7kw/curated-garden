@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.689490Z'
+created: '2026-04-30T06:31:00.021453Z'
 description: Analgesic and antipyretic with minimal anti-inflammatory effect. First-line
   for mild-moderate pain. Safe at recommended doses but hepatotoxic in overdose. Most
   common cause of acute liver failure.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Acetaminophen
 type: drug
-updated: '2026-04-21T16:52:58.689490Z'
+updated: '2026-04-30T06:31:00.021453Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.290897Z'
+created: '2026-04-30T06:30:58.455539Z'
 description: Cognitive and affective processes involved in evaluating, anticipating,
   and learning from rewards. The mesolimbic dopamine pathway (VTA to nucleus accumbens)
   is the core circuit. Reward processing drives motivated behavior, decision-making,
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Reward Processing
 type: cognitivefunction
-updated: '2026-04-21T16:52:58.290897Z'
+updated: '2026-04-30T06:30:58.455539Z'
 ---
 
 {% raw %}
@@ -57,9 +57,9 @@ SUPPORTED_BY_REGION::<a href="/entities/anatomy/prefrontal-cortex/" class="inter
 SUPPORTED_BY_REGION::<a href="/entities/anatomy/cingulate-cortex/" class="internal-link">Cingulate Cortex</a><br />
 SUPPORTED_BY_REGION::<a href="/entities/anatomy/amygdala/" class="internal-link">Amygdala</a></p>
 <h3>Modulated By Neurotransmitter</h3>
-<p>MODULATED_BY_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
-MODULATED_BY_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/endorphins/" class="internal-link">Endorphins</a><br />
-MODULATED_BY_NEUROTRANSMITTER::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
+<p>MODULATED_BY_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
+MODULATED_BY_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Endorphins</a><br />
+MODULATED_BY_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">GABA</a><br />
 MODULATED_BY_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/glutamate/" class="internal-link">Glutamate</a><br />
 MODULATED_BY_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a></p>
 <h3>Improved By Intervention</h3>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.550072Z'
+created: '2026-04-30T06:31:03.151561Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/superior-colliculus/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Superior Colliculus
 type: organ
-updated: '2026-04-21T16:52:59.550072Z'
+updated: '2026-04-30T06:31:03.151561Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.307224Z'
+created: '2026-04-30T06:30:58.528302Z'
 description: A progressive neurodegenerative disorder and the most common cause of
   dementia. Characterized by extracellular amyloid-beta plaques and intracellular
   tau neurofibrillary tangles.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Alzheimer's Disease
 type: condition
-updated: '2026-04-21T16:52:58.307224Z'
+updated: '2026-04-30T06:30:58.528302Z'
 ---
 
 {% raw %}

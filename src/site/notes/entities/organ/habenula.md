@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.524642Z'
+created: '2026-04-30T06:31:03.024284Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/habenula/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Habenula
 type: organ
-updated: '2026-04-21T16:52:59.524642Z'
+updated: '2026-04-30T06:31:03.024284Z'
 ---
 
 {% raw %}
@@ -20,7 +20,7 @@ updated: '2026-04-21T16:52:59.524642Z'
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/anatomy/ventral-tegmental-area/" class="internal-link">Ventral Tegmental Area</a><br />
 RELATED::<a href="/entities/anatomy/raphe-nuclei/" class="internal-link">Raphe Nuclei</a><br />
-RELATED::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
 RELATED::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a></p>
 <h3>Supports Function</h3>
 <p>SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/reward-processing/" class="internal-link">Reward Processing</a><br />

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.159531Z'
+created: '2026-04-30T06:31:01.464855Z'
 description: Tested twice a year Glucose is the body’s main source of energy, fueling
   cells throughout the day. Testing glucose levels can reveal early signs of imbalances
   like prediabetes or diabetes, allowing action to be taken sooner. High levels may
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: glucose
 type: labtest
-updated: '2026-04-21T16:52:59.159531Z'
+updated: '2026-04-30T06:31:01.464855Z'
 ---
 
 {% raw %}

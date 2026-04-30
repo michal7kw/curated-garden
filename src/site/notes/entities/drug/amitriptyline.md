@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.692041Z'
+created: '2026-04-30T06:31:00.033906Z'
 description: Tricyclic antidepressant (TCA) that inhibits the reuptake of serotonin
   and norepinephrine. Widely used for depression, neuropathic pain, and migraine prophylaxis.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Amitriptyline
 type: drug
-updated: '2026-04-21T16:52:58.692041Z'
+updated: '2026-04-30T06:31:00.033906Z'
 ---
 
 {% raw %}
@@ -46,7 +46,7 @@ RELATED::<a class="internal-link is-unresolved" href="/404">1-2-Phenylethyl-4-ph
 RELATED::<a class="internal-link is-unresolved" href="/404">Sodium ascorbate</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Neuropathic Pain</a><br />
 TREATS::<a href="/entities/condition/fibromyalgia/" class="internal-link">Fibromyalgia</a><br />
-RELATED::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Norepinephrine</a><br />
 TREATS::<a href="/entities/condition/insomnia/" class="internal-link">Insomnia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Muscarinic Acetylcholine Receptor</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Botulinum Toxin Type B</a><br />

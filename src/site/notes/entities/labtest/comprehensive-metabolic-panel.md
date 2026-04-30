@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.104157Z'
+created: '2026-04-30T06:31:01.299651Z'
 description: 14-test panel measuring glucose, electrolytes, kidney function (BUN,
   creatinine), liver enzymes (ALT, AST, ALP), and proteins.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: comprehensive_metabolic_panel
 type: labtest
-updated: '2026-04-21T16:52:59.104157Z'
+updated: '2026-04-30T06:31:01.299651Z'
 ---
 
 {% raw %}
@@ -76,7 +76,7 @@ updated: '2026-04-21T16:52:59.104157Z'
 <li><a href="/entities/labtest/calcium/" class="internal-link">Calcium</a></li>
 <li><a href="/entities/labtest/total-protein/" class="internal-link">Total Protein</a></li>
 <li><a href="/entities/labtest/albumin/" class="internal-link">albumin</a></li>
-<li><a href="/entities/biomarker/bilirubin/" class="internal-link">Bilirubin</a></li>
+<li><a class="internal-link is-unresolved" href="/404">Bilirubin</a></li>
 <li><a class="internal-link is-unresolved" href="/404">alp</a></li>
 <li><a class="internal-link is-unresolved" href="/404">alt</a></li>
 <li><a class="internal-link is-unresolved" href="/404">ast</a></li>
@@ -96,7 +96,7 @@ RELATED::<a class="internal-link is-unresolved" href="/404">alp</a><br />
 RELATED::<a href="/entities/metabolite/glucose/" class="internal-link">Glucose</a><br />
 RELATED::<a href="/entities/labtest/potassium/" class="internal-link">Potassium</a><br />
 RELATED::<a href="/entities/labtest/chloride/" class="internal-link">chloride</a><br />
-RELATED::<a href="/entities/biomarker/bilirubin/" class="internal-link">Bilirubin</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Bilirubin</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">alt</a><br />
 RELATED::<a href="/entities/labtest/creatinine/" class="internal-link">creatinine</a><br />
 RELATED::<a href="/entities/labtest/sodium/" class="internal-link">Sodium</a><br />

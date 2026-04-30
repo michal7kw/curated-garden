@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.644477Z'
+created: '2026-04-30T06:30:59.831137Z'
 description: A group of inherited red blood cell disorders characterized by abnormal
   hemoglobin (HbS) that causes cells to become rigid and sickle-shaped.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Sickle Cell Disease
 type: condition
-updated: '2026-04-21T16:52:58.644477Z'
+updated: '2026-04-30T06:30:59.831137Z'
 ---
 
 {% raw %}
@@ -27,7 +27,7 @@ updated: '2026-04-21T16:52:58.644477Z'
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/labtest/hemoglobin/" class="internal-link">hemoglobin</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/rbc/" class="internal-link">Rbc</a><br />
-ASSOCIATED_WITH::<a href="/entities/biomarker/bilirubin/" class="internal-link">Bilirubin</a><br />
+ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Bilirubin</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/ferritin/" class="internal-link">ferritin</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>
 <h3>Improved By Supplement</h3>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.514333Z'
+created: '2026-04-30T06:31:02.983695Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/basal-ganglia/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Basal Ganglia
 type: organ
-updated: '2026-04-21T16:52:59.514333Z'
+updated: '2026-04-30T06:31:02.983695Z'
 ---
 
 {% raw %}
@@ -22,7 +22,7 @@ updated: '2026-04-21T16:52:59.514333Z'
 RELATED::<a href="/entities/anatomy/putamen/" class="internal-link">Putamen</a><br />
 RELATED::<a href="/entities/organ/globus-pallidus/" class="internal-link">Globus Pallidus</a><br />
 RELATED::<a href="/entities/anatomy/substantia-nigra/" class="internal-link">Substantia Nigra</a><br />
-RELATED::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
+RELATED::<a class="internal-link is-unresolved" href="/404">Dopamine</a></p>
 <h3>Supports Function</h3>
 <p>SUPPORTS_FUNCTION::<a class="internal-link is-unresolved" href="/404">Motor Planning</a><br />
 SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/executive-function/" class="internal-link">Executive Function</a><br />

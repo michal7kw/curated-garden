@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.639844Z'
+created: '2026-04-30T06:30:59.821838Z'
 description: A life-threatening organ dysfunction caused by a dysregulated host response
   to infection, representing a medical emergency with mortality rates of 20-40%.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Sepsis
 type: condition
-updated: '2026-04-21T16:52:58.639844Z'
+updated: '2026-04-30T06:30:59.821838Z'
 ---
 
 {% raw %}

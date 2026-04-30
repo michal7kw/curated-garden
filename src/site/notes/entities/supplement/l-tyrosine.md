@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.872118Z'
+created: '2026-04-30T06:31:04.515314Z'
 description: Conditionally essential amino acid and primary precursor to the catecholamine
   neurotransmitters (dopamine, norepinephrine, epinephrine) and thyroid hormones (T3,
   T4). Most effective for cognitive enhancement under conditions of stress, sleep
@@ -21,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: L-Tyrosine
 type: supplement
-updated: '2026-04-21T16:52:59.872118Z'
+updated: '2026-04-30T06:31:04.515314Z'
 ---
 
 {% raw %}
@@ -104,11 +104,11 @@ AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a><
 AFFECTS_ORGAN::<a href="/entities/organ/thyroid/" class="internal-link">Thyroid</a></p>
 <h3>Precursor Of</h3>
 <p>PRECURSOR_OF::<a href="/entities/hormone/thyroid-hormones/" class="internal-link">Thyroid Hormones</a><br />
-PRECURSOR_OF::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
-PRECURSOR_OF::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a></p>
+PRECURSOR_OF::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
+PRECURSOR_OF::<a class="internal-link is-unresolved" href="/404">Norepinephrine</a></p>
 <h3>Modulates Neurotransmitter</h3>
-<p>MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
-MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a></p>
+<p>MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
+MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Norepinephrine</a></p>
 <h3>Modulates Hormone</h3>
 <p>MODULATES_HORMONE::<a href="/entities/hormone/thyroid-hormones/" class="internal-link">Thyroid Hormones</a></p>
 <h3>Requires Cofactor</h3>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.747299Z'
+created: '2026-04-30T06:31:00.235440Z'
 description: The first tricyclic antidepressant (TCA) developed. Used for depression
   and nocturnal enuresis (bedwetting) in children.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Imipramine
 type: drug
-updated: '2026-04-21T16:52:58.747299Z'
+updated: '2026-04-30T06:31:00.235440Z'
 ---
 
 {% raw %}
@@ -39,7 +39,7 @@ updated: '2026-04-21T16:52:58.747299Z'
 RELATED::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
 INTERACTS_WITH::<a href="/entities/drug/piracetam/" class="internal-link">Piracetam</a><br />
 RELATED::<a href="/entities/condition/panic-disorder/" class="internal-link">Panic Disorder</a><br />
-RELATED::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Norepinephrine</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Amyl Nitrite</a><br />
 TREATS::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />
 INTERACTS_WITH::<a href="/entities/drug/haloperidol/" class="internal-link">Haloperidol</a><br />
@@ -47,7 +47,7 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Enuresis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Plantago ovata seed</a><br />
 INTERACTS_WITH::<a href="/entities/drug/omeprazole/" class="internal-link">Omeprazole</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">NET</a><br />
-RELATED::<a href="/entities/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Acetylcholine</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Muscarinic Acetylcholine Receptor</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Technetium Tc-99m mebrofenin</a><br />
 RELATED::<a href="/entities/protein/sert/" class="internal-link">SERT</a><br />

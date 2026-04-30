@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.532403Z'
+created: '2026-04-30T06:30:59.316347Z'
 description: Chronic autoimmune demyelinating disease of the central nervous system.
   Immune cells attack the myelin sheath surrounding nerve fibers, causing inflammation,
   demyelination, and progressive neurodegeneration. Affects 2.8 million people worldwide.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Multiple Sclerosis
 type: condition
-updated: '2026-04-21T16:52:58.532403Z'
+updated: '2026-04-30T06:30:59.316347Z'
 ---
 
 {% raw %}

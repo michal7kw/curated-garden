@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.549566Z'
+created: '2026-04-30T06:31:03.145923Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/striatum/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Striatum
 type: organ
-updated: '2026-04-21T16:52:59.549566Z'
+updated: '2026-04-30T06:31:03.145923Z'
 ---
 
 {% raw %}
@@ -21,7 +21,7 @@ updated: '2026-04-21T16:52:59.549566Z'
 <p>RELATED::<a href="/entities/anatomy/caudate-nucleus/" class="internal-link">Caudate Nucleus</a><br />
 RELATED::<a href="/entities/anatomy/putamen/" class="internal-link">Putamen</a><br />
 RELATED::<a href="/entities/anatomy/nucleus-accumbens/" class="internal-link">Nucleus Accumbens</a><br />
-RELATED::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
 RELATED::<a href="/entities/organ/basal-ganglia/" class="internal-link">Basal Ganglia</a></p>
 <h3>Supports Function</h3>
 <p>SUPPORTS_FUNCTION::<a class="internal-link is-unresolved" href="/404">Motor Planning</a><br />

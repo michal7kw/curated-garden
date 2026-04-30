@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.948469Z'
+created: '2026-04-30T06:31:00.896090Z'
 description: Deliberate exposure to cold temperatures (e.g., ice baths, cold showers)
   to trigger hormetic stress responses and metabolic benefits.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Cold Exposure
 type: intervention
-updated: '2026-04-21T16:52:58.948469Z'
+updated: '2026-04-30T06:31:00.896090Z'
 ---
 
 {% raw %}
@@ -61,13 +61,13 @@ updated: '2026-04-21T16:52:58.948469Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/intervention/sauna/" class="internal-link">Sauna</a> (complementary hormetic stressor, contrast therapy)<br />
-RELATED::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a> (250% sustained increase post-exposure)<br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Dopamine</a> (250% sustained increase post-exposure)<br />
 RELATED::<a href="/entities/intervention/breathwork/" class="internal-link">Breathwork</a> (Wim Hof combines cold with hyperventilation breathwork)<br />
 RELATED::<a href="/entities/intervention/mitochondrial-uncoupling/" class="internal-link">Mitochondrial Uncoupling</a> (cold activates UCP1 in BAT)<br />
 RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (BAT thermogenesis is mitochondria-dependent)<br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a> (cold showers associated with reduced depressive symptoms, Evidence Level 3b)</p>
 <h3>Modulates Hormone</h3>
-<p>MODULATES_HORMONE::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a> (200-300% increase within minutes, Evidence Level 2b)<br />
+<p>MODULATES_HORMONE::<a class="internal-link is-unresolved" href="/404">Norepinephrine</a> (200-300% increase within minutes, Evidence Level 2b)<br />
 MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a> (acute transient increase during exposure, Evidence Level 2b)<br />
 MODULATES_HORMONE::<a href="/entities/labtest/adiponectin/" class="internal-link">adiponectin</a> (increased with regular cold exposure, Evidence Level 3a)</p>
 <h3>Modulates Biomarker</h3>

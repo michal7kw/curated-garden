@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.698529Z'
+created: '2026-04-30T06:31:03.777154Z'
 description: Carnitine palmitoyltransferase I, the rate-limiting enzyme of long-chain
   fatty acid beta-oxidation. Located on the outer mitochondrial membrane, it transfers
   acyl groups from CoA to carnitine for mitochondrial import.
@@ -16,16 +16,16 @@ tags:
 templateEngineOverride: njk
 title: CPT-I
 type: protein
-updated: '2026-04-21T16:52:59.698529Z'
+updated: '2026-04-30T06:31:03.777154Z'
 ---
 
 {% raw %}
 <h1>CPT-I (Carnitine Palmitoyltransferase I)</h1>
 <h2>Overview</h2>
-<p>CPT-I is the rate-limiting enzyme of <a href="/entities/pathway/beta-oxidation/" class="internal-link">Beta-Oxidation</a>, located on the outer mitochondrial membrane. It catalyzes the first step of the carnitine shuttle system, converting <a class="internal-link is-unresolved" href="/404">Fatty Acyl-CoA</a> to <a class="internal-link is-unresolved" href="/404">Acylcarnitine</a> for transport across the inner mitochondrial membrane.</p>
+<p>CPT-I is the rate-limiting enzyme of <a href="/entities/pathway/beta-oxidation/" class="internal-link">Beta-Oxidation</a>, located on the outer mitochondrial membrane. It catalyzes the first step of the carnitine shuttle system, converting <a class="internal-link is-unresolved" href="/404">Fatty Acyl-CoA</a> to <a href="/entities/metabolite/acylcarnitine/" class="internal-link">Acylcarnitine</a> for transport across the inner mitochondrial membrane.</p>
 <h2>Mechanism of Action</h2>
 <ul>
-<li><strong>Reaction</strong>: Fatty acyl-CoA + L-carnitine → <a class="internal-link is-unresolved" href="/404">Acylcarnitine</a> + CoA</li>
+<li><strong>Reaction</strong>: Fatty acyl-CoA + L-carnitine → <a href="/entities/metabolite/acylcarnitine/" class="internal-link">Acylcarnitine</a> + CoA</li>
 <li><strong>Rate-limiting</strong>: This is the committed step of fatty acid oxidation — flux through CPT-I determines the rate of beta-oxidation</li>
 <li><strong>Malonyl-CoA inhibition</strong>: Malonyl-CoA (produced by acetyl-CoA carboxylase in the fed state) potently inhibits CPT-I, preventing simultaneous fatty acid synthesis and oxidation</li>
 <li><strong>Isoforms</strong>: CPT1A (liver), CPT1B (muscle/heart), CPT1C (brain)</li>
@@ -47,7 +47,7 @@ updated: '2026-04-21T16:52:59.698529Z'
 <p>RELATED::<a href="/entities/supplement/l-carnitine/" class="internal-link">L-Carnitine</a><br />
 RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 <h3>Catalyzes</h3>
-<p>CATALYZES::<a class="internal-link is-unresolved" href="/404">Acylcarnitine</a><br />
+<p>CATALYZES::<a href="/entities/metabolite/acylcarnitine/" class="internal-link">Acylcarnitine</a><br />
 CATALYZES::<a class="internal-link is-unresolved" href="/404">Fatty_Acyl-CoA</a></p>
 <h3>Participates In</h3>
 <p>PARTICIPATES_IN::<a href="/entities/pathway/beta-oxidation/" class="internal-link">Beta-Oxidation</a></p>

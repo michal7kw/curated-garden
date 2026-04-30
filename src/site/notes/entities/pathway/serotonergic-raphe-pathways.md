@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.613460Z'
+created: '2026-04-30T06:31:03.431330Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/pathway/serotonergic-raphe-pathways/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Serotonergic Raphe Pathways
 type: pathway
-updated: '2026-04-21T16:52:59.613460Z'
+updated: '2026-04-30T06:31:03.431330Z'
 ---
 
 {% raw %}

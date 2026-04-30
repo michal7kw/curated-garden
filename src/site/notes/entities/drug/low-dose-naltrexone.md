@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.763650Z'
+created: '2026-04-30T06:31:00.301047Z'
 description: Ultra-low dose opioid antagonist (1.5-4.5mg) with immunomodulatory and
   anti-inflammatory effects. Off-label use for autoimmune conditions, chronic pain,
   and cancer support. Distinct from standard naltrexone dosing.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Low Dose Naltrexone
 type: drug
-updated: '2026-04-21T16:52:58.763650Z'
+updated: '2026-04-30T06:31:00.301047Z'
 ---
 
 {% raw %}
@@ -46,7 +46,7 @@ TREATS::<a href="/entities/condition/immune-system-disorder/" class="internal-li
 <p>TREATS::<a href="/entities/condition/chronic-inflammation/" class="internal-link">Chronic Inflammation</a><br />
 TREATS::<a href="/entities/condition/chronic-pain/" class="internal-link">Chronic Pain</a></p>
 <h3>Modulates Neurotransmitter</h3>
-<p>MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/endorphins/" class="internal-link">Endorphins</a></p>
+<p>MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Endorphins</a></p>
 <h3>Affects Biomarker</h3>
 <p>AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a></p>
 <h3>Affects Organ</h3>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.901616Z'
+created: '2026-04-30T06:31:04.739857Z'
 description: Essential polyunsaturated fatty acids (EPA and DHA) critical for cardiovascular
   health, brain function, and inflammation reduction. Found naturally in fatty fish
   and available as concentrated supplements.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Omega-3 Fatty Acids
 type: supplement
-updated: '2026-04-21T16:52:59.901616Z'
+updated: '2026-04-30T06:31:04.739857Z'
 ---
 
 {% raw %}
@@ -39,7 +39,7 @@ RELATED::<a class="internal-link is-unresolved" href="/404">CoQ10</a><br />
 RELATED::<a href="/entities/clinicalpattern/cardiovascular-risk-pattern/" class="internal-link">Cardiovascular Risk Pattern</a><br />
 RELATED::<a href="/entities/intervention/keto-diet/" class="internal-link">Keto Diet</a><br />
 RELATED::<a href="/entities/biomarker/ldl/" class="internal-link">Ldl</a><br />
-MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
+MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">hs-CRP</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/anxiety/" class="internal-link">Anxiety</a><br />
 RELATED::<a href="/entities/clinicalpattern/kidney-stress-pattern/" class="internal-link">Kidney Stress Pattern</a><br />

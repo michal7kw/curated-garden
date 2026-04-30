@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.653637Z'
+created: '2026-04-30T06:30:59.880228Z'
 description: Acute cerebrovascular event caused by interrupted blood supply (ischemic,
   87%) or bleeding (hemorrhagic, 13%) in the brain, leading to rapid loss of neurological
   function.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Stroke
 type: condition
-updated: '2026-04-21T16:52:58.653637Z'
+updated: '2026-04-30T06:30:59.880228Z'
 ---
 
 {% raw %}

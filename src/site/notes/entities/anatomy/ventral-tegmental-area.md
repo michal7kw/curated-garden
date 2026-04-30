@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:57.983933Z'
+created: '2026-04-30T06:30:56.955924Z'
 description: Midbrain dopaminergic nucleus and origin of the mesolimbic and mesocortical
   dopamine pathways. Central to reward processing, motivation, reinforcement learning,
   and addiction. Contains dopamine neurons projecting to nucleus accumbens and prefrontal
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Ventral Tegmental Area
 type: anatomy
-updated: '2026-04-21T16:52:57.983933Z'
+updated: '2026-04-30T06:30:56.955924Z'
 ---
 
 {% raw %}
@@ -40,10 +40,10 @@ PROJECTS_TO::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link
 PROJECTS_TO::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/anatomy/amygdala/" class="internal-link">Amygdala</a><br />
-RELATED::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
 RELATED::<a href="/entities/anatomy/substantia-nigra/" class="internal-link">Substantia Nigra</a></p>
 <h3>Produces</h3>
-<p>PRODUCES::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
+<p>PRODUCES::<a class="internal-link is-unresolved" href="/404">Dopamine</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:15450156</li>

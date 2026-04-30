@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.759393Z'
+created: '2026-04-30T06:31:04.063985Z'
 description: Enzyme catalyzing the final thiolytic cleavage step of each beta-oxidation
   cycle. Cleaves 3-ketoacyl-CoA with CoA to release acetyl-CoA and a shortened acyl-CoA,
   which re-enters the cycle.
@@ -15,13 +15,13 @@ tags:
 templateEngineOverride: njk
 title: Thiolase
 type: protein
-updated: '2026-04-21T16:52:59.759393Z'
+updated: '2026-04-30T06:31:04.063985Z'
 ---
 
 {% raw %}
 <h1>Thiolase (3-Ketoacyl-CoA Thiolase)</h1>
 <h2>Overview</h2>
-<p>Thiolase catalyzes the final step of each <a href="/entities/pathway/beta-oxidation/" class="internal-link">Beta-Oxidation</a> cycle, cleaving <a class="internal-link is-unresolved" href="/404">3-Ketoacyl-CoA</a> to release <a href="/entities/metabolite/acetyl-coa/" class="internal-link">Acetyl-CoA</a> and a fatty acyl-CoA chain shortened by two carbons. This completes the cycle and allows the shortened chain to re-enter the next round.</p>
+<p>Thiolase catalyzes the final step of each <a href="/entities/pathway/beta-oxidation/" class="internal-link">Beta-Oxidation</a> cycle, cleaving <a href="/entities/metabolite/3-ketoacyl-coa/" class="internal-link">3-Ketoacyl-CoA</a> to release <a href="/entities/metabolite/acetyl-coa/" class="internal-link">Acetyl-CoA</a> and a fatty acyl-CoA chain shortened by two carbons. This completes the cycle and allows the shortened chain to re-enter the next round.</p>
 <h2>Mechanism of Action</h2>
 <ul>
 <li><strong>Thiolytic cleavage</strong>: 3-Ketoacyl-CoA + CoA → <a href="/entities/metabolite/acetyl-coa/" class="internal-link">Acetyl-CoA</a> + acyl-CoA(n-2)</li>
@@ -46,7 +46,7 @@ updated: '2026-04-21T16:52:59.759393Z'
 <p>RELATED::<a href="/entities/metabolite/coenzyme-a/" class="internal-link">Coenzyme_A</a><br />
 RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 <h3>Catalyzes</h3>
-<p>CATALYZES::<a class="internal-link is-unresolved" href="/404">3-Ketoacyl-CoA</a><br />
+<p>CATALYZES::<a href="/entities/metabolite/3-ketoacyl-coa/" class="internal-link">3-Ketoacyl-CoA</a><br />
 CATALYZES::<a href="/entities/metabolite/acetyl-coa/" class="internal-link">Acetyl-CoA</a></p>
 <h3>Participates In</h3>
 <p>PARTICIPATES_IN::<a href="/entities/pathway/beta-oxidation/" class="internal-link">Beta-Oxidation</a></p>

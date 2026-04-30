@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.535439Z'
+created: '2026-04-30T06:30:59.329796Z'
 description: Myalgia is the medical term for muscle pain or aching. It is a common
   symptom with a broad differential diagnosis spanning from benign self-limiting conditions
   to severe systemic diseases.
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Myalgia
 type: condition
-updated: '2026-04-21T16:52:58.535439Z'
+updated: '2026-04-30T06:30:59.329796Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.754277Z'
+created: '2026-04-30T06:31:04.036521Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: STAT3
 type: gene
-updated: '2026-04-21T16:52:59.754277Z'
+updated: '2026-04-30T06:31:04.036521Z'
 ---
 
 {% raw %}

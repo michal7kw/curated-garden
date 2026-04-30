@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.103739Z'
+created: '2026-04-30T06:30:57.764427Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/hdl-p/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Hdl P
 type: biomarker
-updated: '2026-04-21T16:52:58.103739Z'
+updated: '2026-04-30T06:30:57.764427Z'
 ---
 
 {% raw %}

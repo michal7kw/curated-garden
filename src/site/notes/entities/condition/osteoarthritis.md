@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.558427Z'
+created: '2026-04-30T06:30:59.427506Z'
 description: Most common form of arthritis affecting over 300 million people worldwide.
   Degenerative joint disease involving cartilage loss, subchondral bone remodeling,
   osteophyte formation, and synovial inflammation. Now understood as a whole-joint
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Osteoarthritis
 type: condition
-updated: '2026-04-21T16:52:58.558427Z'
+updated: '2026-04-30T06:30:59.427506Z'
 ---
 
 {% raw %}

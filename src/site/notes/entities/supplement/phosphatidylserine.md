@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.908696Z'
+created: '2026-04-30T06:31:04.761397Z'
 description: Essential phospholipid concentrated in brain cell membranes. Supports
   cognitive function, memory, and stress response. One of few supplements with FDA-qualified
   health claim for cognitive function.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Phosphatidylserine
 type: supplement
-updated: '2026-04-21T16:52:59.908696Z'
+updated: '2026-04-30T06:31:04.761397Z'
 ---
 
 {% raw %}
@@ -33,7 +33,7 @@ updated: '2026-04-21T16:52:59.908696Z'
 RELATED::<a href="/entities/supplement/bacopa-monnieri/" class="internal-link">Bacopa Monnieri</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a></p>
 <h3>Modulates Neurotransmitter</h3>
-<p>MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a></p>
+<p>MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Acetylcholine</a></p>
 <h3>Affects Biomarker</h3>
 <p>AFFECTS_BIOMARKER::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a></p>
 <h3>May Improve Condition</h3>

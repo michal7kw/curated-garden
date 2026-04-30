@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.010088Z'
+created: '2026-04-30T06:30:57.040498Z'
 description: Alpha-fetoprotein (AFP) is a glycoprotein produced primarily by the fetal
   liver and yolk sac during development. In non-pregnant adults, elevated serum AFP
   is a key tumor marker for hepatocellular carcinoma (HCC) and non-seminomatous germ
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: AFP
 type: biomarker
-updated: '2026-04-21T16:52:58.010088Z'
+updated: '2026-04-30T06:30:57.040498Z'
 ---
 
 {% raw %}

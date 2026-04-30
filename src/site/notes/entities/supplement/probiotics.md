@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.912231Z'
+created: '2026-04-30T06:31:04.766568Z'
 description: Live beneficial bacteria that support gut microbiome health. Affect digestion,
   immune function, and even mood through the gut-brain axis. Strain-specific benefits.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Probiotics
 type: supplement
-updated: '2026-04-21T16:52:59.912231Z'
+updated: '2026-04-30T06:31:04.766568Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.791970Z'
+created: '2026-04-30T06:31:04.186461Z'
 description: Drug-induced muscle damage manifesting as myalgia, weakness, and elevated
   creatine kinase, most commonly associated with statin therapy through mitochondrial
   dysfunction and CoQ10 depletion, ranging from mild symptoms to life-threatening
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Myopathy
 type: sideeffect
-updated: '2026-04-21T16:52:59.791970Z'
+updated: '2026-04-30T06:31:04.186461Z'
 ---
 
 {% raw %}

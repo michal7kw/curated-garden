@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:57.987103Z'
+created: '2026-04-30T06:30:56.969540Z'
 description: Evolutionarily conserved cellular self-digestion process that degrades
   and recycles damaged organelles, misfolded proteins, and intracellular pathogens
   through lysosomal machinery, playing key roles in longevity, neurodegeneration,
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Autophagy
 type: biologicalprocess
-updated: '2026-04-21T16:52:57.987103Z'
+updated: '2026-04-30T06:30:56.969540Z'
 ---
 
 {% raw %}

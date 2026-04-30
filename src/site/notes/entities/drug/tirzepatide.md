@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.802306Z'
+created: '2026-04-30T06:31:00.518073Z'
 description: First-in-class dual GIP and GLP-1 receptor agonist ("twincretin") for
   type 2 diabetes and obesity. 39-amino acid linear peptide based on the GIP sequence
   with GLP-1 receptor agonist activity. Demonstrated superior glycemic control and
@@ -24,7 +24,7 @@ tags:
 templateEngineOverride: njk
 title: Tirzepatide
 type: drug
-updated: '2026-04-21T16:52:58.802306Z'
+updated: '2026-04-30T06:31:00.518073Z'
 ---
 
 {% raw %}

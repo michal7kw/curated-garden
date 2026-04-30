@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.796238Z'
+created: '2026-04-30T06:31:00.490073Z'
 description: GLP-1 receptor agonist for type 2 diabetes and obesity. Revolutionary
   drug providing significant weight loss and cardiovascular benefits. Available as
   injectable (Ozempic, Wegovy) and oral (Rybelsus). Demonstrated 15-17% body weight
@@ -21,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: Semaglutide
 type: drug
-updated: '2026-04-21T16:52:58.796238Z'
+updated: '2026-04-30T06:31:00.490073Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.531755Z'
+created: '2026-04-30T06:31:03.060519Z'
 description: Largest internal organ responsible for detoxification, metabolism, bile
   production, and over 500 vital functions. Key target for supplements supporting
   phase I and II detoxification.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Liver
 type: organ
-updated: '2026-04-21T16:52:59.531755Z'
+updated: '2026-04-30T06:31:03.060519Z'
 ---
 
 {% raw %}

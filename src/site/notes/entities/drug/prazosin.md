@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.787473Z'
+created: '2026-04-30T06:31:00.438191Z'
 description: Prazosin is a sympatholytic alpha-1 adrenergic receptor antagonist utilized
   globally for the treatment of essential hypertension, benign prostatic hyperplasia,
   and extensively prescribed off-label for trauma-related nightmares in PTSD.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: PRAZOSIN
 type: drug
-updated: '2026-04-21T16:52:58.787473Z'
+updated: '2026-04-30T06:31:00.438191Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.286007Z'
+created: '2026-04-30T06:30:58.426552Z'
 description: Umbrella term for higher-order cognitive processes that control and coordinate
   other cognitive functions. Core components include working memory, cognitive flexibility,
   and inhibitory control. Primarily mediated by the prefrontal cortex and dependent
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Executive Function
 type: cognitivefunction
-updated: '2026-04-21T16:52:58.286007Z'
+updated: '2026-04-30T06:30:58.426552Z'
 ---
 
 {% raw %}
@@ -55,10 +55,10 @@ SUPPORTED_BY_REGION::<a href="/entities/anatomy/thalamus/" class="internal-link"
 SUPPORTED_BY_REGION::<a href="/entities/anatomy/caudate-nucleus/" class="internal-link">Caudate Nucleus</a><br />
 SUPPORTED_BY_REGION::<a href="/entities/anatomy/putamen/" class="internal-link">Putamen</a></p>
 <h3>Modulated By Neurotransmitter</h3>
-<p>MODULATED_BY_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
-MODULATED_BY_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
+<p>MODULATED_BY_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
+MODULATED_BY_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Norepinephrine</a><br />
 MODULATED_BY_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/glutamate/" class="internal-link">Glutamate</a><br />
-MODULATED_BY_NEUROTRANSMITTER::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a></p>
+MODULATED_BY_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">GABA</a></p>
 <h3>Improved By Intervention</h3>
 <p>IMPROVED_BY_INTERVENTION::<a href="/entities/intervention/exercise/" class="internal-link">Exercise</a><br />
 IMPROVED_BY_INTERVENTION::<a href="/entities/intervention/meditation/" class="internal-link">Meditation</a><br />

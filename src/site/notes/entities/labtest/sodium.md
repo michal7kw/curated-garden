@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.342080Z'
+created: '2026-04-30T06:31:02.138828Z'
 description: Tested twice a year Sodium, an essential electrolyte commonly consumed
   as part of table salt (sodium chloride), plays a vital role in maintaining the body’s
   fluid balance, supporting nerve signaling, and enabling muscle contractions, including
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: sodium
 type: labtest
-updated: '2026-04-21T16:52:59.342080Z'
+updated: '2026-04-30T06:31:02.138828Z'
 ---
 
 {% raw %}

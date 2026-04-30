@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.432774Z'
+created: '2026-04-30T06:31:02.448438Z'
 description: Celiac disease is an autoimmune disorder in which the immune system attacks
   the intestinal lining in response to gluten, a protein found in wheat, barley, and
   rye, affecting an estimated 1 in 141 Americans, though most cases go undiagnosed.
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: celiac_gluten_intolerance
 type: labtestpanel
-updated: '2026-04-21T16:52:59.432774Z'
+updated: '2026-04-30T06:31:02.448438Z'
 ---
 
 {% raw %}

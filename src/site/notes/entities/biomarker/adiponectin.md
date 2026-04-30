@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.007039Z'
+created: '2026-04-30T06:30:57.079072Z'
 description: Adiponectin is an anti-inflammatory adipokine hormone produced exclusively
   by adipose tissue that enhances insulin sensitivity, inhibits hepatic gluconeogenesis,
   and protects against atherosclerosis. It is the most abundant adipokine in circulation
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Adiponectin
 type: biomarker
-updated: '2026-04-21T16:52:58.007039Z'
+updated: '2026-04-30T06:30:57.079072Z'
 ---
 
 {% raw %}

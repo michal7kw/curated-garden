@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.324598Z'
+created: '2026-04-30T06:30:58.579693Z'
 description: Chronic inflammatory airway disease characterized by reversible airflow
   obstruction, bronchial hyperresponsiveness, and airway remodeling. Affects 300 million
   people worldwide. Driven by eosinophilic/allergic (Th2) or neutrophilic/non-allergic
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Asthma
 type: condition
-updated: '2026-04-21T16:52:58.324598Z'
+updated: '2026-04-30T06:30:58.579693Z'
 ---
 
 {% raw %}

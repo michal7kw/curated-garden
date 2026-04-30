@@ -1,7 +1,7 @@
 ---
 aliases:
 - Mcv
-created: '2026-04-21T16:52:58.140992Z'
+created: '2026-04-30T06:30:57.923866Z'
 description: Mean Corpuscular Volume (MCV) is a primary hematological index representing
   the average physical size and volume of a single red blood cell (erythrocyte). It
   is the foundational metric for universally classifying anemias into microcytic,
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: MCV
 type: biomarker
-updated: '2026-04-21T16:52:58.140992Z'
+updated: '2026-04-30T06:30:57.923866Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.341073Z'
+created: '2026-04-30T06:31:02.133803Z'
 description: Binds testosterone and estrogen. Important for calculating free hormone
   levels and assessing metabolic health.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: shbg
 type: labtest
-updated: '2026-04-21T16:52:59.341073Z'
+updated: '2026-04-30T06:31:02.133803Z'
 ---
 
 {% raw %}

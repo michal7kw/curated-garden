@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.821254Z'
+created: '2026-04-30T06:31:00.570906Z'
 description: Asbestos is a group of naturally occurring fibrous silicate minerals.
   Chronic inhalation of asbestos fibers causes mesothelioma, lung cancer, and asbestosis
   (pulmonary fibrosis). Banned or restricted in most countries.
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Azbest
 type: exposure
-updated: '2026-04-21T16:52:58.821254Z'
+updated: '2026-04-30T06:31:00.570906Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.048006Z'
+created: '2026-04-30T06:30:57.347887Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/bilirubin-total/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Bilirubin Total
 type: biomarker
-updated: '2026-04-21T16:52:58.048006Z'
+updated: '2026-04-30T06:30:57.347887Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.045335Z'
+created: '2026-04-30T06:30:57.339518Z'
 description: Direct bilirubin (conjugated bilirubin) is a highly specific hepatic
   biomarker measuring the water-soluble fraction of bilirubin processed by the liver.
   It is primarily utilized diagnostically across clinical settings to pinpoint the
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Bilirubin Direct
 type: biomarker
-updated: '2026-04-21T16:52:58.045335Z'
+updated: '2026-04-30T06:30:57.339518Z'
 ---
 
 {% raw %}
@@ -115,7 +115,7 @@ INDICATES_ORGAN_HEALTH::<a class="internal-link is-unresolved" href="/404">Gallb
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/liver-disease/" class="internal-link">Liver Disease</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/biliary-obstruction/" class="internal-link">Biliary Obstruction</a></p>
 <h3>Included In</h3>
-<p>INCLUDED_IN::<a href="/entities/biomarker/bilirubin/" class="internal-link">Bilirubin</a></p>
+<p>INCLUDED_IN::<a class="internal-link is-unresolved" href="/404">Bilirubin</a></p>
 <h2>References</h2>
 <ul>
 <li><em>Gourley GR. Adv Pediatr. 1997</em> -- Bilirubin metabolism and toxicity in the newborn (PMID: 9276906)</li>

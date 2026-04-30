@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.915356Z'
+created: '2026-04-30T06:31:04.780869Z'
 description: The 'mushroom of immortality' in traditional Chinese medicine. Powerful
   immune modulator, adaptogen, and sleep supporter. Contains beta-glucans and triterpenes
   with calming and anti-cancer properties.
@@ -23,7 +23,7 @@ tags:
 templateEngineOverride: njk
 title: Reishi
 type: supplement
-updated: '2026-04-21T16:52:59.915356Z'
+updated: '2026-04-30T06:31:04.780869Z'
 ---
 
 {% raw %}
@@ -116,9 +116,9 @@ DECREASES_BIOMARKER::<a href="/entities/labtest/cortisol/" class="internal-link"
 DECREASES_BIOMARKER::<a href="/entities/labtest/interleukin-6/" class="internal-link">Interleukin 6</a><br />
 DECREASES_BIOMARKER::<a href="/entities/labtest/tnf-alpha/" class="internal-link">TNF Alpha</a></p>
 <h3>Modulates Neurotransmitter</h3>
-<p>MODULATES_NEUROTRANSMITTER::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
+<p>MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">GABA</a><br />
 MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
-MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
+MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Dopamine</a></p>
 <h3>Modulates Pathway</h3>
 <p>MODULATES_PATHWAY::<a href="/entities/pathway/nf-kb-pathway/" class="internal-link">NF-kB Pathway</a><br />
 MODULATES_PATHWAY::<a href="/entities/pathway/hpa-axis/" class="internal-link">HPA Axis</a><br />

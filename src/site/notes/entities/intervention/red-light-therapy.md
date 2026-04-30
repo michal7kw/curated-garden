@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.989516Z'
+created: '2026-04-30T06:31:01.008273Z'
 description: Red light therapy (RLT) is a therapeutic technique that uses red low-level
   wavelengths of light to treat skin issues, sleep problems, and chronic pain, among
   other things.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Red Light Therapy
 type: intervention
-updated: '2026-04-21T16:52:58.989516Z'
+updated: '2026-04-30T06:31:01.008273Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.570333Z'
+created: '2026-04-30T06:31:03.237022Z'
 description: The electron transport chain (ETC) is a series of protein complexes embedded
   in the inner mitochondrial membrane that transfers electrons from NADH and FADH2
   to oxygen, generating the proton gradient used for ATP synthesis. It is the final
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Electron Transport Chain
 type: pathway
-updated: '2026-04-21T16:52:59.570333Z'
+updated: '2026-04-30T06:31:03.237022Z'
 ---
 
 {% raw %}

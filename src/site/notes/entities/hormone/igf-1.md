@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.118004Z'
+created: '2026-04-30T06:30:57.829001Z'
 description: Insulin-like Growth Factor 1 — peptide hormone primarily produced by
   the liver in response to Growth Hormone stimulation. Major mediator of growth, anabolism,
   and tissue repair. The IGF-1/mTOR axis is a central node in the longevity-vs-growth
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: IGF-1
 type: hormone
-updated: '2026-04-21T16:52:58.118004Z'
+updated: '2026-04-30T06:30:57.829001Z'
 ---
 
 {% raw %}

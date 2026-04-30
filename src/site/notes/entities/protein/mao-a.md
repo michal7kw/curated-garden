@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.735268Z'
+created: '2026-04-30T06:31:03.944983Z'
 description: Monoamine oxidase A, a mitochondrial outer membrane-bound flavoenzyme
   that catalyzes the oxidative deamination of monoamine neurotransmitters including
   serotonin, norepinephrine, and dopamine. Key pharmacological target for antidepressant
@@ -21,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: MAO-A
 type: protein
-updated: '2026-04-21T16:52:59.735268Z'
+updated: '2026-04-30T06:31:03.944983Z'
 ---
 
 {% raw %}
@@ -86,8 +86,8 @@ RELATED::<a href="/entities/metabolite/reactive-oxygen-species/" class="internal
 PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/dopamine-synthesis/" class="internal-link">Dopamine_Synthesis</a></p>
 <h3>Metabolizes</h3>
 <p>METABOLIZES::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
-METABOLIZES::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
-METABOLIZES::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
+METABOLIZES::<a class="internal-link is-unresolved" href="/404">Norepinephrine</a><br />
+METABOLIZES::<a class="internal-link is-unresolved" href="/404">Dopamine</a></p>
 <h3>Affects</h3>
 <p>AFFECTS::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 <h3>Inhibited By</h3>

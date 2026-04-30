@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.538610Z'
+created: '2026-04-30T06:31:03.095869Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/orbitofrontal-cortex/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Orbitofrontal Cortex
 type: organ
-updated: '2026-04-21T16:52:59.538610Z'
+updated: '2026-04-30T06:31:03.095869Z'
 ---
 
 {% raw %}
@@ -21,7 +21,7 @@ updated: '2026-04-21T16:52:59.538610Z'
 <p>RELATED::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a><br />
 RELATED::<a href="/entities/anatomy/amygdala/" class="internal-link">Amygdala</a><br />
 RELATED::<a href="/entities/anatomy/nucleus-accumbens/" class="internal-link">Nucleus Accumbens</a><br />
-RELATED::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
 RELATED::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a></p>
 <h3>Supports Function</h3>
 <p>SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/executive-function/" class="internal-link">Executive Function</a><br />

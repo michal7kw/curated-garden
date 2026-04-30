@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.330403Z'
+created: '2026-04-30T06:31:02.104915Z'
 description: red sell dis-trib-yoo-shun width (r-d-w) Tested twice a year Red cell
   distribution width (RDW) measures how much red blood cell sizes vary in the blood.
   A higher RDW means the cells differ more in size than usual, which can be linked
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: red_cell_distribution_width_rdw
 type: labtest
-updated: '2026-04-21T16:52:59.330403Z'
+updated: '2026-04-30T06:31:02.104915Z'
 ---
 
 {% raw %}

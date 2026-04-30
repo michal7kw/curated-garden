@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.860827Z'
+created: '2026-04-30T06:31:00.671699Z'
 description: Gene encoding tryptophan hydroxylase 2, the rate-limiting enzyme for
   serotonin biosynthesis in the brain. Unlike TPH1 (peripheral), TPH2 is exclusively
   expressed in CNS serotonergic neurons. The R441H loss-of-function mutation severely
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: TPH2
 type: gene
-updated: '2026-04-21T16:52:58.860827Z'
+updated: '2026-04-30T06:31:00.671699Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:57.972076Z'
+created: '2026-04-30T06:30:56.893143Z'
 description: Master regulator of homeostasis, controlling body temperature, hunger,
   thirst, circadian rhythms, and the endocrine system via the pituitary gland. Small
   but critical diencephalic structure.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Hypothalamus
 type: anatomy
-updated: '2026-04-21T16:52:57.972076Z'
+updated: '2026-04-30T06:30:56.893143Z'
 ---
 
 {% raw %}

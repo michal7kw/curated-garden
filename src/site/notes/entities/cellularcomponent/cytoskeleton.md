@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.240951Z'
+created: '2026-04-30T06:30:58.174515Z'
 description: Dynamic network of protein filaments providing structural support, cell
   shape, and intracellular transport. Composed of three main systems — microfilaments
   (actin), intermediate filaments, and microtubules (tubulin). Essential for cell
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Cytoskeleton
 type: cellularcomponent
-updated: '2026-04-21T16:52:58.240951Z'
+updated: '2026-04-30T06:30:58.174515Z'
 ---
 
 {% raw %}

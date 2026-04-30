@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.777337Z'
+created: '2026-04-30T06:31:00.409699Z'
 description: Naturally occurring alkaloid and potent nicotinic acetylcholine receptor
   (nAChR) agonist. Beyond its well-known role in tobacco, pure nicotine at low doses
   (1-2 mg) is studied for cognitive enhancement, neuroprotection, and attentional
@@ -22,7 +22,7 @@ tags:
 templateEngineOverride: njk
 title: Nicotine
 type: drug
-updated: '2026-04-21T16:52:58.777337Z'
+updated: '2026-04-30T06:31:00.409699Z'
 ---
 
 {% raw %}
@@ -119,10 +119,10 @@ MAY_IMPROVE_CONDITION::<a href="/entities/condition/cognitive-dysfunction/" clas
 AFFECTS_BIOMARKER::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a></p>
 <h3>Modulates Neurotransmitter</h3>
 <p>MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
-MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
-MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
-MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a><br />
-MODULATES_NEUROTRANSMITTER::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
+MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Norepinephrine</a><br />
+MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
+MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Acetylcholine</a><br />
+MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">GABA</a><br />
 MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/glutamate/" class="internal-link">Glutamate</a></p>
 <h3>Affects Brain Region</h3>
 <p>AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/ventral-tegmental-area/" class="internal-link">Ventral_Tegmental_Area</a><br />

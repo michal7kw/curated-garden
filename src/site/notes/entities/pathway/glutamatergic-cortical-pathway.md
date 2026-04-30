@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.582245Z'
+created: '2026-04-30T06:31:03.297859Z'
 description: Primary excitatory projection system of the brain. Cortico-cortical,
   cortico-thalamic, and cortico-striatal glutamatergic projections mediate most conscious
   cognitive processing, including learning via long-term potentiation (LTP).
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Glutamatergic Cortical Pathway
 type: pathway
-updated: '2026-04-21T16:52:59.582245Z'
+updated: '2026-04-30T06:31:03.297859Z'
 ---
 
 {% raw %}

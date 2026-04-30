@@ -1,7 +1,7 @@
 ---
 aliases:
 - Mch
-created: '2026-04-21T16:52:58.136441Z'
+created: '2026-04-30T06:30:57.899870Z'
 description: Mean Corpuscular Hemoglobin (MCH) is a hematological index that quantifies
   the absolute mass or weight of hemoglobin housed inside an average red blood cell.
   It is evaluated in parallel with MCV to characterize anemias.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: MCH
 type: biomarker
-updated: '2026-04-21T16:52:58.136441Z'
+updated: '2026-04-30T06:30:57.899870Z'
 ---
 
 {% raw %}

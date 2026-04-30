@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.573864Z'
+created: '2026-04-30T06:31:03.253230Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/pathway/gabaergic-pathways/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: GABAergic Pathways
 type: pathway
-updated: '2026-04-21T16:52:59.573864Z'
+updated: '2026-04-30T06:31:03.253230Z'
 ---
 
 {% raw %}
@@ -30,7 +30,7 @@ MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="intern
 MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/taurine/" class="internal-link">Taurine</a><br />
 MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/l-tryptophan/" class="internal-link">L-Tryptophan</a></p>
 <h3>Associated Biomarker</h3>
-<p>ASSOCIATED_WITH::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
+<p>ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">GABA</a><br />
 ASSOCIATED_WITH::<a href="/entities/neurotransmitter/glutamate/" class="internal-link">Glutamate</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 ASSOCIATED_WITH::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a></p>

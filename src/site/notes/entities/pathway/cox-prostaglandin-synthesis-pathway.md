@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.567774Z'
+created: '2026-04-30T06:31:03.206100Z'
 description: Arachidonic acid cascade pathway where cyclooxygenase enzymes (COX-1
   constitutive, COX-2 inducible) convert arachidonic acid to prostaglandins and thromboxanes.
   COX-2-derived PGE2 is the principal prostanoid mediating inflammation, pain, and
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: COX-Prostaglandin Synthesis Pathway
 type: pathway
-updated: '2026-04-21T16:52:59.567774Z'
+updated: '2026-04-30T06:31:03.206100Z'
 ---
 
 {% raw %}

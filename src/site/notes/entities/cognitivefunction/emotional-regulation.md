@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.283952Z'
+created: '2026-04-30T06:30:58.413517Z'
 description: Ability to monitor, evaluate, and modify emotional reactions to achieve
   goals and maintain well-being. Involves both automatic (implicit) and deliberate
   (explicit) strategies. The prefrontal cortex exerts top-down control over amygdala
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Emotional Regulation
 type: cognitivefunction
-updated: '2026-04-21T16:52:58.283952Z'
+updated: '2026-04-30T06:30:58.413517Z'
 ---
 
 {% raw %}
@@ -57,9 +57,9 @@ SUPPORTED_BY_REGION::<a href="/entities/anatomy/insula/" class="internal-link">I
 SUPPORTED_BY_REGION::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a></p>
 <h3>Modulated By Neurotransmitter</h3>
 <p>MODULATED_BY_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
-MODULATED_BY_NEUROTRANSMITTER::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
-MODULATED_BY_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
-MODULATED_BY_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
+MODULATED_BY_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">GABA</a><br />
+MODULATED_BY_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Norepinephrine</a><br />
+MODULATED_BY_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
 MODULATED_BY_NEUROTRANSMITTER::<a href="/entities/hormone/oxytocin/" class="internal-link">Oxytocin</a></p>
 <h3>Improved By Intervention</h3>
 <p>IMPROVED_BY_INTERVENTION::<a href="/entities/intervention/meditation/" class="internal-link">Meditation</a><br />

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.958880Z'
+created: '2026-04-30T06:31:04.929919Z'
 description: Essential water-soluble vitamin crucial for neurotransmitter synthesis,
   amino acid metabolism, and over 100 enzymatic reactions. The active form P5P bypasses
   liver conversion.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Vitamin B6
 type: supplement
-updated: '2026-04-21T16:52:59.958880Z'
+updated: '2026-04-30T06:31:04.929919Z'
 ---
 
 {% raw %}
@@ -31,24 +31,24 @@ updated: '2026-04-21T16:52:59.958880Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
-MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
-MODULATES_NEUROTRANSMITTER::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
+MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
+MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">GABA</a><br />
 RELATED::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a><br />
 RELATED::<a href="/entities/metabolite/methylfolate/" class="internal-link">Methylfolate</a><br />
 RELATED::<a href="/entities/supplement/zinc/" class="internal-link">Zinc</a><br />
 RELATED::<a href="/entities/supplement/folate/" class="internal-link">Folate</a><br />
 RELATED::<a href="/entities/supplement/5-htp/" class="internal-link">5-HTP</a><br />
 AFFECTS_ORGAN::<a href="/entities/organ/blood/" class="internal-link">Blood</a><br />
-MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
+MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Norepinephrine</a><br />
 RELATED::<a href="/entities/supplement/vitamin-b12/" class="internal-link">Vitamin B12</a><br />
 RELATED::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
 RELATED::<a href="/entities/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a><br />
 AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 <h3>Required For Synthesis</h3>
-<p>REQUIRED_FOR_SYNTHESIS::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
-REQUIRED_FOR_SYNTHESIS::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
+<p>REQUIRED_FOR_SYNTHESIS::<a class="internal-link is-unresolved" href="/404">Norepinephrine</a><br />
+REQUIRED_FOR_SYNTHESIS::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
 REQUIRED_FOR_SYNTHESIS::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
-REQUIRED_FOR_SYNTHESIS::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a></p>
+REQUIRED_FOR_SYNTHESIS::<a class="internal-link is-unresolved" href="/404">GABA</a></p>
 <h3>Synergistic With</h3>
 <p>SYNERGISTIC_WITH::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
 SYNERGISTIC_WITH::<a href="/entities/metabolite/methylfolate/" class="internal-link">Methylfolate</a><br />

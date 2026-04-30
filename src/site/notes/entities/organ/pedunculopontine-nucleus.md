@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.540154Z'
+created: '2026-04-30T06:31:03.105776Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/pedunculopontine-nucleus/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Pedunculopontine Nucleus
 type: organ
-updated: '2026-04-21T16:52:59.540154Z'
+updated: '2026-04-30T06:31:03.105776Z'
 ---
 
 {% raw %}
@@ -18,7 +18,7 @@ updated: '2026-04-21T16:52:59.540154Z'
 <p>Brainstem nucleus at the junction of midbrain and pons, containing cholinergic and glutamatergic neurons. Key roles in locomotion initiation (gait), REM sleep generation, and arousal. Degeneration contributes to postural instability and freezing of gait in Parkinson's disease. Emerging DBS target for gait disorders refractory to dopaminergic therapy.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Acetylcholine</a><br />
 RELATED::<a href="/entities/organ/basal-ganglia/" class="internal-link">Basal Ganglia</a><br />
 RELATED::<a href="/entities/anatomy/substantia-nigra/" class="internal-link">Substantia Nigra</a><br />
 RELATED::<a href="/entities/neurotransmitter/glutamate/" class="internal-link">Glutamate</a></p>

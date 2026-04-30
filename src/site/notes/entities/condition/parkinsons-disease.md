@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.575722Z'
+created: '2026-04-30T06:30:59.511171Z'
 description: A progressive neurodegenerative disorder characterized by motor symptoms
   including tremor, rigidity, and bradykinesia, caused by dopaminergic neuron loss
   in the substantia nigra and alpha-synuclein aggregation.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Parkinson's Disease
 type: condition
-updated: '2026-04-21T16:52:58.575722Z'
+updated: '2026-04-30T06:30:59.511171Z'
 ---
 
 {% raw %}
@@ -77,7 +77,7 @@ RELATED::<a href="/entities/pathway/neuroinflammation/" class="internal-link">Ne
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/biomarker/blood-nfl/" class="internal-link">Blood NfL</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br />
-ASSOCIATED_WITH::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
+ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/uric-acid/" class="internal-link">Uric Acid</a></p>
 <h3>Improved By Supplement</h3>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.120585Z'
+created: '2026-04-30T06:30:57.839927Z'
 description: Tested twice a year Insulin is a hormone that acts like a key, helping
   sugar in the blood move into cells for energy. Unlike glucose, insulin isn’t routinely
   tested in standard checkups, but measuring it can sometimes detect signs of diabetes
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Insulin
 type: biomarker
-updated: '2026-04-21T16:52:58.120585Z'
+updated: '2026-04-30T06:30:57.839927Z'
 ---
 
 {% raw %}

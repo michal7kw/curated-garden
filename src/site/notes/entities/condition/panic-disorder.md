@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.571696Z'
+created: '2026-04-30T06:30:59.501411Z'
 description: Anxiety disorder characterized by recurrent unexpected panic attacks
   — sudden surges of intense fear peaking within minutes, with physical symptoms (palpitations,
   shortness of breath, chest pain, dizziness) and cognitive symptoms (fear of dying,
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Panic Disorder
 type: condition
-updated: '2026-04-21T16:52:58.571696Z'
+updated: '2026-04-30T06:30:59.501411Z'
 ---
 
 {% raw %}

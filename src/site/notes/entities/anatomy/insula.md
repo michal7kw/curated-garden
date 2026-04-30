@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:57.972076Z'
+created: '2026-04-30T06:30:56.897751Z'
 description: Deep cortical structure hidden within the lateral sulcus, functioning
   as an interoceptive hub. Integrates bodily signals with emotional awareness, pain
   perception, empathy, and conscious feeling states. Critical node in the salience
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Insula
 type: anatomy
-updated: '2026-04-21T16:52:57.972076Z'
+updated: '2026-04-30T06:30:56.897751Z'
 ---
 
 {% raw %}
@@ -38,7 +38,7 @@ SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/emotional-regulation/" c
 CONNECTED_TO::<a href="/entities/anatomy/cingulate-cortex/" class="internal-link">Cingulate Cortex</a></p>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a><br />
-RELATED::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
 RELATED::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a></p>
 <h2>References</h2>
 <ul>

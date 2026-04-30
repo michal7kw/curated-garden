@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.541160Z'
+created: '2026-04-30T06:31:03.108633Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/periaqueductal-gray/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Periaqueductal Gray
 type: organ
-updated: '2026-04-21T16:52:59.541160Z'
+updated: '2026-04-30T06:31:03.108633Z'
 ---
 
 {% raw %}
@@ -18,8 +18,8 @@ updated: '2026-04-21T16:52:59.541160Z'
 <p>Gray matter surrounding the cerebral aqueduct in the midbrain, serving as the brain's primary pain modulation center. Contains the highest density of opioid receptors in the CNS. Activating the PAG releases endogenous opioids (endorphins, enkephalins) that inhibit pain transmission in the spinal dorsal horn. Also mediates defensive behaviors (fight-or-flight, freezing) and autonomic responses.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/neurotransmitter/endorphins/" class="internal-link">Endorphins</a><br />
-RELATED::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Endorphins</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">GABA</a><br />
 RELATED::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
 RELATED::<a href="/entities/anatomy/raphe-nuclei/" class="internal-link">Raphe Nuclei</a><br />
 RELATED::<a href="/entities/anatomy/locus-coeruleus/" class="internal-link">Locus Coeruleus</a></p>

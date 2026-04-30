@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:57.965357Z'
+created: '2026-04-30T06:30:56.860082Z'
 description: Collection of structures at the base of the forebrain including the nucleus
   basalis of Meynert, medial septum, and diagonal band. The brain's primary source
   of cortical acetylcholine. Degeneration of cholinergic neurons here is a hallmark
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Basal Forebrain
 type: anatomy
-updated: '2026-04-21T16:52:57.965357Z'
+updated: '2026-04-30T06:30:56.860082Z'
 ---
 
 {% raw %}
@@ -35,7 +35,7 @@ updated: '2026-04-21T16:52:57.965357Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Acetylcholine</a></p>
 <h3>Projects To</h3>
 <p>PROJECTS_TO::<a href="/entities/anatomy/entorhinal-cortex/" class="internal-link">Entorhinal_Cortex</a><br />
 PROJECTS_TO::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal_Cortex</a><br />
@@ -44,7 +44,7 @@ PROJECTS_TO::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hipp
 <p>SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/attention-and-focus/" class="internal-link">Attention_and_Focus</a><br />
 SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/memory-and-learning/" class="internal-link">Memory_and_Learning</a></p>
 <h3>Produces</h3>
-<p>PRODUCES::<a href="/entities/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a></p>
+<p>PRODUCES::<a class="internal-link is-unresolved" href="/404">Acetylcholine</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:15652312</li>

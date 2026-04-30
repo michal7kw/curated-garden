@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:59.851051Z'
+created: '2026-04-30T06:31:04.411397Z'
 description: One of the oldest living tree species (~270 million years) and among
   the most widely studied herbal cognitive enhancers. Standardized extracts (EGb 761)
   contain ginkgolides (terpenoid lactones acting as PAF antagonists) and flavonoid
@@ -23,7 +23,7 @@ tags:
 templateEngineOverride: njk
 title: Ginkgo Biloba
 type: supplement
-updated: '2026-04-21T16:52:59.851051Z'
+updated: '2026-04-30T06:31:04.411397Z'
 ---
 
 {% raw %}
@@ -108,7 +108,7 @@ MAY_IMPROVE_CONDITION::<a href="/entities/condition/cognitive-dysfunction/" clas
 AFFECTS_ORGAN::<a href="/entities/organ/eyes/" class="internal-link">Eyes</a><br />
 AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a></p>
 <h3>Modulates Neurotransmitter</h3>
-<p>MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a></p>
+<p>MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Acetylcholine</a></p>
 <h3>Interacts With</h3>
 <p>INTERACTS_WITH::<a href="/entities/drug/aspirin/" class="internal-link">Aspirin</a><br />
 INTERACTS_WITH::<a href="/entities/drug/ibuprofen/" class="internal-link">Ibuprofen</a></p>

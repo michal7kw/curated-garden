@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.604000Z'
+created: '2026-04-30T06:30:59.649312Z'
 description: A chronic autoimmune liver disease characterized by the slow destruction
   of the small bile ducts in the liver, leading to bile buildup and scarring.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Primary Biliary Cholangitis
 type: condition
-updated: '2026-04-21T16:52:58.604000Z'
+updated: '2026-04-30T06:30:59.649312Z'
 ---
 
 {% raw %}
@@ -26,7 +26,7 @@ updated: '2026-04-21T16:52:58.604000Z'
 <p>RELATED::<a href="/entities/labtest/alkaline-phosphatase-alp/" class="internal-link">alkaline phosphatase alp</a></p>
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/biomarker/alkaline-phosphatase/" class="internal-link">Alkaline Phosphatase</a><br />
-ASSOCIATED_WITH::<a href="/entities/biomarker/bilirubin/" class="internal-link">Bilirubin</a><br />
+ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Bilirubin</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/alanine-transaminase/" class="internal-link">Alanine Transaminase</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/albumin/" class="internal-link">albumin</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a></p>

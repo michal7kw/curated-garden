@@ -1,5 +1,5 @@
 ---
-created: '2026-04-21T16:52:58.248679Z'
+created: '2026-04-30T06:30:58.227148Z'
 description: Large multi-subunit protease complex responsible for regulated degradation
   of ubiquitin-tagged proteins. The 26S proteasome (20S core + 19S regulatory cap)
   is the primary mechanism for protein quality control and turnover. Essential for
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Proteasome
 type: cellularcomponent
-updated: '2026-04-21T16:52:58.248679Z'
+updated: '2026-04-30T06:30:58.227148Z'
 ---
 
 {% raw %}
