@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:57.413911Z'
+created: '2026-05-08T08:21:31.707225Z'
 description: Carcinoembryonic antigen (CEA) is a 180-200 kDa glycoprotein of the immunoglobulin
   superfamily, normally produced during fetal development and minimally expressed
   in healthy adults. It is the most widely used serum tumor marker for monitoring
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: CEA
 type: biomarker
-updated: '2026-04-30T06:30:57.413911Z'
+updated: '2026-05-08T08:21:31.707225Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.442324Z'
+created: '2026-05-08T08:21:33.922987Z'
 description: The pathological process of excessive tau protein phosphorylation leading
   to microtubule destabilization, tau aggregation, and neurofibrillary tangle formation.
   Central to Alzheimer's disease and other tauopathies.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Tau Phosphorylation
 type: pathway
-updated: '2026-04-30T06:31:03.442324Z'
+updated: '2026-05-08T08:21:33.922987Z'
 ---
 
 {% raw %}
@@ -41,7 +41,7 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Corticobasal Degener
 RELATED::<a href="/entities/pathway/amyloid-cascade/" class="internal-link">Amyloid Cascade</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Progressive Supranuclear Palsy</a><br />
-RELATED::<a href="/entities/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal Pathway</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Autophagy-Lysosomal Pathway</a><br />
 RELATED::<a href="/entities/biomarker/mtbr-tau243/" class="internal-link">MTBR-tau243</a><br />
 RELATED::<a href="/entities/biomarker/neuron-derived-exosome-biomarkers/" class="internal-link">Neuron-Derived Exosome Biomarkers</a><br />
 RELATED::<a href="/entities/drug/lithium/" class="internal-link">Lithium</a><br />

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.902333Z'
+created: '2026-05-08T08:21:32.756062Z'
 description: Dietary Approaches to Stop Hypertension — emphasizes fruits, vegetables,
   whole grains, lean protein, and low-fat dairy while restricting sodium and saturated
   fat.
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: DASH Diet
 type: intervention
-updated: '2026-04-30T06:31:00.902333Z'
+updated: '2026-05-08T08:21:32.756062Z'
 ---
 
 {% raw %}

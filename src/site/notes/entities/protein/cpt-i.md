@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.777154Z'
+created: '2026-05-08T08:21:34.065706Z'
 description: Carnitine palmitoyltransferase I, the rate-limiting enzyme of long-chain
   fatty acid beta-oxidation. Located on the outer mitochondrial membrane, it transfers
   acyl groups from CoA to carnitine for mitochondrial import.
@@ -16,13 +16,13 @@ tags:
 templateEngineOverride: njk
 title: CPT-I
 type: protein
-updated: '2026-04-30T06:31:03.777154Z'
+updated: '2026-05-08T08:21:34.065706Z'
 ---
 
 {% raw %}
 <h1>CPT-I (Carnitine Palmitoyltransferase I)</h1>
 <h2>Overview</h2>
-<p>CPT-I is the rate-limiting enzyme of <a href="/entities/pathway/beta-oxidation/" class="internal-link">Beta-Oxidation</a>, located on the outer mitochondrial membrane. It catalyzes the first step of the carnitine shuttle system, converting <a class="internal-link is-unresolved" href="/404">Fatty Acyl-CoA</a> to <a href="/entities/metabolite/acylcarnitine/" class="internal-link">Acylcarnitine</a> for transport across the inner mitochondrial membrane.</p>
+<p>CPT-I is the rate-limiting enzyme of <a href="/entities/pathway/beta-oxidation/" class="internal-link">Beta-Oxidation</a>, located on the outer mitochondrial membrane. It catalyzes the first step of the carnitine shuttle system, converting <a href="/entities/metabolite/fatty-acyl-coa/" class="internal-link">Fatty Acyl-CoA</a> to <a href="/entities/metabolite/acylcarnitine/" class="internal-link">Acylcarnitine</a> for transport across the inner mitochondrial membrane.</p>
 <h2>Mechanism of Action</h2>
 <ul>
 <li><strong>Reaction</strong>: Fatty acyl-CoA + L-carnitine → <a href="/entities/metabolite/acylcarnitine/" class="internal-link">Acylcarnitine</a> + CoA</li>
@@ -48,7 +48,7 @@ updated: '2026-04-30T06:31:03.777154Z'
 RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 <h3>Catalyzes</h3>
 <p>CATALYZES::<a href="/entities/metabolite/acylcarnitine/" class="internal-link">Acylcarnitine</a><br />
-CATALYZES::<a class="internal-link is-unresolved" href="/404">Fatty_Acyl-CoA</a></p>
+CATALYZES::<a href="/entities/metabolite/fatty-acyl-coa/" class="internal-link">Fatty_Acyl-CoA</a></p>
 <h3>Participates In</h3>
 <p>PARTICIPATES_IN::<a href="/entities/pathway/beta-oxidation/" class="internal-link">Beta-Oxidation</a></p>
 <h3>Inhibited By</h3>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.914529Z'
+created: '2026-05-08T08:21:34.123209Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: GRB2
 type: gene
-updated: '2026-04-30T06:31:03.914529Z'
+updated: '2026-05-08T08:21:34.123209Z'
 ---
 
 {% raw %}

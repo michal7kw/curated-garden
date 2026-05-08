@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:57.530092Z'
+created: '2026-05-08T08:21:31.726578Z'
 description: Serum CoQ10 (ubiquinone/ubiquinol) concentration reflects endogenous
   synthesis, dietary intake, and supplementation status. It is a critical biomarker
   for mitochondrial function, cardiovascular health, and monitoring patients on statin
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: CoQ10 (Serum)
 type: biomarker
-updated: '2026-04-30T06:30:57.530092Z'
+updated: '2026-05-08T08:21:31.726578Z'
 ---
 
 {% raw %}

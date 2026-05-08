@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:57.739406Z'
+created: '2026-05-08T08:21:31.793260Z'
 description: High-density lipoprotein cholesterol (HDL-C) is the cardioprotective
   lipoprotein fraction responsible for reverse cholesterol transport — moving cholesterol
   from peripheral tissues and arterial walls back to the liver for excretion. Low
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: HDL Cholesterol
 type: biomarker
-updated: '2026-04-30T06:30:57.739406Z'
+updated: '2026-05-08T08:21:31.793260Z'
 ---
 
 {% raw %}

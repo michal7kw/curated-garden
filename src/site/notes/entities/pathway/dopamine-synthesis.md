@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.229443Z'
+created: '2026-05-08T08:21:33.816727Z'
 description: The dopamine synthesis pathway converts the amino acid tyrosine to dopamine
   through two enzymatic steps, providing the neurotransmitter essential for reward,
   motivation, movement, and cognition.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Dopamine Synthesis
 type: pathway
-updated: '2026-04-30T06:31:03.229443Z'
+updated: '2026-05-08T08:21:33.816727Z'
 ---
 
 {% raw %}
@@ -41,7 +41,7 @@ MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/vitamin-b6/" class="inter
 MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/folate/" class="internal-link">Folate</a><br />
 MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a></p>
 <h3>Associated Biomarker</h3>
-<p>ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a></p>
 <h3>Associated With Condition</h3>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:01.072381Z'
+created: '2026-05-08T08:21:32.833583Z'
 description: Mind-body practice combining physical postures (asana), breathwork (pranayama),
   and meditation. Evidence supports benefits for stress reduction, flexibility, balance,
   chronic pain, anxiety, and cardiovascular risk factors. Multiple styles range from
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Yoga
 type: intervention
-updated: '2026-04-30T06:31:01.072381Z'
+updated: '2026-05-08T08:21:32.833583Z'
 ---
 
 {% raw %}
@@ -55,7 +55,7 @@ updated: '2026-04-30T06:31:01.072381Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">GABA</a> (27% increase in brain GABA after single session)<br />
+<p>RELATED::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a> (27% increase in brain GABA after single session)<br />
 RELATED::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
 RELATED::<a href="/entities/intervention/breathwork/" class="internal-link">Breathwork</a> (pranayama is the breathwork component of yoga)<br />
 RELATED::<a href="/entities/intervention/grounding/" class="internal-link">Grounding</a> (outdoor yoga on natural surfaces combines both)<br />
@@ -68,7 +68,7 @@ MODULATES_HORMONE::<a href="/entities/hormone/melatonin/" class="internal-link">
 <p>AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a> (anti-inflammatory effect with regular practice, Evidence Level 2a)<br />
 AFFECTS_BIOMARKER::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a> (increased neuroplasticity marker, Evidence Level 2b)</p>
 <h3>Affects Brain Region</h3>
-<p>AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a> (enhanced executive control and emotion regulation, Evidence Level 2b)</p>
+<p>AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a> (enhanced executive control and emotion regulation, Evidence Level 2b)</p>
 <h3>Improves Function</h3>
 <p>IMPROVES_FUNCTION::<a href="/entities/cognitivefunction/emotional-regulation/" class="internal-link">Emotional Regulation</a> (mindfulness component enhances PFC-amygdala regulation, Evidence Level 2a)</p>
 <h3>May Improve Condition</h3>

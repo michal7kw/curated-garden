@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:58.236659Z'
+created: '2026-05-08T08:21:31.942244Z'
 description: Repetitive TTAGGG nucleotide sequences capping chromosome ends, protecting
   genomic integrity during cell division. Telomere length is a biomarker of biological
   aging — shortening with each division until reaching the Hayflick limit triggers
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Telomere
 type: cellularcomponent
-updated: '2026-04-30T06:30:58.236659Z'
+updated: '2026-05-08T08:21:31.942244Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.636342Z'
+created: '2026-05-08T08:21:32.643066Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: NR3C1
 type: gene
-updated: '2026-04-30T06:31:00.636342Z'
+updated: '2026-05-08T08:21:32.643066Z'
 ---
 
 {% raw %}
@@ -27,8 +27,8 @@ updated: '2026-04-30T06:31:00.636342Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
-RELATED::<a href="/entities/anatomy/hypothalamus/" class="internal-link">Hypothalamus</a><br />
-RELATED::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a></p>
+RELATED::<a class="internal-link is-unresolved" href="/404">Hypothalamus</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hippocampus</a></p>
 <h3>Modulated By Hormone</h3>
 <p>MODULATED_BY_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a> (Primary endogenous ligand for GR activation, Evidence Level 1a)</p>
 <h3>Enriched</h3>
@@ -37,6 +37,6 @@ LOCATED_IN::<a href="/entities/cellularcomponent/nucleus/" class="internal-link"
 INTERACTS_WITH::<a href="/entities/gene/crebbp/" class="internal-link">CREBBP</a> (Recruits CBP/p300 coactivators for transcriptional activation, Evidence Level 2a)<br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a> (Epigenetic silencing linked to stress vulnerability, Evidence Level 2a)<br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/metabolic-syndrome/" class="internal-link">Metabolic Syndrome</a> (GR polymorphisms increase glucocorticoid sensitivity, Evidence Level 2b)<br />
-EXPRESSED_IN::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a> (High expression mediating memory and stress adaptation, Evidence Level 1b)</p>
+EXPRESSED_IN::<a class="internal-link is-unresolved" href="/404">Hippocampus</a> (High expression mediating memory and stress adaptation, Evidence Level 1b)</p>
 
 {% endraw %}

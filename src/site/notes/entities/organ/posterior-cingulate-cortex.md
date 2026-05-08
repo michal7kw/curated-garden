@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.117901Z'
+created: '2026-05-08T08:21:33.765393Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/posterior-cingulate-cortex/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Posterior Cingulate Cortex
 type: organ
-updated: '2026-04-30T06:31:03.117901Z'
+updated: '2026-05-08T08:21:33.765393Z'
 ---
 
 {% raw %}
@@ -19,8 +19,8 @@ updated: '2026-04-30T06:31:03.117901Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/organ/precuneus/" class="internal-link">Precuneus</a><br />
-RELATED::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a><br />
-RELATED::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a></p>
+RELATED::<a class="internal-link is-unresolved" href="/404">Hippocampus</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a></p>
 <h3>Supports Function</h3>
 <p>SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a><br />
 SUPPORTS_FUNCTION::<a class="internal-link is-unresolved" href="/404">Spatial Navigation</a></p>

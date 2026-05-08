@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.132262Z'
+created: '2026-05-08T08:21:32.486248Z'
 description: Tricyclic antidepressant (TCA) with very potent antihistamine properties.
   Used for depression, anxiety, and at low doses for insomnia.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Doxepin
 type: drug
-updated: '2026-04-30T06:31:00.132262Z'
+updated: '2026-05-08T08:21:32.486248Z'
 ---
 
 {% raw %}
@@ -50,6 +50,6 @@ RELATED::<a href="/entities/neurotransmitter/histamine/" class="internal-link">H
 RELATED::<a class="internal-link is-unresolved" href="/404">Methylphosphinic Acid</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Muscarinic Acetylcholine Receptor</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Sodium fluoride</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Norepinephrine</a></p>
+RELATED::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a></p>
 
 {% endraw %}

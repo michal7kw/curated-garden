@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.507132Z'
+created: '2026-05-08T08:21:32.597404Z'
 description: Selective serotonin reuptake inhibitor (SSRI) antidepressant. First-line
   treatment for depression, anxiety disorders, OCD, and PTSD. Well-studied with favorable
   safety profile.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Sertraline
 type: drug
-updated: '2026-04-30T06:31:00.507132Z'
+updated: '2026-05-08T08:21:32.597404Z'
 ---
 
 {% raw %}
@@ -30,7 +30,7 @@ updated: '2026-04-30T06:31:00.507132Z'
 <h3>Related</h3>
 <p>INTERACTS_WITH::<a href="/entities/drug/fluoxetine/" class="internal-link">Fluoxetine</a><br />
 RELATED::<a href="/entities/supplement/5-htp/" class="internal-link">5-HTP</a><br />
-RELATED::<a href="/entities/biologicalprocess/serotonin-reuptake/" class="internal-link">Serotonin Reuptake</a></p>
+RELATED::<a href="/entities/pathway/serotonin-reuptake/" class="internal-link">Serotonin Reuptake</a></p>
 <h3>Interacts With</h3>
 <p>INTERACTS_WITH::<a href="/entities/supplement/same/" class="internal-link">SAMe</a><br />
 INTERACTS_WITH::<a href="/entities/supplement/l-tryptophan/" class="internal-link">L-Tryptophan</a><br />
@@ -41,11 +41,11 @@ TREATS::<a href="/entities/condition/anxiety/" class="internal-link">Anxiety</a>
 TREATS::<a class="internal-link is-unresolved" href="/404">PTSD</a></p>
 <h3>Modulates Neurotransmitter</h3>
 <p>MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
-MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Dopamine</a></p>
+MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
 <h3>Affects Brain Region</h3>
-<p>AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a><br />
+<p>AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a><br />
 AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/raphe-nuclei/" class="internal-link">Raphe Nuclei</a><br />
-AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/amygdala/" class="internal-link">Amygdala</a></p>
+AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Amygdala</a></p>
 <h3>Affects Organ</h3>
 <p>AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 <h3>Targets</h3>

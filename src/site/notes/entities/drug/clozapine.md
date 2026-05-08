@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.111479Z'
+created: '2026-05-08T08:21:32.477918Z'
 description: Atypical antipsychotic known for its superior efficacy in treatment-resistant
   schizophrenia. It requires strict monitoring due to the risk of agranulocytosis.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Clozapine
 type: drug
-updated: '2026-04-30T06:31:00.111479Z'
+updated: '2026-05-08T08:21:32.477918Z'
 ---
 
 {% raw %}
@@ -34,13 +34,13 @@ updated: '2026-04-30T06:31:00.111479Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Acetylcholine</a><br />
+<p>RELATED::<a href="/entities/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Schizophrenia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Choline salicylate</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Histamine H1 Receptor</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Myocarditis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Agranulocytosis</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
+RELATED::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Sodium sulfate</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Muscarinic Acetylcholine Receptor</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Dopamine D4 Receptor</a><br />

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:59.574973Z'
+created: '2026-05-08T08:21:32.324725Z'
 description: Inflammation of the pharynx, causing a sore throat.
 dg-home: false
 dg-publish: true
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Pharyngitis
 type: condition
-updated: '2026-04-30T06:30:59.574973Z'
+updated: '2026-05-08T08:21:32.324725Z'
 ---
 
 {% raw %}

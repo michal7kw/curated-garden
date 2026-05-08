@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:57.052473Z'
+created: '2026-05-08T08:21:31.636178Z'
 description: The APOE genotype determines which combination of three common alleles
   (epsilon2, epsilon3, epsilon4) of the Apolipoprotein E gene an individual carries.
   This single genetic locus is the strongest known genetic risk factor for late-onset
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: APOE Genotype
 type: biomarker
-updated: '2026-04-30T06:30:57.052473Z'
+updated: '2026-05-08T08:21:31.636178Z'
 ---
 
 {% raw %}
@@ -175,6 +175,10 @@ updated: '2026-04-30T06:30:57.052473Z'
 <li><strong>Aggressive cardiovascular risk management</strong> -- Control blood pressure, glucose, and lipids starting in midlife; e4 carriers derive particular benefit from statin therapy</li>
 </ol>
 <h2>Relationships</h2>
+<h3>Defined By Variants</h3>
+<p>The APOE haplotype is determined by genotyping two single-nucleotide variants:<br />
+DEFINED_BY_VARIANT::<a class="internal-link is-unresolved" href="/404">rs429358</a> (T→C, APOE-e4 defining)<br />
+DEFINED_BY_VARIANT::<a class="internal-link is-unresolved" href="/404">rs7412</a> (C→T, APOE-e2 defining)</p>
 <h3>Associated With Condition</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a><br />

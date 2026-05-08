@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:02.660048Z'
+created: '2026-05-08T08:21:33.381565Z'
 description: Adenosine triphosphate (ATP) is the universal energy currency of all
   living cells, providing the free energy for virtually all cellular processes including
   muscle contraction, nerve transmission, active transport, and biosynthesis. ATP
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: ATP
 type: metabolite
-updated: '2026-04-30T06:31:02.660048Z'
+updated: '2026-05-08T08:21:33.381565Z'
 ---
 
 {% raw %}

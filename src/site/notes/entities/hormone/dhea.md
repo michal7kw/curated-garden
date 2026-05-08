@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.812283Z'
+created: '2026-05-08T08:21:32.714733Z'
 description: Most abundant circulating steroid hormone, primarily produced by the
   adrenal cortex. Serves as a precursor to both testosterone and estrogen. Levels
   peak in early adulthood and decline ~2-3% per year, reaching 20% of peak by age
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: DHEA
 type: hormone
-updated: '2026-04-30T06:31:00.812283Z'
+updated: '2026-05-08T08:21:32.714733Z'
 ---
 
 {% raw %}

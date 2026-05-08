@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:04.170441Z'
+created: '2026-05-08T08:21:34.235616Z'
 description: Drug-induced hemorrhage from the gastrointestinal tract, most commonly
   caused by NSAIDs and anticoagulants through disruption of mucosal prostaglandin
   protection or impaired hemostasis, ranging from occult bleeding to life-threatening
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Gastrointestinal Bleeding
 type: sideeffect
-updated: '2026-04-30T06:31:04.170441Z'
+updated: '2026-05-08T08:21:34.235616Z'
 ---
 
 {% raw %}

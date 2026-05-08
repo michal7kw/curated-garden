@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.858401Z'
+created: '2026-05-08T08:21:32.733313Z'
 description: Steroid hormone primarily produced by the corpus luteum and placenta,
   essential for menstrual cycle regulation, pregnancy maintenance, and neuroprotection.
   Also synthesized in the brain as a neurosteroid with anxiolytic and neuroprotective
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Progesterone
 type: hormone
-updated: '2026-04-30T06:31:00.858401Z'
+updated: '2026-05-08T08:21:32.733313Z'
 ---
 
 {% raw %}
@@ -27,7 +27,7 @@ updated: '2026-04-30T06:31:00.858401Z'
 <p>Steroid hormone primarily produced by the corpus luteum and placenta, essential for menstrual cycle regulation, pregnancy maintenance, and neuroprotection. Also synthesized in the brain as a neurosteroid with anxiolytic and neuroprotective properties.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">GABA</a><br />
+<p>RELATED::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
 RELATED::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
 RELATED::<a href="/entities/hormone/estrogen/" class="internal-link">Estrogen</a><br />
 RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a></p>

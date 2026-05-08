@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.141941Z'
+created: '2026-05-08T08:21:32.487824Z'
 description: GLP-1 receptor agonist for type 2 diabetes. Once-weekly injection providing
   convenient glycemic control with cardiovascular benefit. Available as Trulicity.
   Demonstrated cardiovascular safety in REWIND trial.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Dulaglutide
 type: drug
-updated: '2026-04-30T06:31:00.141941Z'
+updated: '2026-05-08T08:21:32.487824Z'
 ---
 
 {% raw %}
@@ -95,7 +95,7 @@ MODULATES_HORMONE::<a class="internal-link is-unresolved" href="/404">Glucagon</
 <p>AFFECTS_ORGAN::<a href="/entities/organ/pancreas/" class="internal-link">Pancreas</a> (beta-cell stimulation, Evidence Level 1a)<br />
 AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a> (cardioprotective effects, Evidence Level 1a)<br />
 AFFECTS_ORGAN::<a href="/entities/organ/intestines/" class="internal-link">Intestines</a> (delays gastric emptying, Evidence Level 1a)<br />
-AFFECTS_ORGAN::<a href="/entities/anatomy/hypothalamus/" class="internal-link">Hypothalamus</a> (reduces appetite, Evidence Level 2b)<br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Hypothalamus</a> (reduces appetite, Evidence Level 2b)<br />
 AFFECTS_ORGAN::<a href="/entities/organ/kidneys/" class="internal-link">Kidneys</a> (renal protective signal in REWIND, Evidence Level 2b)</p>
 <h3>Modulates Pathway</h3>
 <p>MODULATES::<a href="/entities/pathway/glp-1-signaling-pathway/" class="internal-link">GLP-1 Signaling Pathway</a> (activates GLP-1 receptors, Evidence Level 1a)<br />

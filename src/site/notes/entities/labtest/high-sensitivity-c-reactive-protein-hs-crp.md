@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:01.528291Z'
+created: '2026-05-08T08:21:33.015994Z'
 description: high-sen-sih-tiv see-ree-ak-tiv pro-teen (h-s c-r-p) Tested twice a year
   High-sensitivity C-reactive protein (hs-CRP) can reveal even small amounts of inflammation
   in the body, making it a powerful tool for understanding risk for diseases linked
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: high_sensitivity_c_reactive_protein_hs_crp
 type: labtest
-updated: '2026-04-30T06:31:01.528291Z'
+updated: '2026-05-08T08:21:33.015994Z'
 ---
 
 {% raw %}

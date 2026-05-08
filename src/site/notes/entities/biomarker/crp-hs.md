@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:57.431245Z'
+created: '2026-05-08T08:21:31.734418Z'
 description: High-sensitivity C-reactive protein (hs-CRP) is an acute-phase protein
   produced by the liver in response to systemic inflammation. It is a validated independent
   predictor of cardiovascular disease risk and is used to assess chronic low-grade
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: CRP (hs)
 type: biomarker
-updated: '2026-04-30T06:30:57.431245Z'
+updated: '2026-05-08T08:21:31.734418Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.219932Z'
+created: '2026-05-08T08:21:32.516756Z'
 description: Potent first-generation typical antipsychotic (butyrophenone). Widely
   used for acute agitation, Tourette syndrome, and psychosis.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Haloperidol
 type: drug
-updated: '2026-04-30T06:31:00.219932Z'
+updated: '2026-05-08T08:21:32.516756Z'
 ---
 
 {% raw %}
@@ -55,7 +55,7 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Estrone sulfate</a><
 RELATED::<a href="/entities/drug/nalidixic-acid/" class="internal-link">Nalidixic Acid</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Methadyl acetate</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Tourette Syndrome</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
+RELATED::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Extrapyramidal Symptoms</a><br />
 RELATED::<a href="/entities/sideeffect/qt-prolongation/" class="internal-link">QT Prolongation</a></p>
 <h3>Interacts With</h3>

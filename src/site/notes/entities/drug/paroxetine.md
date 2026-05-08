@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.444428Z'
+created: '2026-05-08T08:21:32.575884Z'
 description: SSRI antidepressant (Paxil) with the most potent SERT inhibition of all
   SSRIs. Also a potent CYP2D6 inhibitor, causing significant drug-drug interactions.
   Has the highest rates of sexual dysfunction, weight gain, and discontinuation syndrome
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Paroxetine
 type: drug
-updated: '2026-04-30T06:31:00.444428Z'
+updated: '2026-05-08T08:21:32.575884Z'
 ---
 
 {% raw %}
@@ -75,9 +75,9 @@ INTERACTS_WITH::<a href="/entities/supplement/5-htp/" class="internal-link">5-HT
 INTERACTS_WITH::<a href="/entities/drug/fluoxetine/" class="internal-link">Fluoxetine</a><br />
 INTERACTS_WITH::<a href="/entities/drug/sertraline/" class="internal-link">Sertraline</a></p>
 <h3>Affects Brain Region</h3>
-<p>AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a><br />
-AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/amygdala/" class="internal-link">Amygdala</a><br />
-AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a></p>
+<p>AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a><br />
+AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Amygdala</a><br />
+AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Hippocampus</a></p>
 <h3>Side Effects</h3>
 <p>CAUSES::<a href="/entities/sideeffect/sexual-dysfunction/" class="internal-link">Sexual Dysfunction</a><br />
 CAUSES::<a href="/entities/sideeffect/ssri-discontinuation-syndrome/" class="internal-link">SSRI Discontinuation Syndrome</a><br />

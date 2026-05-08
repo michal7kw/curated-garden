@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:04.550376Z'
+created: '2026-05-08T08:21:34.420127Z'
 description: Medium-chain triglycerides (MCTs) are saturated fats with 6-12 carbon
   chains found in coconut oil, palm kernel oil, and dairy products. Unlike long-chain
   triglycerides, MCTs are rapidly absorbed into portal circulation and converted to
@@ -25,7 +25,7 @@ tags:
 templateEngineOverride: njk
 title: MCT Oil
 type: supplement
-updated: '2026-04-30T06:31:04.550376Z'
+updated: '2026-05-08T08:21:34.420127Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.169233Z'
+created: '2026-05-08T08:21:33.787441Z'
 description: The pathological process by which alpha-synuclein protein misfolds and
   aggregates into oligomers, fibrils, and Lewy bodies. Central to Parkinson's disease
   and other synucleinopathies.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Alpha-Synuclein Aggregation
 type: pathway
-updated: '2026-04-30T06:31:03.169233Z'
+updated: '2026-05-08T08:21:33.787441Z'
 ---
 
 {% raw %}
@@ -34,9 +34,9 @@ RELATED::<a href="/entities/biomarker/blood-nfl/" class="internal-link">Blood Nf
 RELATED::<a class="internal-link is-unresolved" href="/404">Enteric Nervous System</a><br />
 RELATED::<a href="/entities/biomarker/neuron-derived-exosome-biomarkers/" class="internal-link">Neuron-Derived Exosome Biomarkers</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">DAT-SPECT</a><br />
-RELATED::<a href="/entities/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal Pathway</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Autophagy-Lysosomal Pathway</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Multiple System Atrophy</a><br />
-RELATED::<a href="/entities/anatomy/substantia-nigra/" class="internal-link">Substantia Nigra</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Substantia Nigra</a><br />
 RELATED::<a href="/entities/pathway/mitophagy/" class="internal-link">Mitophagy</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Autophagy Enhancers</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Parkinsons Disease</a><br />
@@ -47,7 +47,7 @@ RELATED::<a href="/entities/pathway/oxidative-phosphorylation/" class="internal-
 RELATED::<a class="internal-link is-unresolved" href="/404">Alpha-Synuclein CSF</a><br />
 RELATED::<a href="/entities/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Lewy Body Dementia</a><br />
-RELATED::<a href="/entities/anatomy/locus-coeruleus/" class="internal-link">Locus Coeruleus</a></p>
+RELATED::<a class="internal-link is-unresolved" href="/404">Locus Coeruleus</a></p>
 <h3>Modulated By Supplement</h3>
 <p>MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a><br />
 MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/resveratrol/" class="internal-link">Resveratrol</a><br />

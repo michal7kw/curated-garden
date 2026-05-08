@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:01.030485Z'
+created: '2026-05-08T08:21:32.818459Z'
 description: Evidence-based behavioral practices to optimize sleep quality and circadian
   alignment. Includes consistent sleep-wake timing, light exposure management, temperature
   optimization, and stimulus control. Foundation for all health optimization — poor
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Sleep Hygiene
 type: intervention
-updated: '2026-04-30T06:31:01.030485Z'
+updated: '2026-05-08T08:21:32.818459Z'
 ---
 
 {% raw %}

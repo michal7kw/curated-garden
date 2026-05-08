@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:59.248217Z'
+created: '2026-05-08T08:21:32.232181Z'
 description: A progressive degenerative disease of the macula (central retina) that
   causes central vision loss, primarily affecting adults over 50. The leading cause
   of irreversible blindness in developed countries.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Macular Degeneration
 type: condition
-updated: '2026-04-30T06:30:59.248217Z'
+updated: '2026-05-08T08:21:32.232181Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.085604Z'
+created: '2026-05-08T08:21:33.741200Z'
 description: Contractile tissues enabling movement, posture, and heat production.
   Skeletal muscle is the largest organ system by mass and a major metabolic tissue.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: Muscles
 type: organ
-updated: '2026-04-30T06:31:03.085604Z'
+updated: '2026-05-08T08:21:33.741200Z'
 ---
 
 {% raw %}

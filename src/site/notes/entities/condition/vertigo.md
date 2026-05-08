@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:59.984922Z'
+created: '2026-05-08T08:21:32.428653Z'
 description: An illusory sensation of movement (typically spinning) caused by dysfunction
   of the vestibular system, either peripheral (inner ear) or central (brainstem/cerebellum).
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Vertigo
 type: condition
-updated: '2026-04-30T06:30:59.984922Z'
+updated: '2026-05-08T08:21:32.428653Z'
 ---
 
 {% raw %}
@@ -41,7 +41,7 @@ updated: '2026-04-30T06:30:59.984922Z'
 <li><strong>Supplements</strong>: Ginkgo biloba (may improve vestibular blood flow), magnesium (migraine prevention), vitamin D (associated with BPPV recurrence when deficient), B-complex vitamins, CoQ10<br />
 AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Vestibular System</a><br />
 AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Inner Ear</a><br />
-AFFECTS_ORGAN::<a href="/entities/anatomy/cerebellum/" class="internal-link">Cerebellum</a></li>
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Cerebellum</a></li>
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>

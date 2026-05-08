@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:02.099359Z'
+created: '2026-05-08T08:21:33.173104Z'
 description: Tested twice a year Finding red blood cells (RBCs) in urine, a condition
   called hematuria, is not normal and can be a sign that the kidneys, bladder, or
   urinary tract are irritated or damaged. While sometimes it may result from temporary
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: red_blood_cell_urine
 type: labtest
-updated: '2026-04-30T06:31:02.099359Z'
+updated: '2026-05-08T08:21:33.173104Z'
 ---
 
 {% raw %}

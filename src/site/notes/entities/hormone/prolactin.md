@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.861529Z'
+created: '2026-05-08T08:21:32.733313Z'
 description: Peptide hormone primarily produced by lactotroph cells of the anterior
   pituitary. Best known for inducing lactation, but has over 300 known biological
   functions including immune regulation, bone metabolism, stress modulation, and reproductive
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Prolactin
 type: hormone
-updated: '2026-04-30T06:31:00.861529Z'
+updated: '2026-05-08T08:21:32.733313Z'
 ---
 
 {% raw %}
@@ -28,7 +28,7 @@ updated: '2026-04-30T06:31:00.861529Z'
 <p>Peptide hormone primarily produced by lactotroph cells of the anterior pituitary. Best known for inducing lactation, but has over 300 known biological functions including immune regulation, bone metabolism, stress modulation, and reproductive axis control. Unique among pituitary hormones in being under tonic inhibitory control by dopamine.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
+<p>RELATED::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
 RELATED::<a href="/entities/hormone/thyroid-hormones/" class="internal-link">Thyroid Hormones</a><br />
 RELATED::<a href="/entities/organ/bones/" class="internal-link">Bones</a><br />
 RELATED::<a href="/entities/hormone/estrogen/" class="internal-link">Estrogen</a></p>

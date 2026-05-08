@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:02.924968Z'
+created: '2026-05-08T08:21:33.654108Z'
 description: The simplest amino acid and a major inhibitory neurotransmitter in the
   spinal cord and brainstem. Also serves as an obligatory co-agonist at NMDA glutamate
   receptors, giving it a dual inhibitory/excitatory role. Key precursor for glutathione,
@@ -23,7 +23,7 @@ tags:
 templateEngineOverride: njk
 title: Glycine
 type: neurotransmitter
-updated: '2026-04-30T06:31:02.924968Z'
+updated: '2026-05-08T08:21:33.654108Z'
 ---
 
 {% raw %}
@@ -106,14 +106,14 @@ updated: '2026-04-30T06:31:02.924968Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Neurotransmitter Interactions</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">GABA</a> - Both are major inhibitory neurotransmitters; GlyR and GABA-A receptors colocalize at some hippocampal synapses<br />
+<p>RELATED::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a> - Both are major inhibitory neurotransmitters; GlyR and GABA-A receptors colocalize at some hippocampal synapses<br />
 RELATED::<a href="/entities/neurotransmitter/glutamate/" class="internal-link">Glutamate</a> - Glycine is an obligatory co-agonist at NMDA glutamate receptors; dual inhibitory/excitatory balance</p>
 <h3>Conditions</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/sleep-disorder/" class="internal-link">Sleep Disorder</a> - Glycine supplementation (3g) improves sleep quality and reduces sleep onset latency<br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/stroke/" class="internal-link">Stroke</a> - Glycinergic inhibition is neuroprotective; glycine modulation studied in ischemic injury</p>
 <h3>Organ and Tissue</h3>
 <p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/brain/" class="internal-link">Brain</a> - Glycine levels reflect inhibitory/excitatory balance; NMDA co-agonist function critical for cognition<br />
-AFFECTS_ORGAN::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a> - NMDA receptor co-agonist function essential for LTP and memory formation</p>
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Hippocampus</a> - NMDA receptor co-agonist function essential for LTP and memory formation</p>
 <h3>Supplements and Modulators</h3>
 <p>RELATED::<a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a> - Glycine is a rate-limiting precursor for glutathione synthesis<br />
 RELATED::<a href="/entities/supplement/folate/" class="internal-link">Folate</a> - Required cofactor for serine-to-glycine conversion via SHMT<br />

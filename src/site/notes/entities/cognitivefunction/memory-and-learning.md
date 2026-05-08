@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:58.440772Z'
+created: '2026-05-08T08:21:31.994216Z'
 description: Cognitive processes for encoding, storing, consolidating, and retrieving
   information. Multiple memory systems (episodic, semantic, working, procedural, spatial)
   depend on distinct but interacting neural circuits. The hippocampus is essential
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Memory and Learning
 type: cognitivefunction
-updated: '2026-04-30T06:30:58.440772Z'
+updated: '2026-05-08T08:21:31.994216Z'
 ---
 
 {% raw %}
@@ -57,16 +57,16 @@ updated: '2026-04-30T06:30:58.440772Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Supported By Region</h3>
-<p>SUPPORTED_BY_REGION::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a><br />
-SUPPORTED_BY_REGION::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a><br />
-SUPPORTED_BY_REGION::<a href="/entities/anatomy/entorhinal-cortex/" class="internal-link">Entorhinal Cortex</a><br />
-SUPPORTED_BY_REGION::<a href="/entities/anatomy/amygdala/" class="internal-link">Amygdala</a><br />
+<p>SUPPORTED_BY_REGION::<a class="internal-link is-unresolved" href="/404">Hippocampus</a><br />
+SUPPORTED_BY_REGION::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a><br />
+SUPPORTED_BY_REGION::<a class="internal-link is-unresolved" href="/404">Entorhinal Cortex</a><br />
+SUPPORTED_BY_REGION::<a class="internal-link is-unresolved" href="/404">Amygdala</a><br />
 SUPPORTED_BY_REGION::<a href="/entities/anatomy/basal-forebrain/" class="internal-link">Basal Forebrain</a></p>
 <h3>Modulated By Neurotransmitter</h3>
-<p>MODULATED_BY_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Acetylcholine</a><br />
+<p>MODULATED_BY_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a><br />
 MODULATED_BY_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/glutamate/" class="internal-link">Glutamate</a><br />
-MODULATED_BY_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
-MODULATED_BY_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Norepinephrine</a></p>
+MODULATED_BY_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
+MODULATED_BY_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a></p>
 <h3>Improved By Intervention</h3>
 <p>IMPROVED_BY_INTERVENTION::<a href="/entities/intervention/exercise/" class="internal-link">Exercise</a><br />
 IMPROVED_BY_INTERVENTION::<a href="/entities/intervention/sleep-optimization/" class="internal-link">Sleep Optimization</a><br />

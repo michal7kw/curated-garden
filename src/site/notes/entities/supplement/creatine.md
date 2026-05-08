@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:04.362175Z'
+created: '2026-05-08T08:21:34.334262Z'
 description: Amino acid derivative supporting ATP regeneration in muscles and brain
 dg-home: false
 dg-publish: true
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: Creatine
 type: supplement
-updated: '2026-04-30T06:31:04.362175Z'
+updated: '2026-05-08T08:21:34.334262Z'
 ---
 
 {% raw %}

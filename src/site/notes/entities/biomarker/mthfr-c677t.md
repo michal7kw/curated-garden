@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:57.943627Z'
+created: '2026-05-08T08:21:31.854765Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/mthfr-c677t/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Mthfr C677T
 type: biomarker
-updated: '2026-04-30T06:30:57.943627Z'
+updated: '2026-05-08T08:21:31.854765Z'
 ---
 
 {% raw %}

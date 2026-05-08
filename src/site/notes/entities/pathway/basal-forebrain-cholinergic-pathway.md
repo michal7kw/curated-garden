@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.195584Z'
+created: '2026-05-08T08:21:33.803465Z'
 description: Cholinergic projections from the basal forebrain (nucleus basalis of
   Meynert, medial septum) to the hippocampus and neocortex. Essential for memory encoding
   and attention. Severely affected in Alzheimer's disease.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Basal Forebrain Cholinergic Pathway
 type: pathway
-updated: '2026-04-30T06:31:03.195584Z'
+updated: '2026-05-08T08:21:33.803465Z'
 ---
 
 {% raw %}
@@ -31,9 +31,9 @@ updated: '2026-04-30T06:31:03.195584Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related To</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Acetylcholine</a><br />
-RELATED::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal_Cortex</a><br />
-RELATED::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a><br />
+<p>RELATED::<a href="/entities/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Prefrontal_Cortex</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hippocampus</a><br />
 RELATED::<a href="/entities/anatomy/temporal-lobe/" class="internal-link">Temporal_Lobe</a></p>
 <h3>Associated With</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/neurotransmitter/glutamate/" class="internal-link">Glutamate</a><br />

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:04.886728Z'
+created: '2026-05-08T08:21:34.545646Z'
 description: Conditionally essential sulfur-containing amino acid and the most abundant
   free amino acid in the heart, retina, brain, and white blood cells. Not incorporated
   into proteins but acts as a free intracellular osmolyte, membrane stabilizer, and
@@ -24,7 +24,7 @@ tags:
 templateEngineOverride: njk
 title: Taurine
 type: supplement
-updated: '2026-04-30T06:31:04.886728Z'
+updated: '2026-05-08T08:21:34.545646Z'
 ---
 
 {% raw %}

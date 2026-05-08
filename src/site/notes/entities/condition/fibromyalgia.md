@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:58.949544Z'
+created: '2026-05-08T08:21:32.150323Z'
 description: Chronic widespread pain disorder characterized by central sensitization,
   fatigue, cognitive dysfunction ("fibro fog"), and sleep disturbance. Affects 2-4%
   of the population, predominantly women. Now understood as a disorder of central
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Fibromyalgia
 type: condition
-updated: '2026-04-30T06:30:58.949544Z'
+updated: '2026-05-08T08:21:32.150323Z'
 ---
 
 {% raw %}

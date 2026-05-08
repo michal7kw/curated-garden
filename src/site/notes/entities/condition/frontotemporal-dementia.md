@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:58.957175Z'
+created: '2026-05-08T08:21:32.152375Z'
 description: A group of neurodegenerative disorders characterized by progressive degeneration
   of the frontal and temporal lobes. Causes changes in personality, behavior, and
   language, typically with earlier onset than Alzheimer's disease.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Frontotemporal Dementia
 type: condition
-updated: '2026-04-30T06:30:58.957175Z'
+updated: '2026-05-08T08:21:32.152375Z'
 ---
 
 {% raw %}
@@ -60,15 +60,15 @@ RELATED::<a class="internal-link is-unresolved" href="/404">FDG-PET</a><br />
 RELATED::<a href="/entities/biomarker/neuron-derived-exosome-biomarkers/" class="internal-link">Neuron-Derived Exosome Biomarkers</a><br />
 RELATED::<a href="/entities/protein/tau/" class="internal-link">Tau</a><br />
 AFFECTS_ORGAN::<a href="/entities/organ/anterior-cingulate-cortex/" class="internal-link">Anterior Cingulate Cortex</a><br />
-AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/insula/" class="internal-link">Insula</a><br />
+AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Insula</a><br />
 RELATED::<a href="/entities/biomarker/blood-nfl/" class="internal-link">Blood NfL</a><br />
 RELATED::<a href="/entities/biomarker/gfap/" class="internal-link">GFAP</a><br />
 RELATED::<a href="/entities/condition/amyotrophic-lateral-sclerosis/" class="internal-link">Amyotrophic Lateral Sclerosis</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Progranulin Plasma</a><br />
 RELATED::<a href="/entities/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a><br />
-RELATED::<a href="/entities/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal Pathway</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Autophagy-Lysosomal Pathway</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Progressive Supranuclear Palsy</a><br />
-AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a><br />
+AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a><br />
 RELATED::<a href="/entities/biomarker/mtbr-tau243/" class="internal-link">MTBR-tau243</a><br />
 AFFECTS_ORGAN::<a href="/entities/organ/orbitofrontal-cortex/" class="internal-link">Orbitofrontal Cortex</a></p>
 <h3>Risk Biomarkers</h3>

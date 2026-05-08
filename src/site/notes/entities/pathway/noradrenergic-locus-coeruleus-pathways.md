@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.407245Z'
+created: '2026-05-08T08:21:33.898033Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/pathway/noradrenergic-locus-coeruleus-pathways/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Noradrenergic Locus Coeruleus Pathways
 type: pathway
-updated: '2026-04-30T06:31:03.407245Z'
+updated: '2026-05-08T08:21:33.898033Z'
 ---
 
 {% raw %}
@@ -30,7 +30,7 @@ MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" cla
 MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
 MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/l-theanine/" class="internal-link">L-Theanine</a></p>
 <h3>Associated Biomarker</h3>
-<p>ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Norepinephrine</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a></p>
 <h3>Associated With Condition</h3>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:02.639579Z'
+created: '2026-05-08T08:21:33.357062Z'
 description: 3-Ketoacyl-CoA is the final intermediate of the mitochondrial beta-oxidation
   cycle before thiolytic cleavage by beta-ketothiolase. This reaction releases acetyl-CoA
   and a fatty acyl-CoA shortened by two carbons, which re-enters the beta-oxidation
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: 3-Ketoacyl-CoA
 type: metabolite
-updated: '2026-04-30T06:31:02.639579Z'
+updated: '2026-05-08T08:21:33.357062Z'
 ---
 
 {% raw %}
@@ -79,8 +79,8 @@ updated: '2026-04-30T06:31:02.639579Z'
 <h3>Enzymes</h3>
 <p>ACTIVATES::<a href="/entities/protein/thiolase/" class="internal-link">Thiolase</a></p>
 <h3>Related Metabolites</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Fatty Acyl-CoA</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Enoyl-CoA</a><br />
+<p>RELATED::<a href="/entities/metabolite/fatty-acyl-coa/" class="internal-link">Fatty Acyl-CoA</a><br />
+RELATED::<a href="/entities/metabolite/enoyl-coa/" class="internal-link">Enoyl-CoA</a><br />
 RELATED::<a href="/entities/metabolite/coenzyme-a/" class="internal-link">Coenzyme A</a><br />
 RELATED::<a href="/entities/metabolite/nadh/" class="internal-link">NADH</a><br />
 RELATED::<a href="/entities/metabolite/atp/" class="internal-link">ATP</a><br />

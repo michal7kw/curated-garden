@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.122943Z'
+created: '2026-05-08T08:21:33.766423Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/precuneus/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Precuneus
 type: organ
-updated: '2026-04-30T06:31:03.122943Z'
+updated: '2026-05-08T08:21:33.766423Z'
 ---
 
 {% raw %}
@@ -19,7 +19,7 @@ updated: '2026-04-30T06:31:03.122943Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/organ/posterior-cingulate-cortex/" class="internal-link">Posterior Cingulate Cortex</a><br />
-RELATED::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hippocampus</a><br />
 RELATED::<a href="/entities/anatomy/parietal-lobe/" class="internal-link">Parietal Lobe</a></p>
 <h3>Supports Function</h3>
 <p>SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a><br />

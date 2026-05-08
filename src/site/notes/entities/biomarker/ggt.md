@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:57.707044Z'
+created: '2026-05-08T08:21:31.781398Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/ggt/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Ggt
 type: biomarker
-updated: '2026-04-30T06:30:57.707044Z'
+updated: '2026-05-08T08:21:31.781398Z'
 ---
 
 {% raw %}

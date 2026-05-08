@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:01.054016Z'
+created: '2026-05-08T08:21:32.826064Z'
 description: Form of intermittent fasting that restricts daily food intake to a consistent
   window (typically 8-12 hours), aligning eating with circadian rhythms. Distinguished
   from general intermittent fasting by emphasis on meal timing rather than caloric
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Time-Restricted Eating
 type: intervention
-updated: '2026-04-30T06:31:01.054016Z'
+updated: '2026-05-08T08:21:32.826064Z'
 ---
 
 {% raw %}
@@ -70,7 +70,7 @@ MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">c
 AFFECTS_BIOMARKER::<a href="/entities/labtest/triglycerides/" class="internal-link">triglycerides</a> (reduced with TRE, especially early TRE, Evidence Level 2a)<br />
 AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a> (reduced oxidative stress and inflammation, Evidence Level 2b)</p>
 <h3>Modulates Pathway</h3>
-<p>MODULATES_PATHWAY::<a href="/entities/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal Pathway</a> (extended fasting window activates autophagy via mTOR suppression, Evidence Level 2b)</p>
+<p>MODULATES_PATHWAY::<a class="internal-link is-unresolved" href="/404">Autophagy-Lysosomal Pathway</a> (extended fasting window activates autophagy via mTOR suppression, Evidence Level 2b)</p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/type-2-diabetes/" class="internal-link">Type 2 Diabetes</a> (improved insulin sensitivity and glycemic control, Evidence Level 1b)<br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/hypertension/" class="internal-link">Hypertension</a> (4-7 mmHg systolic reduction, Evidence Level 2a)</p>

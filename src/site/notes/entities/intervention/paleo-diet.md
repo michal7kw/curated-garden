@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.999871Z'
+created: '2026-05-08T08:21:32.810017Z'
 description: 'Ancestral eating pattern emphasizing whole foods available to Paleolithic
   humans: meat, fish, vegetables, fruits, nuts, and seeds. Excludes grains, legumes,
   dairy, refined sugar, and processed foods.'
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Paleo Diet
 type: intervention
-updated: '2026-04-30T06:31:00.999871Z'
+updated: '2026-05-08T08:21:32.810017Z'
 ---
 
 {% raw %}

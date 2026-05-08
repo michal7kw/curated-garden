@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:01.299651Z'
+created: '2026-05-08T08:21:32.934876Z'
 description: 14-test panel measuring glucose, electrolytes, kidney function (BUN,
   creatinine), liver enzymes (ALT, AST, ALP), and proteins.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: comprehensive_metabolic_panel
 type: labtest
-updated: '2026-04-30T06:31:01.299651Z'
+updated: '2026-05-08T08:21:32.934876Z'
 ---
 
 {% raw %}

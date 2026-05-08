@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:04.339187Z'
+created: '2026-05-08T08:21:34.322926Z'
 description: CDP-choline, a naturally occurring compound that provides both choline
   and cytidine. Superior nootropic supporting phosphatidylcholine synthesis, dopamine
   signaling, and neuroprotection.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Citicoline
 type: supplement
-updated: '2026-04-30T06:31:04.339187Z'
+updated: '2026-05-08T08:21:34.322926Z'
 ---
 
 {% raw %}
@@ -41,8 +41,8 @@ updated: '2026-04-30T06:31:04.339187Z'
 <p>RELATED::<a href="/entities/supplement/alpha-gpc/" class="internal-link">Alpha-GPC</a> (alternative choline source with different pharmacokinetics)<br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Uridine</a> (cytidine component converts to uridine in vivo)</p>
 <h3>Modulates Neurotransmitter</h3>
-<p>MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Acetylcholine</a><br />
-MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Dopamine</a></p>
+<p>MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a><br />
+MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/memory-disorders/" class="internal-link">Memory Disorders</a><br />

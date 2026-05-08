@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.428310Z'
+created: '2026-05-08T08:21:33.909274Z'
 description: Serotonergic projections from the dorsal and median raphe nuclei to widespread
   cortical and subcortical targets. Modulates mood, sleep, appetite, pain, and cognition.
   Primary target of SSRI antidepressants.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Raphe Serotonin Pathway
 type: pathway
-updated: '2026-04-30T06:31:03.428310Z'
+updated: '2026-05-08T08:21:33.909274Z'
 ---
 
 {% raw %}
@@ -31,10 +31,10 @@ updated: '2026-04-30T06:31:03.428310Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related To</h3>
-<p>RELATED::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal_Cortex</a><br />
-RELATED::<a href="/entities/anatomy/hypothalamus/" class="internal-link">Hypothalamus</a><br />
-RELATED::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a><br />
-RELATED::<a href="/entities/anatomy/amygdala/" class="internal-link">Amygdala</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Prefrontal_Cortex</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hypothalamus</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hippocampus</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Amygdala</a><br />
 RELATED::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a></p>
 <h3>Associated With Condition</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />

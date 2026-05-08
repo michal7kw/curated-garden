@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:04.324289Z'
+created: '2026-05-08T08:21:34.316589Z'
 description: Essential trace mineral that enhances insulin signaling and glucose metabolism.
   Chromium picolinate is the most bioavailable form. Important for blood sugar regulation.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Chromium
 type: supplement
-updated: '2026-04-30T06:31:04.324289Z'
+updated: '2026-05-08T08:21:34.316589Z'
 ---
 
 {% raw %}

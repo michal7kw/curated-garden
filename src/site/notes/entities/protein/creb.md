@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.785524Z'
+created: '2026-05-08T08:21:34.070948Z'
 description: cAMP response element-binding protein, a master transcription factor
   for long-term memory formation and neuronal survival. Activated by phosphorylation
   at Ser133 via PKA, CaMKIV, and MAPK/RSK cascades in response to synaptic activity,
@@ -21,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: CREB
 type: protein
-updated: '2026-04-30T06:31:03.785524Z'
+updated: '2026-05-08T08:21:34.070948Z'
 ---
 
 {% raw %}
@@ -95,7 +95,7 @@ ACTIVATED_BY::<a href="/entities/drug/nicotine/" class="internal-link">Nicotine<
 <h3>Supports Function</h3>
 <p>SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/memory-and-learning/" class="internal-link">Memory and Learning</a></p>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a><br />
+<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Hippocampus</a><br />
 AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 <h3>Participates In Pathway</h3>
 <p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/basal-forebrain-cholinergic-pathway/" class="internal-link">Basal Forebrain Cholinergic Pathway</a></p>

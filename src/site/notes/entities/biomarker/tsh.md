@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:58.115672Z'
+created: '2026-05-08T08:21:31.911786Z'
 description: Thyroid Stimulating Hormone (TSH, thyrotropin) is a glycoprotein hormone
   produced by the anterior pituitary that regulates thyroid hormone production. It
   is the single most sensitive screening test for thyroid dysfunction, with a logarithmic
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Tsh
 type: biomarker
-updated: '2026-04-30T06:30:58.115672Z'
+updated: '2026-05-08T08:21:31.911786Z'
 ---
 
 {% raw %}

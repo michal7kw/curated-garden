@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:59.511171Z'
+created: '2026-05-08T08:21:32.310553Z'
 description: A progressive neurodegenerative disorder characterized by motor symptoms
   including tremor, rigidity, and bradykinesia, caused by dopaminergic neuron loss
   in the substantia nigra and alpha-synuclein aggregation.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Parkinson's Disease
 type: condition
-updated: '2026-04-30T06:30:59.511171Z'
+updated: '2026-05-08T08:21:32.310553Z'
 ---
 
 {% raw %}
@@ -57,11 +57,11 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Deep Brain Stimulati
 AFFECTS_ORGAN::<a href="/entities/organ/basal-ganglia/" class="internal-link">Basal Ganglia</a><br />
 RELATED::<a href="/entities/biomarker/neuron-derived-exosome-biomarkers/" class="internal-link">Neuron-Derived Exosome Biomarkers</a><br />
 AFFECTS_ORGAN::<a href="/entities/organ/striatum/" class="internal-link">Striatum</a><br />
-AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/substantia-nigra/" class="internal-link">Substantia Nigra</a><br />
+AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Substantia Nigra</a><br />
 RELATED::<a href="/entities/pathway/mitophagy/" class="internal-link">Mitophagy</a><br />
 RELATED::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br />
-AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/locus-coeruleus/" class="internal-link">Locus Coeruleus</a><br />
-RELATED::<a href="/entities/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal Pathway</a><br />
+AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Locus Coeruleus</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Autophagy-Lysosomal Pathway</a><br />
 RELATED::<a href="/entities/supplement/creatine/" class="internal-link">Creatine</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">DAT-SPECT</a><br />
 RELATED::<a href="/entities/biomarker/blood-nfl/" class="internal-link">Blood NfL</a><br />
@@ -77,7 +77,7 @@ RELATED::<a href="/entities/pathway/neuroinflammation/" class="internal-link">Ne
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/biomarker/blood-nfl/" class="internal-link">Blood NfL</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br />
-ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
+ASSOCIATED_WITH::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/uric-acid/" class="internal-link">Uric Acid</a></p>
 <h3>Improved By Supplement</h3>

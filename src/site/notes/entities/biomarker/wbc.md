@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:58.148092Z'
+created: '2026-05-08T08:21:31.921845Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/wbc/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Wbc
 type: biomarker
-updated: '2026-04-30T06:30:58.148092Z'
+updated: '2026-05-08T08:21:31.921845Z'
 ---
 
 {% raw %}

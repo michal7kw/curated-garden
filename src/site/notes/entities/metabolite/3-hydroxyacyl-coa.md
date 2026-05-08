@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:02.627967Z'
+created: '2026-05-08T08:21:33.351389Z'
 description: L-3-Hydroxyacyl-CoA is the hydroxylated intermediate of the beta-oxidation
   spiral, formed by stereospecific hydration of trans-2-enoyl-CoA. Its oxidation by
   3-hydroxyacyl-CoA dehydrogenase generates NADH and produces 3-ketoacyl-CoA, making
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: 3-Hydroxyacyl-CoA
 type: metabolite
-updated: '2026-04-30T06:31:02.627967Z'
+updated: '2026-05-08T08:21:33.351389Z'
 ---
 
 {% raw %}
@@ -108,14 +108,14 @@ updated: '2026-04-30T06:31:02.627967Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Produced By</h3>
-<p>PRODUCED_BY::<a class="internal-link is-unresolved" href="/404">Enoyl-CoA</a></p>
+<p>PRODUCED_BY::<a href="/entities/metabolite/enoyl-coa/" class="internal-link">Enoyl-CoA</a></p>
 <h3>Produces</h3>
 <p>PRODUCES::<a href="/entities/metabolite/3-ketoacyl-coa/" class="internal-link">3-Ketoacyl-CoA</a><br />
 PRODUCES::<a href="/entities/metabolite/nadh/" class="internal-link">NADH</a></p>
 <h3>Participates In</h3>
 <p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/beta-oxidation/" class="internal-link">Beta-Oxidation</a></p>
 <h3>Related Metabolites</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Fatty Acyl-CoA</a><br />
+<p>RELATED::<a href="/entities/metabolite/fatty-acyl-coa/" class="internal-link">Fatty Acyl-CoA</a><br />
 RELATED::<a href="/entities/metabolite/acetyl-coa/" class="internal-link">Acetyl-CoA</a><br />
 RELATED::<a href="/entities/metabolite/coenzyme-a/" class="internal-link">Coenzyme A</a><br />
 RELATED::<a href="/entities/metabolite/atp/" class="internal-link">ATP</a><br />

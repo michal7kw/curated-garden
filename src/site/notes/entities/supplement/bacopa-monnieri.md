@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:04.267920Z'
+created: '2026-05-08T08:21:34.286704Z'
 description: An Ayurvedic herb (Brahmi) traditionally used for cognitive enhancement.
   Contains bacosides that support memory consolidation, reduce anxiety, and provide
   neuroprotection through antioxidant mechanisms.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Bacopa Monnieri
 type: supplement
-updated: '2026-04-30T06:31:04.267920Z'
+updated: '2026-05-08T08:21:34.286704Z'
 ---
 
 {% raw %}
@@ -33,21 +33,21 @@ updated: '2026-04-30T06:31:04.267920Z'
 RELATED::<a href="/entities/intervention/cognitive-training/" class="internal-link">Cognitive Training</a><br />
 MODULATES_PATHWAY::<a href="/entities/pathway/serotonergic-raphe-pathways/" class="internal-link">Serotonergic Raphe Pathways</a><br />
 MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
-RELATED::<a href="/entities/anatomy/amygdala/" class="internal-link">Amygdala</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Amygdala</a><br />
 RELATED::<a href="/entities/supplement/phosphatidylserine/" class="internal-link">Phosphatidylserine</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a><br />
-MODULATES_PATHWAY::<a href="/entities/pathway/cholinergic-basal-forebrain-pathways/" class="internal-link">Cholinergic Basal Forebrain Pathways</a><br />
+MODULATES_PATHWAY::<a class="internal-link is-unresolved" href="/404">Cholinergic Basal Forebrain Pathways</a><br />
 RELATED::<a href="/entities/supplement/ginkgo-biloba/" class="internal-link">Ginkgo Biloba</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Age-Related Cognitive Decline</a><br />
 RELATED::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">ADHD</a><br />
-RELATED::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a><br />
 RELATED::<a href="/entities/supplement/lions-mane/" class="internal-link">Lions Mane</a><br />
-RELATED::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hippocampus</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/anxiety/" class="internal-link">Anxiety</a></p>
 <h3>Modulates Neurotransmitter</h3>
 <p>MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
-MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Acetylcholine</a></p>
+MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a></p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/memory-disorders/" class="internal-link">Memory Disorders</a><br />

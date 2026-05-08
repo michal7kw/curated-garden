@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.372367Z'
+created: '2026-05-08T08:21:33.877757Z'
 description: Mitophagy is the selective degradation of damaged or dysfunctional mitochondria
   by autophagy. It is a critical quality control mechanism that maintains cellular
   health by removing mitochondria that could otherwise produce excessive reactive
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Mitophagy
 type: pathway
-updated: '2026-04-30T06:31:03.372367Z'
+updated: '2026-05-08T08:21:33.877757Z'
 ---
 
 {% raw %}
@@ -30,7 +30,7 @@ updated: '2026-04-30T06:31:03.372367Z'
 <h3>Modulated By</h3>
 <p>MODULATED_BY::<a href="/entities/drug/nicotine/" class="internal-link">Nicotine</a></p>
 <h3>Subtype Of</h3>
-<p>SUBTYPE_OF::<a href="/entities/biologicalprocess/autophagy/" class="internal-link">Autophagy</a></p>
+<p>SUBTYPE_OF::<a href="/entities/pathway/autophagy/" class="internal-link">Autophagy</a></p>
 <h3>Affects</h3>
 <p>AFFECTS::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 <h3>Modulated By Supplement</h3>

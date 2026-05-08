@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:58.224919Z'
+created: '2026-05-08T08:21:31.937482Z'
 description: Single-membrane organelle containing oxidative enzymes, primarily catalase
   and various oxidases. Specializes in very-long-chain fatty acid beta-oxidation,
   plasmalogen synthesis, and reactive oxygen species (ROS) detoxification. Plays a
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Peroxisome
 type: cellularcomponent
-updated: '2026-04-30T06:30:58.224919Z'
+updated: '2026-05-08T08:21:31.937482Z'
 ---
 
 {% raw %}

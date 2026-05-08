@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.091482Z'
+created: '2026-05-08T08:21:32.470150Z'
 description: First-generation typical antipsychotic used for schizophrenia, manic
   episodes, and nausea. Acts primarily as a dopamine D2 receptor antagonist.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Chlorpromazine
 type: drug
-updated: '2026-04-30T06:31:00.091482Z'
+updated: '2026-05-08T08:21:32.470150Z'
 ---
 
 {% raw %}
@@ -38,12 +38,12 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Salmon calcitonin</a
 RELATED::<a class="internal-link is-unresolved" href="/404">Bipolar Disorder</a><br />
 INTERACTS_WITH::<a href="/entities/drug/amlodipine/" class="internal-link">Amlodipine</a><br />
 RELATED::<a href="/entities/phenotype/nausea/" class="internal-link">Nausea</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
+RELATED::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Hiccups</a></p>
 <h3>Enriched</h3>
 <p>TREATS::<a href="/entities/condition/anxiety/" class="internal-link">Anxiety</a><br />
 TREATS::<a href="/entities/phenotype/nausea/" class="internal-link">Nausea</a><br />
-AFFECTS_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
+AFFECTS_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
 AFFECTS_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
 SIDE_EFFECT::<a href="/entities/sideeffect/qt-prolongation/" class="internal-link">QT Prolongation</a></p>
 

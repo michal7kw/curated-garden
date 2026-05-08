@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:01.833102Z'
+created: '2026-05-08T08:21:33.113675Z'
 description: N-terminal pro-B-type Natriuretic Peptide (NT-proBNP) test. Inactive
   fragment released during BNP synthesis. More stable than BNP with age-dependent
   cutoffs. Preferred for monitoring patients on sacubitril/valsartan therapy.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: nt_probnp
 type: labtest
-updated: '2026-04-30T06:31:01.833102Z'
+updated: '2026-05-08T08:21:33.113675Z'
 ---
 
 {% raw %}

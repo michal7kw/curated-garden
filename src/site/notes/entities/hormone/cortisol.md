@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.802958Z'
+created: '2026-05-08T08:21:32.711673Z'
 description: Primary glucocorticoid stress hormone produced by the adrenal cortex
   via the HPA axis. Essential for glucose metabolism, immune modulation, and stress
   response. Chronic elevation drives visceral obesity, immunosuppression, hippocampal
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Cortisol
 type: hormone
-updated: '2026-04-30T06:31:00.802958Z'
+updated: '2026-05-08T08:21:32.711673Z'
 ---
 
 {% raw %}
@@ -55,8 +55,8 @@ updated: '2026-04-30T06:31:00.802958Z'
 <p>RELATED::<a href="/entities/hormone/dhea/" class="internal-link">DHEA</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Epinephrine</a><br />
 RELATED::<a href="/entities/hormone/melatonin/" class="internal-link">Melatonin</a><br />
-RELATED::<a href="/entities/anatomy/hypothalamus/" class="internal-link">Hypothalamus</a><br />
-RELATED::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a></p>
+RELATED::<a class="internal-link is-unresolved" href="/404">Hypothalamus</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hippocampus</a></p>
 <h3>Antagonistic With</h3>
 <p>ANTAGONISTIC_WITH::<a href="/entities/hormone/dhea/" class="internal-link">DHEA</a><br />
 ANTAGONISTIC_WITH::<a href="/entities/hormone/melatonin/" class="internal-link">Melatonin</a><br />
@@ -69,9 +69,9 @@ AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/cold-exposure/" class=
 AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/yoga/" class="internal-link">Yoga</a><br />
 AFFECTED_BY_INTERVENTION::<a href="/entities/intervention/sleep-optimization/" class="internal-link">Sleep Optimization</a></p>
 <h3>Affects Brain Region</h3>
-<p>AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a><br />
-AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/amygdala/" class="internal-link">Amygdala</a><br />
-AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a></p>
+<p>AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Hippocampus</a><br />
+AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Amygdala</a><br />
+AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:15261529</li>

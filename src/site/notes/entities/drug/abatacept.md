@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.012933Z'
+created: '2026-05-08T08:21:32.438611Z'
 description: CTLA-4-Ig fusion protein that inhibits T-cell activation by blocking
   CD80/CD86-CD28 costimulatory signal. Unique mechanism targeting upstream adaptive
   immune response rather than downstream cytokines. Preferred in anti-CCP positive
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Abatacept
 type: drug
-updated: '2026-04-30T06:31:00.012933Z'
+updated: '2026-05-08T08:21:32.438611Z'
 ---
 
 {% raw %}

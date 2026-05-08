@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:57.506359Z'
+created: '2026-05-08T08:21:31.713875Z'
 description: Serum chloride is the major extracellular anion, working in close concert
   with sodium to maintain osmotic pressure, fluid balance, and acid-base homeostasis.
   It is routinely measured as part of the comprehensive metabolic panel and basic
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Chloride
 type: biomarker
-updated: '2026-04-30T06:30:57.506359Z'
+updated: '2026-05-08T08:21:31.713875Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:58.545104Z'
+created: '2026-05-08T08:21:32.020220Z'
 description: A fatal neurodegenerative disease characterized by progressive loss of
   upper and lower motor neurons, leading to muscle weakness, paralysis, and death
   typically within 2-5 years of symptom onset.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Amyotrophic Lateral Sclerosis
 type: condition
-updated: '2026-04-30T06:30:58.545104Z'
+updated: '2026-05-08T08:21:32.020220Z'
 ---
 
 {% raw %}
@@ -44,7 +44,7 @@ RELATED::<a href="/entities/pathway/neuroinflammation/" class="internal-link">Ne
 RELATED::<a class="internal-link is-unresolved" href="/404">Non-Invasive Ventilation</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Riluzole</a><br />
 RELATED::<a href="/entities/biomarker/creatine-kinase/" class="internal-link">Creatine Kinase</a><br />
-RELATED::<a href="/entities/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal Pathway</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Autophagy-Lysosomal Pathway</a><br />
 RELATED::<a href="/entities/biomarker/digital-biomarkers-for-neurodegeneration/" class="internal-link">Digital Biomarkers for Neurodegeneration</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">EMG and Nerve Conduction Studies</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Phospho-Neurofilament Heavy</a><br />

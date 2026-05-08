@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.924222Z'
+created: '2026-05-08T08:21:34.127598Z'
 description: Pro-inflammatory cytokine and master regulator of innate immunity. Produced
   by activated macrophages via NLRP3 inflammasome cleavage by caspase-1. Central to
   acute gout pathogenesis (urate crystals activate NLRP3), systemic JIA, and cartilage
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Interleukin-1 Beta
 type: protein
-updated: '2026-04-30T06:31:03.924222Z'
+updated: '2026-05-08T08:21:34.127598Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:58.635392Z'
+created: '2026-05-08T08:21:32.052193Z'
 description: Illnesses caused by harmful bacteria, ranging from mild skin infections
   to severe systemic diseases.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Bacterial Infections
 type: condition
-updated: '2026-04-30T06:30:58.635392Z'
+updated: '2026-05-08T08:21:32.052193Z'
 ---
 
 {% raw %}

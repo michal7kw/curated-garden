@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:01.115907Z'
+created: '2026-05-08T08:21:32.855717Z'
 description: Tested twice a year Albumin is the most abundant protein in the blood
   and plays a vital role in maintaining fluid balance and transporting nutrients.
   Healthy albumin levels are a good indicator of liver function and overall health.
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: albumin
 type: labtest
-updated: '2026-04-30T06:31:01.115907Z'
+updated: '2026-05-08T08:21:32.855717Z'
 ---
 
 {% raw %}

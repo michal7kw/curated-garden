@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:58.837850Z'
+created: '2026-05-08T08:21:32.112327Z'
 description: A serious mood disorder characterized by persistent feelings of sadness,
   hopelessness, and a loss of interest in activities once enjoyed. Lifetime prevalence
   of 15-20%. Involves dysregulation of serotonin, norepinephrine, dopamine, HPA axis,
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Depression
 type: condition
-updated: '2026-04-30T06:30:58.837850Z'
+updated: '2026-05-08T08:21:32.112327Z'
 ---
 
 {% raw %}
@@ -67,7 +67,7 @@ RELATED::<a href="/entities/supplement/creatine/" class="internal-link">Creatine
 RELATED::<a href="/entities/drug/quetiapine/" class="internal-link">Quetiapine</a><br />
 RELATED::<a href="/entities/drug/doxepin/" class="internal-link">Doxepin</a><br />
 RELATED::<a href="/entities/condition/treatment-resistant-depression/" class="internal-link">Treatment-Resistant Depression</a><br />
-RELATED::<a href="/entities/biologicalprocess/serotonin-reuptake/" class="internal-link">Serotonin Reuptake</a></p>
+RELATED::<a href="/entities/pathway/serotonin-reuptake/" class="internal-link">Serotonin Reuptake</a></p>
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br />
 ASSOCIATED_WITH::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />

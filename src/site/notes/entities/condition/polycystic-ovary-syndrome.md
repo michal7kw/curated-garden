@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:59.594749Z'
+created: '2026-05-08T08:21:32.335185Z'
 description: A hormonal disorder common among women of reproductive age, characterized
   by irregular periods, excess androgen levels, and cysts on the ovaries.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Polycystic Ovary Syndrome
 type: condition
-updated: '2026-04-30T06:30:59.594749Z'
+updated: '2026-05-08T08:21:32.335185Z'
 ---
 
 {% raw %}

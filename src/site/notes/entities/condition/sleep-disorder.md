@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:59.840877Z'
+created: '2026-05-08T08:21:32.391252Z'
 description: A broad category of conditions that disrupt normal sleep patterns, affecting
   the quality, timing, and amount of sleep.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Sleep Disorder
 type: condition
-updated: '2026-04-30T06:30:59.840877Z'
+updated: '2026-05-08T08:21:32.391252Z'
 ---
 
 {% raw %}

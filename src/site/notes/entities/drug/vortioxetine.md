@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.554842Z'
+created: '2026-05-08T08:21:32.619103Z'
 description: Multimodal antidepressant (Trintellix/Brintellix) that combines SERT
   inhibition with direct modulation of multiple serotonin receptors — 5-HT3 antagonist,
   5-HT7 antagonist, 5-HT1D antagonist, 5-HT1B partial agonist, and 5-HT1A agonist.
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Vortioxetine
 type: drug
-updated: '2026-04-30T06:31:00.554842Z'
+updated: '2026-05-08T08:21:32.619103Z'
 ---
 
 {% raw %}
@@ -108,9 +108,9 @@ ANTAGONIZES::<a href="/entities/protein/5-ht2a-receptor/" class="internal-link">
 INTERACTS_WITH::<a href="/entities/supplement/l-tryptophan/" class="internal-link">L-Tryptophan</a><br />
 INTERACTS_WITH::<a href="/entities/supplement/5-htp/" class="internal-link">5-HTP</a></p>
 <h3>Affects Brain Region</h3>
-<p>AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a><br />
-AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/amygdala/" class="internal-link">Amygdala</a><br />
-AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a></p>
+<p>AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a><br />
+AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Amygdala</a><br />
+AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Hippocampus</a></p>
 <h3>Side Effects</h3>
 <p>CAUSES::<a href="/entities/sideeffect/sexual-dysfunction/" class="internal-link">Sexual Dysfunction</a><br />
 CAUSES::<a href="/entities/sideeffect/serotonin-syndrome/" class="internal-link">Serotonin Syndrome</a></p>

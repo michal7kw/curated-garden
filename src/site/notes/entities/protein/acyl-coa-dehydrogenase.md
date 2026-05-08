@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.746881Z'
+created: '2026-05-08T08:21:34.036922Z'
 description: Family of FAD-dependent enzymes catalyzing the first step of each beta-oxidation
   cycle. Introduces a trans double bond in the fatty acyl-CoA chain, producing enoyl-CoA
   and transferring electrons to the ETC via ETF/ETFQO.
@@ -15,13 +15,13 @@ tags:
 templateEngineOverride: njk
 title: Acyl-CoA Dehydrogenase
 type: protein
-updated: '2026-04-30T06:31:03.746881Z'
+updated: '2026-05-08T08:21:34.036922Z'
 ---
 
 {% raw %}
 <h1>Acyl-CoA Dehydrogenase</h1>
 <h2>Overview</h2>
-<p>Acyl-CoA dehydrogenases (ACADs) catalyze the first reaction of each <a href="/entities/pathway/beta-oxidation/" class="internal-link">Beta-Oxidation</a> cycle, oxidizing <a class="internal-link is-unresolved" href="/404">Fatty Acyl-CoA</a> to <a class="internal-link is-unresolved" href="/404">Enoyl-CoA</a> while producing <a href="/entities/metabolite/fadh2/" class="internal-link">FADH2</a>. Multiple chain-length-specific isoforms ensure efficient processing of fatty acids of all lengths.</p>
+<p>Acyl-CoA dehydrogenases (ACADs) catalyze the first reaction of each <a href="/entities/pathway/beta-oxidation/" class="internal-link">Beta-Oxidation</a> cycle, oxidizing <a href="/entities/metabolite/fatty-acyl-coa/" class="internal-link">Fatty Acyl-CoA</a> to <a href="/entities/metabolite/enoyl-coa/" class="internal-link">Enoyl-CoA</a> while producing <a href="/entities/metabolite/fadh2/" class="internal-link">FADH2</a>. Multiple chain-length-specific isoforms ensure efficient processing of fatty acids of all lengths.</p>
 <h2>Isoforms</h2>
 <table>
 <thead>
@@ -61,7 +61,7 @@ updated: '2026-04-30T06:31:03.746881Z'
 </table>
 <h2>Mechanism of Action</h2>
 <ul>
-<li><strong>Oxidation</strong>: Fatty acyl-CoA → trans-Δ2-<a class="internal-link is-unresolved" href="/404">Enoyl-CoA</a> (introduces C2=C3 double bond)</li>
+<li><strong>Oxidation</strong>: Fatty acyl-CoA → trans-Δ2-<a href="/entities/metabolite/enoyl-coa/" class="internal-link">Enoyl-CoA</a> (introduces C2=C3 double bond)</li>
 <li><strong>Electron transfer</strong>: FAD → FADH2 → ETF → ETFQO → ubiquinone pool → <a href="/entities/pathway/electron-transport-chain/" class="internal-link">Electron Transport Chain</a></li>
 <li><strong>Each cycle</strong>: Produces 1 FADH2 (≈1.5 ATP via ETC)</li>
 </ul>
@@ -75,8 +75,8 @@ updated: '2026-04-30T06:31:03.746881Z'
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a></p>
 <h3>Catalyzes</h3>
-<p>CATALYZES::<a class="internal-link is-unresolved" href="/404">Fatty_Acyl-CoA</a><br />
-CATALYZES::<a class="internal-link is-unresolved" href="/404">Enoyl-CoA</a></p>
+<p>CATALYZES::<a href="/entities/metabolite/fatty-acyl-coa/" class="internal-link">Fatty_Acyl-CoA</a><br />
+CATALYZES::<a href="/entities/metabolite/enoyl-coa/" class="internal-link">Enoyl-CoA</a></p>
 <h3>Participates In Pathway</h3>
 <p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/electron-transport-chain/" class="internal-link">Electron_Transport_Chain</a></p>
 <h3>Participates In</h3>

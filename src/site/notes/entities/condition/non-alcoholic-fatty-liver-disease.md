@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:59.375777Z'
+created: '2026-05-08T08:21:32.280818Z'
 description: A range of liver conditions affecting people who drink little to no alcohol,
   characterized by too much fat stored in liver cells.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Non-alcoholic Fatty Liver Disease
 type: condition
-updated: '2026-04-30T06:30:59.375777Z'
+updated: '2026-05-08T08:21:32.280818Z'
 ---
 
 {% raw %}

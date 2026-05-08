@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:02.950578Z'
+created: '2026-05-08T08:21:33.674078Z'
 description: Indolamine monoamine neurotransmitter (5-hydroxytryptamine, 5-HT) synthesized
   from the essential amino acid tryptophan. Approximately 90-95% of the body's serotonin
   is produced peripherally in enterochromaffin cells of the gastrointestinal tract
@@ -22,7 +22,7 @@ tags:
 templateEngineOverride: njk
 title: Serotonin
 type: neurotransmitter
-updated: '2026-04-30T06:31:02.950578Z'
+updated: '2026-05-08T08:21:33.674078Z'
 ---
 
 {% raw %}
@@ -297,7 +297,7 @@ TARGETED_BY_DRUG::<a href="/entities/drug/doxepin/" class="internal-link">Doxepi
 TARGETED_BY_DRUG::<a href="/entities/drug/clozapine/" class="internal-link">Clozapine</a><br />
 TARGETED_BY_DRUG::<a href="/entities/drug/quetiapine/" class="internal-link">Quetiapine</a></p>
 <h3>Processes</h3>
-<p>PARTICIPATES_IN_PATHWAY::<a href="/entities/biologicalprocess/serotonin-reuptake/" class="internal-link">Serotonin Reuptake</a></p>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/serotonin-reuptake/" class="internal-link">Serotonin Reuptake</a></p>
 <h2>References</h2>
 <ul>
 <li>Berger M, Gray JA, Roth BL. The expanded biology of serotonin. <em>Annu Rev Med.</em> 2009;60:355-66. — Comprehensive review of serotonin's diverse biological roles beyond mood, including GI, cardiovascular, and bone functions. (PMID: 19630576)</li>

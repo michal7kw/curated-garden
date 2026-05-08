@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.401143Z'
+created: '2026-05-08T08:21:33.895275Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/pathway/nigrostriatal-dopamine-pathway/
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Nigrostriatal Dopamine Pathway
 type: pathway
-updated: '2026-04-30T06:31:03.401143Z'
+updated: '2026-05-08T08:21:33.895275Z'
 ---
 
 {% raw %}
@@ -34,7 +34,7 @@ MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/nac/" class="internal-lin
 MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
 MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a></p>
 <h3>Associated Biomarker</h3>
-<p>ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Dopamine</a></p>
+<p>ASSOCIATED_WITH::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
 <h3>Associated With Condition</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/parkinsons-disease/" class="internal-link">Parkinson's Disease</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a></p>

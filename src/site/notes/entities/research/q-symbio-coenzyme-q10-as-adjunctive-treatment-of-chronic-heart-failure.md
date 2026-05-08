@@ -1,7 +1,7 @@
 ---
 aliases:
 - Q-SYMBIO Coenzyme Q10 as adjunctive treatment of chronic heart failure
-created: '2026-04-30T06:31:04.143796Z'
+created: '2026-05-08T08:21:34.225471Z'
 description: The Q-SYMBIO trial was a landmark multicenter, randomized, double-blind,
   placebo-controlled study demonstrating that CoQ10 supplementation (300 mg/day for
   2 years) significantly reduced cardiovascular mortality and hospitalizations in
@@ -23,7 +23,7 @@ tags:
 templateEngineOverride: njk
 title: 'Q-SYMBIO: Coenzyme Q10 as adjunctive treatment of chronic heart failure'
 type: research
-updated: '2026-04-30T06:31:04.143796Z'
+updated: '2026-05-08T08:21:34.225471Z'
 ---
 
 {% raw %}

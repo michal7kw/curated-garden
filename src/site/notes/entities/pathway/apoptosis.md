@@ -1,14 +1,14 @@
 ---
-created: '2026-04-30T06:30:56.961587Z'
+created: '2026-05-08T08:21:33.797336Z'
 description: Programmed cell death mechanism essential for tissue homeostasis, immune
   regulation, and elimination of damaged or potentially cancerous cells through an
   orderly cascade of caspase activation.
 dg-home: false
 dg-publish: true
-permalink: /entities/biologicalprocess/apoptosis/
+permalink: /entities/pathway/apoptosis/
 slug: apoptosis
 tags:
-- biologicalprocess
+- pathway
 - biological_process
 - cell_death
 - cancer_biology
@@ -16,8 +16,8 @@ tags:
 - homeostasis
 templateEngineOverride: njk
 title: Apoptosis
-type: biologicalprocess
-updated: '2026-04-30T06:30:56.961587Z'
+type: pathway
+updated: '2026-05-08T08:21:33.797336Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.490073Z'
+created: '2026-05-08T08:21:32.591605Z'
 description: GLP-1 receptor agonist for type 2 diabetes and obesity. Revolutionary
   drug providing significant weight loss and cardiovascular benefits. Available as
   injectable (Ozempic, Wegovy) and oral (Rybelsus). Demonstrated 15-17% body weight
@@ -21,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: Semaglutide
 type: drug
-updated: '2026-04-30T06:31:00.490073Z'
+updated: '2026-05-08T08:21:32.591605Z'
 ---
 
 {% raw %}
@@ -114,7 +114,7 @@ AFFECTS_ORGAN::<a href="/entities/organ/liver/" class="internal-link">Liver</a> 
 AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a> (cardioprotective effects, Evidence Level 1a)<br />
 AFFECTS_ORGAN::<a href="/entities/organ/kidneys/" class="internal-link">Kidneys</a> (renal protective effects, Evidence Level 1a)<br />
 AFFECTS_ORGAN::<a href="/entities/organ/intestines/" class="internal-link">Intestines</a> (delays gastric emptying, Evidence Level 1a)<br />
-AFFECTS_ORGAN::<a href="/entities/anatomy/hypothalamus/" class="internal-link">Hypothalamus</a> (reduces appetite via central mechanisms, Evidence Level 2b)</p>
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Hypothalamus</a> (reduces appetite via central mechanisms, Evidence Level 2b)</p>
 <h3>Modulates Pathway</h3>
 <p>MODULATES::<a href="/entities/pathway/glp-1-signaling-pathway/" class="internal-link">GLP-1 Signaling Pathway</a> (activates GLP-1 receptors, Evidence Level 1a)<br />
 MODULATES::<a href="/entities/pathway/insulin-signaling/" class="internal-link">Insulin Signaling</a> (improves insulin sensitivity, Evidence Level 2b)<br />

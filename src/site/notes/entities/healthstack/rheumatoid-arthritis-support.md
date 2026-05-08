@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.767146Z'
+created: '2026-05-08T08:21:32.693649Z'
 description: Evidence-based supplement stack designed to support RA management alongside
   conventional treatment. Focuses on reducing inflammatory cytokines (TNF-alpha, IL-6),
   modulating NF-kB signaling, and supporting joint integrity. NOT a replacement for
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Rheumatoid Arthritis Support
 type: healthstack
-updated: '2026-04-30T06:31:00.767146Z'
+updated: '2026-05-08T08:21:32.693649Z'
 ---
 
 {% raw %}

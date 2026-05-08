@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:02.088279Z'
+created: '2026-05-08T08:21:33.168941Z'
 description: Prothrombin Time (PT) with International Normalized Ratio (INR) test.
   Evaluates the extrinsic and common coagulation pathways (Factors I, II, V, VII,
   X). Essential for monitoring warfarin therapy and assessing liver synthetic function.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: prothrombin_time_pt_inr
 type: labtest
-updated: '2026-04-30T06:31:02.088279Z'
+updated: '2026-05-08T08:21:33.168941Z'
 ---
 
 {% raw %}
@@ -54,8 +54,8 @@ updated: '2026-04-30T06:31:02.088279Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a class="internal-link is-unresolved" href="/404">prothrombin time</a></li>
-<li><a class="internal-link is-unresolved" href="/404">inr</a></li>
+<li><a href="/entities/biomarker/prothrombin-time/" class="internal-link">prothrombin time</a></li>
+<li><a href="/entities/biomarker/inr-international-normalized-ratio/" class="internal-link">inr</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -70,7 +70,7 @@ updated: '2026-04-30T06:31:02.088279Z'
 <h3>Associated With Condition</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/liver-disease/" class="internal-link">Liver Disease</a></p>
 <h3>Measures</h3>
-<p>MEASURES::<a class="internal-link is-unresolved" href="/404">Prothrombin Time</a></p>
+<p>MEASURES::<a href="/entities/biomarker/prothrombin-time/" class="internal-link">Prothrombin Time</a></p>
 <h2>Notes</h2>
 <ul>
 <li>Results should be interpreted by a qualified healthcare provider</li>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:59.955823Z'
+created: '2026-05-08T08:21:32.420378Z'
 description: A chronic metabolic condition characterized by insulin resistance and
   relative insulin deficiency resulting in hyperglycemia.
 dg-home: false
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Type 2 Diabetes
 type: condition
-updated: '2026-04-30T06:30:59.955823Z'
+updated: '2026-05-08T08:21:32.420378Z'
 ---
 
 {% raw %}

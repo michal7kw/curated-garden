@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:02.482101Z'
+created: '2026-05-08T08:21:33.314242Z'
 description: Heavy metals can accumulate in the body over time, often without causing
   noticeable symptoms. However, elevated levels of these metals can contribute to
   serious health problems, including brain, heart, and kidney issues. Testing for
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: extended_heavy_metals
 type: labtestpanel
-updated: '2026-04-30T06:31:02.482101Z'
+updated: '2026-05-08T08:21:33.314242Z'
 ---
 
 {% raw %}

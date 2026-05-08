@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:02.463486Z'
+created: '2026-05-08T08:21:33.308531Z'
 description: Detects and monitors autoimmune conditions with comprehensive testing
   for better symptom management and prevention. These tests screen for a broad range
   of conditions like rheumatoid arthritis, systemic lupus erythematosus, mixed connective
@@ -27,7 +27,7 @@ tags:
 templateEngineOverride: njk
 title: extended_autoimmunity
 type: labtestpanel
-updated: '2026-04-30T06:31:02.463486Z'
+updated: '2026-05-08T08:21:33.308531Z'
 ---
 
 {% raw %}

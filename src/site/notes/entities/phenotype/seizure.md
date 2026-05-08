@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.635103Z'
+created: '2026-05-08T08:21:34.003874Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Seizure
 type: phenotype
-updated: '2026-04-30T06:31:03.635103Z'
+updated: '2026-05-08T08:21:34.003874Z'
 ---
 
 {% raw %}
@@ -59,6 +59,6 @@ RELATED_TO_PHENOTYPE::<a class="internal-link is-unresolved" href="/404">Abnorma
 <h3>Enriched</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/epilepsy/" class="internal-link">Epilepsy</a><br />
 AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
-ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">GABA</a></p>
+ASSOCIATED_WITH::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a></p>
 
 {% endraw %}

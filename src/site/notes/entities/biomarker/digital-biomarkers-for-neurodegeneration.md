@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:57.613593Z'
+created: '2026-05-08T08:21:31.750196Z'
 description: Continuous, passive monitoring of cognition, motor function, and behavior
   using smartphones, wearables, and digital sensors. Enable early detection and real-world
   tracking of neurodegenerative disease progression.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Digital Biomarkers for Neurodegeneration
 type: biomarker
-updated: '2026-04-30T06:30:57.613593Z'
+updated: '2026-05-08T08:21:31.750196Z'
 ---
 
 {% raw %}
@@ -34,6 +34,6 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Huntingtons Disease<
 RELATED::<a class="internal-link is-unresolved" href="/404">Parkinsons Disease</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/multiple-sclerosis/" class="internal-link">Multiple Sclerosis</a><br />
 RELATED::<a href="/entities/biomarker/blood-nfl/" class="internal-link">Blood NfL</a><br />
-RELATED::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a></p>
+RELATED::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a></p>
 
 {% endraw %}

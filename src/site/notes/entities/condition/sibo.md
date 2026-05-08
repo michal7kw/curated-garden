@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:59.796160Z'
+created: '2026-05-08T08:21:32.386375Z'
 description: Condition characterized by excessive bacterial colonization of the small
   intestine, which is normally relatively sterile compared to the colon. Three subtypes
   based on dominant gas produced — hydrogen-dominant (diarrhea-predominant), methane-dominant/IMO
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: SIBO
 type: condition
-updated: '2026-04-30T06:30:59.796160Z'
+updated: '2026-05-08T08:21:32.386375Z'
 ---
 
 {% raw %}

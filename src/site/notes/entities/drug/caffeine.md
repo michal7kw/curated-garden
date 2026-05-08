@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.066920Z'
+created: '2026-05-08T08:21:32.463990Z'
 description: World's most widely consumed psychoactive substance. Methylxanthine alkaloid
   that acts primarily as a nonselective adenosine A1 and A2A receptor antagonist,
   blocking adenosine's sleep-promoting and vasodilatory effects. Enhances alertness,
@@ -21,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: Caffeine
 type: drug
-updated: '2026-04-30T06:31:00.066920Z'
+updated: '2026-05-08T08:21:32.463990Z'
 ---
 
 {% raw %}
@@ -104,9 +104,9 @@ RELATED::<a href="/entities/protein/mao-a/" class="internal-link">MAO-A</a></p>
 <h3>Affects Biomarker</h3>
 <p>AFFECTS_BIOMARKER::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a></p>
 <h3>Modulates Neurotransmitter</h3>
-<p>MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
-MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Norepinephrine</a><br />
-MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Acetylcholine</a></p>
+<p>MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
+MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
+MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a></p>
 <h3>Synergistic With</h3>
 <p>SYNERGISTIC_WITH::<a href="/entities/drug/nicotine/" class="internal-link">Nicotine</a><br />
 SYNERGISTIC_WITH::<a href="/entities/supplement/l-theanine/" class="internal-link">L-Theanine</a><br />
@@ -124,7 +124,7 @@ MAY_IMPROVE_CONDITION::<a href="/entities/condition/cognitive-dysfunction/" clas
 <p>SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/attention-and-focus/" class="internal-link">Attention_and_Focus</a><br />
 SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/memory-and-learning/" class="internal-link">Memory_and_Learning</a></p>
 <h3>Antagonizes</h3>
-<p>ANTAGONIZES::<a class="internal-link is-unresolved" href="/404">Adenosine</a></p>
+<p>ANTAGONIZES::<a href="/entities/neurotransmitter/adenosine/" class="internal-link">Adenosine</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:20164566 - Caffeine mechanisms of action in the brain</li>

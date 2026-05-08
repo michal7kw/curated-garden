@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.386302Z'
+created: '2026-05-08T08:21:32.562073Z'
 description: Wakefulness-promoting agent used for narcolepsy, sleep apnea, and shift
   work disorder. Popular off-label as a cognitive enhancer. Mechanism distinct from
   traditional stimulants.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Modafinil
 type: drug
-updated: '2026-04-30T06:31:00.386302Z'
+updated: '2026-05-08T08:21:32.562073Z'
 ---
 
 {% raw %}
@@ -44,12 +44,12 @@ RELATED::<a href="/entities/supplement/citicoline/" class="internal-link">Citico
 <h3>Interacts With</h3>
 <p>INTERACTS_WITH::<a href="/entities/supplement/ashwagandha/" class="internal-link">Ashwagandha</a></p>
 <h3>Modulates Neurotransmitter</h3>
-<p>MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
-MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Norepinephrine</a><br />
+<p>MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
+MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
 MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/histamine/" class="internal-link">Histamine</a></p>
 <h3>Affects Brain Region</h3>
-<p>AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a><br />
-AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/hypothalamus/" class="internal-link">Hypothalamus</a></p>
+<p>AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a><br />
+AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Hypothalamus</a></p>
 <h3>Affects Organ</h3>
 <p>AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 <h3>Improves Function</h3>

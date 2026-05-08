@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:01.063251Z'
+created: '2026-05-08T08:21:32.828886Z'
 description: Low-intensity aerobic exercise accessible to nearly all populations.
   Consistent evidence for reducing all-cause mortality, cardiovascular disease, type
   2 diabetes, depression, and cognitive decline. 7,000-10,000 steps/day associated
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Walking
 type: intervention
-updated: '2026-04-30T06:31:01.063251Z'
+updated: '2026-05-08T08:21:32.828886Z'
 ---
 
 {% raw %}

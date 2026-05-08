@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:58.528302Z'
+created: '2026-05-08T08:21:32.016541Z'
 description: A progressive neurodegenerative disorder and the most common cause of
   dementia. Characterized by extracellular amyloid-beta plaques and intracellular
   tau neurofibrillary tangles.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Alzheimer's Disease
 type: condition
-updated: '2026-04-30T06:30:58.528302Z'
+updated: '2026-05-08T08:21:32.016541Z'
 ---
 
 {% raw %}
@@ -56,7 +56,7 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Retinal Imaging for 
 RELATED::<a href="/entities/biomarker/neuron-derived-exosome-biomarkers/" class="internal-link">Neuron-Derived Exosome Biomarkers</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Dementia</a><br />
 RELATED::<a href="/entities/supplement/omega-3-dha/" class="internal-link">Omega-3 DHA</a><br />
-RELATED::<a href="/entities/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal Pathway</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Autophagy-Lysosomal Pathway</a><br />
 RELATED::<a href="/entities/condition/vascular-dementia/" class="internal-link">Vascular Dementia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Lecanemab</a><br />
 RELATED::<a href="/entities/biomarker/total-tau/" class="internal-link">Total Tau</a><br />

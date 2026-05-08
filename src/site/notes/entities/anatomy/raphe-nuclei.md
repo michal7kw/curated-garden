@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:56.936566Z'
+created: '2026-05-08T08:21:33.769560Z'
 description: Cluster of nuclei along the brainstem midline, serving as the brain's
   primary source of serotonin. The dorsal raphe nucleus is the largest serotonergic
   nucleus, projecting widely to cortex, hippocampus, amygdala, and basal ganglia.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Raphe Nuclei
 type: anatomy
-updated: '2026-04-30T06:30:56.936566Z'
+updated: '2026-05-08T08:21:33.769560Z'
 ---
 
 {% raw %}
@@ -39,13 +39,13 @@ updated: '2026-04-30T06:30:56.936566Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
-RELATED::<a href="/entities/anatomy/hypothalamus/" class="internal-link">Hypothalamus</a><br />
-RELATED::<a href="/entities/anatomy/locus-coeruleus/" class="internal-link">Locus_Coeruleus</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hypothalamus</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Locus_Coeruleus</a><br />
 RELATED::<a href="/entities/hormone/melatonin/" class="internal-link">Melatonin</a></p>
 <h3>Projects To</h3>
-<p>PROJECTS_TO::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal_Cortex</a><br />
-PROJECTS_TO::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a><br />
-PROJECTS_TO::<a href="/entities/anatomy/amygdala/" class="internal-link">Amygdala</a></p>
+<p>PROJECTS_TO::<a class="internal-link is-unresolved" href="/404">Prefrontal_Cortex</a><br />
+PROJECTS_TO::<a class="internal-link is-unresolved" href="/404">Hippocampus</a><br />
+PROJECTS_TO::<a class="internal-link is-unresolved" href="/404">Amygdala</a></p>
 <h3>Produces</h3>
 <p>PRODUCES::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a></p>
 <h3>Supports Function</h3>

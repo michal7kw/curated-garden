@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:59.361309Z'
+created: '2026-05-08T08:21:32.279202Z'
 description: A condition in which bladder control is lost due to brain, spinal cord,
   or nerve problems, affecting the storage or emptying of urine.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Neurogenic Bladder
 type: condition
-updated: '2026-04-30T06:30:59.361309Z'
+updated: '2026-05-08T08:21:32.279202Z'
 ---
 
 {% raw %}

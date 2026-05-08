@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:59.817559Z'
+created: '2026-05-08T08:21:32.382207Z'
 description: An allergic response to specific allergens like pollen that occurs at
   certain times of the year, commonly known as Hay Fever.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Seasonal Allergic Rhinitis
 type: condition
-updated: '2026-04-30T06:30:59.817559Z'
+updated: '2026-05-08T08:21:32.382207Z'
 ---
 
 {% raw %}

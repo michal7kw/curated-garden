@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:04.834096Z'
+created: '2026-05-08T08:21:34.517412Z'
 description: Extracellular pH buffer that enhances exercise performance by counteracting
   blood acidosis during high-intensity repeated efforts, allowing greater work output
   before fatigue.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Sodium Bicarbonate
 type: supplement
-updated: '2026-04-30T06:31:04.834096Z'
+updated: '2026-05-08T08:21:34.517412Z'
 ---
 
 {% raw %}

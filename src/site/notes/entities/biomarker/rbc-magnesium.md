@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:58.025499Z'
+created: '2026-05-08T08:21:31.881182Z'
 description: Intracellular magnesium — more accurate than serum magnesium
 dg-home: false
 dg-publish: true
@@ -10,7 +10,7 @@ tags:
 templateEngineOverride: njk
 title: RBC Magnesium
 type: biomarker
-updated: '2026-04-30T06:30:58.025499Z'
+updated: '2026-05-08T08:21:31.881182Z'
 ---
 
 {% raw %}

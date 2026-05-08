@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:59.686557Z'
+created: '2026-05-08T08:21:32.354553Z'
 description: Inflammatory arthritis occurring in up to 30% of psoriasis patients.
   Heterogeneous presentation including peripheral arthritis, axial disease, dactylitis,
   enthesitis, and nail disease. Pathogenesis involves the IL-23/IL-17 axis.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Psoriatic Arthritis
 type: condition
-updated: '2026-04-30T06:30:59.686557Z'
+updated: '2026-05-08T08:21:32.354553Z'
 ---
 
 {% raw %}

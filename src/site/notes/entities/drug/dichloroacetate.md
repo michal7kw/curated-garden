@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.121854Z'
+created: '2026-05-08T08:21:32.483647Z'
 description: Pyruvate dehydrogenase kinase (PDK) inhibitor that activates the pyruvate
   dehydrogenase complex, shifting metabolism from glycolysis toward mitochondrial
   oxidative phosphorylation. Used clinically for lactic acidosis and investigated
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Dichloroacetate
 type: drug
-updated: '2026-04-30T06:31:00.121854Z'
+updated: '2026-05-08T08:21:32.483647Z'
 ---
 
 {% raw %}

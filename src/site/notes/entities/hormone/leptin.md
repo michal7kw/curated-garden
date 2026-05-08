@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.849012Z'
+created: '2026-05-08T08:21:32.729126Z'
 description: Adipokine hormone primarily produced by white adipose tissue, proportional
   to fat mass. Key regulator of energy homeostasis — signals satiety to the hypothalamus,
   increases metabolic rate, and modulates immune function and reproduction. Leptin
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Leptin
 type: hormone
-updated: '2026-04-30T06:31:00.849012Z'
+updated: '2026-05-08T08:21:32.729126Z'
 ---
 
 {% raw %}
@@ -30,7 +30,7 @@ updated: '2026-04-30T06:31:00.849012Z'
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/hormone/thyroid-hormones/" class="internal-link">Thyroid Hormones</a><br />
 RELATED::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a><br />
-RELATED::<a href="/entities/anatomy/hypothalamus/" class="internal-link">Hypothalamus</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hypothalamus</a><br />
 RELATED::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a></p>
 
 {% endraw %}

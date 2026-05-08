@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:58.361344Z'
+created: '2026-05-08T08:21:31.975708Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/condition/thyroid-dysfunction/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Thyroid Dysfunction
 type: condition
-updated: '2026-04-30T06:30:58.361344Z'
+updated: '2026-05-08T08:21:31.975708Z'
 ---
 
 {% raw %}

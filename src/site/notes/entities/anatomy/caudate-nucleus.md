@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:56.866271Z'
+created: '2026-05-08T08:21:33.704851Z'
 description: The Caudate Nucleus is a paired, C-shaped subcortical structure comprising
   a fundamental portion of the Basal Ganglia. Operating inside the dorsal striatum,
   it acts as a critical neurological gatekeeper organizing voluntary motor planning,
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Caudate Nucleus
 type: anatomy
-updated: '2026-04-30T06:30:56.866271Z'
+updated: '2026-05-08T08:21:33.704851Z'
 ---
 
 {% raw %}

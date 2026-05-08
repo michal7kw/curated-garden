@@ -1,7 +1,7 @@
 ---
 aliases:
 - Lion's Mane
-created: '2026-04-30T06:31:04.530802Z'
+created: '2026-05-08T08:21:34.403314Z'
 description: Lion's Mane (Hericium erinaceus) is a medicinal mushroom containing unique
   neuroactive compounds — hericenones from the fruiting body and erinacines from the
   mycelium — that stimulate nerve growth factor (NGF) and brain-derived neurotrophic
@@ -27,7 +27,7 @@ tags:
 templateEngineOverride: njk
 title: Lions Mane
 type: supplement
-updated: '2026-04-30T06:31:04.530802Z'
+updated: '2026-05-08T08:21:34.403314Z'
 ---
 
 {% raw %}

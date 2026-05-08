@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:01.710895Z'
+created: '2026-05-08T08:21:33.069704Z'
 description: Lipase is a digestive enzyme made by the pancreas that helps break down
   dietary fats. Elevated levels can indicate pancreatic stress or inflammation (pancreatitis)
   and may also be associated with conditions affecting the pancreas, gallbladder,
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: lipase
 type: labtest
-updated: '2026-04-30T06:31:01.710895Z'
+updated: '2026-05-08T08:21:33.069704Z'
 ---
 
 {% raw %}

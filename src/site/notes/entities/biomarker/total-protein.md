@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:58.082430Z'
+created: '2026-05-08T08:21:31.901919Z'
 description: Total Protein is a foundational blood biomarker that measures the combined
   mass of albumin and globulin in serum. It serves as a broad indicator of systemic
   nutritional status, chronic hepatic and renal health, and immune/inflammatory dysregulation.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Total Protein
 type: biomarker
-updated: '2026-04-30T06:30:58.082430Z'
+updated: '2026-05-08T08:21:31.901919Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:02.411754Z'
+created: '2026-05-08T08:21:33.290497Z'
 description: Assess risk of Alzheimer’s disease with advanced biomarkers for early
   detection and prevention. Tests, such as the beta-amyloid 42/40 (Aβ42/40) ratio
   and phosphorylated tau217 (p-tau217), provide key insights into the risk of developing
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: alzheimer_s_detection
 type: labtestpanel
-updated: '2026-04-30T06:31:02.411754Z'
+updated: '2026-05-08T08:21:33.290497Z'
 ---
 
 {% raw %}

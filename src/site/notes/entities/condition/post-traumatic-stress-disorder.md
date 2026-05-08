@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:59.619619Z'
+created: '2026-05-08T08:21:32.344155Z'
 description: A mental health condition triggered by experiencing or witnessing a terrifying
   event, characterized by flashbacks, nightmares, and severe anxiety.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Post-Traumatic Stress Disorder
 type: condition
-updated: '2026-04-30T06:30:59.619619Z'
+updated: '2026-05-08T08:21:32.344155Z'
 ---
 
 {% raw %}
@@ -30,7 +30,7 @@ RELATED::<a href="/entities/condition/depression/" class="internal-link">Depress
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br />
 ASSOCIATED_WITH::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
-ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Norepinephrine</a><br />
+ASSOCIATED_WITH::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
 ASSOCIATED_WITH::<a href="/entities/protein/sert/" class="internal-link">SERT</a></p>
 <h3>Treated By Drug</h3>
 <p>TREATED_BY_DRUG::<a href="/entities/drug/sertraline/" class="internal-link">Sertraline</a><br />

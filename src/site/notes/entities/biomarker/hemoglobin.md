@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:57.787629Z'
+created: '2026-05-08T08:21:31.803764Z'
 description: Hemoglobin is the iron-containing oxygen-transport metalloprotein in
   red blood cells responsible for carrying oxygen from the lungs to tissues and returning
   carbon dioxide for exhalation. It is the most commonly ordered biomarker for evaluating
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Hemoglobin
 type: biomarker
-updated: '2026-04-30T06:30:57.787629Z'
+updated: '2026-05-08T08:21:31.803764Z'
 ---
 
 {% raw %}

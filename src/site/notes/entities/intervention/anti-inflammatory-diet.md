@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.871032Z'
+created: '2026-05-08T08:21:32.736360Z'
 description: Dietary pattern emphasizing foods that reduce chronic low-grade inflammation
   (omega-3 fatty acids, polyphenols, fiber, fermented foods) while minimizing pro-inflammatory
   inputs (refined sugar, seed oils, processed foods, alcohol). Shares principles with
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Anti-Inflammatory Diet
 type: intervention
-updated: '2026-04-30T06:31:00.871032Z'
+updated: '2026-05-08T08:21:32.736360Z'
 ---
 
 {% raw %}

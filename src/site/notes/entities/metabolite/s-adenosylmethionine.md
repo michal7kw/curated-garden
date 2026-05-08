@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:02.843182Z'
+created: '2026-05-08T08:21:33.549678Z'
 description: S-Adenosylmethionine (SAMe) is the universal methyl donor for over 200
   methylation reactions including DNA methylation, neurotransmitter synthesis, phospholipid
   metabolism, and detoxification. Synthesized from methionine and ATP by methionine
@@ -21,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: S-Adenosylmethionine
 type: metabolite
-updated: '2026-04-30T06:31:02.843182Z'
+updated: '2026-05-08T08:21:33.549678Z'
 ---
 
 {% raw %}
@@ -150,7 +150,7 @@ RELATED::<a href="/entities/supplement/vitamin-b12/" class="internal-link">Vitam
 RELATED::<a href="/entities/supplement/vitamin-b6/" class="internal-link">Vitamin B6</a></p>
 <h3>Neurotransmitter Connections</h3>
 <p>RELATED::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
+RELATED::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
 RELATED::<a href="/entities/hormone/melatonin/" class="internal-link">Melatonin</a></p>
 <h3>Related Supplements</h3>
 <p>RELATED::<a href="/entities/supplement/glutathione/" class="internal-link">Glutathione</a><br />

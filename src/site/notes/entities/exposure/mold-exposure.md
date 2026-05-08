@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.586172Z'
+created: '2026-05-08T08:21:32.629035Z'
 description: Exposure to mycotoxins (aflatoxin, ochratoxin A, trichothecenes) and
   mold-derived volatile organic compounds from water-damaged buildings and contaminated
   food, causing immune dysregulation, oxidative stress, neuroinflammation, and multi-system
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Mold Exposure
 type: exposure
-updated: '2026-04-30T06:31:00.586172Z'
+updated: '2026-05-08T08:21:32.629035Z'
 ---
 
 {% raw %}

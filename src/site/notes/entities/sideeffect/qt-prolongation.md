@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:04.198562Z'
+created: '2026-05-08T08:21:34.246639Z'
 description: Drug-induced delay in cardiac ventricular repolarization measured as
   prolonged QTc interval on electrocardiogram, carrying risk of torsades de pointes
   ventricular tachycardia and sudden cardiac death.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: QT Prolongation
 type: sideeffect
-updated: '2026-04-30T06:31:04.198562Z'
+updated: '2026-05-08T08:21:34.246639Z'
 ---
 
 {% raw %}

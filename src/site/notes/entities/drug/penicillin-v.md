@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.457063Z'
+created: '2026-05-08T08:21:32.579033Z'
 description: An oral natural penicillin used for mild to moderate bacterial infections,
   such as strep throat and skin infections.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Penicillin V
 type: drug
-updated: '2026-04-30T06:31:00.457063Z'
+updated: '2026-05-08T08:21:32.579033Z'
 ---
 
 {% raw %}

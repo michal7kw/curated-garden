@@ -36,7 +36,13 @@
   </div>
 </div>
 
-<iframe style="display: none; height: 0; width: 0;" id='link-preview-iframe' src="">
+<!--
+  sandbox="allow-same-origin" blocks scripts inside the preview iframe so the
+  target page's Alpine.js x-init, searchIndex/graph fetches, and force-graph
+  init never run. Parent JS can still read the iframe's DOM (same origin kept).
+  Prevents the iframe from waiting on MBs of JSON before `load` fires.
+-->
+<iframe style="display: none; height: 0; width: 0;" id='link-preview-iframe' src="" sandbox="allow-same-origin">
 </iframe>
 
 <script>

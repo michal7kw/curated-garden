@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:59.659800Z'
+created: '2026-05-08T08:21:32.351447Z'
 description: Cancer of the prostate gland, a small walnut-shaped gland in males that
   produces seminal fluid. It is one of the most common types of cancer in men.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Prostatic Neoplasms
 type: condition
-updated: '2026-04-30T06:30:59.659800Z'
+updated: '2026-05-08T08:21:32.351447Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:58.893239Z'
+created: '2026-05-08T08:21:32.134661Z'
 description: A chronic relapsing inflammatory skin disorder (atopic dermatitis) characterized
   by pruritus, dry skin, and impaired epidermal barrier function, often associated
   with the atopic triad (asthma, allergic rhinitis).
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Eczema
 type: condition
-updated: '2026-04-30T06:30:58.893239Z'
+updated: '2026-05-08T08:21:32.134661Z'
 ---
 
 {% raw %}

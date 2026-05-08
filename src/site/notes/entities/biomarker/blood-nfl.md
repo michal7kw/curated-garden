@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:57.353365Z'
+created: '2026-05-08T08:21:31.658621Z'
 description: Blood neurofilament light chain (NfL) is a cytoskeletal protein released
   from damaged axons, measurable in serum or plasma via ultrasensitive single molecule
   array (Simoa) immunoassays. It serves as a universal, non-invasive blood biomarker
@@ -24,7 +24,7 @@ tags:
 templateEngineOverride: njk
 title: Blood NfL
 type: biomarker
-updated: '2026-04-30T06:30:57.353365Z'
+updated: '2026-05-08T08:21:31.658621Z'
 ---
 
 {% raw %}

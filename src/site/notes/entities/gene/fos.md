@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.904182Z'
+created: '2026-05-08T08:21:34.116455Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: FOS
 type: gene
-updated: '2026-04-30T06:31:03.904182Z'
+updated: '2026-05-08T08:21:34.116455Z'
 ---
 
 {% raw %}
@@ -40,7 +40,7 @@ updated: '2026-04-30T06:31:03.904182Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/cellularcomponent/nucleus/" class="internal-link">Nucleus</a><br />
-RELATED::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a></p>
+RELATED::<a class="internal-link is-unresolved" href="/404">Hippocampus</a></p>
 <h3>Interacts With</h3>
 <p>INTERACTS_WITH::<a href="/entities/gene/ets1/" class="internal-link">ETS1</a><br />
 INTERACTS_WITH::<a href="/entities/gene/src/" class="internal-link">SRC</a><br />

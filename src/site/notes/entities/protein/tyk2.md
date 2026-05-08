@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:04.055231Z'
+created: '2026-05-08T08:21:34.192616Z'
 description: Tyrosine kinase 2 is a JAK family member mediating IL-12, IL-23, and
   type I interferon signaling. Emerging therapeutic target -- deucravacitinib (selective
   TYK2 inhibitor) approved for psoriasis.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: TYK2
 type: protein
-updated: '2026-04-30T06:31:04.055231Z'
+updated: '2026-05-08T08:21:34.192616Z'
 ---
 
 {% raw %}

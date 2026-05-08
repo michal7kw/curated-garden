@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:04.084912Z'
+created: '2026-05-08T08:21:34.202967Z'
 description: Uncoupling Protein 1 (Thermogenin), a mitochondrial transporter found
   in brown adipose tissue that uncouples respiration from ATP synthesis to generate
   heat.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: UCP1
 type: protein
-updated: '2026-04-30T06:31:04.084912Z'
+updated: '2026-05-08T08:21:34.202967Z'
 ---
 
 {% raw %}
@@ -25,7 +25,7 @@ updated: '2026-04-30T06:31:04.084912Z'
 <p>Uncoupling Protein 1 (Thermogenin), a mitochondrial transporter found in brown adipose tissue that uncouples respiration from ATP synthesis to generate heat.</p>
 <h2>Relationships</h2>
 <h3>Activated By</h3>
-<p>ACTIVATED_BY::<a class="internal-link is-unresolved" href="/404">Norepinephrine</a><br />
+<p>ACTIVATED_BY::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
 ACTIVATED_BY::<a class="internal-link is-unresolved" href="/404">Fatty Acids</a><br />
 ACTIVATED_BY::<a href="/entities/intervention/cold-exposure/" class="internal-link">Cold Exposure</a></p>
 <h3>Uncouples</h3>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.579371Z'
+created: '2026-05-08T08:21:32.626459Z'
 description: Chronic or acute exposure to toxic heavy metals (lead, mercury, cadmium,
   arsenic) from environmental, occupational, or dietary sources, causing oxidative
   stress, enzyme inhibition, and organ damage primarily affecting kidneys, brain,
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Heavy Metal Exposure
 type: exposure
-updated: '2026-04-30T06:31:00.579371Z'
+updated: '2026-05-08T08:21:32.626459Z'
 ---
 
 {% raw %}

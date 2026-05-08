@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:58.127546Z'
+created: '2026-05-08T08:21:31.914866Z'
 description: Uric acid is the final oxidation product of purine metabolism in humans,
   serving as both an antioxidant at physiological levels and a pathological mediator
   when elevated, contributing to gout, kidney stones, and cardiovascular disease.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Uric Acid
 type: biomarker
-updated: '2026-04-30T06:30:58.127546Z'
+updated: '2026-05-08T08:21:31.914866Z'
 ---
 
 {% raw %}

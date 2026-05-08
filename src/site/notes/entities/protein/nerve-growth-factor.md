@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.970179Z'
+created: '2026-05-08T08:21:34.146212Z'
 description: Neurotrophin essential for the survival, growth, and maintenance of sympathetic,
   sensory, and basal forebrain cholinergic neurons. First neurotrophin discovered
   (Rita Levi-Montalcini, 1986 Nobel Prize). Stimulated by PQQ in astrocytes, modulated
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Nerve Growth Factor
 type: protein
-updated: '2026-04-30T06:31:03.970179Z'
+updated: '2026-05-08T08:21:34.146212Z'
 ---
 
 {% raw %}
@@ -87,10 +87,10 @@ updated: '2026-04-30T06:31:03.970179Z'
 <p>RELATED::<a href="/entities/condition/cognitive-dysfunction/" class="internal-link">Cognitive_Dysfunction</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers_Disease</a><br />
 RELATED::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Acetylcholine</a></p>
+RELATED::<a href="/entities/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a></p>
 <h3>Affects Organ</h3>
 <p>AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
-AFFECTS_ORGAN::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a></p>
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Hippocampus</a></p>
 <h3>Modulated By</h3>
 <p>MODULATED_BY::<a href="/entities/drug/nicotine/" class="internal-link">Nicotine</a></p>
 <h3>Participates In Pathway</h3>

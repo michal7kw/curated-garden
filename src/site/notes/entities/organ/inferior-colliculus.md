@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.037062Z'
+created: '2026-05-08T08:21:33.723913Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/inferior-colliculus/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Inferior Colliculus
 type: organ
-updated: '2026-04-30T06:31:03.037062Z'
+updated: '2026-05-08T08:21:33.723913Z'
 ---
 
 {% raw %}
@@ -18,7 +18,7 @@ updated: '2026-04-30T06:31:03.037062Z'
 <p>Midbrain auditory relay nucleus, the obligatory synapse for ascending auditory information en route to the medial geniculate nucleus of the thalamus and auditory cortex. Integrates binaural input for sound localization.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/anatomy/thalamus/" class="internal-link">Thalamus</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Thalamus</a><br />
 RELATED::<a href="/entities/anatomy/temporal-lobe/" class="internal-link">Temporal Lobe</a><br />
 RELATED::<a href="/entities/organ/superior-colliculus/" class="internal-link">Superior Colliculus</a></p>
 <h3>Supports Function</h3>

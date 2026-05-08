@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:58.810556Z'
+created: '2026-05-08T08:21:32.104583Z'
 description: A medical condition characterized by either a deficiency or an excess
   (toxicity) of copper, an essential trace mineral required for various physiological
   processes.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Copper Imbalance
 type: condition
-updated: '2026-04-30T06:30:58.810556Z'
+updated: '2026-05-08T08:21:32.104583Z'
 ---
 
 {% raw %}

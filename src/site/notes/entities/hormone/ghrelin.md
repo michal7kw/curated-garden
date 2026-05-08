@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.833314Z'
+created: '2026-05-08T08:21:32.716297Z'
 description: 28-amino acid peptide hormone primarily produced by X/A-like cells in
   the gastric fundus. Known as the "hunger hormone" — stimulates appetite, growth
   hormone release, and gastric motility. Unique post-translational acylation (n-octanoyl
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Ghrelin
 type: hormone
-updated: '2026-04-30T06:31:00.833314Z'
+updated: '2026-05-08T08:21:32.716297Z'
 ---
 
 {% raw %}
@@ -29,7 +29,7 @@ updated: '2026-04-30T06:31:00.833314Z'
 <p>28-amino acid peptide hormone primarily produced by X/A-like cells in the gastric fundus. Known as the &quot;hunger hormone&quot; — stimulates appetite, growth hormone release, and gastric motility. Unique post-translational acylation (n-octanoyl at Ser3) required for receptor activation. Antagonistic to leptin in energy balance regulation.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/anatomy/hypothalamus/" class="internal-link">Hypothalamus</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Hypothalamus</a><br />
 RELATED::<a href="/entities/hormone/growth-hormone/" class="internal-link">Growth Hormone</a><br />
 RELATED::<a href="/entities/labtest/leptin/" class="internal-link">leptin</a><br />
 RELATED::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a></p>

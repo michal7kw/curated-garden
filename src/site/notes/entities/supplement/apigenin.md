@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:04.246367Z'
+created: '2026-05-08T08:21:34.276214Z'
 description: A natural flavonoid found in chamomile, parsley, and celery with antioxidant,
   anti-inflammatory, neuroprotective, and sedative properties. It is known to inhibit
   CD38 (boosting NAD+ levels) and modulate GABA receptors.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Apigenin
 type: supplement
-updated: '2026-04-30T06:31:04.246367Z'
+updated: '2026-05-08T08:21:34.276214Z'
 ---
 
 {% raw %}
@@ -47,7 +47,7 @@ MAY_IMPROVE_CONDITION::<a href="/entities/condition/anxiety/" class="internal-li
 MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 RELATED::<a href="/entities/supplement/nmn/" class="internal-link">NMN</a></p>
 <h3>Modulates Neurotransmitter</h3>
-<p>MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">GABA</a></p>
+<p>MODULATES_NEUROTRANSMITTER::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a></p>
 <h3>Affects Biomarker</h3>
 <p>AFFECTS_BIOMARKER::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/hormone/testosterone/" class="internal-link">Testosterone</a><br />

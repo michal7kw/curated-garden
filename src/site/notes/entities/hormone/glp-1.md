@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.818505Z'
+created: '2026-05-08T08:21:32.717307Z'
 description: Incretin hormone produced by L-cells in the small intestine that stimulates
   glucose-dependent insulin secretion, suppresses glucagon, delays gastric emptying,
   and promotes satiety. Target of GLP-1 receptor agonists for diabetes and obesity
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: GLP-1
 type: hormone
-updated: '2026-04-30T06:31:00.818505Z'
+updated: '2026-05-08T08:21:32.717307Z'
 ---
 
 {% raw %}
@@ -120,7 +120,7 @@ MODULATES_HORMONE::<a class="internal-link is-unresolved" href="/404">Glucagon</
 <h3>Affects Organ</h3>
 <p>AFFECTS_ORGAN::<a href="/entities/organ/pancreas/" class="internal-link">Pancreas</a> (beta-cell stimulation, alpha-cell suppression, Evidence Level 1a)<br />
 AFFECTS_ORGAN::<a href="/entities/organ/stomach/" class="internal-link">Stomach</a> (delays gastric emptying, Evidence Level 1a)<br />
-AFFECTS_ORGAN::<a href="/entities/anatomy/hypothalamus/" class="internal-link">Hypothalamus</a> (reduces appetite, Evidence Level 1b)<br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Hypothalamus</a> (reduces appetite, Evidence Level 1b)<br />
 AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a> (cardioprotective effects, Evidence Level 1a)<br />
 AFFECTS_ORGAN::<a href="/entities/organ/kidneys/" class="internal-link">Kidneys</a> (renal protective effects, Evidence Level 2b)<br />
 AFFECTS_ORGAN::<a href="/entities/organ/intestines/" class="internal-link">Intestines</a> (autocrine/paracrine signaling, Evidence Level 2b)</p>

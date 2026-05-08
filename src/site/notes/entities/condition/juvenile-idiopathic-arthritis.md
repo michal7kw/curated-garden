@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:59.163677Z'
+created: '2026-05-08T08:21:32.210200Z'
 description: Umbrella term for chronic arthritis in children under 16 with symptoms
   persisting over 6 weeks. Includes oligoarticular, polyarticular (RF+ or RF-), systemic
   (Still disease), enthesitis-related, and psoriatic subtypes. Leading cause of acquired
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Juvenile Idiopathic Arthritis
 type: condition
-updated: '2026-04-30T06:30:59.163677Z'
+updated: '2026-05-08T08:21:32.210200Z'
 ---
 
 {% raw %}

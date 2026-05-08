@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.944505Z'
+created: '2026-05-08T08:21:32.778215Z'
 description: Dietary pattern that cycles between periods of eating and voluntary fasting
   on a regular schedule. Improves metabolic health, promotes autophagy, enhances insulin
   sensitivity, and supports weight management. Multiple protocols ranging from 12-hour
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Intermittent Fasting
 type: intervention
-updated: '2026-04-30T06:31:00.944505Z'
+updated: '2026-05-08T08:21:32.778215Z'
 ---
 
 {% raw %}
@@ -73,7 +73,7 @@ RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-lin
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/type-2-diabetes/" class="internal-link">Type 2 Diabetes</a> (improved insulin sensitivity and HbA1c, Evidence Level 1b)<br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a> (improved lipid and inflammatory markers, Evidence Level 2a)</p>
 <h3>Modulates Pathway</h3>
-<p>MODULATES_PATHWAY::<a href="/entities/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal Pathway</a> (activated at 16-24h fasting via mTOR suppression, Evidence Level 2b)</p>
+<p>MODULATES_PATHWAY::<a class="internal-link is-unresolved" href="/404">Autophagy-Lysosomal Pathway</a> (activated at 16-24h fasting via mTOR suppression, Evidence Level 2b)</p>
 <h3>Modulates Hormone</h3>
 <p>MODULATES_HORMONE::<a href="/entities/labtest/insulin/" class="internal-link">insulin</a> (fasting insulin reduced 20-31%, Evidence Level 1a)<br />
 MODULATES_HORMONE::<a href="/entities/hormone/growth-hormone/" class="internal-link">Growth Hormone</a> (200-300% increase during extended fasts, Evidence Level 2a)<br />

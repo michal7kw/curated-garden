@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.988433Z'
+created: '2026-05-08T08:21:34.157416Z'
 description: Catalytic core of the Gamma-Secretase complex. Cleaves APP to release
   Amyloid Beta.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Presenilin-1
 type: protein
-updated: '2026-04-30T06:31:03.988433Z'
+updated: '2026-05-08T08:21:34.157416Z'
 ---
 
 {% raw %}

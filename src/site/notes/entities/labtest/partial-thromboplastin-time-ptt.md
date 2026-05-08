@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:01.960850Z'
+created: '2026-05-08T08:21:33.146807Z'
 description: Activated Partial Thromboplastin Time (aPTT) test. Evaluates the intrinsic
   and common coagulation pathways (Factors XII, XI, IX, VIII, X, V, II, I). Used for
   monitoring unfractionated heparin therapy and screening for coagulation disorders.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: partial_thromboplastin_time_ptt
 type: labtest
-updated: '2026-04-30T06:31:01.960850Z'
+updated: '2026-05-08T08:21:33.146807Z'
 ---
 
 {% raw %}
@@ -54,7 +54,7 @@ updated: '2026-04-30T06:31:01.960850Z'
 <h2>Biomarkers Measured</h2>
 <p>This test measures the following biomarkers:</p>
 <ul>
-<li><a class="internal-link is-unresolved" href="/404">partial thromboplastin time</a></li>
+<li><a href="/entities/biomarker/partial-thromboplastin-time/" class="internal-link">partial thromboplastin time</a></li>
 </ul>
 <h2>Recommended For</h2>
 <h3>Supplement Monitoring</h3>
@@ -67,7 +67,7 @@ updated: '2026-04-30T06:31:01.960850Z'
 <h3>Included In</h3>
 <p>INCLUDED_IN::<a href="/entities/labtestpanel/coagulation-panel/" class="internal-link">coagulation panel</a></p>
 <h3>Measures</h3>
-<p>MEASURES::<a class="internal-link is-unresolved" href="/404">Partial Thromboplastin Time</a></p>
+<p>MEASURES::<a href="/entities/biomarker/partial-thromboplastin-time/" class="internal-link">Partial Thromboplastin Time</a></p>
 <h3>Enriched</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/organ/blood/" class="internal-link">Blood</a><br />
 INDICATES::<a href="/entities/condition/liver-disease/" class="internal-link">Liver Disease</a></p>

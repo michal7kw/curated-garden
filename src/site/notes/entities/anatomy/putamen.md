@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:56.932800Z'
+created: '2026-05-08T08:21:33.767484Z'
 description: Largest component of the basal ganglia, forming the outer part of the
   lenticular nucleus. Primary role in motor regulation, motor learning, and habit
   formation.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Putamen
 type: anatomy
-updated: '2026-04-30T06:30:56.932800Z'
+updated: '2026-05-08T08:21:33.767484Z'
 ---
 
 {% raw %}
@@ -37,6 +37,6 @@ updated: '2026-04-30T06:30:56.932800Z'
 SUPPORTS_FUNCTION::<a class="internal-link is-unresolved" href="/404">Motor Planning</a></p>
 <h3>Connected To</h3>
 <p>CONNECTED_TO::<a href="/entities/anatomy/caudate-nucleus/" class="internal-link">Caudate Nucleus</a><br />
-CONNECTED_TO::<a href="/entities/anatomy/substantia-nigra/" class="internal-link">Substantia Nigra</a></p>
+CONNECTED_TO::<a class="internal-link is-unresolved" href="/404">Substantia Nigra</a></p>
 
 {% endraw %}

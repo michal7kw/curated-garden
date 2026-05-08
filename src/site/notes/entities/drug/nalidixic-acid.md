@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.397222Z'
+created: '2026-05-08T08:21:32.565728Z'
 description: The first synthetic quinolone antibiotic, used primarily for the treatment
   of urinary tract infections caused by gram-negative bacteria.
 dg-home: false
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: Nalidixic Acid
 type: drug
-updated: '2026-04-30T06:31:00.397222Z'
+updated: '2026-05-08T08:21:32.565728Z'
 ---
 
 {% raw %}

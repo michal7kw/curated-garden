@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:58.791918Z'
+created: '2026-05-08T08:21:32.098743Z'
 description: A range of disorders resulting from the use of cocaine, including acute
   intoxication, withdrawal, dependence, and induced mental disorders.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Cocaine-Related Disorders
 type: condition
-updated: '2026-04-30T06:30:58.791918Z'
+updated: '2026-05-08T08:21:32.098743Z'
 ---
 
 {% raw %}
@@ -27,7 +27,7 @@ updated: '2026-04-30T06:30:58.791918Z'
 <p>ASSOCIATED_WITH::<a href="/entities/biomarker/troponin/" class="internal-link">Troponin</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/creatine-kinase/" class="internal-link">Creatine Kinase</a><br />
-ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
+ASSOCIATED_WITH::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a></p>
 <h3>Improved By Supplement</h3>
 <p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/nac/" class="internal-link">NAC</a><br />

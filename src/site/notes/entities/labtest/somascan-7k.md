@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:02.143778Z'
+created: '2026-05-08T08:21:33.190075Z'
 description: SomaLogic's advanced proteomics platform measuring 7000+ proteins. Research-grade
   comprehensive protein profiling.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: somascan_7k
 type: labtest
-updated: '2026-04-30T06:31:02.143778Z'
+updated: '2026-05-08T08:21:33.190075Z'
 ---
 
 {% raw %}

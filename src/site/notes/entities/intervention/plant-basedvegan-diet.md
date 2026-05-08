@@ -1,7 +1,7 @@
 ---
 aliases:
 - Plant-BasedVegan Diet
-created: '2026-04-30T06:31:01.003727Z'
+created: '2026-05-08T08:21:32.810531Z'
 description: Diet excluding all animal products, relying entirely on plant foods.
   Rich in fiber, polyphenols, and phytochemicals. Requires careful planning to avoid
   nutrient deficiencies (B12, iron, zinc, omega-3).
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Plant-Based/Vegan Diet
 type: intervention
-updated: '2026-04-30T06:31:01.003727Z'
+updated: '2026-05-08T08:21:32.810531Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:04.866457Z'
+created: '2026-05-08T08:21:34.536218Z'
 description: Potent Nrf2 activator and isothiocyanate derived from cruciferous vegetables,
   especially broccoli sprouts which contain 10-100x more glucoraphanin than mature
   broccoli. Activates over 200 cytoprotective genes including phase II detoxification
@@ -23,7 +23,7 @@ tags:
 templateEngineOverride: njk
 title: Sulforaphane
 type: supplement
-updated: '2026-04-30T06:31:04.866457Z'
+updated: '2026-05-08T08:21:34.536218Z'
 ---
 
 {% raw %}

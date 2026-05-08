@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:58.680652Z'
+created: '2026-05-08T08:21:32.060531Z'
 description: Eating disorder characterized by recurrent episodes of binge eating followed
   by compensatory behaviors (self-induced vomiting, laxative misuse, excessive exercise,
   fasting). Prevalence 1-3% in young women. Serotonergic dysfunction is central to
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Bulimia Nervosa
 type: condition
-updated: '2026-04-30T06:30:58.680652Z'
+updated: '2026-05-08T08:21:32.060531Z'
 ---
 
 {% raw %}

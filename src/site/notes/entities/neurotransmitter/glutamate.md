@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:02.910971Z'
+created: '2026-05-08T08:21:33.645406Z'
 description: The most abundant excitatory neurotransmitter in the vertebrate nervous
   system, present in over 90% of brain synapses. Essential for synaptic plasticity,
   learning, and memory via NMDA and AMPA receptor activation. Excess extracellular
@@ -21,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: Glutamate
 type: neurotransmitter
-updated: '2026-04-30T06:31:02.910971Z'
+updated: '2026-05-08T08:21:33.645406Z'
 ---
 
 {% raw %}
@@ -150,7 +150,7 @@ updated: '2026-04-30T06:31:02.910971Z'
 </table>
 <h2>Relationships</h2>
 <h3>Neurotransmitter Interactions</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">GABA</a> - Synthesized from glutamate via glutamic acid decarboxylase; primary inhibitory counterpart</p>
+<p>RELATED::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a> - Synthesized from glutamate via glutamic acid decarboxylase; primary inhibitory counterpart</p>
 <h3>Neurodegenerative Conditions</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a> - NMDA receptor dysfunction; memantine is approved therapy<br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/amyotrophic-lateral-sclerosis/" class="internal-link">Amyotrophic Lateral Sclerosis</a> - Impaired EAAT2 transport; excitotoxic motor neuron death<br />
@@ -164,7 +164,7 @@ ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/anxiety/" class="interna
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/glioblastoma/" class="internal-link">Glioblastoma</a> - Glutamate released by tumor cells promotes peritumoral excitotoxicity</p>
 <h3>Organ and Tissue</h3>
 <p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/brain/" class="internal-link">Brain</a> - Primary excitatory neurotransmitter; levels reflect neuronal health<br />
-AFFECTS_ORGAN::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a> - Critical for LTP and memory formation at glutamatergic synapses</p>
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Hippocampus</a> - Critical for LTP and memory formation at glutamatergic synapses</p>
 <h3>Cellular and Molecular</h3>
 <p>RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> - Calcium buffering during glutamate signaling; dysfunction in excitotoxicity</p>
 <h3>Supplements and Drugs</h3>

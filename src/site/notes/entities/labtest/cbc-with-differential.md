@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:01.274221Z'
+created: '2026-05-08T08:21:32.927631Z'
 description: CBC plus detailed white blood cell breakdown including neutrophils, lymphocytes,
   monocytes, eosinophils, and basophils.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: cbc_with_differential
 type: labtest
-updated: '2026-04-30T06:31:01.274221Z'
+updated: '2026-05-08T08:21:32.927631Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.172465Z'
+created: '2026-05-08T08:21:32.496979Z'
 description: GLP-1 receptor agonist for type 2 diabetes. First-in-class incretin mimetic
   derived from Gila monster saliva (exendin-4). Available as twice-daily injection
   (Byetta) and once-weekly extended-release (Bydureon/Bydureon BCise). Pioneered the
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Exenatide
 type: drug
-updated: '2026-04-30T06:31:00.172465Z'
+updated: '2026-05-08T08:21:32.496979Z'
 ---
 
 {% raw %}
@@ -142,7 +142,7 @@ MODULATES_HORMONE::<a class="internal-link is-unresolved" href="/404">Glucagon</
 <p>AFFECTS_ORGAN::<a href="/entities/organ/pancreas/" class="internal-link">Pancreas</a> (beta-cell stimulation and glucagon suppression, Evidence Level 1a)<br />
 AFFECTS_ORGAN::<a href="/entities/organ/intestines/" class="internal-link">Intestines</a> (delays gastric emptying, Evidence Level 1a)<br />
 AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a> (cardiovascular safety established — EXSCEL neutral outcomes, Evidence Level 1a)<br />
-AFFECTS_ORGAN::<a href="/entities/anatomy/hypothalamus/" class="internal-link">Hypothalamus</a> (reduces appetite via central GLP-1 receptors, Evidence Level 2b)</p>
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Hypothalamus</a> (reduces appetite via central GLP-1 receptors, Evidence Level 2b)</p>
 <h3>Modulates Pathway</h3>
 <p>MODULATES::<a href="/entities/pathway/glp-1-signaling-pathway/" class="internal-link">GLP-1 Signaling Pathway</a> (activates GLP-1 receptors, Evidence Level 1a)<br />
 MODULATES::<a href="/entities/pathway/insulin-signaling/" class="internal-link">Insulin Signaling</a> (improves insulin sensitivity, Evidence Level 2b)</p>

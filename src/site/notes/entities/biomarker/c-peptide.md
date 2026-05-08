@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:57.390880Z'
+created: '2026-05-08T08:21:31.679375Z'
 description: C-Peptide is a 31-amino acid polypeptide cleaved from proinsulin during
   insulin biosynthesis in pancreatic beta cells, secreted in equimolar amounts with
   insulin. Unlike insulin, C-peptide is not extracted by the liver and has a longer
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: C-Peptide
 type: biomarker
-updated: '2026-04-30T06:30:57.390880Z'
+updated: '2026-05-08T08:21:31.679375Z'
 ---
 
 {% raw %}

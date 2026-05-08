@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:59.287777Z'
+created: '2026-05-08T08:21:32.248889Z'
 description: Recurrent neurovascular headache disorder characterized by moderate-to-severe
   pulsating pain, often unilateral, with nausea, photophobia, and phonophobia. Affects
   12% of the population (18% of women). Involves cortical spreading depression, trigeminovascular
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Migraine
 type: condition
-updated: '2026-04-30T06:30:59.287777Z'
+updated: '2026-05-08T08:21:32.248889Z'
 ---
 
 {% raw %}

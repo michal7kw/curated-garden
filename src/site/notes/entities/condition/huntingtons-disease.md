@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:59.081772Z'
+created: '2026-05-08T08:21:32.190615Z'
 description: An autosomal dominant neurodegenerative disorder caused by CAG trinucleotide
   repeat expansion in the huntingtin gene. Characterized by chorea, cognitive decline,
   and psychiatric symptoms.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Huntington's Disease
 type: condition
-updated: '2026-04-30T06:30:59.081772Z'
+updated: '2026-05-08T08:21:32.190615Z'
 ---
 
 {% raw %}
@@ -25,7 +25,7 @@ updated: '2026-04-30T06:30:59.081772Z'
 <p>An autosomal dominant neurodegenerative disorder caused by CAG trinucleotide repeat expansion in the huntingtin gene. Characterized by chorea, cognitive decline, and psychiatric symptoms.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/substantia-nigra/" class="internal-link">Substantia Nigra</a><br />
+<p>AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Substantia Nigra</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Genetic Testing</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Antisense Oligonucleotides</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">SSRIs</a><br />
@@ -34,7 +34,7 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Dementia</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Antipsychotics</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">MRI Volumetry</a><br />
 RELATED::<a href="/entities/biomarker/digital-biomarkers-for-neurodegeneration/" class="internal-link">Digital Biomarkers for Neurodegeneration</a><br />
-RELATED::<a href="/entities/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal Pathway</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Autophagy-Lysosomal Pathway</a><br />
 AFFECTS_ORGAN::<a href="/entities/organ/globus-pallidus/" class="internal-link">Globus Pallidus</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Tetrabenazine</a><br />
 RELATED::<a href="/entities/biomarker/neurofilament-light-chain/" class="internal-link">Neurofilament Light Chain</a><br />
@@ -43,7 +43,7 @@ RELATED::<a href="/entities/biomarker/blood-nfl/" class="internal-link">Blood Nf
 RELATED::<a class="internal-link is-unresolved" href="/404">Gene Therapy</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Chorea</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Mutant Huntingtin CSF</a><br />
-AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a><br />
+AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a><br />
 RELATED::<a href="/entities/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a></p>
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/biomarker/blood-nfl/" class="internal-link">Blood NfL</a><br />

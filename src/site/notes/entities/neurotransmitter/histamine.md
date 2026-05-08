@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:02.937079Z'
+created: '2026-05-08T08:21:33.660916Z'
 description: Biogenic amine neurotransmitter and immune mediator synthesized from
   histidine by histidine decarboxylase. Acts as the brain's primary wakefulness-promoting
   neurotransmitter from the tuberomammillary nucleus, a key immune modulator in allergic
@@ -24,7 +24,7 @@ tags:
 templateEngineOverride: njk
 title: Histamine
 type: neurotransmitter
-updated: '2026-04-30T06:31:02.937079Z'
+updated: '2026-05-08T08:21:33.660916Z'
 ---
 
 {% raw %}
@@ -105,10 +105,10 @@ updated: '2026-04-30T06:31:02.937079Z'
 <h2>Relationships</h2>
 <h3>Neurotransmitter Interactions</h3>
 <p>RELATED::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a> - Both promote wakefulness; serotonergic raphe nuclei and histaminergic TMN are co-activated during arousal<br />
-RELATED::<a class="internal-link is-unresolved" href="/404">GABA</a> - GABAergic input to TMN inhibits histamine release during sleep; GABA promotes sleep, histamine promotes wakefulness<br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Dopamine</a> - H3 receptors modulate dopamine release; histamine-dopamine interaction relevant to cognition and reward<br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Norepinephrine</a> - Both are wakefulness-promoting; locus coeruleus NE and TMN histamine are co-activated during arousal<br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Acetylcholine</a> - H3 receptors modulate ACh release in cortex and hippocampus; both systems promote cortical activation</p>
+RELATED::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a> - GABAergic input to TMN inhibits histamine release during sleep; GABA promotes sleep, histamine promotes wakefulness<br />
+RELATED::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a> - H3 receptors modulate dopamine release; histamine-dopamine interaction relevant to cognition and reward<br />
+RELATED::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a> - Both are wakefulness-promoting; locus coeruleus NE and TMN histamine are co-activated during arousal<br />
+RELATED::<a href="/entities/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a> - H3 receptors modulate ACh release in cortex and hippocampus; both systems promote cortical activation</p>
 <h3>Conditions</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/allergy/" class="internal-link">Allergy</a> - Primary mediator of Type I hypersensitivity; H1 antihistamines are first-line treatment<br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/inflammation/" class="internal-link">Inflammation</a> - Released from mast cells; promotes vasodilation, vascular permeability, and immune cell recruitment<br />
@@ -118,7 +118,7 @@ ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/anxiety/" class="interna
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a> - Altered histamine signaling observed in mood disorders; H3 antagonists under investigation</p>
 <h3>Organ and Tissue</h3>
 <p>INDICATES_ORGAN_HEALTH::<a href="/entities/organ/brain/" class="internal-link">Brain</a> - TMN histamine neuron activity reflects arousal state; degeneration linked to sleep disorders<br />
-AFFECTS_ORGAN::<a href="/entities/anatomy/hypothalamus/" class="internal-link">Hypothalamus</a> - TMN is the sole source of brain histamine; regulates sleep-wake, thermoregulation, appetite<br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Hypothalamus</a> - TMN is the sole source of brain histamine; regulates sleep-wake, thermoregulation, appetite<br />
 AFFECTS_ORGAN::<a href="/entities/organ/stomach/" class="internal-link">Stomach</a> - H2 receptor-mediated gastric acid secretion from parietal cells<br />
 AFFECTS_ORGAN::<a href="/entities/organ/gut/" class="internal-link">Gut</a> - Mast cell histamine regulates intestinal permeability and immune responses</p>
 <h3>Supplements and Modulators</h3>

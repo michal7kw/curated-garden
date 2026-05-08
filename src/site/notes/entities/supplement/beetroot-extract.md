@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:04.272938Z'
+created: '2026-05-08T08:21:34.289287Z'
 description: Rich source of dietary nitrate that converts to nitric oxide (NO) in
   the body, improving oxygen efficiency, reducing oxygen cost of exercise, enhancing
   blood flow, and improving endurance performance.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Beetroot Extract
 type: supplement
-updated: '2026-04-30T06:31:04.272938Z'
+updated: '2026-05-08T08:21:34.289287Z'
 ---
 
 {% raw %}

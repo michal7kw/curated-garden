@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.148822Z'
+created: '2026-05-08T08:21:33.780738Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/subthalamic-nucleus/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Subthalamic Nucleus
 type: organ
-updated: '2026-04-30T06:31:03.148822Z'
+updated: '2026-05-08T08:21:33.780738Z'
 ---
 
 {% raw %}
@@ -20,9 +20,9 @@ updated: '2026-04-30T06:31:03.148822Z'
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/organ/basal-ganglia/" class="internal-link">Basal Ganglia</a><br />
 RELATED::<a href="/entities/organ/globus-pallidus/" class="internal-link">Globus Pallidus</a><br />
-RELATED::<a href="/entities/anatomy/substantia-nigra/" class="internal-link">Substantia Nigra</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Substantia Nigra</a><br />
 RELATED::<a href="/entities/neurotransmitter/glutamate/" class="internal-link">Glutamate</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Dopamine</a></p>
+RELATED::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
 <h3>Supports Function</h3>
 <p>SUPPORTS_FUNCTION::<a class="internal-link is-unresolved" href="/404">Motor Planning</a></p>
 

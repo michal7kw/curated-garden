@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:04.854685Z'
+created: '2026-05-08T08:21:34.528904Z'
 description: Nutrient-dense blue-green algae (cyanobacteria, Arthrospira platensis)
   with 60-70% protein by weight and a unique bioactive profile including phycocyanin,
   gamma-linolenic acid (GLA), and beta-carotene. Meta-analyses confirm significant
@@ -23,7 +23,7 @@ tags:
 templateEngineOverride: njk
 title: Spirulina
 type: supplement
-updated: '2026-04-30T06:31:04.854685Z'
+updated: '2026-05-08T08:21:34.528904Z'
 ---
 
 {% raw %}

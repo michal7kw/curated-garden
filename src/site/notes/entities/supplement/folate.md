@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:04.402220Z'
+created: '2026-05-08T08:21:34.351054Z'
 description: Essential B vitamin (B9) critical for DNA synthesis, methylation, and
   fetal development. Methylfolate (5-MTHF) is the active form that bypasses MTHFR
   genetic issues.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Folate
 type: supplement
-updated: '2026-04-30T06:31:04.402220Z'
+updated: '2026-05-08T08:21:34.351054Z'
 ---
 
 {% raw %}
@@ -45,11 +45,11 @@ RELATED::<a href="/entities/supplement/vitamin-b6/" class="internal-link">Vitami
 RELATED::<a href="/entities/intervention/mediterranean-diet/" class="internal-link">Mediterranean Diet</a><br />
 RELATED::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a><br />
 RELATED::<a href="/entities/metabolite/methylfolate/" class="internal-link">Methylfolate</a><br />
-MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
+MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
 RELATED::<a href="/entities/supplement/vitamin-b12/" class="internal-link">Vitamin B12</a></p>
 <h3>Required For Synthesis</h3>
 <p>REQUIRED_FOR_SYNTHESIS::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
-REQUIRED_FOR_SYNTHESIS::<a class="internal-link is-unresolved" href="/404">Dopamine</a></p>
+REQUIRED_FOR_SYNTHESIS::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
 <h3>Precursor Of</h3>
 <p>PRECURSOR_OF::<a href="/entities/metabolite/methylfolate/" class="internal-link">Methylfolate</a></p>
 <h3>Affects Biomarker</h3>
@@ -70,7 +70,7 @@ MAY_IMPROVE_CONDITION::<a href="/entities/condition/cognitive-dysfunction/" clas
 <p>TARGETS_BIOMARKER::<a href="/entities/labtest/hemoglobin/" class="internal-link">hemoglobin</a><br />
 TARGETS_BIOMARKER::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a></p>
 <h3>Merged From biomarker</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
+<p>RELATED::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
 RELATED::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a></p>
 
 {% endraw %}

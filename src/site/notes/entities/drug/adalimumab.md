@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.025995Z'
+created: '2026-05-08T08:21:32.443975Z'
 description: Fully human monoclonal antibody against TNF-alpha. First fully human
   anti-TNF biologic (brand Humira). Binds soluble and membrane-bound TNF-alpha, preventing
   receptor activation.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Adalimumab
 type: drug
-updated: '2026-04-30T06:31:00.025995Z'
+updated: '2026-05-08T08:21:32.443975Z'
 ---
 
 {% raw %}

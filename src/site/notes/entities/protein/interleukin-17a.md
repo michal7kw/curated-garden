@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.929909Z'
+created: '2026-05-08T08:21:34.129742Z'
 description: Signature cytokine of Th17 cells. Key driver of neutrophilic inflammation,
   mucosal immunity, and bone erosion. Central to pathogenesis of psoriasis, psoriatic
   arthritis, and ankylosing spondylitis.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Interleukin-17A
 type: protein
-updated: '2026-04-30T06:31:03.929909Z'
+updated: '2026-05-08T08:21:34.129742Z'
 ---
 
 {% raw %}

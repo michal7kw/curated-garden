@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:59.948133Z'
+created: '2026-05-08T08:21:32.416008Z'
 description: Autoimmune destruction of pancreatic beta cells causing absolute insulin
   deficiency. Requires lifelong exogenous insulin. Accounts for 5-10% of diabetes
   cases. Typically diagnosed in childhood/adolescence but can occur at any age (LADA).
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Type 1 Diabetes
 type: condition
-updated: '2026-04-30T06:30:59.948133Z'
+updated: '2026-05-08T08:21:32.416008Z'
 ---
 
 {% raw %}

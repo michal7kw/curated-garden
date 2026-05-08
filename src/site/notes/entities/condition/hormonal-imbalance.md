@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:59.075727Z'
+created: '2026-05-08T08:21:32.187278Z'
 description: A condition where there is too much or too little of one or more hormones
   in the body, which can disrupt many essential processes.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Hormonal Imbalance
 type: condition
-updated: '2026-04-30T06:30:59.075727Z'
+updated: '2026-05-08T08:21:32.187278Z'
 ---
 
 {% raw %}

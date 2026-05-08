@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:04.483303Z'
+created: '2026-05-08T08:21:34.384651Z'
 description: L-Theanine (gamma-glutamylethylamide) is a unique non-protein amino acid
   found almost exclusively in Camellia sinensis (tea plant) and certain mushroom species.
   It readily crosses the blood-brain barrier within 30 minutes, promoting alpha brain
@@ -25,7 +25,7 @@ tags:
 templateEngineOverride: njk
 title: L-Theanine
 type: supplement
-updated: '2026-04-30T06:31:04.483303Z'
+updated: '2026-05-08T08:21:34.384651Z'
 ---
 
 {% raw %}
@@ -158,18 +158,18 @@ RELATED::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesi
 RELATED::<a href="/entities/intervention/sleep-optimization/" class="internal-link">Sleep Optimization</a><br />
 RELATED::<a href="/entities/drug/caffeine/" class="internal-link">Caffeine</a></p>
 <h3>Modulates Neurotransmitter</h3>
-<p>MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">GABA</a><br />
+<p>MODULATES_NEUROTRANSMITTER::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
 MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
-MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
+MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
 MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/glutamate/" class="internal-link">Glutamate</a></p>
 <h3>Modulates Hormone</h3>
 <p>MODULATES_HORMONE::<a href="/entities/hormone/melatonin/" class="internal-link">Melatonin</a></p>
 <h3>Affects Organ</h3>
 <p>AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 <h3>Affects Neurotransmitter</h3>
-<p>AFFECTS_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
+<p>AFFECTS_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
 AFFECTS_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
-AFFECTS_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">GABA</a></p>
+AFFECTS_NEUROTRANSMITTER::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a></p>
 <h3>Synergistic With</h3>
 <p>SYNERGISTIC_WITH::<a href="/entities/hormone/melatonin/" class="internal-link">Melatonin</a><br />
 SYNERGISTIC_WITH::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />

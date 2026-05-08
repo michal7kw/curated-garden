@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:02.499233Z'
+created: '2026-05-08T08:21:33.320588Z'
 description: Comprehensive thyroid testing that goes beyond standard panels to detect
   subtle abnormalities or early signs of dysfunction, even when routine tests appear
   normal. The thyroid gland plays a central role in regulating metabolism, energy
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: extended_thyroid_health
 type: labtestpanel
-updated: '2026-04-30T06:31:02.499233Z'
+updated: '2026-05-08T08:21:33.320588Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:58.455539Z'
+created: '2026-05-08T08:21:31.996295Z'
 description: Cognitive and affective processes involved in evaluating, anticipating,
   and learning from rewards. The mesolimbic dopamine pathway (VTA to nucleus accumbens)
   is the core circuit. Reward processing drives motivated behavior, decision-making,
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Reward Processing
 type: cognitivefunction
-updated: '2026-04-30T06:30:58.455539Z'
+updated: '2026-05-08T08:21:31.996295Z'
 ---
 
 {% raw %}
@@ -51,15 +51,15 @@ updated: '2026-04-30T06:30:58.455539Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Supported By Region</h3>
-<p>SUPPORTED_BY_REGION::<a href="/entities/anatomy/ventral-tegmental-area/" class="internal-link">Ventral Tegmental Area</a><br />
-SUPPORTED_BY_REGION::<a href="/entities/anatomy/nucleus-accumbens/" class="internal-link">Nucleus Accumbens</a><br />
-SUPPORTED_BY_REGION::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a><br />
+<p>SUPPORTED_BY_REGION::<a class="internal-link is-unresolved" href="/404">Ventral Tegmental Area</a><br />
+SUPPORTED_BY_REGION::<a class="internal-link is-unresolved" href="/404">Nucleus Accumbens</a><br />
+SUPPORTED_BY_REGION::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a><br />
 SUPPORTED_BY_REGION::<a href="/entities/anatomy/cingulate-cortex/" class="internal-link">Cingulate Cortex</a><br />
-SUPPORTED_BY_REGION::<a href="/entities/anatomy/amygdala/" class="internal-link">Amygdala</a></p>
+SUPPORTED_BY_REGION::<a class="internal-link is-unresolved" href="/404">Amygdala</a></p>
 <h3>Modulated By Neurotransmitter</h3>
-<p>MODULATED_BY_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
-MODULATED_BY_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Endorphins</a><br />
-MODULATED_BY_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">GABA</a><br />
+<p>MODULATED_BY_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
+MODULATED_BY_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/endorphins/" class="internal-link">Endorphins</a><br />
+MODULATED_BY_NEUROTRANSMITTER::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
 MODULATED_BY_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/glutamate/" class="internal-link">Glutamate</a><br />
 MODULATED_BY_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a></p>
 <h3>Improved By Intervention</h3>

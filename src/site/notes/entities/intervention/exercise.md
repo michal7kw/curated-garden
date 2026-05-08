@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.908938Z'
+created: '2026-05-08T08:21:32.758631Z'
 description: Physical activity performed to improve or maintain physical fitness,
   health, and overall wellness. Encompasses aerobic (cardio), anaerobic (resistance),
   flexibility, and balance training. One of the most effective interventions for preventing
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Exercise
 type: intervention
-updated: '2026-04-30T06:31:00.908938Z'
+updated: '2026-05-08T08:21:32.758631Z'
 ---
 
 {% raw %}
@@ -63,7 +63,7 @@ RELATED::<a href="/entities/intervention/sleep-optimization/" class="internal-li
 RELATED::<a href="/entities/intervention/cognitive-training/" class="internal-link">Cognitive Training</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a><br />
 MODULATES_PATHWAY::<a href="/entities/pathway/alpha-synuclein-aggregation/" class="internal-link">Alpha-Synuclein Aggregation</a><br />
-MODULATES_PATHWAY::<a href="/entities/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal Pathway</a><br />
+MODULATES_PATHWAY::<a class="internal-link is-unresolved" href="/404">Autophagy-Lysosomal Pathway</a><br />
 RELATED::<a href="/entities/intervention/mediterranean-diet/" class="internal-link">Mediterranean Diet</a><br />
 MODULATES_PATHWAY::<a href="/entities/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a></p>
 <h2>Research Support</h2>

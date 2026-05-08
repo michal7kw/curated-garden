@@ -1,7 +1,7 @@
 ---
 aliases:
 - 08_Supplements_and_Stacks
-created: '2026-04-30T06:31:05.116938Z'
+created: '2026-05-08T08:21:34.647214Z'
 description: Managing supplements, adopting curated health stacks, personalized recommendations,
   and drug interaction checking
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Supplements and Health Stacks
 type: users_guide
-updated: '2026-04-30T06:31:05.116938Z'
+updated: '2026-05-08T08:21:34.647214Z'
 ---
 
 {% raw %}

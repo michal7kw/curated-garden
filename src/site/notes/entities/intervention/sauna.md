@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:01.024617Z'
+created: '2026-05-08T08:21:32.816450Z'
 description: Heat therapy using dry heat (Finnish sauna, 80-100C) or infrared radiation
   (infrared sauna, 40-60C). Regular use associated with reduced cardiovascular mortality,
   improved endothelial function, and enhanced heat shock protein expression. Triggers
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Sauna
 type: intervention
-updated: '2026-04-30T06:31:01.024617Z'
+updated: '2026-05-08T08:21:32.816450Z'
 ---
 
 {% raw %}
@@ -62,7 +62,7 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers Disease</
 RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a> (heat stress enhances mitochondrial biogenesis)</p>
 <h3>Modulates Hormone</h3>
 <p>MODULATES_HORMONE::<a href="/entities/hormone/growth-hormone/" class="internal-link">Growth Hormone</a> (200-300% increase with prolonged or multi-round sessions, Evidence Level 2b)<br />
-MODULATES_HORMONE::<a class="internal-link is-unresolved" href="/404">Norepinephrine</a> (acute sympathetic activation during heat exposure, Evidence Level 2b)<br />
+MODULATES_HORMONE::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a> (acute sympathetic activation during heat exposure, Evidence Level 2b)<br />
 MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a> (transient increase during session, decreases post-session, Evidence Level 2b)</p>
 <h3>Modulates Biomarker</h3>
 <p>AFFECTS_BIOMARKER::<a class="internal-link is-unresolved" href="/404">hs-CRP</a> (anti-inflammatory effect with regular use, Evidence Level 2b)</p>

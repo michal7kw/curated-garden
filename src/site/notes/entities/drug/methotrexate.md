@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.350605Z'
+created: '2026-05-08T08:21:32.552620Z'
 description: Anchor DMARD and first-line treatment for rheumatoid arthritis. Folate
   antimetabolite that inhibits dihydrofolate reductase, suppressing lymphocyte proliferation
   and reducing inflammatory cytokine production.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Methotrexate
 type: drug
-updated: '2026-04-30T06:31:00.350605Z'
+updated: '2026-05-08T08:21:32.552620Z'
 ---
 
 {% raw %}

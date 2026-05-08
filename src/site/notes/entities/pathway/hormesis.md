@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.328966Z'
+created: '2026-05-08T08:21:33.848929Z'
 description: A biological phenomenon where a beneficial effect results from exposure
   to low doses of an agent that is otherwise toxic or lethal at higher doses. The
   "what doesn't kill you makes you stronger" mechanism.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Hormesis
 type: pathway
-updated: '2026-04-30T06:31:03.328966Z'
+updated: '2026-05-08T08:21:33.848929Z'
 ---
 
 {% raw %}
@@ -29,7 +29,7 @@ updated: '2026-04-30T06:31:03.328966Z'
 ACTIVATES::<a href="/entities/pathway/nrf2-pathway/" class="internal-link">Nrf2 Pathway</a><br />
 ACTIVATES::<a class="internal-link is-unresolved" href="/404">Heat Shock Proteins</a><br />
 ACTIVATES::<a href="/entities/protein/sirt1/" class="internal-link">SIRT1</a><br />
-ACTIVATES::<a href="/entities/biologicalprocess/autophagy/" class="internal-link">Autophagy</a></p>
+ACTIVATES::<a href="/entities/pathway/autophagy/" class="internal-link">Autophagy</a></p>
 <h3>Induced By</h3>
 <p>INDUCED_BY::<a href="/entities/intervention/exercise/" class="internal-link">Exercise</a><br />
 INDUCED_BY::<a href="/entities/supplement/sulforaphane/" class="internal-link">Sulforaphane</a><br />

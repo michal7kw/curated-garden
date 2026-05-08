@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:58.186476Z'
+created: '2026-05-08T08:21:31.931073Z'
 description: Membrane-bound organelle containing hydrolytic enzymes. The cell's recycling
   center and a central hub for nutrient sensing via mTOR/AMPK.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Lysosome
 type: cellularcomponent
-updated: '2026-04-30T06:30:58.186476Z'
+updated: '2026-05-08T08:21:31.931073Z'
 ---
 
 {% raw %}
@@ -39,6 +39,6 @@ ASSOCIATED_WITH_CONDITION::<a class="internal-link is-unresolved" href="/404">Al
 <h3>Regulated By</h3>
 <p>REGULATED_BY::<a class="internal-link is-unresolved" href="/404">TFEB</a></p>
 <h3>Participates In Pathway</h3>
-<p>PARTICIPATES_IN_PATHWAY::<a href="/entities/biologicalprocess/autophagy/" class="internal-link">Autophagy</a></p>
+<p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/autophagy/" class="internal-link">Autophagy</a></p>
 
 {% endraw %}

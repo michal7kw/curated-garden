@@ -2,7 +2,7 @@
 aliases:
 - NADH Dehydrogenase
 - NADH:Ubiquinone Oxidoreductase
-created: '2026-04-30T06:31:03.860656Z'
+created: '2026-05-08T08:21:34.057684Z'
 description: NADH:ubiquinone oxidoreductase, the largest complex of the electron transport
   chain with 45 subunits. Catalyzes the first step of oxidative phosphorylation by
   oxidizing NADH and transferring electrons to ubiquinone while pumping 4 protons
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Complex I
 type: protein
-updated: '2026-04-30T06:31:03.860656Z'
+updated: '2026-05-08T08:21:34.057684Z'
 ---
 
 {% raw %}

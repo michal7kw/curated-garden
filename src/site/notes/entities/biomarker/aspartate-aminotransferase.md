@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:57.290879Z'
+created: '2026-05-08T08:21:31.645198Z'
 description: Aspartate Aminotransferase (AST), also known as SGOT, is a pyridoxal
   phosphate-dependent enzyme found in liver, heart, skeletal muscle, kidney, brain,
   and red blood cells. Elevated serum AST reflects tissue damage in any of these organs,
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Aspartate Aminotransferase
 type: biomarker
-updated: '2026-04-30T06:30:57.290879Z'
+updated: '2026-05-08T08:21:31.645198Z'
 ---
 
 {% raw %}

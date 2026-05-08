@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.717843Z'
+created: '2026-05-08T08:21:34.040715Z'
 description: AMP-activated protein kinase, the master cellular energy sensor that
   responds to decreased ATP/AMP ratio by activating catabolic pathways (fatty acid
   oxidation, autophagy) and inhibiting anabolic pathways (protein synthesis, lipogenesis).
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: AMPK
 type: protein
-updated: '2026-04-30T06:31:03.717843Z'
+updated: '2026-05-08T08:21:34.040715Z'
 ---
 
 {% raw %}
@@ -34,11 +34,11 @@ RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-lin
 RELATED::<a href="/entities/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a><br />
 RELATED::<a href="/entities/supplement/curcumin/" class="internal-link">Curcumin</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">EGCG</a><br />
-PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal Pathway</a><br />
+PARTICIPATES_IN_PATHWAY::<a class="internal-link is-unresolved" href="/404">Autophagy-Lysosomal Pathway</a><br />
 RELATED::<a href="/entities/supplement/resveratrol/" class="internal-link">Resveratrol</a></p>
 <h3>Activates</h3>
 <p>ACTIVATES::<a href="/entities/pathway/beta-oxidation/" class="internal-link">Beta-Oxidation</a><br />
-ACTIVATES::<a href="/entities/biologicalprocess/autophagy/" class="internal-link">Autophagy</a><br />
+ACTIVATES::<a href="/entities/pathway/autophagy/" class="internal-link">Autophagy</a><br />
 ACTIVATES::<a href="/entities/pathway/glycolysis/" class="internal-link">Glycolysis</a><br />
 ACTIVATES::<a href="/entities/pathway/mitophagy/" class="internal-link">Mitophagy</a></p>
 <h3>Inhibits</h3>

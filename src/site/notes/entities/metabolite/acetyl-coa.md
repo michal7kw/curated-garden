@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:02.680871Z'
+created: '2026-05-08T08:21:33.361203Z'
 description: Acetyl-coenzyme A (Acetyl-CoA) is the central metabolic hub molecule
   that connects carbohydrate, fat, and protein metabolism. It serves as the primary
   two-carbon fuel for the citric acid cycle, the building block for fatty acid and
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Acetyl-CoA
 type: metabolite
-updated: '2026-04-30T06:31:02.680871Z'
+updated: '2026-05-08T08:21:33.361203Z'
 ---
 
 {% raw %}
@@ -78,7 +78,7 @@ PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/beta-oxidation/" class="inte
 <p>CONVERTED_TO::<a href="/entities/metabolite/citrate/" class="internal-link">Citrate</a><br />
 CONVERTED_TO::<a href="/entities/metabolite/ketone-bodies/" class="internal-link">Ketone Bodies</a><br />
 CONVERTED_TO::<a href="/entities/metabolite/acylcarnitine/" class="internal-link">Acylcarnitine</a><br />
-CONVERTED_TO::<a class="internal-link is-unresolved" href="/404">Fatty Acyl-CoA</a><br />
+CONVERTED_TO::<a href="/entities/metabolite/fatty-acyl-coa/" class="internal-link">Fatty Acyl-CoA</a><br />
 CONVERTED_TO::<a href="/entities/metabolite/atp/" class="internal-link">ATP</a></p>
 <h3>Regulated By</h3>
 <p>REGULATED_BY::<a href="/entities/protein/ampk/" class="internal-link">AMPK</a><br />

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:04.425724Z'
+created: '2026-05-08T08:21:34.360298Z'
 description: Amino sugar and natural precursor for glycosaminoglycans in articular
   cartilage. Crystalline glucosamine sulfate (Rottapharm formulation) has the strongest
   evidence -- efficacy comparable to celecoxib. Must be sulfate salt form, not HCl.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Glucosamine Sulfate
 type: supplement
-updated: '2026-04-30T06:31:04.425724Z'
+updated: '2026-05-08T08:21:34.360298Z'
 ---
 
 {% raw %}

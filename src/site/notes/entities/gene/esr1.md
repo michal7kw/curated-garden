@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.896040Z'
+created: '2026-05-08T08:21:34.111764Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: ESR1
 type: gene
-updated: '2026-04-30T06:31:03.896040Z'
+updated: '2026-05-08T08:21:34.111764Z'
 ---
 
 {% raw %}

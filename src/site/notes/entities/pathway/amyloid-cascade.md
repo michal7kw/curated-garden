@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.178157Z'
+created: '2026-05-08T08:21:33.793288Z'
 description: The hypothesis that amyloid-beta accumulation is the primary initiating
   event in Alzheimer's disease, triggering downstream tau pathology, neuroinflammation,
   synaptic dysfunction, and neuronal death.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Amyloid Cascade
 type: pathway
-updated: '2026-04-30T06:31:03.178157Z'
+updated: '2026-05-08T08:21:33.793288Z'
 ---
 
 {% raw %}
@@ -37,7 +37,7 @@ updated: '2026-04-30T06:31:03.178157Z'
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">BACE1 Inhibitors</a><br />
 RELATED::<a href="/entities/protein/app/" class="internal-link">APP</a><br />
 RELATED::<a href="/entities/gene/psen1/" class="internal-link">PSEN1</a><br />
-RELATED::<a href="/entities/pathway/autophagy-lysosomal-pathway/" class="internal-link">Autophagy-Lysosomal Pathway</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Autophagy-Lysosomal Pathway</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Donanemab</a><br />
 RELATED::<a href="/entities/biomarker/amyloid-beta-4240-ratio/" class="internal-link">Amyloid-Beta 4240 Ratio</a><br />
 RELATED::<a href="/entities/intervention/sleep-optimization/" class="internal-link">Sleep Optimization</a><br />

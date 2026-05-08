@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.338879Z'
+created: '2026-05-08T08:21:33.860325Z'
 description: The insulin signaling pathway mediates the metabolic effects of insulin,
   promoting glucose uptake, glycogen synthesis, lipogenesis, and protein synthesis
   while inhibiting gluconeogenesis and lipolysis.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Insulin Signaling
 type: pathway
-updated: '2026-04-30T06:31:03.338879Z'
+updated: '2026-05-08T08:21:33.860325Z'
 ---
 
 {% raw %}
@@ -39,7 +39,7 @@ ACTIVATES::<a href="/entities/pathway/glycolysis/" class="internal-link">Glycoly
 <h3>Inhibits</h3>
 <p>INHIBITS::<a href="/entities/pathway/gluconeogenesis/" class="internal-link">Gluconeogenesis</a><br />
 INHIBITS::<a href="/entities/pathway/beta-oxidation/" class="internal-link">Beta-Oxidation</a><br />
-INHIBITS::<a href="/entities/biologicalprocess/autophagy/" class="internal-link">Autophagy</a></p>
+INHIBITS::<a href="/entities/pathway/autophagy/" class="internal-link">Autophagy</a></p>
 <h3>Modulated By Supplement</h3>
 <p>MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/berberine/" class="internal-link">Berberine</a><br />
 MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a><br />

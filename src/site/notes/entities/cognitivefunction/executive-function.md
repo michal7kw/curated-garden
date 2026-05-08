@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:58.426552Z'
+created: '2026-05-08T08:21:31.991952Z'
 description: Umbrella term for higher-order cognitive processes that control and coordinate
   other cognitive functions. Core components include working memory, cognitive flexibility,
   and inhibitory control. Primarily mediated by the prefrontal cortex and dependent
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Executive Function
 type: cognitivefunction
-updated: '2026-04-30T06:30:58.426552Z'
+updated: '2026-05-08T08:21:31.991952Z'
 ---
 
 {% raw %}
@@ -49,16 +49,16 @@ updated: '2026-04-30T06:30:58.426552Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Supported By Region</h3>
-<p>SUPPORTED_BY_REGION::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a><br />
+<p>SUPPORTED_BY_REGION::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a><br />
 SUPPORTED_BY_REGION::<a href="/entities/anatomy/cingulate-cortex/" class="internal-link">Cingulate Cortex</a><br />
-SUPPORTED_BY_REGION::<a href="/entities/anatomy/thalamus/" class="internal-link">Thalamus</a><br />
+SUPPORTED_BY_REGION::<a class="internal-link is-unresolved" href="/404">Thalamus</a><br />
 SUPPORTED_BY_REGION::<a href="/entities/anatomy/caudate-nucleus/" class="internal-link">Caudate Nucleus</a><br />
 SUPPORTED_BY_REGION::<a href="/entities/anatomy/putamen/" class="internal-link">Putamen</a></p>
 <h3>Modulated By Neurotransmitter</h3>
-<p>MODULATED_BY_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
-MODULATED_BY_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Norepinephrine</a><br />
+<p>MODULATED_BY_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
+MODULATED_BY_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a><br />
 MODULATED_BY_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/glutamate/" class="internal-link">Glutamate</a><br />
-MODULATED_BY_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">GABA</a></p>
+MODULATED_BY_NEUROTRANSMITTER::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a></p>
 <h3>Improved By Intervention</h3>
 <p>IMPROVED_BY_INTERVENTION::<a href="/entities/intervention/exercise/" class="internal-link">Exercise</a><br />
 IMPROVED_BY_INTERVENTION::<a href="/entities/intervention/meditation/" class="internal-link">Meditation</a><br />

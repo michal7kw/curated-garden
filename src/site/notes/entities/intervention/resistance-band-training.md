@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:01.018164Z'
+created: '2026-05-08T08:21:32.813140Z'
 description: Progressive resistance exercise using elastic bands that provide variable
   resistance across the range of motion. Effective alternative to free weights for
   strength, muscle hypertrophy, and rehabilitation. Particularly suitable for home
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Resistance Band Training
 type: intervention
-updated: '2026-04-30T06:31:01.018164Z'
+updated: '2026-05-08T08:21:32.813140Z'
 ---
 
 {% raw %}

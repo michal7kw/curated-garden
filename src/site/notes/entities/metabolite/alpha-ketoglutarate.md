@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:02.703755Z'
+created: '2026-05-08T08:21:33.375866Z'
 description: Alpha-ketoglutarate (AKG) is a key TCA cycle intermediate and metabolic
   hub connecting carbon and nitrogen metabolism. It serves as a cosubstrate for alpha-ketoglutarate-dependent
   dioxygenases including prolyl/lysyl hydroxylases (collagen synthesis, HIF regulation),
@@ -21,7 +21,7 @@ tags:
 templateEngineOverride: njk
 title: Alpha-Ketoglutarate
 type: metabolite
-updated: '2026-04-30T06:31:02.703755Z'
+updated: '2026-05-08T08:21:33.375866Z'
 ---
 
 {% raw %}

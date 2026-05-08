@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.975595Z'
+created: '2026-05-08T08:21:32.798603Z'
 description: Secular attention-training practice derived from Buddhist Vipassana tradition.
   Involves non-judgmental present-moment awareness of thoughts, sensations, and emotions.
   Distinct from other meditation forms in its emphasis on metacognitive awareness
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Mindfulness Meditation
 type: intervention
-updated: '2026-04-30T06:31:00.975595Z'
+updated: '2026-05-08T08:21:32.798603Z'
 ---
 
 {% raw %}
@@ -53,14 +53,14 @@ updated: '2026-04-30T06:31:00.975595Z'
 <p>RELATED::<a href="/entities/intervention/meditation/" class="internal-link">Meditation</a><br />
 RELATED::<a href="/entities/intervention/yoga/" class="internal-link">Yoga</a><br />
 MODULATES_HORMONE::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
-RELATED::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a></p>
+RELATED::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a></p>
 <h3>Modulates Hormone</h3>
 <p>MODULATES_HORMONE::<a href="/entities/hormone/melatonin/" class="internal-link">Melatonin</a></p>
 <h3>Affects Brain Region</h3>
-<p>AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a><br />
-AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/amygdala/" class="internal-link">Amygdala</a><br />
-AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a><br />
-AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/insula/" class="internal-link">Insula</a></p>
+<p>AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a><br />
+AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Amygdala</a><br />
+AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Hippocampus</a><br />
+AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Insula</a></p>
 <h3>Improves Function</h3>
 <p>IMPROVES_FUNCTION::<a href="/entities/cognitivefunction/attention-and-focus/" class="internal-link">Attention and Focus</a><br />
 IMPROVES_FUNCTION::<a href="/entities/cognitivefunction/emotional-regulation/" class="internal-link">Emotional Regulation</a><br />

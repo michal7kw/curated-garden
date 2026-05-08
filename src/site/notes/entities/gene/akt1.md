@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.710580Z'
+created: '2026-05-08T08:21:34.038641Z'
 description: Encodes AKT1 (Protein Kinase B alpha), a serine/threonine kinase that
   is a central node in the PI3K/AKT pathway. Regulates cell survival, proliferation,
   metabolism, and insulin signaling.
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: AKT1
 type: gene
-updated: '2026-04-30T06:31:03.710580Z'
+updated: '2026-05-08T08:21:34.038641Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:57.856145Z'
+created: '2026-05-08T08:21:31.828052Z'
 description: Low-density lipoprotein cholesterol (LDL-C) is the primary atherogenic
   lipoprotein and the main target of lipid-lowering therapy. Elevated LDL-C is a causal
   risk factor for atherosclerotic cardiovascular disease (ASCVD), with each 1 mmol/L
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: LDL Cholesterol
 type: biomarker
-updated: '2026-04-30T06:30:57.856145Z'
+updated: '2026-05-08T08:21:31.828052Z'
 ---
 
 {% raw %}

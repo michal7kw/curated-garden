@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:01.165785Z'
+created: '2026-05-08T08:21:32.875443Z'
 description: an-tee-noo-klee-ur an-tih-bod-eez tie-ter An antinuclear antibodies (ANA)
   titer measures the concentration of autoantibodies present linked to an autoimmune
   condition. Higher titers can signal more autoimmune activity, but does not confirm
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: antinuclear_antibodies_titer
 type: labtest
-updated: '2026-04-30T06:31:01.165785Z'
+updated: '2026-05-08T08:21:32.875443Z'
 ---
 
 {% raw %}

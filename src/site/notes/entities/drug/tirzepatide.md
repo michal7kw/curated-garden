@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.518073Z'
+created: '2026-05-08T08:21:32.601189Z'
 description: First-in-class dual GIP and GLP-1 receptor agonist ("twincretin") for
   type 2 diabetes and obesity. 39-amino acid linear peptide based on the GIP sequence
   with GLP-1 receptor agonist activity. Demonstrated superior glycemic control and
@@ -24,7 +24,7 @@ tags:
 templateEngineOverride: njk
 title: Tirzepatide
 type: drug
-updated: '2026-04-30T06:31:00.518073Z'
+updated: '2026-05-08T08:21:32.601189Z'
 ---
 
 {% raw %}
@@ -107,7 +107,7 @@ MODULATES_HORMONE::<a class="internal-link is-unresolved" href="/404">Glucagon</
 AFFECTS_ORGAN::<a href="/entities/organ/liver/" class="internal-link">Liver</a> (reduces hepatic steatosis, Evidence Level 2b)<br />
 AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a> (cardioprotective effects under investigation, Evidence Level 2b)<br />
 AFFECTS_ORGAN::<a href="/entities/organ/intestines/" class="internal-link">Intestines</a> (delays gastric emptying, Evidence Level 1a)<br />
-AFFECTS_ORGAN::<a href="/entities/anatomy/hypothalamus/" class="internal-link">Hypothalamus</a> (reduces appetite, Evidence Level 2b)</p>
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Hypothalamus</a> (reduces appetite, Evidence Level 2b)</p>
 <h3>Modulates Pathway</h3>
 <p>MODULATES::<a href="/entities/pathway/glp-1-signaling-pathway/" class="internal-link">GLP-1 Signaling Pathway</a> (activates GLP-1 receptors, Evidence Level 1a)<br />
 MODULATES::<a href="/entities/pathway/insulin-signaling/" class="internal-link">Insulin Signaling</a> (improves insulin sensitivity, Evidence Level 2b)<br />

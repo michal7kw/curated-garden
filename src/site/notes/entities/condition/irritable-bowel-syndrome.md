@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:59.153068Z'
+created: '2026-05-08T08:21:32.206580Z'
 description: Chronic functional GI disorder characterized by recurrent abdominal pain
   associated with altered bowel habits (diarrhea, constipation, or mixed). Affects
   10-15% of the global population. Driven by visceral hypersensitivity, gut-brain
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Irritable Bowel Syndrome
 type: condition
-updated: '2026-04-30T06:30:59.153068Z'
+updated: '2026-05-08T08:21:32.206580Z'
 ---
 
 {% raw %}

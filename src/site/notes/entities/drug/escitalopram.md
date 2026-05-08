@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.159463Z'
+created: '2026-05-08T08:21:32.491532Z'
 description: The S-enantiomer of citalopram (Lexapro), considered the most selective
   and best-tolerated SSRI. Removed the pharmacologically inactive R-enantiomer, reducing
   dose requirement and potentially improving the QT safety profile. FDA-approved for
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Escitalopram
 type: drug
-updated: '2026-04-30T06:31:00.159463Z'
+updated: '2026-05-08T08:21:32.491532Z'
 ---
 
 {% raw %}
@@ -100,9 +100,9 @@ METABOLIZED_BY::<a href="/entities/gene/cyp3a4/" class="internal-link">CYP3A4</a
 INTERACTS_WITH::<a href="/entities/supplement/l-tryptophan/" class="internal-link">L-Tryptophan</a><br />
 INTERACTS_WITH::<a href="/entities/supplement/5-htp/" class="internal-link">5-HTP</a></p>
 <h3>Affects Brain Region</h3>
-<p>AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a><br />
-AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/amygdala/" class="internal-link">Amygdala</a><br />
-AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a></p>
+<p>AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a><br />
+AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Amygdala</a><br />
+AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Hippocampus</a></p>
 <h3>Side Effects</h3>
 <p>CAUSES::<a href="/entities/sideeffect/sexual-dysfunction/" class="internal-link">Sexual Dysfunction</a><br />
 CAUSES::<a href="/entities/sideeffect/ssri-discontinuation-syndrome/" class="internal-link">SSRI Discontinuation Syndrome</a><br />

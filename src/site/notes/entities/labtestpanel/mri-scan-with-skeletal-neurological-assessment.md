@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:02.580205Z'
+created: '2026-05-08T08:21:33.340331Z'
 description: Everything in the MRI Scan with Spine, plus scans for signs of neurodegeneration
   in the brain and narrowing in the arteries of the head and neck, and provides a
   brain age analysis. Also includes body composition assessment (fat and muscle volume),
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: mri_scan_with_skeletal_neurological_assessment
 type: labtestpanel
-updated: '2026-04-30T06:31:02.580205Z'
+updated: '2026-05-08T08:21:33.340331Z'
 ---
 
 {% raw %}

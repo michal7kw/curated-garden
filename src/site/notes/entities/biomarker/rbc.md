@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:58.028273Z'
+created: '2026-05-08T08:21:31.881713Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/rbc/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Rbc
 type: biomarker
-updated: '2026-04-30T06:30:58.028273Z'
+updated: '2026-05-08T08:21:31.881713Z'
 ---
 
 {% raw %}

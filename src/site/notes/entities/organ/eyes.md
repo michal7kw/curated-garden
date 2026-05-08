@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.009366Z'
+created: '2026-05-08T08:21:33.710105Z'
 description: Sensory organs responsible for vision, converting light into neural signals.
   Highly metabolically active with specialized nutrient requirements.
 dg-home: false
@@ -11,7 +11,7 @@ tags:
 templateEngineOverride: njk
 title: Eyes
 type: organ
-updated: '2026-04-30T06:31:03.009366Z'
+updated: '2026-05-08T08:21:33.710105Z'
 ---
 
 {% raw %}

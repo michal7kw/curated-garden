@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:58.171707Z'
+created: '2026-05-08T08:21:31.928034Z'
 description: Phospholipid bilayer forming the outer boundary of all cells. Selectively
   permeable barrier that regulates transport of ions, nutrients, and signaling molecules.
   Contains embedded proteins for signal transduction, cell adhesion, and molecular
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Cell Membrane
 type: cellularcomponent
-updated: '2026-04-30T06:30:58.171707Z'
+updated: '2026-05-08T08:21:31.928034Z'
 ---
 
 {% raw %}

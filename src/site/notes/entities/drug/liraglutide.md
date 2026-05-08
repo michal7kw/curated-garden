@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.255617Z'
+created: '2026-05-08T08:21:32.529870Z'
 description: GLP-1 receptor agonist for type 2 diabetes and obesity. Once-daily injection
   providing glycemic control and weight loss. Available as Victoza (T2DM) and Saxenda
   (obesity). Pioneer GLP-1 agonist with extensive long-term safety data.
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Liraglutide
 type: drug
-updated: '2026-04-30T06:31:00.255617Z'
+updated: '2026-05-08T08:21:32.529870Z'
 ---
 
 {% raw %}
@@ -103,7 +103,7 @@ MODULATES_HORMONE::<a href="/entities/hormone/ghrelin/" class="internal-link">Gh
 <p>AFFECTS_ORGAN::<a href="/entities/organ/pancreas/" class="internal-link">Pancreas</a> (beta-cell stimulation, Evidence Level 1a)<br />
 AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a> (cardioprotective effects, Evidence Level 1a)<br />
 AFFECTS_ORGAN::<a href="/entities/organ/intestines/" class="internal-link">Intestines</a> (delays gastric emptying, Evidence Level 1a)<br />
-AFFECTS_ORGAN::<a href="/entities/anatomy/hypothalamus/" class="internal-link">Hypothalamus</a> (reduces appetite, Evidence Level 2b)<br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Hypothalamus</a> (reduces appetite, Evidence Level 2b)<br />
 AFFECTS_ORGAN::<a href="/entities/organ/liver/" class="internal-link">Liver</a> (modest hepatic benefit, Evidence Level 2b)</p>
 <h3>Modulates Pathway</h3>
 <p>MODULATES::<a href="/entities/pathway/glp-1-signaling-pathway/" class="internal-link">GLP-1 Signaling Pathway</a> (activates GLP-1 receptors, Evidence Level 1a)<br />

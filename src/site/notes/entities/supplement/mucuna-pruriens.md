@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:04.613981Z'
+created: '2026-05-08T08:21:34.442759Z'
 description: Tropical legume (velvet bean) and traditional Ayurvedic medicine containing
   the highest natural concentration of L-DOPA (3-6% in seeds), making it the richest
   known plant source of this dopamine precursor. Used for centuries in Ayurveda as
@@ -22,7 +22,7 @@ tags:
 templateEngineOverride: njk
 title: Mucuna Pruriens
 type: supplement
-updated: '2026-04-30T06:31:04.613981Z'
+updated: '2026-05-08T08:21:34.442759Z'
 ---
 
 {% raw %}
@@ -96,10 +96,10 @@ RELATED::<a href="/entities/supplement/5-htp/" class="internal-link">5-HTP</a></
 <h3>Affects Biomarker</h3>
 <p>AFFECTS_BIOMARKER::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a></p>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/entities/anatomy/substantia-nigra/" class="internal-link">Substantia_Nigra</a><br />
+<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Substantia_Nigra</a><br />
 AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 <h3>Precursor Of</h3>
-<p>PRECURSOR_OF::<a class="internal-link is-unresolved" href="/404">Dopamine</a></p>
+<p>PRECURSOR_OF::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a class="internal-link is-unresolved" href="/404">Parkinsons_Disease</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a></p>
@@ -110,7 +110,7 @@ MAY_IMPROVE_CONDITION::<a href="/entities/condition/depression/" class="internal
 <h3>Synergistic With</h3>
 <p>SYNERGISTIC_WITH::<a href="/entities/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a></p>
 <h3>Modulates Neurotransmitter</h3>
-<p>MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Dopamine</a></p>
+<p>MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:15548480 - Mucuna pruriens vs synthetic levodopa in Parkinson's</li>

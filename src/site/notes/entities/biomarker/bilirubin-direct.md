@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:57.339518Z'
+created: '2026-05-08T08:21:31.653876Z'
 description: Direct bilirubin (conjugated bilirubin) is a highly specific hepatic
   biomarker measuring the water-soluble fraction of bilirubin processed by the liver.
   It is primarily utilized diagnostically across clinical settings to pinpoint the
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Bilirubin Direct
 type: biomarker
-updated: '2026-04-30T06:30:57.339518Z'
+updated: '2026-05-08T08:21:31.653876Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.043643Z'
+created: '2026-05-08T08:21:32.451996Z'
 description: Premier adaptogenic herb that reduces cortisol, supports thyroid function,
   and enhances stress resilience. One of the most well-researched adaptogens with
   evidence for anxiety, stress, and testosterone.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Ashwagandha
 type: supplement
-updated: '2026-04-30T06:31:00.043643Z'
+updated: '2026-05-08T08:21:32.451996Z'
 ---
 
 {% raw %}
@@ -30,7 +30,7 @@ updated: '2026-04-30T06:31:00.043643Z'
 <h2>Chemical Properties</h2>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">GABA</a><br />
+<p>RELATED::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
 RELATED::<a href="/entities/supplement/bacopa-monnieri/" class="internal-link">Bacopa_Monnieri</a><br />
 RELATED::<a href="/entities/hormone/thyroid-hormones/" class="internal-link">Thyroid_Hormones</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">supplement_regimen</a><br />
@@ -61,7 +61,7 @@ AFFECTS_BIOMARKER::<a href="/entities/biomarker/glucose-fasting/" class="interna
 AFFECTS_BIOMARKER::<a href="/entities/biomarker/free-t3/" class="internal-link">Free_T3</a><br />
 AFFECTS_BIOMARKER::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a></p>
 <h3>Modulates Neurotransmitter</h3>
-<p>MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">GABA</a></p>
+<p>MODULATES_NEUROTRANSMITTER::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a></p>
 <h3>Targets Biomarker</h3>
 <p>TARGETS_BIOMARKER::<a href="/entities/labtest/tsh/" class="internal-link">tsh</a><br />
 TARGETS_BIOMARKER::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a></p>

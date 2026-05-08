@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.259809Z'
+created: '2026-05-08T08:21:33.827042Z'
 description: The GLP-1 receptor signaling cascade activated by GLP-1 hormone and GLP-1
   receptor agonists. Involves Gs-cAMP-PKA signaling, Epac pathway, PI3K-Akt, and MAPK/ERK
   activation, leading to enhanced insulin secretion, beta-cell preservation, cardioprotection,
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: GLP-1 Signaling Pathway
 type: pathway
-updated: '2026-04-30T06:31:03.259809Z'
+updated: '2026-05-08T08:21:33.827042Z'
 ---
 
 {% raw %}
@@ -207,7 +207,7 @@ updated: '2026-04-30T06:31:03.259809Z'
 <li>AFFECTS_ORGAN::<a href="/entities/organ/pancreas/" class="internal-link">Pancreas</a> (beta-cell function and preservation, Evidence Level 1a)</li>
 <li>AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a> (cardioprotective signaling, Evidence Level 1a)</li>
 <li>AFFECTS_ORGAN::<a href="/entities/organ/intestines/" class="internal-link">Intestines</a> (delays gastric emptying, Evidence Level 1a)</li>
-<li>AFFECTS_ORGAN::<a href="/entities/anatomy/hypothalamus/" class="internal-link">Hypothalamus</a> (appetite regulation, Evidence Level 1b)</li>
+<li>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Hypothalamus</a> (appetite regulation, Evidence Level 1b)</li>
 <li>AFFECTS_ORGAN::<a href="/entities/organ/kidneys/" class="internal-link">Kidneys</a> (renal protective effects, Evidence Level 2b)</li>
 </ul>
 <h2>References</h2>

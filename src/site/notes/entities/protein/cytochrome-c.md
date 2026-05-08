@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.874892Z'
+created: '2026-05-08T08:21:34.102158Z'
 description: A small heme protein that serves as an essential electron carrier in
   the mitochondrial electron transport chain, shuttling electrons from Complex III
   to Complex IV. Also plays a crucial role in apoptosis when released into the cytoplasm.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Cytochrome C
 type: protein
-updated: '2026-04-30T06:31:03.874892Z'
+updated: '2026-05-08T08:21:34.102158Z'
 ---
 
 {% raw %}
@@ -28,7 +28,7 @@ updated: '2026-04-30T06:31:03.874892Z'
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-link">Mitochondria</a><br />
 PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/electron-transport-chain/" class="internal-link">Electron Transport Chain</a><br />
-RELATED::<a href="/entities/biologicalprocess/apoptosis/" class="internal-link">Apoptosis</a></p>
+RELATED::<a href="/entities/pathway/apoptosis/" class="internal-link">Apoptosis</a></p>
 <h3>Part Of</h3>
 <p>PART_OF::<a href="/entities/pathway/electron-transport-chain/" class="internal-link">Electron Transport Chain</a></p>
 

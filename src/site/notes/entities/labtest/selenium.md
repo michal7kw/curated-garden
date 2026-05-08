@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:02.121054Z'
+created: '2026-05-08T08:21:33.182288Z'
 description: Selenium test measures this essential trace mineral in blood. Selenium
   is a critical component of selenoproteins including glutathione peroxidases, thioredoxin
   reductases, and iodothyronine deiodinases. It plays vital roles in antioxidant defense,
@@ -13,7 +13,7 @@ tags:
 templateEngineOverride: njk
 title: selenium
 type: labtest
-updated: '2026-04-30T06:31:02.121054Z'
+updated: '2026-05-08T08:21:33.182288Z'
 ---
 
 {% raw %}

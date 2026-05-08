@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.523136Z'
+created: '2026-05-08T08:21:33.958819Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/condition/fever/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Fever
 type: condition
-updated: '2026-04-30T06:31:03.523136Z'
+updated: '2026-05-08T08:21:33.958819Z'
 ---
 
 {% raw %}

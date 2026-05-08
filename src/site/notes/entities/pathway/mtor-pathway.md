@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.451711Z'
+created: '2026-05-08T08:21:33.879794Z'
 description: The mechanistic target of rapamycin (mTOR) pathway is a central regulator
   of cell growth, proliferation, and metabolism, integrating nutrient and growth factor
   signals to control anabolic processes.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: mTOR Pathway
 type: pathway
-updated: '2026-04-30T06:31:03.451711Z'
+updated: '2026-05-08T08:21:33.879794Z'
 ---
 
 {% raw %}
@@ -38,7 +38,7 @@ RELATED::<a href="/entities/drug/rapamycin/" class="internal-link">Rapamycin</a>
 <h3>Activates</h3>
 <p>ACTIVATES::<a href="/entities/pathway/glycolysis/" class="internal-link">Glycolysis</a></p>
 <h3>Inhibits</h3>
-<p>INHIBITS::<a href="/entities/biologicalprocess/autophagy/" class="internal-link">Autophagy</a><br />
+<p>INHIBITS::<a href="/entities/pathway/autophagy/" class="internal-link">Autophagy</a><br />
 INHIBITS::<a href="/entities/pathway/beta-oxidation/" class="internal-link">Beta-Oxidation</a></p>
 <h3>Modulated By Supplement</h3>
 <p>MODULATED_BY_SUPPLEMENT::<a href="/entities/supplement/resveratrol/" class="internal-link">Resveratrol</a><br />

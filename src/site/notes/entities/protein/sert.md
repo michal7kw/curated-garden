@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:04.013394Z'
+created: '2026-05-08T08:21:34.167862Z'
 description: Serotonin transporter (5-HTT), a sodium-dependent monoamine transporter
   that clears serotonin from the synaptic cleft. Encoded by the SLC6A4 gene. Primary
   molecular target of all SSRI antidepressants. 12 transmembrane domain protein located
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: SERT
 type: protein
-updated: '2026-04-30T06:31:04.013394Z'
+updated: '2026-05-08T08:21:34.167862Z'
 ---
 
 {% raw %}
@@ -103,9 +103,9 @@ INHIBITED_BY::<a href="/entities/drug/vortioxetine/" class="internal-link">Vorti
 <p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/raphe-serotonin-pathway/" class="internal-link">Raphe Serotonin Pathway</a><br />
 PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/serotonin-synthesis/" class="internal-link">Serotonin Synthesis</a></p>
 <h3>Located In</h3>
-<p>LOCATED_IN::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a><br />
-LOCATED_IN::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a><br />
-LOCATED_IN::<a href="/entities/anatomy/amygdala/" class="internal-link">Amygdala</a><br />
+<p>LOCATED_IN::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a><br />
+LOCATED_IN::<a class="internal-link is-unresolved" href="/404">Hippocampus</a><br />
+LOCATED_IN::<a class="internal-link is-unresolved" href="/404">Amygdala</a><br />
 LOCATED_IN::<a href="/entities/organ/dorsal-raphe-nucleus/" class="internal-link">Dorsal Raphe Nucleus</a></p>
 <h3>Associated With</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a><br />

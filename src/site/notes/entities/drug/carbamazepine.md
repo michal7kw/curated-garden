@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.082034Z'
+created: '2026-05-08T08:21:32.466584Z'
 description: Anticonvulsant and mood stabilizer used primarily for epilepsy, trigeminal
   neuralgia, and bipolar disorder. Acts by blocking voltage-gated sodium channels.
 dg-home: false
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Carbamazepine
 type: drug
-updated: '2026-04-30T06:31:00.082034Z'
+updated: '2026-05-08T08:21:32.466584Z'
 ---
 
 {% raw %}

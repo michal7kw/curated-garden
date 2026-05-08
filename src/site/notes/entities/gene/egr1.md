@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.885784Z'
+created: '2026-05-08T08:21:34.107855Z'
 description: Encodes Early Growth Response 1, a zinc finger transcription factor activated
   by growth factors, stress, and neuronal activity.
 dg-home: false
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: EGR1
 type: gene
-updated: '2026-04-30T06:31:03.885784Z'
+updated: '2026-05-08T08:21:34.107855Z'
 ---
 
 {% raw %}
@@ -32,8 +32,8 @@ updated: '2026-04-30T06:31:03.885784Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a><br />
-RELATED::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a></p>
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hippocampus</a></p>
 <h3>Participates In Pathway</h3>
 <p>PARTICIPATES_IN_PATHWAY::<a class="internal-link is-unresolved" href="/404">MAPK Pathway</a></p>
 

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:59.800920Z'
+created: '2026-05-08T08:21:32.377251Z'
 description: A broad group of cancers that begin in the bones and soft tissues (muscle,
   fat, blood vessels, nerves, tendons, and lining of joints).
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Sarcoma
 type: condition
-updated: '2026-04-30T06:30:59.800920Z'
+updated: '2026-05-08T08:21:32.377251Z'
 ---
 
 {% raw %}

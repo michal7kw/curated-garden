@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.003800Z'
+created: '2026-05-08T08:21:33.709059Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/dorsal-raphe-nucleus/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Dorsal Raphe Nucleus
 type: organ
-updated: '2026-04-30T06:31:03.003800Z'
+updated: '2026-05-08T08:21:33.709059Z'
 ---
 
 {% raw %}
@@ -20,9 +20,9 @@ updated: '2026-04-30T06:31:03.003800Z'
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/anatomy/raphe-nuclei/" class="internal-link">Raphe Nuclei</a><br />
 RELATED::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
-RELATED::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a><br />
-RELATED::<a href="/entities/anatomy/amygdala/" class="internal-link">Amygdala</a><br />
-RELATED::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a></p>
+RELATED::<a class="internal-link is-unresolved" href="/404">Hippocampus</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Amygdala</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a></p>
 <h3>Produces</h3>
 <p>PRODUCES::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a></p>
 <h3>Supports Function</h3>

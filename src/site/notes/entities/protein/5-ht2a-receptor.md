@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.700255Z'
+created: '2026-05-08T08:21:34.030947Z'
 description: Serotonin 2A receptor, a Gq-coupled GPCR widely expressed in cortex,
   platelets, and smooth muscle. Mediates serotonin's effects on vasoconstriction,
   platelet aggregation, and the neuromuscular features of serotonin syndrome. Primary
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: 5-HT2A Receptor
 type: protein
-updated: '2026-04-30T06:31:03.700255Z'
+updated: '2026-05-08T08:21:34.030947Z'
 ---
 
 {% raw %}
@@ -108,8 +108,8 @@ updated: '2026-04-30T06:31:03.700255Z'
 <h3>Encoded By</h3>
 <p>ENCODED_BY::<a href="/entities/gene/htr2a/" class="internal-link">HTR2A</a></p>
 <h3>Located In</h3>
-<p>LOCATED_IN::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a><br />
-LOCATED_IN::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a></p>
+<p>LOCATED_IN::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a><br />
+LOCATED_IN::<a class="internal-link is-unresolved" href="/404">Hippocampus</a></p>
 <h3>Antagonized By</h3>
 <p>ANTAGONIZED_BY::<a href="/entities/drug/vortioxetine/" class="internal-link">Vortioxetine</a></p>
 <h3>Involved In</h3>

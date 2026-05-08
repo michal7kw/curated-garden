@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:58.558463Z'
+created: '2026-05-08T08:21:32.023966Z'
 description: A group of mental health disorders characterized by excessive fear, worry,
   and physiological arousal. Includes generalized anxiety disorder (GAD), social anxiety,
   panic disorder, and specific phobias. The most common mental health condition worldwide
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Anxiety
 type: condition
-updated: '2026-04-30T06:30:58.558463Z'
+updated: '2026-05-08T08:21:32.023966Z'
 ---
 
 {% raw %}
@@ -75,7 +75,7 @@ RELATED::<a href="/entities/condition/ocd/" class="internal-link">OCD</a></p>
 <h3>Risk Biomarkers</h3>
 <p>ASSOCIATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">cortisol</a><br />
 ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">hs-CRP</a><br />
-ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">GABA</a><br />
+ASSOCIATED_WITH::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
 ASSOCIATED_WITH::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br />
 ASSOCIATED_WITH::<a href="/entities/protein/sert/" class="internal-link">SERT</a><br />
@@ -85,7 +85,7 @@ ASSOCIATED_WITH::<a href="/entities/protein/5-ht1a-receptor/" class="internal-li
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/l-theanine/" class="internal-link">L-Theanine</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
 IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
-IMPROVED_BY_SUPPLEMENT::<a class="internal-link is-unresolved" href="/404">GABA</a></p>
+IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a></p>
 <h3>Treated By Drug</h3>
 <p>TREATED_BY_DRUG::<a href="/entities/drug/sertraline/" class="internal-link">Sertraline</a><br />
 TREATED_BY_DRUG::<a href="/entities/drug/fluoxetine/" class="internal-link">Fluoxetine</a><br />

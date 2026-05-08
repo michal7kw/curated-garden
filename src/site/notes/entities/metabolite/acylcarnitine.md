@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:02.692052Z'
+created: '2026-05-08T08:21:33.365992Z'
 description: Acylcarnitines are the transport form of activated fatty acids across
   the inner mitochondrial membrane. Formed by CPT-I from fatty acyl-CoA and carnitine,
   acylcarnitines are essential for long-chain fatty acid entry into the mitochondrial
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Acylcarnitine
 type: metabolite
-updated: '2026-04-30T06:31:02.692052Z'
+updated: '2026-05-08T08:21:33.365992Z'
 ---
 
 {% raw %}
@@ -141,10 +141,10 @@ updated: '2026-04-30T06:31:02.692052Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Produced By</h3>
-<p>PRODUCED_BY::<a class="internal-link is-unresolved" href="/404">Fatty Acyl-CoA</a><br />
+<p>PRODUCED_BY::<a href="/entities/metabolite/fatty-acyl-coa/" class="internal-link">Fatty Acyl-CoA</a><br />
 PRODUCED_BY::<a href="/entities/protein/cpt-i/" class="internal-link">CPT-I</a></p>
 <h3>Produces</h3>
-<p>PRODUCES::<a class="internal-link is-unresolved" href="/404">Fatty Acyl-CoA</a></p>
+<p>PRODUCES::<a href="/entities/metabolite/fatty-acyl-coa/" class="internal-link">Fatty Acyl-CoA</a></p>
 <h3>Participates In</h3>
 <p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/beta-oxidation/" class="internal-link">Beta-Oxidation</a></p>
 <h3>Enzymes</h3>

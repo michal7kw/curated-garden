@@ -1,7 +1,7 @@
 ---
 aliases:
 - 52 Fasting
-created: '2026-04-30T06:31:00.867368Z'
+created: '2026-05-08T08:21:32.735327Z'
 description: 'Modified fasting protocol: eat normally 5 days per week, restrict to
   500-600 calories on 2 non-consecutive days. Provides intermittent energy restriction
   without daily time restriction.'
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: 5:2 Fasting
 type: intervention
-updated: '2026-04-30T06:31:00.867368Z'
+updated: '2026-05-08T08:21:32.735327Z'
 ---
 
 {% raw %}

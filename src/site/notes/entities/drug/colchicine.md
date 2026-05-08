@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.118422Z'
+created: '2026-05-08T08:21:32.482074Z'
 description: Ancient plant alkaloid from Colchicum autumnale. Inhibits microtubule
   polymerization, disrupting neutrophil chemotaxis and NLRP3 inflammasome activation.
   First-line for acute gout flares and prophylaxis during urate-lowering therapy initiation.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Colchicine
 type: drug
-updated: '2026-04-30T06:31:00.118422Z'
+updated: '2026-05-08T08:21:32.482074Z'
 ---
 
 {% raw %}

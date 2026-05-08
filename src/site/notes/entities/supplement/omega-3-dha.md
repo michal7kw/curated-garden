@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:04.651442Z'
+created: '2026-05-08T08:21:34.461299Z'
 description: Docosahexaenoic acid, a long-chain omega-3 fatty acid that is the primary
   structural component of brain cell membranes. Essential for brain development, cognitive
   function, and neuroprotection throughout life.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Omega-3 DHA
 type: supplement
-updated: '2026-04-30T06:31:04.651442Z'
+updated: '2026-05-08T08:21:34.461299Z'
 ---
 
 {% raw %}
@@ -48,14 +48,14 @@ RELATED::<a class="internal-link is-unresolved" href="/404">Omega-3 Index</a><br
 RELATED::<a class="internal-link is-unresolved" href="/404">Alzheimers Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Parkinsons Disease</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">BDNF Signaling</a><br />
-RELATED::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a><br />
 RELATED::<a href="/entities/intervention/mediterranean-diet/" class="internal-link">Mediterranean Diet</a><br />
 RELATED::<a href="/entities/supplement/phosphatidylserine/" class="internal-link">Phosphatidylserine</a><br />
 RELATED::<a href="/entities/intervention/cognitive-training/" class="internal-link">Cognitive Training</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Retina</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">CRP</a><br />
 MODULATES_PATHWAY::<a href="/entities/pathway/neuroinflammation/" class="internal-link">Neuroinflammation</a><br />
-RELATED::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Hippocampus</a><br />
 RELATED::<a href="/entities/supplement/vitamin-d/" class="internal-link">Vitamin D</a></p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />

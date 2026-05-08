@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:57.734109Z'
+created: '2026-05-08T08:21:31.789701Z'
 description: An advanced epigenetic clock that uses DNA methylation patterns to predict
   mortality and biological age.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: GrimAge
 type: biomarker
-updated: '2026-04-30T06:30:57.734109Z'
+updated: '2026-05-08T08:21:31.789701Z'
 ---
 
 {% raw %}

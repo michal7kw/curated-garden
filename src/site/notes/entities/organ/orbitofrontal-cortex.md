@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.095869Z'
+created: '2026-05-08T08:21:33.752301Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/orbitofrontal-cortex/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Orbitofrontal Cortex
 type: organ
-updated: '2026-04-30T06:31:03.095869Z'
+updated: '2026-05-08T08:21:33.752301Z'
 ---
 
 {% raw %}
@@ -18,10 +18,10 @@ updated: '2026-04-30T06:31:03.095869Z'
 <p>Ventral prefrontal cortex region involved in value-based decision making, reward evaluation, and social behavior regulation. Integrates sensory information with emotional and motivational context to guide adaptive choices. Damage causes disinhibition, poor judgment, impulsive behavior, and personality change (classic Phineas Gage syndrome). Dysfunction implicated in OCD, addiction, and frontotemporal dementia.</p>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a><br />
-RELATED::<a href="/entities/anatomy/amygdala/" class="internal-link">Amygdala</a><br />
-RELATED::<a href="/entities/anatomy/nucleus-accumbens/" class="internal-link">Nucleus Accumbens</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
+<p>RELATED::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Amygdala</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Nucleus Accumbens</a><br />
+RELATED::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
 RELATED::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a></p>
 <h3>Supports Function</h3>
 <p>SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/executive-function/" class="internal-link">Executive Function</a><br />

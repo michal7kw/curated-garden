@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:57.305659Z'
+created: '2026-05-08T08:21:31.649268Z'
 description: Brain-Derived Neurotrophic Factor (BDNF) is a neurotrophin critical for
   neuronal survival, synaptic plasticity, long-term potentiation, and adult neurogenesis
   in the hippocampus. Serum BDNF levels reflect brain BDNF availability and are reduced
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: BDNF
 type: biomarker
-updated: '2026-04-30T06:30:57.305659Z'
+updated: '2026-05-08T08:21:31.649268Z'
 ---
 
 {% raw %}
@@ -159,9 +159,9 @@ ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/parkinsons-disease/" cla
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/depression/" class="internal-link">Depression</a></p>
 <h3>Indicates Organ Health</h3>
-<p>INDICATES_ORGAN_HEALTH::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a> (primary site of BDNF-mediated neurogenesis and plasticity, Evidence Level 1b)<br />
-INDICATES_ORGAN_HEALTH::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a> (BDNF supports executive function and synaptic plasticity, Evidence Level 2a)<br />
-INDICATES_ORGAN_HEALTH::<a href="/entities/anatomy/amygdala/" class="internal-link">Amygdala</a> (BDNF modulates fear conditioning and emotional regulation, Evidence Level 2b)</p>
+<p>INDICATES_ORGAN_HEALTH::<a class="internal-link is-unresolved" href="/404">Hippocampus</a> (primary site of BDNF-mediated neurogenesis and plasticity, Evidence Level 1b)<br />
+INDICATES_ORGAN_HEALTH::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a> (BDNF supports executive function and synaptic plasticity, Evidence Level 2a)<br />
+INDICATES_ORGAN_HEALTH::<a class="internal-link is-unresolved" href="/404">Amygdala</a> (BDNF modulates fear conditioning and emotional regulation, Evidence Level 2b)</p>
 <h3>Correlated With</h3>
 <p>CORRELATED_WITH::<a href="/entities/labtest/cortisol/" class="internal-link">Cortisol</a> (inverse -- chronic stress and cortisol suppress BDNF)</p>
 <h3>Affected By Supplement</h3>

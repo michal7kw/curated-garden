@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:59.969133Z'
+created: '2026-05-08T08:21:32.423973Z'
 description: Cognitive impairment caused by cerebrovascular disease, including strokes
   and small vessel disease. The second most common cause of dementia after Alzheimer's
   disease, often occurring in combination (mixed dementia).
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Vascular Dementia
 type: condition
-updated: '2026-04-30T06:30:59.969133Z'
+updated: '2026-05-08T08:21:32.423973Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:57.006709Z'
+created: '2026-05-08T08:21:33.915125Z'
 description: The process by which the serotonin transporter (SERT) actively transports
   serotonin from the synaptic cleft back into the presynaptic neuron, terminating
   serotonergic neurotransmission. This sodium/chloride-dependent transport is the
@@ -8,10 +8,10 @@ description: The process by which the serotonin transporter (SERT) actively tran
   availability.
 dg-home: false
 dg-publish: true
-permalink: /entities/biologicalprocess/serotonin-reuptake/
+permalink: /entities/pathway/serotonin-reuptake/
 slug: serotonin-reuptake
 tags:
-- biologicalprocess
+- pathway
 - biological_process
 - serotonin
 - neurotransmission
@@ -19,8 +19,8 @@ tags:
 - neuroscience
 templateEngineOverride: njk
 title: Serotonin Reuptake
-type: biologicalprocess
-updated: '2026-04-30T06:30:57.006709Z'
+type: pathway
+updated: '2026-05-08T08:21:33.915125Z'
 ---
 
 {% raw %}
@@ -73,9 +73,9 @@ INHIBITED_BY::<a href="/entities/drug/fluvoxamine/" class="internal-link">Fluvox
 INHIBITED_BY::<a href="/entities/drug/vilazodone/" class="internal-link">Vilazodone</a><br />
 INHIBITED_BY::<a href="/entities/drug/vortioxetine/" class="internal-link">Vortioxetine</a></p>
 <h3>Occurs In</h3>
-<p>LOCATED_IN::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a><br />
-LOCATED_IN::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a><br />
-LOCATED_IN::<a href="/entities/anatomy/amygdala/" class="internal-link">Amygdala</a><br />
+<p>LOCATED_IN::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a><br />
+LOCATED_IN::<a class="internal-link is-unresolved" href="/404">Hippocampus</a><br />
+LOCATED_IN::<a class="internal-link is-unresolved" href="/404">Amygdala</a><br />
 LOCATED_IN::<a href="/entities/organ/dorsal-raphe-nucleus/" class="internal-link">Dorsal Raphe Nucleus</a></p>
 <h3>Related Pathway</h3>
 <p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/raphe-serotonin-pathway/" class="internal-link">Raphe Serotonin Pathway</a></p>

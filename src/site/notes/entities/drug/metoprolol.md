@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.378900Z'
+created: '2026-05-08T08:21:32.561039Z'
 description: Cardioselective beta-1 blocker for hypertension, angina, heart failure,
   and arrhythmias. Reduces heart rate and myocardial oxygen demand. One of the most
   prescribed cardiovascular medications.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Metoprolol
 type: drug
-updated: '2026-04-30T06:31:00.378900Z'
+updated: '2026-05-08T08:21:32.561039Z'
 ---
 
 {% raw %}
@@ -45,7 +45,7 @@ RELATED::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesi
 <p>TREATS::<a href="/entities/condition/hypertension/" class="internal-link">Hypertension</a><br />
 TREATS::<a href="/entities/condition/cardiovascular-disease/" class="internal-link">Cardiovascular Disease</a></p>
 <h3>Modulates Neurotransmitter</h3>
-<p>MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Norepinephrine</a></p>
+<p>MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a></p>
 <h3>Affects Organ</h3>
 <p>AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a></p>
 

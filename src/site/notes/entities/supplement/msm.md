@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:04.574751Z'
+created: '2026-05-08T08:21:34.440729Z'
 description: Methylsulfonylmethane is an organic sulfur compound found naturally in
   foods. Provides bioavailable sulfur for connective tissue maintenance. Anti-inflammatory
   properties via NF-kB inhibition. Clinical trials show modest benefit for knee OA
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: MSM
 type: supplement
-updated: '2026-04-30T06:31:04.574751Z'
+updated: '2026-05-08T08:21:34.440729Z'
 ---
 
 {% raw %}

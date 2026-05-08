@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.030832Z'
+created: '2026-05-08T08:21:32.445530Z'
 description: First-line urate-lowering therapy for gout. Reduces uric acid production
   by blocking xanthine oxidase. Must be dose-titrated to target serum urate below
   6 mg/dL. HLA-B*5801 screening recommended before initiation due to risk of severe
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Allopurinol
 type: drug
-updated: '2026-04-30T06:31:00.030832Z'
+updated: '2026-05-08T08:21:32.445530Z'
 ---
 
 {% raw %}

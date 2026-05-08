@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:59.610062Z'
+created: '2026-05-08T08:21:32.340290Z'
 description: Inflammatory condition causing bilateral proximal muscle pain and stiffness
   in adults over 50. Dramatically elevated ESR and CRP. Strongly associated with giant
   cell arteritis (15-20% overlap). Responds dramatically to low-dose prednisone within
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Polymyalgia Rheumatica
 type: condition
-updated: '2026-04-30T06:30:59.610062Z'
+updated: '2026-05-08T08:21:32.340290Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.040117Z'
+created: '2026-05-08T08:21:33.725424Z'
 description: The long, continuous tube running from the stomach to the anus, comprising
   the small and large intestines. Critical for nutrient absorption, immune function,
   and housing the gut microbiome.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Intestines
 type: organ
-updated: '2026-04-30T06:31:03.040117Z'
+updated: '2026-05-08T08:21:33.725424Z'
 ---
 
 {% raw %}

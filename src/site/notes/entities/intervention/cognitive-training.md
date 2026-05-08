@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.892425Z'
+created: '2026-05-08T08:21:32.744160Z'
 description: Structured mental exercises designed to maintain or improve cognitive
   function. Includes memory training, processing speed exercises, and computerized
   brain training programs for dementia prevention.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Cognitive Training
 type: intervention
-updated: '2026-04-30T06:31:00.892425Z'
+updated: '2026-05-08T08:21:32.744160Z'
 ---
 
 {% raw %}
@@ -57,8 +57,8 @@ RELATED::<a href="/entities/intervention/sleep-optimization/" class="internal-li
 <h3>Modulates Biomarker</h3>
 <p>AFFECTS_BIOMARKER::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a> (training-induced BDNF release supports synaptic plasticity, Evidence Level 2a)</p>
 <h3>Affects Brain Region</h3>
-<p>AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a> (memory training increases hippocampal activation and volume, Evidence Level 2a)<br />
-AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a> (working memory training strengthens PFC networks, Evidence Level 2a)<br />
+<p>AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Hippocampus</a> (memory training increases hippocampal activation and volume, Evidence Level 2a)<br />
+AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a> (working memory training strengthens PFC networks, Evidence Level 2a)<br />
 AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Parietal Cortex</a> (processing speed training enhances frontoparietal connectivity, Evidence Level 2b)</p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/mild-cognitive-impairment/" class="internal-link">Mild Cognitive Impairment</a> (moderate effect on memory and executive function, Evidence Level 2a)<br />

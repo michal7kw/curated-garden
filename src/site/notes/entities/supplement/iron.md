@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:04.468059Z'
+created: '2026-05-08T08:21:34.377125Z'
 description: Essential trace mineral critical for oxygen transport, energy production,
   and neurotransmitter synthesis. Required cofactor for numerous enzymes including
   those in dopamine and serotonin pathways.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Iron
 type: supplement
-updated: '2026-04-30T06:31:04.468059Z'
+updated: '2026-05-08T08:21:34.377125Z'
 ---
 
 {% raw %}
@@ -64,7 +64,7 @@ AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Bone Marrow</a
 <h3>Synergistic With</h3>
 <p>SYNERGISTIC_WITH::<a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin C</a> (enhances non-heme iron absorption 2-3 fold, Evidence Level 1a)</p>
 <h3>Required For Synthesis</h3>
-<p>REQUIRED_FOR_SYNTHESIS::<a class="internal-link is-unresolved" href="/404">Dopamine</a> (iron is a cofactor for tyrosine hydroxylase, Evidence Level 1a)<br />
+<p>REQUIRED_FOR_SYNTHESIS::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a> (iron is a cofactor for tyrosine hydroxylase, Evidence Level 1a)<br />
 REQUIRED_FOR_SYNTHESIS::<a href="/entities/neurotransmitter/serotonin/" class="internal-link">Serotonin</a> (iron is a cofactor for tryptophan hydroxylase, Evidence Level 1a)</p>
 
 {% endraw %}

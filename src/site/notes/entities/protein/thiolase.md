@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:04.063985Z'
+created: '2026-05-08T08:21:34.186936Z'
 description: Enzyme catalyzing the final thiolytic cleavage step of each beta-oxidation
   cycle. Cleaves 3-ketoacyl-CoA with CoA to release acetyl-CoA and a shortened acyl-CoA,
   which re-enters the cycle.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Thiolase
 type: protein
-updated: '2026-04-30T06:31:04.063985Z'
+updated: '2026-05-08T08:21:34.186936Z'
 ---
 
 {% raw %}

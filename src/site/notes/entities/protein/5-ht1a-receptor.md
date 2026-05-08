@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.692316Z'
+created: '2026-05-08T08:21:34.026787Z'
 description: Serotonin 1A receptor, a Gi/Go-coupled GPCR that serves as both presynaptic
   autoreceptor on raphe neurons (inhibiting serotonin release) and postsynaptic heteroreceptor
   in cortex and hippocampus. Autoreceptor desensitization after chronic SSRI exposure
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: 5-HT1A Receptor
 type: protein
-updated: '2026-04-30T06:31:03.692316Z'
+updated: '2026-05-08T08:21:34.026787Z'
 ---
 
 {% raw %}
@@ -83,9 +83,9 @@ updated: '2026-04-30T06:31:03.692316Z'
 <p>ENCODED_BY::<a href="/entities/gene/htr1a/" class="internal-link">HTR1A</a></p>
 <h3>Located In</h3>
 <p>LOCATED_IN::<a href="/entities/organ/dorsal-raphe-nucleus/" class="internal-link">Dorsal Raphe Nucleus</a><br />
-LOCATED_IN::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a><br />
-LOCATED_IN::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a><br />
-LOCATED_IN::<a href="/entities/anatomy/amygdala/" class="internal-link">Amygdala</a></p>
+LOCATED_IN::<a class="internal-link is-unresolved" href="/404">Hippocampus</a><br />
+LOCATED_IN::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a><br />
+LOCATED_IN::<a class="internal-link is-unresolved" href="/404">Amygdala</a></p>
 <h3>Pathway</h3>
 <p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/raphe-serotonin-pathway/" class="internal-link">Raphe Serotonin Pathway</a></p>
 <h3>Targeted By</h3>
@@ -98,7 +98,7 @@ ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/ocd/" class="internal-li
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/protein/sert/" class="internal-link">SERT</a><br />
 RELATED::<a href="/entities/biomarker/bdnf/" class="internal-link">BDNF</a><br />
-RELATED::<a href="/entities/biologicalprocess/neurogenesis/" class="internal-link">Neurogenesis</a></p>
+RELATED::<a href="/entities/pathway/neurogenesis/" class="internal-link">Neurogenesis</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:8876023 — 5-HT1A receptor function in depression and antidepressant treatment</li>

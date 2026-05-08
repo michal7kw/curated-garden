@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:59.705793Z'
+created: '2026-05-08T08:21:32.356591Z'
 description: A group of serious mental illnesses that affect the mind, making it difficult
   to distinguish between what is real and what is not.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Psychotic Disorders
 type: condition
-updated: '2026-04-30T06:30:59.705793Z'
+updated: '2026-05-08T08:21:32.356591Z'
 ---
 
 {% raw %}
@@ -43,7 +43,7 @@ updated: '2026-04-30T06:30:59.705793Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Risk Biomarkers</h3>
-<p>ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
+<p>ASSOCIATED_WITH::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/hs-crp/" class="internal-link">Hs Crp</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/homocysteine/" class="internal-link">homocysteine</a><br />
 ASSOCIATED_WITH::<a href="/entities/biomarker/vitamin-d-25-oh/" class="internal-link">Vitamin D (25-OH)</a><br />

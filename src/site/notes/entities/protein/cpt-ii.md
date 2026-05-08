@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.780500Z'
+created: '2026-05-08T08:21:34.068289Z'
 description: Carnitine palmitoyltransferase II, located on the inner mitochondrial
   membrane matrix side. Regenerates fatty acyl-CoA from acylcarnitine inside the mitochondrial
   matrix, completing the carnitine shuttle for beta-oxidation.
@@ -15,13 +15,13 @@ tags:
 templateEngineOverride: njk
 title: CPT-II
 type: protein
-updated: '2026-04-30T06:31:03.780500Z'
+updated: '2026-05-08T08:21:34.068289Z'
 ---
 
 {% raw %}
 <h1>CPT-II (Carnitine Palmitoyltransferase II)</h1>
 <h2>Overview</h2>
-<p>CPT-II completes the carnitine shuttle system on the matrix side of the inner mitochondrial membrane. It regenerates <a class="internal-link is-unresolved" href="/404">Fatty Acyl-CoA</a> from <a href="/entities/metabolite/acylcarnitine/" class="internal-link">Acylcarnitine</a>, making the fatty acid chain available for <a href="/entities/pathway/beta-oxidation/" class="internal-link">Beta-Oxidation</a> in the mitochondrial matrix.</p>
+<p>CPT-II completes the carnitine shuttle system on the matrix side of the inner mitochondrial membrane. It regenerates <a href="/entities/metabolite/fatty-acyl-coa/" class="internal-link">Fatty Acyl-CoA</a> from <a href="/entities/metabolite/acylcarnitine/" class="internal-link">Acylcarnitine</a>, making the fatty acid chain available for <a href="/entities/pathway/beta-oxidation/" class="internal-link">Beta-Oxidation</a> in the mitochondrial matrix.</p>
 <h2>Mechanism of Action</h2>
 <ul>
 <li><strong>Reaction</strong>: Acylcarnitine + CoA → fatty acyl-CoA + L-carnitine</li>
@@ -43,7 +43,7 @@ RELATED::<a href="/entities/cellularcomponent/mitochondria/" class="internal-lin
 <h3>Participates In</h3>
 <p>PARTICIPATES_IN::<a href="/entities/pathway/beta-oxidation/" class="internal-link">Beta-Oxidation</a></p>
 <h3>Catalyzes</h3>
-<p>CATALYZES::<a class="internal-link is-unresolved" href="/404">Fatty_Acyl-CoA</a><br />
+<p>CATALYZES::<a href="/entities/metabolite/fatty-acyl-coa/" class="internal-link">Fatty_Acyl-CoA</a><br />
 CATALYZES::<a href="/entities/metabolite/acylcarnitine/" class="internal-link">Acylcarnitine</a></p>
 
 {% endraw %}

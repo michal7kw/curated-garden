@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.473748Z'
+created: '2026-05-08T08:21:33.933968Z'
 description: '...'
 dg-home: false
 dg-publish: true
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Autosomal dominant inheritance
 type: phenotype
-updated: '2026-04-30T06:31:03.473748Z'
+updated: '2026-05-08T08:21:33.933968Z'
 ---
 
 {% raw %}

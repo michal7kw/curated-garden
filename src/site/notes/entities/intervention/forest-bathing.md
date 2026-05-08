@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.914504Z'
+created: '2026-05-08T08:21:32.761177Z'
 description: Japanese practice of Shinrin-yoku — immersive, mindful exposure to forest
   environments. Documented to reduce cortisol, blood pressure, and sympathetic activity
   while boosting NK cell activity and immune function through inhalation of phytoncides
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Forest Bathing
 type: intervention
-updated: '2026-04-30T06:31:00.914504Z'
+updated: '2026-05-08T08:21:32.761177Z'
 ---
 
 {% raw %}

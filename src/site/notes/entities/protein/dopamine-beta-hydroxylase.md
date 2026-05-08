@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.878460Z'
+created: '2026-05-08T08:21:34.103729Z'
 description: Copper-dependent monooxygenase that converts dopamine to norepinephrine
   in noradrenergic neurons and adrenal medulla chromaffin cells. Requires ascorbic
   acid (Vitamin C) and copper as essential cofactors. Uniquely localized within synaptic
@@ -19,7 +19,7 @@ tags:
 templateEngineOverride: njk
 title: Dopamine Beta-Hydroxylase
 type: protein
-updated: '2026-04-30T06:31:03.878460Z'
+updated: '2026-05-08T08:21:34.103729Z'
 ---
 
 {% raw %}
@@ -72,20 +72,20 @@ updated: '2026-04-30T06:31:03.878460Z'
 <h3>Related</h3>
 <p>RELATED::<a class="internal-link is-unresolved" href="/404">Epinephrine</a><br />
 RELATED::<a href="/entities/supplement/l-tyrosine/" class="internal-link">L-Tyrosine</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Norepinephrine</a></p>
+RELATED::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a></p>
 <h3>Affects Organ</h3>
 <p>AFFECTS_ORGAN::<a href="/entities/organ/adrenal-glands/" class="internal-link">Adrenal_Glands</a><br />
 AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a><br />
-AFFECTS_ORGAN::<a href="/entities/anatomy/locus-coeruleus/" class="internal-link">Locus_Coeruleus</a></p>
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Locus_Coeruleus</a></p>
 <h3>Participates In Pathway</h3>
 <p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/dopamine-synthesis/" class="internal-link">Dopamine_Synthesis</a></p>
 <h3>Requires Cofactor</h3>
 <p>REQUIRES_COFACTOR::<a href="/entities/supplement/vitamin-c/" class="internal-link">Vitamin_C</a><br />
 REQUIRES_COFACTOR::<a href="/entities/biomarker/copper/" class="internal-link">Copper</a></p>
 <h3>Converts</h3>
-<p>CONVERTS::<a class="internal-link is-unresolved" href="/404">Dopamine</a></p>
+<p>CONVERTS::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a></p>
 <h3>Produces</h3>
-<p>PRODUCES::<a class="internal-link is-unresolved" href="/404">Norepinephrine</a></p>
+<p>PRODUCES::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a></p>
 <h2>References</h2>
 <ul>
 <li>PMID:11171002 - Catecholamine biosynthetic enzymes review</li>

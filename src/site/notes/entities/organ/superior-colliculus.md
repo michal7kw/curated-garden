@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.151561Z'
+created: '2026-05-08T08:21:33.781253Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/organ/superior-colliculus/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Superior Colliculus
 type: organ
-updated: '2026-04-30T06:31:03.151561Z'
+updated: '2026-05-08T08:21:33.781253Z'
 ---
 
 {% raw %}
@@ -19,7 +19,7 @@ updated: '2026-04-30T06:31:03.151561Z'
 <h2>Relationships</h2>
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/organ/inferior-colliculus/" class="internal-link">Inferior Colliculus</a><br />
-RELATED::<a href="/entities/anatomy/thalamus/" class="internal-link">Thalamus</a><br />
+RELATED::<a class="internal-link is-unresolved" href="/404">Thalamus</a><br />
 RELATED::<a href="/entities/anatomy/occipital-lobe/" class="internal-link">Occipital Lobe</a></p>
 <h3>Supports Function</h3>
 <p>SUPPORTS_FUNCTION::<a href="/entities/cognitivefunction/attention-and-focus/" class="internal-link">Attention and Focus</a></p>

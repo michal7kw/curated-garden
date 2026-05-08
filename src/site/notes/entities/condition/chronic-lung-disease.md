@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:58.761480Z'
+created: '2026-05-08T08:21:32.088426Z'
 description: A broad term for long-term respiratory conditions that impair breathing
   and lung function, including obstructive and restrictive diseases.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Chronic Lung Disease
 type: condition
-updated: '2026-04-30T06:30:58.761480Z'
+updated: '2026-05-08T08:21:32.088426Z'
 ---
 
 {% raw %}

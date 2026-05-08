@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.439335Z'
+created: '2026-05-08T08:21:33.925615Z'
 description: Tumor necrosis factor signaling pathway mediates inflammation, apoptosis,
   and cell survival through TNFR1 and TNFR2 receptors. Binding of TNF-alpha activates
   NF-kB, MAPK/JNK, and caspase cascades. Central to RA synovial inflammation. Most
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: TNF Signaling Pathway
 type: pathway
-updated: '2026-04-30T06:31:03.439335Z'
+updated: '2026-05-08T08:21:33.925615Z'
 ---
 
 {% raw %}

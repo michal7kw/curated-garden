@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:04.477588Z'
+created: '2026-05-08T08:21:34.380827Z'
 description: Amino acid derivative essential for fatty acid transport into mitochondria
   for energy production. Supports heart health, exercise performance, and cognitive
   function. Multiple forms for different applications.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: L-Carnitine
 type: supplement
-updated: '2026-04-30T06:31:04.477588Z'
+updated: '2026-05-08T08:21:34.380827Z'
 ---
 
 {% raw %}
@@ -56,7 +56,7 @@ MAY_IMPROVE_CONDITION::<a href="/entities/condition/diabetes/" class="internal-l
 AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a> (ALCAR supports acetylcholine synthesis and mitochondrial function in neurons, Evidence Level 1b)<br />
 AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Skeletal Muscle</a> (stores 95% of body carnitine for fatty acid oxidation, Evidence Level 1a)</p>
 <h3>Modulates Neurotransmitter</h3>
-<p>MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Acetylcholine</a> (ALCAR donates acetyl groups for acetylcholine synthesis, Evidence Level 2a)</p>
+<p>MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a> (ALCAR donates acetyl groups for acetylcholine synthesis, Evidence Level 2a)</p>
 <h3>Synergistic With</h3>
 <p>SYNERGISTIC_WITH::<a class="internal-link is-unresolved" href="/404">CoQ10</a> (both support mitochondrial energy production via complementary mechanisms, Evidence Level 2b)<br />
 SYNERGISTIC_WITH::<a href="/entities/supplement/alpha-lipoic-acid/" class="internal-link">Alpha Lipoic Acid</a> (combined use supports mitochondrial function and reduces oxidative stress in aging, Evidence Level 2a)</p>

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:04.241094Z'
+created: '2026-05-08T08:21:34.273556Z'
 description: Highly bioavailable choline compound that readily crosses the blood-brain
   barrier. Supports acetylcholine synthesis, cognitive function, and may enhance growth
   hormone release during exercise.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Alpha-GPC
 type: supplement
-updated: '2026-04-30T06:31:04.241094Z'
+updated: '2026-05-08T08:21:34.273556Z'
 ---
 
 {% raw %}
@@ -32,7 +32,7 @@ updated: '2026-04-30T06:31:04.241094Z'
 <p>300-600mg daily for cognitive; 600-1200mg for athletic</p>
 <h2>Relationships</h2>
 <h3>Modulates Neurotransmitter</h3>
-<p>MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">Acetylcholine</a></p>
+<p>MODULATES_NEUROTRANSMITTER::<a href="/entities/neurotransmitter/acetylcholine/" class="internal-link">Acetylcholine</a></p>
 <h3>May Improve Condition</h3>
 <p>MAY_IMPROVE_CONDITION::<a href="/entities/condition/alzheimers-disease/" class="internal-link">Alzheimer's Disease</a><br />
 MAY_IMPROVE_CONDITION::<a href="/entities/condition/cognitive-dysfunction/" class="internal-link">Cognitive Dysfunction</a><br />

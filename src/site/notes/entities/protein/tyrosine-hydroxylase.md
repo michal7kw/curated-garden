@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:04.069539Z'
+created: '2026-05-08T08:21:34.194645Z'
 description: Rate-limiting enzyme in catecholamine biosynthesis, catalyzing the hydroxylation
   of L-Tyrosine to L-DOPA. Requires iron (Fe2+) and tetrahydrobiopterin (BH4) as essential
   cofactors. Regulated by phosphorylation-dependent activation and end-product feedback
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: Tyrosine Hydroxylase
 type: protein
-updated: '2026-04-30T06:31:04.069539Z'
+updated: '2026-05-08T08:21:34.194645Z'
 ---
 
 {% raw %}
@@ -68,9 +68,9 @@ updated: '2026-04-30T06:31:04.069539Z'
 </ul>
 <h2>Relationships</h2>
 <h3>Related</h3>
-<p>RELATED::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
+<p>RELATED::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
 RELATED::<a class="internal-link is-unresolved" href="/404">Parkinsons_Disease</a><br />
-RELATED::<a class="internal-link is-unresolved" href="/404">Norepinephrine</a></p>
+RELATED::<a href="/entities/neurotransmitter/norepinephrine/" class="internal-link">Norepinephrine</a></p>
 <h3>Requires Cofactor</h3>
 <p>REQUIRES_COFACTOR::<a href="/entities/supplement/iron/" class="internal-link">Iron</a><br />
 REQUIRES_COFACTOR::<a class="internal-link is-unresolved" href="/404">Tetrahydrobiopterin</a></p>
@@ -81,9 +81,9 @@ REQUIRES_COFACTOR::<a class="internal-link is-unresolved" href="/404">Tetrahydro
 <h3>Participates In Pathway</h3>
 <p>PARTICIPATES_IN_PATHWAY::<a href="/entities/pathway/dopamine-synthesis/" class="internal-link">Dopamine_Synthesis</a></p>
 <h3>Affects Organ</h3>
-<p>AFFECTS_ORGAN::<a href="/entities/anatomy/substantia-nigra/" class="internal-link">Substantia_Nigra</a><br />
-AFFECTS_ORGAN::<a href="/entities/anatomy/ventral-tegmental-area/" class="internal-link">Ventral_Tegmental_Area</a><br />
-AFFECTS_ORGAN::<a href="/entities/anatomy/locus-coeruleus/" class="internal-link">Locus_Coeruleus</a></p>
+<p>AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Substantia_Nigra</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Ventral_Tegmental_Area</a><br />
+AFFECTS_ORGAN::<a class="internal-link is-unresolved" href="/404">Locus_Coeruleus</a></p>
 <h3>Produces</h3>
 <p>PRODUCES::<a class="internal-link is-unresolved" href="/404">L-DOPA</a></p>
 <h2>References</h2>

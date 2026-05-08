@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.815133Z'
+created: '2026-05-08T08:21:32.715242Z'
 description: The primary female sex hormone group, essential for reproductive health,
   bone density, cardiovascular health, and cognitive function. Also present and vital
   in males.
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Estrogen
 type: hormone
-updated: '2026-04-30T06:31:00.815133Z'
+updated: '2026-05-08T08:21:32.715242Z'
 ---
 
 {% raw %}
@@ -32,8 +32,8 @@ RELATED::<a href="/entities/hormone/oxytocin/" class="internal-link">Oxytocin</a
 <p>AFFECTS_ORGAN::<a href="/entities/organ/heart/" class="internal-link">Heart</a><br />
 AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 <h3>Affects Brain Region</h3>
-<p>AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/hippocampus/" class="internal-link">Hippocampus</a><br />
-AFFECTS_BRAIN_REGION::<a href="/entities/anatomy/prefrontal-cortex/" class="internal-link">Prefrontal Cortex</a></p>
+<p>AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Hippocampus</a><br />
+AFFECTS_BRAIN_REGION::<a class="internal-link is-unresolved" href="/404">Prefrontal Cortex</a></p>
 <h3>Associated With Condition</h3>
 <p>ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/osteoporosis/" class="internal-link">Osteoporosis</a><br />
 ASSOCIATED_WITH_CONDITION::<a href="/entities/condition/pcos/" class="internal-link">PCOS</a><br />

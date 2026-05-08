@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:04.579721Z'
+created: '2026-05-08T08:21:34.411166Z'
 description: Essential mineral involved in over 300 enzymatic reactions, including
   energy metabolism, protein synthesis, muscle and nerve function, blood glucose control,
   and blood pressure regulation. Nearly two-thirds of the Western population does
@@ -23,7 +23,7 @@ tags:
 templateEngineOverride: njk
 title: Magnesium
 type: supplement
-updated: '2026-04-30T06:31:04.579721Z'
+updated: '2026-05-08T08:21:34.411166Z'
 ---
 
 {% raw %}

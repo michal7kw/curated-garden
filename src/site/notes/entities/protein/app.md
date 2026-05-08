@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.728323Z'
+created: '2026-05-08T08:21:34.043351Z'
 description: The APP gene encodes the Amyloid-Beta Precursor Protein, an integral
   transmembrane protein concentrated in the synapses of neurons. Proteolytic cleavage
   of APP generates the highly neurotoxic amyloid beta (Aβ) peptides that form the
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: APP
 type: protein
-updated: '2026-04-30T06:31:03.728323Z'
+updated: '2026-05-08T08:21:34.043351Z'
 ---
 
 {% raw %}

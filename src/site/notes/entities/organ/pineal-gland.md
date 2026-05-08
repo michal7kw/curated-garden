@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:03.110782Z'
+created: '2026-05-08T08:21:33.762846Z'
 description: Small endocrine gland in the epithalamus responsible for producing melatonin
   and regulating circadian rhythms.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Pineal Gland
 type: organ
-updated: '2026-04-30T06:31:03.110782Z'
+updated: '2026-05-08T08:21:33.762846Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:58.060792Z'
+created: '2026-05-08T08:21:31.890981Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/testosterone-free/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Testosterone Free
 type: biomarker
-updated: '2026-04-30T06:30:58.060792Z'
+updated: '2026-05-08T08:21:31.890981Z'
 ---
 
 {% raw %}

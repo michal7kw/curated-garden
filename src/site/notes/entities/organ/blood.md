@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:02.988857Z'
+created: '2026-05-08T08:21:33.695455Z'
 description: Fluid connective tissue transporting oxygen, nutrients, hormones, and
   waste products throughout the body. Contains red cells, white cells, platelets,
   and plasma.
@@ -12,7 +12,7 @@ tags:
 templateEngineOverride: njk
 title: Blood
 type: organ
-updated: '2026-04-30T06:31:02.988857Z'
+updated: '2026-05-08T08:21:33.695455Z'
 ---
 
 {% raw %}

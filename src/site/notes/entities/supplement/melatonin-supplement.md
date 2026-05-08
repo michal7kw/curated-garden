@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:04.596039Z'
+created: '2026-05-08T08:21:34.430963Z'
 description: Melatonin is a naturally occurring indoleamine hormone synthesized from
   tryptophan in the pineal gland, primarily secreted during darkness to regulate the
   sleep-wake cycle. As a supplement, exogenous melatonin is one of the most well-studied
@@ -25,7 +25,7 @@ tags:
 templateEngineOverride: njk
 title: Melatonin Supplement
 type: supplement
-updated: '2026-04-30T06:31:04.596039Z'
+updated: '2026-05-08T08:21:34.430963Z'
 ---
 
 {% raw %}
@@ -182,7 +182,7 @@ updated: '2026-04-30T06:31:04.596039Z'
 <h3>Related</h3>
 <p>RELATED::<a href="/entities/supplement/l-theanine/" class="internal-link">L-Theanine</a><br />
 MODULATES_HORMONE::<a href="/entities/hormone/melatonin/" class="internal-link">Melatonin</a><br />
-MODULATES_NEUROTRANSMITTER::<a class="internal-link is-unresolved" href="/404">GABA</a><br />
+MODULATES_NEUROTRANSMITTER::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
 RELATED::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a><br />
 RELATED::<a href="/entities/supplement/glycine/" class="internal-link">Glycine</a></p>
 <h3>Interacts With</h3>
@@ -194,7 +194,7 @@ RELATED::<a href="/entities/supplement/glycine/" class="internal-link">Glycine</
 AFFECTS_ORGAN::<a href="/entities/organ/brain/" class="internal-link">Brain</a></p>
 <h3>Synergistic With</h3>
 <p>SYNERGISTIC_WITH::<a href="/entities/supplement/l-theanine/" class="internal-link">L-Theanine</a><br />
-SYNERGISTIC_WITH::<a class="internal-link is-unresolved" href="/404">GABA</a><br />
+SYNERGISTIC_WITH::<a href="/entities/supplement/gaba/" class="internal-link">GABA</a><br />
 SYNERGISTIC_WITH::<a href="/entities/supplement/glycine/" class="internal-link">Glycine</a><br />
 SYNERGISTIC_WITH::<a href="/entities/supplement/magnesium/" class="internal-link">Magnesium</a></p>
 <h3>Mimics</h3>

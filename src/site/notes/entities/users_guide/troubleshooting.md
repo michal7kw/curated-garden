@@ -1,7 +1,7 @@
 ---
 aliases:
 - 14_Troubleshooting
-created: '2026-04-30T06:31:05.232332Z'
+created: '2026-05-08T08:21:34.702583Z'
 description: Common issues with connections, sync, plugin, and the web dashboard —
   plus FAQ
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Troubleshooting
 type: users_guide
-updated: '2026-04-30T06:31:05.232332Z'
+updated: '2026-05-08T08:21:34.702583Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:58.776897Z'
+created: '2026-05-08T08:21:32.093630Z'
 description: Pain persisting beyond normal tissue healing time (typically > 3 months),
   driven by central sensitization and neuroplastic changes rather than ongoing tissue
   damage.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Chronic Pain
 type: condition
-updated: '2026-04-30T06:30:58.776897Z'
+updated: '2026-05-08T08:21:32.093630Z'
 ---
 
 {% raw %}

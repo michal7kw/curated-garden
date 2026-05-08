@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:58.854907Z'
+created: '2026-05-08T08:21:32.119577Z'
 description: Idiopathic inflammatory myopathy with proximal muscle weakness and pathognomonic
   skin findings (heliotrope rash, Gottron papules). Complement-mediated microangiopathy.
   Associated with increased malignancy risk in adults over 40.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Dermatomyositis
 type: condition
-updated: '2026-04-30T06:30:58.854907Z'
+updated: '2026-05-08T08:21:32.119577Z'
 ---
 
 {% raw %}

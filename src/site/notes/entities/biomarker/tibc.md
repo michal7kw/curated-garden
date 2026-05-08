@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:58.076629Z'
+created: '2026-05-08T08:21:31.895033Z'
 dg-home: false
 dg-publish: true
 permalink: /entities/biomarker/tibc/
@@ -9,7 +9,7 @@ tags:
 templateEngineOverride: njk
 title: Tibc
 type: biomarker
-updated: '2026-04-30T06:30:58.076629Z'
+updated: '2026-05-08T08:21:31.895033Z'
 ---
 
 {% raw %}

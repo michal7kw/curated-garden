@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:59.405114Z'
+created: '2026-05-08T08:21:32.288376Z'
 description: Higher than normal pressure inside the eye (intraocular pressure) without
   signs of glaucoma or optic nerve damage.
 dg-home: false
@@ -14,7 +14,7 @@ tags:
 templateEngineOverride: njk
 title: Ocular Hypertension
 type: condition
-updated: '2026-04-30T06:30:59.405114Z'
+updated: '2026-05-08T08:21:32.288376Z'
 ---
 
 {% raw %}

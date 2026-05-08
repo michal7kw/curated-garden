@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:04.879246Z'
+created: '2026-05-08T08:21:34.541010Z'
 description: Concentrated extract from Prunus cerasus (Montmorency tart cherry) rich
   in anthocyanins and polyphenols that reduce exercise-induced oxidative stress, inflammation,
   and muscle soreness, accelerating recovery from intense exercise.
@@ -16,7 +16,7 @@ tags:
 templateEngineOverride: njk
 title: Tart Cherry Extract
 type: supplement
-updated: '2026-04-30T06:31:04.879246Z'
+updated: '2026-05-08T08:21:34.541010Z'
 ---
 
 {% raw %}

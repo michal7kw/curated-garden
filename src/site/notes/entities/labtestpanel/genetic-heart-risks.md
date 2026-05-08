@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:02.526651Z'
+created: '2026-05-08T08:21:33.329680Z'
 description: 'Identify genetic markers linked to atrial fibrillation, heart attacks,
   strokes, and coronary artery disease to inform personalized heart health strategies.
   These genetic tests help assess the risk of developing serious heart-related conditions,
@@ -20,7 +20,7 @@ tags:
 templateEngineOverride: njk
 title: genetic_heart_risks
 type: labtestpanel
-updated: '2026-04-30T06:31:02.526651Z'
+updated: '2026-05-08T08:21:33.329680Z'
 ---
 
 {% raw %}

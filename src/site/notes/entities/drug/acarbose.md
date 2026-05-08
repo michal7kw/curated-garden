@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:00.016434Z'
+created: '2026-05-08T08:21:32.440780Z'
 description: Alpha-glucosidase inhibitor that slows carbohydrate absorption. Reduces
   postprandial glucose spikes. Studied for longevity due to caloric restriction mimetic
   properties.
@@ -17,7 +17,7 @@ tags:
 templateEngineOverride: njk
 title: Acarbose
 type: drug
-updated: '2026-04-30T06:31:00.016434Z'
+updated: '2026-05-08T08:21:32.440780Z'
 ---
 
 {% raw %}

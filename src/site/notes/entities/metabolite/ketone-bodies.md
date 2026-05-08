@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:02.761409Z'
+created: '2026-05-08T08:21:33.472802Z'
 description: Ketone bodies are a group of three water-soluble metabolites — beta-hydroxybutyrate
   (BHB), acetoacetate (AcAc), and acetone — produced from fatty acid beta-oxidation
   in liver mitochondria during fasting, carbohydrate restriction, prolonged exercise,
@@ -22,7 +22,7 @@ tags:
 templateEngineOverride: njk
 title: Ketone Bodies
 type: metabolite
-updated: '2026-04-30T06:31:02.761409Z'
+updated: '2026-05-08T08:21:33.472802Z'
 ---
 
 {% raw %}

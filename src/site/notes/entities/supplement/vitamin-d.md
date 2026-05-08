@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:31:04.949098Z'
+created: '2026-05-08T08:21:34.575969Z'
 description: Fat-soluble secosteroid hormone precursor essential for calcium absorption,
   immune modulation, gene expression, and neuromuscular function. Deficiency (<30
   ng/mL) affects an estimated 1 billion people worldwide and is linked to osteoporosis,
@@ -18,7 +18,7 @@ tags:
 templateEngineOverride: njk
 title: Vitamin D
 type: supplement
-updated: '2026-04-30T06:31:04.949098Z'
+updated: '2026-05-08T08:21:34.575969Z'
 ---
 
 {% raw %}

@@ -1,5 +1,5 @@
 ---
-created: '2026-04-30T06:30:58.596061Z'
+created: '2026-05-08T08:21:32.039332Z'
 description: A neurodevelopmental disorder characterized by persistent patterns of
   inattention, hyperactivity, and impulsivity that interfere with functioning or development.
 dg-home: false
@@ -15,7 +15,7 @@ tags:
 templateEngineOverride: njk
 title: Attention Deficit Hyperactivity Disorder
 type: condition
-updated: '2026-04-30T06:30:58.596061Z'
+updated: '2026-05-08T08:21:32.039332Z'
 ---
 
 {% raw %}
@@ -45,7 +45,7 @@ updated: '2026-04-30T06:30:58.596061Z'
 <p>ASSOCIATED_WITH::<a href="/entities/labtest/ferritin/" class="internal-link">ferritin</a><br />
 ASSOCIATED_WITH::<a href="/entities/supplement/zinc/" class="internal-link">Zinc</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/magnesium-rbc/" class="internal-link">Magnesium Rbc</a><br />
-ASSOCIATED_WITH::<a class="internal-link is-unresolved" href="/404">Dopamine</a><br />
+ASSOCIATED_WITH::<a href="/entities/neurotransmitter/dopamine/" class="internal-link">Dopamine</a><br />
 ASSOCIATED_WITH::<a href="/entities/labtest/omega3-index/" class="internal-link">Omega3 Index</a></p>
 <h3>Improved By Supplement</h3>
 <p>IMPROVED_BY_SUPPLEMENT::<a href="/entities/supplement/omega-3-fatty-acids/" class="internal-link">Omega-3 Fatty Acids</a><br />
