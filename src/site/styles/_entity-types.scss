@@ -27,7 +27,20 @@ $entity-colors: (
   labtestpanel: #4F46E5,   // Indigo (lighter)
   pathway: #10B981,        // Green (lighter)
   phenotype: #D946EF,      // Purple
-  research: #475569        // Blue-gray (lighter)
+  research: #475569,       // Blue-gray (lighter)
+  // Added 2026-05-11 — entity types present in curated_kg/entities/ but
+  // previously missing from the garden palette. Colors align with the
+  // Obsidian graph.json (curated_kg/.obsidian/graph.json) so users see
+  // consistent coloring across local authoring view and published web view.
+  food: #EAB308,           // Yellow — culinary/dietary
+  nutrient: #FBBF24,       // Amber — sibling to food
+  vaccine: #38BDF8,        // Sky — clinical, lighter than labtest
+  sideeffect: #EF4444,     // Red — adverse/warning
+  variant: #A78BFA,        // Violet (lighter) — genetic variation
+  microbe: #65A30D,        // Lime (darker) — biological
+  exposure: #71717A,       // Zinc — environmental, neutral
+  healthstack: #DB2777,    // Pink (darker) — protocol/combination
+  clinicalscale: #0891B2   // Cyan (darker) — measurement scale
 );
 
 // Entity icons using emoji
@@ -52,7 +65,17 @@ $entity-icons: (
   labtestpanel: "📋",
   pathway: "🔀",
   phenotype: "👤",
-  research: "📚"
+  research: "📚",
+  // Added 2026-05-11 — see comment in $entity-colors above.
+  food: "🍎",
+  nutrient: "🥗",
+  vaccine: "💉",
+  sideeffect: "⚠️",
+  variant: "🧩",
+  microbe: "🦠",
+  exposure: "🌫️",
+  healthstack: "🧰",
+  clinicalscale: "📏"
 );
 
 // =============================================================================
